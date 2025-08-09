@@ -44,22 +44,9 @@ def chat_complete(*, model: str, messages, **kwargs) -> str:
             kwargs["max_completion_tokens"] = kwargs.pop("max_tokens")
 
     if _new_sdk:
-        # New SDK
-        try:
-            resp = _client.chat.completions.create(model=model, messages=messages, **kwargs)
-            return resp.choices[0].message.content or ""
-        except Exception as e:
-            # If GPT-5 fails, fallback to GPT-4
-            if "gpt-5" in model and "does not exist" in str(e):
-                print(f"GPT-5 not available, falling back to gpt-4o-2024-08-06")
-                kwargs["model"] = "gpt-4o-2024-08-06"
-                # Switch back to max_tokens for GPT-4
-                if "max_completion_tokens" in kwargs:
-                    kwargs["max_tokens"] = kwargs.pop("max_completion_tokens")
-                kwargs["temperature"] = kwargs.get("temperature", 0.2)
-                resp = _client.chat.completions.create(model="gpt-4o-2024-08-06", messages=messages, **kwargs)
-                return resp.choices[0].message.content or ""
-            raise
+        # New SDK - no fallback, use GPT-5 models only
+        resp = _client.chat.completions.create(model=model, messages=messages, **kwargs)
+        return resp.choices[0].message.content or ""
     else:
         # Legacy SDK
         resp = _client.ChatCompletion.create(model=model, messages=messages, **kwargs)

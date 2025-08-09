@@ -45,9 +45,9 @@ Include:
 Output one query per line, no numbering or bullets."""
 
     try:
-        # Use GPT-4 mini for expansion since GPT-5 may not exist
+        # Use GPT-5-mini for query expansion (fast and cheap)
         response = chat_complete_fn(
-            model="gpt-4o-mini",
+            model="gpt-5-mini",
             messages=[
                 {"role": "system", "content": system_prompt},
                 {"role": "user", "content": user_prompt}

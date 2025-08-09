@@ -1,0 +1,612 @@
+{
+  "schema_version": "1.0.0",
+  "source": {
+    "document_id": "Transthoracic Needle Biopsy",
+    "book_title": "Principles and Practice of Interventional Pulmonology",
+    "publisher": "Springer Nature Switzerland AG",
+    "isbn13": "978-3-031-49583-0",
+    "chapter_number": "34",
+    "source_url": "https://doi.org/10.1007/978-3-031-49583-0_34",
+    "file_sha256": "2838866f760193a1d52e703aca37640e98826cc21d23835755c281c3c2e47cfe",
+    "license": "All rights reserved",
+    "rights_holder": "Springer Nature Switzerland AG",
+    "access": "institutional"
+  },
+  "document": {
+    "chapter_title": "Transthoracic Needle Biopsy",
+    "authors": [
+      "Author Name"
+    ]
+  },
+  "structure": {
+    "toc_path": [],
+    "section_tree": [
+      {
+        "id": "sec1",
+        "title": "Introduction............................................................................................. 2",
+        "level": 1,
+        "page_start": "?",
+        "page_end": "?",
+        "children": []
+      },
+      {
+        "id": "sec2",
+        "title": "IndicationsforCT-GuidedLungBiopsy.............................................................. 2",
+        "level": 1,
+        "page_start": "?",
+        "page_end": "?",
+        "children": []
+      },
+      {
+        "id": "sec3",
+        "title": "PatientSelectionandContraindications.............................................................. 2",
+        "level": 1,
+        "page_start": "?",
+        "page_end": "?",
+        "children": []
+      },
+      {
+        "id": "sec4",
+        "title": "Pre-procedurePreparation............................................................................. 4",
+        "level": 1,
+        "page_start": "?",
+        "page_end": "?",
+        "children": [
+          {
+            "id": "sec4_1",
+            "title": "PatientEvaluationandConsent.......................................................................... 4",
+            "level": 2,
+            "page_start": "?",
+            "page_end": "?",
+            "children": []
+          },
+          {
+            "id": "sec4_2",
+            "title": "Pre-procedureImaging................................................................................... 4",
+            "level": 2,
+            "page_start": "?",
+            "page_end": "?",
+            "children": []
+          },
+          {
+            "id": "sec4_3",
+            "title": "Pre-procedureLabs....................................................................................... 4",
+            "level": 2,
+            "page_start": "?",
+            "page_end": "?",
+            "children": []
+          },
+          {
+            "id": "sec4_4",
+            "title": "PreparationofEquipmentandPersonnel................................................................ 5",
+            "level": 2,
+            "page_start": "?",
+            "page_end": "?",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "sec5",
+        "title": "PerformingaCT-GuidedBiopsy...................................................................... 5",
+        "level": 1,
+        "page_start": "?",
+        "page_end": "?",
+        "children": [
+          {
+            "id": "sec5_1",
+            "title": "CTImagingTechniques.................................................................................. 5",
+            "level": 2,
+            "page_start": "?",
+            "page_end": "?",
+            "children": []
+          },
+          {
+            "id": "sec5_2",
+            "title": "PatientPositionandCooperation........................................................................ 5",
+            "level": 2,
+            "page_start": "?",
+            "page_end": "?",
+            "children": []
+          },
+          {
+            "id": "sec5_3",
+            "title": "Sedation................................................................................................... 5",
+            "level": 2,
+            "page_start": "?",
+            "page_end": "?",
+            "children": []
+          },
+          {
+            "id": "sec5_4",
+            "title": "NeedleTypesandSelection.............................................................................. 6",
+            "level": 2,
+            "page_start": "?",
+            "page_end": "?",
+            "children": []
+          },
+          {
+            "id": "sec5_5",
+            "title": "Step-by-StepProcedure.................................................................................. 7",
+            "level": 2,
+            "page_start": "?",
+            "page_end": "?",
+            "children": []
+          },
+          {
+            "id": "sec5_6",
+            "title": "SpecimenHandlingandProcessing..................................................................... 8",
+            "level": 2,
+            "page_start": "?",
+            "page_end": "?",
+            "children": []
+          },
+          {
+            "id": "sec5_7",
+            "title": "Post-ProcedureCare...................................................................................... 8",
+            "level": 2,
+            "page_start": "?",
+            "page_end": "?",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "sec6",
+        "title": "DiagnosticYieldandAccuracy........................................................................ 8",
+        "level": 1,
+        "page_start": "?",
+        "page_end": "?",
+        "children": []
+      },
+      {
+        "id": "sec7",
+        "title": "SafetyandComplications.............................................................................. 9",
+        "level": 1,
+        "page_start": "?",
+        "page_end": "?",
+        "children": [
+          {
+            "id": "sec7_1",
+            "title": "Pneumothorax............................................................................................ 9",
+            "level": 2,
+            "page_start": "?",
+            "page_end": "?",
+            "children": []
+          },
+          {
+            "id": "sec7_2",
+            "title": "Bleeding.................................................................................................. 10",
+            "level": 2,
+            "page_start": "?",
+            "page_end": "?",
+            "children": []
+          },
+          {
+            "id": "sec7_3",
+            "title": "AirEmbolism............................................................................................. 10",
+            "level": 2,
+            "page_start": "?",
+            "page_end": "?",
+            "children": []
+          },
+          {
+            "id": "sec7_4",
+            "title": "NeedleTractMetastasis.................................................................................. 11",
+            "level": 2,
+            "page_start": "?",
+            "page_end": "?",
+            "children": []
+          },
+          {
+            "id": "sec7_5",
+            "title": "Pain....................................................................................................... 11",
+            "level": 2,
+            "page_start": "?",
+            "page_end": "?",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "sec8",
+        "title": "AdvancesandInnovationsinTransthoracicNeedleBiopsy........................................ 11",
+        "level": 1,
+        "page_start": "?",
+        "page_end": "?",
+        "children": []
+      },
+      {
+        "id": "sec9",
+        "title": "Conclusion............................................................................................... 14",
+        "level": 1,
+        "page_start": "?",
+        "page_end": "?",
+        "children": []
+      }
+    ]
+  },
+  "content": {
+    "text_units": [
+      {
+        "id": "p1_1",
+        "unit_type": "paragraph",
+        "section_id": "auto",
+        "order": 1,
+        "text": "Transthoracic Needle Biopsy Abdul Rehman Mustafa and Clifford R. Weiss Contents 1 Introduction............................................................................................. 2 2 IndicationsforCT-GuidedLungBiopsy.............................................................. 2 3 PatientSelectionandContraindications.............................................................. 2 4 Pre-procedurePreparation............................................................................. 4 4.1 PatientEvaluationandConsent.......................................................................... 4 4.2 Pre-procedureImaging................................................................................... 4 4.3 Pre-procedureLabs....................................................................................... 4 4.4 PreparationofEquipmentandPersonnel................................................................ 5 5 PerformingaCT-GuidedBiopsy...................................................................... 5 5.1 CTImagingTechniques.................................................................................. 5 5.2 PatientPositionandCooperation........................................................................ 5 5.3 Sedation................................................................................................... 5 5.4 NeedleTypesandSelection.............................................................................. 6 5.5 Step-by-StepProcedure.................................................................................. 7 5.6 SpecimenHandlingandProcessing..................................................................... 8 5.7 Post-ProcedureCare...................................................................................... 8 6 DiagnosticYieldandAccuracy........................................................................ 8 7 SafetyandComplications.............................................................................. 9 7.1 Pneumothorax............................................................................................ 9 7.2 Bleeding.................................................................................................. 10 7.3 AirEmbolism............................................................................................. 10 7.4 NeedleTractMetastasis.................................................................................. 11 7.5 Pain....................................................................................................... 11 8 AdvancesandInnovationsinTransthoracicNeedleBiopsy........................................ 11 9 Conclusion............................................................................................... 14 References...................................................................................................... 14 Abstract increasingly sophisticated, safer, and more accurate. This chapter provides an overview of the indications, patient Transthoracic needle biopsy (TTNB), most commonly selection, procedural techniques, periprocedural care, performed as a CT-guided lung biopsy, is a critical tool potential complications, and technological innovations in in evaluating pulmonary nodules and masses. Over time, CT-guidedlungbiopsy. this minimally invasive procedure has become ✉ Keywords A.R.Mustafa·C.R.Weiss( ) DepartmentofRadiology,DivisionofInterventionalRadiology,Johns Image-guidedbiopsy·CT-guidedbiopsy·Transthoracic HopkinsUniversitySchoolofMedicine,Baltimore,MD,USA needlebiopsy·Lungbiopsy·Interventionalradiology· e-mail:amustaf9@jhmi.edu;cweiss@jhmi.edu ©SpringerNatureSwitzerlandAG2025 1 L.Yarmusetal.(eds.),PrinciplesandPracticeofInterventionalPulmonology, https://doi.org/10.1007/978-3-031-49583-0_29-1",
+        "tokens": 206,
+        "page_range": [
+          "1"
+        ],
+        "provenance": {
+          "page": "1",
+          "paragraph_index": 1
+        }
+      },
+      {
+        "id": "p2_1",
+        "unit_type": "paragraph",
+        "section_id": "auto",
+        "order": 1,
+        "text": "2 A.R.MustafaandC.R.Weiss Interventionalpulmonology·Imagingtechniques· be accessed by bronchoscopy. With the increasing use of Biopsytechniques imaging, including routine chest x-rays as well as low-dose CTfor lung cancer screening,an increasing numberof incidental pulmonary nodules are being detected in patients at 1 Introduction highriskformalignancy.Biopsyoftheselesionsiscriticalto differentiatebenignfrommalignantlesionsand,ifmalignant, Transthoracicneedlebiopsy(TTNB)isaminimallyinvasive to perform histopathologic and molecular analyses to guide technique that can be used to obtain specimens percutane- treatment strategies. Multiple factors must be considered ously from lesions in the lungs, pleura, mediastinum, and before performing a biopsy, including lesion characteristics chest wall. TTNB has a long history, with the first recorded (e.g., size, shape, location, and growth) and clinical factors casesdatingbacktothe1880s.Sincethen,theprocedurehas (e.g., smoking history and family history of lung cancer) progressively become more sophisticated, safer, and more [3,4]. accuratewithcontinuoustechnologicaladvancementsinnee- TTNB is also helpful for evaluating benign diseases, dledevices,imaging,andcellularpathology[1]. including infectious, granulomatous, and inflammatory proTTNB is an important procedure in the diagnosis of tho- cesses such as tuberculosis and sarcoidosis. Figure 3 illusracic diseases, particularly malignancies, but also infections tratesseveralcommonindicationsofTTNB.Thefollowingis and other inflammatory diseases. It is a key alternative to anon-exhaustivelistofcommonindicationsforpercutaneous surgical and bronchoscopic biopsy techniques. Key consid- lungbiopsy[5]. erationsforthechoiceofbiopsymethodincludeavailability, lesioncharacteristics,diagnosticyieldandaccuracy,compli- 1. Differentiatingbenignandmalignantlesions cationrisks,andpatientpreference. 2. IdentifyingtheprimarymalignancyinpatientswithextraCurrently, TTNB is performed under real-time image pulmonarycancer guidance. The most commonly used imaging modality is 3. Stagingcancer computedtomography(CT—Fig.1),followedbyultrasound 4. Acquiring tissue for molecular analysis to determine (US—Fig. 2) in certain cases and, more rarely, magnetic appropriatetreatmentandprognosis resonance imaging (MRI). This chapter focuses on 5. Acquiring specimens for microbiologic analysis in the CT-guided TTNB of the lung because that is the most com- settingofknownorsuspectedinfection mon procedure. However, many of the same principles and 6. Diagnosingparenchymallungdiseases techniques apply to other TTNB sites and imaging 7. Assessingresponsetotherapy modalities. 8. Research 2 Indications for CT-Guided Lung Biopsy 3 Patient Selection and Contraindications The most common indication for CT-guided transthoracic InorderforlungTTNBtobeperformedsuccessfully,patients needle biopsy (TTNB) of the lung is for the diagnosis of mustbeappropriatelyselectedbasedonanumberofcriteria pulmonarynodulesandmasses,includinglesionsthatcannot as described below. Further, lesion characteristics must also Fig.1 CT-guidedlungbiopsy.AxialimagesduringCT-guidedbiopsyofasolitarysubpleuralnoduleshowthehyperdenseneedle(redarrowheads) advancingintothelesion(whitearrowheads).(AdaptedfromAnzideietal.[2],licensedunderCCBY4.0)",
+        "tokens": 412,
+        "page_range": [
+          "2"
+        ],
+        "provenance": {
+          "page": "2",
+          "paragraph_index": 1
+        }
+      },
+      {
+        "id": "p3_1",
+        "unit_type": "paragraph",
+        "section_id": "auto",
+        "order": 1,
+        "text": "TransthoracicNeedleBiopsy 3 beconsideredpriortodeterminingiflungTTNBisoptimal. considered. In frail patients with multiple comorbidities or For example, larger and peripheral lesions are better candi- poorlungfunction,thebenefitsofabiopsymaynotoutweigh datesforlungTTNBcomparedtosmallerorcentrallesions. the risks. This is especially true if the results of the biopsy Inaddition,thelesionshouldbeaccessiblepercutaneously. wouldnotalterthetreatmentplan. The patient’s overall health, ability to tolerate potential The patient should be able to follow instructions, remain complications,andclinicalindicationofbiopsymustalsobe still during and after the procedure, and hold their breath if needed.Displacementoftheneedleduetopatientmovement can reduce accuracy and increase the risk of complications. The patient should also be able to maintain the required positionfortheprocedure[4,6]. Uncorrectable coagulopathy is the main contraindication for CT-guided lung biopsy. The Society of Interventional Radiology guidelines consider lung biopsy to be a high-risk procedureforbleeding[7].Thus,anINR<1.5andaplatelet count >50,000/μL are recommended, and anticoagulation shouldbestoppedpriortotheprocedure.Patientswhocannot stop daily low-dose aspirin can still undergo a lung biopsy, though a higher platelet count threshold (>100,000/μL) is advised.[4] Relative contraindications for CT-guided lung biopsy include small lesions <1 cm that are located deep within the lung, lesions located near major vessels or airways, and severe emphysema in the biopsy region. Severe pulmonary hypertension and oxygen dependence are also relative contraindications[4]. Fig. 2 Ultrasound-guided biopsy. The tip of the hyperechoic biopsy needle(redarrowheads)isembeddedinapulmonarynoduleintheright lowerlobe.(AdaptedfromAnzideietal.[2],licensedunderCCBY4.0) Fig.3 Indicationsfor transthoracicneedlebiopsy,as seenonaxiallungCT.(a)Solitary pulmonarynodule.(b) Parenchymalinfiltratesinwhich aninfectiousorganismcannotbe isolated.(c)Hilarmassfollowing negativebronchoscopy.(d) Undiagnosedmediastinalmass. (AdaptedfromAnzideietal.[2], licensedunderCCBY4.0)",
+        "tokens": 262,
+        "page_range": [
+          "3"
+        ],
+        "provenance": {
+          "page": "3",
+          "paragraph_index": 1
+        }
+      },
+      {
+        "id": "p4_1",
+        "unit_type": "paragraph",
+        "section_id": "auto",
+        "order": 1,
+        "text": "4 A.R.MustafaandC.R.Weiss 4 Pre-procedure Preparation On pre-procedure imaging, the lesion’s relationship to surroundingstructures,suchasmajorbloodvessels,airways, Pre-procedure preparation is crucial for the success of a andthepleurashouldbeassessed.Anideallesiontotargetis CT-guided lung biopsy. This includes appropriate clinical, large,growing, and peripherally located. However, a biopsy laboratory, and imaging evaluation of the patient, obtaining of small and complex lesions can also be performed with informed consent, and ensuring availability of necessary careful planning. If needed, a high-resolution CT can be equipmentandpersonnel. performedforvisualizationandtargeting. If a pre-procedure PETscan is available, areas with high fluorodeoxyglucose (FDG) uptake should be targeted to 4.1 Patient Evaluation and Consent avoid necrotic areas, which often contain inadequate viable tissueforanalysis[3]. Detailed clinical evaluation of the patient must be undertaken, including history of smoking, prior surgeries, lung diseases, bleeding disorders, and anticoagulant and anti- 4.3 Pre-procedure Labs plateletuse.Anticoagulantsandantiplateletsshouldtypically bewithheldpriortotheprocedure,dependingonthehalf-life A coagulation profile consisting of prothrombin time (PT), of the medication and its original indication, with consulta- international normalized ratio (INR), and partial thrombotionwithotherphysiciansasnecessary. plastin time (PTT), as well as a complete blood count As with any procedure, obtaining informed consent is (CBC)shouldbeobtainedpriortotheprocedure. essential.Theproceduremustbeexplainedindetail,includ- Procedural coagulation guidelines may vary across instiing the indication, risks, benefits, and alternative biopsy tutions,butgenerallyanINR<1.5isacceptableforproceedtechniques.Potentialcomplications that shouldbeexplicitly ingwithaCT-guidedlungbiopsy.Dependingonthetypeof discussedincluderiskofpneumothoraxandbleeding. anticoagulantapatientmighthavebeenreceiving,additional coagulationtestsmayberequired.Inpatientswithabnormal coagulation profiles, correction with the appropriate agent 4.2 Pre-procedure Imaging maybenecessary,followedbyrepeatconfirmatorylabs. On CBC, thrombocytopenia can reveal bleeding risk. If Contrast-enhanced CTshouldbeobtainedprior to the biopsy, anemia is present, the degree of anemia could indicate the andserialimagingshouldbereviewedwheneverpossible.This patient’s tolerance for a bleeding complication if it occurs. can reveal whether lesions are growing, stable, or shrinking; Labs should be interpreted and acted upon within the indigrowinglesionsaregenerallybettertargets.Imagingcanreveal vidualpatient’sclinicalcontext. necrotic areas within a lesion, and these areas should be Thus, a pre-procedure coagulation profile and CBC are avoided during biopsy (Fig.4). Contrast CTcanalso rule out necessarytoassessphysiologicalreadinessforthebiopsyand alesionasavascularmalformationorhydatidcyst,forwhich potential complications, and help inform the correction of biopsyisabsolutelycontraindicatedduetoriskofbleedingand anydisorders,ifpresent[4]. severeallergicreaction,respectively[3,6]. Fig.4 Necroticareas,typically centrallylocatedinmalignant lesions,shouldbeavoided,and viabletissueintheperiphery shouldbetargetedinstead. (AdaptedfromRiceetal.[8],with permissionfromSpringerNature)",
+        "tokens": 399,
+        "page_range": [
+          "4"
+        ],
+        "provenance": {
+          "page": "4",
+          "paragraph_index": 1
+        }
+      },
+      {
+        "id": "p5_1",
+        "unit_type": "paragraph",
+        "section_id": "auto",
+        "order": 1,
+        "text": "TransthoracicNeedleBiopsy 5 4.4 PreparationofEquipmentandPersonnel biopsy to assess for complications. For select lesions, IV contrast can be used to better delineate vessels, although PriortoaCT-guidedlungbiopsy,itisimportanttoensurethat mostproceduresarecompletedwithoutcontrast.[4,10] aCTscanner,appropriateneedles,andallnecessarysupplies fortheprocedureandpotentialcomplicationmanagementare available,suchaschesttubedrainagekitsforpneumothorax. 5.2 Patient Position and Cooperation A plan to address potential bleeding complications should alsobeestablished.Theteamshouldbeabletocontinuously Thekeyconsiderationsforpatientpositioningaresafeaccess monitor thepatient’sbreathingandvitalsignsandensureas tothelesionandthepatient’stoleranceofthepositionforthe muchcomfortaspossiblethroughouttheprocedure. procedure’s duration. Supine, prone, and lateral decubitus positionsmayallbeused. Thelateraldecubituspositionshouldgenerallybeavoided 5 Performing a CT-Guided Biopsy if possible, because it is more challenging for patients to maintain and involves greater chest wall motion. The ideal 5.1 CT Imaging Techniques position is prone as it allows a posterior approach, which is technicallyfavorablesincetheposteriorintercostalspacesare CT is the cornerstone of image guidance for transthoracic widerandtheleastmobile.Additionally,patientscannotsee needle biopsy (TTNB). Appropriate use of intraprocedural the needles when prone, which may help reduce anxiety. imagingiscrucialtothesuccessofaCT-guidedlungbiopsy. Since post-procedure recovery should keep the biopsied CTprovidesreal-timefeedbackandenablespreciseposition- lung in a dependent position to reduce pneumothorax risk, ing and adjustment of the needle throughout the procedure. performingthebiopsyproneallowsforrecoveryinasupine BecauseCTprovidesacross-sectional view(unlikefluoros- position,whichmaybemorecomfortable.Nevertheless,the copy), it allows the operator to locate lesions in complex prone position may not always be feasible, and the most locations, including those hidden behind bones, and to appropriatepositionshouldalwaysbeselected.[3,4] avoid important adjacent structures more easily. The multi- Patientsshouldbeinstructednottotalkormoveduringthe planar visualization facilitates precise selection of a biopsy procedure and recovery. All efforts should be made to maxipath while minimizing the risk of complications. Addition- mize patient comfort before beginning the procedure. The ally, CT allows for prompt identification of complications biopsysidecanbeelevatedwithwedgesifneeded[4]. like pneumothorax and bleeding during and immediately Breath-holding maneuvers are not mandatory but can be after the biopsy, which are often more challenging to detect helpful in some cases. For tumors >2 cm, free, shallow withUS. breathing may suffice. If needed, especially with smaller At the beginning of the procedure, a focused helical CT lesions,breathholdsatlow-volumeinspirationorexpiration scan with 5-mm slices should be obtained to map out the may be used, accompanied by clear patient instructions needle path. In helical CT, the scanner images the patient [3,4,6]. continuouslyasthepatient movesthroughthescanner,allowing better visualization of key structures. The optimal CT sectionshouldbeidentifiedandmarkedonthepatient’sskin, 5.3 Sedation and the scanner’s laser along with radiopaque markers (Fig.5)canbeusedtoensuretheneedle’sentrypointexactly Local anesthesia at the skin and pleura should always be matchestheoptimalCTsection. administered,typicallyusing1%lidocaine.WhiletheproceSubsequently, the needle is guided throughout the proce- durecanbecompletedusinglocalanesthesiaalone, intravedure using CT fluoroscopy, an intermittent, single-rotation nousmoderatesedationusingshorthalf-lifedrugs(suchasa axialimagingtechniquewithastationarygantry.CTfluoros- combination of midazolam and fentanyl) is also copycanbeoperatedwithapedalnearthegantryandreduces recommended,unlesscontraindicated.Midazolamandfentathepatient’sradiationexposurecomparedwithhelicalCT.It nylshouldbeadministeredalternately,withincrementaldosalso saves time because with appropriate shielding and pro- ing. Moderate sedation provides analgesia, anxiolysis, and tection, the operator and staff can remain in the room. suppressionofthecoughreflexwithfentanyl[4]. Unenhanced 2.5- or 3.0-mm slices are typically adequate Monitored anesthesia care (MAC) may be used if necesfor CT fluoroscopy, which should be performed every time sary,butpositivepressureventilationshouldbeavoideddue the needle is advanced or adjusted. Helical CTs can also be to the risk of air embolus. General anesthesia is rarely used repeated as needed during the procedure and should always forCT-guidedlungbiopsies[4,6]. be performed before removing the needle at the end of the",
+        "tokens": 614,
+        "page_range": [
+          "5"
+        ],
+        "provenance": {
+          "page": "5",
+          "paragraph_index": 1
+        }
+      },
+      {
+        "id": "p6_1",
+        "unit_type": "paragraph",
+        "section_id": "auto",
+        "order": 1,
+        "text": "6 A.R.MustafaandC.R.Weiss Fig.5 CT-guidedcorebiopsyina47-year-oldmanwithpureground- needle entry point. (b) CTscan obtained during biopsy shows needle glassopacity(GGO)lesioninleftupperlobe.(a)CTscanshows10-mm targetingGGOlesion.(c)Histologicdiagnosisofbiopsywasadenocarpure GGO lesion in left upper lobe. Note the radiopaque grid (red cinoma.(H&E,×200).(AdaptedfromLietal.[9],licensedunderCC arrowhead)overthepatient’sskintoassistidentificationoftheoptimal BY4.0) 5.4 Needle Types and Selection FNA is less invasive than core needle biopsy, and the aspirate can be sent for cytological evaluation. However, Selectingtheappropriatebiopsyneedledependsonthepath- the diagnostic yield for FNA may be lower—about 80% ologicalinformationrequired,plannedtrajectory,lesionchar- compared to up to 95% or higher for core needle biopsy in acteristics, and operator preferences. The two primary one study [11]. The biopsy indication and feasibility should categories are aspiration needles for fine needle aspiration guide the choice of biopsy type. Often both FNA and core (FNA)andcuttingneedlesforcoreneedlebiopsy. needle biopsy are performed during lung biopsy. FNA",
+        "tokens": 156,
+        "page_range": [
+          "6"
+        ],
+        "provenance": {
+          "page": "6",
+          "paragraph_index": 1
+        }
+      },
+      {
+        "id": "p7_1",
+        "unit_type": "paragraph",
+        "section_id": "auto",
+        "order": 1,
+        "text": "TransthoracicNeedleBiopsy 7 needlesaretypically20–23gauge,whilecoreneedlebiopsy Theappropriatelengthforallneedlesdependsontheskinneedles are larger, in the 14–20 gauge range, to obtain ade- to-targetdistancealongtheselectedtrajectory.Theintroducer quate tissue to assess structural morphology on histology. needleshouldbeapproximately5cmlongerthantheskin-toFNA needles can be side-cutting or end-cutting. Figure 6 targetdistancetofacilitatemaneuvering[4]. showsexamplesofneedlesthatcanbeusedforlungbiopsy. A coaxial technique should be used for needle insertion. This involves first advancing a larger introducer needle into 5.5 Step-by-Step Procedure the lesion under imaging guidance. Smaller biopsy needles are then passed through the introducer needle’s lumen into ACT-guidedlungbiopsycanbeperformedusingthefollowthe lesion, enabling collection of multiple specimens from a ing steps, with clinical judgment to adapt the technique as single outer needle. The coaxial technique has multiple neededforeachcaseasneeded[3,4,6,10]. advantages.Mostimportantly,itreducesthenumberofpleural punctures, whichdecreasesthechances ofcomplications 1. Afterpositioningandpreparingthepatient,obtainahelisuchaspneumothoraxandhemorrhagefrompenetratingthe calCTtoplanthebiopsypathway.Thepathwayshouldbe pleura multiple times. Notably, while larger introducer free of vessels (internal thoracic (Fig. 7), subclavian, needlescanyieldlargertissuecores,theyalsoincreasebleed- intercostal,andintrapulmonary),fissures,andbullae. ingrisk.Additionally,theintroducerneedleprovidesastable, 2. Administer adequate local anesthesia and sedation as direct pathway each time a needle is inserted or withdrawn appropriate. fromthelesion.Thisalsoreducesproceduretimeandradia- 3. Advance the coaxial/introducer needle into the lesion, tion dose because the primary pathway does not need to be with intermittent CT fluoroscopy to monitor needle locare-establishedwitheveryneedlepass[3,4,10]. tionandtrajectory.Morelidocainemaybegiventhrough theintroducer.Aimforasinglepleuralpuncture.Ifadjustment is needed, attempt to reposition the needle without exitingthepleuratominimizecomplications.Avoidenteringat30°anglesorsmaller. 4. Confirm location of introducer needle in desired area of targetlesionbyCT. 5. Pass biopsy needles and obtain FNA and/or core needle biopsy specimens as needed. It is crucial to be thoroughly familiarwiththebiopsysystembeingused,especiallywith loadingthegunandhowfarthebiopsyneedlewilladvance (the“throw”) on deployment, to avoid accidentalinjury to structures beyond the lesion. Generally, 2–5 cores are Fig. 6 Examples of biopsy needles. Chiba: end-cutting FNA needle. obtainedperlesion,dependingontheprocedureindication Franseen: side-cutting core biopsy needle. Westcott: side-cutting core andtheoperator’sconfidence.Formoleculartesting,atleast biopsy needle. (Adapted from Rice et al. [8], with permission from four20-gaugesamplesshouldbeobtained.WhenexchangSpringerNature) ingneedles,useasalinesealtopreventairembolism. Fig.7 Internalthoracicarteries. (a)AxialCTimageand(b)3D reconstructionshowinginternal thoracicarteries(white arrowheads),whichmustbe avoidedduringtheprocedure. (AdaptedfromAnzideietal.[2], licensedunderCCBY4.0)",
+        "tokens": 354,
+        "page_range": [
+          "7"
+        ],
+        "provenance": {
+          "page": "7",
+          "paragraph_index": 1
+        }
+      },
+      {
+        "id": "p8_1",
+        "unit_type": "paragraph",
+        "section_id": "auto",
+        "order": 1,
+        "text": "8 A.R.MustafaandC.R.Weiss 6. After collecting the samples, obtain another helical CT 5.7 Post-Procedure Care beforeremovingtheintroducerneedle.Checkforhemorrhage, pneumothorax, and pneumomediastinum. If pneu- Followingtheprocedure,thepatientshouldbetransferredto mothoraxispresent,aspiratetheairthroughtheintroducer an observation unit for at least 2 h to monitor for complicaneedle. tions. In particular, hemodynamic stability and respiratory 7. Withdraw the introducer needle, sealing the path as it is statusshouldbecloselymonitored.Post-procedureprotocols pulledbackusingnormalsaline(Fig.8),ahydrogelplug, vary by institution, but generally at least an upright chest or an autologous venous blood patch injection (ABPI) to radiograph should be obtained 2–3 h after CT-guided lung reduce pneumothorax rates. ABPI has been shown in a biopsy.Themajorityofpneumothoracesaredetectedimmerandomized clinical trial to be noninferior to hydrogel diately after the procedure, with most of the remaining plugs[13]. detectedat1h[6]. 8. Transfer the patient to the stretcher immediately upon During the immediate post-procedure period, patients withdrawal of the introducer needle and position the should be advised to avoid speaking, moving, and patient biopsy side down (Fig. 9). Rapid patient rollover performinganyactivitiesthatincreaseintrathoracicpressure. afterneedlewithdrawalisassociatedwithdecreasedneed If no complications are discovered 2–3 h post-biopsy, the forachesttube[14]. patientcanbedischarged.Thepatientshouldbeinstructedto avoid intense physical activity for 48 h and to go to the emergencyroomifsuddenchestpain,dyspnea,orhemopty5.6 Specimen Handling and Processing sis is experienced. If anticoagulation was stopped for the biopsy,itcanusuallyberesumedthedayaftertheprocedure Specimens should be placed in suitable transport media [4,6]. immediately upon collection, such as formalin for histopathology,salineformicrobiologicalcultures,orothermediaas appropriate. Samples should be transported promptly to the 6 Diagnostic Yield and Accuracy labtopreservecellularintegrity. Rapid on-site evaluation (ROSE), if available, may be Diagnostic yield is the proportion of biopsies that obtain performed during the procedure to assess sample adequacy. adequatesamplestomakeadefinitive diagnosis.Diagnostic Aspirateshouldbedroppedorsmeareddirectlyontoaglass accuracy, on the other hand, refers to how well a biopsy slide,andacytopathologistorcytotechnologistcanimmedi- correctlymakesadiagnosisforaspecificcondition. atelyassessthesampleandprovidereal-timefeedbacktothe CT-guided core needle biopsy is reported to have a 93% proceduralist. The advantage of ROSE is that if the initial diagnostic accuracy for solitary pulmonary nodules, with sample is inadequate, additional specimens can be collected 89% sensitivity and 93% specificity [2]. For select lesions, duringthesameprocedure.ROSEhasbeenshowntosignif- PET/CT-guided biopsy may reduce the rate of inconclusive icantly improve diagnostic accuracy without increasing pro- procedurescomparedtoCT-guidedbiopsy[16]. ceduretimeorrateofcomplications[15]. A systematic review of CT-guided lung nodule and mass biopsyreportedthatcoreneedlebiopsyhadahighersample Fig.8 Normalsalineinjection. (a)CTfluoroscopicimagebefore needlepuncture.Whitearrow showstargetlesion.(b)CT fluoroscopicimageimmediately aftertractsealingwithnormal saline.Whitearrowshowstract sealantandblackarrowhead showsthecoaxialneedle. (ReprintedfromSatomuraetal. [12],licensedunderCCBY-NCND4.0)",
+        "tokens": 451,
+        "page_range": [
+          "8"
+        ],
+        "provenance": {
+          "page": "8",
+          "paragraph_index": 1
+        }
+      },
+      {
+        "id": "p9_1",
+        "unit_type": "paragraph",
+        "section_id": "auto",
+        "order": 1,
+        "text": "TransthoracicNeedleBiopsy 9 Fig. 9 Aspiration and rapid rollover. (a) Initial CT scan image for airspaceandaspirationwasperformed.Whitearrowshowsthetipofthe biopsyplanning.Whitearrowshowstargetlesion.(b)CTfluoroscopic coaxialneedle.(e)CTscanimageafteraspiration,removaloftheneedle, image during biopsy. A small pneumothorax appeared. (c) The pneu- and rapid rollover. Tiny pneumothorax exists without expansion. mothoraxincreased,butbiopsiescontinueduntilsufficientsamplevol- (Reprinted from Satomura et al. [12], licensed under CC BY-NC-ND umewasobtained.Whitearrowshowsthetipofthecoaxialneedle.(d) 4.0) Whileinjectingnormalsaline,thecoaxialneedlewaswithdrawntothe adequacy rate than FNA, approximately 95% versus 86%, 7.1 Pneumothorax withadequacydefined“baseduponsufficientsamplehaving beenobtainedtopermitabiopsy-baseddiagnosis.”However, ThemostcommoncomplicationofCT-guidedlungbiopsyis both techniques showed similar diagnostic accuracy and pneumothorax(Fig.10).Withcoreneedlebiopsy,theoverall complicationrates[17].Diagnosticyield,ontheotherhand, pneumothorax rate has been described as around 25%, with hasbeenshowninsomestudiestobehigherwithcoreneedle 5.6% requiring intervention. The rate with FNA is lower, at biopsycomparedtoFNA,>90%versus80–85%[11,18]. around 19% overall with 4.3% intervention rate [19]. A differentmeta-analysis foundsimilarresults,withanoverall pneumothorax rate of around 26% and a 6.9% intervention 7 Safety and Complications rateforFNAandcorebiopsycombined.[23] While preventing all pneumothoraces is not possible, the Although CT-guided lung biopsy is a relatively safe proce- rate can be minimized by attempting to mitigate known risk dure,thereareinherentrisksassociatedwitheveryprocedure. factors.Theseincludesamplingthenon-dependentlungina The rate of major complications with CT-guided transtho- lateraldecubitusposition(comparedtosupineorproneposiracic needle biopsy (TTNB) is 5.7% for core needle biopsy tion), larger needle size, crossing a fissure or bulla, multiple and 4.4% for FNA, according to a meta-analysis [19]. The pleural punctures, emphysema, lesion size <4 cm or overallrateofcomplicationshasbeenvariablyreported,with depth≥3cm,lesionnotincontactwithpleura,andobtaining examplesof19%and39%[19,20].Riskfactorsforcompli- >1non-coaxialsamples[23]. cations include smaller lesion size, more lung parenchyma Post-biopsy maneuvers associated with decreased pneutraversed, larger needle diameter, and smoking history mothorax risk or severity include sealing the tract with nor- [19,21].Notablecomplicationsaredescribedbelow. malsalineoradevice,deepexpirationandbreathholdwhile",
+        "tokens": 296,
+        "page_range": [
+          "9"
+        ],
+        "provenance": {
+          "page": "9",
+          "paragraph_index": 1
+        }
+      },
+      {
+        "id": "p10_1",
+        "unit_type": "paragraph",
+        "section_id": "auto",
+        "order": 1,
+        "text": "10 A.R.MustafaandC.R.Weiss Fig.10 Pneumothoraxand systemicairembolism.(a)CT guidanceimageshowsattempted needletargetingofasolidright upperlobenodulewithearly developmentofapneumothorax inan81-year-oldmalewitha historyofmelanoma.(b)CT imageshowsrapidenlargementof thepneumothorax(redstar).(c)A chesttubewasplacedintheCT suitewithresultantre-expansion ofthelungallowingfor subsequentsuccessfulsamplingof thenodule.(d)Post-biopsyCT imageshowsatraceresidual pneumothoraxandadditionallya largeamountofairintheapexof theleftventricle(blackarrow). Thepatientsubsequently developedlefthemiparesisand bradycardia,bothofwhich completelyresolvedwithin1h. (AdaptedfromFlaggetal.[22], withpermissionfromSpringer Nature) removingtheneedle,andrapidrolloverofpatienttokeepthe Ifhemoptysisdoesnotself-resolve,thepatientshouldlie puncturesidedown[24].New,effectivetract-sealingdevices biopsysidedowninalateraldecubituspositionsothatblood and techniques include hydrogel plugs [25] and autologous is not aspirated into the uninvolved lung. Subsequent steps bloodpatches[13]. include oral suction and nebulized epinephrine. If bleeding Mostpneumothoracesaresmallandasymptomaticandcan persistsortheairwaymaybecompromised,urgentbronchosbemanagedwith observationalone. Manualaspiration report- copy can be performed. Arterial bleeding may be managed edly has a resolution rate of over 85%, without the need for withembolization[4]. chesttubes[26].Symptomaticorenlargingpneumothoracescan bemanagedwithchesttubeplacement[27](Fig.11).Whena chesttubeisplaced,patientscanbeadmittedformonitoringor 7.3 Air Embolism dischargedwithaone-wayvalveifappropriate[4]. Air embolism is a rare but serious complication that occurs when air enters a pulmonary vein, either from the lung or 7.2 Bleeding airwayorthroughthecoaxialneedle.Onceinthecirculation, aircanimpairend-organperfusion,whichmaybetransientor BleedingisanothercommoncomplicationofCT-guidedlung cause stroke (Fig. 14), myocardial infarction (Fig. 15), or biopsy (Figs. 12 and 13). The hemoptysis rate is about 5%, even death. Risk factors for air embolism include a larger with most cases resolving spontaneously [4]. In contrast, coaxial needle, needle crossing adjacent airway and vein, hemothorax is rare, with reported rates around 0.5–1.5% peri-cystic lesions, and increase in intrathoracic pressure [4,30,31].Maintainingtheairwayistheprimarygoalduring (e.g.,fromcoughing)[3]. managementofbleedingcomplications.",
+        "tokens": 237,
+        "page_range": [
+          "10"
+        ],
+        "provenance": {
+          "page": "10",
+          "paragraph_index": 1
+        }
+      },
+      {
+        "id": "p11_1",
+        "unit_type": "paragraph",
+        "section_id": "auto",
+        "order": 1,
+        "text": "TransthoracicNeedleBiopsy 11 Fig.11 CT-guidedtransthoracic needlebiopsyfromalesioninthe leftupperlobe,followedby pneumothorax(redstar)and parenchymalhemorrhage, insertionofachesttube(red arrowhead)andaspirationofair. (AdaptedfromRuudetal.[28], licensedunderCCBY4.0) Using a saline seal during needle exchanges can help worked up appropriately. In addition, some patients may preventairembolism.Ifairembolismissuspected,adminis- report pain in the ipsilateral shoulder. Irritation of an interter100%oxygenimmediately.Inaddition,airbubblescanbe costal nerve by the introducer needle can cause band-like trapped in the heart to prevent compromise of distal vessel paininthechestwall.[4] beds using a left lateral decubitus or Trendelenburg position[4]. 8 Advances and Innovations in Transthoracic Needle Biopsy 7.4 Needle Tract Metastasis Thefieldofinterventionalradiologyiscontinuallyadvancing Tumor seeding along theneedle tract isarare complication, to enhance the safety and diagnostic yield of transthoracic occurring in fewer than 0.1% of cases [31]. The coaxial needle biopsy (TTNB). For example, innovations such as technique, as described previously, should be used to mini- hydrogels and autologous blood patch injections aim to mizetheriskofneedletractmetastasis. decreasetherateofpneumothorax[13]. Forimageguidance,low-doseCThasbeenshowntobeas effectiveandsafeasstandard-doseCT,withtheaddedbenefit 7.5 Pain ofreducedradiationexposure[33].CombiningPETwithCT to target specific areas within a lesion is a promising techMild chest wall pain should be expected after the local niqueforprecisesampling[16]. anesthetic wears off. If needed, ibuprofen can be adminis- In addition, alternative modalities to CT include US and tered.Incontrast,severepainisunexpectedandisconcerning MRI. US-guided procedures can be particularly useful for for a complication such as pneumothorax and should be lesions abutting the chest wall. For certain lesions, contrast-",
+        "tokens": 267,
+        "page_range": [
+          "11"
+        ],
+        "provenance": {
+          "page": "11",
+          "paragraph_index": 1
+        }
+      },
+      {
+        "id": "p12_1",
+        "unit_type": "paragraph",
+        "section_id": "auto",
+        "order": 1,
+        "text": "12 A.R.MustafaandC.R.Weiss Fig. 12 Bleeding from lung biopsy. (a) Local anesthesia performed hemorrhage(redarrowheads)duetothecentralpositionofthenodule from the subcutaneous layers to the extra-pleural space. (b) Coaxial incommunicationwithlargerpulmonaryvessels.Nopneumothoraxis needleispositionedoutsidethepleurapriortoadvancingitascloseto documented. Patient spontaneously resolved hemoptysis 1 h after the thenoduleaspossible.(c)Coaxialneedlepiercesthelunginonestep procedure. (f) X-ray at 3 h post-procedure confirms the absence of andispositionedinthevicinityofthenodule.(d)Theautomaticbiopsy pneumothoraxwithmedio-basalopacityconsistentwithalveolarhemgun is inserted through the coaxial needle and is fired for material orrhage.Nopleuraleffusionisseen.(AdaptedfromTipaldietal.[29], retrieval. (e) CT scan after the biopsy documents hematic alveolar licensedunderCCBY4.0)",
+        "tokens": 92,
+        "page_range": [
+          "12"
+        ],
+        "provenance": {
+          "page": "12",
+          "paragraph_index": 1
+        }
+      },
+      {
+        "id": "p13_1",
+        "unit_type": "paragraph",
+        "section_id": "auto",
+        "order": 1,
+        "text": "TransthoracicNeedleBiopsy 13 Fig. 13 Intrapulmonary hemorrhage/metastatic prostate cancer. intrapulmonaryhemorrhagealongtheneedletract(whitearrow)aswell (a) Biopsy planning CTimage in a 70-year-old male with a history of asbloodintherightmain-stembronchus(blackarrows).Thehemoptysis smoking and prostate cancer showing a coaxial needle advanced to the was transient and self-limited. (Adapted from Flagg et al. [22], with edgeofasolidnoduleintherightupperlobe.(b)Followingfine-needle permissionfromSpringerNature) aspiration, the patient developed hemoptysis. Post-biopsy CT shows Fig.14 Cerebralairembolism. Post-proceduralbrainCTscan afterchestbiopsyshowingtwo differentpatientswithair embolismincerebralvessels.The airisvisualizedashypointense/ blackstreaks(whitearrows). (AdaptedfromAnzideietal.[2], licensedunderCCBY4.0) Fig. 15 Systemic arterial air embolism after CT-guided lung biopsy. aorta.(b)Axialimageofthelungwindowshowsalargeamountofairin (a) Axial image in the lung window displays a small amount of air therightcoronaryartery(blackarrow)thoughttobeanairembolism. (blackarrow)intheascendingaortathoughttobeanairembolismofthe (AdaptedfromLongetal.[32],withpermissionfromSpringerNature)",
+        "tokens": 118,
+        "page_range": [
+          "13"
+        ],
+        "provenance": {
+          "page": "13",
+          "paragraph_index": 1
+        }
+      },
+      {
+        "id": "p14_1",
+        "unit_type": "paragraph",
+        "section_id": "auto",
+        "order": 1,
+        "text": "14 A.R.MustafaandC.R.Weiss enhanced US has been reported to have greater diagnostic BMC Pulm Med. 2022;22(1):265. https://doi.org/10.1186/s12890successcomparedtoconventionalUS[34,35].MRI-guided 022-02058-z. 10.Kooraki S, Abtin F. Image-guided biopsies and interventions of biopsy is also feasible for lung and mediastinal lesions, mediastinal lesions. Radiol Clin North Am. 2021;59(2):291–303. offering excellent soft tissue detail without exposure to ion- https://doi.org/10.1016/j.rcl.2020.11.009. izingradiation.However,MRI’sroleinlungbiopsyremains 11.BeslicS,ZukicF,MilisicS.PercutaneoustransthoracicCTguided limited due to the imaging challenges posed by air in the biopsies of lung lesions; fine needle aspiration biopsy versus core biopsy. Radiol Oncol. 2012;46(1):19–22. https://doi.org/10.2478/ lungs[36,37]. v10019-012-0004-4. 12.Satomura H, Higashihara H, Kimura Y, Nakamura M, Tanaka K, OnoY,etal.Normalsalineinjectionandrapidrollover;preventive 9 Conclusion effectonincidenceofpneumothoraxafterCT-guidedlungbiopsy:a retrospective cohort study. BMC Pulm Med. 2024;24(1):505. https://doi.org/10.1186/s12890-024-03315-z. Transthoracic needle biopsy (TTNB), especially CT-guided 13.Maybody M, Muallem N, Brown KT, Moskowitz CS, Hsu M, lung biopsy, is an essential tool in diagnosing thoracic dis- ZenobiCL,etal.Autologousbloodpatchinjectionversushydrogel eases such as malignancies, infections, and inflammatory plug in CT-guided lung biopsy: a prospective randomized trial. Radiology. 2019;290(2):547–54. https://doi.org/10.1148/radiol. processes. TTNB is a relatively safe, minimally invasive 2018181140. procedure that is routinely performed. Ongoing innovations 14.Kim JI, Park CM, Lee SM, Goo JM. Rapid needle-out patientinthefieldcontinuetoenhancethesafetyandaccuracyofthis rollover approach after cone beam CT-guided lung biopsy: effect procedure. on pneumothorax rate in 1,191 consecutive patients. Eur Radiol. 2015;25(7):1845–53.https://doi.org/10.1007/s00330-015-3601-y. 15.WuD,LiuYY,WangT,HuangYY,XiaP.ComputedtomographyCompeting Interest Declaration The author(s) has no competing guided lung biopsy with rapid on-site evaluation for diagnosis of intereststodeclarethatarerelevanttothecontentofthismanuscript. lunglesions:ameta-analysis.JCardiothoracSurg.2023;18(1):122. https://doi.org/10.1186/s13019-023-02212-6. 16.CerciJJ,BogoniM,CerciRJ,MasukawaM,NetoCC,KrauzerC, References etal.PET/CT-guidedbiopsyofsuspectedlunglesionsrequiresless rebiopsythanCT-guidedbiopsyduetoinconclusiveresults.JNucl 1.ZhouQ,DongJ,HeJ,LiuD,TianDH,GaoS,etal.TheSocietyfor Med. 2021;62(8):1057–61. https://doi.org/10.2967/jnumed.120. Translational Medicine: indications and methods of percutaneous 252403. transthoracic needlebiopsyfordiagnosis oflungcancer.JThorac 17.LiY,YangF,HuangYY,CaoW.Comparisonbetweencomputed Dis.2018;10(9):5538–44.https://doi.org/10.21037/jtd.2018.09.28. tomography-guided core and fine needle lung biopsy: a meta2.AnzideiM,PorfiriA,AndraniF,DiMartinoM,SabaL,CatalanoC, analysis. Medicine (Baltimore). 2022;101(9):e29016. https://doi. etal.Imaging-guidedchestbiopsies:techniquesandclinicalresults. org/10.1097/MD.0000000000029016. Insights Imaging. 2017;8(4):419–28. https://doi.org/10.1007/ 18.Sangha BS, Hague CJ, Jessup J, O’Connor R, Mayo s13244-017-0561-6. JR. Transthoracic computed tomography-guided lung nodule 3.ShahR,SunL,RidgeCA.Imageguidedlungbiopsy.LungCancer. biopsy:comparisonofcoreneedleandfineneedleaspirationtech2024;192:107803.https://doi.org/10.1016/j.lungcan.2024.107803. niques. Can Assoc Radiol J. 2016;67(3):284–9. https://doi.org/10. 4.BourgouinPP,RodriguezKJ,FintelmannFJ.Image-guidedpercu- 1016/j.carj.2015.10.005. taneouslungneedlebiopsy:howwedoit.TechVascIntervRadiol. 19.HeerinkWJ,deBockGH,deJongeGJ,GroenHJM,VliegenthartR, 2021;24(3):100770.https://doi.org/10.1016/j.tvir.2021.100770. Oudkerk M. Complication rates of CT-guided transthoracic lung 5.ShethRA,BaerlocherMO,ConnollyBL,DariushniaSR,ShynPB, biopsy: meta-analysis. Eur Radiol. 2016;27(1):138–48. https://doi. VatskyS,etal.SocietyofInterventionalRadiologyqualityimprove- org/10.1007/s00330-016-4357-8. mentstandardsonpercutaneousneedlebiopsyinadultandpediatric 20.Yuan DM, Lü YL, Yao YW, Liu HB, Wang Q, Xiao XW, et al. patients.JVascIntervRadiol.2020;31(11):1840–8.https://doi.org/ Diagnostic efficiency and complication rate of CT-guided lung 10.1016/j.jvir.2020.07.012. biopsy: a single center experience of the procedures conducted 6.AzourL,LiuS,WasherSL,MooreWH.Percutaneoustransthoracic overa10-yearperiod.ChinMedJ.2011;124(20):3277–31.https:// lungbiopsy:optimizingyieldandmitigatingrisk.JComputAssist doi.org/10.3760/cma.j.issn.0366-6999.2011.20.04. Tomogr. 2021;45(5):765–75. https://doi.org/10.1097/RCT. 21.Vagn-HansenC,PedersenMR,RafaelsenSR.Diagnosticyieldand 0000000000001192. complicationsoftransthoraciccomputedtomography-guidedbiop7.PatelIJ,RahimS,DavidsonJC,HanksSE,TamAL,WalkerTG, sies.DanMedJ.2016;63(6):A5239. etal.SocietyofInterventionalRadiologyConsensusguidelinesfor 22.Flagg ER, Henry TS, Elicker BM, Kallianos KG, Ordovas KG, theperiproceduralmanagementofthromboticandbleedingriskin Naeger DM. Periprocedural management in transthoracic needle patients undergoing percutaneous image-guided interventions-part biopsy: review of the current evidence. Curr Radiol Rep. II: recommendations: endorsed by the Canadian Association for 2018;6(4).https://doi.org/10.1007/s40134-018-0274-8. InterventionalRadiologyandtheCardiovascularandInterventional 23.HuoYR,ChanMV,HabibAR,LuiI,RidleyL.Pneumothoraxrates RadiologicalSocietyofEurope.JVascIntervRadiol.2019;30(8): inCT-guidedlungbiopsies:acomprehensivesystematicreviewand 1168–1184.e1.https://doi.org/10.1016/j.jvir.2019.04.017. meta-analysisofriskfactors.BrJRadiol.2020;93(1108):20190866. 8.Rice SL, Park AW. Biopsy techniques. In: Keefe NA, Haskal ZJ, https://doi.org/10.1259/bjr.20190866. ParkAW,AngleJF,editors.IRPlaybook.Cham:Springer;2024. 24.Huo YR, Chan MV, Habib AR, Lui I, Ridley L. Post-biopsy 9.LiY,YangCF,PengJ,LiB,ZhangC,YuJH.Small(</=20mm) manoeuvrestoreducepneumothoraxincidenceinCT-guidedtransground-glassopacitypulmonarylesions:whichfactorsinfluencethe thoracic lung biopsies: a systematic review and meta-analysis. diagnosticaccuracyofCT-guidedpercutaneouscoreneedlebiopsy? Cardiovasc Intervent Radiol. 2019;42(8):1062–72. https://doi.org/ 10.1007/s00270-019-02196-8.",
+        "tokens": 572,
+        "page_range": [
+          "14"
+        ],
+        "provenance": {
+          "page": "14",
+          "paragraph_index": 1
+        }
+      },
+      {
+        "id": "p15_1",
+        "unit_type": "paragraph",
+        "section_id": "auto",
+        "order": 1,
+        "text": "TransthoracicNeedleBiopsy 15 25.ZaettaJM,LichtMO,FisherJS,AvelarRL,Bio-SealStudyG.A 32.LongF,ZhangL,HuR.Systemicarterialairembolismfollowing lung biopsy tract plug for reduction of postbiopsy pneumothorax CT-guided lung biopsy. Wien Klin Wochenschr. 2024;136 andothercomplications:resultsofaprospective,multicenter,ran- (15–16):476–7.https://doi.org/10.1007/s00508-024-02337-1. domized,controlledclinicalstudy.JVascIntervRadiol.2010;21(8): 33.LiT,XuG,LiW,LiuY.Asystematicreviewandmeta-analysisof 1235–43.e1–3.https://doi.org/10.1016/j.jvir.2010.04.021. randomized controlled trials comparing low-dose versus standard26.YamagamiT, TerayamaK,Yoshimatsu R,Matsumoto T,MiuraH, dose computed tomography-guided lung biopsy. J Cardiothorac Nishimura T. Role of manual aspiration in treating pneumothorax Surg.2024;19(1):297.https://doi.org/10.1186/s13019-024-02792-x. after computed tomography-guided lung biopsy. Acta Radiol. 34.JacobsenN,PietersenPI,NolsoeC,KongeL,GraumannO,Laursen 2009;50(10):1126–33.https://doi.org/10.3109/02841850903232707. CB. Clinical applications of contrast-enhanced thoracic ultrasound 27.Lorenz J, Blum M. Complications of percutaneous chest biopsy. (CETUS)comparedtostandardreferencetests:asystematicreview. Semin Intervent Radiol. 2006;23(2):188–93. https://doi.org/10. Ultraschall Med. 2022;43(1):72–81. https://doi.org/10.1055/a1055/s-2006-941449. 1143-3141. Klinische Anwendungen von kontrastverstarktem 28.RuudEA,HeckS,StavemK,SoysethV,GeitungJT,AshrafH.Low Thorax-Ultraschall(CETUS)imVergleichzuStandard-Referenztests: diffusion capacity of the lung predicts pneumothorax and chest EinesystematischeUbersichtsarbeit. drainage after CT-guided lung biopsy. BMC Res Notes. 35.Liang J, Wang D, Li H, Zhao S, Chen M, Li H, et al. Contrast2022;15(1):353.https://doi.org/10.1186/s13104-022-06234-6. enhanced ultrasound for needle biopsy of thoracic lesions. Oncol 29.Tipaldi MA, Ronconi E, Ubaldi N, Bozzi F, Siciliano F, Lett.2020;20(4):75.https://doi.org/10.3892/ol.2020.11936. ZolovkinsA,etal.Histologyprofilingoflungtumors:tru-cutversus 36.Abrishami Kashani M, Campbell-Washburn AE, Murphy MC, full-coresystemforCT-guidedbiopsies.RadiolMed.2024;129(4): Catalano OA, McDermott S, Fintelmann FJ. Magnetic resonance 566–74.https://doi.org/10.1007/s11547-024-01772-4. imagingforguidanceandfollow-upofthoracicneedlebiopsiesand 30.WeinbergB, Watumull L, Landay M, Omar H. Variable presenta- thermal ablations. J Thorac Imaging. 2022;37(4):201–16. https:// tions of thoracic biopsy related hemothorax. Univ J Clin Med. doi.org/10.1097/rti.0000000000000651. 2013;1(2):22–7.https://doi.org/10.13189/ujcm.2013.010202. 37.Garnon J, Ramamurthy N, Caudrelier J, Erceg G, Breton E, 31.Tomiyama N, Yasuhara Y, Nakajima Y, Adachi S, Arai Y, TsoumakidouG,etal.MRI-guidedpercutaneousbiopsyofmediasKusumoto M, et al. CT-guided needle biopsy of lung lesions: a tinal masses using a large bore magnet: technical feasibility. survey of severe complication based on 9783 biopsies in Japan. Cardiovasc Intervent Radiol. 2015;39(5):761–7. https://doi.org/10. Eur J Radiol. 2006;59(1):60–4. https://doi.org/10.1016/j.ejrad. 1007/s00270-015-1246-5. 2006.02.001.",
+        "tokens": 332,
+        "page_range": [
+          "15"
+        ],
+        "provenance": {
+          "page": "15",
+          "paragraph_index": 1
+        }
+      }
+    ],
+    "figures": [
+      {
+        "id": "fig_2_1",
+        "number": "1",
+        "page": "2",
+        "provenance": {
+          "page": "2",
+          "label": "Fig 1"
+        }
+      },
+      {
+        "id": "fig_3_2",
+        "number": "2",
+        "page": "3",
+        "provenance": {
+          "page": "3",
+          "label": "Fig 2"
+        }
+      },
+      {
+        "id": "fig_3_3",
+        "number": "3",
+        "page": "3",
+        "provenance": {
+          "page": "3",
+          "label": "Fig 3"
+        }
+      },
+      {
+        "id": "fig_4_4",
+        "number": "4",
+        "page": "4",
+        "provenance": {
+          "page": "4",
+          "label": "Fig 4"
+        }
+      },
+      {
+        "id": "fig_6_5",
+        "number": "5",
+        "page": "6",
+        "provenance": {
+          "page": "6",
+          "label": "Fig 5"
+        }
+      },
+      {
+        "id": "fig_7_6",
+        "number": "6",
+        "page": "7",
+        "provenance": {
+          "page": "7",
+          "label": "Fig 6"
+        }
+      },
+      {
+        "id": "fig_7_7",
+        "number": "7",
+        "page": "7",
+        "provenance": {
+          "page": "7",
+          "label": "Fig 7"
+        }
+      },
+      {
+        "id": "fig_8_8",
+        "number": "8",
+        "page": "8",
+        "provenance": {
+          "page": "8",
+          "label": "Fig 8"
+        }
+      },
+      {
+        "id": "fig_9_9",
+        "number": "9",
+        "page": "9",
+        "provenance": {
+          "page": "9",
+          "label": "Fig 9"
+        }
+      },
+      {
+        "id": "fig_10_10",
+        "number": "10",
+        "page": "10",
+        "provenance": {
+          "page": "10",
+          "label": "Fig 10"
+        }
+      },
+      {
+        "id": "fig_11_11",
+        "number": "11",
+        "page": "11",
+        "provenance": {
+          "page": "11",
+          "label": "Fig 11"
+        }
+      },
+      {
+        "id": "fig_12_12",
+        "number": "12",
+        "page": "12",
+        "provenance": {
+          "page": "12",
+          "label": "Fig 12"
+        }
+      },
+      {
+        "id": "fig_13_13",
+        "number": "13",
+        "page": "13",
+        "provenance": {
+          "page": "13",
+          "label": "Fig 13"
+        }
+      },
+      {
+        "id": "fig_13_14",
+        "number": "14",
+        "page": "13",
+        "provenance": {
+          "page": "13",
+          "label": "Fig 14"
+        }
+      },
+      {
+        "id": "fig_13_15",
+        "number": "15",
+        "page": "13",
+        "provenance": {
+          "page": "13",
+          "label": "Fig 15"
+        }
+      }
+    ],
+    "tables": [],
+    "boxes": [],
+    "equations": [],
+    "cases": [],
+    "references": []
+  },
+  "retrieval": {
+    "keywords": [],
+    "summary_tldr": "Auto-built chapter JSON for Transthoracic Needle Biopsy.",
+    "nuggets": [],
+    "chunks": []
+  },
+  "versioning": {
+    "extraction_tool": "build_chapter.py",
+    "model": "none",
+    "timestamp": "2025-08-08T16:01:22.748614Z",
+    "revision": "r1"
+  }
+}

@@ -1,0 +1,528 @@
+{
+  "schema_version": "1.0.0",
+  "source": {
+    "document_id": "Artificial Intelligence in Respiratory Endoscopy",
+    "book_title": "Principles and Practice of Interventional Pulmonology",
+    "publisher": "Springer Nature Switzerland AG",
+    "isbn13": "978-3-031-49583-0",
+    "chapter_number": "3",
+    "source_url": "https://doi.org/10.1007/978-3-031-49583-0_3",
+    "file_sha256": "d4f24a64a80093a194b40718b355d702ae1ffcebafcde2ae41fa2bd947374f78",
+    "license": "All rights reserved",
+    "rights_holder": "Springer Nature Switzerland AG",
+    "access": "institutional"
+  },
+  "document": {
+    "chapter_title": "Artificial Intelligence in Respiratory Endoscopy",
+    "authors": [
+      "Author Name"
+    ]
+  },
+  "structure": {
+    "toc_path": [],
+    "section_tree": [
+      {
+        "id": "sec1",
+        "title": "Introduction ............................................................................................. 2",
+        "level": 1,
+        "page_start": "?",
+        "page_end": "?",
+        "children": []
+      },
+      {
+        "id": "sec2",
+        "title": "Application of Artificial Intelligence to Nasopharyngolaryngoscopy (NPL) ....................... 3",
+        "level": 1,
+        "page_start": "?",
+        "page_end": "?",
+        "children": [
+          {
+            "id": "sec2_1",
+            "title": "Quality Control Issues with NPL and Current AI Applications ........................................ 3",
+            "level": 2,
+            "page_start": "?",
+            "page_end": "?",
+            "children": []
+          },
+          {
+            "id": "sec2_2",
+            "title": "Categorization of Vocal Cord Abnormalities ............................................................ 3",
+            "level": 2,
+            "page_start": "?",
+            "page_end": "?",
+            "children": []
+          },
+          {
+            "id": "sec2_3",
+            "title": "Identification of Laryngeal and Pharyngeal Malignancies .............................................. 4",
+            "level": 2,
+            "page_start": "?",
+            "page_end": "?",
+            "children": []
+          },
+          {
+            "id": "sec2_4",
+            "title": "Identification of Nasal and Nasopharyngeal Lesions .................................................... 4",
+            "level": 2,
+            "page_start": "?",
+            "page_end": "?",
+            "children": []
+          },
+          {
+            "id": "sec2_5",
+            "title": "Future Research Directions for AI Application in NPL ................................................. 5",
+            "level": 2,
+            "page_start": "?",
+            "page_end": "?",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "sec3",
+        "title": "Application of Artificial Intelligence to Bronchoscopy.............................................. 5",
+        "level": 1,
+        "page_start": "?",
+        "page_end": "?",
+        "children": [
+          {
+            "id": "sec3_1",
+            "title": "Blind Spot Monitoring During Bronchoscopic Examination ........................................... 5",
+            "level": 2,
+            "page_start": "?",
+            "page_end": "?",
+            "children": []
+          },
+          {
+            "id": "sec3_2",
+            "title": "Automatic Diagnosis of Bronchial Lesions ............................................................. 6",
+            "level": 2,
+            "page_start": "?",
+            "page_end": "?",
+            "children": []
+          },
+          {
+            "id": "sec3_3",
+            "title": "Enhancement of Bronchoscopic Images ................................................................. 6",
+            "level": 2,
+            "page_start": "?",
+            "page_end": "?",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "sec4",
+        "title": "Deep Learning–Based Methods for Respiratory Endoscopic AI ................................... 8",
+        "level": 1,
+        "page_start": "?",
+        "page_end": "?",
+        "children": [
+          {
+            "id": "sec4_1",
+            "title": "Deep Learning Theory: The Basics ...................................................................... 8",
+            "level": 2,
+            "page_start": "?",
+            "page_end": "?",
+            "children": []
+          },
+          {
+            "id": "sec4_2",
+            "title": "Branch Recognition Methods for Bronchoscopic Quality Control ..................................... 8",
+            "level": 2,
+            "page_start": "?",
+            "page_end": "?",
+            "children": []
+          },
+          {
+            "id": "sec4_3",
+            "title": "Lesion Detection Methods for Automatic Bronchoscopic Diagnosis ................................... 11",
+            "level": 2,
+            "page_start": "?",
+            "page_end": "?",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "sec5",
+        "title": "Conclusion ............................................................................................... 14",
+        "level": 1,
+        "page_start": "?",
+        "page_end": "?",
+        "children": []
+      }
+    ]
+  },
+  "content": {
+    "text_units": [
+      {
+        "id": "p1_1",
+        "unit_type": "paragraph",
+        "section_id": "auto",
+        "order": 1,
+        "text": "Artificial Intelligence in Respiratory Endoscopy Zhicheng Cao, Bin Ye, Yong Zhou, and Bin Liu Contents 1 Introduction ............................................................................................. 2 2 Application of Artificial Intelligence to Nasopharyngolaryngoscopy (NPL) ....................... 3 2.1 Quality Control Issues with NPL and Current AI Applications ........................................ 3 2.2 Categorization of Vocal Cord Abnormalities ............................................................ 3 2.3 Identification of Laryngeal and Pharyngeal Malignancies .............................................. 4 2.4 Identification of Nasal and Nasopharyngeal Lesions .................................................... 4 2.5 Future Research Directions for AI Application in NPL ................................................. 5 3 Application of Artificial Intelligence to Bronchoscopy.............................................. 5 3.1 Blind Spot Monitoring During Bronchoscopic Examination ........................................... 5 3.2 Automatic Diagnosis of Bronchial Lesions ............................................................. 6 3.3 Enhancement of Bronchoscopic Images ................................................................. 6 4 Deep Learning–Based Methods for Respiratory Endoscopic AI ................................... 8 4.1 Deep Learning Theory: The Basics ...................................................................... 8 4.2 Branch Recognition Methods for Bronchoscopic Quality Control ..................................... 8 4.3 Lesion Detection Methods for Automatic Bronchoscopic Diagnosis ................................... 11 5 Conclusion ............................................................................................... 14 References ...................................................................................................... 15 Abstract Meanwhile, different pulmonary endoscopists and physicians may interpret the same lesion differently, leading to Bronchoscopy plays an important role in the diagnosis and inconsistent diagnostic results and corresponding treatment. treatment of pulmonary diseases which can directly observe Similar issues can be found in the area of nasopharyngolarthe internal conditions of the trachea and bronchi. However, yngoscopy (NPL). Artificial intelligence–assisted bronchothe accuracy of its examination results is greatly affected by scopic and NPL examination, diagnosis, and treatment has the experience, habits, and skill levels of endoscopists, become an alternative to the traditional man-powered medresulting in unstable and even mistaken examination results, ical paradigm. This chapter discusses current innovations i.e., there is a lack of standardization in bronchoscopy. and breakthroughs in the area of respiratory endoscopic artificial intelligence. Topics such as blind spot monitoring Z. Cao School of Life Science and Technology, Xidian University, Xi’an, China during bronchoscopic examination, bronchoscopic lesion detection, enhancement of bronchoscopic images, quality B. Ye Ruijin Hospital, Shanghai Jiaotong University School of Medicine, control for NPL, categorization, and identification of maligShanghai, China nancies at different NPL parts (such as nose, vocal cord, Y. Zhou throat, and pharynx) are mentioned. Several deep learning Xi’an Chest Hospital, Xi’an, China models and algorithms are also studied to show how respi- ✉ ratory endoscopic artificial intelligence is implemented and B. Liu ( ) Shanghai EndoVista Information Technology Co., Ltd., Shanghai, realized. China © Springer Nature Switzerland AG 2025 1 L. Yarmus et al. (eds.), Principles and Practice of Interventional Pulmonology, https://doi.org/10.1007/978-3-031-49583-0_2-1",
+        "tokens": 526,
+        "page_range": [
+          "1"
+        ],
+        "provenance": {
+          "page": "1",
+          "paragraph_index": 1
+        }
+      },
+      {
+        "id": "p2_1",
+        "unit_type": "paragraph",
+        "section_id": "auto",
+        "order": 1,
+        "text": "2 Z.Caoetal. Keywords assessment to provide personalized diagnostic plans for patients. Such a practice, on the one hand, can fully take Artificial intelligence · Bronchoscopy · advantage of the AI system that experts cannot match, such Nasopharyngolaryngoscopy · Quality control · Lesion as accurately assessing the 3D longest diameter, volume, and detection · Image quality · Deep learning · Neural density of lung nodules. On the other hand, it can also avoid networks problems of AI such as false positives and false negatives as much as possible. More specifically, for bronchoscopy— a procedure glob1 Introduction ally undergone by the millions each year—the development and utility of AI-assisted bronchoscopic diagnosis stand as a The artificial intelligence (AI)-assisted diagnosis of eleccrucial element of the diagnosis of respiratory diseases. tronic bronchoscopy is an emerging medical practice that High-quality endoscopic examination serves to fortify diagutilizes advanced AI technology to assist physicians in bronnostic precision in these cases. With the help of AI-assisted choscopy examination and diagnosis. This technology combronchoscopy technology, endoscopists can evaluate lung bines advanced computer algorithms of image processing, nodule experience, enable human-machine interaction durpattern recognition, deep learning, and big data to automatiing bronchoscopy examination, and integrate different lung cally interpret and analyze bronchoscopy imagery, helping imaging modalities. Moreover, this technology enables realendoscopists and physicians to diagnose various respiratory time monitoring during bronchoscopy examinations, system diseases more accurately and efficiently. Specifically, provides automatic prompts for missed areas, and standardsystems of AI-assisted bronchoscopy can preprocess bronizes the bronchoscopy operation process, which has advanchoscopy images; extract key features such as lesion mortages such as a high level of automation, low cost, phology, color, and texture; and then use AI algorithms to non-objectiveness, and stability, as well as avoiding automatically analyze and recognize these features. Continuhuman fatigue. In a word, it helps achieve precise quality ous refinement through comparison and training with extencontrol. Last but not least, AI-assisted bronchoscopic techsive clinical data enhances the diagnostic accuracy and nology can also enable the automatic detection of lesions in consistency of these algorithms, ultimately providing endothe airway, the determination of benign and malignant scopists with more accurate and reliable diagnostic results. lesions, the identification of lesions invading the surroundPresently, AI-assisted diagnosis has witnessed significant ing boundaries and blood vessels, the measurement of growth across various medical domains, owing to its acceslesion invasion depth, the measurement of the length and sibility and affordability. Notably, its application in gastroindiameter of airway stenosis sites, the analysis and localizatestinal endoscopy is experiencing a dramatic upsurge. tiono f peripherall ungl esions,a nds oo n s of orth . Initially integrated into computer-aided detection (CAD) to Nasopharyngolaryngoscopy (NPL) is a daily-used tool in discern the characteristics of tumor and non-tumor colon the practice of otolaryngologists, which is heavily relied upon polyps, AI-assisted endoscopic technology has spurred the for examinations. It plays a crucial role in diagnosing and rapid evolution of gastrointestinal endoscopic systems. These evaluating the treatment of diseases of the nasal cavity, oral systems, integrated with computer-aided diagnosis (CADx) cavity, pharynx, and larynx, particularly within the context of and computer-aided detection (CADe), aim to enhance head and neck cancers (HNCs). Since the 1980s, the advent endoscopy diagnostic capabilities, to make the endoscopic of NPL has significantly transformed the clinical diagnosis workflow more efficient, and to facilitate a more precise risk and treatment of otolaryngological diseases by providing stratification for common gastrointestinal ailments such as clinicians with clear images of the larynx and pharynx. gastrointestinal bleeding and tumors. Entering the twenty-first century, the era of digital and 3D The application of AI endoscopic diagnosis within the imaging has already come, which further enhanced the clarity respiratory system predominantly centers around chest and three-dimensionality of NPL images. X-rays, chest computed tomography, and lung function assessHowever, several challenges persist in the area of NPL ments for patients with respiratory conditions such as pulmoendoscopy. These include incomplete examination coverage, nary nodules, chronic obstructive pulmonary diseases, and failure to detect and diagnose lesions, and poor image quality. interstitial lung diseases. Additionally, research is underway As a result, more than often, repeated examinations or conin the domain of mechanical ventilation and the diagnosis of stant expert supervision are needed. In a word, the current use bronchial asthma. For example, as for the application of AI in of NPLs in examinations is significantly influenced by the evaluating pulmonary nodules, Chinese medical experts have subjective proficiency of the examining endoscopists. Moreproposed the expert-robot multidisciplinary team (MDT), over, there is a glaring lack of third-party supervision and which combines human and computer MDT. Its purpose is to quality control, indicating room for improvement. interact human experts with AI systems of pulmonary nodule",
+        "tokens": 1002,
+        "page_range": [
+          "2"
+        ],
+        "provenance": {
+          "page": "2",
+          "paragraph_index": 1
+        }
+      },
+      {
+        "id": "p3_1",
+        "unit_type": "paragraph",
+        "section_id": "auto",
+        "order": 1,
+        "text": "ArtificialIntelligenceinRespiratoryEndoscopy 3 2 Application of Artificial Intelligence Optimizing the accuracy of AI models for NPL relies to Nasopharyngolaryngoscopy (NPL) heavily on high-quality and accurate annotations during the training phase. Unlike the GI endoscopy where the anatomCompared to gastrointestinal (GI) endoscopy which is sub- ical features throughout different parts of the GI are quite ject to stringent quality control and management similar to each other, the anatomical features are significantly (as instructed by international guidelines and consensus as different at different parts of the NPL, such as the nasal well as expert groups), NPL operations are generally per- cavity, oral cavity, larynx, and pharynx. Thus, AI models ceived as relatively simple and straightforward. On one hand, are able to discern the various positions within NPL more there is a lack of specialized endoscopic associations for accurately than they can within GI endoscopy, yielding conregulation and standardization. On the other hand, there is a sistent and superior classification rates. However, there are no deficiency in dedicated endoscopic personnel, operational established international guidelines or consensus about quality control, and standardized training. In the medical which standard anatomical sites should be covered during systems of many countries (such as China), there are no NPL procedures. designated NPL endoscopists, further complicating endo- In 2023, Zhu et al. identified 20 key anatomical landmarks scopic quality control. A comprehensive NPL examination based on six anatomical divisions of the nasal cavity, oral requires exposing the entire anatomical site, obtaining a clear cavity, pharynx, nasopharynx, oropharynx, and hypopharview, and identifying abnormal lesions. Due to the unique ynx. They formulated an AI-driven Intelligent Nasopharanatomy of the laryngopharyngeal regions, the examination yngoscope Localization Monitoring Assistant (ILMA), process demands attentiveness from the operating NPL endo- achieving a classification accuracy of 97.60% through the scopist and cooperation from the patient to fully expose process of training and validation utilizing endoscopic relevant areas. As such, blind spots remain the primary rea- images. In the same year, Nakajo et al. assessed pharyngeal son for missed diagnoses in NPL. and laryngeal images captured during upper GI endoscopy The positioning and cooperation of patients directly with NBI or blue laser imaging (BLI). Their study mainly impact the NPL results. For instance, examining various focused on the oral cavity, oropharynx, hypopharynx, and regions requires specific patient actions: Nasopharynx exam- larynx, categorizing these into 15 distinct anatomical sites. ination needs nasal breathing, epiglottis examination requires Their model achieved a classification accuracy of 93.3% for tongue extension, vocal cord examination demands inhala- pharyngeal and laryngeal images and incorporated a function or phonation, and piriform fossa examination calls for tionality of blind spot identification during examinations. phonation or air inflation. Unsatisfactory exposure of the piriform fossa and retropharyngeal area often results in missed diagnoses. Better exposure of the entire hypopharynx can 2.2 Categorization of Vocal Cord be achieved through head rotation, the Valsalva maneuver, Abnormalities and the Killian position. However, there is a lack of effective methods for supervising and evaluating the quality of NPL The classification of vocal cord abnormalities in images has examinations—it cannot be quantitatively assessed whether risen as a primary area of interest in the AI applications to the NPL endoscopists have thoroughly examined each ana- laryngoscopy. Deep learning (DL) models have been develtomical area. Given high outpatient volumes in otolaryngol- oped utilizing vocal cord traits such as hue, texture, and ogy head and neck surgery clinics, it is quite important to geometry. These DL models employ laryngoscopic images consider how high quality and accuracy in NPL can be of the vocal cords for training and validation, facilitating achieved within a limited timeframe. objective and effective identification of both normal and abnormal vocal cord conditions, thereby diminishing diagnostic discrepancies among endoscopists. 2.1 Quality Control Issues with NPL In 2020, Ren et al. introduced a CNN-based AI classificaand Current AI Applications tion model that reached recognition accuracies of 98% for vocal cord nodules, 91% for polyps, 91% for leukoplakia, Compared to the rapid development of AI-assisted gastroin- and 90% for malignant tumors, exceeding the performance of testinal (GI) endoscopy, research on AI-assisted NPL is rel- laryngologists at all levels. In 2021, Kuo et al. established an atively lagging behind, currently still in the laboratory stage, objective AI-assisted diagnostic system specifically designed and has not yet been put into large-scale clinical applications. to detect laryngeal lesions. By employing contour features of The current research on artificial intelligence electronic vocal cord images captured from laryngoscope videos, this nasopharyngoscopy mainly focuses on the identification system selects clear images, thereby enhancing detection and diagnosis of anatomical parts, vocal cord lesions, malig- performance. Additionally, it automatically segments the nant tumors of the throat, and nasal cavity lesions. vocal cords and performs a quantitative analysis of their",
+        "tokens": 1017,
+        "page_range": [
+          "3"
+        ],
+        "provenance": {
+          "page": "3",
+          "paragraph_index": 1
+        }
+      },
+      {
+        "id": "p4_1",
+        "unit_type": "paragraph",
+        "section_id": "auto",
+        "order": 1,
+        "text": "4 Z.Caoetal. hue and geometric features. It achieved a classification accu- et al., respectively, designed DL models to recognize images racy of 100% for healthy vocal cords and leukoplakia and of pharyngeal cancer obtained from upper GI endoscopy 93.15%, 95.16%, and 96.42% accuracy for polyps, cysts, and using WLI, NBI, and BLI. These models achieved recognitumor lesions, respectively. Also in 2021, Cho et al. became tion accuracies of 100% and 92%, although the number of the first group to compile pathological diagnoses often mis- patient cases included in the validation assessment was reladiagnosed as vocal cord polyps by laryngologists, including tively small, comprising 40 and 25 cases, respectively. In Reinke’s edema (18.4%), vocal cord cysts (13.8%), nodules 2023, Li et al. conducted a large-scale, multicenter study on (10.5%), papilloma (9.6%), and leukoplakia (6.2%). The AI the Laryngopharyngeal AI Diagnostic System (LPAIDS), model’s ability to diagnose Reinke’s edema and vocal cord which they developed to recognize laryngopharyngeal cancer nodules was found to be comparable to the top-performing images in WLI and NBI. They evaluated its effectiveness laryngologists. using real-time laryngoscopy videos and found that the sysIn 2022, Zhao et al. utilized a deep convolutional neural tem demonstrated superior diagnostic performance with network (DCNN)-based diagnostic system to distinguish impressive accuracy (0.949–0.984) and sensitivity among four types of vocal cord lesions: normal, polyps, (0.901–0.986). In 2024, Sampieri et al. developed the DL keratosis, and cancer. The overall accuracy of this system model SegMENT-Plus to identify and delineate the superfiwas 80.23%. It excelled in diagnosing three out of four types cial boundaries of laryngeal cancer in laryngoscopic images of lesions (except keratosis), surpassing clinical otolaryngol- of WLI and NBI. This model performed comparably to ogists in terms of accuracy and sensitivity while requiring otolaryngology residents and was evaluated using five real significantly less time (6.47 s vs. 138.5 min). Moreover, surgical laryngoscopy videos, showcasing its potential to when classifying vocal cord lesions into nonurgent (normal, assist in surgical decision-making and margin delineation. polyps) and urgent (keratosis, cancer) categories, the system However, research on DL models for endoscopic recognidemonstrated strong classification performance with an over- tion of oropharyngeal cancer remains in the early stages. In all accuracy of 93.9%. In 2023, Chen et al. applied the 3D 2021, Paderno et al. used a fully CNN model to analyze NBI VOSNet algorithm to analyze video laryngoscopy, endoscopic videos of oral (43 cases) and oropharyngeal canperforming segmentation of the vocal cords and glottis. cers (35 cases). The model automatically segmented tumors This approach computed six parameters that include the with Dice similarity coefficients (DSC) of 0.6559 and glottal area, vocal cord area, vocal cord length, vocal cord 0.7603, respectively, demonstrating the potential of AI in length deviation, and vocal cord symmetry. Such metrics the analysis and segmentation of endoscopic images of oral offer an objective assessment of vocal cord conditions, and oropharyngeal cancers. assisting laryngologists in making reliable diagnoses, particularly for conditions such as vocal cord paralysis. 2.4 Identification of Nasal and Nasopharyngeal Lesions 2.3 Identification of Laryngeal and Pharyngeal Malignancies Nasal polyps and inverted papilloma are common benign lesions in the nasal cavity; the former represent inflammatory Identifying malignant tumors constitutes a pivotal objective changes, while the latter constitute benign tumors. The stratfor NPLs. HNCs rank as the ninth leading cause of cancer- egies for medication, surgery, and prognosis between the two related mortality, with the incidence rising in recent years [1]. differ significantly. However, distinguishing between them Since these cancers directly affect patients’ ability to swal- under nasopharyngoscopy can present a substantial challow, speak, and breathe, the importance of early diagnosis lenge, particularly for less experienced otolaryngologists. and minimally invasive treatment for improving survival To address this issue, Girdler and colleagues devised a rates and quality of life cannot be overstated. AI has garnered CNN-based diagnostic model in 2021 that reliably identified considerable recognition for its successes in identifying nasal polyps and inverted papilloma in endoscopic images, malignancies of the larynx and pharynx, greatly enhancing performing comparably to an endoscopy specialist with the sensitivity and accuracy of tumor detection. 7 years of experience (74.2% vs. 74.9%). In the following In 2019, Xiong et al. developed and trained a DL model year, Ay et al. presented a reliable CNN-based diagnostic for assisting in laryngoscopic diagnoses, achieving an accu- system for nasal polyps, which automatically recognized racy of 86.7% and a sensitivity of 73.1% in recognizing these lesions in endoscopic images with an impressive accularyngeal cancer and precancerous lesions. This performance racy rate of 98.3%. provided significant advantages for early diagnosis of laryn- Nasopharyngeal carcinoma (NPC) is a common malignant geal cancer compared to specialists with 10 to 20 years of tumor in the head and neck region, particularly prevalent in experience. In 2020 and 2021, Atsuko et al. and Mitsuhiro Southeast Asia, where it has the highest incidence rate of 5.5",
+        "tokens": 1046,
+        "page_range": [
+          "4"
+        ],
+        "provenance": {
+          "page": "4",
+          "paragraph_index": 1
+        }
+      },
+      {
+        "id": "p5_1",
+        "unit_type": "paragraph",
+        "section_id": "auto",
+        "order": 1,
+        "text": "ArtificialIntelligenceinRespiratoryEndoscopy 5 per 100,000 individuals. In 2022, China reported 51,010 new Finally, hoarseness or changes in voice are frequent comcases of NPC, representing 42.4% of the global total and plaints prompting clinical NPL examinations; thus, assessing establishing China as the country with the most newly diag- vocal cord lesions and alterations in voice quality is a valued nosed patients. In 2018, Li et al. designed a DL-based detec- potential functionality of NPL AI systems. Nevertheless, the tion model for nasopharyngeal malignancies (eNPM-DM), current market provides no NPL products capable of recordwhich achieved a diagnostic accuracy of 88.7%. This model ing patients’ voices. Future improvements could include surpassed NPC specialists, having over 5 years of experience, incorporating modules for voice and vocal cord movement in a prospective test (88.0% vs. 80.5%). Furthermore, the analysis into AI-assisted NPLs (Fig. 1). model was capable of automatically segmenting malignant lesions in endoscopic images, as evidenced by an average DSC of 0.75. In 2023, Shi and colleagues introduced a deep 3 Application of Artificial Intelligence weakly semi-supervised framework, Point SEGTR, for to Bronchoscopy segmenting NPC lesions, thereby contributing to the iterative development of NPC segmentation algorithms for endos- 3.1 Blind Spot Monitoring During copy. In 2024, Wang et al. utilized an DCNN-based AI Bronchoscopic Examination system to automatically diagnose NPC using WLI and NBI images from nasopharyngoscopy. Their system achieved The blind spot monitoring system of bronchoscopic examiaccuracies of 92.0% (WLI) and 97.5% (NBI), respectively, nation can be realized using deep learning algorithms and with sensitivity and recall rates surpassing those of junior models such as deep convolutional neural network (DCNN) otolaryngologists. These preliminary studies highlight the and deep reinforcement learning (DRL). Such a real-time potential of AI models in enhancing the detection capabilities examination quality control system can be used to monitor and efficiency of endoscopic examinations of nasal and naso- blind spots and suspicious lesions and optimize the efficiency pharyngeal lesions. of bronchoscopy examination. When designing the blind spot monitoring system, the trachea and bronchi images are categorized into 31 classes 2.5 Future Research Directions for AI according to the 31 anatomical branches, whereby normal Application in NPL anatomical structure images are utilized for automated recognition, image capture, and quality control to avoid potenFirstly, quality control of NPL is still one of the most impor- tial missed lesions caused by time constraints. tant future research directions for AI applications in NPL. As Simultaneously, routine examination checkpoints are superan integral diagnostic aid for otolaryngologists, the accuracy vised to prevent missed bronchoscopic examinations. The and reliability of NPL are paramount. Achieving this requires monitoring system functions as a teaching tool for beginners stringent quality control and supervision during the exami- by providing reminders for the timing and coverage of bronnation process, which is a topic that needs far more attention. choscopy examinations, facilitating an understanding of the Also, the examination process should promote standardiza- bronchial anatomical structure, and identifying missed areas. tion and uniformity, taking into account aspects such as The system will display a red box prompt on the screen when patient positioning, physician placement, coverage of ana- certain anatomical points are missed or when images are tomical sites, selection of images, and the drafting of reports. obscured, such as in cases where an anterior segment of the Furthermore, the exposure of key NPL spots such as the upper right lobe is not reached during bronchoscopy or in pharyngeal opening of the Eustachian tube, epiglottic vallec- cases of unclear exposure. In addition, the time-lapse of the ula, piriform sinus, and retrocricoid area is crucial and neces- bronchoscopic examination is also recorded and displayed so sitates patient cooperation with specific maneuvers. that the endoscopist or her/his supervisor can evaluate if the Secondly, continuous improvement of current AI algo- examination is too fast or too slow. For example, a time-lapse rithms is also a crucial problem. Existing AI diagnostic shorter than 2 min may suggest the likelihood of missing models have shown promising laboratory results in NPL, spots. improving the detection of lesions; however, mature products Figure 2 shows a commercial blind spot monitoring have not yet emerged. This suggests that AI-assisted diag- (i.e., quality control system) developed by a Chinese comnostic systems for NPL currently lack robust, multicenter pany, Shanghai EndoVista Information Technology, Inc. The randomized controlled clinical trials. Future research should left panel displays coverage of each bronchus on the bronconcentrate on refining algorithmic models to strengthen chial tree (green denotes coverage, while gray denotes nonautonomous learning of images, enhancing the accuracy, coverage). The right panel displays the real-time imaging of reliability, convenience, and adaptability of AI models. the bronchoscope. The top left part of the screen displays the",
+        "tokens": 1007,
+        "page_range": [
+          "5"
+        ],
+        "provenance": {
+          "page": "5",
+          "paragraph_index": 1
+        }
+      },
+      {
+        "id": "p6_1",
+        "unit_type": "paragraph",
+        "section_id": "auto",
+        "order": 1,
+        "text": "6 Z.Caoetal. Fig. 1 A functional schematic for an AI-enhanced NPL system. The dimensions; the third part (the lower left of the figure) shows operational first part (the upper left of the figure) shows a diagram of 11 anatomical parameters such as examination duration, coverage, image clarity, and sites, where the colored sites denote the ones covered and recognized the number and size of lesions; the fourth part (the lower left of the during NPL examination; the second part (the upper right of the figure) figure) shows risk assessment for targeted lesions shows real-time recording capabilities for images, videos, voice, and examination time-lapse and coverage summary (ratio of cov- practitioners in the precise and prompt identification of airerage and current bronchus). way tuberculosis, it leads us to earlier treatment interventions, and enabling real-time lesion diagnosis (highlighted by a red box prompt, as shown in Fig. 3). Furthermore, by 3.2 Automatic Diagnosis of Bronchial Lesions utilizing artificial intelligence, the bronchoscopic diagnostic system can discern lesion size, infiltration depth, area, surIn addition to blind spot monitoring during the broncho- rounding boundaries, and diameter and length of the scopic examination, AI-assisted bronchoscopic diagnostic narrowed lumen, which enables the idea of dynamic and system can also identify and locate bronchial lesions. With personalized surgical plans and treatment. a thorough understanding of diverse pathological lesion characteristics, AI algorithms which further leverage the potential of deep learning and data mining are able to identify and 3.3 Enhancement of Bronchoscopic Images categorize pathologically confirmed lesions, differentiate between benign and malignant airway conditions, and cate- It is also another important problem that the AI-assisted gorize bronchial tuberculosis using extensive clinical data. bronchoscopic monitoring system can enhance the images In accordance with the diagnosis guidelines for tracheal of bronchial mucosa during the examination. Currently, durand bronchial tuberculosis, ultimately aiding clinical ing bronchial examinations, due to the rapid movement of the",
+        "tokens": 404,
+        "page_range": [
+          "6"
+        ],
+        "provenance": {
+          "page": "6",
+          "paragraph_index": 1
+        }
+      },
+      {
+        "id": "p7_1",
+        "unit_type": "paragraph",
+        "section_id": "auto",
+        "order": 1,
+        "text": "ArtificialIntelligenceinRespiratoryEndoscopy 7 Fig. 2 The GUI of a blind spot monitoring system of bronchoscopic examination, which monitors and displays the 31 bronchial sites in real time on a computer screen Fig. 3 An example of the automatic lesion detection result by an AI-assisted bronchoscopic diagnosis system bronchoscope at certain times—especially in areas that are qualitycausesaproblemwhenbronchoscopistsorphysicians easily overlooked or missed—the quality of the stored bron- conduct a follow-up check or re-examination. Such a low choscopic images can be very low. This issue of low image image quality is also difficult for the bronchoscopic AI",
+        "tokens": 120,
+        "page_range": [
+          "7"
+        ],
+        "provenance": {
+          "page": "7",
+          "paragraph_index": 1
+        }
+      },
+      {
+        "id": "p8_1",
+        "unit_type": "paragraph",
+        "section_id": "auto",
+        "order": 1,
+        "text": "8 Z.Caoetal. algorithms, and mistakes in the recognition of bronchial parts of large-sized datasets, the invention of more powerful GPU or detection of lesions could happen, leading to a less reliable computing hardware, and newer network structure designs of bronchoscopic AI system. ingenuity such as local connectivity, parameter sharing, and The countermeasures of the issue mentioned above are to convolutional layers (Fig. 5). either assess the image quality and discard the image if it is Consider a multilayer feedforward neural network, as below a certain quality threshold or to conduct a process of shown in Fig. 6; let L denote all the neurons in the l-th l image enhancement on the low-quality bronchoscopy images layer, and x ðlÞ represent the input of the j-th node in layer l. j originally stored. The first countermeasure is more straight- u ðlÞ i s the net input, and the output is y ðlÞ . For the convenience j j forward and easier to implement. Corresponding methods for of representation, the input, net input, and output are written image assessment are designed using the information and in vector form, which are x(l) , u(l) , and y(l) , respectively. metrics of the image such as illuminance, contrast, noise, Assume that the weight from the i node of the (l-1)-th layer blurring level, and color. to the j-th node of the l-th layer is w ðlÞ , and the corresponding The second countermeasure is, on the other hand, more ji matrix form is W(l); the bias of the j-th node in the l-th layer is complex. Corresponding methods for image enhancement include Gamma transform, histogram equalization, and b j ðlÞ , and all biases in the l-th layer are b(l). Retinex algorithm, for image contrast enhancement, filter- Then, the input-output relationship of any node in the based image denoising methods for image denoising, and network is as follows: blind deconvolution for image deblurring. More recently, 8 (cid:1) (cid:3) deep learning–based methods have become the mainstream >< y j ðlÞ= σ u j ðlÞ for image enhancement. For example, DnCNN has been P P ð1 Þ shown to surpass traditional denoising methods. DeblurGAN >: u j ðlÞ= w j i ðl Þx j ðlÞþ b j ðlÞ= y i l-1ð þ Þ b j ðlÞ i∈L i∈L and RetinexNet have demonstrated success for the tasks of l-1 l-1 image deblurring and image contrast enhancement, respecExpressed in the matrix form, the input-output relationtively. Figure 4 illustrates the comparison between the origship of any layer in the network can be written as inal blurry bronchoscopic image and its deblurred result by (cid:1) (cid:3) (cid:1) (cid:3) DeblurGAN. y ðlÞ= σ u ðlÞ =σ W ðlÞ y l-1ð þÞ b ðlÞ ð2Þ 4 Deep Learning–Based Methods Followingly, by defining a loss function () and training the network using sample data with known labels, the weights for Respiratory Endoscopic AI Wand b can be obtained using an optimization method such as gradient descent. 4.1 Deep Learning Theory: The Basics Coined in the 1950s, the term artificial intelligence refers to W ⁎ , b ⁎ =argm , in L W,bð y, Þ ybð Þ ð3 Þ W b man-made intelligence and functions that resemble human beings. With the development of various theories and tech- where y and yb are the predictive values and the actual label niques of AI—especially the advent of deep learning theory values. in the early twentieth century—AI has made vast advancements, and numerous applications have emerged in many 4.2 Branch Recognition Methods aspects of our society and life. How to combine AI with for Bronchoscopic Quality Control medicine (including respiratory endoscopy) is currently a hot topic. As a special case of neural network, deep learning Quality control and management are crucial for bronchos- (i.e., deep neural network, DNN) involves significantly copy which aims to continuously improve the quality of more layers—especially the hidden layers—than traditional endoscopic diagnosis and treatment through a series of meanon-deep neural networks. Such a deeper structure enables sures. Through quality control, operational risks can be better feature extraction and representation and usually reduced, diagnostic and treatment accuracy can be improved, results in higher model performance. Nonetheless, as the and safer and more efficient medical services can be provided network goes deeper, training of the network has become a to patients. Measures of bronchoscopic quality control serious problem, where the large size of parameters and include but are not limited to standardizing operating prolimited training data and computing power lead to issues cedures, personnel training, and establishing strict quality such as local optimum, long training time, and gradient inspection standards. vanishing. These issues have been overcome by a collection",
+        "tokens": 1006,
+        "page_range": [
+          "8"
+        ],
+        "provenance": {
+          "page": "8",
+          "paragraph_index": 1
+        }
+      },
+      {
+        "id": "p9_1",
+        "unit_type": "paragraph",
+        "section_id": "auto",
+        "order": 1,
+        "text": "ArtificialIntelligenceinRespiratoryEndoscopy 9 Fig. 4 Comparison between the original blurry bronchoscopic image (left) and its deblurred result by DeblurGAN (right) Fig. 5 Comparison between the structures of non-deep neural network and deep neural network. (a) traditional non-deep neural network. (b) deep neural network",
+        "tokens": 54,
+        "page_range": [
+          "9"
+        ],
+        "provenance": {
+          "page": "9",
+          "paragraph_index": 1
+        }
+      },
+      {
+        "id": "p10_1",
+        "unit_type": "paragraph",
+        "section_id": "auto",
+        "order": 1,
+        "text": "10 Z.Caoetal. classification. Since 2014, object classification models based on deep learning (i.e., deep neural networks) have emerged and replaced these traditional algorithms due to their convenience and high performance. These deep neural network models do not rely on the manual designing of an explicit feature extractor and are usually more robust in performance. Some of the most successful and representative deep learning models for object classification are VGG, GooLeNet, and ResNet. ProposedbytheVisual GeometryGroupattheUniversityof Oxford in 2014, VGG is one of the most fundamental and popular CNN models for object classification. The work of VGG proved that increasing the network depth has a positive effect (to a certain extent) on the network performance. ComFig. 6 The structure of the feedforward neural network pared with a preceding network model, AlexNet, VGG uses stacked small convolution kernels of 3 × 3 rather than the larger However, how to ensure and implement quality control ones in AlexNet (e.g., 11 × 11, 7 × 7, and 5 × 5). It is proven has long been a trick problem since a strict implementation of that the superposition of two 3 × 3 convolution kernels with a quality control requires the supervision of the operating stride of 1 has a receptive field equivalent to that of a 5 × 5 bronchoscopists by other bronchoscopic experts in charge. convolution kernel, which means VGG can achieve a higher Such a practice consumes a large amount of manpower and level of network nonlinearity (as is beneficial for extraction of makes things even worse for hospitals that already have more complex features) with a relatively smaller number of limited medical resources. Moreover, bronchoscopists are parameters. The structure of theVGG modelis shown in Fig. 8. prone to fatigue and errors during prolonged work hours, Unlike VGG blocks that only use fixed-size kernels of making supervision of the examination process unreliable. 3 × 3, GoogLeNet combines convolution kernels of different Therefore, the automation and intelligentization of broncho- sizes to increase the network’s adaptability of multi-scales. scopic quality control is a topic of research which has Such a design of the multi-scale block is named Inception attracted more and more attention from academia and (see Fig. 9). The entire GoogLeNet model consists of nine industry. Inception blocks, a max pooling layer between blocks, and With the rapid advancement of artificial intelligence tech- finally a global average pooling layer and a fully connected nology in recent years—especially driven by deep learning— layer. Under the same computational load, features that are the goal of automatic and intelligent quality control for bron- more robust can be extracted by GoogLeNet, thereby improvchoscopic examination is no longer imaginative and out of ing the classification performance. reach. This book chapter discusses several deep learning ResNet is also another representative classification model models for bronchoscopic quality control and presents the proposed in 2015. As shown in Fig. 10, the core idea of algorithm’s performance. ResNet is to involve the residual blocks, which use identity In essence, bronchoscopic quality control is an object mapping in every two convolutional layers to reduce a series classification problem, in which the computer needs to deter- of problems caused by deep networks, such as gradient mine which bronchial site/part the current bronchoscopic vanishing. The proposal of residual networks enables deeper image covers. In other words, it is a branch recognition networks to be trained. problem. For a bronchoscopic quality control AI system To verify the performance of the aforementioned three that considers three levels of the bronchial tree, the quality deep learning models, a dataset containing the training data control problem is a 31-class classification problem (see and testing data as well as the corresponding labels of bronFig. 7). It should be noted that more bronchial levels may choscopic images needs to be provided. One dataset available also be considered, but currently, a level higher than the third via inquiry is the dataset collected by Shanghai Chest Hoslevel is hard to implement, since not only is such a broncho- pital. In total, 12 videos of complete bronchoscopy operascope very expensive but also it is hard for a bronchoscopist tions were collected, all covering all 31 bronchial locations as to operate. mentioned previously. Each video was segmented into image Traditionally, object classification algorithms rely on man- frames. A typical image was selected for each location of ually designed operators to extract object features such as each video, and thus, a dataset of 372 images was formed for contours, textures, and colors and then use classifiers (e.g., clinical evaluation. The labels are generated by four senior SVM, random forest, AdaBoost) for subsequent expert physicians with greater than 5 years of experience in",
+        "tokens": 1007,
+        "page_range": [
+          "10"
+        ],
+        "provenance": {
+          "page": "10",
+          "paragraph_index": 1
+        }
+      },
+      {
+        "id": "p11_1",
+        "unit_type": "paragraph",
+        "section_id": "auto",
+        "order": 1,
+        "text": "ArtificialIntelligenceinRespiratoryEndoscopy 11 Fig. 7 Illustration of the bronchi and the 31-class classification problem. (a) bronchial anatomy. (b) the 31-class classification problem interventional pulmonology and four junior physicians with 4.3 Lesion Detection Methods for Automatic less than 1 year of experience in interventional pulmonology. Bronchoscopic Diagnosis The experimental results of the three DNN models, i.e., VGG, GoogLeNet, and ResNet, are shown in Table 1, where During bronchial examination, the detection of lesions such the classification performance in terms of accuracy (ACC) for as a tumor, tuberculosis, and inflation is crucial to the diagthe three deep learning models are compared. The results nosis of respiratory diseases. However, lesion detection by show that AI-assisted is indeed possible, considering that a manpower, i.e., bronchoscopists, is a task that is not only considerable portion of bronchoscopists have a recognition tedious and exhausting but also subjective which inevitably accuracy lower than 80% with naked eyes. leads to diagnostic errors. Introducing AI to lesion detection",
+        "tokens": 205,
+        "page_range": [
+          "11"
+        ],
+        "provenance": {
+          "page": "11",
+          "paragraph_index": 1
+        }
+      },
+      {
+        "id": "p12_1",
+        "unit_type": "paragraph",
+        "section_id": "auto",
+        "order": 1,
+        "text": "12 Z.Caoetal. Fig. 8 The structure of the VGG model Fig. 9 The building block of Inception within the GoogLeNet model during the bronchial examination is a good alternative or the outputs of lesion detection should be represented in the supplementary solution. form of bounding boxes with category labels. Lesion detection is essentially an object detection problem The core idea behind object detection (and lesion detecwhich is a core topic in the field of computer vision. It aims to tion) is to parse visual information that can be understood by enable computers to recognize and locate objects in images. the computer. The issues that object detection needs to Specifically, it not only needs to identify which objects are in address include (but are not limited to) object classification, the image but also determine their positions in the image, i.e., position estimation, size changes, occlusion, background",
+        "tokens": 188,
+        "page_range": [
+          "12"
+        ],
+        "provenance": {
+          "page": "12",
+          "paragraph_index": 1
+        }
+      },
+      {
+        "id": "p13_1",
+        "unit_type": "paragraph",
+        "section_id": "auto",
+        "order": 1,
+        "text": "ArtificialIntelligenceinRespiratoryEndoscopy 13 with a fixed resolution of 416 × 416. The backbone employs the module of CSP-DarkNet, which is an improved version of DarkNet and is inspired by CSPNet. More specifically, the backbone module is built using four basic types of units: CBS, Focus, CSP, and SPP. The CBS unit is a cascaded connection of convolution, batch normalization, and SiLU activation. The SPP unit is nothing but a CBS unit processed by the spatial pyramid pooling (SPP) technique and then followed by another CBS unit. The CSP unit comprises paralleled CBS units of different numbers that are concatenated and then followed by an additional CBS unit. Lastly, the Focus unit first samples the feature maps and is then followed by another CBS unit. The neck of YOLO is built using the feature pyramid network (FPN) and the path aggregation network (PAN) techniques. Such a form of neck can fuse features and information at different scales. During prediction, the advanced technique of “Decoupled Head” is used which separates Fig. 10 The residual block of the ResNet model classification and localization into paralleled branches, yielding a higher detection performance as well as faster converTable 1 Classification performance in terms of accuracy (ACC) for the DNN models, VGG, GoogLeNet, and ResNet gence of the model. It should be noted that an IoU branch is also added to the regression branch. AI model Accuracy (%) As for data augmentation, strategies such as Mosaic and VGG 87.22 MixUp can be utilized to boost the model’s performance. The GoogLeNet 70.34 anchor-free technique is also involved by reducing the preResNet 88.16 dictions for each location from 3 to 1 and making them directly predict four values, i.e., the height and width and interference, and real-time processing capabilities. This the two offsets of the predicted box. Finally, the technique of involves techniques such as image processing, feature extracmulti-positives is also utilized which assigns a central area of tion, pattern recognition, and machine learning. 3 × 3 (rather than the center alone) as positives for each At present, deep learning–based methods are the mainobject. The multi-positive technique alleviates the issue of stream solutions in the field of object detection, which are positive/negative sample imbalance during training. A simusually divided into two categories: (A) Two-stage detection plified version of the advanced label assignment technique of methods: This category of methods first extracts candidate OTA, i.e., SimOTA, is used which treats the assigning proobject regions from the image and then performs detailed cedure as an optimal transport problem and takes a dynamic classification and bounding box fine-tuning on these regions. top-k strategy to obtain an approximate solution. Representative models include the RCNN series (e.g., Fast After the design of the detection model, the loss function R-CNN, Faster R-CNN) and region-based fully convoluneeds to be specially designed accordingly. The loss function of tional networks (such as Mask R-CNN). (B) Single-stage YOLOX includes three parts: the category prediction loss (cls), detection method: This type of method directly predicts the the bounding box regression loss (reg), and the target existence class and position of objects on the image. Single-stage probability loss (obj). Firstly, the category prediction loss calmethods are usually faster but may be slightly less accurate culates the difference between the predicted category and the than two-stage methods. Representative models include SSD, actual category. It uses binary cross entropy loss (BCE with RetinaNet, and YOLO. Most recently, transformer-based logits loss) to measure the predictive ability of the model for the models have also been introduced for object detection, such target category. Secondly, the boundary box regression loss as the DETR (Detection Transformer) model, which marks a calculates the difference in the Intersection over Union (IoU) new development direction for object detection technology. between the predicted and the actual boundary boxes. Lastly, This book chapter demonstrates how to utilize the YOLO the target existence probability loss calculates the difference model (more specifically, YOLO X) for the task of lesion between the predicted target existence probability and the true detection. The overall network structure of YOLO is illusexistence probability of the model. Similar to the case of catetrated in Fig. 11. In general, YOLOX consists of four main gory prediction loss, binary cross entropy loss is also used, modules: the input, the backbone, the neck, and the predictor. ensuring that the model can accurately determine whether the The input image is a color image in the R, G, and B channels, target exists in the given image region.",
+        "tokens": 965,
+        "page_range": [
+          "13"
+        ],
+        "provenance": {
+          "page": "13",
+          "paragraph_index": 1
+        }
+      },
+      {
+        "id": "p14_1",
+        "unit_type": "paragraph",
+        "section_id": "auto",
+        "order": 1,
+        "text": "14 Z.Caoetal. Fig. 11 Lesion detection using the YOLO model: the overall structure Fig. 12 Smart BronchoLabel: the commercial software for lesion detection labeling During training, labels for the lesion images need to be lesion is shown in a blue box, and a bronchus with a maligprovided. Such a task can be completed either by manually nant lesion is shown in a red box. drawing boxes around the lesion areas in all the lesion images or with the help of labeling software. Figure 12 shows software developed by the company of Shanghai EndoVista 5 Conclusion Information Technology. An example of using the YOLOX model for broncho- With the rapid development of artificial intelligence technology, scopic lesion detection is shown in Fig. 13. In this example, endoscopists and physicians can use it to distinguish the anaimages of a normal bronchus are shown with no detection tomical positions of the airway, thereby ensuring the quality box (i.e., no lesion area detected), a bronchus with a benign control of bronchoscopy examination. The AI-assisted",
+        "tokens": 221,
+        "page_range": [
+          "14"
+        ],
+        "provenance": {
+          "page": "14",
+          "paragraph_index": 1
+        }
+      },
+      {
+        "id": "p15_1",
+        "unit_type": "paragraph",
+        "section_id": "auto",
+        "order": 1,
+        "text": "ArtificialIntelligenceinRespiratoryEndoscopy 15 Fig. 13 Lesion detection for automatic bronchoscopic diagnosis. From left to right: normal bronchus (no detection box), bronchus with a benign lesion (blue box), and bronchus with a malignant lesion (red box) diagnostic technology of bronchoscopy and nasopharyngolar- 8. Xiong H, Lin P, Yu JG, Ye J, Xiao L, Tao Y, Jiang Z, Lin W, Liu M, yngoscopy can not only greatly improve the work efficiency Xu J, Hu W, Lu Y, Liu H, Li Y, Zheng Y, Yang H. Computer-aided diagnosis of laryngeal cancer via deep learning based on and accuracy of respiratory and NPL specialists, but also reduce laryngoscopic images. EBioMedicine. 2019;48:92–9. the occurrence of misdiagnosis and medical malpractice, and 9. Mekov E, Miravitlles M, Petkov R. Artificial intelligence and ultimately provide patients with safer and more effective med- machine learning in respiratory medicine. Expert Rev Respir Med. ical services. It can be foreseen that with continuous develop2020;14(6):559–64. 10. Kaplan A, Cao H, FitzGerald JM, Iannotti N, Yang E, Kocks JWH, ment and improvement of AI technology, AI-assisted Kostikas K, Price D, Reddel HK, Tsiligianni I, Vogelmeier CF, bronchoscopy and nasopharyngolaryngoscopy will play an Pfister P, Mastoridis P. Artificial intelligence/machine learning in increasingly important role in the diagnosis and treatment of respiratory medicine and potential role in asthma and COPD diagrespiratory system diseases and otolaryngological diseases. nosis. J Allergy Clin Immunol Pract. 2021;9(6):2255–61. 11. He J, Baxter SL, Xu J, Xu J, Zhou X, Zhang K. The practical implementation of artificial intelligence technologies in medicine. Competing Interest Declaration The author(s) has no competing Nat Med. 2019;25(1):30–6. interests to declare that are relevant to the content of this manuscript. 12. Thiébaut R, Thiessard F, Section Editors for the IMIA Yearbook Section on Public Health and Epidemiology Informatics. Artificial intelligence in public health and epidemiology. Yearb Med Inform. References 2018;27(1):207–10. 13. Antão J, de Mast J, Marques A, Franssen FME, Spruit MA, Deng 1. Ali S. Where do we stand in AI for endoscopic image analysis? Q. Demystification of artificial intelligence for respiratory clinicians Deciphering gaps and future directions [J]. NPJ Digit Med. managing patients with obstructive lung diseases. Expert Rev Respir 2022;5(1):184. Med. 2023;17(12):1207–19. 2. Yoo JY, Kang SY, Park JS, Cho YJ, Park SY, Yoon HI, Park SJ, 14. Weimin D. Diagnosis and treatment guidelines for tracheal and Jeong HG, Kim T. Deep learning for anatomical interpretation of bronchial tuberculosis (trial) [J]. Chin J Tuberc Respir Dis. video bronchoscopy images. Sci Rep. 2021;11(1):23765. 2012;35(08):581–7. 3. Li Y, Zheng X, Xie F, Ye L, Bignami E, Tandon YK, Rodríguez M, 15. China IoT Expert Group for Evaluation and Management of PulmoGu Y, Sun J. Development and validation of the artificial intelligence nary Nodules. Internet of Things (IoT)-assisted evaluation and man- (AI)-based diagnostic model for bronchial lumen identification. agement of lung nodules in China: expert consensus [J]. Int J Respir. Transl Lung Cancer Res. 2022;11(11):2261–74. 2022;42(1):5–12. 4. Chen C, Herth FJ, Zuo Y, Li H, Liang X, Chen Y, Ren J, Jian W, 16. Dawei Y, Lin T, Powell Charles A, et al. Difficult to classify Zhong C, Li S. Distinguishing bronchoscopically observed anatom- pulmonary nodules [J]. Int J Respir. 2022;42(1):1–4. ical positions of airway under by convolutional neural network. Ther 17. Chinese Medical Association of Respiratory Disease Branch. ACCP. Adv Chronic Dis. 2023;14:20406223231181495. Chinese expert consensus on the diagnosis and treatment of pulmo5. Matava C, Pankiv E, Raisbeck S, Caldeira M, Alam F. A nary nodules. Chin J Tuberc Respir Dis. 2024;47(8):716–29. convolutional neural network for real time classification, identifica- 18. Verikas A, Uloza V, Bacauskiene M, Gelzinis A, Kelertas tion, and labelling of vocal cord and tracheal using laryngoscopy and E. Advances in laryngeal imaging. Eur Arch Otorrinolaringol. bronchoscopy video. J Med Syst. 2020;44(2):44. 2009;266(10):1509–20. 6.C old KM, X ie S , N ielsen A O, C lementsen PF, K onge L . A rtfiicial 19. Schade G, Fleischer S, Müller F, Kutta H, Hess M. Influence of the intelligence improves novices’ bronchoscopy performance: a random- head position in laryngoscopy. HNO. 2004;52(10):921–6. ized controlled trial in a simulated setting. Chest. 2024;16 5(2):405–13. 20. Ni XG, Cheng RR, Lai SQ, et al. Novel laryngoscopic strategies to 7. Li Y, Gu W, Yue H, Lei G, Guo W, Wen Y, Tang H, Luo X, Tu W, improve evaluation of the site and extent of primary hypopharyngeal Ye J, Hong R, Cai Q, Gu Q, Liu T, Miao B, Wang R, Ren J, Lei tumours. J Laryngol Otol. 2013;127(9):882–9. W. Real-time detection of laryngopharyngeal cancer using an artifi- 21. Emura F, Sharma P, Arantes V, et al. Principles and practice to cial intelligence-assisted system with multimodal data. J Transl facilitate complete photodocumentation of the upper gastrointestinal Med. 2023;21(1):698.",
+        "tokens": 1012,
+        "page_range": [
+          "15"
+        ],
+        "provenance": {
+          "page": "15",
+          "paragraph_index": 1
+        }
+      },
+      {
+        "id": "p16_1",
+        "unit_type": "paragraph",
+        "section_id": "auto",
+        "order": 1,
+        "text": "16 Z.Caoetal. tract: World Endoscopy Organization position statement. Dig classification of nasal polyps and inverted papillomas on nasal Endosc. 2020;32(2):168–79. endoscopic images. Int Forum Allergy Rhinol. 2021;11(12): 22. Takiyama H, Ozawa T, Ishihara S, et al. Automatic anatomical 1637–46. classification of esophagogastroduodenoscopy images using deep 43. Ay B, Turker C, Emre E, Ay K, Aydin G. Automated classification of convolutional neural networks. Sci Rep. 2018;8(1):7497. nasal polyps in endoscopy video-frames using handcrafted and CNN 23. Wu L, Zhang J, Zhou W, et al. Randomised controlled trial of features. Comput Biol Med. 2022;147:105725. WISENSE, a real-time quality improving system for monitoring 44. Chen YP, Chan ATC, Le QT, Blanchard P, Sun Y, Ma blind spots during esophagogastroduodenoscopy. Gut. J. Nasopharyngeal carcinoma. Lancet. 2019;394(10192):64–80. 2019;68(12):2161–9. https://doi.org/10.1136/gutjnl-2018-317366. 45. Bray F, Laversanne M, Sung H, et al. Global Cancer Statistics 24. Chang YY, Yen HH, Li PC, et al. Upper endoscopy photo- 2022: GLOBOCAN estimates of incidence and mortality worldwide documentation quality evaluation with novel deep learning system. for 36 cancers in 185 countries. CA Cancer J Clin. Published online Dig Endosc. 2022;34(5):994–1001. April 4, 2024. 25. Yuan P, Bai R, Yan Y, et al. Subjective and objective quality 46. Li C, Jing B, Ke L, et al. Development and validation of an endoassessment of gastrointestinal endoscopy images: from manual oper- scopic images-based deep learning model for detection with nasoation to artificial intelligence. Front Neurosci. 2022;16:1118087. pharyngeal malignancies. Cancer Commun (Lond). 2018;38(1):59. 26. Zhou J, Wu L, Wan X, et al. A novel artificial intelligence system for 47. Shi Y, Wang H, Ji H, et al. A deep weakly semi-supervised framethe assessment of bowel preparation (with video). Gastrointest work for endoscopic lesion segmentation. Med Image Anal. Endosc. 2020;91(2):428–435.e2. 2023;90:102973. 27. Shaukat A, Rector TS, Church TR, et al. Longer withdrawal time is 48. Wang S-X, Yi L, Zhu J-Q, et al. The detection of nasopharyngeal associated with a reduced incidence of interval cancer after screen- carcinomas using a neural network based on nasopharyngoscopic ing colonoscopy. Gastroenterology. 2015;149(4):952–7. images. Laryngoscope. 2024;134(1):127. 28. Gong D, Wu L, Zhang J, et al. Detection of colorectal adenomas with a 49. Krizhevsky A, Sutskever I, Hinton GE. Imagenet classification with real-time computer-aided system (ENDOANGEL): a randomised con- deep convolutional neural networks [J]. Adv Neural Inf Proces Syst. trolled study. Lancet Gastroenterol Hepatol. 2020;5(4):352–61. 2012;25:1097–105. 29. Zhu JQ, Wang ML, Li Y, et al. Convolutional neural network based 50. Simonyan K, Zisserman A. Very deep convolutional networks for anatomical site identification for laryngoscopy quality control: a large-scaleimagerecognition [J].arXivpreprint arXiv:1409.1556.2014. multicenter study. Am J Otolaryngol. 2023;44(2):103695. 51. He K, Zhang X, Ren S, et al. Deep residual learning for image 30. Nakajo K, Ninomiya Y, Kondo H, et al. Anatomical classification of recognition [C]. In: Proceedings of the IEEE Conference on Compharyngeal and laryngeal endoscopic images using artificial intelli- puter Vision and Pattern Recognition; 2016. p. 770–8. gence. Head Neck. 2023;45(6):1549–57. 52. Szegedy C, Liu W, Jia Y, et al. Going deeper with convolutions 31. Ren J, Jing X, Wang J, et al. Automatic recognition of laryngoscopic [C]. In: Proceedings of the IEEE Conference on Computer Vision images using a deep-learning technique. Laryngoscope. 2020;130(11): and Pattern Recognition; 2015. p. 1–9. E686–93. 53. Viola P, Jones M. Rapid object detection using a boosted cascade of 32. Kuo CFJ, Lai WS, Barman J, et al. Quantitative laryngoscopy with simple features [C]. In: Proceedings of the 2001 IEEE Computer computer-aided diagnostic system for laryngeal lesions. Sci Rep. Society Conference on Computer Vision and Pattern Recognition. 2021;11(1):10147. CVPR 2001, vol. 1; IEEE, 2001. p. I-I. 33. Cho WK, Lee YJ, Joo HA, et al. Diagnostic accuracies of laryngeal 54. Girshick R, Donahue J, Darrell T, et al. Rich feature hierarchies for diseases using a convolutional neural network-based image classifi- accurate object detection and semantic segmentation [C]. In: Procation system. Laryngoscope. 2021;131(11):2558–66. ceedings of the IEEE Conference on Computer Vision and Pattern 34. Zhao Q, He Y, Wu Y, et al. Vocal cord lesions classification based on Recognition; 2014. p. 580–7. deep convolutional neural network and transfer learning. Med Phys. 55. Ren S. Faster R-CNN: towards real-time object detection with region 2022;49(1):432–42. proposal networks[J]. arXiv preprint arXiv:1506.01497. 2015. 35. Chen IM, Yeh PY, Hsieh YC, et al. 3D VOSNet: segmentation of 56. He K, Gkioxari G, Dollár P, et al. Mask R-CNN [C]. In: Proceedings of endoscopic images of the larynx with subsequent generation of the IEEE International Conference on Computer Vision; 2017. indicators. Heliyon. 2023;9(3):e14242. p. 2961–9. 36. Xiong H, Lin P, Yu JG, et al. Computer-aided diagnosis of laryngeal 57. Redmon J, Divvala S, Girshick R, et al. You only look once: unified, cancer via deep learning based on laryngoscopic images. real-time object detection [C]. In: Proceedings of the IEEE ConferEBioMedicine. 2019;48:92–9. ence on Computer Vision and Pattern Recognition; 2016. p. 779–88. 37. Tamashiro A, Yoshio T, Ishiyama A, et al. Artificial intelligence- 58. Liu W, Anguelov D, Erhan D, et al. Ssd: Single shot multibox detector based detection of pharyngeal cancer using convolutional neural [C]. In: Computer Vision–ECCV 2016: 14th European Conference, networks. Dig Endosc. 2020;32(7):1057–65. Amsterdam, The Netherlands, October 11–14, 2016, Proceedings, Part 38. Kono M, Ishihara R, Kato Y, et al. Diagnosis of pharyngeal cancer I 14, vol. 2016. Springer International Publishing. p. 21–37. on endoscopic video images by mask region-based convolutional 59. Ge Z. Yolox: exceeding yolo series in 2021 [J]. arXiv preprint neural network. Dig Endosc. 2021;33(4):569–76. arXiv:2107.08430. 2021. 39. Li Y, Gu W, Yue H, et al. Real-time detection of laryngopharyngeal 60. Yoo JY, Kang SY, Park JS, et al. Deep learning for anatomical intercancer using an artificial intelligence-assisted system with multi- pretation of video bronchoscopy images[J]. Sci Rep. 2021;11(1): modal data. J Transl Med. 2023;21(1):698. 23765. 40. Sampieri C, Azam MA, Ioppi A, et al. Real-time laryngeal cancer 61. Li Y, Zheng X, Xie F, et al. Development and validation of the boundaries delineation on white light and narrow-band imaging artificial intelligence (AI)-based diagnostic model for bronchial laryngoscopy with deep learning. Laryngoscope. Published online lumen identification [J]. Transl Lung Cancer Res. 2022;11(11):2261. January 4, 2024;134:2826. 62. Cold KM, Xie S, Nielsen AO, et al. Artificial intelligence improves 41. Paderno A, Piazza C, Del Bon F, et al. Deep learning for automatic novices’ bronchoscopy performance: a randomized controlled trial segmentation of oral and oropharyngeal cancer using narrow band in a simulated setting[J]. Chest. 2024;165(2):405–13. imaging: preliminary experience in a clinical perspective. Front 63. Chen C, Herth FJF, Zuo Y, et al. Distinguishing bronchoscopically Oncol. 2021;11:626602. observed anatomical positions of airway under by convolutional 42. Girdler B, Moon H, Bae MR, Ryu SS, Bae J, Yu MS. Feasibility of a neural network [J]. Ther Adv Chronic Dis. 2023;14: deep learning-based algorithm for automated detection and 20406223231181495.",
+        "tokens": 1452,
+        "page_range": [
+          "16"
+        ],
+        "provenance": {
+          "page": "16",
+          "paragraph_index": 1
+        }
+      }
+    ],
+    "figures": [
+      {
+        "id": "fig_6_1",
+        "number": "1",
+        "page": "6",
+        "provenance": {
+          "page": "6",
+          "label": "Fig 1"
+        }
+      },
+      {
+        "id": "fig_7_2",
+        "number": "2",
+        "page": "7",
+        "provenance": {
+          "page": "7",
+          "label": "Fig 2"
+        }
+      },
+      {
+        "id": "fig_7_3",
+        "number": "3",
+        "page": "7",
+        "provenance": {
+          "page": "7",
+          "label": "Fig 3"
+        }
+      },
+      {
+        "id": "fig_9_4",
+        "number": "4",
+        "page": "9",
+        "provenance": {
+          "page": "9",
+          "label": "Fig 4"
+        }
+      },
+      {
+        "id": "fig_9_5",
+        "number": "5",
+        "page": "9",
+        "provenance": {
+          "page": "9",
+          "label": "Fig 5"
+        }
+      },
+      {
+        "id": "fig_11_7",
+        "number": "7",
+        "page": "11",
+        "provenance": {
+          "page": "11",
+          "label": "Fig 7"
+        }
+      },
+      {
+        "id": "fig_12_8",
+        "number": "8",
+        "page": "12",
+        "provenance": {
+          "page": "12",
+          "label": "Fig 8"
+        }
+      },
+      {
+        "id": "fig_12_9",
+        "number": "9",
+        "page": "12",
+        "provenance": {
+          "page": "12",
+          "label": "Fig 9"
+        }
+      },
+      {
+        "id": "fig_13_10",
+        "number": "10",
+        "page": "13",
+        "provenance": {
+          "page": "13",
+          "label": "Fig 10"
+        }
+      },
+      {
+        "id": "fig_14_11",
+        "number": "11",
+        "page": "14",
+        "provenance": {
+          "page": "14",
+          "label": "Fig 11"
+        }
+      },
+      {
+        "id": "fig_14_12",
+        "number": "12",
+        "page": "14",
+        "provenance": {
+          "page": "14",
+          "label": "Fig 12"
+        }
+      },
+      {
+        "id": "fig_15_13",
+        "number": "13",
+        "page": "15",
+        "provenance": {
+          "page": "15",
+          "label": "Fig 13"
+        }
+      }
+    ],
+    "tables": [],
+    "boxes": [],
+    "equations": [],
+    "cases": [],
+    "references": []
+  },
+  "retrieval": {
+    "keywords": [],
+    "summary_tldr": "Auto-built chapter JSON for Artificial Intelligence in Respiratory Endoscopy.",
+    "nuggets": [],
+    "chunks": []
+  },
+  "versioning": {
+    "extraction_tool": "build_chapter.py",
+    "model": "none",
+    "timestamp": "2025-08-08T16:00:57.482945Z",
+    "revision": "r1"
+  }
+}

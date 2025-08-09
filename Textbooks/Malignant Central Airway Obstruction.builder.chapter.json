@@ -1,0 +1,680 @@
+{
+  "schema_version": "1.0.0",
+  "source": {
+    "document_id": "malignant_central_airway_obstruction_chapter",
+    "book_title": "Principles and Practice of Interventional Pulmonology",
+    "edition": "",
+    "volume": "",
+    "publisher": "Springer Nature Switzerland AG",
+    "isbn13": "",
+    "isbn10": "",
+    "year": 2025,
+    "chapter_number": "",
+    "chapter_pages": {
+      "start": "1",
+      "end": "10"
+    },
+    "source_url": "https://doi.org/10.1007/978-3-031-49583-0_32-1",
+    "license": "All rights reserved",
+    "rights_holder": "Springer Nature Switzerland AG",
+    "access": "institutional"
+  },
+  "document": {
+    "chapter_title": "Malignant Central Airway Obstruction",
+    "authors": [
+      "John E. Howe",
+      "Coral X. Giovacchini",
+      "Kamran Mahmood"
+    ]
+  },
+  "structure": {
+    "toc_path": [
+      "Interventions"
+    ],
+    "section_tree": []
+  },
+  "content": {
+    "text_units": [
+      {
+        "id": "p1_1",
+        "unit_type": "paragraph",
+        "section_id": "sec0_abstract",
+        "order": 1,
+        "text": "MalignantCentralAirway Obstruction JohnE.Howe,Coral X.Giovacchini,andKamranMahmood Contents 1Introduction .............................................................................................2 2Etiologies ................................................................................................. 2 3Classi cation .............................................................................................2 4Presentation .............................................................................................. 2 5DiagnosticEvaluation ...................................................................................2 6TherapeuticApproachandTreatment ................................................................ 3 6.1PatientAssessment ....................................................................................... 4 6.2RigidVersusFlexibleBronchoscopy .................................................................... 4 6.3AnestheticApproachfor Therapeutic Bronchoscopy ...................................................5 6.4VentilatorSupportfor Therapeutic Bronchoscopy ......................................................5 6.5TumorDebridement ...................................................................................... 5 6.6AblativeTherapieswithImmediateEffect ................... ................ ................ ...........7 6.7AblativeTherapieswithDelayedEffect ................................................................. 7 6.8Airway Stents ............................................................................................. 7 6.9RoleofChemotherapyandRadiation ................................................................... 8 6.10RoleofSurgery ........................................................................................... 8 7Conclusion ............................................................................................... 8",
+        "tokens": 77,
+        "page_range": [
+          "1"
+        ],
+        "provenance": {
+          "page": "1",
+          "paragraph_index": 1
+        }
+      },
+      {
+        "id": "p1_2",
+        "unit_type": "note",
+        "section_id": "sec8_references",
+        "order": 2,
+        "text": "References",
+        "tokens": 1,
+        "page_range": [
+          "1"
+        ],
+        "provenance": {
+          "page": "1",
+          "paragraph_index": 2
+        }
+      },
+      {
+        "id": "p1_3",
+        "unit_type": "paragraph",
+        "section_id": "sec8_references",
+        "order": 3,
+        "text": ".......................................................................................................8",
+        "tokens": 1,
+        "page_range": [
+          "1"
+        ],
+        "provenance": {
+          "page": "1",
+          "paragraph_index": 3
+        }
+      },
+      {
+        "id": "p1_4",
+        "unit_type": "note",
+        "section_id": "sec0_abstract",
+        "order": 4,
+        "text": "Abstract",
+        "tokens": 1,
+        "page_range": [
+          "1"
+        ],
+        "provenance": {
+          "page": "1",
+          "paragraph_index": 4
+        }
+      },
+      {
+        "id": "p1_5",
+        "unit_type": "paragraph",
+        "section_id": "sec0_abstract",
+        "order": 5,
+        "text": "Malignantcentralairwayobstruction(MCAO)isseenin 15 Œ 20%oflungcancerpatientsaswellaswithmetastases fromothercancers,likebreast,kidney,etc.Itisde nedas 50%orgreater obstructionof trachea,mainstembronchi, bronchusintermedius, andlobarbronchi.Thepatients withMCAOoftenpresentwithlife-threateningcomplicationsandhaveapoorprognosis.Themanagement of these patientsvarieswidelybetweeninstitutionsandspecialties involvedwhichhasanegativeimpactonoutcomes.",
+        "tokens": 36,
+        "page_range": [
+          "1"
+        ],
+        "provenance": {
+          "page": "1",
+          "paragraph_index": 5
+        }
+      },
+      {
+        "id": "p1_6",
+        "unit_type": "paragraph",
+        "section_id": "sec0_abstract",
+        "order": 6,
+        "text": "PatientswithMCAOshouldundergodetailedclinical assessment includingCTscanofthechest.Themain approachtomanagementistherapeuticbronchoscopy under generalanesthesia.Multimodality,therapeuti c bronchoscopyprovidesthebestchance of proceduralsuccess.",
+        "tokens": 17,
+        "page_range": [
+          "1"
+        ],
+        "provenance": {
+          "page": "1",
+          "paragraph_index": 6
+        }
+      },
+      {
+        "id": "p1_7",
+        "unit_type": "paragraph",
+        "section_id": "sec0_abstract",
+        "order": 7,
+        "text": "Inaddit ion,thesepatientsshouldbetreat edwith de nitive chemoradiationand/orsurgery.A multidisciplinary, patient-centric approachisthe keytooptimizethe outcomes. Keywords Centralairwayobstr uction·Malignantcentralairway obstruction·Endobronchialmass·Airwaytumor·Lung cancer·Therapeuticbronchoscopy·Airway stent· Airwayablation J.E.Howe DepartmentofMedicine,Section ofPulmonaryandCriticalCare Medicine,DartmouthHitchcockMedicalCenter,Lebanon,NH,USA C.X.Giovacchini·K.Mahmood( ) DepartmentofMedicine,DivisionofPulmonary,AllergyandCritical Care,DukeUniversity,Durham,NC,USA e-mail: k.mahmood@duke.edu © SpringerNatureSwitzerland AG2025 L.Yarmus etal.(eds.), PrinciplesandPracticeofInterventionalPulmonology , https://doi.org/10.1007/978-3-031-49583-0_32-1 1",
+        "tokens": 100,
+        "page_range": [
+          "1"
+        ],
+        "provenance": {
+          "page": "1",
+          "paragraph_index": 7
+        }
+      },
+      {
+        "id": "p2_1",
+        "unit_type": "paragraph",
+        "section_id": "sec2_multi",
+        "order": 1,
+        "text": "1Introduction Malignantce ntralairwayobstruction(MCAO)isde nedas 50%orgreaternarrowingofthecentralairways,including trachea,mainstembronchi,bronchusintermedius,andlobar bronchi, byamalignancy[ 1 , 2 ]. Itcanleadtodebilitating symptomsand isassociatedwithpoorpatientoutcomes [ 3 , 4 ].CAOisanindependentriskfactor fordeathinpatients withlungcancer[ 5 ].ThemanagementofMCAOinvolves multiplemedi calandsurgicalspecialties,andthereisawide variationinclinical practicewhichleadstopooroutcomes [ 1 , 6 ].Withthestandardizationand accreditationofinterventionalpulmonolog yfellowshipintheUnitedStates,competencyassessmenttoolsforrigidbronchoscopy,andsocietal guidelines, themanagementofMCAOwill bestreamlined andthe patientoutcomes areanticipatedtoimprove[ 1 , 7 Œ 11 ]. 2Etiologies Whilelungcancerremains theleadingcauseofcancer mortalityworldwide,theprevalenceofMCAOremainsincompletelycharacterized.Itis estimated tovarybetween 13%and 17%ofcontemporarylungcancercohort s, notablydecreased from the olderstudiesestimating20 Œ 30%ofpatientswith lungcancer[ 4 , 5 ].TheshiftinMCAOcouldberelatedtothe lungcancerscreeningeffortsandchangeinpathology from centralsquamouscancertoperipheraladenocarcinoma [ 1 , 12 ].Assuch,lungcanceristhemostcommoncause of MCAO,butanextens ivearrayofother thoracicandextrathoraciccancermetastasesareimplicatedinMCAO,most commonlyincludingbreast,esophageal, thyroid,renal,and colorectalmalignancies[ 1 , 13 ].Malignantcentralairway obstruction canalsobecausedbyprimaryairwaytumors, includingadenoidcystic carcinomas,mucoepidermoidcarcinomas,andcarcinoidtumors[ 4 ].Finally,growthofmalignancies ofnearby structures includingthethyroid, esophagus,andmediastinumcanresultin extrinsiccompressionofthecentralairwaysascanmetastatic involvementof themediastinalandhilarnod es [ 4 ]. 3Classification MCAOcanbeclassi edbasedontheanatomyofairway compr omiseinto intrinsicor endobronchial, extrinsic,and mixed(Fig. 1 )[ 1 ].MCAOisconsidered ﬁ intrinsicorendobronchial ﬂ whenitisgenerallycon nedto withintheairway lumen,whilean ﬁ extrinsic ﬂ airwayobstructionisentirely extraluminalcompromisingtheairwayduetomass effect.",
+        "tokens": 185,
+        "page_range": [
+          "2"
+        ],
+        "provenance": {
+          "page": "2",
+          "paragraph_index": 1
+        }
+      },
+      {
+        "id": "p2_2",
+        "unit_type": "paragraph",
+        "section_id": "sec2_multi",
+        "order": 2,
+        "text": "Airwayobstr uctionis classi edas ﬁ mixed ﬂ ifithasboth an intrinsicandextrinsiccomponent.Thetumorscausingmixed CAOareoftenadjacenttotheairway,causingcompression anderodethroughtheairwaywallintothelumen.Car efully consideringthisclassi cationschemehasimportant implicationsfortherapeuticmanagementoftheMCAO, aswillbe discussedlaterin thischapter[ 1 , 14 ].Inaddition,studies haveshownthatsurvi valofpatientswithendobronchial CAO isbetterthanextrinsic or mixedCAO [ 15 , 16 ]. 4Presentation MCAOhasthepotentialtoimposeaprofoundsymptom burden,most commonlymani festingas dyspneawhichmay have positionalaggravationwithlying at[ 4 , 5 ].These patients oftenpresent withstridororunilateralwheezeon examination[ 5 ].Othersymptomsarisedirectlyfromtissue compr essionorinvasionbytheairwaytumorandmay includecough,hemoptysis,chestpain,hoarseness,ordysphagia[ 4 ].Compressionoftheairwaycanleadtopersistent orrecurrentpostobstructivepneumoniaduetoimpaired mucusclearancewithassociatedsymptomsofinfection.",
+        "tokens": 83,
+        "page_range": [
+          "2"
+        ],
+        "provenance": {
+          "page": "2",
+          "paragraph_index": 2
+        }
+      },
+      {
+        "id": "p2_3",
+        "unit_type": "paragraph",
+        "section_id": "sec2_multi",
+        "order": 3,
+        "text": "Manypatientsdeveloprespiratoryfailurerequiringmechanicalventilation[ 17 ].Compressionofadjacentvascul arstructuresmayleadtopulmonaryarterialthrombusorSVC syndrome,andvigilance isrequiredtodetectthesecomplicationsasthesemeritanintensivemultidisciplinaryapproach totreatment whichmust proceedconcomitantlyor precede themanagementofMCAO[ 18 ].Theinterventionalpulmonologistshouldcarefully evaluate eachpatientpriortoconsideringdiagnosticandtherapeuticapproacheswith considerationofthesymptomsseverity,respiratorycompr omise,patientreser ve,andconcurrentcomor bidities. 5DiagnosticEvaluation The diagnosisofMCAOisestablishedonthe history,physicalexamination,andimaging[ 1 , 4 ].Acompr ehensi veclinicalhist oryandphysicalexamcanprovideimportantdetails regardingtheseverity ofsymptomsandpatient ™ strajectory whichcandirecttheteamabouttheurgencyoftherapeutic management.Ithasbeenwellestablishedthatthereare greateroddsof successfullyrelievingMCAOwhenthelesion ispromptlyactedupon[ 16 , 19 ].",
+        "tokens": 60,
+        "page_range": [
+          "2"
+        ],
+        "provenance": {
+          "page": "2",
+          "paragraph_index": 3
+        }
+      },
+      {
+        "id": "p2_4",
+        "unit_type": "paragraph",
+        "section_id": "sec2_multi",
+        "order": 4,
+        "text": "WhilechestX-rays may bereadilyavailable,the ndings maybenonspeci cas the airwayanatomyis poorlyde ned [ 20 ].Thecomputerizedtomography(CT)ofthechest remainsthemostreliablemeansofdiagnosingandcharacterizingMCAO [ 4 ].However,radiographicdetectionof MCAOishighlyvariableinthe ﬁ real-world ﬂ withevidence ofunderdiagnosisofcentralairwaycompromise[ 21 ].CT imagingofthechestfor MCAOhasalsobeenshownto underestimatetheextentofairway obstructionascompared 2 J.E.Howe etal.",
+        "tokens": 49,
+        "page_range": [
+          "2"
+        ],
+        "provenance": {
+          "page": "2",
+          "paragraph_index": 4
+        }
+      },
+      {
+        "id": "p3_1",
+        "unit_type": "paragraph",
+        "section_id": "sec6",
+        "order": 1,
+        "text": "to contemporaneousbronchoscopybutmayoverestimatethe degreeofobstructioninca ses where mucusor bloodmasquerade as tissueobstruction[ 20 ].",
+        "tokens": 13,
+        "page_range": [
+          "3"
+        ],
+        "provenance": {
+          "page": "3",
+          "paragraph_index": 1
+        }
+      },
+      {
+        "id": "p3_2",
+        "unit_type": "paragraph",
+        "section_id": "sec6",
+        "order": 2,
+        "text": "Visualizationofapatentdistalairwayeitherradiographicallyorbronchoscopicallyhasbeenshowntobeanindicator ofsuccessfulreliefofMCAO and mayportendmorefavorablebronchoscopicoutcome[ 19 ].Durationoflobaratelectasisofgreaterthan fourweeksmay suggesttheatelectatic lungisirredeemable[ 20 ].",
+        "tokens": 13,
+        "page_range": [
+          "3"
+        ],
+        "provenance": {
+          "page": "3",
+          "paragraph_index": 2
+        }
+      },
+      {
+        "id": "p3_3",
+        "unit_type": "paragraph",
+        "section_id": "sec6",
+        "order": 3,
+        "text": "Functi onaltestingincludingspirometryinthe settingof MCAOmaynotbefeasible,particularlywhenthe patientis presentingwithprofoundsymptomsoracuterespiratoryfailure.Thatnoted,spirometrymayshowpatternsofexpiratory, inspiratory,orcombined ow-volumeloop atteningwhich havebeenassociatedwithvariableintrathoracic,variable extrathoracic,or xedobstruction,respectively[ 4 ]. 6TherapeuticApproach andTreatment Therapeuticmanagement ofMCAOismultidisciplinaryand multimodal;therapeuti cbronchoscopyisthebackboneof this approach[ 1 , 2 , 4 ].Multiple studieshaveshownthattherapeuticbronchoscopypalliatessymptomslikedyspneaand improves thequalityof life (QOL)andsurvival[ 16 , 22 Œ 30 ].Notonlydoesitpalliatessymptoms,therapeuticbronchoscopyserves asabridgetode nitive treatmentlikechemotherapy,radiation,andevensurgery[ 1 , 31 , 32 ].Evidence suggeststhatpatientswhounderwentsuccessfultherapeutic bronchoscopy forCAOhadaprognosis similartopatients whodidnothaveCAO [ 3 ].",
+        "tokens": 79,
+        "page_range": [
+          "3"
+        ],
+        "provenance": {
+          "page": "3",
+          "paragraph_index": 3
+        }
+      },
+      {
+        "id": "p3_4",
+        "unit_type": "paragraph",
+        "section_id": "sec6",
+        "order": 4,
+        "text": "Astudyfrommulticenter,prospectiveregistryAmerican CollegeofChestPhysicians QualityImprovementRegistry, Evaluation,andEducation(AQuIRE)inclu ded1115 therapeuticbronchoscopieson947patientswithMCAO [ 33 ].Clini callysigni cantimprovementindyspneaoccurred in90 of187(48%)patientsmeasuredandimprovement in health-relatedQOLwasseenin76outof183(42%)patients measured.Inanotherprospectivestudyof53patients with CAO,including24withMCAO,therewasasigni cant improvement ofabout500mlinFVCandFEV1[ 22 ].Dyspneaasmeasured by SanDiegoShortnessofBreathQuestionnaire (SOBQ)decreasedsigni cantlybyabout15points, andtherewasanimprovementinalmostalldomains ofQOL measuredby36-ItemShortFormSurvey(SF -36).The mediansurvi valofMCAOpatientswhohadasuccessful therapeuticbronchoscopycompared topatientswithunsuccessfulprocedurewas229vs115days[ 22 ].Astudyhas shownthatthisimprovedsurvivalandpalliationis maintainedlong term[ 16 ].Thereisevidencetosupportthat inpatientswithMCAOandrespiratoryfailure,therapeutic bronchoscopycanleadtoweaningfrommechanicalventilation[ 17 , 34 ].Inaretrospectivestudy,30patientswithacute respiratoryfailuresecondarytoMCAOunderwenttherapeuticbronchoscopy[ 17 ].Twenty-eight(93%)patientswere successfullyextubatedwithin48hours. Inaddition,thereis evidencetosuggestthatea rlytherapeuticbronchoscopycan improvesurvival[ 16 , 19 ].Thecomplicationsreportedwith therapeutic bronchoscopyintheAQuIREregistryincluded procedure-relateddeaths(0.5%),escalationinlevelof care (4.4%),bleedingrequiring intervention(0.5%),andrefractoryhypoxemia(2.2%)[ 35 ].Thesecomplicationsshouldbe carefullydiscussedwiththepatientsand referringproviders to decidethemanagementoptions.Examplesofcaseswith intrinsic,extrinsic,andmixedcentralairwayobstructionare showninFigs. 2 , 3 and 4 .Amanagementalgorithmis proposedinFig. 5 . Fig. 1 Classi cation ofcentral airwayobstruction.( a ) Intrinsicor endobronchial,( b )extrinsicor extraluminal,and( c )mixed.",
+        "tokens": 168,
+        "page_range": [
+          "3"
+        ],
+        "provenance": {
+          "page": "3",
+          "paragraph_index": 4
+        }
+      },
+      {
+        "id": "p3_5",
+        "unit_type": "paragraph",
+        "section_id": "sec6",
+        "order": 5,
+        "text": "(Adapted fromFig.25.2from previouschapterbyMichaud) MalignantCentralAirwayObstruction 3",
+        "tokens": 9,
+        "page_range": [
+          "3"
+        ],
+        "provenance": {
+          "page": "3",
+          "paragraph_index": 5
+        }
+      },
+      {
+        "id": "p4_1",
+        "unit_type": "paragraph",
+        "section_id": "sec6",
+        "order": 1,
+        "text": "6.1PatientAssessment Acarefulassessmentofthepatientisessentialforplanning therapeuticbronchoscopy,including theanesthesiaapproach, intubationpreparation,andECMO back-up [ 1 ].Besidesthe detailedhistory andclinicalexamination,especiallyevaluatingtheairwayandrespiratorysystem,followingcomponents ofexaminationcaninformthedif cultyofendotr achealtube placementorrigidbronchoscopy: 1.Mouthopening(normal > 3 ngerbreadths)[ 36 ] 2.Teeth,likeloose,missingor prominent[ 36 ] 3.Modi edMallampatiscore[ 37 , 38 ] 4.Neckmobility(Normal > 90°)[ 36 ] 5.Thyromentaldistance(normal > 3 ngerbreadths)[ 36 ] 6.2RigidVersusFlexibleBronchoscopy Fortherapeuticapproach toMCAO,rigidbronchoscope has severaltechnicaladvantagesover exiblebronchoscope.",
+        "tokens": 73,
+        "page_range": [
+          "4"
+        ],
+        "provenance": {
+          "page": "4",
+          "paragraph_index": 1
+        }
+      },
+      {
+        "id": "p4_2",
+        "unit_type": "paragraph",
+        "section_id": "sec6",
+        "order": 2,
+        "text": "Theseincludeestablishmentofsecure airway formechanical ventilation,abilitytousethebeveledendofrigidbronchoscope tocoreanobstructingtumor,andprovisionofaconduit throughwhich exibl ebronchoscope,rigidforceps, large suctioncatheters,andstentscanbedeployed[ 1 ].Thesilicone stentscanonlybedeployedthroughtherigidbronchoscopes [ 39 ].Theseadvantagesare particularlyimportantforlarge and proximalce ntralairwaytumors.The exibl ebronchoscopesmightbeadequatefordistalandsmallerairway lesionsand isusedasanadjunctwith almostallrigidbronchoscopyca ses. Therefore,theAmericanCollegeofChest Physicians (ACCP) guidelinesformanagementofcentral airwayobstructionsuggestedrigidover exiblebronchoscopyfortherapeutic interventions[ 1 ].",
+        "tokens": 51,
+        "page_range": [
+          "4"
+        ],
+        "provenance": {
+          "page": "4",
+          "paragraph_index": 2
+        }
+      },
+      {
+        "id": "p4_3",
+        "unit_type": "paragraph",
+        "section_id": "sec6",
+        "order": 3,
+        "text": "IntheAQuIREregistry,outof1115therapeuticbronchoscopies , exiblebronchoscopewasusedin382 (34.3%)and rigidbronchoscopein 733(65.7%)procedures.Successrate, de nedas reopeningtheairwaylumento > 50%of the normaldiameter,was 92.7% vs. 93.5% (P = 0.62)for exible andrigid bronchoscopy,respectively[ 33 ]. Thecomplications weresim ilarwith bothmodalities[ 35 ].Similaroutcomes have beenreported byotherstudiesaswell[ 40 , 41 ].However, rigidbronchoscopehasbeenusedmoreoftenforproximal andbulkier disease[ 40 ].Astudyhasshownthatlessprocedureswereneededwithrigidvs. exiblebronchoscopic approach[ 42 ]. Fig.2 Intrinsicorendobronchialcentralairway obstruction.( a )CT chestshowingendobronchialmass withsigni canttrachealobstruction, ( b )bronchoscopicview,( c )insertionofelectrocauterysnarearoundthe mass,( d ) exibleelectrocauteryprobeablation,( e ) exibleforceps debridement,and( f )carinaafterdebridementofthetrachealmass.",
+        "tokens": 99,
+        "page_range": [
+          "4"
+        ],
+        "provenance": {
+          "page": "4",
+          "paragraph_index": 3
+        }
+      },
+      {
+        "id": "p4_4",
+        "unit_type": "paragraph",
+        "section_id": "sec6",
+        "order": 4,
+        "text": "Themasswascarcinoidtumor,andpatientunderwentsubsequentsurgicalsleeveresectionofthetracheaandcarinalreconstruction 4 J.E.Howe etal.",
+        "tokens": 9,
+        "page_range": [
+          "4"
+        ],
+        "provenance": {
+          "page": "4",
+          "paragraph_index": 4
+        }
+      },
+      {
+        "id": "p5_1",
+        "unit_type": "paragraph",
+        "section_id": "sec6",
+        "order": 1,
+        "text": "6.3AnestheticApproachforTherapeutic Bronchoscopy Generalanesthesiawithparalyticsisassociatedwithless complicationsandismoreeffectivefortherapeuticbronchoscopy.IntheAQuIREregistry,961 therapeuti cbronchoscopiesweredonewithgeneralanesth esia/deep sedationand 154 withmoder atesedation[ 33 , 35 ].Thetechnicalsuccess was similar,butlesscomplicationswereobservedwithgeneralanesthesia/deepsedationvs.moder atesedation (OR = 0.42;95%CI,0.21 Œ 0.83;P = 0.013).Also,theuse of paralyticswasassociatedwithlesscomplications (3%vs.6.7%,P = 0.006).Arandomizedcontrolledtrial (RCT)alsoreportedlowercomplicationswith paralyticsvs.withoutparalyticsfortherapeuticbronchoscopy[ 43 ].Evidencesuggeststhatmoreproceduresessions arerequiredfortherapeuticbronchoscopywithmoder ate sedationcomparedtogeneralanesthesia[ 42 ].TheACC P guidelinessuggesttheuseofgeneral anesthesia/deepsedationwithparalyticsfortherapeuti c bronchoscopy[ 1 ].Multidisciplinarycollaborationwithanesthesiology teamis essentialtoplantheoptimalanesthesiaapproachforthese patients. 6.4VentilatorSupportforTherapeutic Bronchoscopy For patientsundergoinggeneralanesthesiafortherapeutic bronchoscopy,differentmodes ofventilationincludingjet ventilation andcontrolledorspontaneousassistedventi lation canbeused[ 44 ].IntheAQuIRE registry,controlledor spontaneousassisted,volumecycled ventilationwasusedin 714(64%)andjetventilationin230(20.6%)patientswith MCAO[ 33 , 35 ]. Thetechnicalsuccessrateandcomplicationswere similarwithbothapproaches.Astudyhasreported morehypercapniawithcontrolledvs.jet ventilation[ 45 ]. The ACCPguidelinessuggesttheuseofeither jetorcontrolled/ spontaneousassistedventi lationfortherapeuticbronchoscopyunder generalanesthesia[ 1 ].",
+        "tokens": 147,
+        "page_range": [
+          "5"
+        ],
+        "provenance": {
+          "page": "5",
+          "paragraph_index": 1
+        }
+      },
+      {
+        "id": "p5_2",
+        "unit_type": "paragraph",
+        "section_id": "sec6",
+        "order": 2,
+        "text": "In patientswithseveretrachealorbilateralmain stem bronchialobstructionwithconcernforrespiratoryarrest or completecollapse ofairwaylumenonanesthesiainduction, extracorporealmem brane oxygenation(ECMO)canoffera safebridge foranesthesia[ 46 ]. 6.5TumorDebridement Tumordebridementisgenerallythe rststep torecanalize airwaywithendobronchial or mixedobstruction.Itisgenerallyperformedwith exibleorrigidforcepsandtumoris Fig. 3 Extrinsiccentralairway obstruction.( a )CTchest showing mediastinalmasswithsigni cant trachealextrinsiccompression, ( b )bronchoscopicview,( c ) hybridstentplacedintrachea, and ( d )CTchestshowingresolution oftrachealobstructionafter radiationandchemotherapyfor lymphomaandstent removal MalignantCentralAirwayObstruction 5",
+        "tokens": 62,
+        "page_range": [
+          "5"
+        ],
+        "provenance": {
+          "page": "5",
+          "paragraph_index": 2
+        }
+      },
+      {
+        "id": "p6_1",
+        "unit_type": "paragraph",
+        "section_id": "sec6",
+        "order": 1,
+        "text": "excisedfromtheairway [ 1 ].Thebeveledendofrigidbronchoscopecanbeusedforcoring throughtheproximal Fig.4 Mixedcentralairwayobstruction. ( a )CTchestshowingmixed extrinsicand intrinsicobstructionof rightmainstembronchusand bronchusintermedius,( b ) bronchoscopicviewshowingendobronchial diseaseaswellasextrinsiccompressionofrightmainstembronchusand bronchusintermedius,and( c )balloondilationofbronchusintermedius.",
+        "tokens": 26,
+        "page_range": [
+          "6"
+        ],
+        "provenance": {
+          "page": "6",
+          "paragraph_index": 1
+        }
+      },
+      {
+        "id": "p6_2",
+        "unit_type": "paragraph",
+        "section_id": "sec6",
+        "order": 2,
+        "text": "Guidewirehasbeeninsertedintodistalairways.( d )Hybridstentplaced in bronchusintermedius,( e )distalviewofthestent,and( f )CTchest showedresolutionofbronchusintermediusobstructionafterradiation andchemotherapyfornonsmallcelllungcancerandsubsequent stent removal Malignant Central Airway Obstruction Surgical Management Debridement/Ablation ofEndobronchial Tumor Stent Placement for ExtrinsicObstruction or Tumor Recurrence Possible Local Bronchoscopic Therapy* Systemic Chemotherapy + ExternalBeamRadiation SurgicalCandidate Non-surgical Candidate Fig. 5 Suggestedalgorithm for themanagementofmalignant centralairwayobstruction.*Local bronchoscopictherapy may includephotodynamictherapy, brachytherapy,cryotherapy,or intratumoral chemotherapy injection. 6 J.E.Howe etal.",
+        "tokens": 82,
+        "page_range": [
+          "6"
+        ],
+        "provenance": {
+          "page": "6",
+          "paragraph_index": 2
+        }
+      },
+      {
+        "id": "p7_1",
+        "unit_type": "paragraph",
+        "section_id": "sec6",
+        "order": 1,
+        "text": "tumors.Cryoprobecanbeusedfordebridement,hasbeen showntobeeffectivein severalcaseseries,andmakesthe debridementprocessmoreef cientcomparedtoforceps [ 47 , 48 ]. 6.6AblativeTherapies withImmediateEffect Multipleablativetherapiesareavailableandcanhelpwith tumor debridementandrecanalizingtheairways[ 48 ].The detailsoftheseablativetherapiesare addressedinanother chapter.Thesemodalitiesincludecontactelectrocautery deviceslike exibleandrigidprobes, electrocauterysnare, andknife[ 49 ].Thenoncontactablativetherapiesinclude argonplasmacoagulation(APC)andlaser[ 50 , 51 ].The roleofablativetherapies isto achievehemostasiswith tumordebridementandtumordestructionorvaporization.It isimportanttoknowthevariabledepthoftissuedestruction withdifferentdevices and settings,astheheateffectgoes deeperthanthesurfaceablation.Inaddition,itiscriticalto decreasethefractionofinhal edoxygen(FiO 2 )to 0.4 and keeptheactivetipoftheablativeprobesawayfrom ammabledeviceslike exibl e bronchoscopeor endotr achealtubeto decreasetheriskofairway re[ 1 ].TheACCPguidelines suggesttumorexcisionwith ablative therapies toachieve airwaypatency[ 1 ]. 6.7AblativeTherapies withDelayed Effect Ablativetherapies withdelayedeffectincludephotodynamic therapy(PDT),brachytherapy,andcryotherapy[ 48 ].The detailsofthesetherapiesareaddressedinotherchapters.",
+        "tokens": 110,
+        "page_range": [
+          "7"
+        ],
+        "provenance": {
+          "page": "7",
+          "paragraph_index": 1
+        }
+      },
+      {
+        "id": "p7_2",
+        "unit_type": "paragraph",
+        "section_id": "sec6",
+        "order": 2,
+        "text": "Whilebrachytherapyandcryotherapyhavefallenoutof practice becauseoflimiteddataaroundtheiref cacy,PDT isstillutilizedtorecanalizetheairwaysanddecreasethe tumorregrowth.There isalsosomeemergingdataaround injectionofchemotherapyinto theendobronchiallesions [ 52 ].Multiple,smallstudieshaveexplor edtheef cacyof PDT[ 53 , 54 ].Inaretrospective studyofNSCLCpatients withCAO,PDTwithchemoradiation( n = 39)wascompared tonon-PDTablationandchemoradiation( n = 558) [ 53 ].MeantimeforrepeatinterventioninPDT vs.non-PDT groupswas147vs.98days(P = 0.20).All-causemortality waslowerinthePDTgroup.PDTtreat mentisassociated withphotosensitivityandpatientsneedtoavoidsunlight for uptoeightweeksafterthetreatment.Inaddition,airway stenosiscanbeseenasacomplication ofPDT.ACCPguidelinessuggeststoconsider these ﬁ localtherapies ﬂ thatprevent tumorregrowthfor MCAOmanagement inselect patients[ 1 ]. 6.8AirwayStents Theairway stentsareimportant adjunctsinmaintainingthe patencyofairwaysinMCAObyrelievingextrinsiccompressionorpreventtumorregrowth.Thestentsprovidemore durabl e control of dyspneaanddecrease theneedforrepeated therapeuticbronchoscopies[ 1 , 11 ].Siliconeorfullycovered hybridmetalstentsareusedinMCAO, andthereisno differenceintheef cacyofeitherstenttype[ 55 ]. Det ailsof theairwaystentsarediscussedinotherchapters.Theairway stents should beconsideredinpatientswithextrinsiccompressionforpalliationorwhileadjunctchemoradiationneeds timetoshrinkthetumor[ 1 ]. InendobronchialCAO,the stents havearoleaftertumordebridement inpatientswho havefailedtheinitialchemoradiationorprevioustherapeutic bronchoscopies [ 1 ].",
+        "tokens": 133,
+        "page_range": [
+          "7"
+        ],
+        "provenance": {
+          "page": "7",
+          "paragraph_index": 2
+        }
+      },
+      {
+        "id": "p7_3",
+        "unit_type": "paragraph",
+        "section_id": "sec6",
+        "order": 3,
+        "text": "Therearemultiplecaseseriesdocumentingthesafetyand ef cacyofdifferenttypesofairwaystentsinMCAO[ 16 , 17 , 22 , 24 , 27 , 28 , 33 , 34 , 39 ].Anunderpoweredtrial randomized78patientswithNSCLCrelatedendobronchialCAOto siliconestentplacementvs.nostentaftertumordebrid ement [ 14 ].Althoughtherewasnodifferenceinthelocal recurrence-freesurvi val,thepatients whounderwentstent placementhadmoredurablereliefofdyspneabeyondthree monthsanddecreasedneedforrepeattherapeuticbronchoscopies .Inaddition,localrecurrenceoftumorwas decreased inthesubsetofpatientswhofailed rst-linechemotherapyor recei vedpalliationorradiation only,comparedtotreat mentnaïvepatients(Hazardsratio,0.21;95% CI,0.06 Œ 0.74; P = 0.007).",
+        "tokens": 65,
+        "page_range": [
+          "7"
+        ],
+        "provenance": {
+          "page": "7",
+          "paragraph_index": 3
+        }
+      },
+      {
+        "id": "p7_4",
+        "unit_type": "paragraph",
+        "section_id": "sec6",
+        "order": 4,
+        "text": "Thestentsareassociatedwithcomplications likegrowth ofgranul ationtissueortumorattheproximalordistalends, mucusplugging,migration,andevenerosionintosurroundingmediastinalstructureslike esophagusandbloodvessels [ 55 ].Theerosion israrewithmoder nstentsbutcanbe encountered inthesettingofperiproceduralradiation [ 56 , 57 ].Therefore,thepatientswithairwaystentsshould becarefullyfollowed andthestentsshouldberemov edas soonasthere isevidenceofsigni canttumorregression [ 1 ].Thepatientsshould beprescribedmucociliaryclear ance therapieslikenebulizedhypertonicsalineoracetylcysteineto preventmucuspluggingofthestents [ 11 , 58 ].Theevidence isunclearabouttheroleofsurveillancebronchoscopiesafter airwaystentplacement[ 1 , 11 ].Aretr ospectivestudyof patientswithstentplacementwhowereavailablefor follow-upcompared routinesurveillancebronchoscopy within threemonthsofstentinsertiontobronchoscopy whenpatientsweresymptomatic.Thepatientsin either groupweresymptomaticwhenstent-relatedcomplications weredetectedonbronchoscopy[ 59 ].ACC Pguidelinesrecommendeitherroutinesurveillanceorsymptom-drivenbronchoscopy[ 1 ].CTchestcanbeutilizedforsurveillanceand assessstentpatency[ 1 , 60 ].",
+        "tokens": 78,
+        "page_range": [
+          "7"
+        ],
+        "provenance": {
+          "page": "7",
+          "paragraph_index": 4
+        }
+      },
+      {
+        "id": "p7_5",
+        "unit_type": "paragraph",
+        "section_id": "sec6",
+        "order": 5,
+        "text": "MalignantCentralAirwayObstruction 7",
+        "tokens": 3,
+        "page_range": [
+          "7"
+        ],
+        "provenance": {
+          "page": "7",
+          "paragraph_index": 5
+        }
+      },
+      {
+        "id": "p8_1",
+        "unit_type": "paragraph",
+        "section_id": "sec6",
+        "order": 1,
+        "text": "6.9RoleofChemotherapyandRadiation Therapeuticbronchoscopycanprovidea bridge tode nitive chemoradiotherapyforunderlyingmalignancy[ 1 ].Incaseof externalbeamradiationtherapy(EBRT),treatmentofcentral lesionsisassociatedwithanincreasedrisk ofcomplications, like airwayandvascul ar stulae,airwaynecrosis,andstenosis[ 61 ].Theserisks maybecompoundedbyairwaystents, whichmaycauselocalairwayischemiabecauseoftheradial pressureofthestent[ 61 ],increasedmucosaltoxicitybythe radiationduetotheradiationscatterbythemetalstent[ 56 ], orrapid regressionof thetumorinvadingtheairwayor surroundingstructurescreating stulae. Inaseriesof 43patientswithMCAOwhounderwentairwaystentplacementandEBRT,theEBRTwasstoppedprematurelydueto complicationsin37% patients[ 61 ].Theadverse events includedmalignantrestenosisofthestent( n = 7), stula ( n = 4),airwaynecrosis( n = 3),medi astinitiswithabscess ( n = 1),nonmalignantairwaystenosis( n = 1),and hemoptysis( n = 1). Theradiationforcentralairwaytumorsshould becarefullyplanned[ 56 , 61 ],anddoseadjustedto minimize thetoxicity [ 61 ].Forhigh-riskpatients,concurrentchemotherapyandEBRT shouldbeavoided,andstentsshouldbe removedassoonasfeasible[ 61 ].Theserisksshouldbe addressedinamultidisciplinaryfashionanddiscussedwith thepatients. 6.10RoleofSurgery Therapeuticbronchoscopycanalsofacil itatesurgicalresectionforairwayorlungmalignancy[ 1 , 31 ]. Surgeryshould be consideredasade nitivemanagementinallpatientswhoare surgicalcandidates[ 1 ].Car cinoidtumorsoftenpresentas airwaytumors,and therapeuticbronchoscopyisperformed fortherelief ofairway obstr uction.Surgicalresectionshould followifthepatientisasuitablecandidate,assuggestedby differentsocietalguidelinesincludingACCP[ 1 , 62 , 63 ].However,inpatientswhoarenot tforsurgery,therapeuticbronchoscopycan beconsideredastheprimarymanagementoption[ 1 ].In aretrospective studyofpatientswith endobronchialcarci noid tumors,25patientswithtypical carci noidweretreat edwiththerapeuticbronchoscopywith laserresect ion,and48patientswith typicaloratypicalcarcinoidunderwentsurgicalresection [ 64 ].Ninepatientsinthe bronchoscopicgroup underwentsurgicalresectionafterward.",
+        "tokens": 172,
+        "page_range": [
+          "8"
+        ],
+        "provenance": {
+          "page": "8",
+          "paragraph_index": 1
+        }
+      },
+      {
+        "id": "p8_2",
+        "unit_type": "paragraph",
+        "section_id": "sec6",
+        "order": 2,
+        "text": "The5-yearsurvivalwasabout94% inbothgroups.Studies havealsoshownthatpatientswithNSCLCandotherairway malignanciescouldundergosurgicalresectionaftertherapeuticbronchoscopy[ 31 , 65 ].Inacaseseries,74patientswith NSCLCwereable to undergo surgicalresect ion,with parenchyma-sparingsurgery(lobectomy orbilobectomy) after therapeutic bronchoscopy[ 31 ].Multidisciplinary approach includingthoracicsurgeryisessentialfor select MCAOpatients. 7Conclusion In conclusion, patientswithMCAOhaveapoorprognosis andpresentwithacutesymptomsandrespiratorycompr omise.Multimodality,therapeuticbronchoscopyisessential to managethesepatients.Multidisciplinaryapproachwithdifferentrelevantspecialtiesandpatientparticipationcan relieve symptoms,improvequali tyof lifeand survival,and minimizecomplications.",
+        "tokens": 62,
+        "page_range": [
+          "8"
+        ],
+        "provenance": {
+          "page": "8",
+          "paragraph_index": 2
+        }
+      },
+      {
+        "id": "p8_3",
+        "unit_type": "paragraph",
+        "section_id": "sec6",
+        "order": 3,
+        "text": "CompetingInterestDeclaration Theauthor(s)hasnocompeting intereststodeclarethat arerelevanttothecontentofthismanuscript.",
+        "tokens": 8,
+        "page_range": [
+          "8"
+        ],
+        "provenance": {
+          "page": "8",
+          "paragraph_index": 3
+        }
+      },
+      {
+        "id": "p8_4",
+        "unit_type": "note",
+        "section_id": "sec8_references",
+        "order": 4,
+        "text": "References",
+        "tokens": 1,
+        "page_range": [
+          "8"
+        ],
+        "provenance": {
+          "page": "8",
+          "paragraph_index": 4
+        }
+      },
+      {
+        "id": "p8_5",
+        "unit_type": "paragraph",
+        "section_id": "sec8_references",
+        "order": 5,
+        "text": "1.MahmoodK,Frazer-GreenL,GonzalezAV,et al.Managementof central airwayobstruction:anAmericanCollegeofChestPhysiciansClinicalPracticeGuideline.Chest.2024;167(1):283 Œ 95. 2.MurguSD,EgressyK,LaxmananB,DoblareG,Ortiz-CominoR, HogarthDK.Centralairwayobstruction:benignstrictures, tracheobronchomalacia,andmalignancy-relatedobstruction. Chest. 2016;150(2):426 Œ 41. 3.ChhajedPN,Baty F,Pless M,SomandinS,TammM,Brutsche MH.Outcomeoftreatedadvancednon-smallcelllungcancerwith andwithoutcentralairwayobstruction.Chest.2006;130(6):1803 Œ 7. 4.ErnstA,Feller-KopmanD,Becker HD, MehtaAC.Centralairway obstruction.AmJRespirCritCare Med.2004;169(12):1278 Œ 97. 5.DaneshvarC,Falconer WE,AhmedM,etal.Prevalenceandoutcomeof centralairwayobstructioninpatientswithlung cancer.BMJ OpenRespirRes.2019;6(1):e000429. 6.YarmusL,Feller-KopmanD,ImadM,KimS, LeeHJ. Procedural volumeandstructureofinterventionalpulmonary fellowships:a surveyof fellowsandfellowshipprogram directors.Chest. 2013;144(3):935 Œ 9. 7.MullonJJ,BurkartKM,SilvestriG,etal.Interventional pulmonologyfellowshipaccreditationstandards: executivesummaryofthemultisocietyinterventionalpulmonologyfellowship accreditationcommittee.Chest.2017;151(5):1114 Œ 21. 8.LeeHJ,AkulianJA,Argento AC,etal.Interventionalpulmonary fellowship training:endofthebeginning.ATSSch.2023;4(4):405 Œ 12. 9.MahmoodK,WahidiMM, OsannKE,etal.Developmentofatool toassessbasiccompetencyinthe performanceofrigidbronchoscopy.AnnAmThoracSoc.2016;13(4):502 Œ 11. 10.MahmoodK, WahidiMM, Shepherd RW,etal.Variablelearning curveofbasicrigidbronchoscopyintrainees.Respiration.2021;100 (6):530 Œ 7. 11.Chaddha U,AgrawalA,KurmanJ,etal.WorldAssociationfor Bronchologyand InterventionalPulmonology(WABIP)guidelines onairway stentingformalignantcentralairway obstruction.",
+        "tokens": 244,
+        "page_range": [
+          "8"
+        ],
+        "provenance": {
+          "page": "8",
+          "paragraph_index": 5
+        }
+      },
+      {
+        "id": "p8_6",
+        "unit_type": "paragraph",
+        "section_id": "sec8_references",
+        "order": 6,
+        "text": "Respirology.2024;29(7):563 Œ 73. 12.Guedes F,BranquinhoMV,SousaAC,AlvitesRD,Bugalho A, MauricioAC.Centralairwayobstruction:isittime tomoveforward? BMCPulmMed.2022;22(1):68. 13.ShinB,ChangB, Kim H,JeongBH.Interventionalbronchoscopy in malignantcentralairwayobstructionbyextra-pulmonarymalignancy.BMCPulmMed.2018;18(1):46. 8 J.E.Howe etal.",
+        "tokens": 57,
+        "page_range": [
+          "8"
+        ],
+        "provenance": {
+          "page": "8",
+          "paragraph_index": 6
+        }
+      },
+      {
+        "id": "p9_1",
+        "unit_type": "paragraph",
+        "section_id": "sec8_references",
+        "order": 1,
+        "text": "14.DutauH,Di PalmaF,ThiboutY,etal.Impactofsiliconestent placementinsymptomatic airwayobstructionduetonon-smallcell lungcancer Œ aFrenchmulticenterrandomizedcontrolledstudy:the SPOCtrial.Respiration.2020;99(4):344 Œ 52. 15.FreitasC,SerinoM,CardosoC,etal.Predictorsofsurvival and technicalsuccess of bronchoscopicinterventionsinmalignantairwayobstruction.JThoracDis. 2021;13(12):6760 Œ 8. 16.OngP,GrosuHB,DebianeL,etal.Long-termquality-adjusted survivalfollowing therapeuticbronchoscopyformalignantcentral airwayobstruction.Thorax.2019;74(2):141 Œ 56. 17.OkiM,SakaH,HoriK.Airwaystentinginpatients requiring intubationduetomalignantairwaystenosis:a10-yearexperience.",
+        "tokens": 86,
+        "page_range": [
+          "9"
+        ],
+        "provenance": {
+          "page": "9",
+          "paragraph_index": 1
+        }
+      },
+      {
+        "id": "p9_2",
+        "unit_type": "paragraph",
+        "section_id": "sec8_references",
+        "order": 2,
+        "text": "JThoracDis.2017;9(9):3154 Œ 60. 18.KvalePA,SeleckyPA,PrakashUB,AmericanCollegeofChest P.Palliativecareinlungcancer:ACCP evidence-basedclinical practiceguidelines(2ndedition).Chest.2007;132(3Suppl):368S Œ 403S. 19.GiovacchiniCX,Kessler ER,MerrickCM,etal.Clinicaland radiographicpredictors ofsuccessfultherapeuticbronchoscopyfor thereliefofmalignantcentralairwayobstruction.BMCPulmMed. 2019;19(1):219. 20.MudambiL,MillerR,Eapen GA. Malignantcentralairwayobstruction.JThoracDis. 2017;9(Suppl10):S1087 Œ 110. 21.HarrisK,AlraiyesAH,AttwoodK,ModiK,DhillonSS.Reporting ofcentralairwayobstructiononradiologyreportsandimpact on bronchoscopicairwayinterventionsandpatientoutcomes.TherAdv RespirDis.2016;10(2):105 Œ 12. 22.MahmoodK,WahidiMM,ThomasS,etal.Therapeuticbronchoscopyimprovesspirometry,qualityoflife,andsurvivalincentral airwayobstruction.Respiration.2015;89(5):404 Œ 13. 23.Breitenbucher A,ChhajedPN,BrutscheMH,MordasiniC, SchilterD,TammM.Long-termfollow-upandsurvivalafterUltraexstentinsertioninthemanagementofcomplexmalignantairway stenoses.Respiration.2008;75(4):443 Œ 9. 24.OviattPL,StatherDR,MichaudG,MaceachernP,Tremblay A.Exercisecapacity,lungfunction,andqualityoflifeafterinterventional bronchoscopy.JThoracOncol.2011;6(1):38 Œ 42. 25.ChhajedPN, SomandinS,BatyF, etal.Therapeuticbronchoscopy formalignantairwaystenoses:choiceofmodalityandsurvival.J CancerResTher.2010;6(2):204 Œ 9. 26.DalarL, OzdemirC,AbulY,etal.Therapeutic bronchoscopic interventionsformalignantairwayobstruction:aretrospective studyfromexperienceon547patients.Medicine(Baltimore). 2016;95(23):e3886. 27.MohanA,ShresthaP,MadanK,etal.Aprospectiveoutcome assessmentafter bronchoscopicinterventionsformalignantcentral airwayobstruction.JBronchologyIntervPulmonol.2020;27(2):95 Œ 105. 28.QianHW,ZhangP,WangX, etal.Survivalandprognosticfactors forpatientswithmalignant centralairwayobstructionfollowing airwaymetallicstent placement.JThoracDis.2021;13(1):39 Œ 49. 29.SajiH, FurukawaK, TsutsuiH,etal.Outcomesofairwaystenting foradvancedlungcancerwithcentralairwayobstruction. Interact CardiovascThoracSurg.2010;11(4):425 Œ 8. 30.StratakosG,GerovasiliV,DimitropoulosC,etal.Survival and qualityoflifebene tafterendoscopicmanagementofmalignant centralairwayobstruction.JCancer.2016;7(7):794 Œ 802. 31.ChhajedPN,EberhardtR, DienemannH,etal.Therapeuticbronchoscopyinterventionsbeforesurgical resectionoflungcancer.Ann ThoracSurg.2006;81(5):1839 Œ 43. 32.LeeEYC,McWilliamsAM,SalamonsenMR.Therapeuticrigid bronchoscopy interventionformalignantcentralairwayobstruction improves performancestatustoallow systemictreatment.J BronchologyIntervPulmonol.2022;29(2):93 Œ 8. 33.OstDE,Ernst A,GrosuHB,etal.Therapeuticbronchoscopyfor malignantcentralairwayobstruction:success rates andimpacton dyspneaandqualityoflife.Chest.2015;147(5):1282 Œ 98. 34.MurguS,LangerS,ColtH. Bronchoscopicinterventionobviatesthe needforcontinuedmechanicalventilationinpatientswithairway obstructionandrespiratory failurefrominoperablenon-small-cell lungcancer.Respiration.2012;84(1):55 Œ 61. 35.OstDE,ErnstA,GrosuHB,etal.Complicationsfollowingtherapeuticbronchoscopyformalignantcentralairwayobstruction: results oftheAQuIRE Registry.Chest.2015;148(2):450 Œ 71. 36.ReedMJ,DunnMJ,McKeownDW.Cananairwayassessment scorepredictdif cultyatintubationintheemergencydepartment?",
+        "tokens": 410,
+        "page_range": [
+          "9"
+        ],
+        "provenance": {
+          "page": "9",
+          "paragraph_index": 2
+        }
+      },
+      {
+        "id": "p9_3",
+        "unit_type": "paragraph",
+        "section_id": "sec8_references",
+        "order": 3,
+        "text": "EmergMedJ.2005;22(2):99 Œ 102. 37.MallampatiSR,GattSP,GuginoLD,etal.Aclinicalsigntopredict dif culttrachealintubation:aprospectivestudy.CanAnaesthSoc J.1985;32(4):429 Œ 34. 38.SamsoonGL, YoungJR.Dif culttrachealintubation:aretrospectivestudy.Anaesthesia. 1987;42(5):487 Œ 90. 39.DumonJF.Adedicatedtracheobronchial stent. Chest.1990;97(2): 328 Œ 32. 40.ChanAL,TharrattRS,SiefkinAD,AlbertsonTE,VolzWG,Allen RP. Nd:YAGlaserbronchoscopy. Rigidor beropticmode?Chest. 1990;98(2):271 Œ 5. 41.ZiasN,ChroneouA,GonzalezAV, et al.Changingpatternsin interventionalbronchoscopy.Respirology.2009;14(4):595 Œ 600. 42.GeorgePJ,GarrettCP,NixonC,HetzelMR,NansonEM,Millard FJ.Lasertreatmentfortracheobronchialtumours: localorgeneral anaesthesia? Thorax.1987;42(9):656 Œ 60. 43.OkamotoS,SomiyaN,SaitoAM,etal.Aprospective,randomized trialcomparing respiratorystatusduring anesthesiaforairway stenting:spontaneousrespirationversuscontrolledventilationwith musclerelaxants.Anesth Analg.2020;131(3):893 Œ 900. 44.Pathak V,WelsbyI, MahmoodK,WahidiM,MacIntyreN,Shofer S.Ventilationandanestheticapproachesforrigidbronchoscopy.",
+        "tokens": 170,
+        "page_range": [
+          "9"
+        ],
+        "provenance": {
+          "page": "9",
+          "paragraph_index": 3
+        }
+      },
+      {
+        "id": "p9_4",
+        "unit_type": "paragraph",
+        "section_id": "sec8_references",
+        "order": 4,
+        "text": "AnnAmThoracSoc.2014;11(4):628 Œ 34. 45.DuckettJE,McDonnellTJ,UngerM,ParrGV.Generalanaesthesia forNd:YAGlaserresectionofobstructingendobronchialtumours usingtherigidbronchoscope.CanAnaesthSocJ.1985;32(1):67 Œ 72. 46.StokesJW,GannonWD,Bacchetta M. Extracorporealmembrane oxygenation asabridgetolungtransplant.SeminRespirCritCare Med.2021;42(3):380 Œ 91. 47.InatyH,Folch E,BergerR, etal.Unimodalityandmultimodality cryodebridement forairwayobstruction.Asingle-centerexperience withsafetyandef cacy.AnnAmThoracSoc.2016;13(6):856 Œ 61. 48.MahmoodK,WahidiMM.Ablativetherapiesforcentralairway obstruction.SeminRespirCritCareMed.2014;35(6):681 Œ 92. 49.WahidiMM,UnroeMA,AdlakhaN,BeyeaM,ShoferSL. Theuse ofelectrocauteryastheprimaryablationmodalityformalignant and benignairwayobstruction.JThoracOncol.2011;6(9):1516 Œ 20. 50.CavaliereS,FoccoliP,FarinaPL.Nd:YAGlaserbronchoscopy. A ve-yearexperiencewith1,396applicationsin 1,000patients. Chest.1988;94(1):15 Œ 21. 51.MoriceRC,EceT,EceF,KeusL.Endobronchialargonplasma coagulationfortreatmentofhemoptysisandneoplasticairway obstruction.Chest.2001;119(3):781 Œ 7. 52.MehtaHJ,BegnaudA,PenleyAM,etal.Restorationofpatencyto centralairwaysoccludedbymalignantendobronchialtumorsusing Intratumoralinjectionof cisplatin.AnnAmThoracSoc.2015;12(9): 1345 Œ 50. 53.JayadevappaR,ChhatreS,SoukiasianHJ,MurguS.Outcomesof patientswithadvancednon-small celllungcancerandairway obstructiontreatedwithphotodynamictherapyand non-photodynamictherapyablationmodalities.JThoracDis. 2019;11(10):4389 Œ 99.",
+        "tokens": 204,
+        "page_range": [
+          "9"
+        ],
+        "provenance": {
+          "page": "9",
+          "paragraph_index": 4
+        }
+      },
+      {
+        "id": "p9_5",
+        "unit_type": "paragraph",
+        "section_id": "sec8_references",
+        "order": 5,
+        "text": "MalignantCentralAirwayObstruction 9",
+        "tokens": 3,
+        "page_range": [
+          "9"
+        ],
+        "provenance": {
+          "page": "9",
+          "paragraph_index": 5
+        }
+      },
+      {
+        "id": "p10_1",
+        "unit_type": "paragraph",
+        "section_id": "sec8_references",
+        "order": 1,
+        "text": "54.MoghissiK, DixonK, StringerM,FreemanT,ThorpeA, Brown S.Theplaceofbronchoscopicphotodynamictherapyinadvanced unresectablelungcancer:experienceof100cases.EurJ CardiothoracSurg.1999;15(1):1 Œ 6. 55.Ortiz-CominoRM,MoralesA,Lopez-LisbonaR, etal.Silicone stentversusfullycovered metallicstent inmalignantcentral airway stenosis.AnnThoracSurg.2021;111(1):283 Œ 9. 56.LinT,NiX,GaoL,SuiJ,XieK,ChangS.Evaluationoftheeffect ofatrachealstentonradiationdosedistributionviamicro-CT imaging.TechnolCancerResTreat.2019;18:1533033819844485. 57.van HoornJE,DaheleM,DanielsJMA.Bronchoscopicmanifestationsofairwaytoxicityafter radiotherapy.ClinLungCancer. 2018;19(6):e875 Œ 8. 58.SalgueroBD,JoyG,LoCascioCM, AgrawalA,Chaddha U.NormalsalineversushypertonicsalineforairwaySTENTmaintenance:SALTYSTENTstudy.JBronchology IntervPulmonol. 2024;31(4):e0986. 59.MatsuoT,ColtHG.Evidenceagainstroutineschedulingofsurveillance bronchoscopyafterstent insertion.Chest.2000;118(5):1455 Œ 9. 60.DialaniV,ErnstA,SunM,etal.MDCTdetectionofairwaystent complications:comparisonwithbronchoscopy.AJRAm J Roentgenol.2008;191(5):1576 Œ 80. 61.RochetN,HauswaldH,SchmausM,etal.Safetyandef cacyof thoracic externalbeam radiotherapy afterairwaystentinginmalignantairwayobstruction.IntJRadiatOncolBiolPhys.2012;83(1): e129 Œ 35. 62.Gosain R,MukherjeeS,YendamuriSS,IyerR.Managementof typicalandatypicalpulmonarycarcinoidsbasedondifferent establishedguidelines.Cancers(Basel).2018;10(12):510. 63.CaplinME,BaudinE,FerollaP,etal.Pulmonaryneuroendocrine (carcinoid)tumors:EuropeanNeuroendocrineTumorSociety expert consensusandrecommendationsforbestpracticefortypicaland atypicalpulmonarycarcinoids.AnnOncol.2015;26(8):1604 Œ 20. 64.NeymanK,SundsetA,NaalsundA,etal.Endoscopictreatmentof bronchialcarcinoidsincomparisontosurgicalresection:aretrospectivestudy.JBronchologyIntervPulmonol.2012;19(1):29 Œ 34. 65.Lee JH,JungEJ,JeonK,etal.Treatmentoutcomesofpatientswith adenoidcysticcarcinoma oftheairway.LungCancer.2011;72(2): 244 Œ 9. 10 J.E.Howe etal.",
+        "tokens": 261,
+        "page_range": [
+          "10"
+        ],
+        "provenance": {
+          "page": "10",
+          "paragraph_index": 1
+        }
+      }
+    ],
+    "figures": [],
+    "tables": [],
+    "boxes": [],
+    "equations": [],
+    "cases": [],
+    "references": []
+  },
+  "retrieval": {
+    "keywords": [
+      "MCAO",
+      "central airway obstruction",
+      "therapeutic bronchoscopy",
+      "stent",
+      "APC",
+      "laser",
+      "ECMO",
+      "anesthesia"
+    ],
+    "summary_tldr": "Granular paragraph-level extraction with page+paragraph provenance for MCAO chapter."
+  },
+  "versioning": {
+    "extraction_tool": "granular-paragraph-extractor",
+    "model": "assistant",
+    "timestamp": "2025-08-08T10:03:23.166400Z",
+    "revision": "r1"
+  }
+}

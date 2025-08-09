@@ -1,0 +1,41 @@
+version: '3.8'
+
+services:
+  postgres:
+    image: postgres:15-alpine
+    container_name: bronchmonkey-db
+    environment:
+      POSTGRES_USER: bronchmonkey
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-changeme}
+      POSTGRES_DB: ip_rag
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./sql/schema.sql:/docker-entrypoint-initdb.d/01-schema.sql
+    ports:
+      - "5432:5432"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U bronchmonkey"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  bronchmonkey:
+    build: .
+    container_name: bronchmonkey-app
+    depends_on:
+      postgres:
+        condition: service_healthy
+    environment:
+      DATABASE_URL: postgresql://bronchmonkey:${POSTGRES_PASSWORD:-changeme}@postgres:5432/ip_rag
+      OPENAI_API_KEY: ${OPENAI_API_KEY}
+      GEMINI_API_KEY: ${GEMINI_API_KEY}
+    volumes:
+      - ./data:/app/data
+      - ./assets:/app/assets
+    ports:
+      - "8000:8000"  # FastAPI
+      - "8501:8501"  # Streamlit
+    restart: unless-stopped
+
+volumes:
+  postgres_data:

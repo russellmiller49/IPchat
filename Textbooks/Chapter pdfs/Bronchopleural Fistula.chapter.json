@@ -1,0 +1,570 @@
+{
+  "schema_version": "1.0.0",
+  "source": {
+    "document_id": "Bronchopleural Fistula",
+    "book_title": "Principles and Practice of Interventional Pulmonology",
+    "publisher": "Springer Nature Switzerland AG",
+    "isbn13": "978-3-031-49583-0",
+    "chapter_number": "7",
+    "source_url": "https://doi.org/10.1007/978-3-031-49583-0_7",
+    "file_sha256": "2888ec50e9e395b7cd3a8bd3d56d2d7222332f2f1a9b1155bb5355704676f8ee",
+    "license": "All rights reserved",
+    "rights_holder": "Springer Nature Switzerland AG",
+    "access": "institutional"
+  },
+  "document": {
+    "chapter_title": "Bronchopleural Fistula",
+    "authors": [
+      "Author Name"
+    ]
+  },
+  "structure": {
+    "toc_path": [],
+    "section_tree": [
+      {
+        "id": "sec1",
+        "title": "Introduction............................................................................................. 2",
+        "level": 1,
+        "page_start": "?",
+        "page_end": "?",
+        "children": []
+      },
+      {
+        "id": "sec2",
+        "title": "Etiologies................................................................................................. 2",
+        "level": 1,
+        "page_start": "?",
+        "page_end": "?",
+        "children": [
+          {
+            "id": "sec2_1",
+            "title": "NonsurgicalEtiologiesofBronchopleuralFistula....................................................... 2",
+            "level": 2,
+            "page_start": "?",
+            "page_end": "?",
+            "children": []
+          },
+          {
+            "id": "sec2_2",
+            "title": "PostoperativeBronchopleuralFistula.................................................................... 2",
+            "level": 2,
+            "page_start": "?",
+            "page_end": "?",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "sec3",
+        "title": "ClinicalPresentation.................................................................................... 4",
+        "level": 1,
+        "page_start": "?",
+        "page_end": "?",
+        "children": [
+          {
+            "id": "sec3_1",
+            "title": "PostoperativePatient..................................................................................... 4",
+            "level": 2,
+            "page_start": "?",
+            "page_end": "?",
+            "children": []
+          },
+          {
+            "id": "sec3_2",
+            "title": "Non-PostoperativePatient................................................................................ 4",
+            "level": 2,
+            "page_start": "?",
+            "page_end": "?",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "sec4",
+        "title": "Diagnosis................................................................................................. 4",
+        "level": 1,
+        "page_start": "?",
+        "page_end": "?",
+        "children": []
+      },
+      {
+        "id": "sec5",
+        "title": "Prognosis................................................................................................. 6",
+        "level": 1,
+        "page_start": "?",
+        "page_end": "?",
+        "children": []
+      },
+      {
+        "id": "sec6",
+        "title": "Treatment................................................................................................ 7",
+        "level": 1,
+        "page_start": "?",
+        "page_end": "?",
+        "children": [
+          {
+            "id": "sec6_1",
+            "title": "GeneralPrinciples........................................................................................ 7",
+            "level": 2,
+            "page_start": "?",
+            "page_end": "?",
+            "children": []
+          },
+          {
+            "id": "sec6_2",
+            "title": "ConservativeTherapy.................................................................................... 7",
+            "level": 2,
+            "page_start": "?",
+            "page_end": "?",
+            "children": []
+          },
+          {
+            "id": "sec6_3",
+            "title": "FistulaClosure........................................................................................... 7",
+            "level": 2,
+            "page_start": "?",
+            "page_end": "?",
+            "children": []
+          },
+          {
+            "id": "sec6_4",
+            "title": "SurgicalClosureofBPF................................................................................. 7",
+            "level": 2,
+            "page_start": "?",
+            "page_end": "?",
+            "children": []
+          },
+          {
+            "id": "sec6_5",
+            "title": "EndoscopicManagementofBronchopleuralFistulas................................................... 8",
+            "level": 2,
+            "page_start": "?",
+            "page_end": "?",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "sec7",
+        "title": "Conclusion............................................................................................... 16",
+        "level": 1,
+        "page_start": "?",
+        "page_end": "?",
+        "children": []
+      }
+    ]
+  },
+  "content": {
+    "text_units": [
+      {
+        "id": "p1_1",
+        "unit_type": "paragraph",
+        "section_id": "auto",
+        "order": 1,
+        "text": "Endoscopic Management of Bronchopleural Fistulas David M. Berkowitz and A. Susanne Dittrich Contents 1 Introduction............................................................................................. 2 2 Etiologies................................................................................................. 2 2.1 NonsurgicalEtiologiesofBronchopleuralFistula....................................................... 2 2.2 PostoperativeBronchopleuralFistula.................................................................... 2 3 ClinicalPresentation.................................................................................... 4 3.1 PostoperativePatient..................................................................................... 4 3.2 Non-PostoperativePatient................................................................................ 4 4 Diagnosis................................................................................................. 4 5 Prognosis................................................................................................. 6 6 Treatment................................................................................................ 7 6.1 GeneralPrinciples........................................................................................ 7 6.2 ConservativeTherapy.................................................................................... 7 6.3 FistulaClosure........................................................................................... 7 6.4 SurgicalClosureofBPF................................................................................. 7 6.5 EndoscopicManagementofBronchopleuralFistulas................................................... 8 7 Conclusion............................................................................................... 16 References...................................................................................................... 16 Abstract invasivelyusingendoscopictechniques.EndoscopictherAbronchopleuralfistula(BPF)isanabnormalcommuni- apies for closure of a BPF include various sealants and glues,one-wayendobronchialvalves,andairwaystentsto cation between the airway and the pleural space. It most cover the defect. Although there is a general consensus commonlyoccursafterpulmonaryresectionbutmaybea that endoscopic therapies are safe and well tolerated in a resultofmultiplebenignandmalignantdiseases.Patients majority of patients, there are no large series or randomwith BPFs may present with a variety of symptoms, but ized trials exploring specific therapies or patient outthey typically include fatigue, cough, dyspnea, and/or comes. The choice of therapy (endoscopic vs. surgical) purulent sputum. In the acute setting, symptoms may be is highly dependent on individual patient situation and life-threatening as a tension pneumothorax can develop. Bronchopleuralfistulasmaybetreatedsurgicallyorsemi- physician preference. These techniques are not mutually exclusive,andcombinationtherapiesshouldbeexplored. D.M.Berkowitz DepartmentofPulmonary&CriticalCare,EmoryUniversityMidtown Keywords Hospital,Atlanta,GA,USA e-mail:david.berkowitz@emoryhealthcare.org One-wayendobronchialvalves·Chesttube·Pulmonary ✉ A.S.Dittrich( ) resection·Pleuralspace·Centralairway DepartmentofPneumologyandCriticalCareMedicine,Thoraxklinikat theUniversityHospitalHeidelberg,Heidelberg,Germany e-mail:susanne.dittrich@med.uni-heidelberg.de ©SpringerNatureSwitzerlandAG2025 1 L.Yarmusetal.(eds.),PrinciplesandPracticeofInterventionalPulmonology, https://doi.org/10.1007/978-3-031-49583-0_47-1",
+        "tokens": 257,
+        "page_range": [
+          "1"
+        ],
+        "provenance": {
+          "page": "1",
+          "paragraph_index": 1
+        }
+      },
+      {
+        "id": "p2_1",
+        "unit_type": "paragraph",
+        "section_id": "auto",
+        "order": 1,
+        "text": "2 D.M.BerkowitzandA.S.Dittrich 1 Introduction formation. Mediastinal malignancies such as lymphoma or thymomacandirectlyinvadeintotheairway,whichmaylead A bronchopleural fistula (BPF) is an abnormal communica- to a fistula tract into the mediastinum or pleura. A dramatic tionbetweenaproximalairway,thatis,amainstem,alobar response to treatment (either by radiation or chemotherapy) orasegmentalbronchus,andthepleuralspace.Itneedstobe of a malignancy, which has a large bulk of tumor invading differentiatedfromanalveolar-pleuralfistula(APF),whichis intotheairway,canbeproblematicifthetumor“melts”away aconnectionofthelungparenchymadistaltothesegmental andnonormaltissueisavailabletofillinthedefect(Fig.1). bronchiwiththepleuralcavity.IfaBPForaAPFpersistsfor Esophageal malignancy with erosion into the airway typimorethan5daysafterestablishmentofachesttubedrainage, cally leads to a tracheo- or bronchoesophageal fistula; howitisalsoconsideredaspersistentorprolongedairleak(PAL). ever,oncetheintegrityoftheairwaywalliscompromised,a A bronchopleural fistula is most commonly seen after communication can form between the airway and the medithoracicsurgery;however,itcanoccurinmanyotherbenign astinum orpleuralspace. Likewise, severe gastroesophageal and malignant diseases. Bronchopleural fistulas can be clas- reflux disease complicated by Barrett’s esophagus or sified as either central (visibly seen as a hole in the large Boerhaave’ssyndromemaycauseenoughairwayinflammaairways, such as a stump leak after surgery) or peripheral tion to create a fistulous tract. A comprehensive list of pos- (non-visible if air leak is located in distal airways or on the sible etiologies of a bronchopleural fistula can be found on visceral pleural surface). Diagnosis is challenging and often Table1. delayed. As a BPF represents a communication from the non-sterile airway tothesterile pleural space, it iscritical to identify a fistula and initiate treatment in a timely fashion. 2.2 Postoperative Bronchopleural Fistula Although surgical techniques have improved, mortality remains high even with successful operative intervention. Surgeryonthethorax,especiallypulmonaryresection,isthe Advances in therapeutic endoscopic techniques have pro- most common etiology of a bronchopleural fistula (BPF). videdanadjuncttotraditionalsurgicalprocedures. The incidence is highly dependent on surgical technique, complexity of surgery, and experience of the surgeon. Postoperativebronchopleuralfistulahasbeenreportedtooccurin 2 Etiologies 1.5–28% of all pulmonary resections. Multiple surgical and nonsurgicalriskfactorshavebeenassociatedwiththedevel2.1 NonsurgicalEtiologiesofBronchopleural opmentofpostoperativeBPF(Table2).Surgicalcomplexity Fistula andextensivedissectionareimportantriskfactors.Although postoperative BPF may be seen in 4.5–20% of pneumonecA bronchopleural fistula can form in any situation where tomies, this complication is seen in only about 0.5–1% of tissuenecrosisand/orimpairedmucosalhealingaftertrauma lobectomies. Right-sided surgery is an important risk factor orinfectioncanoccur.Necrotizinglunginfections(bacterial, for BPF formation. A 10-year review of surgical data demtubercular, fungal pneumonia, or abscess) or empyema can onstrated almost threefold higher risk of BPF after right lead to BPF. The pooling of secretions and loss of tissue pneumonectomy compared to left (13.2% vs. 5.0%, planes due to necrosis creates a poor healing environment p = 0.047). A subsequent meta-analysis demonstrated BPF and possible development of a fistula tract. Penetrating to be an independent risk factor for death after right pneutraumatothevisceralpleuralsurface(asseenwithagunshot monectomy with a relative risk (RR) of 3.39 for death after wound, stabbing with a knife, or iatrogenic by a rightpneumonectomy.Right-sidedoperationsaretechnically thoracentesis/biopsy needle) can lead to a pneumothorax more complicated and more likely to involve extended diswithleakageofairthroughthepuncturesiteintothepleural section, hand-sewn closures, closed buttress, or space. Ifthedefect issmall enoughand theunderlying lung intrapericardial dissection. Postoperatively, right-sided parenchymaisnottoodiseased,thepleuralsurfacehealsand stumps also tend to pool secretions more, which can impair the defect closes. A persistent pneumothorax (>72 h) indi- completehealing. cates that the defect is not closing and there is a continued Pneumonectomyforbenignlungdiseaseisgenerallymore communication between the airway and pleura. Rupture of likely to result in BPF than for cancer resection. This lung tissue, whether spontaneous or related to underlying increased risk may be due to the commonly infectious indilungdisease(bullae,COPD,ARDS,andpulmonaryfibrosis), cations, the higher likelihood of completion rather than prilikewisecanlead toapersistentdefectinthevisceralpleura mary pneumonectomy, and the fact that 37% of these cases andBPFformation. are performed as nonelective procedures. In patients underLung or airway malignancy with endobronchial involve- going pulmonary resection for malignancy, a longer bronment can lead to loss of airway integrity and fistula chialstumpwasanindependentriskfactorforBPF.Arecent",
+        "tokens": 730,
+        "page_range": [
+          "2"
+        ],
+        "provenance": {
+          "page": "2",
+          "paragraph_index": 1
+        }
+      },
+      {
+        "id": "p3_1",
+        "unit_type": "paragraph",
+        "section_id": "auto",
+        "order": 1,
+        "text": "EndoscopicManagementofBronchopleuralFistulas 3 Fig.1 Airwayfistuladevelopingasaresultoftreatmentforlymphoma. effective chemotherapy, large airway defect (arrow) was present. (b) (a)A48-year-oldmanwithBcelllymphomawhounderwentchemo- Correspondingendoscopicviewoftrachealwalldefect therapyandradiation.Lymphomahaderodedintothetrachea,andafter Table1 Etiologiesofbronchopleuralfistula Table 2 Risk factors associated with increased risk of postoperative bronchopleuralfistula Postoperativelyafterthoracicsurgery Necrotizingpulmonaryinfection Surgicalfactors Tuberculosis Right-sidedpulmonaryresections(especiallyright Haemophilusinfluenzae pneumonectomy) Streptococcusviridans Excessiveperibronchialorparatrachealdissection Staphylococcusaureus Longbronchialstump/shortdistancefromtumortostump Pseudomonasaeruginosa Mediastinallymphnodedissection Klebsiellapneumoniae High-dosepreoperativeradiationtherapy Pneumococcus Residual/recurrentcarcinoma/tumoratsurgicalstump Nonhemolyticstreptococcus Largediameterbronchialstum(>25mm) Aspergillus Postoperativeinfection(pneumonia,abscess,empyema) Histoplasmacapsulatum Previousipsilateralthoracotomy Lungdiseaseorstructuralabnormalities Bronchialarterydamageduetoexcessiveintraoperativefree Pulmonaryabscessrupture bronchi Ruptureofbullaeorcyst Nonsurgicalfactors Persistentspontaneouspneumothoraxorotherparenchymal Olderage(>60years) abnormalities Malegender Recurrenceatstumpfrompriorresection Diabetesmellitus Residualtumorinresectionmargins Hypoalbuminemia Broncholithiasis Lownutritionalstatusorpoorwoundhealing ARDS Heavysmoking Malignancy(lung,thyroid,lymphoma,esophageal) Chronicobstructiveairwaydisease Advanceddiseasewithtumorerodingintoairway Prolongedpostoperativeuseofsteroids Preoperativerespiratoryfailure Radiationand/orchemotherapy Cirrhosis Penetratingthoracictrauma Haemophilusinfluenzaeinsputum Postinterventionalcomplicationof Postoperativemechanicalventilationfor>24h Percutaneouslungneedlebiopsyorthoracentesis Tracheostomy Bronchoscopy meta-analysis of 30 studies showed that neoadjuvant radioBougieintubation therapyaloneorascombinationchemoradiotherapy,butnot Prolongedpostoperativemechanicalventilation neoadjuvant chemotherapy alone, increased the risk of BPF Ventilator-inducedbarotrauma Overzealousmanualventilation significantly. Centrallineplacement Patientfactorsincludingadvancedage,malegender,diaExtrapulmonarydiseases betes mellitus, concurrent steroid use, hypoalbuminemia, GastroesophagealrefluxdiseasewithBarrett’sesophagus cirrhosis,Haemophilusinfluenzaeinsputum,residualtumor Boerhaave’ssyndrome Diabetesmellitus atstump,andpostoperativemechanicalventilationfor>24-h Idiopathic post-surgeryhaveallbeenimplicatedinthedevelopmentofa postoperativeBPF.",
+        "tokens": 157,
+        "page_range": [
+          "3"
+        ],
+        "provenance": {
+          "page": "3",
+          "paragraph_index": 1
+        }
+      },
+      {
+        "id": "p4_1",
+        "unit_type": "paragraph",
+        "section_id": "auto",
+        "order": 1,
+        "text": "4 D.M.BerkowitzandA.S.Dittrich 3 Clinical Presentation air–fluid level. A patient with existing pneumonia or empyema, however, may already be exhibiting these symptoms 3.1 Postoperative Patient leadingtoadelayindiagnosis.Anon-resolvingpneumonia, infiltrate, oreffusion,especiallyinapatientwithunderlying Based on the time of onset, the modified Le Brigand classi- lungdisease,shouldwarrantfurtherinvestigation.Inpatients fication categorizes BPF after pneumonectomy as follows: onmechanicalventilation,anabruptandsignificantdecrease early (within 1–7 days post-surgery), intermediate (between inairwaypressuresshouldraiseconcernsforBPFformation. 8 and 30 days post-surgery), and late (occurring more than Hemoptysis may occur in malignancy-related fistulas, and 30 days post-surgery). Overall, bronchopleural fistulas are cough and SOB during eating can be seen with esophageal mostcommonlydiagnosedbetween8and12daysfollowing toairwayfistulas. surgery. Thepresentationofanearlybronchopleuralfistuladeveloping acutely (within hours to days) after surgery is fairly 4 Diagnosis dramaticandinmostcasesduetosurgicalstumpsuturingor ischemic necrosis. It is heralded as the sudden onset of Most patients with symptoms compatible with a BPF will dyspnea, subcutaneous or mediastinal emphysema, cough initially be evaluated with a chest radiograph. Findings on with purulent sputum, or a life-threatening tension pneumoradiographs may be nonspecific and include pneumothorax, thorax.Thoracicsurgerypatientsinvariablyhaveachesttube subcutaneousemphysema,and/orpneumomediastinum.Ina in the immediate postoperative period to avoid or immedipostoperativepatient,afluidcollectionadjacenttothestump ately identify this complication. A continuous air leak or maybeidentified.StrongindicatorsforaBPFaretheappearincrease in the output of air in the waterseal chamber of a ance of new air-fluid planes, the development of a tension pleuralfluidcollectioncontainershouldalertthephysicianto pneumothorax and decreasing air-fluid levels ≥2 cm, over the possibility of a bronchopleural fistula. Bronchopleural time,indicatingpleuralfluiddisplacement.Althoughacomfistulasidentifiedwithinthefirst4dayspostoperativeshould putertomography(CT)ofthechestismuchmoresensitiveat return for re-exploration and closure of the stump leak if identifying abnormalities related to a BPF, it likely will not clinicalsituationallows. identify the location of the fistula itself. In a small study by Theintermediateorlatepresentationforabronchopleural Westcott and Volpe in 1995, in patients with clinical suspifistula is less impressive and often associated with an infilcionforBPF,thefistulasitecouldbeisolatedonCTscansin tration of the growing tumor in the stump or chronic ischeonly 50% of the patients. Figure 2 demonstrates the radiomia. Patients complain of fatigue, wasting, dyspnea, graphicappearanceofaBPF. low-gradefevers,orproductivecough.HemoptysisormetaBronchoscopy should be performed in all patients lloptysis(coughing ofsurgicalmaterial)hasbeendescribed. suspected of having a BPF. In large or central lesions, it Afterpneumonectomy,thereisanexpecteddegreeofandair may be possible to directly visualize the fistula opening. In andfluidpresentforatleastafewweeks.Thespaceisusually thecaseofasuspectedpostoperativeBPF,thestumpshould obliterated within 7 months. A major decrease in pleural beclosely examined. Ifstumpdehiscence isnotseen, saline effusionordramaticchangeintheair–fluidpattern(increasshould be instilled onto the stump. The presence of ingpneumothorax,changesinhydropneumothoraxlevel,and new air–fluid level) after pulmonary resection should raise concern for a postoperative BPF. Depending on type of surgeryandloculation(s)inthepleuralspace,subtlechanges maynotbereadilyvisualizedonaplainchestradiograph.In thechronicsetting,bronchopleuralfistulastypicallyoccuras aresultofchronicpleuralspaceinfectionorfibrosis,usually inanimmunocompromisedpatient.Reappearanceofairina previousobliteratedspaceisanominoussignforBPF. 3.2 Non-Postoperative Patient The presentation of a BPF in the non-postoperative patient depends on the characteristics of the underlying disease. Fig.2 CTappearanceofBPF(arrow)inrightupperlobe.Notechest Most patients will havefever, persistentcough, thick and/or tubes(arrowhead)andsubcutaneousemphysema(asterisk)inthispostcopious sputum production, and a pleural effusion with an operativepatient",
+        "tokens": 535,
+        "page_range": [
+          "4"
+        ],
+        "provenance": {
+          "page": "4",
+          "paragraph_index": 1
+        }
+      },
+      {
+        "id": "p5_1",
+        "unit_type": "paragraph",
+        "section_id": "auto",
+        "order": 1,
+        "text": "EndoscopicManagementofBronchopleuralFistulas 5 continuous bubbling of saline from the stump indicates a AperipheralBPFcanalsobeidentifiedbyachangeinthe fistula is present (Fig. 3). In the immediate postoperative pressure of the airway leading to the fistula. The Chartis patient, installation of methylene blue onto stump can be System (Pulmonx, Redwood City, CA) is able to measure performed. Its presence in the chest tube output indicates a airflowandpressureintheairwaydistaltothebronchoscope BPFispresent.Also,retrogradeadministrationofmethylene (Fig. 5). It was originally designed to quantify collateral blueintothethoracicdrainageunderbronchoscopicobserva- ventilation for endoscopic lung volume reduction. Once the tioncanbeperformed. Itshouldbenoted, however,thatthe bronchoscope is navigated to the target airway, a balloon presence of the dye may affect the in situ tissue discrimina- catheter is inflated, and the airway is occluded. The tip of bilityifsubsequentsurgeryisrequired. thecatheterhasapressuresensorthatprovidesmeasurement If a fistula cannot be seen within the central airways, a ofairflowandpressureintheoccludedairway(seeFig.5for bronchoscopy can still be helpful in determining the details).Aslongastheairwayisintactandthereisadequate approximatelocationofaperipheralbronchopleuralfistula. sealwiththeballoon,asmallornodropinpressurewilloccur In patients with a chest tube, a balloon can be inserted via withballooninflation.Ifthepressureremainsnegativeduring theworkingchannelofthebronchoscopeandinsertedinto both inspiration and expiration, a BPF is present. the segment or subsegment of the airway with suspected Capnography (measurement of exhaled carbon dioxide) can fistula (Fig. 4). Once inflated, the balloon will occlude also be helpful in identifying the location of a fistula. A airflow through the fistula, and therefore, the air leak will polyurethanecatheterattachedtoacapnometercanbeplaced decreaseordisappearinthewatersealchamberofapleural through the bronchoscope and inserted into sequential aircollectiondevice.Ifthesegmentdoesnotcontainafistula, ways. Duringexhalation, carbon dioxide should bedetected inflationoftheballoonwillhavenoimpactontheairleak. withintheairway.TheabsenceofanendtidalCO tracingin 2 If even the general location of the fistula is unknown, a aparticularsegmentidentifiesthesegmentwiththefistulaas larger balloon can be inflated in the larger airways before the carbon dioxide leaks out into the pleural space. Both proceeding to the segmental bronchi to provide the bron- airway pressure measurement and capnography are useful choscopist with the generallocation of thefistula. In some in identifying BPFs in patients without chest tubes or in cases, more than one airway may be contributing to a situations where subtle changes in bubbling through the fistula, so multiple balloon inflations may be necessary to watersealchamberoccurwhenaballoonisoccludingairflow. identifytheculpritairways. Advancedimagingtechniquesmaybehelpfulinthediagnosisofabronchopleuralfistula.Bronchographycanbedone if any of the abovementioned bronchoscopic techniques are inconclusive.Inbronchography,20–30mLofawater-based Fig. 4 Bronchoscopic localization of a peripheral BPF. Inflating a balloonwithinairwayleadingtoaBPFwillstopairflowintoeffected Fig. 3 A 70-year-old woman s/p LUL lobectomy with stump leak. airway. This will either (1) slow or stop the air leak in water seal Salineinjectedviaflexiblebronchoscopeindicatedcontinuousairbub- chamberofpleuralcollectionsystemor(2)leadtoapersistentnegative bling(arrows)backthroughstump pressuremeasuredbytheChartis™system",
+        "tokens": 482,
+        "page_range": [
+          "5"
+        ],
+        "provenance": {
+          "page": "5",
+          "paragraph_index": 1
+        }
+      },
+      {
+        "id": "p6_1",
+        "unit_type": "paragraph",
+        "section_id": "auto",
+        "order": 1,
+        "text": "6 D.M.BerkowitzandA.S.Dittrich Fig.5 Chartis™system developedforendoscopicLVRS canbehelpfulinlocalizingaBPF. Theballoonisinflatedanda pressuresensorattheendofthe balloonmeasuresbothpressure andflowdistaltotheoccluded bronchus.Asignificantnegative pressureduringbothinspiration andexpirationindicatesasegment involvedinaBPF.(©2010 Pulmonox.AllRightsReserved) a bronchopleural fistula. Scintigraphy with 99mTc-albumin (technetium-albumin) colloid fog inhalation has been described as a simple and accurate test for the detection of BPF.Thisisaccomplishedbyaerosolizationofaradiotracer andinhalationintothelungswithaccumulationoftheradiotracer atlocation ofa BPF. This technique requires substantial time and cooperation on the part of a non-intubated patientandcanbeinconclusiveinthesettingofsmallfistulas or underlying lung disease such as COPD. Alternatively, ventilation scintigraphy with other radioactive tracers such as 81mKr (Krypton), 133Xe (Xenon), 99mTc-DTPA (technetium-labeled diethylenetriamine penta-acetate), and 99mTc-sulfur colloid has also been described. All of the advanced radiographic techniques mentioned above are nowinfrequentlyusedwiththeadventandsafetyofballoon occlusion of the airway. Historically, bronchography was usedformanyyearswithexcellentdiagnosticaccuracy. 5 Prognosis Fig. 6 Normal bronchogram. Contrast material is injected into the airwayviaabronchoscopeandfluoroscopyisperformed.Extravasation Ingeneral,thereisahighmorbidityandmortalityassociated of contrast material in the pleural space indicates the presence of a bronchopleuralfistula.(ImagecourtesyofStefanTigges,M.D.) with bronchopleural fistulas. Historically, mortality ranged from 20% to 70%, depending on the underlying disease nonionic low osmolar iodinated contrast medium (i.e., process. More recent data show lower mortality rates of Omnipaque, GE Healthcare) is injected through a catheter 11–18% for BPF occurring within 30 days of surgery and placed through the working channel of a bronchoscope of 0–7% for late BPF diagnosed after more than 30 days of (Fig. 6). Fluoroscopy or CT can then be performed with surgery.Postoperativefistulasthatcanbesurgicallyrepaired visualization of contrast media extravasation from a site of havealower morbidity andmortality than fistulas related to underlying malignancy or infection. Even with successful",
+        "tokens": 306,
+        "page_range": [
+          "6"
+        ],
+        "provenance": {
+          "page": "6",
+          "paragraph_index": 1
+        }
+      },
+      {
+        "id": "p7_1",
+        "unit_type": "paragraph",
+        "section_id": "auto",
+        "order": 1,
+        "text": "EndoscopicManagementofBronchopleuralFistulas 7 intervention, mortality still can be as high as 40%. Death is Afterinitialdrainageofthepneumothorax,thechesttube usually related to a combination of aspiration and recurrent may actually contribute to the persistence of the BPF. In infections(pneumoniaandempyema),whichmayleadtothe patients with minimal or no residual pneumothorax, suction development of acute respiratory distress syndrome and should be removed and the chest tube placed on water seal. multiorgansystemfailure. Keeping the chest tube on suction may have a paradoxical effect by “pulling” the defect open and contributing to the persistenceoftheBPF.Withdrawalofsuctionfromthechest tubesminimizesairflowthroughthefistulatoallowimproved 6 Treatment healingofthetract.Installationofapleuralsclerosingagent (talc,bleomycin,etc.)throughthechesttubeintothepleural 6.1 General Principles spaceisoftenattemptedasaminimallyinvasivemethodfor sealing an air leak. The goal is to fuse (pleurodesis) the TheinitialmanagementofanyBPFshouldfirstaddressany visceralandparietalpleuratogether,whichwilleithercontain immediate,life-threateningconditions,suchaspleuralspace the air leak or incite an inflammatory response to close the contamination, pulmonary flooding, or tension pneumothofistula. In order for this to be successful, the lung needs to rax. A chest tube, if not already inplace, should be inserted completelyfillthehemithoraxsothatthereisgoodapposition immediately to address these concerns. In complex cases between the visceral and parietal pleural surfaces. If a large with pleural adhesions and/or loculated hydropneumothorax is present, pleurodesis will not be achieved, pneumothoraces, multiple well-positioned, and/or imageandtheairleakwillpersist.Ingeneral,adistinctionshouldbe guided chest tubes may be required. In the case of BPF due madebetweenearlyBPFafterlungresectionwithoutempyto a necrotizing lung or pleural space infection, a trial of ema,inwhichrapidfistulaclosureshouldbeattempted,and antibiotics with adequate drainage should be attempted to lateBPFduetoempyemaand/orpleuropulmonarydisease,in decompress the pleural space, allowing time for full lung which a conservative approach over several weeks may be re-expansionandhealingofthefistula.Withseverenecrotiznecessary. ingpneumonia,manyweeksofantibiotictherapy,nutritional supplementation, patient rehabilitation, and chronic pleural space drainage may be required before contemplating sur6.3 Fistula Closure gery. In the majority of cases, an empyema associated with BPF is monomicrobial. Staphylococcus and Streptococcus Conservativemeasures(asdescribedabove) forclosure ofa are the most common pathogens. Although it is tempting to bronchopleuralfistulaarenecessaryinpatientswhoarepoor surgically close a fistula, active infection in the lung parensurgical candidates or have small peripheral defects, which chyma or pleural space can lead to worse outcomes in the do not necessitate more aggressive intervention. In cases acutesetting. whereconservativetreatmentfails,localizationofthefistula is paramount in successful closure of the fistula either by semi-invasive (bronchoscopic) or invasive (surgical) man6.2 Conservative Therapy agement. There have been no large studies describing the optimal treatment or outcomes for bronchopleural fistulas Bronchopleuralfistulasareverydifficulttomanagewhilethe nordoesconsensusopinionexisttosuggestanoptimaltreatpatient is on mechanical ventilation. Ventilator-delivered ment in any particular situation. Regardless of the cause of breaths will preferentially flow through the fistula as it rep- the fistula, endoscopic and surgical treatment should not be resentsthelowestpointofresistanceintheairway.Thisleads viewed in isolation; instead, they can be complementary to difficulties with oxygenation and loss of exhaled tidal techniques. volumesandsubsequenthypercapnia.Limitingairwaypressureisanimportantstrategyascontinuedairflowthroughthe tract delays natural healing. Minimization of positive end 6.4 Surgical Closure of BPF expiratory pressure (PEEP), inspiratory flow rate, and tidal volume should be attempted to the extent tolerated by the If a postoperative BPF is detected within a few days of the patient.Inlargefistulas,selectiveintubationofthecontralat- patient’s original surgery, re-exploration by either VATS or eral lung may be necessary to completely cease any airflow open thoracotomy with closure of the fistula is the through the fistula. High-frequency oscillatory ventilation recommended approach if the clinical situation allows. The has beenstudiedandfound tobe slightlymore beneficial in successrateofBPFclosurewithsurgeryhasbeenreportedto patients with a proximal BPF and lack of parenchymal beashighas80–95%,althoughthisincludes thepostoperadisease. tive population that is healthy enough to undergo a major",
+        "tokens": 677,
+        "page_range": [
+          "7"
+        ],
+        "provenance": {
+          "page": "7",
+          "paragraph_index": 1
+        }
+      },
+      {
+        "id": "p8_1",
+        "unit_type": "paragraph",
+        "section_id": "auto",
+        "order": 1,
+        "text": "8 D.M.BerkowitzandA.S.Dittrich reoperation.Therearemultiplesurgicaloptionsdescribedfor Table3 EndoscopictherapiesavailablefortreatmentofBPF closureofaBPF:(1)VATS/thoracotomywithdirectresection Gluesandadhesives and closure of the stump with intercostal muscle reinforce- Fibringlue(Coseal) ment or omental flap, (2) trans-sternal bronchial closure, Polyethyleneglycol(FocalSeal-L) Albuminderivative(Cryolife) (3) thoracoplasty with or without extrathoracic chest wall Cyanoacrylateglue(Histoacryl) muscle transposition, or (4) chronic drainage with chest Oxidizedregeneratedcellulose(Surgicel) tube or Eloesser procedure (described below). Sequential Sclerosingagents operativeproceduresareoftenplannedindebilitatedpatients Absoluteethanol who would not tolerate another major operation. Antibiotics Polidocanol–hydroxypoliethoxidodecane Bronchopleural fistula complicated by empyema is one Lasertherapy/electrocautery such circumstance where sequential operations may achieve Cryotherapy bettersuccess.Thepleuralcavityisallowedtocontinuously Stents drain by an empyema tube or an Eloesser procedure. The Silicone Eloesser procedure was named after Leo Eloesser, the tho- Self-expandingmetallicstents racic surgeon who first described the technique. It involves Hybrid thecreationofa5-cmopeninginthechestwallwithresection Amplatzeroccluders Linearcoils of two to three adjacent ribs and suturing of the skin to the One-wayendobronchialvalves pleural cavity to allow complete continuous drainage of the Zephyrvalves pleuralspace.TheEloesserprocedurehasminimalmorbidity Spirationvalves even in chronically ill patients and can be used in the acute EndobronchialWatanabeSpigot setting. The patient then undergoes aggressive nutritional Occludersproducedby3DTechnology support and intensive physical rehabilitation and returns to Vascularocclusioncoils theoperatingroomoncehealthyenoughtotolerateasecond procedure for a thoracotomy with flap closure of the BPF. endoscopicBPF closure.This includes, for example,patients The details and technical aspects of surgical closure of with malignant BPF who have received radiotherapy or chebronchopleural fistulas are beyond the scope of this discusmotherapy. A retrospective case series has shown that distal, sion. (Please see references at the end of this chapter for small BPF <6 mm can be closed endoscopically in additionalresources.) 71.4–92.3% of cases, highlighting the potential of the bronchoscopic approach. Unfortunately, regardless of procedure, mortalitystillcanbeashighas40%forpatientswithsuccess6.5 Endoscopic Management fully treated bronchopleural fistulas. This high mortality of Bronchopleural Fistulas underscores the critical nature and comorbidities of these patients and needs for further improvements in both endo6.5.1 RoleofBrochoscopy scopicandsurgicaltechniques. Bronchoscopy is indicated in all patients with a BPF. The There are no large controlled trials to document the effibronchoscopehasanimportantdiagnosticroleinvisualization cacy or superiority of any surgical or endobronchial closure of the airway and/or surgical stump to examine for a central procedure. No randomized trials have been performed, and BPFortoidentifytheinvolvedairwayinaperipheralBPF(see recommendations are based on expert opinion and the Sect.“Diagnosis”).Theflexiblebronchoscopecanalsooffera treating physician’s prior experience. The available small wide range of therapeutic interventions (Table 3) as an alterstudies, case reports, and expert opinion agree that endonative or adjunct to surgery to treat a bronchopleural fistula. scopicclosureissafe,welltolerated,andtechnicallyfeasible Bronchoscopicfistulaclosureistypicallyindicatedinpatients inamajorityofpatients.Successratesvaryconsiderablyand who are at high risk for direct surgery, such as those with arebasedonsmallseriesandisolatedcasereports.Inoneof hemodynamic instability, severe hypoxemia, or advanced thelargestseries(40patients),improvementorresolutionof malignancy. However, endoscopic management and surgical the BPF occurred in93% of patients treated endoscopically. repairshouldnot beviewedascompeting procedures;rather, Repeatedproceduresareoftennecessary;theaveragenumber they are complementary techniques. For example, treatment of endoscopic intervention required per patient is 2.47 mayinvolvetwo-stagedinterventionwithendoscopicclosure regardlessofpatientoutcome. performed initially while the patient is acutely ill. Once the patient is more active and nutritionally replete, they can be offeredtheopportunitytoundergopermanentsurgicalfixation 6.5.2 TissueSealantsandGlues of the fistula. In particular, patients with co-morbidities who The first report of endoscopic closure of a BPF was by cannot tolerate surgery may benefit from minimally invasive Hartmann in a one-page letter to the editor in Chest in",
+        "tokens": 651,
+        "page_range": [
+          "8"
+        ],
+        "provenance": {
+          "page": "8",
+          "paragraph_index": 1
+        }
+      },
+      {
+        "id": "p9_1",
+        "unit_type": "paragraph",
+        "section_id": "auto",
+        "order": 1,
+        "text": "EndoscopicManagementofBronchopleuralFistulas 9 1977.HereportedanIPFpatientwhounderwentaresection Cough and forceful respiratory or mechanical ventilation of a right upper lobe (RUL) aspergilloma complicated by thereforeshouldbeminimizedforafewminutesafterapplilarge BPF. The patient underwent successful closure with cation. The sealant may swell to four times its volume over occlusion of the effected airway with tissue glue (methyl-2- thenext24h,completelyfillinginthefistulaoroccludingthe cyanoacrylate).Forcentrallylocatedfistulas,visualizationby airway. In the long run, the sealant causes an inflammatory bronchoscopy can help in surgical planning. In nonsurgical reaction to induce tissue hyperplasia and scarring over the candidates, such as described by Hartmann, closure can be fistula. In animal models, glues induce foreign body granuattempted by application of sealant material to the airway lomasandformationofgranulationtissue.Theglueisadmindefect via the bronchoscope. Small (<5 mm) fistulas are istered through a catheter inserted into the bronchoscope’s more likely to have successful treatment endoscopically, workingchannel.Althoughtheglueisinjecteddirectlyontoa whereas large fistulas (>8 mm) are not suitable for endo- central fistula, it is sometimes necessary to provide a scopicclosurealone. In order to close a fistula not seen in the central airways, complete occlusion of the airway (segmental or subsegmental) leading to the BPF will cease airflow through the fistula and allow eventual closure of the air leak. Applicationofasealantorglueto“plug”theorificeoftheaffected airwaywillthereforecauseatelectasisofthedistallungtissue while at the same time occluding airflow through the BPF. Initially, the bronchoscope is used to identify the involved segment by systematically inflating a balloon as described above.Oncetheairwayisidentified,sealantmaterialsuchas fibringlueorsilvernitratecanbeinstilledthroughacatheter placed through the bronchoscope’s working channel. Figures 7, 8, and 9 depict the process of applying a sealant tooccludeacentralBPF. Multipletypesofsealantsandglueshavebeendescribed, for example, albumin-glutaraldehyde tissue adhesive, oxidized regenerated cellulose, ethyl-2-cyanoacrylate, or silver nitrate; however,allinitiallyworkbypluggingthedefect.It typicallywilltakeafewminutesforthesealanttoformaclot. Fig. 8 Sealant administration catheter (arrowhead) located inside bronchopleuralfistula(circle) Fig.7 Bronchoscopicviewofdistalleftmainstembronchus.Thereisa Fig. 9 Distal left mainstem bronchus after administration of sealant. central bronchopleural fistula (circled). Also visible is catheter placed Bronchopleural fistula now occluded with bioadhesive sealant (arrow throughworkingchannelofbronchoscopeapproachingthefistula denotespriorsiteoffistula)",
+        "tokens": 377,
+        "page_range": [
+          "9"
+        ],
+        "provenance": {
+          "page": "9",
+          "paragraph_index": 1
+        }
+      },
+      {
+        "id": "p10_1",
+        "unit_type": "paragraph",
+        "section_id": "auto",
+        "order": 1,
+        "text": "10 D.M.BerkowitzandA.S.Dittrich Fig.10 Cosealsurgicalsealant (Coseal,BaxterHealthcare, Deerfield,IL).Drypowder attachedtosyringefor reconstitutionofcompoundprior toapplication.Thetworeagents activatewhenmixedtoformthe sealantclot backboneforthegluetoadhere.Spongycalfbone,whichis bothsoftandelastic,canbecutandshapedintotheformof the fistula. It can then be placed bronchoscopically into the fistulaandthencoveredwithfibringlue.Inasmallcaseseries (n = 7), covering the fistula with a polyglycolic acid mesh andfibringlueshoweda100%successrateafteranaverage of2bronchoscopies. Currently, there are limited data comparing the safety, advantages, and disadvantages of the different occlusive agents. Further, sealants are generally more effective for closing peripheral air leaks than for sealing central fistulas involving the larger airways. Fistulas in central airways are typically larger and involve a prior surgical site. Larger airways also have more secretions, which makes it difficult for the sealant to dry and adhere to the airway and fistula. Airflowthroughthecentralairwaysismorerobustthaninthe periphery, which makes it harder for the sealant to stay in appropriate position. Even if the sealant is initially successful, it may become dislodged in the future and require Fig.11 ReconstitutedCosealattachedtoadministrationcatheter.The repeated administrations. Therefore, this technique is not catheteristhenplacedthroughworkingchannelofbronchoscope suitableforalargeproportionofBPFs. Deerfield, IL) shown in Fig. 10. A few mL of concentrated FibrinGlue fibrinogen and thrombin is injected simultaneously into the airway through two separate channels in the catheter Fibrin glue is a two-component biologic adhesive, which forms a clot when the reagents (fibrin and thrombin) are (Fig. 11). When the two compounds mix in the airway, a mixed. It can be injected into the airway through a flexible fibrin clot forms. Care must be taken to not to allow any excess glue in liquid form to come into contact with the polyurethane catheter (Duplocath, Baxter Healthcare, Deerfield,IL),whichisinsertedthroughtheworkingchannel bronchoscope.Withinafewminutes,thesealantwillcongeal intheairway andoccludethefistula.Any excessglue, once of the bronchoscope. There are a number of commercially availableformsoffibringlueandbiologicadhesives;oneof congealed, should then be removed bronchoscopically to prevent occlusion of the normal airway lumen (Fig. 12). the most common being Coseal (Baxter Healthcare,",
+        "tokens": 369,
+        "page_range": [
+          "10"
+        ],
+        "provenance": {
+          "page": "10",
+          "paragraph_index": 1
+        }
+      },
+      {
+        "id": "p11_1",
+        "unit_type": "paragraph",
+        "section_id": "auto",
+        "order": 1,
+        "text": "EndoscopicManagementofBronchopleuralFistulas 11 Over the next 24 h, the clot will expand and seal off the clogtheworkingchannel.Itisrecommendednottopullthe airway.Theclotthatformsisgraduallyreabsorbed,andthus, catheter back through the working channel of the broncholong-term scarring or damage to the airways is uncommon. scopefortworeasons:(1)wetfibrinattheendofthecatheter Since fibrin is degraded, if the fistula has not healed by the can stick to the inside of the bronchoscope, ruining the timethefibrinisreabsorbed,thenthefistulamayrecur. working channel, or (2) dried fibrin glue adherent to the tip Single-channelcathetersarealsoavailableforadministra- ofthecathetercanscratchtheinsideofthebronchoscopealso tionofthereagents.Sincethecompoundshardenwhenthey requiring replacement of the working channel. Instead, the areexposedtoeachother,itisfeltsafertoinjectthemthrough catheter and bronchoscope should be removed from the a dual-chambered catheter running through the working patient as a single unit and the tip of the catheter cut and channel rather than sequentially through a single-chamber inspected before pulling the remaining catheter back out catheter.Ifanyresidualreagentisleftintheworkingchannel, throughthebronchoscope. when it comes into contactwith theother compound,it will Care must be taken to ensure the injection catheter is far enoughawayfromthebronchoscopesothatthesealantwill not accidentally come into contact with the scope (Fig. 13). Gluesthatadheretothescopewillcausepermanentdamage to the lens or exterior of the scope. At no time should suctioning occur while sealant is in the airway. Suctioning ofanyamountofglueorsealantintotheworkingchannelof the bronchoscope will allow the glue to harden within the channel, thus permanently obstructing the working channel. Caremustbetakenduringtheinitialinsertionofthecatheter through the working channel of the bronchoscope. Many catheters are thin walled, and a slight kink or bend in the catheterwillcausethecathetertotearandsealanttoleakinto theworkingchannelofthebronchoscopeleadingtoirrecoverabledamage.Forcefullyinjectingthesealantlikewisewill causetraumatothecatheterleadingtoleakage.Ifthesealant hardens within the catheter, the entire catheter must be removed and discarded. It is never a good idea to try to forcefullyexpelhardenedsealant. Fig.12 Excessivefibringlueinairwayafteradministration.Onceglue congeals,itcanbeeasilyremovedwithbronchoscope Fig.13 Catheterextending throughbronchoscope.Tipof catheterplacedatdistancefar enoughthatadministeredsealant willnotaccidentallycomeinto contactwithbronchoscope",
+        "tokens": 327,
+        "page_range": [
+          "11"
+        ],
+        "provenance": {
+          "page": "11",
+          "paragraph_index": 1
+        }
+      },
+      {
+        "id": "p12_1",
+        "unit_type": "paragraph",
+        "section_id": "auto",
+        "order": 1,
+        "text": "12 D.M.BerkowitzandA.S.Dittrich OtherAdhesivesandSealants istypicallyusedtocoveralacerationortocontrolbleeding.It Overall, a wide variety of sealing materials were reported, induces fibrinogenesis and mechanically occludes a defect. someexamplesofwhicharegivenbelow.However,thereare ThereisanisolatedreportofSurgicelusedtocloseacentral no prospective studies comparing the advantages and disad- leftmainstemBPFinapatientwithadvancedlungcancer.A vantages of these different agents. Cyanoacrylate glue poly- flexible bronchoscope was used to guide the placement of merizes and becomes solid when coming into contact with several pieces of Surgicel to mechanically cover the defect. body fluid or tissue. An early report described two patients Surgiceldoesnothaveanyadhesiveproperties;therefore,to withpostoperativeBPFsuccessfullytreatedbyapplicationof prevent dislodgement of the Surgicel, a Fogarty catheter thecyanoacrylategluethroughanepiduralcatheterplacedin balloon was inserted nasally and used to pack the Surgicel theworkingchannelofaflexiblebronchoscope.Onemillili- into the BPF. The Fogarty catheter was then removed 48 h terofgluewasinstilleddirectlyonthedefect. laterwithcompleteclosureofthefistula,andthepatientwas BioGlue(Fig. 14)hasbeenappliedsurgicallytoBPFsin dischargedtohomeafewdayslater. patientsduringVATSorthoracotomy.Theadhesiveismade fromanalbuminderivative.Ithasbeenhelpfulforcovering 6.5.3 One-WayEndobronchialValves lunglacerationsordehiscenceatsutureorstaplelines.Only Endobronchial valves were originally developed for endoonepatienthasbeenreportedtohaveundergoneendoscopic scopiclungvolumereduction(ELVR)andthereforehavethe administrationofBioGluebyrigidbronchoscopy. advantage ofbeing widely established. As a one-wayvalve, Polyethyleneglycol(FocalSeal-L,Focal;Lexington,MA) theyallowforunidirectionalairandsecretionflowoutofthe was FDA-approved as a water-soluble polyethylene glycol- lungparenchymabutnotbackin.Bypreventingairflowback basedgel.Itis“painted”intotheairwaythroughtheworking throughtheaffectedairway,theairleakisminimized,andthe channel of the bronchoscope. Once activated by light, the fistula may eventually close. Two valves are commercially sealant forms. This is usually accomplished on external sur- availableandshowninFigs.15and16.TheSpirationsystem faces by the use of a xenon-generated wand, which emits (Spiration, Inc. Redmond, WA) contains a one-way valve light in the spectrum of 440–550 nm. In one selected case composed of a nitinol frame and polyurethane umbrellareport, the sealant was activated by the use of an auto- shaped membrane. It has been approved for compassionate fluorescence bronchoscope which emits a blue light from human use in the United States by the FDA since 2008 the scope at 442 nm. This case described the successful (HO60002) for prolonged air leaks. The Zephyr endoclosure of a 4-mm dehiscence at a bronchial stump using bronchial valve (Pulmonx, Redwood City, CA) is a selfthismethod. expanding silicone valve with a nitinol backbone. Both Oxidized regenerated cellulose (Surgicel, Ethicon valves can be placed through a delivery device, which fits Piscataway,NJ)isamesh-likesheetofinertmaterial,which through a 2.8-mm bronchoscopic working channel and are Fig.14 BioGluesealantin packaging(Cryolife;Kennesaw, GA).Prefilledsyringefor administrationoftissuesealant",
+        "tokens": 417,
+        "page_range": [
+          "12"
+        ],
+        "provenance": {
+          "page": "12",
+          "paragraph_index": 1
+        }
+      },
+      {
+        "id": "p13_1",
+        "unit_type": "paragraph",
+        "section_id": "auto",
+        "order": 1,
+        "text": "EndoscopicManagementofBronchopleuralFistulas 13 Fig.15 TheSpirationvalveisa one-wayumbrella-shaped endobronchialvalvethatis deployedviaaflexible bronchoscope.Itallowsfor unidirectionalairandsecretion flowoutofthelungparenchyma butnotbackin.(Printedwith permissionfromSpiration,Inc.) Fig.16 TheZephyrEBVdeployedinanairway.Itisaself-expanding BPF.Airflowsfromparenchymatocentralairwaysduringexhalation siliconevalveplacedviaflexiblebronchoscopetoallowunidirectional (a,left)butcannotflowbackthroughthevalveduringinspiration (b, airandsecretionflowoutoflungparenchymatoassistinclosureofa right).(©2010Pulmonox.AllRightsReserved) designed to be able to be removed once the air leak has Smesseinetal.summarized19studies,sixofwhomprospecresolved. It is recommended to start considering valve tive, with persistentair leak resolutionranging from 42%to removal after 6 weeks after placement o upon resolution of 100%in1–30days.TheauthorsalsoperformedaEuropean theairleaktominimizelong-termairwaycomplicationssuch multicentercaseseriesonendobronchialvalvetreatmentfor as infection, valve migration, or tissue hyperplasia and ste- persistent air leaks in 66 high-risk patients, mostly with nosisaroundtheforeignbody(valve). COPD or lung cancer. Success rate was 60%, and the comThereisagrowingbodyofliterature andresearchonthe plication rate was low. In the same year, Huh et al. showed use of valves for fistula closure. However, the evidence Asiandataof18patientswithpersistentairleak,whocould remainslimitedduetothedifficultyofconductingcontrolled besuccessfullytreatedin78%ofcases.Thesearepromising trials and randomization. A recent analysis of a nationwide results, especially considering patients intolerant to surgical US database on the treatment of persistent air leak with treatment. As with ELVR, fissure integrity to the adjacent Spiration valves found anincreasing useofSpirationvalves lobesappearstobeimportantinBPFclosurewithvalves:Ina from2007to2016,withanin-hospitalmortalityrateof8.8% retrospective analysis, Majid et al. showed that PAL resoluand a stable associated composite mortality rate of 33.8% tionwassuccessfulin14/16patients(88%)withoutcollateral since2012.Further,acurrentliteraturereviewfrom2024by ventilation and in only 4/10 patients (40%) with collateral",
+        "tokens": 240,
+        "page_range": [
+          "13"
+        ],
+        "provenance": {
+          "page": "13",
+          "paragraph_index": 1
+        }
+      },
+      {
+        "id": "p14_1",
+        "unit_type": "paragraph",
+        "section_id": "auto",
+        "order": 1,
+        "text": "14 D.M.BerkowitzandA.S.Dittrich ventilation on Chest CTs. These results suggest that endo- (Tracheobronxane Dumon, Novatech, Westborough, MA), bronchialvalveplacementappearstobeasafeandeffective hybrid stents (Aero, Alveolus Inc., North Carolina), and interventionforprolongedairleakfromvariouscases. self-expanding metal stents (Ultraflex, Boston Scientific, Natick, MAand Silmet, Novatech, Westborough, MA). The 6.5.4 Stents more recently developedanatomically shaped J-Carinastent The first reports of using stents to cover fistulas were (aerstent TBJ, Leufen Medical GmbH, Berlin, Germany), a described in patients with esophageal to airway fistulas. A coverednitinolstentwithatraumaticends,canalsobeusedto majority of these stents were silicone and used to cover the bridgeaBPF.Thestentisdeliveredviaareloadabledelivery airway defect and prevent further aspiration of gastroesoph- system and can be repositioned as required. Metal stents ageal contents and contamination of the airway and lung should be used cautiously in patients with nonmalignant or parenchyma. Patients who already have an esophageal stent surgically resected malignant disease. Metallic stents come placed are at high risk of the stent eroding through the thin either uncovered or covered with a thin piece of silicone or posteriormembraneofthetracheaandbronchus.Caseshave polyurethane. As an uncovered stent has openings between beenreportedofanesophagealstenterodingintothetrachea the metallic backbone, it will not physically occlude the leading to complete airway occlusion and subsequent fistula. The metallic stent will cause an inflammatory asphyxiation. As such, airway stents are sometimes placed response in the airway, which will allow the fistula to close afteranesophagealstentprophylacticallytomaintainairway overtime.Giventhatthesestentswillquicklyembedintothe patency rather than to cover the defect. Double stenting airway, it is recommended that they be removed as soon as (esophageal and airway), intended only for palliative pur- possibleinpatientswithnonmalignantairwaydisease. poses, has been reported to improve patient symptoms and Afewspecificallytailoredbronchialoccludingstentshave possiblyimprovesurvival. been described. These typically are self-expandable metal A large variety of airway stents are available to cover a stents completely covered in silicone or polyurethane. They bronchopleuralfistula.Acutely,stentsareplacedtoprovidea are designed for large fistulas from surgical site dehiscence mechanicalocclusionoftheairwaydefecttopreventfurther and deployed across a fistula. The proximal end of the stent contamination of theairway or pleural space and leakage of appears normal and remains in the intact airway. The distal air (Fig. 17). Over time, however, the stent causes a foreign end of the stent is a blind pouch so that there is no direct bodyreactionleadingtogranulationtissueformation,which communication between the airway and the pleural space. hopefully will fill in the fistula with inflammatory tissue. Thesestentshavetobecustommadeandarenotwidelyused Stents used to cover an airway defect typically have some atthecurrenttime. occlusivematerial(e.g.,siliconeorpolyurethane)inorderto Regardlessofthetypeimplanted,stentsareforeignbodies block the flow of air or secretions through the fistula. Com- andcanbeassociatedwithsignificantcomplicationssuchas monly placed stents for this purpose include silicone stents mucus plugging, granulation tissue formation, stent Fig.17 Bronchopleuralfistula(arrow)inrightmainstemcoveredbyahybridstent",
+        "tokens": 529,
+        "page_range": [
+          "14"
+        ],
+        "provenance": {
+          "page": "14",
+          "paragraph_index": 1
+        }
+      },
+      {
+        "id": "p15_1",
+        "unit_type": "paragraph",
+        "section_id": "auto",
+        "order": 1,
+        "text": "EndoscopicManagementofBronchopleuralFistulas 15 migration, and infection. Post-interventional stent manage- endobronchially to occlude the airway leading to peripheral ment with regular endoscopic maintenance and intensive BPFs.Theuseofthecoilincombinationwithcyanoacrylate inhalationtherapyisthereforeofgreatimportance. mayprovideascaffoldingforthesealantandaccountforthe successful closures. At least seven cases have been reported 6.5.5 CardiacOccluders withmixedsuccessusingvascularcoils. Another option for BPF closure is Amplatzer occluders, Sclerosing agents can also be used to induce fibrosis and whichwereoriginallydevelopedtotreatcardiacatrial-septal scarring over of the fistula. Electrocautery or laser therapy or ventricular-septal defects. They consist of two self- canbedirectlyappliedtoacentrallesionorusedto“scar”or expanding Nitinol discs with polyester patches that are cen- stenosetheairwayleadingtoaBPF.Eithertherapy,however, trally connected. Available sizes range from 4 to 40 mm in can also cause tissue necrosis and expand the size of the diameter allowing for the treatment of even larger fistulas fistula. Further, cryotherapy has been proposed to induce >8mm.TheAmplatzerdevicecanbedeployedviaacatheter scar formation. Sclerosis can be accomplished with topical under visual control and closes the defect with its self- agents. Takaoka et al. described the closure of five patients centering waist. If the position needs to be corrected, the withapostoperativeBPFusingabsoluteethanol.Allfistulas Amplatzer device can be easily reinserted into the catheter. werelocatedincentralairway,werelessthan3mm,andwere Furchter et al. were able to show in a retrospective analysis visible by bronchoscopy. Absolute ethanol in 0.1-mL alithat BPFs could be adequately closed with an Amplatzer quots was injected into the mucosa around the fistula using occluders in 30 of 31 patients. There were no treatment- an injection needle (NM-21 L; Olympus) through the workrelated complications and no recurrences during the long- ing channel of the bronchoscope. Up to 41 injections were term follow-up of17 months. These data support that endo- performed during a single bronchoscopy, and one patient bronchialclosureofBPFusingAmplatzerdevicesmaybea required four bronchoscopies to complete the closure. All promising method to close BPF. However, the Ampaltzer patients had successful closure with range of time from approach is still an “off-label” treatment used according to onset toclosure of6 daysto15 months.The ethanolcauses the expertise of the treating center and the wishes of the rapid dehydration of tissue and induces scar formation. No patient. complications were noted; however, caution must be exercisedtopreventexcessinjectionoftheabsoluteethanol. 6.5.6 EndobronchialSpigots Excessiveinjectionmaycauselocaltissuenecrosis.Spillage Endobronchial Watanabe Spigots (EWS) are silicone bron- of excess ethanol into the airway causes scarring of normal chialplugsthatcanbeinsertedintothetargetbronchirespon- endobronchialmucosa.Recently,itwasproposedtoconduct siveforthefistulatopreventairentry.Theyaremarkedwith submucosalethanolinjectionswithendobronchialultrasound bariumsulfateforradiologicalvisibility,taperedaccordingto guidance. airway anatomy and available in three diameters (5, 6, and Sclerosismayalsobeaccomplishedwithtopicaladminis7mm).Topreventmigration,thespigotsarefittedwithstuds trationofotheragents.Onereportofintrabronchialadminison the outside. However, dislocation is a frequent adverse tration of doxycycline has been described in a 17-year-old event, and antitussives are recommended after implantation. manwithaBPFthatdevelopedasaresultofARDS.Oncethe The spigots must be removed when the BPF is closed. In a involved subsegmental airway was identified, 0.5 g of tetrasmall retrospective study on 21 patients, Himeji et al. cyclinesuspendedin25mLofsterilewaterwasadministered described a chest tube removal rate was 85.7% after EWS through a No. 5 Fogarty catheter. A blood patch was then implantation. A recent analysis of a Japanese national data- created using 10 cc of autologous non-heparinized blood base of 1095 patients who underwent bronchial occlusion injected through the catheter. The air leak resolved, and the with the endobronchial spigots between 2014 and 2022 patient was subsequently able to wean from mechanical showed a treatment failure rate of 36.8% and an in-hospital ventilation, and a follow-up bronchoscopy 2 weeks later mortalityof23.0%.Themainriskfactorsfortherapyfailure demonstrated almost complete stenosis of the orifice of the were age >85 years, male sex, low Bathel score, interstitial treated subsegment. Polidocanol–hydroxypoliethoxidodepneumonia, antibiotic and steroid treatment, and previous cane(AethoxysklerolKreussler)ismainlyusedforthesclesurgeryforbronchialocclusion.Thebestmethodforplacing rosingofveins(varicoseoresophageal)buthasbeenusedin theEWSiscurrentlybeingresearched. at least 35 patients with bronchopleural fistulas. When injected (4–5 mL of 2% polidocanol) submucosally around 6.5.7 AdditionalEndoscopicTherapies the edges of a fistula, it causes an initial whitish reactive Vascularocclusioncoils(GianturcoorPlatinumCoilVascu- edema followed by hyperemic and thickened tissue (granular Occlusion System, Boston Scientific Co., Fremont) in lation tissue). Theprocedureisrepeateduntil thefistulafills combination with n-butyl-2-cyanoacrylate (Histoacryl; inandafibrousscarispermanentlyformed. B. Braun Melsungen AG, Germany) have been placed",
+        "tokens": 794,
+        "page_range": [
+          "15"
+        ],
+        "provenance": {
+          "page": "15",
+          "paragraph_index": 1
+        }
+      },
+      {
+        "id": "p16_1",
+        "unit_type": "paragraph",
+        "section_id": "auto",
+        "order": 1,
+        "text": "16 D.M.BerkowitzandA.S.Dittrich As described earlier, balloon catheter-directed occlusion 5.Chae EY, Shin JH, Song HY, Kim JH, Shim TS, Kim of subsegmental airways is used diagnostically to identify a DK.Bronchopleuralfistulatreatedwithasilicone-coveredbronchial occlusionstent.AnnThoracSurg.2010;89(1):293–6. peripheral air leak. The balloon, however, could be used 6.Clark JM, Cooke DT, Brown LM. Management of complications therapeutically to block airflow through the fistula. There is afterlungresection:prolongedairleakandbronchopleuralfistula. atleastonereportofanonsurgicalpatientwhohadaballoon ThoracSurgClin.2020;30(3):347–58. leftinplaceforweekstotherapeuticallyoccludeaBPF.The 7.Darling GE, Abdurahman A, Yi QL, Johnston M, Waddell TK, Pierre A, et al. Risk of a right pneumonectomy: role of patientinthisreportdidnothaveafavorableoutcome. bronchopleuralfistula.AnnThoracSurg.2005;79(2):433–7. Currently,localbronchoscopicimplantationofpluripotent 8.Feller-KopmanD,BecharaR,GarlandR,ErnstA,AshikuS.Useof mesenchymalstemcells(MSCs)isanemergingideatoclose a removable endobronchial valve for the treatment of theBPFthroughfibroblastproliferationandcollagenforma- bronchopleuralfistula.Chest.2006;130(1):273–5. tion. MSC was first used for BPF treatment in 2015 by 9.Freitag L, Tekolf E, Steveling H, Donovan TJ, Stamatis G.Managementofmalignantesophagotrachealfistulaswithairway Petrellaetal.However,thisapproachisstillatanexperimen- stentinganddoublestenting.Chest.1996;110(5):1155–60. tal stage and requires further investigation. Further, it is 10.Freitag L, Gördes M, Zarogoulidis P, Darwiche K, Franzen D, discussedthattheemergingtechnologyofthree-dimensional Funke F, et al. Towards individualized tracheobronchial stents: technical, practical and legal considerations. Respiration. 2017;94 (3D) printing will play an increasing role in the design of (5):442–56. customizedstentsanddevices. 11.Fruchter O, Kramer MR, Dagan T, Raviv Y, Abdel-Rahman N, Saute M, et al. Endobronchial closure of bronchopleural fistulae using amplatzer devices: our experience and literature review. Chest.2011;139(3):682–7. 7 Conclusion 12.Fruchter O, El Raouf BA, Abdel-Rahman N, Saute M, BruckheimerE,KramerMR.Efficacyofbronchoscopicclosureof abronchopleuralfistulawithamplatzerdevices:long-termfollowBronchopleuralfistulasareinfrequentlyseenbuthaveahigh up.Respiration.2014;87(3):227–33. mortality even after successful treatment. They occur most 13.Guibert N, Didier A, Moreno B, Lepage B, Leyx P,Plat G, et al. commonly after pulmonary resection and may be seen in Treatment of complex airway stenoses using patient-specific 3D-engineered stents: a proof-of-concept study. Thorax. 2019;74 infections, malignancy, or as a complication of cancer treat- (8):810–3. ment.BronchoscopyisindicatedinallpatientswithBPFand 14.Hartmann W, Rausch V. New therapeutic application of the can be helpful in both diagnosis and treatment of the BPF. fiberopticbronchoscope.Chest.1977;71(2):237. When conservative measures fail, it is best to evaluate the 15.HimejiD,TanakaGI,FukuyamaC,ShiibaR,YamanakaA,Beppu K. Clinical evaluation of endoscopic bronchial occlusion with an patientforbothendoscopicaswellassurgicalclosure.There endobronchial Watanabe spigot for the management of intractable is a lack of evidence over optimal treatment method as no pneumothorax,pyothoraxwithbronchialfistula,andpostoperative large or randomized trials have been performed. Multiple airleakage.InternMed.2020;59(15):1835–9. endoscopic therapies have been described on the basis of a 16.Hirata T, Ogawa E, Takenaka K, Uwokawa R, Fujisawa I. Endobronchial closure of postoperative bronchopleural fistula few small series and case reports. No one therapy will be using vascular occluding coils and n-butyl-2-cyanoacrylate. Ann preferred in all patients. The clinical scenario as well as ThoracSurg.2002;74(6):2174–6. patient and physician preference will be the main factors 17.HollausPH,LaxF,el-NashefBB,HauckHH,LucciariniP,Pridun influencingtreatment. NS.Naturalhistoryofbronchopleuralfistulaafterpneumonectomy: areviewof96cases.AnnThoracSurg.1997;63(5):1391–6.discussion1396–7. 18.Hollaus PH, Lax F, Janakiev D, Lucciarini P, Katz E, Kreuzer A, References etal.Endoscopictreatmentofpostoperativebronchopleuralfistula: experiencewith45cases.AnnThoracSurg.1998;66(3):923–7. 1.Abramian O, Rosenheck J, Taddeo-Kolman D, Bowen F, 19.Huh JY, Jeong BH, Yoon HI, Kim H, Cho YJ, Kim C, et al. Boujaoude Z, Abouzgheib W. Therapeutic closure of Endobronchial valves for emphysema and persistent air-leak: bronchopleural fistulas using ethanol. Ther Adv Respir Dis. 10-yearexperienceinanAsiancountry.BMCPulmMed.2024;24 2021;15:17534666211044411. (1):162. 2.Asamura H, Naruke T, Tsuchiya R, Goya T, Kondo H, Suemasu 20.JinL,LiY.Bronchoscopicinterventionsforbronchopleuralfistulas. K.Bronchopleuralfistulasassociatedwithlungcanceroperations. TherAdvRespirDis.2023;17:17534666231164541. Univariate and multivariate analysis of risk factors, management, 21.Klotz LV, Gesierich W, Schott-Hildebrand S, Hatz RA, Lindner andoutcome.JThoracCardiovascSurg.1992;104(5):1456–64. M.EndobronchialclosureofbronchopleuralfistulausingAmplatzer 3.BellatoV,FerraroliGM,DeCariaD,InfanteMV,CariboniU,Spoto device.JThoracDis.2015;7(8):1478–82. MR,etal.Managementofpostoperativebronchopleuralfistulawith 22.KlotzLV,EberhardtR,HerthFJF,WinterH.[Interventionaltreata tracheobronchial stent in a patient requiring mechanical ventilamentoftracheopleuralandbronchopleuralfistulas].ChirZAlleGeb tion.IntensiveCareMed.2010;36(4):721–2. OperMedizen.2019;90(9):697–703. 4.Cardillo G, Carbone L, Carleo F, Galluccio G, Di Martino M, 23.LiS,FanJ,LiuJ,ZhouJ,RenY,ShenC,etal.Neoadjuvanttherapy Giunti R, et al. The rationale for treatment of postresectional andriskofbronchopleuralfistulaafterlungcancersurgery:asysbronchopleural fistula: analysis of 52 patients. Ann Thorac Surg. tematicmeta-analysisof14912patients.JpnJClinOncol.2016;46 2015;100(1):251–7. (6):534–46.",
+        "tokens": 711,
+        "page_range": [
+          "16"
+        ],
+        "provenance": {
+          "page": "16",
+          "paragraph_index": 1
+        }
+      },
+      {
+        "id": "p17_1",
+        "unit_type": "paragraph",
+        "section_id": "auto",
+        "order": 1,
+        "text": "EndoscopicManagementofBronchopleuralFistulas 17 24.Lois M, Noppen M. Bronchopleural fistulas: an overview of the 38.Smesseim I, Morin-Thibault LV, Herth FJF, Tonkin J, Shah PL, problem with special focus on endoscopic management. Chest. Slebos DJ, et al. Endobronchial valves in treatment of persistent 2005;128(6):3955–65. air leak: European case-series study and best practice 25.Low SW, Cartin-Ceba R, Vaszar LT, Swanson KL, Sakata recommendations – from an expert panel. Respiration. 2024;103 KK. Trends in intrabronchial valve implantation in patients with (9):544–62. persistent air leak: analysis of a nationwide database over a 39.SprungJ,KrasnaMJ,YunA,ThomasP,BourkeDL.Treatmentofa 10-yearperiod.AnnAmThoracSoc.2020;17(12):1642–5. bronchopleural fistula with a Fogarty catheter and oxidized 26.MajidA,KheirF,Sierra-RuizM,GhattasC,ParikhM,ChannickC, regeneratedcellulose(surgicel).Chest.1994;105(6):1879–81. etal.Assessmentoffissureintegrityinpatientswithintrabronchial 40.SternJB,FournelL,WyploszB,GirardP,AlNakibM,GossotD, valves for treatment of prolonged air leak. Ann Thorac Surg. etal.Earlyanddelayedpost-pneumonectomyempyemas:microbi2019;107(2):407–11. ology,managementandprognosis.ClinRespirJ.2018;12(4):1753– 27.Martin WR, Siefkin AD, Allen R. Closure of a bronchopleural 61. fistula with bronchoscopic instillation of tetracycline. Chest. 41.TakaokaK,InoueS,OhiraS.Centralbronchopleuralfistulasclosed 1991;99(4):1040–2. bybronchoscopicinjectionofabsoluteethanol.Chest.2002;122(1): 28.Petrella F, Spaggiari L, Acocella F, Barberis M, Bellomi M, 374–8. BrizzolaS,etal.Airwayfistulaclosureafterstem-cellinfusion.N 42.Taniguchi J, Aso S, Taisuke J, Matsui H, Fushimi K, Yasunaga EnglJMed.2015;372(1):96–7. H.Endobronchialsiliconespigotinprolongedairleaks:nationwide 29.Ponn RB, D’Agostino RS, Stern H, Westcott JL. Treatment of study on outcomes and risk factors for treatment failure. Respir peripheral bronchopleural fistulas with endobronchial occlusion Investig.2024;62(3):449–54. coils.AnnThoracSurg.1993;56(6):1343–7. 43.ThouraniVH,LancasterRT,MansourKA,MillerJIJr.Twenty-six 30.RajaS,RiceTW,NeumannDR,SahaGB,KhandekarS,MacIntyre years of experience with the modified eloesser flap. Ann Thorac WJ, et al. Scintigraphic detection of post-pneumonectomy Surg.2003;76(2):401–5.discussion405–6. bronchopleuralfistulae.EurJNuclMed.1999;26(3):215–9. 44.TostePA,RevelsSL.Managementofcomplicationsfollowinglung 31.Ratliff JL, Hill JD, Tucker H, Fallat R. Endobronchial control of resection.SurgClinNorthAm.2021;101(5):911–23. bronchopleuralfistulae.Chest.1977;71(1):98–9. 45.TravalineJM,McKennaRJJr,DeGiacomoT,VenutaF,Hazelrigg 32.Roksvaag H, Skalleberg L, Nordberg C, Solheim K, Hoivik SR,BoomerM,etal.Treatmentofpersistentpulmonaryairleaks B. Endoscopic closure of bronchial fistula. Thorax. 1983;38(9): usingendobronchialvalves.Chest.2009;136(2):355–60. 696–7. 46.VaroliF,RoviaroG,GrignaniF,VerganiC,MacioccoM,Rebuffat 33.Salik I, Vashisht R, Abramowicz AE. Bronchopleural fistula. In: C. Endoscopic treatment of bronchopleural fistulas. Ann Thorac StatPearls [Internet]. Treasure Island: StatPearls Publishing; 2024 Surg.1998;65(3):807–9. [cited 2024 Jun 30]. http://www.ncbi.nlm.nih.gov/books/ 47.WestcottJL,VolpeJP.Peripheralbronchopleuralfistula:CTevaluNBK534765/ ationin20patientswithpneumonia,empyema,orpostoperativeair 34.SarkarP,ChandakT,ShahR,TalwarA.Diagnosisandmanagement leak.Radiology.1995;196(1):175–81. bronchopleuralfistula.IndianJChestDisAlliedSci.2010a;52(2): 48.YamamotoS,EndoS,MinegishiK,ShibanoT,NakanoT,Tetsuka 97–104. K. Polyglycolic acid mesh occlusion for postoperative 35.SarkarP,PatelN,ChusidJ,ShahR,TalwarA.Theroleofcomputed bronchopleuralfistula.AsianCardiovascThoracAnn.2015;23(8): tomography bronchography in the management of bronchopleural 931–6. fistulas.JThoracImaging.2010b;25(1):W10–3. 49.YorkEL,LewallDB,HirjiM,GelfandET,ModryDL.Endoscopic 36.Singh N, Agarwal R. Bronchopleural fistula or alveolopleural fis- diagnosis and treatment of postoperative bronchopleural fistula. tula?Chest.2006;130(6):1948. Chest.1990;97(6):1390–2. 37.Sirbu H, Busch T, Aleksic I, Schreiner W, Oster O, Dalichau 50.Zhao P. Progress report on interventional treatment for H. Bronchopleural fistula in the surgery of non-small cell lung bronchopleuralfistula.EmergMedInt.2023;2023:8615055. cancer: incidence, risk factors, and management. Ann Thorac CardiovascSurg.2001;7(6):330–6.",
+        "tokens": 462,
+        "page_range": [
+          "17"
+        ],
+        "provenance": {
+          "page": "17",
+          "paragraph_index": 1
+        }
+      }
+    ],
+    "figures": [
+      {
+        "id": "fig_3_1",
+        "number": "1",
+        "page": "3",
+        "provenance": {
+          "page": "3",
+          "label": "Fig 1"
+        }
+      },
+      {
+        "id": "fig_4_2",
+        "number": "2",
+        "page": "4",
+        "provenance": {
+          "page": "4",
+          "label": "Fig 2"
+        }
+      },
+      {
+        "id": "fig_5_4",
+        "number": "4",
+        "page": "5",
+        "provenance": {
+          "page": "5",
+          "label": "Fig 4"
+        }
+      },
+      {
+        "id": "fig_5_3",
+        "number": "3",
+        "page": "5",
+        "provenance": {
+          "page": "5",
+          "label": "Fig 3"
+        }
+      },
+      {
+        "id": "fig_6_5",
+        "number": "5",
+        "page": "6",
+        "provenance": {
+          "page": "6",
+          "label": "Fig 5"
+        }
+      },
+      {
+        "id": "fig_6_6",
+        "number": "6",
+        "page": "6",
+        "provenance": {
+          "page": "6",
+          "label": "Fig 6"
+        }
+      },
+      {
+        "id": "fig_9_8",
+        "number": "8",
+        "page": "9",
+        "provenance": {
+          "page": "9",
+          "label": "Fig 8"
+        }
+      },
+      {
+        "id": "fig_9_7",
+        "number": "7",
+        "page": "9",
+        "provenance": {
+          "page": "9",
+          "label": "Fig 7"
+        }
+      },
+      {
+        "id": "fig_10_10",
+        "number": "10",
+        "page": "10",
+        "provenance": {
+          "page": "10",
+          "label": "Fig 10"
+        }
+      },
+      {
+        "id": "fig_11_12",
+        "number": "12",
+        "page": "11",
+        "provenance": {
+          "page": "11",
+          "label": "Fig 12"
+        }
+      },
+      {
+        "id": "fig_11_13",
+        "number": "13",
+        "page": "11",
+        "provenance": {
+          "page": "11",
+          "label": "Fig 13"
+        }
+      },
+      {
+        "id": "fig_12_14",
+        "number": "14",
+        "page": "12",
+        "provenance": {
+          "page": "12",
+          "label": "Fig 14"
+        }
+      },
+      {
+        "id": "fig_13_15",
+        "number": "15",
+        "page": "13",
+        "provenance": {
+          "page": "13",
+          "label": "Fig 15"
+        }
+      },
+      {
+        "id": "fig_13_16",
+        "number": "16",
+        "page": "13",
+        "provenance": {
+          "page": "13",
+          "label": "Fig 16"
+        }
+      },
+      {
+        "id": "fig_14_17",
+        "number": "17",
+        "page": "14",
+        "provenance": {
+          "page": "14",
+          "label": "Fig 17"
+        }
+      }
+    ],
+    "tables": [],
+    "boxes": [],
+    "equations": [],
+    "cases": [],
+    "references": []
+  },
+  "retrieval": {
+    "keywords": [],
+    "summary_tldr": "Auto-built chapter JSON for Bronchopleural Fistula.",
+    "nuggets": [],
+    "chunks": []
+  },
+  "versioning": {
+    "extraction_tool": "build_chapter.py",
+    "model": "none",
+    "timestamp": "2025-08-08T16:01:01.361094Z",
+    "revision": "r1"
+  }
+}

@@ -1,0 +1,363 @@
+{
+  "schema_version": "1.0.0",
+  "source": {
+    "document_id": "Minimally Invasive Image-Guided Ablation",
+    "book_title": "Principles and Practice of Interventional Pulmonology",
+    "publisher": "Springer Nature Switzerland AG",
+    "isbn13": "978-3-031-49583-0",
+    "chapter_number": "22",
+    "source_url": "https://doi.org/10.1007/978-3-031-49583-0_22",
+    "file_sha256": "87edffa1877bae06f6072804aaa3c69c3c6e08f415ab7e4837ec87f3aa351f83",
+    "license": "All rights reserved",
+    "rights_holder": "Springer Nature Switzerland AG",
+    "access": "institutional"
+  },
+  "document": {
+    "chapter_title": "Minimally Invasive Image-Guided Ablation",
+    "authors": [
+      "Author Name"
+    ]
+  },
+  "structure": {
+    "toc_path": [],
+    "section_tree": [
+      {
+        "id": "sec1",
+        "title": "Introduction............................................................................................. 2",
+        "level": 1,
+        "page_start": "?",
+        "page_end": "?",
+        "children": []
+      },
+      {
+        "id": "sec2",
+        "title": "ThermalAblationTechniques:RadiofrequencyAblation,MicrowaveAblation,Cryoablation,",
+        "level": 1,
+        "page_start": "?",
+        "page_end": "?",
+        "children": [
+          {
+            "id": "sec2_1",
+            "title": "RadiofrequencyAblation(RFA)......................................................................... 2",
+            "level": 2,
+            "page_start": "?",
+            "page_end": "?",
+            "children": []
+          },
+          {
+            "id": "sec2_2",
+            "title": "MicrowaveAblation(MWA)............................................................................ 3",
+            "level": 2,
+            "page_start": "?",
+            "page_end": "?",
+            "children": []
+          },
+          {
+            "id": "sec2_3",
+            "title": "Cryoablation.............................................................................................. 4",
+            "level": 2,
+            "page_start": "?",
+            "page_end": "?",
+            "children": []
+          },
+          {
+            "id": "sec2_4",
+            "title": "LaserLungAblation..................................................................................... 6",
+            "level": 2,
+            "page_start": "?",
+            "page_end": "?",
+            "children": []
+          },
+          {
+            "id": "sec2_5",
+            "title": "IrreversibleElectroporation(IRE)....................................................................... 6",
+            "level": 2,
+            "page_start": "?",
+            "page_end": "?",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "sec3",
+        "title": "PatientSelectionCriteriaforLungAblation......................................................... 6",
+        "level": 1,
+        "page_start": "?",
+        "page_end": "?",
+        "children": []
+      },
+      {
+        "id": "sec4",
+        "title": "ClinicalEvidenceontheEfficacyofLungAblationforDifferentLungLesions................. 6",
+        "level": 1,
+        "page_start": "?",
+        "page_end": "?",
+        "children": [
+          {
+            "id": "sec4_1",
+            "title": "LungAblationforOligometastaticorRecurrentTumors............................................... 6",
+            "level": 2,
+            "page_start": "?",
+            "page_end": "?",
+            "children": []
+          },
+          {
+            "id": "sec4_2",
+            "title": "LungAblationforSolitaryTumorsorMultifocalPrimaryLungCancer............................... 8",
+            "level": 2,
+            "page_start": "?",
+            "page_end": "?",
+            "children": []
+          },
+          {
+            "id": "sec4_3",
+            "title": "LungAblationforLesionsPreviouslyTreatedwithRadiationTherapy............................... 8",
+            "level": 2,
+            "page_start": "?",
+            "page_end": "?",
+            "children": []
+          },
+          {
+            "id": "sec4_4",
+            "title": "SedationandPatientPositioning......................................................................... 9",
+            "level": 2,
+            "page_start": "?",
+            "page_end": "?",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "sec5",
+        "title": "ComplicationsofLungAblation....................................................................... 9",
+        "level": 1,
+        "page_start": "?",
+        "page_end": "?",
+        "children": []
+      },
+      {
+        "id": "sec6",
+        "title": "Conclusion............................................................................................... 10",
+        "level": 1,
+        "page_start": "?",
+        "page_end": "?",
+        "children": []
+      }
+    ]
+  },
+  "content": {
+    "text_units": [
+      {
+        "id": "p1_1",
+        "unit_type": "paragraph",
+        "section_id": "auto",
+        "order": 1,
+        "text": "Minimally Invasive Image-Guided Ablation for Lung Cancer Rebecca Choi and Robert P. Liddell Contents 1 Introduction............................................................................................. 2 2 ThermalAblationTechniques:RadiofrequencyAblation,MicrowaveAblation,Cryoablation, LaserAblation,andIrreversibleElectroporation................................................... 2 2.1 RadiofrequencyAblation(RFA)......................................................................... 2 2.2 MicrowaveAblation(MWA)............................................................................ 3 2.3 Cryoablation.............................................................................................. 4 2.4 LaserLungAblation..................................................................................... 6 2.5 IrreversibleElectroporation(IRE)....................................................................... 6 3 PatientSelectionCriteriaforLungAblation......................................................... 6 4 ClinicalEvidenceontheEfficacyofLungAblationforDifferentLungLesions................. 6 4.1 LungAblationforOligometastaticorRecurrentTumors............................................... 6 4.2 LungAblationforSolitaryTumorsorMultifocalPrimaryLungCancer............................... 8 4.3 LungAblationforLesionsPreviouslyTreatedwithRadiationTherapy............................... 8 4.4 SedationandPatientPositioning......................................................................... 9 5 ComplicationsofLungAblation....................................................................... 9 6 Conclusion............................................................................................... 10 References...................................................................................................... 10 Abstract societies endorse this method as a safe and effective lungpreserving treatment option for both primary lung cancer Lung ablation has emerged as a crucial intervention for and metastases. The National Comprehensive Cancer Netmanaging both primary and metastatic lung tumors. While work (NCCN Guidelines 2024) supports thermal ablation surgicalresectionremainsthemosteffectivetreatment,only for nonsmall cell lung cancer (NSCLC) in select patients about 20% of lung lesions are operable due to advanced disease, comorbidities, poor functional status, and specific with tumors up to T3 (up to 7 cm in diameter), although tumorcharacteristics(Scottetal.,Chest132(3suppl):234S– tumorslargerthan3cmhaveahigherriskofrecurrence,and as one of the treatment options for dominant nodule in 242S,2007).Forinoperablelesions,stereotacticbodyradimultifocal lung cancer (National Comprehensive Cancer ation therapy (SBRT) combined with adjuvant systemic therapy is a common alternative, albeit with significant Network. Non-small cell lung cancer (version 8.2020), 2020). The Society of Interventional Radiology (SIR) side effects. Minimally invasive, image-guided percutaneapproves thermal ablation for patients with inoperable ousablationoffersapromisingsolution,providingeffective Stage IA NSCLC, recurrent NSCLC, and metastatic lung treatment while preserving maximum functional lung voldisease (Genshaft et al., J Vasc Interv Radiol 32:1241. ume and enhancing quality of life. Multiple medical e1–1241.e12, 2021). Available techniques include radio- ✉ R.Choi·R.P.Liddell( ) frequencyablation,microwaveablation,cryoablation,laser DepartmentofVascularandInterventionalRadiology,JohnsHopkins, ablation, and irreversible electroporation (IRE). Although Baltimore,MD,USA comprehensivecomparativestudiesarelacking,allmethods e-mail:rliddel1@jhmi.edu ©SpringerNatureSwitzerlandAG2025 1 L.Yarmusetal.(eds.),PrinciplesandPracticeofInterventionalPulmonology, https://doi.org/10.1007/978-3-031-49583-0_60-1",
+        "tokens": 343,
+        "page_range": [
+          "1"
+        ],
+        "provenance": {
+          "page": "1",
+          "paragraph_index": 1
+        }
+      },
+      {
+        "id": "p2_1",
+        "unit_type": "paragraph",
+        "section_id": "auto",
+        "order": 1,
+        "text": "2 R.ChoiandR.P.Liddell demonstrateexcellenttoleranceandminimalcomplications. Thischapteraimstoprovideacomprehensiveoverviewof This chapter will explore the indications for lung ablation, lungablationinthemanagementoflungcancer,coveringits various image-guided techniques, potential complications, indications,techniques,potentialcomplications,andclinical andimagingfollow-up. outcomes. It will review guidelines and recommendations from leading organizations, analyze relevant studies, and Keywords offerinsights into patient selection andprocedural considerations. Additionally, the chapter will address potential comThermalablation·Ablationzone·Microwaveablation· plications. By elucidating the role of lung ablation, this Radiofrequencyablation·Cryoablation·Lungchapterseekstohighlightitsimportanceasakeycomponent preservingtherapy·Imagingfollow-up·Airembolism inmodernlungcancertreatmentstrategies. 1 Introduction 2 Thermal Ablation Techniques: Radiofrequency Ablation, Microwave Lung cancer continues to be a major global health concern, Ablation, Cryoablation, Laser Ablation, representing the leading cause of cancer-related mortality. Despitesignificantadvancementsindiagnosticandtherapeu- and Irreversible Electroporation ticapproaches,theprognosisformanypatientsremainspoor, particularly for those with advanced or metastatic disease. Ablation techniques employ various energy sources to Surgicalresectionisgenerallyconsideredthegold standard, destroy tumor tissue, each with distinct mechanisms and offering the best chance for long-term survival. However, benefits. RFA, MWA, and laser ablation use heat to induce only a limited number of patients are candidates for surgery coagulative necrosis of the targeted tissue. Cryoablation, in duetofactorssuchascomorbidities,compromisedfunctional contrast, employs extreme cold to cause cell death through status,andunfavorabletumorcharacteristics[1].Forpatients icecrystalformationandsubsequentcellulardisruption.IRE whoareineligibleforsurgery,alternativetreatmentssuchas utilizes nonthermal electrical pulses to create nanopores in stereotactic body radiation therapy (SBRT), often combined cellmembranes,leadingtoapoptosiswithoutsignificantheat with systemic therapy, have been utilized. While radiation generation.Whileallthesemethodsaimtoeradicatetumors, therapy can be effective, it frequently comes with notable theydifferinmechanisms,applications,andoutcomes,each sideeffects,especiallyforhigh-riskindividuals. offering unique advantages. The distinct attributes of each In response to the limitations of conventional treatments, techniquedetermineitssuitabilityforvariousclinicalscenarpercutaneousimage-guidedablationhasemergedasapromios,patientprofiles,andtumorcharacteristics,allowingfora ising minimally invasive option. This technique, guided by personalizedapproachtolungcancermanagement. real-time imaging, offersseveral advantages over traditional approaches, including reduced morbidity, preservation of healthy lung tissue, and lower procedural costs. Image- 2.1 Radiofrequency Ablation (RFA) guided ablation includes various techniques such as radiofrequency ablation (RFA), microwave ablation (MWA), Mechanism: RFA employs electrical currents at radiocryoablation, laser ablation, and irreversible electroporation frequencies(375–500kHz)togenerateheatthroughresistive (IRE).Thesemethodshavegainedrecognitionfortheireffec- energy loss, also known as frictional heating. As electrons tivenessintreatingbothprimaryandmetastaticlungtumors, oscillatewithintheelectricalcircuit,they collide with tissue especiallyinpatientswhoarenotidealcandidatesforsurgical molecules, producing localized heat. The goal is to elevate intervention. Thermal ablation methods, including RFA, the tissue temperature to 60–100 °C, which is lethal to the MWA, and cryoablation, are endorsed by organizations like targetedtumorcells.Theradiofrequencyenergyaccumulates the National Comprehensive Cancer Network (NCCN) and within the lung mass because the normal lung tissue acts as the Society of Interventional Radiology (SIR) as viable an insulator, effectively focusing the energy on the tumor. options for specific patient populations. The NCCN guide- Additionally, medium to large blood vessels and airways linesadvocateforlungablationinnonsmallcelllungcancer create a “heat sink” effect, which pulls heat away from (NSCLC)largerthan6mm,particularlywhensurgicalresec- surrounding healthy tissue and concentrates it within the tion is impractical due to tumor location or patient solid component of the tumor. However, this effect may comorbidities[2].Likewise,SIRsupportsimage-guidedther- alsolimittheefficacyofRFAforlargertumors[4,5]. mal ablation for inoperable early-stage NSCLC, recurrent Applications:RFAistypicallyperformedundermoderate NSCLC,andmetastaticlungdisease[3]. sedation,unlesscontraindicated.Ittypicallyusedfortreating",
+        "tokens": 564,
+        "page_range": [
+          "2"
+        ],
+        "provenance": {
+          "page": "2",
+          "paragraph_index": 1
+        }
+      },
+      {
+        "id": "p3_1",
+        "unit_type": "paragraph",
+        "section_id": "auto",
+        "order": 1,
+        "text": "MinimallyInvasiveImage-GuidedAblationforLungCancer 3 small to medium-sized tumors, being the most effective for 2.2 Microwave Ablation (MWA) tumors less than 3 cm in diameter. Some RF electrodes are equippedwithinternalthermocouplestomeasurethetemper- Mechanism:MWA,likeRFA,usesheattocoagulatetissue. ature within the tissue. Additionally, some electrodes are However, unlike RFA, which relies on an electrical current connectedtoaninfusionpumpthateithercoolstheelectrode passing between a cathode and an anode positioned on septiptopreventtissuecharring,whichcanreducecurrentdepo- aratepartsofthebody,MWAdirectlyappliesanelectromagsition,orinfusessalineintothetissuetoenhancethermaland neticfieldatfrequencies between 900and2500MHztothe electrical conductivity [6]. The duration of RFA treatments surroundingtissueviaadielectricantenna.Thiselectromagcanrangefrom2to20min,dependingonfactorssuchasthe neticfieldagitateswatermoleculeswithinthetissue,causing dielectricpropertiesofthetumor,thesurroundingtissue,and themtooscillaterapidlyandproduceheat[9].Thetemperathe presence of local thermal sinks like large vessels and ture generated during the procedure is determined by the bronchi[8].RFAelectrodesmaycomeinvariousconfigura- oscillation speed of water molecules in the target lesion, tions, including single-tip or cluster electrodes (with three allowing MWA to achieve higher temperatures than RFA, closely spaced tips), allowing for thermocoagulation diame- eveninhighlyventilatedandperfusedareas. tersrangingfrom2to5cm(Fig.1). Applications: MWA is particularly suitable for treating BenefitsandLimitations:RFAisawell-establishedpro- larger tumors, typically those ranging from 3 to 5 cm or cedure with extensive clinical evidence supporting its effec- larger.Whendealingwithtumorsgreaterthan3cm,multiple tiveness and holds Food and Drug Administration (FDA) MWAapplicatorsmaybenecessarytoachieveasufficiently approval for treating lung cancer [7]. It is associated with a large area of thermocoagulation. This technique is well relatively low risk of complications and generally offers a established in hepatic malignancies. MWA also is usually shorter recovery time compared to surgical options. How- performed under moderate sedation, unless contraindicated. ever,itseffectivenessdiminishesastumorsizeincreasesand Generally,lower-frequencyMWApenetratesdeeperintotiswhen tumors are located near critical structures. Larger sueandrequireslesspower,whilehigher-frequencyMWAis tumors,particularlythoseexceeding3cm,mayrequiremul- absorbed more readily and thus requires more power. tiple overlapping ablations, multiple ablation sessions or Cooling of the antenna shaft is usually not needed with combination therapies to achieve optimal results. There is lower-frequencyMWAbutisessentialwithhigher-frequency also evidence suggesting interference with cardiac pace- MWA to prevent thermal damage along the needle tract. makerdevicesandsurgicalhardware[8]. Depending ontherequired volumeoftissue necrosis, single or multiple MWA antennas may be used (Fig. 2). Unlike RFA,groundingisnotrequiredforMWA,andtissuecharring doesnotsignificantlyimpacttheeffectivenessofelectromagnetic wave propagation in this technique. MWA is particularlyeffectiveforlesionsindifficult-to-reachlocationsandis increasingly used for both primary and metastatic lung cancers[5,10]. Benefits and Limitations: MWA can treat larger tumors and has a faster ablation time compared to RFA. It also provides a larger ablation zone, which can be advantageous for heterogeneous tumor tissues. The higher tissue temperaturesachievedwithMWAmakeablationslesssusceptibleto the effects of thermal sink. Unlike RFA, MWA is more versatilebecauseitdoesn’trelyonanelectricallyconductive path and is not limited by tissue thermal conductivity or the presence of charred tissue [10]. Therefore, MWA may be associatedwithahigherriskofcollateraldamageduetothe Fig.1 AxialnoncontrastCTimageofthechestdemonstratinga3.5cm broader heat zone. Its long-term outcomes and comparative rightupperlobemasswitha5cmclusterelectrodepositionedcentrally effectivenesstoothermodalitiesarestillunderinvestigation. within the mass. Ablation was performed at this location prior to repositioning the electrode more peripherally within the mass and ThewidevarietyofdifferentdevicedesignsforMWAcomrepeatingtheablation plicatestrainingandreporting[11].",
+        "tokens": 533,
+        "page_range": [
+          "3"
+        ],
+        "provenance": {
+          "page": "3",
+          "paragraph_index": 1
+        }
+      },
+      {
+        "id": "p4_1",
+        "unit_type": "paragraph",
+        "section_id": "auto",
+        "order": 1,
+        "text": "4 R.ChoiandR.P.Liddell Fig.2 A54-year-oldfemalewithmetastaticcoloncancertotheright arrows) that surrounds the tumor during the ablation. (c) Axial nonlower lobe. (a) Axial noncontrast CT of the chest demonstrating an contrast Ct of the chest performed 3 months postmicrowave ablation 8mmrightlowerlobemetastasis(yellowarrow).(b)Axialnoncontrast demonstratesminimalresidualscarringatthesiteofthetreatedmetaCTimageobtainedduringmicrowaveablationdemonstratesanantenna staticlesion(yellowarrow) within the targeted lesion and the typical ground-glass halo (yellow 2.3 Cryoablation eventually creating an “ice ball” that defines the ablation zone’sboundaries[13].Theiceballrupturesboththeplasma Mechanism:Cryoablationfreezes tissue by deliveringpres- and organelle membranes, indirectly causing cell death by surized gas to the tip of a cryoprobe, where the gas passes inducingendothelialdamage,whichpromotesplateletaggrethrough an orifice into a low-pressure chamber, inducing gation and microvascular thrombosis during the thawing of extreme cold via the Joule–Thomson effect. This effect the ice ball. Typically, cryoablation involves a number of causes most gases, except hydrogen, helium, and neon, to freeze–thaw–freeze cycles, depending on the target tissue. cool as they transition from high to low pressure, thereby Active thawing is based on the same Joule–Thomson effect freezing and destroying the targeted tissue [12]. In this pro- but most often utilizes helium, which warms when moving cess, gas at a constant temperature is transported down the fromhighpressuretolowpressure[12]. shaft of the cryoprobe and exits through an aperture into a Applications: Cryoablation is particularly useful for lower pressure area, causing the gas to expand and cool. lesionslocatednearcriticalstructureswherethermalablation Cryoablation achieves target temperatures near -40 °C, such as RFA and MWA might be risky. Although ice ball causing ice crystals to form in the extracellular space and visualizationisdifficultinlungtopredictnecroticlesion,the",
+        "tokens": 310,
+        "page_range": [
+          "4"
+        ],
+        "provenance": {
+          "page": "4",
+          "paragraph_index": 1
+        }
+      },
+      {
+        "id": "p5_1",
+        "unit_type": "paragraph",
+        "section_id": "auto",
+        "order": 1,
+        "text": "MinimallyInvasiveImage-GuidedAblationforLungCancer 5 ice balls are great to ensure the ablation zone is not been reported in attempt to maximize tumor ablation zone encroachingvulnerablestructure.LikeRFAandMWA,mod- and minimize the treatment time. The triple-freeze protocol erate sedation is typically used when targeting peripheral has reported to be with decreased hemorrhage and allow lesionbutiftargetingcentrallesionorhighriskofbleeding, earlier ice ball detection during the treatment and is most generalanesthesiaisrecommendedtokeepthetreatedlungin oftenutilizedintreatinglunglesions[16](Fig.3). under continuous positive airway pressure while mechani- BenefitsandLimitations:Cryoablationofferssignificant cally ventilating the other lung [14]. The number of cryo- advantagesfortreatingtumorsnearvitalstructuresduetoits probesrequiredisdeterminedbythelesionsize,withprobes ability tocreatealocalized freeze zonewith minimal collatbeing positioned no more than 2 cm apart from each other eral damage, making it safer for use near the airways, periand within 1 cm of the tumor margin [15]. The treatment cardium, blood vessels, and bones [17]. The risk of protocolfortargetedliverorrenaltumorstypicallyincludesa bronchopleuralfistulais lower comparedto RFAand MWA 10-min freeze, an 8-min thaw, and another 10-min freeze. [18,19].Additionally,cryoablationcanstimulateanimmune However, many different freeze–thaw cycle schemes have response that may help target residual tumor cells and is Fig.3 A74-year-oldmalewitharightlowerlobeadenocarcinomafelt demonstrates the low density ice ball within the targeted soft tissue tobeapoorsurgicalcandidateforsurgeryduetosignificantunderlying mass (yellow arrow). Axial noncontrast CT of the chest performed emphysema and previous radiation. (a) Axial noncontrast CT of the 3 months postcryoablation demonstrates minimal atelectasis with no chestdemonstratinga1.4cmlungnodulewithinthemedialrightlower residualtumorwithinthemedialrightlowerlobe.(c)Axialnoncontrast lobe,subjacenttotherightmainstembronchus(yellowarrow).(b)Axial CT of the chest performed 3 months post-ablation demonstrating no noncontrast CT of the chest obtained during the freeze cycle residualmassandminimalscarring(yellowarrow).",
+        "tokens": 293,
+        "page_range": [
+          "5"
+        ],
+        "provenance": {
+          "page": "5",
+          "paragraph_index": 1
+        }
+      },
+      {
+        "id": "p6_1",
+        "unit_type": "paragraph",
+        "section_id": "auto",
+        "order": 1,
+        "text": "6 R.ChoiandR.P.Liddell associated with less postprocedural pain compared to RFA associated with increased infiltration of T cells and macroandMWA[20].However,cryoablationprocedurestypically phages, potentially enhancing immune response. Given IRE takelongerthanthoseofRFAandMWA. specificallytargetsthecell membrane without damagingthe extracellularmatrix,structuressuchasbileducts,bloodvessels, and intestines remain intact, allowing for the preserva2.4 Laser Lung Ablation tion of their lumen and supporting postprocedural healing andregeneration[26].However,IREmaynotbeeffectivefor Mechanism: Laser ablation employs targeted heat to pre- alltumortypesorlesionswithsignificantnecrosisorcalcificiselydestroytumortissueusinglaserenergy.Theprocedure cation. As a relatively new technique, its safety, long-term begins with the introduction coaxial needle to the lesion. A outcomes and optimal protocols remain under investigation neodymium-dopedyttriumaluminumgarnet(Nd)laser,emit- (Table1). ting light at a wavelength of 1064 nm, then delivers energy In summary, while RFA, MWA, cryoablation, laser ablaviaathinfiberopticcable[21,22]. tion, and IRE share the goal of localized tumor destruction, Applications:Laserablationistypicallyperformedunder each technique has unique advantages and limitations based moderate sedation unless contraindicated. The procedure on the clinical scenario. Understanding these differences employs a 21-gauge Chiba needle or a 5.5-French catheter allows for informed decision-making that is tailored to the to deliver an optical laser fiber equipped with a flexible specific needs of the patient and the characteristics of the diffusertip[23]. tumor,ultimatelyoptimizingtreatmentoutcomes. Benefits and Limitations: The primary benefits of laser ablationincludeitsuseofsmaller,thin-caliberapplicatorsfor bettercontrolandpredictability,andpotentiallylowerproce- 3 Patient Selection Criteria for Lung duralcostscomparedtootherablativemethods[22,23].How- Ablation ever, like RFA, laser ablation can result in tissue charring, whichmayimpairtreatmenteffectiveness.Additionally,laser Patientselectionforlungablationinvolvesacomprehensive ablation is not widely practiced, and there is a lack of com- assessmentoffactorssuchastumorsize,location,histology, prehensive data on its safety and long-term effectiveness. and the patient’s overall health. Patients with early-stage This limited use and evidence contribute to its status as a NSCLC, who are unsuitable for surgery due to medical lessfrequentlyemployedoptioninclinicalpractice. conditions or poor lung function, may be candidates for ablation. Similarly, patients with recurrent or metastatic lung tumors, particularly those with oligometastatic disease, 2.5 Irreversible Electroporation (IRE) maybenefitfromablationasalocaltherapytocontroltumor growth and alleviate symptoms, while preserving overall Mechanism:IREdiffersfromthermalablationtechniquesby lungcapacity. employingelectricalpulseslastingmicrosecondstomillisec- Considerationsinpatientselectionalsoencompasstumor ondstoinduce permanentnanoporesinthecell membranes, accessibility, proximity to critical structures, and concurrent leading to cell death [24, 25]. Unlike thermal methods, IRE medical conditions that may heighten the risk of complicacreatesadistinctzoneofdemarcationthatspecificallytargets tions. Overall, patient selection for lung ablation requires a cellmembraneswhilepreservingsurroundingtissues. thorough evaluation by a multidisciplinary team or tumor Applications: During the procedure, image-guided elec- boardtoensurealignmentwiththepatient’sneedsandtreattrodes are placed either within or around the tumor, deliver- ment goals while optimizing therapeuticoutcomesand mining high-voltage electrical pulses to the targeted area imizingrisks. [26]. The procedure is performed under general anesthesia with complete muscle blockade.The patient’selectrocardiogram should be synchronized to the IRE device, to prevent 4 ClinicalEvidenceontheEfficacyofLung dysrhythmiasduringtheintervention. Ablation for Different Lung Lesions Benefits and Limitations: IRE is particularly beneficial for treating tumors situated near critical structures such as 4.1 Lung Ablation for Oligometastatic blood vessels or nerves, where traditional thermal ablation or Recurrent Tumors methods,includingcryoablation,mightposerisks.Itisapplicableforbothprimaryandmetastaticlungtumors,including Lung ablationisincreasingly recognized asa valuablestratthoseunsuitableforsurgeryorthermalablation.IREhasbeen egy for managing oligometastatic or recurrent lung tumors. noted for preserving blood vessels and major extracellular While the 2024 NCCN guidelines prefers resection over matrix components shortly after treatment, and it is locally ablative procedures (e.g., image-guided thermal",
+        "tokens": 626,
+        "page_range": [
+          "6"
+        ],
+        "provenance": {
+          "page": "6",
+          "paragraph_index": 1
+        }
+      },
+      {
+        "id": "p7_1",
+        "unit_type": "paragraph",
+        "section_id": "auto",
+        "order": 1,
+        "text": "MinimallyInvasiveImage-GuidedAblationforLungCancer 7 Table 1 Comparative analysis of radiofrequency, microwave, cryoablation, laser ablation, and irreversible electroporation techniques in lung treatment Laserlung Irreversible Aspect Radiofrequencyablation Microwaveablation Cryoablation ablation electroporation Mechanism Useselectricalcurrentsat Applies Deliverspressurizedgas Deliversheat Useselectricalpulses 375–500kHztogenerate electromagnetic throughacryoprobe, froma (microsecondsto heatthroughresistive fields creatingextremecold neodymium- milliseconds)tocreate energyloss (900–2500MHz)to viatheJoule–Thomson dopedyttrium permanentnanoporesin agitatewater effect aluminumgarnet cellmembranes. molecules, (Nd)laser generatingheat emitting1064nm light Applications Small-tomedium-sized Suitableforlarger Usefulforlesionsnear Primarilyfor Effectivefortumors tumors(<3cm).Mayuse tumors(3–5cmor criticalstructures. small,accessible nearcriticalstructures coolingorinfusionto more) Variousfreeze–thaw– lunglesions.The enhanceefficacy freezecycle.Probes smallestaccess placednomorethan size 2cmapart Idealtumor <3cm 3–5cm <3cm <2cm Variable;dependson size tumorsizeand complexity Idealtumor Tumorsnotclosetomajor Effectivefordifficult- Anywhere.Okayfor Accessiblesmall Okaywithnearcritical location bloodvesselsorairways to-reachlocations, nearvitalstructureslike peripherallesions structures;lesssuitable duetopotential“heat peripheralratherthan airways,bloodvessels, inthelung fortumorswith sink”effect centralforpotential andbones,where significantnecrosisor harmforcentral thermaldamageisa calcification criticalstructures concern Treatment 2–20minpersession Generallyquick. 25–28minpercycle. Typically, 20–60min,depending time 5–30min,depends Variabledependson 10–20min, ontumorsizeand ontumorsize protocolsbutgenerally shorterthanother complexity longerthanRFAand thermal MWA Benefits Well-establishedwith Cantreatlarger Createslocalizedfreeze Providesprecise Nonthermal;Preserves FDAapproval.Lowrisk tumors.Faster zones(betterseenona controlwiththin- bloodvesselsand ofcomplications.Shorter ablationtime. softtissuewindow)with caliber extracellularmatrix. recoverytime Providesalarger minimalcollateral applicators. Mayenhanceimmune ablationzone.Not damage.Iceball Potentiallylower response limitedbyelectrically visualization.Lowerrisk proceduralcosts conductivepaths ofbronchopleural fistula.Less postproceduralpain Limitations Lesseffectiveforlarger Higherriskof Procedurescanbe Canresultin Noteffectiveforall tumorsorthosenear collateraldamagedue longercomparedtoRFA tissuecharring, tumors,especiallythose criticalstructures. tobroaderheatzone. andMWA whichmay withnecrosisor Effectivenessdiminishes Complicateddataby impair calcification.Long-term withtumorsize.Potential varieddevicedesigns effectiveness. outcomesandprotocols interferencewith Limiteddataon stillunderinvestigation pacemakers long-term outcomes ablation or SBRT), these techniques are still viable options cancer who underwent thermal ablationexperiencedasignififor treating lung oligometastases [2], especially in patients cantreductionintumorburdenandimprovedprogression-free withlimitedmetastaticdiseasewherecurativeintentremains survival compared to those receiving conventional treatments a viable option. The goal of ablation in this context is to [27].Additionally,researchhasshownthatlungablationcanbe effectively target isolated metastatic lesions or recurrent an effective treatment modality for metastatic and recurrent tumors, potentially improving overall disease control and tumors, offering a minimally invasive alternative with favorpatientoutcomes. ableoutcomes and fewercomplicationscomparedto repeated Evidence supporting the use of lung ablation for surgical interventions [28, 29]. The SOLSTICE trial in 2020 oligometastaticdiseaseisgrowing.Astudypublishedin2021 [30]andthe ECLIPSEtrialin2021[31]reportedlocaltumor reviewed those patients with oligometastatic NSCLC lung",
+        "tokens": 386,
+        "page_range": [
+          "7"
+        ],
+        "provenance": {
+          "page": "7",
+          "paragraph_index": 1
+        }
+      },
+      {
+        "id": "p8_1",
+        "unit_type": "paragraph",
+        "section_id": "auto",
+        "order": 1,
+        "text": "8 R.ChoiandR.P.Liddell control rates of 77% at 24 months and 75% at 5 months, advantageous for patients who are medically unfit for more respectively. invasiveprocedures,providingeffectivetumorcontrolwhile For oligometastatic and recurrent tumors, the choice of minimizing the risks associated with extensive surgery ablation technique depends on factors such as tumor size, [29, 32]. Unlike surgery and radiation therapy, ablation location, and accessibility. RFA and MWA are commonly does not lead to a measurable long-term reduction in lung used for treating metastatic lesions due to their ability to functionanddoesnotnecessitatetheinterruptionofsystemic generate substantial heat and achieve effective necrosis. therapy. Ablation is especially advantageous for treating Cryoablation is also utilized, particularly when dealing with ground-glass opacity lesions, where defining thetarget zone tumors close to critical structures or when repeated interven- canbechallenging.Italsoallowsfortissuesamplingduring tionsarerequired.Giventheperi-proceduralriskofpneumo- theprocedure, whichcanprovidecrucialpathologicalinforthoraxorhemorrhage,itisadvisabletotreatonelungatatime mationfortargetedchemotherapyifneeded. when feasible. These techniques have proven effective in Despiteitseffectivenessintumorcontrolandpreservation controlling metastatic or recurrent disease, with studies of lung function, further research and long-term studies are highlighting their role in achieving local disease control and essentialtorefinepatientselectioncriteriaandoptimizetreatpotentially extending survival. However, further research is mentprotocols. needed on patient selection and comparative effectiveness withalternativetherapiessuchasSBRTandsurgicalresection. Patients with oligometastatic lung cancer are ideal candi- 4.3 Lung Ablation for Lesions Previously dates for ablation if all metastatic sites are amenable to Treated with Radiation Therapy treatmentandifcurativeintentisfeasible. Incases ofrecurrent tumors, ablation offers a viable option for patients with Lung ablation is increasingly considered for lesions previlimited pulmonary reserve or those who have previously ouslytreatedwithradiationtherapy,particularlywhenresidundergone surgery or radiation therapy. Outcomes for these ual or recurrent tumors are detected. However, caution is patientsaregenerallyfavorable,withstudiesreportingeffec- warranted, as scar tissue and altered anatomy from prior tive tumor control and improved quality of life. However, radiation can complicate the procedure and increase risks. carefulpatientselectionandmultidisciplinaryevaluationare Radiation therapy, while effective for tumor targeting and crucialtoensureoptimalresultsandminimizerisks. shrinking tumors, can result in tissue changes such as fibrosis, altered tissue density and traction bronchiectasis, which may affect the precision and safety of ablation procedures. PET/CT imaging can help identify active disease, though 4.2 Lung Ablation for Solitary Tumors radiation-induced hypermetabolic changes may persist for or Multifocal Primary Lung Cancer upto6–9monthsaftertreatment. Despitethesechallenges,lungablationtechniquessuchas Lung ablation isaviable treatmentfor patients with solitary RFA, MWA, and cryoablation have demonstrated utility in or multifocal primary lung tumors who are unsuitable for managing such lesions. A 2015 study analyzed 12 patients traditionallungresectionduetovariousunfavorablecharacteristics.Itisparticularlybeneficialforthosewithearly-stage with 17 lesions who underwent ablation as salvage therapy lung cancer who have significant comorbidities or for recurrent nonsmall cell lung cancer after radiotherapy. The study found a 23-month local control rate for tumors compromised pulmonary function, including conditions smallerthan3cmanda14-monthratefortumorslargerthan suchaspulmonaryarterialhypertension,verysevereobstruc3 cm, with minimal morbidity [33]. However, data on lung tion(FEV1lessthan20%predicted),severehypoxemia,and bronchiectasis. Even patients classified as ASA 4 or higher, ablationfollowingradiationtherapyremainslimited. Lungablationservesasavaluableoptionforpatientswith who are at increased risk for surgical interventions, can recurrent or residual tumors following radiation therapy, undergo ablation with minimal sedation or local anesthesia, therebysignificantlyreducingproceduralrisks.Additionally, offeringaminimallyinvasiveapproachthatcancomplement ongoingcancermanagementstrategies.Properfollow-upand patients with a history of poor follow-up and low medical compliance may benefit more from ablation over SBRT, surveillance are essential for monitoring treatment efficacy and early detection of any complications or recurrence. A giventhatablationtypicallyrequiresonlyasingletreatment structured follow-upplan isessential for assessing thelongsession. termoutcomesandensurestimelyinterventionifissuesarise Recent retrospective analyses involving 64 patients have (Table2). demonstrated comparable outcomes between thermal ablation and sublobar resection. Furthermore, local ablation is",
+        "tokens": 685,
+        "page_range": [
+          "8"
+        ],
+        "provenance": {
+          "page": "8",
+          "paragraph_index": 1
+        }
+      },
+      {
+        "id": "p9_1",
+        "unit_type": "paragraph",
+        "section_id": "auto",
+        "order": 1,
+        "text": "MinimallyInvasiveImage-GuidedAblationforLungCancer 9 Table2 Lungablationindication,specialconsideration,andcontraindication Indication Specialconsideration Contraindication Early-StagePatients:Lungablationisa PoorHealthStatus:Patientswithpoor InaccessibleTumors:Tumorsinhard-tovaluableoptionforearly-stagepatientswho overallhealthorfunctionalstatusmayface reachorpoorlyvisibleareasmaypose cannotundergosurgeryduetomedical higherrisksandcomplicationsfromlung challengesforsafeandeffectiveablation comorbiditiesorimpairedlungfunction,often ablation UncontrolledBleedingDisorders:Patients preservingpulmonaryfunctionwithfavorable TumorProximitytoCriticalStructures: withbleedingdisordersareathigherriskfor outcomes Tumorsnearmajorbloodvessels,airways,or hemorrhageduringorafterablation OligometastaticTumors:Foroligometastatic theheartmaybetooriskyforablation,though ActiveInfectionorSepsis:Activesystemic lungtumors,wherecancerisconfinedtoafew cryoablationisgenerallysafernearsuch infectionsorsepsisarecontraindicationsfor sites,lungablationoffersalocalizedtreatment structures lungablationduetotheriskofworsening thatcaneffectivelycontroltumorgrowthand SeverePulmonaryHypertension:Patients infectionorcausingsystemiccomplications achievelong-termdiseasecontrolifalllesions withseverepulmonaryhypertensionmay aretreatable strugglewiththechangesinbloodflowand RecurrentTumors:Lungablationprovides pressurecausedbyablation,increasing analternativeformanagingrecurrentlung cardiovascularrisks tumors,especiallyinpatientswithlimited Pre-existingLungConditions:Patientswith pulmonaryreservefromprevioustreatments, severeCOPD,pulmonaryfibrosis,or helpingaddressdiseaserecurrenceeffectively emphysemamayfaceworsenedrespiratory CombinationTherapy:Lungablationcanbe symptomsorfurtherlungimpairment, usedalongsideothertreatmentsfor requiringcarefulriskassessment intermediate-stagelungcancer,suchas surgeryorradiation,enhancingoveralldisease management Oligoprogression:Inadvancedlungcancer witholigoprogression,wheredisease progressesinafewsiteswhileotherareas remainstable,lungablationcantargetthese sitestopotentiallyprolongsurvival PalliativeCare:Forsymptommanagementin patientswithdiscomfortfromlungtumors, lungablationcanalleviatepainand respiratorydistress,improvingqualityoflife 4.4 Sedation and Patient Positioning 5 Complications of Lung Ablation Inlung ablation procedures, moderate sedationisfrequently used to balance patient comfort with procedural effective- Despite its minimally invasive nature, lungablation is associness.Thislevelofsedation ensuressufficientrelaxationand atedwithseveralrisks.Incompleteablationmayresultintumor pain management, while maintaining the patient’s ability to recurrence, necessitating careful monitoring and potential cooperate throughout the procedure, especially RFA and re-treatment. Biopsy is often performed concurrently with MWA can be quite painful. The exception is IRE, which lung ablation, but care must be taken to avoid peri-lesional again requires general anesthesia with complete muscle hemorrhage, which can obscure the targetand complicate the blockade and electrocardiogram synchronization. Patient procedure.Pneumothoraxisacommoncomplication;however, positioning is crucial for optimal imaging visibility and symptomatic or large pneumothorax can be effectively manaccesstothelesion.Typically,patientsareplacedineithera aged with prompt drainage. Since postprocedural chest tube lateral decubitus or supine position, depending on the loca- placementisstandardinlungresections,pneumothoraxshould tion of the tumor. Proper positioning enhances procedural be anticipated as part of the procedural course rather than an precision and minimizes both stress and discomfort for the unexpected event. Intentional pneumothorax may be created patient. When positioning a patient in the lateral decubitus whenablationisperformednearcriticalstructurestoelevatethe position,thegeneralpracticeistopositionthenonintervened lesion and ablation zone away from these structures. Hemoplungsuperiorly.Thisapproachhelpsprotectthehealthylung tysis,thoughpossible,istypicallymanagedthroughsupportive intheeventofcomplicationssuchashemorrhage.However, care and stabilization. Diaphragm injury, another potential positioningshouldbetailoredtothespecificcharacteristicsof complication, can be mitigated with precise techniques and thetargetlesiontoensurethebestpossibleoutcome. accurateimaging.Bronchopulmonaryfistulaformation,particularly associated with RFA and MWA, is rare but requires",
+        "tokens": 371,
+        "page_range": [
+          "9"
+        ],
+        "provenance": {
+          "page": "9",
+          "paragraph_index": 1
+        }
+      },
+      {
+        "id": "p10_1",
+        "unit_type": "paragraph",
+        "section_id": "auto",
+        "order": 1,
+        "text": "10 R.ChoiandR.P.Liddell diligent monitoring and may necessitate additional interven- 8.Schramm W, Yang D, Haemmerich D. Contribution of direct tions.Systemicairembolism,althoughextremelyrare,hasthe heating, thermal conduction and perfusion during radiofrequency and microwave ablation. Conf Proc IEEE Eng Med Biol Soc potentialtocauseend-organischemia,suchasstrokeormyoPubMed[Internet].2006[cited2024Aug4].https://pubmed.ncbi. cardialinfarction.Earlydetectionandappropriatemanagement nlm.nih.gov/17946669/ generally preventsevere outcomes. Pulmonary arterypseudo- 9.Skonieczki BD, Wells C, Wasser EJ, Dupuy DE. Radiofrequency aneurysm,thoughinfrequent,representsaseriouscomplication and microwave tumor ablation in patients with implanted cardiac devices:isitsafe?EurJRadiol.2011;79(3):343–6. thatrequiresimmediateintervention.Injurytoadjacentcritical 10.Lubner MG, Brace CL, Hinshaw JL, Lee FT. Microwave tumor structures, such as major blood vessels or the heart, is also a ablation:mechanismofaction,clinicalresults,anddevices.JVasc risk.EmployingtechniqueslikecryoablationorIREandutiliz- IntervRadiol.2010;21(8):S192–203. ingvigilantimagingcanhelpmitigatetheserisks.Additionally, 11.Dupuy DE. Image-guided thermal ablation of lung malignancies. Radiology.2011;260(3):633–55. meticulous technique and protective measures are essential to 12.Abtin F, Suh RD, Nasehi L, Han SX, Hsu W, Quirk M, et al. preventskininjuryduringtheprocedure. Percutaneouscryoablationforthetreatmentofrecurrentthymoma: preliminarysafetyandefficacy.JVascIntervRadiol[Internet].2015 [cited2024Aug4];26(5):709–14.https://pubmed.ncbi.nlm.nih.gov/ 25921453/ 6 Conclusion 13.MazurP.Freezingoflivingcells:mechanismsandimplications.Am JPhysCellPhys.1984;247(3):C125–42. 14.Weber SM, Lee FT, Chinn DO, Warner T, Chosy SG, Mahvi Insummary,percutaneousimage-guidedlungablationoffers DM. Perivascular and intralesional tissue necrosis after hepatic a promising treatment option for managing various types of cryoablation: results in a porcine model. Surgery [Internet]. 1997 lungtumors,includingsolitary,oligometastatic,andrecurrent [cited2024Aug4];122(4):742–7.https://pubmed.ncbi.nlm.nih.gov/ lesions. With techniques such as RFA, MWA, cryoablation, 9347851/ 15.Elliott BA, Curry TB, Atwell TD, Brown MJ, Rose SH. Lung and IRE, clinicians can tailor interventions to individual isolation,one-lungventilation,andcontinuouspositiveairwayprespatientneedsandtumorcharacteristics,improvingoutcomes sure with air for radiofrequency ablation of neoplastic pulmonary andminimizingrisks.Whilechallengessuchaspatientselec- lesions.AnesthAnalg[Internet].2006[cited2024Aug4];103(2): tion,proceduralcomplications,andposttreatmentmonitoring 463–4.https://pubmed.ncbi.nlm.nih.gov/16861435/ 16.Pan PJ, Bansal AK, Genshaft SJ, Kim GH, Suh RD, Abtin remain,ongoingadvancements intechnology andtechnique F. Comparison of double-freeze versus modified triple-freeze pulcontinuetoenhancetheefficacyandsafetyoflungablation. monarycryoablationandhemorrhagevolumeusingdifferentprobe Future research and clinical developments are expected to sizesinaninvivoporcinelung.JVascIntervRadiol[Internet].2018 further refine these approaches, optimizing patient care and [cited 2024 Aug 4];29(5):722–8. https://pubmed.ncbi.nlm.nih.gov/ expandingthepotentialbenefitsofthistherapeuticmodality. 29506902/ 17.Louis Hinshaw J, Littrup PJ, Durick N, Leung W, Lee FT, Sampson L, et al. Optimizing the protocol for pulmonary cryoablation: a comparison of a dual- and triple-freeze protocol. References CardiovascInterventRadiol[Internet].2010[cited2024Aug4];33 (6):1180–5.https://pubmed.ncbi.nlm.nih.gov/20437048/ 18.Kodama H, Yamakado K, Murashima S, Takaki H, Uraki J, 1.ScottWJ,HowingtonJ,FeigenbergS,MovsasB,PistersK,AmerNakatsuka A, et al. Intractable bronchopleural fistula caused by icanCollegeofChestPhysicians.Treatmentofnon-smallcelllung radiofrequency ablation: endoscopic bronchial occlusion with silicancerstageIandstageII:ACCPevidence-basedclinicalpractice guidelines (2nd edition). Chest. 2007;132(3 Suppl):234S–42S. coneembolicmaterial.BrJRadiol[Internet].2009[cited2024Aug 4];82(983):e225–7.https://pubmed.ncbi.nlm.nih.gov/19890115/ https://pubmed.ncbi.nlm.nih.gov/17873171/ 19.Ye X, Zheng A, Yang X, Huang G, Wei Z, Wang J, et al. 2.NationalComprehensiveCancerNetwork.Non-smallcelllungcanBronchopleuralfistulaafterlungablation:experienceintwocases cer (version 8.2020). 2020. https://www.nccn.org/professionals/ andliterature review.Indian JCancer [Internet].2015[cited 2024 physician_gls/pdf/nscl.pdf.Dateaccessed4Aug2024. Aug4];52(6):41.https://pubmed.ncbi.nlm.nih.gov/26728673/ 3.Genshaft SJ, Suh RD, Abtin F, Baerlocher MO, Chang AJ, 20.Allaf ME, Varkarakis IM, Bhayani SB, Inagaki T, Kavoussi LR, Dariushnia SR, et al. Society of Interventional Radiology multiSolomonSB.Paincontrolrequirementsforpercutaneousablationof disciplinary position statement on percutaneous ablation of renal tumors: cryoablation versus radiofrequency ablation—initial non-small cell lung cancer and metastatic disease to the lungs. J observations.Radiology.2005;237(1):366–70. VascIntervRadiol[Internet].2021[cited2024Aug4];32(8):1241. e1–12.https://pubmed.ncbi.nlm.nih.gov/34332724/ 21.Andreano A, Huang Y, Franca Meloni M, Lee FT, Brace C. Microwaves create larger ablations than radiofrequency when 4.Hong K, Georgiades C. Radiofrequency ablation: mechanism of actionanddevices.JVascIntervRadiol.2010;21(8):S179–86. controlled for power in ex vivo tissue. Med Phys. 2010;37(6 Part 1):2967–73. 5.Alzubaidi SJ, Liou H, Saini G, Segaran N, Scott Kriegshauser J, 22.SawabataN,NezuK,TojoT,KitamuraS.Invitrostudyofablated Naidu SG, et al. Percutaneous image-guided ablation of lung lungtissueinNd:YAGlaserirradiation.AnnThoracSurg[Internet]. tumors. J Clin Med [Internet]. 2021;10(24):5783. https://www. 1996[cited2024Aug4];61(1):164–9.https://pubmed.ncbi.nlm.nih. ncbi.nlm.nih.gov/pmc/articles/PMC8707332/ gov/8561545/ 6.Organ LW. Electrophysiologic principles of radiofrequency lesion making.StereotactFunctNeurosurg.1976;39(2):69–76. 23.Rosenberg C, Puls R, Hegenscheid K, Kuehn J, Bollman T, Westerholt A, et al. Laser ablation of metastatic lesions of 7.Ye X, Fan W, Wang H, Wang J, Wang Z, Gu S, et al. Expert the lung: long-term outcome. AJR Am J Roentgenol [Internet]. consensusworkshopreport:guidelinesforthermalablationofpri2009;192(3):785–92.https://pubmed.ncbi.nlm.nih.gov/19234278/ maryandmetastaticlungtumors(2018edition).JCancerResTher. 2018;14(4):730–44.",
+        "tokens": 698,
+        "page_range": [
+          "10"
+        ],
+        "provenance": {
+          "page": "10",
+          "paragraph_index": 1
+        }
+      },
+      {
+        "id": "p11_1",
+        "unit_type": "paragraph",
+        "section_id": "auto",
+        "order": 1,
+        "text": "MinimallyInvasiveImage-GuidedAblationforLungCancer 11 24.Thomson KR, Cheung W, Ellis SJ, Federman D, Kavnoudias H, 29.ZemlyakA,MooreWH,BilfingerTV.Comparisonofsurvivalafter Loader-Oliver D, et al. Investigation of the safety of irreversible sublobarresectionsandablativetherapiesforstageInon–smallcell electroporationinhumans.JVascIntervRadiol.2011;22(5):611–21. lungcancer.JAmCollSurg.2010;211(1):68–72. 25.RubinskyB,OnikG,MikusP.Irreversibleelectroporation: anew 30.CallstromMR,WoodrumDA,NicholsFC,PalussièreJ,BuyX,Suh ablationmodality–clinicalimplications.TechnolCancerResTreat. RD,etal.Multicenterstudyofmetastaticlungtumorstargetedby 2007;6(1):37–48. interventional cryoablation evaluation (SOLSTICE). J Thorac 26.Fintelmann FJ, Graur A, Oueidat K, Simon J, Barnes JMH, Oncol.2020;15(7):1200–9. McDermottS,etal.AblationofstageI–IInon-smallcelllungcancer 31.De Baère T, Woodrum DA, Tselikas L, Abtin F, Littrup PJ, inpatientswithinterstitiallungdisease:amulticenterretrospective Deschamps F,etal. The ECLIPSEstudy:efficacy of cryoablation study. AJR Am J Roentgenol [Internet]. 2024 [cited 2024 Mar onmetastaticlungtumorswitha5-yearfollow-up.JThoracOncol. 22];222(2):e2330300.https://pubmed.ncbi.nlm.nih.gov/37966037/ 2021;16(11):1840–9. 27.Ghosn M, Solomon SB. Current management of oligometastatic 32.Pennathur A, Luketich JD, Abbas G, Chen M, Fernando HC, lung cancer and future perspectives: results of thermal ablation as Gooding WE, et al. Radiofrequency ablation for the treatment of alocalablativetherapy.Cancers.2021;13(20):5202. stage I non–small cell lung cancer in high-risk patients. J Thorac 28.de Baère T, Aupérin A, Deschamps F, Chevallier P, Gaubert Y, CardiovascSurg.2007;134(4):857–64. BoigeV,etal.Radiofrequencyablationisavalidtreatmentoption 33.Cheng MP, Fay MF, Steinke K. Percutaneous CT-guided thermal forlungmetastases:experiencein566patientswith1037metasta- ablationassalvagetherapyforrecurrentnon-smallcelllungcancer ses.AnnOncol[Internet].2015;26(5):987–91.https://pubmed.ncbi. afterexternalbeamradiotherapy:aretrospectivestudy.IntJHypernlm.nih.gov/25688058/ thermia.2016;32(3):316–23.",
+        "tokens": 205,
+        "page_range": [
+          "11"
+        ],
+        "provenance": {
+          "page": "11",
+          "paragraph_index": 1
+        }
+      }
+    ],
+    "figures": [
+      {
+        "id": "fig_3_1",
+        "number": "1",
+        "page": "3",
+        "provenance": {
+          "page": "3",
+          "label": "Fig 1"
+        }
+      },
+      {
+        "id": "fig_4_2",
+        "number": "2",
+        "page": "4",
+        "provenance": {
+          "page": "4",
+          "label": "Fig 2"
+        }
+      },
+      {
+        "id": "fig_5_3",
+        "number": "3",
+        "page": "5",
+        "provenance": {
+          "page": "5",
+          "label": "Fig 3"
+        }
+      }
+    ],
+    "tables": [],
+    "boxes": [],
+    "equations": [],
+    "cases": [],
+    "references": []
+  },
+  "retrieval": {
+    "keywords": [],
+    "summary_tldr": "Auto-built chapter JSON for Minimally Invasive Image-Guided Ablation.",
+    "nuggets": [],
+    "chunks": []
+  },
+  "versioning": {
+    "extraction_tool": "build_chapter.py",
+    "model": "none",
+    "timestamp": "2025-08-08T16:01:13.414989Z",
+    "revision": "r1"
+  }
+}

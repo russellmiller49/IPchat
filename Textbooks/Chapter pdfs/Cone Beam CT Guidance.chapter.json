@@ -1,0 +1,362 @@
+{
+  "schema_version": "1.0.0",
+  "source": {
+    "document_id": "Cone Beam CT Guidance",
+    "book_title": "Principles and Practice of Interventional Pulmonology",
+    "publisher": "Springer Nature Switzerland AG",
+    "isbn13": "978-3-031-49583-0",
+    "chapter_number": "10",
+    "source_url": "https://doi.org/10.1007/978-3-031-49583-0_10",
+    "file_sha256": "1f7ec393c771f5177161ae0e39e1d28d6f6b76423e60af6bfe2633e957b4a166",
+    "license": "All rights reserved",
+    "rights_holder": "Springer Nature Switzerland AG",
+    "access": "institutional"
+  },
+  "document": {
+    "chapter_title": "Cone Beam CT Guidance",
+    "authors": [
+      "Author Name"
+    ]
+  },
+  "structure": {
+    "toc_path": [],
+    "section_tree": [
+      {
+        "id": "sec1",
+        "title": "Introduction............................................................................................. 2",
+        "level": 1,
+        "page_start": "?",
+        "page_end": "?",
+        "children": []
+      },
+      {
+        "id": "sec2",
+        "title": "ClinicalImportance..................................................................................... 2",
+        "level": 1,
+        "page_start": "?",
+        "page_end": "?",
+        "children": []
+      },
+      {
+        "id": "sec3",
+        "title": "ConeBeamCT-GuidedNavigationBronchoscopy................................................... 2",
+        "level": 1,
+        "page_start": "?",
+        "page_end": "?",
+        "children": [
+          {
+            "id": "sec3_1",
+            "title": "ConeBeamComputedTomographyExplained......................................................... 2",
+            "level": 2,
+            "page_start": "?",
+            "page_end": "?",
+            "children": []
+          },
+          {
+            "id": "sec3_2",
+            "title": "ConeBeamComputedTomographySystems........................................................... 3",
+            "level": 2,
+            "page_start": "?",
+            "page_end": "?",
+            "children": []
+          },
+          {
+            "id": "sec3_3",
+            "title": "ProceduralWorkflow..................................................................................... 6",
+            "level": 2,
+            "page_start": "?",
+            "page_end": "?",
+            "children": []
+          },
+          {
+            "id": "sec3_4",
+            "title": "DiagnosticPerformance.................................................................................. 6",
+            "level": 2,
+            "page_start": "?",
+            "page_end": "?",
+            "children": []
+          },
+          {
+            "id": "sec3_5",
+            "title": "ImageQualityandAnesthesia........................................................................... 6",
+            "level": 2,
+            "page_start": "?",
+            "page_end": "?",
+            "children": []
+          },
+          {
+            "id": "sec3_6",
+            "title": "Cost-Effectiveness........................................................................................ 9",
+            "level": 2,
+            "page_start": "?",
+            "page_end": "?",
+            "children": []
+          },
+          {
+            "id": "sec3_7",
+            "title": "TherapeuticApplications................................................................................. 10",
+            "level": 2,
+            "page_start": "?",
+            "page_end": "?",
+            "children": []
+          },
+          {
+            "id": "sec3_8",
+            "title": "RadiationSafetyandAwareness......................................................................... 10",
+            "level": 2,
+            "page_start": "?",
+            "page_end": "?",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "sec4",
+        "title": "ConclusionandFutureDevelopments................................................................ 10",
+        "level": 1,
+        "page_start": "?",
+        "page_end": "?",
+        "children": []
+      }
+    ]
+  },
+  "content": {
+    "text_units": [
+      {
+        "id": "p1_1",
+        "unit_type": "paragraph",
+        "section_id": "auto",
+        "order": 1,
+        "text": "Cone Beam CT Guidance Erik H. F. M. van der Heijden and Roel L. J. Verhoeven Contents 1 Introduction............................................................................................. 2 2 ClinicalImportance..................................................................................... 2 3 ConeBeamCT-GuidedNavigationBronchoscopy................................................... 2 3.1 ConeBeamComputedTomographyExplained......................................................... 2 3.2 ConeBeamComputedTomographySystems........................................................... 3 3.3 ProceduralWorkflow..................................................................................... 6 3.4 DiagnosticPerformance.................................................................................. 6 3.5 ImageQualityandAnesthesia........................................................................... 6 3.6 Cost-Effectiveness........................................................................................ 9 3.7 TherapeuticApplications................................................................................. 10 3.8 RadiationSafetyandAwareness......................................................................... 10 4 ConclusionandFutureDevelopments................................................................ 10 References...................................................................................................... 11 Abstract Mobile CBCTsystems do currently not offer augmented fluoroscopy,buttheycanbeintegratedinto,forexample, Cone beam CT (CBCT) technology in interventional robotic-assisted bronchoscopy and can thus compensate pulmonology is primarily used for advanced, for CT-to-body divergence of the (robotic) navigation 3-dimensional image guidance. It offers the possibility guidance technology. This combination of robotic bronforprecise,near-real-timeguidancefornavigation,biopsy choscopy with CBCT translates into an increased diagand treatment of small, peripheral pulmonary nodules. nostic yield ranging from 75% to 93% in the currently Fixed CBCTsystems are available as ceiling mounted or roboticfloor-mountedsystemsandareintegratedwiththe availableliterature.CBCTimagingisanessentialprerequisite for all forms of local treatments. CBCT navigation patient table. This combination offers the possibility for augmented fluoroscopy: an overlay of segmented target bronchoscopy has a low radiation exposure both for patient and staff and is a cost-effective strategy for diagnodulesandmarkedbronchialsubsegmentswhichcanbe projected on the live fluoroscopy imaging translating 3D nosesofperipheralpulmonarynodules. information on 2D fluoroscopy. By using different angulationsoffluoroscopy,thisallowsusingCBCTasasingle Keywords tool for navigation bronchoscopy. This workflow has a ConebeamCT·Navigationbronchoscopy·Pulmonary highdiagnosticyieldof78.2%(95%CI71.5–83.7,inter- nodules·Augmentedfluoroscopy·Imageguided·Lung mediate definition) as published in a meta-analysis. cancer·Radiationsafety ✉ E.H.F.M.vanderHeijden( )·R.L.J.Verhoeven DepartmentofPulmonaryDiseases,RadboudUniversityMedical Center,Nijmegen,TheNetherlands e-mail:Erik.vanderHeijden@radboudumc.nl; Roel.L.J.Verhoeven@radboudumc.nl ©SpringerNatureSwitzerlandAG2025 1 L.Yarmusetal.(eds.),PrinciplesandPracticeofInterventionalPulmonology, https://doi.org/10.1007/978-3-031-49583-0_21-1",
+        "tokens": 295,
+        "page_range": [
+          "1"
+        ],
+        "provenance": {
+          "page": "1",
+          "paragraph_index": 1
+        }
+      },
+      {
+        "id": "p2_1",
+        "unit_type": "paragraph",
+        "section_id": "auto",
+        "order": 1,
+        "text": "2 E.H.F.M.vanderHeijdenandR.L.J.Verhoeven 1 Introduction guidelines summarized in 2015 that incidental peripheral pulmonary nodules (PPLs) were found in approximately Thecontinuousdevelopmentofinstrumentsandtechnologies 30%ofall chest-CTsinEurope, 23%inNorthAmericaand with an aim to perform medical procedures less invasively 36% Asia, ultimately leading to a lung cancer diagnosis in andinanearlierstageofdiseasehasledtonewopportunities 0.2–4.0%ofcases[2].AsHendrixetal.recentlyreported,the indiagnosisandtreatmentofpulmonarydiseases.Inthepast increaseduseandresolutionofCTwillleadtoanevenfurther decade, the field of interventional pulmonology has been increase in incidental findings and early-stage lung transformedbythesignificantincreaseintheuseofadvanced cancers[3]. imagingmodalitiesandtechnologicalguidanceforbothdiag- Navigatingbeyondthecentralairwaystoaccess,localize nosticandtherapeuticprocedures.Whereastheinterventional diagnoseand/orperforminterventionsintheperipheryofthe pulmonologist is accustomed to using endoscopic video- lung requires an understanding of the required pathway and imaging while navigating central airways ever since the 3D relationship of the target area relative to biopsy instruinventionofthebronchoscope, theaimofgoing beyondthe ments ortreatmentdevicesandthesurroundingtissuestruccentral airways to access peripheral abnormalities for diag- tures. Especially small peripheral lesions which are nosticsandtoallowlocaltreatmenthasledtotheadoptionof positionedattheendorevenbeyondexistingbronchirequire additional adjunct imaging and guidance technologies. His- detailedandprecise3Dinformationforprecisepositioning. torically, the adjunct imaging technology of choice was 2D Multiple new advanced technologies as also described in X-ray fluoroscopy. By advancing instruments through the other chapters aim at providing intraprocedural guidance in working channel and beyond the reach of the conventional targetingtheseperipheralpulmonarylesions,suchaselectrobronchoscopic view under guidance of 2D X-ray fluoros- magnetic tracking, virtual endoscopic guidance and novel copy,diagnosticbiopsiesofsuspiciousperipheralpulmonary shape sensing technologies. All based on procedural CT lesions or segments with interstitial pathology were facili- scanshavebeenintroducedandtranslateintoalargeincrease tated.Asvan‘tWesteindeetal.howeverfound,theaccuracy indiagnosticperformance. of taking biopsies of peripheral pulmonary lesions by In this chapter, we will describe the principles of cone extending tools beyond conventional therapeutic broncho- beam CT (CBCT) guidance and provide more detail on its scopesunder2DX-rayguidancewaslimitedinanunselected practicaluse,itsperformanceasastand-alonedeviceaswell cohortoflesionsthatwerelessthan20mm,withareported as in combination with other technologies in the field of sensitivityof14%andnegativepredictivevalueof47%[1]. interventionalpulmonology. This logically follows the coarse resolution of 2D X-ray imaging information in a 3D environment that is dynamic andconsistsoutofamazeofbronchi.Whereaspreselection 3 Cone Beam CT-Guided Navigation of patients along with local expertise might challenge the Bronchoscopy outcome of van ‘t Westeinde et al. for the better, it can certainly be concluded that the use of 2D fluoroscopy in 3.1 Cone Beam Computed Tomography conjunction with an endobronchial approach does not give Explained universal and unambiguous accurate guidance and outcome inperipheralpulmonarylesiondiagnostics. Computedtomographyisawell-knownpieceofX-raybased imaging equipment to all pulmonologists, relying on scan results of these systems for treatment of their patients on a 2 Clinical Importance daily basis. Computed tomography (CT) scanners as generallyusedfordiagnosticimagingineveryhospital,relyonthe Especially,theoverallsurvivalofadvancedstagelungcancer generationofawidefanofX-raysfromamovingpointX-ray remainsabysmaldespitedevelopmentsintherapy.Thedevel- source. This X-ray fan-beam penetrates the patient in diveropment of technology specifically for interventional gentfashion.TheseX-raysaresubsequentlycollected atthe pulmonology follows the increasing need for accurate and oppositeendofthegeneratingsourcebyanarrayofdetectors safediagnostictoolsforsmall(<2cm)peripheralpulmonary thatmovealongthesamecirculartrajectoryasthex-raypoint nodules, to diagnose lung cancer as early as possible and source.Bycollectinginformationaboutthereceivedintensity offerthehighestchancesforcurativetreatment.Theseneeds of X-rays at every angle of a (helical) rotation around the followtheabilityandobservationthatsuspectedlesionscan image volume (patient) in mere seconds, a subsequently be identified early through either CT-screening of a popula- activated mathematical model canreconstructan imagevoltion (at risk) as is being implemented in multiple countries, ume.Asthehelicaltrajectoryofthesourceanddetectorsdoes or, through detection, characterization or follow-up of inci- notcoincidewiththeaxial,coronalandsagittalslicesusedby dental findings on chest CT. The British Thoracic Society theobserver,thisisdonebycomplexinterpolationofhelical",
+        "tokens": 607,
+        "page_range": [
+          "2"
+        ],
+        "provenance": {
+          "page": "2",
+          "paragraph_index": 1
+        }
+      },
+      {
+        "id": "p3_1",
+        "unit_type": "paragraph",
+        "section_id": "auto",
+        "order": 1,
+        "text": "ConeBeamCTGuidance 3 datapointsintoanewvolumethatiscylindricalofnatureand CBCTsystems routinely installed in most hospitals. As the has voxels of equal size throughout. By creating a grid that C-armthatallowsfluoroscopyhasevolvedtoalsoallowthe containsequalvoxel sizes throughout the imaged volume, a reconstructionof3Dvolumes,severaldepartmentshaveseen mathematical model can approximate which absorbance of theinstallationofsuchasystemaspartoftheirreplacement rays was caused at certain points in the volume. Because program for older technology or as a purchase for allowing equal voxel sizes can be accurately calculated with the new types of interventions. Immediately the specialty interamount of imaging information obtained from these fast- ventionalradiologycomestomind,butseveralotherdepartrotating helical trajectories, theHounsfield unit asmeasured ments might also house such systems: interventional in these voxels is a standardized measure for tissue cardiology, interventional neurology, gastroenterology and absorbance. in the “hybrid operating rooms” you’ll find that surgical Conebeamcomputedtomography(CBCT)isatechnique subspecialties such as those specialized in orthopedic and whereinanX-raypointsourceisusedtocreateaconebeam oncologic surgery will have also placed such imaging of X-rays. The cone beam of X-rays diverge as the distance systems. fromthesourcebecomesgreaterandissubsequentlydetected Not every CBCTsystem supports the needs of Intervenat the opposite end of the source by a square flat detector tional Pulmonology. Dental CBCTsystems are an example, panel. A cone beam CTis made by rotating the source and whichsimplydonothavesufficientfieldofvieworroomto detectorcoherently(generallybyaC-arm)aroundthepatient harborthepatient’sthorax.Ontheotherhand,notallC-arms in a single rotation. Depending on the system used, the that are installed in the endoscopy suite are capable of 3D degrees of rotation (“spin”) needed to allow reconstruction imaging. To make a CBCT system out of a C-arm setup, ofa3Dvolumemayvary.Generally,arotationalacquisition you’llneedtherightsoftware(imagingprotocols,reconstrucof between 90 and 360 degrees is used to allow a 3D con- tion algorithms, etc.) as well as the right hardware (suffistruction (but is dependent on vendor specifics). Use of a ciently large detector, motorized C-arm, etc.). Fixed conebeamalongasinglerotationallowsthecollectionofless imaging systems capable of cone beam CT imaging are informationthanwithconventionalCT.Whilethetranslation generally sold by commercial vendors in the higher and ofinformation intoacylindrical volumeisstillpossible,the morecostlysegmentoftheirequipmentspectrum. qualityanduniformityofthesubsequentvoxelandintensity The placement of a CBCT capable imaging system not determination is of lesser quality than that as generally only requires specific vendor equipment, it also requires the known for diagnostic CT scanners. In general, Hounsfield room to be outfitted with specific building materials. CBCT units cannot be accurately reconstructed using CBCTscans systemsthatareavailableareeitherceiling-orfloormounted because there is simply not sufficient information to allow (seeFig.2panelG).Becauseofitsweightaswellasrequired accurate modeling alike in conventional CT. Depending on communication and powerlines along with needed safety the system used, thetime needed to make a CBCTscan can measures, the preference of mounting should already be also differ significantly (fixed systems: 3–12 s, currently knownduringconstructionwork. availablemobilesystemsupto48s)whichispredominantly Specific materials are also used for construction work in caused by the needed X-ray imaging power at every angle. order to shield the outside of the room from emanating too With the currently needed time to make these scans, signifi- much radiation. The amount of shielding is based upon the cantlymoremovementartifactsarefoundinCBCTimagesas expected use and therewith generated dose of the system comparedtodiagnosticCT.Nevertheless,resolutionsthatare (which is not unique to CBCTsystems as also other rooms currentlyobtainedareinthemillimeterrange. frequentlyincorporatingX-rayimagingequipmentwillhave been modified as such). Generally, these rooms are outfitted with special lead containing gypsum, lead-lined glass and a 3.2 Cone Beam Computed Tomography strictbuildingmethodwhereinthereisnotasingleholeinthe Systems outers of the room that could allow X-rays to pass through with more than a fraction of its original intensity. As a ConebeamCTimagingisatechniqueratherthanasystemby consequence of these shielding measures, the natural enviitself. In the current interventional pulmonology landscape, ronmental radiation is typically significantly lower in these severalembodimentsoftechnologythatusetheCBCTprin- rooms. ciplecanbefound. DetectorsizesofCBCTsystemsvary.A12-inchdiagonal size does allow 3D reconstruction, but only with a limited 3.2.1 FixedCBCTSystems fieldofviewwherenotthecompletethoraxcanbeimagedin Where interventional pulmonology has started using CBCT asinglescanningprotocol.Alargerdetectorsizeispreferred systemstohelpaidinnavigationbronchoscopyanddelivery (i.e., in the range of 20 inch diagonally) as it can image at of image-guided treatments in the past years, you can find",
+        "tokens": 770,
+        "page_range": [
+          "3"
+        ],
+        "provenance": {
+          "page": "3",
+          "paragraph_index": 1
+        }
+      },
+      {
+        "id": "p4_1",
+        "unit_type": "paragraph",
+        "section_id": "auto",
+        "order": 1,
+        "text": "4 E.H.F.M.vanderHeijdenandR.L.J.Verhoeven leastthemajorityofthoraxinthevastmajorityofpatientsina WhereasCT-to-body-divergenceisafrequentlyusedterm singlescan. in interventional pulmonology to describe that a preFortheCBCTsystemtoaccuratelyreconstructaninitial3D procedural CTas used for planning a navigation bronchosvolume,itrequiresknowledgeofitsownpositionin3Dspace copy does not coincide with intraprocedural imaging, during the trajectory of the C-arm. The system must be cali- intraprocedural CBCT to body divergence is yet another brated with the patient table so that it not only creates a 3D factor that should be taken into account when using CBCT volume specific to the current C-arm and table position but imaging as guidance. CBCT AF imaging is based on the allows full movement of all components after 3D scanning acquired 3D volume and not fully real-time; the marked whilekeepingtheinformationonwheretheimagevolumeis toolsandsegmentedtargetlesionsdonotmovewithbreathmovedto.ThisisanimportantaspectoftheCBCTsystemsto ing, whereas the live fluoroscopy image does show movehelp guide interventional pulmonology procedures. To retain ment of both lungs and these tools. The cause of the the accuracy of the imaged volume, it is however imperative intraprocedurally observed divergence/movement can be that the patient remains still on the table as this movement multifactorial: factorcannotbeaccountedforbythesystemitself. Currently available CBCTsystems do not allow continu- (cid:129) First, CBCT scanning is performed under breath hold, ous and real-time 3D imaging updates. Rather, 3D scanning while consecutive intraprocedural 2D fluoroscopy is is performed intermittently. To reduce movement artifacts, most often performed under mechanical ventilation. This the scanning should preferably also be performed under causes a potentially significant mismatch between lesion breath-hold. After having obtained a first or additional and instrument positioning. The upper lobes are herein CBCTscan, the proceduralist can see the reconstructed 3D lessaffectedthanthelowerlobes.Anoftenused(approxvolumeontheworkstationinoradjacenttotheinterventional imate)copingmethodistoalsoensurethattheinstrument room. Based on the interpretation of the volume, one can (tip)ishighlightedandoverlayedontheaugmentedfluodetermine at what angle and position the C-arm should be roscopy, along with the segmented target lesion. Once positionedtobesthelpvisualizeandguidethemanipulation back into the room, the marked area and lesion can be oftoolsinsidetheimagingfieldthroughreal-time2Dfluoro- mentallycorrelatedwiththeobtainedinstrumentpositionscopicguidance. ingunderlive2Dfluoroscopy(whereventilationhasbeen restarted).Ifthere’samismatchbecauseofCBCTtobody 3.2.2 AugmentedFluoroscopy divergence, the interventionalist can translate the relative Augmented fluoroscopy (AF) is the possibility to visually positionoflesionandinstrumenttothenewinformation. relaytheobtained3DinformationfromtheCBCTscanback (cid:129) Second, due to instrument manipulation or insertion of onto live 2D fluoroscopy is currently limited to fixed cone instruments (like passive extended working channels, beamsystemsonly.Thisisnotavailableasanintegraloption biopsytoolswithdifferentrelativestiffnessesormanipuon every CBCT system, but often part of an additionally lationofroboticbronchoscopysystems)forcesareapplied purchased software package. Peripheral pulmonary lesions tothelungsthatmayhavenotbeenthereduringscanning, or other targets can be highlighted for AF overlay by seg- that may cause a change in positioning in the order of mentation on the CBCT-3D volume on the user interface millimeterstocentimeters. following vendor-specific software, usually originally (cid:129) Third, the general insertion of a bronchoscope or robotic designed for vascular applications. For example, one user bronchoscopy system by itself causes lung deformation, interface allows semiautomatic lesion segmentation from especially in the lower segments. As such, a first CBCT the 3D volume by manually demarcating the inner and scan that will be used for guidance should preferably outer border of the lesion in at least two viewing planes, already have instruments coarsely positioned in place as whereas another vendor allows for segmentation by a much and far as safely possible. As the 3D manipulation mouse-clickonthecenterofthenodulebywhichitautomat- causescomplexmovement,subsequent scansshouldideicallydoesasegmentationofthetissuewithsimilarintensity. ally be used if there is uncertainty about the obtained A manual adjustment of the selected region is possible. positioning. Beyond segmentation of lesions, the proceduralist can also use the obtained 3D volume to determine and overlay a Augmenting CBCT imaging information on AF can be targeted navigation routing. Currently available options to donebytwomethods: dosoincludetheplacementofmanualdotstoidentifybifurcationsinbronchileadingtothetargetlesionorplacementof 1. Manually placing markers or lines on the CBCT volume continuous (nonlinear) lines along the navigation trajectory and subsequently augmenting that on AF when selecting whilemovingthroughthereconstructed2Daxial,coronal,or the overlay mode, as facilitated by the vendor software. sagittalslices. For example, placing a marker at the distal tip of the",
+        "tokens": 773,
+        "page_range": [
+          "4"
+        ],
+        "provenance": {
+          "page": "4",
+          "paragraph_index": 1
+        }
+      },
+      {
+        "id": "p5_1",
+        "unit_type": "paragraph",
+        "section_id": "auto",
+        "order": 1,
+        "text": "ConeBeamCTGuidance 5 extendedworkingchannelontheobtained3DCBCTscan thatofafixedCBCTsystem.Becausesuchasystemshouldbe helps to understand what translation of positioning has limitedinweightandcomplexity,choicessuchasremovingthe occurred from CBCT in breath-hold to live positioning ability to adjust the detector distance are for example someunderventilationasvisibleonAF. times made. Consequently, mobile CBCTsystems in general 2. ByusingtheoverlayfunctionoftheCBCTsystem.After have less options to limit dose or increase image quality having acquired a3D volume,it can befullyoverlaidon (bybringingthedetectorclosetothepatient,thex-raysource the AF image. An adjustment of the transparency of this beamhasdivergedlessandthusthedetectormorespecifically volume(alsosometimesseenasa“blend”functiononthe captures the image target area). Limitations in the maximum user interface) allows the augmentation of tissues or amount of power supply that can be equipped in mobile sysobjects that absorb more or less X-rays. With the knowl- tems furthermore result in the need of longer scanning times edgethatinstrumentsgenerallyarewellvisible,itisoften than that of fixed CBCTs. Currently, available mobile CBCT feasibletoaugmentthemonfluoroscopyandfilteringout systems need for example 13 seconds (Medtronic O-arm, by alloftheotherintensityasobtainedintheCBCTimage. 360 degrees rotation), 30 seconds (Siemens CIOS Spin, by 100 degrees rotation) or 48 seconds (Ziehm Vision RFD 3D imaging)foraspintocollecttheneededinformationatevery 3.2.3 Mobile3DCBCTSystems imagingangle.Withtheadvancementoftechnology,thisspin Being restricted to a single dedicated room as with fixed timewilllikelybecomeshorterinthefutureandconsequently CBCT systems for advanced image-guided interventional lowertheriskofmovementartifacts. pulmonology procedures has the advantage that the system The biggest drawback of the mobility of these systems itself can be optimally equipped for performance. Yet, the however is that current mCBCTsystems do not “know” its room-construction needs specific requirements to house a positionrelativetothepatienttableandthereforecurrentlydo fixed CBCT system is associated with significant cost on not provide the options of augmented fluoroscopy. The lack top of equipment purchase. It furthermore also means the ofknowledgethereforecurrentlydoesnotsupportprecise3D flexibilityofsystemuseislow. image-guidednavigationbyX-ray-guidancebutitdoesallow Mobile CBCTsystems allow for more flexibility as they for confirmation of tool in lesion or directional support to can easily be transferred between different operating and adjust other navigation tools like robotic bronchoscopy sysprocedurerooms.Severalvendorshavedevelopedthehistortems. Altogether, the flexibility of the system and the lessicallyavailablemobileC-armsystemsintoanapplicationthat costlypurchasedoesmakeitanattractivepieceofequipment canalsoproduceCBCT3Dvolumeimages,andtheycomein for interventional pulmonology, especially when used in differentsetups(see,i.e.,Fig.1). combinationwithotherguidancesystems. Asthesesystemsneededtoremainmobileandoperablein every environment, this currently means some adjustments to Fig.1 Examplesofmobileimagingsystemscapableofproducing3D (Medtronic O-arm® Intra-operative imaging system). (b) A convenCBCTimagesand2Dfluoroscopy.(a)O-armdesignofamobilesystem tionalC-armdesigncapableofproducing3DCBCTimagesaswellas capableof3DCBCTimagingand2Dfluoroscopy.TheOcanbeopened 2Dfluoroscopyimaging.ImagecourtesybySiemensHealthineers(Sietoallowpushingthesystemoverthetable.ImagecourtesybyMedtronic mensCiosSpinimagingsystem)",
+        "tokens": 426,
+        "page_range": [
+          "5"
+        ],
+        "provenance": {
+          "page": "5",
+          "paragraph_index": 1
+        }
+      },
+      {
+        "id": "p6_1",
+        "unit_type": "paragraph",
+        "section_id": "auto",
+        "order": 1,
+        "text": "6 E.H.F.M.vanderHeijdenandR.L.J.Verhoeven 3.3 Procedural Workflow 20 patients [6]. Verhoeven et al. (2021), in a cross-over pilot study design, found that adding CBCT to an EMN 3.3.1 FixedConeBeamComputedTomography- basedapproachimprovednavigationsuccessfrom52.2%to BasedNavigationBronchoscopy 89.9%[7].Asecondstudyreportedonthefeasibilityofusing As explained above, fixed CBCTsystems allow for detailed onlyCBCTandAFincombinationwithacatheterapproach andaccurateimagingandaugmentedfluoroscopythatcanbe and found that their diagnostic yield increased with experiused as a single device for navigation bronchoscopy to pre- ence, from 72% to 90% (n = 238 patients) [8]. A high ciselyguideextendedworkingchannelsintotheperipheryof diagnosticyieldbyusingCBCTthatwasearlieralsoreported the lungs. A practical “How we do it” step-by-step descrip- by Pritchett et al., reporting a diagnostic yield of 83.7% tion of CBCT-AF-based navigation bronchoscopy is illus- (n = 75 patients) when using CBCT-AF in combination tratedinFig.2anditslegend[reusedwithpermission][4]. with EMN [9]. Yu et al. (2021) studied how an approach using only rEBUS was improved by adding CBCTand AF 3.3.2 Mobile3DCBCTNavigationWorkflows guidance,findingasignificantdiagnosticyieldincreasefrom CurrentlyavailablemobileCBCTsystemslacktheoptionof 52.8%to75.5%(performedbypropensityscorematchingof AF. They therefore cannot easily serve as a sole navigation patients, n = 53) [10]. Lin et al. (2022) corroborated the tool for navigation bronchoscopy in the strict sense. How- results by Yu et al. in a group of 236 study subjects and ever,whenaddedtonavigationdeviceslikeelectromagnetic found a navigation success rate of 96.5% in the CBCT-AF navigationsystemsorroboticsystems,theavailabilityof3D group versus 86.8% in the rEBUS only group [11]. The CBCTcapabilitiesisofaddedvalueascomparedtostandard abilityofobtainingexact3Dinformationoftoolsrelativeto C-armfluoroscopyorsystemsthatusetomosynthesisfortool lesion isalso ofimportance incases wherepreprocedural or in lesion confirmation and correction for CT-to-body-diver- intraproceduralimagingshowsthatthereisnoendobronchial gence. Recent advancements do have made it possible to route to a lesion and a trans-parenchymal pathway needs to integrate the obtained CBCT volume of a mobile system becreated[12]. into a secondary guidance system. Whereas mCBCT currentlydoesnotdeliverAFcapabilities,theintegrationintoa 3.4.2 CBCTImaginginCombination secondary system does allow an update of their navigation withRobotic-AssistedNavigation guidance method. An example of integration of advanced Bronchoscopy navigationtechnologywithmCBCTistheworkflowdesigned Robotic-assisted navigation bronchoscopy (RAB) is curbyION®byIntuitivewheretheshape-sensingroboticsystem rently availableinthreedifferentsetups:ION byIntuitiveis can be integrated with a Siemens Cios Spin mobile CBCT based on shape-sensing technology, the Monarch system system®. Aftera CBCTscan,the navigationplanningcan be from Johnson & Johnson uses electromagnetic navigation adjustedbasedontheobserved3Dinformation as the guidance technology and finally Galaxy from Noah alsouseselectromagneticnavigationandintegratesthiswith C-arm tomosynthesis as an alternative strategy for CBCT. 3.4 Diagnostic Performance Recentandongoingstudieshaveshownthatcombinationof robotic-assistedbronchoscopywithCBCTimagingincreased 3.4.1 CBCT-BasedNavigationBronchoscopy diagnostic performance when compared to RAB alone. The The use of fixed and/or mobile CBCT systems, both as a (preliminary) results of these studies are summarized in single tool for image-guided navigation bronchoscopy or in Table1. in combination with nonrobotic navigation bronchoscopy Insummary,theoverallconclusionofthecurrentlyavailtools has been investigated in several studies. As the meta- able literature on CBCT-guided navigation bronchoscopy analysis by Kops et al. (2023) showed, studies using newer procedures with or without robotic-assisted navigation systechniques for navigation bronchoscopy (such as CBCT, tems,thesestudiesunderlinethevalueofCBCTimagingand robotic bronchoscopy, tomosynthesis-guided EMN) in gen- its added value to be used as a best available modality in eral showed a higher diagnostic yield than that of longer navigationbronchoscopy,toofferpreciseandaccurateinforavailable technologies (such as virtual bronchoscopy, elec- mation on subcentimeter positioning in 3D that is not tromagnetic navigation) [5]. Zooming in on studies specifi- achievedwithsimilarqualityinothertechnologies[13–21]. cally studying the value of adding CBCT to all but a combination with robotic systems, several studies time and againunderlinethevalueofCBCTinperipheraldiagnostics. 3.5 Image Quality and Anesthesia Casal et al. (2018) for example found that adding CBCT imaging to an ultrathin bronchoscopy approach increased Important,buteasytofixprecautiontooptimizeimagequaldiagnostic yield from 50% to 70% in a pilot study of ity is awareness and active repositioning or removal of",
+        "tokens": 696,
+        "page_range": [
+          "6"
+        ],
+        "provenance": {
+          "page": "6",
+          "paragraph_index": 1
+        }
+      },
+      {
+        "id": "p7_1",
+        "unit_type": "paragraph",
+        "section_id": "auto",
+        "order": 1,
+        "text": "ConeBeamCTGuidance 7 Fig.2 CBCT-basednavigationbronchoscopy.Howtodoit:practical onapreproceduralCTandPET-CTscan.Thefirst(preprocedural)step step-by-step considerations for new CBCT-AF users [4]. This figure is to determine and memorize the optimal path through the airways representstheentireworkflowofapatientundergoingaCBCT-guided toward the nodule based on the preprocedural CT, preferably on the navigationbronchoscopy(CBCT-NB).Step1:preproceduralplanning. axial slices. If no bronchus sign is present, it is advisable to try to Panelsa–dshowaperipheralpulmonarynoduleintherightupperlobe determine your exit point for a trans-parenchymal approach as well.",
+        "tokens": 81,
+        "page_range": [
+          "7"
+        ],
+        "provenance": {
+          "page": "7",
+          "paragraph_index": 1
+        }
+      },
+      {
+        "id": "p8_1",
+        "unit_type": "paragraph",
+        "section_id": "auto",
+        "order": 1,
+        "text": "8 E.H.F.M.vanderHeijdenandR.L.J.Verhoeven interfering objects. Devices, cables and objects such as the evencompletelyobscured(seeFig.3).Especiallyobesityand metalcomponentsofabloodpressurecuffbutalsononmetals lesions in the posterior lung fields might be troubled by suchastheventilationtubesandfiltersarebestplacedasfar atelectasis[6,22,23].Twospecificventilationstrategiesare fromtheradiationfieldaspossible.Eveniftheseobjectsare advocated. Bhadra et al. (2024) suggested a lung nodule notvisibleonthefluoroscopyand/orthereconstructedslices ventilation protocol strategy in a retrospective series of ofyour3Dscan,theseobjectsmaystillscatterphotons,and patients [24]. Salahuddin and colleagues earlier showed the since CBCTscanning is based on a cone-shaped beam, any importance of ventilation on prevention of atelectasis in a source of scattering can negatively influence the image prospectiverandomizetrial[25].Itisessentialtoimplementa quality. dedicated protocol to optimize the conditions for navigation bronchoscopythatinvolvesbothinductionofanesthesiaand ventilationprotocolbasedonthesettingsmentionedinthese 3.5.1 VentilationStrategy studies. A dedicated ventilation protocol can reduce Anoptimizedventilationprotocolandcollaborationwiththe CT-body-divergence, prevent atelectasis and aid imageanesthesia team are important in procedures where CBCT guidedbiopsyindifficultcaseswhereyoucanimposebreath imagingwillbeperformed.Withoutoptimization,significant holdepisodesatsimilarlevelsofinspiration.So,ontopofa intraprocedural atelectasis of the lungs can be expected. By protocol that optimizes continuous lung ventilation, care thisatelectasisthepositioningofthelesionwillbealteredor Table1 OverviewofstudiesonCBCT-supportedrobotic-assistedbronchoscopy Mean Prevalence Fixed/Mobile/ DY/ DY Author Year Pts Nodules size cancer RABsystem Tomo Accuracy definition Benn[14] 2021 52 59 21.9 64 ssRAB(I) Fixed 86 Intermed Styrvoky[13] 2022 200 209(solid 22.6 64 ssRAB Fixed 91.4 Intermed only) Abia-Trujillo[15] 2024 105 117(66% 12.3 – ssRAB Mobile 83.8 Intermed solid) Reisenauer[16] 2022 30 30 17.5 – ssRAB Mobile 93.3 Intermed Chambers[17] 2023 75 79 20 – ssRAB Mobile(O) 77 Intermed Cumbo-Nacheli[18] 2022 20 20 22 – EMN(M) NR 75 Intermed Saghaie[19] 2024 18 19(90% 20 78 EMN-TilT(G) Tomo 89.5 Strict solid) BruinenprelimERS 2024 95 133 11.8 – ssRAB Fixed 85 Strict 24[21] Shaller[20] 2024 100 100 16 – EMN(M) Fixed 90% Intermed (cid:1)(cid:1) Fig.2 (continued) Theeventualnavigationpathmightdifferfromthe Themarkcanbecorrelatedwiththevisibledistaltipofthecatheterand preproceduralmentalplanmade,butamemorizedpreproceduralplan helpsplacethesegmentednoduleinperspectivewiththeliveimaging. significantlyhelpsnavigatingon2Dimaging(augmentedfluoroscopy) Step5:Whenthecatheterisatthetargetnodule,positionconfirmationis in 3D lungs and decreases navigation time needed. Step 2: General importantforoptimalsampling.rEBUScanprovideconfirmation;panel inspection.Afterthepatientissedated,thefirststepisageneralinspec- ishowscentralpositioningoftherEBUSprobeinthelesion.Inabsence tion bronchoscopy with a normal flexible bronchoscope. Any endo- ofrEBUSconfirmationorwhenindoubtofpositioning,anadditional bronchial abnormalities can be sampled. Step 3: Course navigation. CBCTscancanhelpconfirmthepositionandassistinrepositioningif After general inspection, the preangulated extended working channel theextendedworkingchannelorsamplinginstrumentneedreadjusting. (EWC) is inserted through the bronchoscope. The bronchoscope is Panellshowsaneedleinthetargetlesion,confirmingthatthesample wedged in the subsegment of the target nodule (predetermined on takenisfromthelesion.TheCBCTscanfurthermoregivesinformation preproceduralCT)andtheextendedworkingchannelisguidedthrough ontheoptimalfluoroscopyanglesforaprogressionandangulationview ascanbeseenonpaneleandf.Basedonyourpredeterminedmemo- foroptimalsampling.Step6:Tissueacquisition.Afterpositionconfirrizedpathinitialcoursenavigationinthedirectionofthenodulecanbe mation, sufficientsamplesneed to betaken(panels j–m).Even when performed. Step 4: CBCT spin and segmentation. After the EWC is thereisaclearrEBUSimage,itisadvisabletoobtainmultiplesamples inserted, the first CBCTspin is performed (panel g) on (inspiratory) with both transbronchial needle and forceps biopsy device. Aim to breath-hold. The target nodule and pathway are segmented on your sample in multiple sections of the nodule. When there is doubt of workstation, where optimal viewing angles for fluoroscopy can be optimalpositioning(bothonrEBUSandCBCT),obtainmultiplesamdetermined.Whentheextendedworkingchannelisincloseproximity plesnotonlyofthesegmentedlesionbutalsoofthedirectvicinityofthe tothetargetnodule,markthedistaltipoftheEWC.Thismarkhelps lesion to increase the chance of a diagnostic sample. Rapid On-Site correlate the projected image from the 3D CBCT with the real-life Evaluation(ROSE)canhelptodetermineifthetargetlesionissampled position on 2D fluoroscopy (panel h) as there will be a discrepancy successfully, especially when positioning of the sampling instrument between a breath-hold scan and fluoroscopy of the breathing patient. hasbeenconfirmedwithCBCT",
+        "tokens": 582,
+        "page_range": [
+          "8"
+        ],
+        "provenance": {
+          "page": "8",
+          "paragraph_index": 1
+        }
+      },
+      {
+        "id": "p9_1",
+        "unit_type": "paragraph",
+        "section_id": "auto",
+        "order": 1,
+        "text": "ConeBeamCTGuidance 9 Fig.3 Exampleimageofatelectasisoccurringduringnavigationbron- patient, where atelectasis has completely shifted anatomy as well as choscopybecausetheventilation protocolhadnotbeenimplemented. obscured the targeted peripheral pulmonary lesion. The navigation (a)PreproceduralCTofapatientwithperipheralpulmonarylesion(s)in bronchoscopyhadtobeabortedwithouton-siteconfirmationofdisease the right lower lobe. (b) Intraprocedural cone beam CT of the same (follow-upenddiagnosis:adenocarcinoma) should be taken to time CBCT image acquisition. To mini- moreflexiblyrepositioned,possiblyleadingtoahigherutilimize movement artifacts, CBCT scanning is typically zationrateandthuslowerproceduralcost[26]. performed under breath-hold (preferably at inspiration To determine the cost-effectiveness of a procedure in a phase and while maintaining positive airway pressure to care pathway, the CBCT-guided navigation bronchoscopy keeptheairwaysopen) andshouldonlybeperformed 5–7s approach needs to be compared to the conventional alternaafter initiating breath-hold due to the expected initial lung tive: CT-guided transthoracic biopsy. CT-guided transthomovement. racic biopsy has long been considered the gold standard for diagnosisofperipheralpulmonarylesions.Ithashistorically beenreportedtohavearelativelyhighdiagnosticyield,but, alsohavingahighrateofcomplications.Ameta-analysisby 3.6 Cost-Effectiveness Heerinketal.showedcomplicationsupto39%,ofwhichup BothmobileandfixedCBCTsystemsareadvancedpiecesof to7%duetopneumothoracesrequiringchesttubeplacement equipment, translating into significant purchase costs. The [27].Recentlythefirstrandomizedprospectivetrialcomparing CT-guided transthoracic biopsy with navigation broncost of CBCT per procedure is predominantly determined choscopy (NB) has been completed and the initial results by the one-time purchase and yearly service cost (and opershow a diagnostic noninferiority of a (electromagnetic and ating personnel) divided by the number of years the system tomosynthesis-guided) navigation bronchoscopy with 76% will be in service before replacement (x amount of procediagnostic yield for both approaches [28]. While diagnostic dures per year). If the interventional pulmonology unit will yieldsweresimilar,theyreportthatNBhadsignificantlyless useit100%ofthetime,totalcostofownershipcanbeeasily complications (with 31% for CT-TTNB and 5.8% for NB calculated. In most centers, however, it can potentially be procedures,p<0.001)[28]. shared between departments. Sharing a CBCT facility to Whencalculationonthecost-effectivenessofadiagnostic increase its utilization and therewith cost-effectiveness is a procedures like the (nonrobotic) CBCT-guided navigation usefulargumenttokeephealthcare costreasonable.Astudy bronchoscopy approach is made to be compared against byPateletal.onutilizationofhybridORs(withfCBCT)ina CT-guided transthoracic biopsy, this lower complication Dutch hospital setting for example showed that there was room for improvement, as the utilization was still signifi- rate is also an important factor alongside the general advantages of navigation bronchoscopy implementation in the cantly below that of a normal OR (average of 92% versus early diagnosis of lung cancer, thus translating in prevented 48% utilization, respectively). A mobile CBCT system is",
+        "tokens": 443,
+        "page_range": [
+          "9"
+        ],
+        "provenance": {
+          "page": "9",
+          "paragraph_index": 1
+        }
+      },
+      {
+        "id": "p10_1",
+        "unit_type": "paragraph",
+        "section_id": "auto",
+        "order": 1,
+        "text": "10 E.H.F.M.vanderHeijdenandR.L.J.Verhoeven upstaging. A model by Kops et al. evaluated the cost- comparisonofthisDAPtootherdiagnosticorinterventional effectiveness of an approach in which TTNA and CBCT- procedures which donotnecessarily useCBCTimaging, an guided NB as well as immediate therapy without diagnosis approximation of the effective dose can be used were feasible care pathways. In a scenario where CBCT- (in millisieverts). The median effective dose of all summaguidedNBandTTNAwouldhavesimilardiagnosticyields, rized studies thereinwas 5.5mSv, whichiscomparable toa itwasconcludedthatbothcouldbecost-effectiveapproaches diagnostic chest CT scan [30]. In general, this and other inahealthcaresettingwheretherewasawillingnesstopayof papers show that optimizing the image protocols available 20.000 to 80.000 Euro per patient quality adjusted life year and use of general safety precautions can result in low radi- (QALY). It was concluded that all cases not eligible for a ationexposureforbothpatientandstaff[8,30].CBCTbased TTNA approach should receive NB, and depending on the navigation bronchoscopy can therefore be concluded as a local diagnostic expertise, also other lesions may be safe procedure in terms of radiation as well as procedural considered[29]. complications. 3.7 Therapeutic Applications 4 Conclusion and Future Developments TheintroductionofCBCTininterventionalpulmonologyhas Access of small peripheral pulmonary lesions situated deep thepotential togobeyond diagnostics and into therapy. Not within the lung parenchyma is not straightforward and onlyplacingfiducialmarkersforsubsequentsurgeryorradio- requires navigating through a maze of airways and meticutherapy belongs to the possibilities of extending CBCTuse. lous positioning for adequate sampling of millimeter sized ThroughCBCTimaging,itbecomespossibletometiculously lesions.Inthepasttwodecades,severaltechniqueshavebeen apply and monitor the injection of pharmaceutical therapies commercialized and implemented to help move toward this orablativetherapiesin3D.Whileseveraltherapeuticmodal- goal. Techniques such as radial endobronchial ultrasonograities come to mind and studies have been, or are being phy (rEBUS), electromagnetic navigation technology conducted with several ablation techniques such as micro- (EMN), virtual bronchoscopy and ultrathin bronchoscopes wave ablation, radiofrequency ablation, pulsed electric field are widely utilized for navigation bronchoscopy. A metatherapy, intratumoral pharmaceutical therapy, or brachyther- analysis[5]showedthatthesetechniquescanenablenavigaapy, it is clear that for all local treatments, precise and tion bronchoscopy as a diagnostic method with very low detailedimageguidancewithCBCTisanessentialprerequi- complication rates as compared to TTNB [5]. Addition of site. Elsewhere in this book, more detailed and in-depth conebeamCTimagingwithaugmentedfluoroscopy(AF)to summary on these therapeutic interventional procedures is the existent line-up of navigation bronchoscopy techniques presented. significantlyincreasedyield,butCBCTcanalsobeusedasa stand-alonesystem.Thenew,robotic-assistedbronchoscopy platforms enable precise steerability and a stable exit point, 3.8 Radiation Safety and Awareness the addition of CBCTimaging to robotic navigation further increases yield. CBCT with AF enables a near real-time Asdiverseimage-guiding systems likeCBCT becomemore confirmation or guidance of the correct positioning of the available to interventional pulmonologists, with increasing diagnostictoolnearorwithinthetargetlesion,whichresults use of ionizing radiation, it is crucial to be educated on inahighdiagnosticyield.CBCTnavigationbronchoscopyis ionizing radiation principles to protect both patients and safe, has a low complication rate and is a cost-effective hospital staff. A white paper from experts in the field of clinical strategy. Currently, only the fixed CBCT systems interventionalpulmonologywasrecentlypublishedfocusing offer augmented fluoroscopy whereas the mobile systems onthissubject,inwhichbothexplanatoryradiationprinciples arelesscostlyandcanbeintegratedinto(robotic)workflows. as well as international reporting recommendations for con- For local treatment, CBCTimaging is an essential prerequisistentandaccuratereportingonradiationdoseandsafetyin siteforprecisepositioningoftreatmentdevices. interventional pulmonology were given [30]. In this paper, Withthegrowingneedfortissueacquisitionofsmall,and radiation dose is also reviewed for both fixed and mobile often multiple, peripheral pulmonary nodules detected as cone-beam CTsystems as used in IP procedures [30]. Dose incidental nodules on chest CT scans, or in screening proArea Products (DAP) from CBCT (both mCBCT and grams,theclinicalneedforhighlyaccurateandsafediagnosfCBCT)-guided diagnostic navigation bronchoscopies tic procedures will increase. At this moment, CBCT-guided ranged from 9.78 Gy*cm2 to 77.78 Gy*cm2, and no clear or CBCT-supported navigation bronchoscopy is the best difference in DAP could therein be seen between the performing and most widely available technology. Impleapproach of using either a fixed or mobile system. To allow mentation of this technology into the daily clinical practice",
+        "tokens": 767,
+        "page_range": [
+          "10"
+        ],
+        "provenance": {
+          "page": "10",
+          "paragraph_index": 1
+        }
+      },
+      {
+        "id": "p11_1",
+        "unit_type": "paragraph",
+        "section_id": "auto",
+        "order": 1,
+        "text": "ConeBeamCTGuidance 11 ofinterventionalpulmonologycentersiskeyandessentialfor beamcomputedtomographyintheevaluationofpulmonarylesions. local treatments. The combination of CBCT image guided Lung.2022;200(6):755–61. 14.BennBS,RomeroAO,LumM,KrishnaG.Robotic-assistednaviwith steerable catheters as offered by the robotic systems is gationbronchoscopyasaparadigmshiftinperipherallungaccess. likely tobecomethenext goldstandard.Newdevelopments Lung.2021;199(2):177–86. in software, supporting planning and navigation guidance 15.Abia-TrujilloD,ChandraNC,KoratalaA,YuLee-MateusA,Garzaand the ease of using CBCTas a single navigation tool are Salas A, Barrios-Ruiz A, et al. Diagnostic yield of shape-sensing robotic-assisted bronchoscopy for ground-glass nodules and subawaited. solidnoduleswithasolidcomponentlessthan6mm.Respiration. 2023;102(10):899–904. 16.Reisenauer J, Duke JD, Kern R, Fernandez-Bussy S, Edell References E. Combining shape-sensing robotic bronchoscopy with Mobile three-dimensional imaging to Verify tool-in-lesion and overcome 1.van’t Westeinde SC, Horeweg N, Vernhout RM, Groen HJM, divergence: a pilot study. Mayo Clinic Proc: Innov Quality OutLammersJJ,WeeninkC,etal.Theroleofconventionalbronchos- comes.2022;6(3):177–85. copyintheworkupofsuspiciousCTscanscreen-detectedpulmo- 17.Chambers J, Knox D, Leclair T. O-arm CT for confirmation of narynodules.Chest.2012;142(2):377–84. successful navigation during robotic assisted bronchoscopy. 2.Callister MEJ, Baldwin DR, Akram AR, Barnard S, Cane P, JBroncholInterventionalPulmonol.2023;30(2):155–62. DraffanJ,etal.BritishThoracicSocietyguidelinesfortheinvesti- 18.Cumbo-Nacheli G, Velagapudi RK, Enter M, Egan JPI, Conci gation and management of pulmonary nodules. Thorax. 2015;70: D.Robotic-assistedbronchoscopyandcone-beamCT:aretrospec1–54. tiveseries.JBroncholInterventionalPulmonol.2022;29(4):303–6. 3.Hendrix W, Rutten M, Hendrix N, van Ginneken B, Schaefer- 19.SaghaieT,WilliamsonJP,PhillipsM,KafiliD,SundarS,Hogarth ProkopC,ScholtenET,etal.Trendsintheincidenceofpulmonary DK, Ing A. First-in-human use of a new robotic electromagnetic nodules in chest computed tomography: 10-year results from two navigation bronchoscopic platform with integrated tool-in-lesion Dutchhospitals.EurRadiol.2023;33(11):8279–88. Tomosynthesis(TiLT)technologyforperipheralpulmonarylesions: 4.VerhoevenRLJ,KopsSEP,WijmaIN,TerWoerdsDKM,vander the FRONTIER study. Respirology. 2024;29(11):969–975. https:// HeijdenE.Cone-beamCTinlungbiopsy:aclinicalpracticereview doi.org/10.1111/resp.14778 on lessons learned and future perspectives. Ann Transl Med. 20.ShallerBD,DuongDK,SwensonKE,FreeD,BediH.Addedvalue 2023;11(10):361. ofarobotic-assistedbronchoscopyplatforminconebeamcomputed 5.Kops SEP, Heus P, Korevaar DA, Damen JAA, Idema DL, tomography-guided bronchoscopy for the diagnosis of pulmonary Verhoeven RLJ, et al. Diagnostic yield and safety of navigation parenchymal lesions. J Bronchol Interventional Pulmonol. bronchoscopy:asystematicreviewandmeta-analysis.LungCancer. 2024;31(3):e0971. 2023;180:107196. 21.BruinenA,VanDerHeijdenE,VerhoevenR.Diagnosticyieldof 6.CasalRF,SarkissM,JonesAK,StewartJ,TamA,GrosuHB,etal. ssRABcombinedwithCBCTimagingincomparisonwithCBCTCone beam computed tomography-guided thin/ultrathin bronchos- based navigation bronchoscopy using a passive catheter-based copy for diagnosis of peripheral lung nodules: a prospective pilot approach:preliminaryresults.EurRespirJ.2024;64(3):A4681. study.JThoracDis.2018;10(12):6950–9. 22.SagarA-ES,SabathBF,EapenGA,SongJ,MarcouxM,SarkissM, 7.VerhoevenRLJ,FuttererJJ,HoefslootW,vanderHeijdenE.Cone- etal.IncidenceandlocationofatelectasisdevelopedduringbronbeamCTimageguidancewithandwithoutelectromagneticnaviga- choscopy under general anesthesia: the I-LOCATE trial. Chest. tion bronchoscopy for biopsy of peripheral pulmonary lesions. 2020;158(6):2658–66. JBronchologyIntervPulmonol.2021;28(1):60–9. 23.Pritchett MA, Bhadra K, Calcutt M, Folch E. Virtual or reality: 8.VerhoevenRLJ,vanderSterrenW,KongW,LangereisS,vander divergence between preprocedural computed tomography scans Tol P, van der Heijden E. Cone-beam CT and augmented and lung anatomy during guided bronchoscopy. J Thorac Dis. fluoroscopy-guided navigation bronchoscopy: radiation exposure 2020;12(4):1595–611. and diagnostic accuracy learning curves. J Bronchology Interv 24.BhadraK,Baleeiro C,PatelS,CondraW,BaderBA,Setser RM, Pulmonol.2021;28(4):262–71. Youngblood S. High tidal volume, high positive end expiratory 9.PritchettMA,SchampaertS,deGrootJAH,SchirmerCC,vander pressureandapneicbreathholdstrategies(lungnavigationventilaBomI.Cone-beamCTwithaugmentedfluoroscopycombinedwith tion protocol) with cone beam computed tomography Bronchoelectromagneticnavigationbronchoscopyforbiopsyofpulmonary scopic biopsy of peripheral lung lesions: results in 100 patients. nodules.JBronchologyIntervPulmonol.2018;25(4):274–82. JBronchologyIntervPulmonol.2024;31(2):105–16. 10.YuKL,YangSM,KoHJ,TsaiHY,KoJC,LinCK,etal.Efficacy 25.Salahuddin M, Sarkiss M, Sagar A-ES, Vlahos I, Chang CH, andsafetyofcone-beamcomputedtomography-derivedaugmented Shah A, et al. Ventilatory strategy to prevent atelectasis during fluoroscopycombinedwithendobronchialultrasoundinperipheral bronchoscopy under general anesthesia: a multicenter randomized pulmonarylesions.Respiration.2021;100(6):538–46. controlledtrial(Ventilatorystrategytopreventatelectasis-VESPA11.LinCK,FanHJ,YaoZH,LinYT,WenYF,WuSG,HoCC.Cone- trial).Chest.2022;162(6):1393–401. beam computed tomography-derived augmented fluoroscopy 26.PatelS,LindenbergM,RoversMM,vanHartenWH,RuersTJM, improves the diagnostic yield of endobronchial ultrasound-guided PootL,etal.Understandingthecostsofsurgery:abottom-upcost transbronchialbiopsyforperipheralpulmonarylesions.Diagnostics. analysisofbothahybridoperatingroomandconventionaloperating 2021;12(1):41.https://doi.org/10.3390/diagnostics12010041 room.IntJHealthPolicyManag.2022;11(3):299–307. 12.SobieszczykMJ,YuanZ,LiW,KrimskyW.Biopsyofperipheral 27.HeerinkWJ,deBockGH,deJongeGJ,GroenHJ,VliegenthartR, lung nodules utilizing cone beam computer tomography with and Oudkerk M. Complication rates of CT-guided transthoracic lung without trans bronchial access tool: a retrospective analysis. biopsy:meta-analysis.EurRadiol.2017;27(1):138–48. JThoracDis.2018;10(10):5953–9. 28.Lentz RJ, Frederick-Dyer K, Planz V, Koyama T, Aboudara M, 13.Styrvoky K, Schwalk A, Pham D, Chiu HT, Rudkovskaia A, Swanner B, et al. Navigational bronchoscopy versus computed Madsen K, et al. Shape-sensing robotic-assisted bronchoscopy tomography-guided transthoracic needle biopsy for the diagnosis with concurrent use of radial endobronchial ultrasound and cone of indeterminate lung nodules: initial results from the VERITAS",
+        "tokens": 687,
+        "page_range": [
+          "11"
+        ],
+        "provenance": {
+          "page": "11",
+          "paragraph_index": 1
+        }
+      },
+      {
+        "id": "p12_1",
+        "unit_type": "paragraph",
+        "section_id": "auto",
+        "order": 1,
+        "text": "12 E.H.F.M.vanderHeijdenandR.L.J.Verhoeven multicenter randomized trial. C100 new Frontiers in lung cancer: transthoracicbiopsyfordiagnosisofperipheralpulmonarynodules. toys,toolsandtreatments. In:AmericanThoracicSocietyinterna- BMJOpenRespirRes.2022;9(1):e001280. tional conference abstracts: American Thoracic Society; 2024. 30.WijmaIN,CasalRF,ChengGZ,EinsiedelPF,FantinA,HallDJ, p.A6665-A. et al. Radiation principles, protection and reporting for interven29.Kops SEP, Verhoeven RLJ, Vermeulen RJ, Rovers MM, van der tional pulmonology: A World Association of Bronchology and Heijden EHFM, Govers TM. Cone beam CT-guided navigation Interventional Pulmonology White Paper. Respiration. 2024;103 bronchoscopy: a cost-effective alternative to CT-guided (11):707–722.https://doi.org/10.1159/000540102",
+        "tokens": 92,
+        "page_range": [
+          "12"
+        ],
+        "provenance": {
+          "page": "12",
+          "paragraph_index": 1
+        }
+      }
+    ],
+    "figures": [
+      {
+        "id": "fig_5_1",
+        "number": "1",
+        "page": "5",
+        "provenance": {
+          "page": "5",
+          "label": "Fig 1"
+        }
+      },
+      {
+        "id": "fig_7_2",
+        "number": "2",
+        "page": "7",
+        "provenance": {
+          "page": "7",
+          "label": "Fig 2"
+        }
+      },
+      {
+        "id": "fig_8_2",
+        "number": "2",
+        "page": "8",
+        "provenance": {
+          "page": "8",
+          "label": "Fig 2"
+        }
+      },
+      {
+        "id": "fig_9_3",
+        "number": "3",
+        "page": "9",
+        "provenance": {
+          "page": "9",
+          "label": "Fig 3"
+        }
+      }
+    ],
+    "tables": [],
+    "boxes": [],
+    "equations": [],
+    "cases": [],
+    "references": []
+  },
+  "retrieval": {
+    "keywords": [],
+    "summary_tldr": "Auto-built chapter JSON for Cone Beam CT Guidance.",
+    "nuggets": [],
+    "chunks": []
+  },
+  "versioning": {
+    "extraction_tool": "build_chapter.py",
+    "model": "none",
+    "timestamp": "2025-08-08T16:01:04.310664Z",
+    "revision": "r1"
+  }
+}

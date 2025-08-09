@@ -1,0 +1,1305 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://bronchmonkey.com/schemas/medical_rag_chatbot_v1.json",
+  "title": "Medical RAG Chatbot – Evidence Schema (v1)",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "source",
+    "document",
+    "retrieval"
+  ],
+  "properties": {
+    "source": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "document_id",
+        "ingest_date"
+      ],
+      "properties": {
+        "document_id": {
+          "type": "string"
+        },
+        "source_url": {
+          "type": "string"
+        },
+        "file_sha256": {
+          "type": "string"
+        },
+        "license": {
+          "type": "string"
+        },
+        "ingest_date": {
+          "type": "string",
+          "format": "date-time"
+        }
+      }
+    },
+    "provenance_defaults": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "parser": {
+          "type": "string"
+        },
+        "ocr": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "used": {
+              "type": "boolean"
+            },
+            "engine": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            }
+          }
+        },
+        "model": {
+          "type": "string"
+        },
+        "extraction_version": {
+          "type": "string"
+        }
+      }
+    },
+    "document": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "metadata",
+        "design"
+      ],
+      "properties": {
+        "metadata": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "title",
+            "year"
+          ],
+          "properties": {
+            "title": {
+              "type": "string"
+            },
+            "authors": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "journal": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            },
+            "doi": {
+              "type": "string"
+            },
+            "publication_date": {
+              "type": "string"
+            },
+            "affiliations": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "study_registration": {
+              "type": "string"
+            }
+          }
+        },
+        "design": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "type": {
+              "type": "string"
+            },
+            "prospective": {
+              "type": "boolean"
+            },
+            "multicenter": {
+              "type": "boolean"
+            },
+            "blinded": {
+              "type": "string"
+            },
+            "randomized": {
+              "type": "boolean"
+            },
+            "duration": {
+              "type": "string"
+            },
+            "setting": {
+              "type": "string"
+            },
+            "centers_involved": {
+              "type": "integer"
+            },
+            "countries": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          }
+        },
+        "entities": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "conditions": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                  "text"
+                ],
+                "properties": {
+                  "text": {
+                    "type": "string"
+                  },
+                  "system": {
+                    "type": "string"
+                  },
+                  "code": {
+                    "type": "string"
+                  },
+                  "label": {
+                    "type": "string"
+                  }
+                }
+              }
+            },
+            "interventions": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                  "text"
+                ],
+                "properties": {
+                  "text": {
+                    "type": "string"
+                  },
+                  "system": {
+                    "type": "string"
+                  },
+                  "code": {
+                    "type": "string"
+                  },
+                  "label": {
+                    "type": "string"
+                  }
+                }
+              }
+            },
+            "outcome_concepts": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                  "text"
+                ],
+                "properties": {
+                  "text": {
+                    "type": "string"
+                  },
+                  "system": {
+                    "type": "string"
+                  },
+                  "code": {
+                    "type": "string"
+                  },
+                  "label": {
+                    "type": "string"
+                  }
+                }
+              }
+            },
+            "anatomy_ip": {
+              "description": "IP-specific anatomy (e.g., IASLC stations)",
+              "type": "array",
+              "items": {
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                  "text"
+                ],
+                "properties": {
+                  "text": {
+                    "type": "string"
+                  },
+                  "system": {
+                    "type": "string"
+                  },
+                  "code": {
+                    "type": "string"
+                  },
+                  "label": {
+                    "type": "string"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "pico": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "population": {
+              "type": "object",
+              "additionalProperties": false,
+              "properties": {
+                "text": {
+                  "type": "string"
+                },
+                "codes": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "additionalProperties": false,
+                    "required": [
+                      "text"
+                    ],
+                    "properties": {
+                      "text": {
+                        "type": "string"
+                      },
+                      "system": {
+                        "type": "string"
+                      },
+                      "code": {
+                        "type": "string"
+                      },
+                      "label": {
+                        "type": "string"
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "intervention": {
+              "$ref": "#/$defs/PICOElement"
+            },
+            "comparison": {
+              "$ref": "#/$defs/PICOElement"
+            },
+            "outcomes": {
+              "type": "array",
+              "items": {
+                "$ref": "#/$defs/CodedTerm"
+              }
+            }
+          }
+        },
+        "population": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "total_enrolled": {
+              "type": "integer"
+            },
+            "total_analyzed": {
+              "type": "integer"
+            },
+            "groups": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "additionalProperties": false,
+                "properties": {
+                  "group_name": {
+                    "type": "string"
+                  },
+                  "n": {
+                    "type": "integer"
+                  },
+                  "age_mean": {
+                    "type": "number"
+                  },
+                  "age_sd": {
+                    "type": "number"
+                  },
+                  "male_n": {
+                    "type": "integer"
+                  },
+                  "male_percent": {
+                    "type": "number"
+                  },
+                  "baseline_characteristics": {
+                    "type": "object"
+                  },
+                  "provenance": {
+                    "$ref": "#/$defs/ProvenanceSpan"
+                  }
+                }
+              }
+            },
+            "inclusion_criteria": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "exclusion_criteria": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          }
+        },
+        "arms": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/Arm"
+          }
+        },
+        "tables": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/StructuredTable"
+          }
+        },
+        "figures": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/Figure"
+          }
+        },
+        "sections_outline": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "outcomes_normalized": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/OutcomeNormalized"
+      }
+    },
+    "diagnostic_accuracy": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/DiagnosticAccuracy"
+      }
+    },
+    "time_to_event": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/TimeToEvent"
+      }
+    },
+    "safety_normalized": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/SafetyNorm"
+      }
+    },
+    "risk_of_bias": {
+      "$ref": "#/$defs/RiskOfBias"
+    },
+    "grade": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/GradeRating"
+      }
+    },
+    "claims": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/Claim"
+      }
+    },
+    "retrieval": {
+      "$ref": "#/$defs/Retrieval"
+    },
+    "procedures_ip": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/ProcedureIP"
+      }
+    },
+    "atoms": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/Atom"
+      }
+    },
+    "telemetry": {
+      "$ref": "#/$defs/Telemetry"
+    }
+  },
+  "$defs": {
+    "CodedTerm": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "text"
+      ],
+      "properties": {
+        "text": {
+          "type": "string"
+        },
+        "system": {
+          "type": "string"
+        },
+        "code": {
+          "type": "string"
+        },
+        "label": {
+          "type": "string"
+        }
+      }
+    },
+    "PICOElement": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "text": {
+          "type": "string"
+        },
+        "codes": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/CodedTerm"
+          }
+        }
+      }
+    },
+    "ProvenanceSpan": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "document_id"
+      ],
+      "properties": {
+        "document_id": {
+          "type": "string"
+        },
+        "pages": {
+          "type": "array",
+          "items": {
+            "type": "integer"
+          }
+        },
+        "section": {
+          "type": "string"
+        },
+        "table_id": {
+          "type": "string"
+        },
+        "figure_id": {
+          "type": "string"
+        },
+        "bbox": {
+          "type": "array",
+          "items": {
+            "type": "array",
+            "minItems": 4,
+            "maxItems": 4,
+            "items": {
+              "type": "number"
+            }
+          }
+        },
+        "char_start": {
+          "type": "integer"
+        },
+        "char_end": {
+          "type": "integer"
+        },
+        "quote": {
+          "type": "string"
+        }
+      }
+    },
+    "UnitValue": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "value": {
+          "type": "number"
+        },
+        "unit": {
+          "type": "string"
+        },
+        "value_canonical": {
+          "type": "number"
+        },
+        "unit_canonical": {
+          "type": "string"
+        }
+      }
+    },
+    "Arm": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "arm_id",
+        "name"
+      ],
+      "properties": {
+        "arm_id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "group_type": {
+          "type": "string"
+        },
+        "n_randomized": {
+          "type": "integer"
+        },
+        "n_analyzed": {
+          "type": "integer"
+        },
+        "intervention_exposure": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "dose": {
+              "$ref": "#/$defs/UnitValue"
+            },
+            "route": {
+              "type": "string"
+            },
+            "schedule": {
+              "type": "string"
+            },
+            "duration_days": {
+              "type": "number"
+            }
+          }
+        },
+        "provenance": {
+          "$ref": "#/$defs/ProvenanceSpan"
+        }
+      }
+    },
+    "EffectEstimate": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "measure": {
+          "type": "string",
+          "enum": [
+            "RR",
+            "OR",
+            "MD",
+            "SMD",
+            "HR",
+            "AUC"
+          ]
+        },
+        "est": {
+          "type": "number"
+        },
+        "ci_lower": {
+          "type": "number"
+        },
+        "ci_upper": {
+          "type": "number"
+        },
+        "ci_level": {
+          "type": "number"
+        },
+        "se": {
+          "type": "number"
+        },
+        "p_value": {
+          "type": "number"
+        },
+        "adjusted": {
+          "type": "boolean"
+        },
+        "adjustment_vars": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "OutcomeNormalized": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "concept_id",
+        "name",
+        "type"
+      ],
+      "properties": {
+        "concept_id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "type": {
+          "type": "string",
+          "enum": [
+            "binary",
+            "continuous",
+            "time_to_event",
+            "diagnostic"
+          ]
+        },
+        "timepoint_iso8601": {
+          "type": "string"
+        },
+        "groups": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+              "arm_id": {
+                "type": "string"
+              },
+              "raw": {
+                "type": "object",
+                "additionalProperties": false,
+                "properties": {
+                  "events": {
+                    "type": "integer"
+                  },
+                  "total": {
+                    "type": "integer"
+                  },
+                  "mean": {
+                    "type": "number"
+                  },
+                  "sd": {
+                    "type": "number"
+                  },
+                  "n": {
+                    "type": "integer"
+                  },
+                  "tp": {
+                    "type": "integer"
+                  },
+                  "fp": {
+                    "type": "integer"
+                  },
+                  "tn": {
+                    "type": "integer"
+                  },
+                  "fn": {
+                    "type": "integer"
+                  }
+                }
+              },
+              "value": {
+                "type": "number"
+              },
+              "unit": {
+                "type": "string"
+              },
+              "analysis_population": {
+                "type": "string"
+              }
+            }
+          }
+        },
+        "comparison": {
+          "$ref": "#/$defs/EffectEstimate"
+        },
+        "provenance": {
+          "$ref": "#/$defs/ProvenanceSpan"
+        },
+        "confidence": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1
+        }
+      }
+    },
+    "TimeToEvent": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "arm_id": {
+          "type": "string"
+        },
+        "hazard_ratio": {
+          "$ref": "#/$defs/EffectEstimate"
+        },
+        "km_points": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+              "time": {
+                "type": "number"
+              },
+              "survival": {
+                "type": "number"
+              }
+            }
+          }
+        },
+        "censoring_description": {
+          "type": "string"
+        },
+        "provenance": {
+          "$ref": "#/$defs/ProvenanceSpan"
+        }
+      }
+    },
+    "DiagnosticAccuracy": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "index_test": {
+          "type": "string"
+        },
+        "reference_standard": {
+          "type": "string"
+        },
+        "threshold": {
+          "type": "string"
+        },
+        "per_lesion": {
+          "type": "boolean"
+        },
+        "reader_count": {
+          "type": "integer"
+        },
+        "tp": {
+          "type": "integer"
+        },
+        "fp": {
+          "type": "integer"
+        },
+        "tn": {
+          "type": "integer"
+        },
+        "fn": {
+          "type": "integer"
+        },
+        "sensitivity": {
+          "type": "number"
+        },
+        "specificity": {
+          "type": "number"
+        },
+        "auc": {
+          "type": "number"
+        },
+        "provenance": {
+          "$ref": "#/$defs/ProvenanceSpan"
+        }
+      }
+    },
+    "SafetyNorm": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "meddra": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "soc": {
+              "type": "string"
+            },
+            "hlt": {
+              "type": "string"
+            },
+            "pt": {
+              "type": "string"
+            },
+            "code": {
+              "type": "string"
+            }
+          }
+        },
+        "serious": {
+          "type": "boolean"
+        },
+        "groups": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+              "arm_id": {
+                "type": "string"
+              },
+              "events": {
+                "type": "integer"
+              },
+              "patients": {
+                "type": "integer"
+              },
+              "person_time": {
+                "type": "number"
+              }
+            }
+          }
+        },
+        "provenance": {
+          "$ref": "#/$defs/ProvenanceSpan"
+        }
+      }
+    },
+    "RiskOfBias": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "tool": {
+          "type": "string",
+          "enum": [
+            "RoB 2",
+            "ROBINS-I",
+            "QUADAS-2",
+            "Other"
+          ]
+        },
+        "domains": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "judgment": {
+                "type": "string",
+                "enum": [
+                  "low",
+                  "some concerns",
+                  "high",
+                  "critical"
+                ]
+              },
+              "support_for_judgment": {
+                "type": "string"
+              }
+            }
+          }
+        },
+        "provenance": {
+          "$ref": "#/$defs/ProvenanceSpan"
+        }
+      }
+    },
+    "GradeRating": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "outcome_concept_id": {
+          "type": "string"
+        },
+        "rating": {
+          "type": "string",
+          "enum": [
+            "high",
+            "moderate",
+            "low",
+            "very low"
+          ]
+        },
+        "reasons": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "provenance": {
+          "$ref": "#/$defs/ProvenanceSpan"
+        }
+      }
+    },
+    "Claim": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "statement": {
+          "type": "string"
+        },
+        "supporting_evidence": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/ProvenanceSpan"
+          }
+        },
+        "contradicting_evidence": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/ProvenanceSpan"
+          }
+        },
+        "overall_confidence": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1
+        },
+        "tags": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "Retrieval": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "keywords",
+        "summary_tldr",
+        "embedding_ref"
+      ],
+      "properties": {
+        "keywords": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "summary_tldr": {
+          "type": "string"
+        },
+        "faq_nuggets": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+              "question": {
+                "type": "string"
+              },
+              "answer": {
+                "type": "string"
+              },
+              "citations": {
+                "type": "array",
+                "items": {
+                  "$ref": "#/$defs/ProvenanceSpan"
+                }
+              }
+            }
+          }
+        },
+        "embedding_ref": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "vector_store": {
+              "type": "string"
+            },
+            "key": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "StructuredTable": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "table_id": {
+          "type": "string"
+        },
+        "table_number": {
+          "type": "string"
+        },
+        "table_type": {
+          "type": "string"
+        },
+        "title": {
+          "type": "string"
+        },
+        "caption": {
+          "type": "string"
+        },
+        "headers": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "column_headers": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "row_headers": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "units": {
+              "type": "object"
+            }
+          }
+        },
+        "data_rows": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+              "row_label": {
+                "type": "string"
+              },
+              "row_type": {
+                "type": "string"
+              },
+              "values": {
+                "type": "object"
+              },
+              "formatted_values": {
+                "type": "object"
+              },
+              "annotations": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        },
+        "statistical_annotations": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "p_values": {
+              "type": "object"
+            },
+            "confidence_intervals": {
+              "type": "object"
+            },
+            "test_used": {
+              "type": "string"
+            }
+          }
+        },
+        "page_number": {
+          "type": "integer"
+        },
+        "nlp_friendly_text": {
+          "type": "string"
+        },
+        "extracted_key_values": {
+          "type": "object"
+        },
+        "provenance": {
+          "$ref": "#/$defs/ProvenanceSpan"
+        }
+      }
+    },
+    "Figure": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "figure_id": {
+          "type": "string"
+        },
+        "figure_type": {
+          "type": "string"
+        },
+        "title": {
+          "type": "string"
+        },
+        "caption": {
+          "type": "string"
+        },
+        "key_findings": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "extracted_values": {
+          "type": "object"
+        },
+        "nlp_description": {
+          "type": "string"
+        },
+        "page_number": {
+          "type": "integer"
+        },
+        "provenance": {
+          "$ref": "#/$defs/ProvenanceSpan"
+        }
+      }
+    },
+    "ProcedureIP": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "procedure_type": {
+          "type": "string",
+          "enum": [
+            "EBUS-TBNA",
+            "r-EBUS",
+            "Robotic bronchoscopy",
+            "EMN",
+            "CBCT-guided",
+            "Cryobiopsy",
+            "Thermal ablation",
+            "Airway stent",
+            "Pleuroscopy",
+            "Other"
+          ]
+        },
+        "guidance": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "lesion": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "location_text": {
+              "type": "string"
+            },
+            "iaslc_station_code": {
+              "type": "string"
+            },
+            "size_mm": {
+              "type": "number"
+            },
+            "distance_to_pleura_mm": {
+              "type": "number"
+            },
+            "solid_component_percent": {
+              "type": "number"
+            },
+            "airway_generation": {
+              "type": "integer"
+            }
+          }
+        },
+        "sampling": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "tool": {
+              "type": "string"
+            },
+            "passes": {
+              "type": "integer"
+            },
+            "needle_gauge": {
+              "type": "string"
+            },
+            "on_site_eval": {
+              "type": "boolean"
+            }
+          }
+        },
+        "outcomes": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "diagnostic_yield_percent": {
+              "type": "number"
+            },
+            "specific_diagnosis_rate_percent": {
+              "type": "number"
+            },
+            "complications": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          }
+        },
+        "provenance": {
+          "$ref": "#/$defs/ProvenanceSpan"
+        }
+      }
+    },
+    "Atom": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "predicate": {
+          "type": "string"
+        },
+        "subject": {
+          "type": "string"
+        },
+        "object": {
+          "type": "string"
+        },
+        "codes": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/CodedTerm"
+          }
+        },
+        "value": {
+          "$ref": "#/$defs/UnitValue"
+        },
+        "provenance": {
+          "$ref": "#/$defs/ProvenanceSpan"
+        },
+        "confidence": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1
+        }
+      }
+    },
+    "Telemetry": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "extraction_method": {
+          "type": "string",
+          "enum": [
+            "OCR",
+            "layout_parse",
+            "LLM"
+          ]
+        },
+        "model_name": {
+          "type": "string"
+        },
+        "model_params": {
+          "type": "object"
+        },
+        "field_confidence": {
+          "type": "object"
+        },
+        "qc_flags": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  }
+}
+

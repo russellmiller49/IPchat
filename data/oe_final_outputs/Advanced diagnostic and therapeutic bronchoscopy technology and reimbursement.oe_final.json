@@ -1,0 +1,113 @@
+{
+  "source": {
+    "document_id": "Advanced diagnostic and therapeutic bronchoscopy technology and reimbursement",
+    "ingest_date": "2025-08-08T09:31:55.338901+00:00",
+    "trial_registration_id": null,
+    "pmid": null,
+    "doi": "10.1016/j.chest.2021.02.008"
+  },
+  "document": {
+    "metadata": {
+      "title": "Advanced Diagnostic and Therapeutic Bronchoscopy: Technology and Reimbursement",
+      "year": 2021,
+      "authors": [
+        "Neeraj R. Desai",
+        "Thomas R. Gildea",
+        "Edward Kessler",
+        "Neil Ninan",
+        "Kim D. French",
+        "Denise A. Merlino",
+        "Momen M. Wahidi",
+        "Kevin L. Kovitz"
+      ],
+      "journal": "CHEST",
+      "doi": "10.1016/j.chest.2021.02.008",
+      "pmid": null
+    },
+    "sections": {
+      "abstract": "Advanced interventional pulmonary procedures of the airways, pleural space, and mediastinum continue to evolve and be refined. Health care, finance, and clinical professionals are challenged by both the indications and related coding complexities. As the scope of interventional pulmonary procedures expands with advanced technique and medical innovation, program planning and ongoing collaboration among clinicians, finance executives, and reimbursement experts are key elements for success. We describe advanced bronchoscopic procedures, appropriate Current Procedural Terminology coding, valuations, and necessary modifiers to fill the knowledge gap between basic and advanced procedural coding. Our approach is to balance the description of procedures with the associated coding in a way that is of use to the proceduralist, the coding specialist, and other nonclinical professionals.",
+      "methods": "Narrative review and expert guidance describing advanced bronchoscopic diagnostic and therapeutic procedures, their indications, technique overviews, complication profiles as reported in the literature, and detailed CPT coding with associated wRVUs and modifier guidance, including NCCI edit considerations.",
+      "results": "The review summarizes technologies including convex EBUS-guided TBNA, RP-EBUS, ENB, electromagnetic navigation-guided TTNA, fiducial marker placement, dye marking, airway dilation, airway stenting, ablative techniques (laser, electrosurgery, argon plasma coagulation, cryotherapy), and photodynamic therapy. Reported diagnostic yields from cited studies include RP-EBUS 49%-69% and ENB 38.5% alone up to 70.6% combined with RP-EBUS. Reported complication rates include pneumothorax 3.1%-4.9% (about half requiring drainage) and bleeding 2.3% for ENB; for a 24-subject pilot of electromagnetic navigation-guided TTNA, diagnostic yield was 83% alone and 92% combined with ENB and convex EBUS, with pneumothorax 21% and 8% requiring drainage. Bronchoscopic fiducial placement had pneumothorax rates <5% vs 47% for transthoracic approaches. Detailed CPT code descriptors and wRVUs are provided for advanced diagnostic and therapeutic bronchoscopy, including add-on codes and modifier usage."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Patients undergoing advanced diagnostic or therapeutic bronchoscopy for benign and malignant thoracic conditions (eg, lung cancer, sarcoidosis, interstitial lung disease, emphysema, severe asthma, benign airway obstruction).",
+      "inclusion_criteria": [
+        "Clinical scenarios requiring advanced bronchoscopic diagnosis, palliation, or treatment",
+        "Airway-, pleural-, or mediastinal-targeted procedures"
+      ],
+      "exclusion_criteria": [
+        "Not applicable (narrative review; no study-level eligibility applied)"
+      ]
+    },
+    "intervention": {
+      "text": "Advanced diagnostic and therapeutic bronchoscopy",
+      "details": "Procedures include EBUS-guided TBNA, RP-EBUS, electromagnetic navigation bronchoscopy (ENB), navigation-guided TTNA, fiducial marker placement/dye marking, therapeutic aspiration, airway dilation, airway stenting (tracheal/bronchial), tumor excision, ablation (laser, cryotherapy, APC, electrosurgery), and photodynamic therapy."
+    },
+    "comparison": {
+      "text": "None",
+      "details": "Narrative review without a single comparator arm; summarizes literature and coding guidance."
+    },
+    "outcomes": [
+      {
+        "name": "Diagnostic yield of bronchoscopic technologies",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Procedure-related complications (eg, pneumothorax, bleeding)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Coding and reimbursement metrics (CPT descriptors and wRVUs)",
+        "type": "other",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "narrative review",
+    "allocation": "NA",
+    "blinding": "NA",
+    "sites_count": 0,
+    "countries": [
+      "US"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": []
+  },
+  "arms": [],
+  "outcomes_normalized": [],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "NA",
+    "overall_judgment": "NA",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "bronchoscopy",
+      "EBUS",
+      "RP-EBUS",
+      "ENB",
+      "transthoracic needle aspiration",
+      "fiducial markers",
+      "airway stent",
+      "argon plasma coagulation",
+      "laser",
+      "cryotherapy",
+      "photodynamic therapy",
+      "CPT coding",
+      "RVU",
+      "NCCI"
+    ],
+    "summary_tldr": "Narrative review detailing advanced bronchoscopic technologies with literature-based yields/complications and precise CPT coding/wRVU guidance for diagnostic and therapeutic procedures.",
+    "clinical_relevance": "Bridges clinical practice and reimbursement by aligning advanced bronchoscopy techniques with correct CPT codes, modifiers, and valuations to support program planning and compliant billing."
+  }
+}

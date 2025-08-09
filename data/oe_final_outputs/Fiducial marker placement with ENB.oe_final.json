@@ -1,0 +1,826 @@
+{
+  "source": {
+    "document_id": "Fiducial marker placement with ENB",
+    "ingest_date": "2025-08-08T12:09:57.207768+00:00",
+    "trial_registration_id": "NCT02410837",
+    "pmid": "",
+    "doi": "10.1177/1753466619841234"
+  },
+  "document": {
+    "metadata": {
+      "title": "Fiducial marker placement with electromagnetic navigation bronchoscopy: a subgroup analysis of the prospective, multicenter NAVIGATE study",
+      "year": 2019,
+      "authors": [
+        "Mark R. Bowling",
+        "Erik E. Folch",
+        "Sandeep J. Khandhar",
+        "Jordan Kazakov",
+        "William S. Krimsky",
+        "Gregory P. LeMense",
+        "Philip A. Linden",
+        "Boris A. Murillo",
+        "Michael A. Nead",
+        "Michael A. Pritchett",
+        "Catalina V. Teba",
+        "Christopher W. Towe",
+        "Terence Williams",
+        "Carlos J. Anciano"
+      ],
+      "journal": "Therapeutic Advances in Respiratory Disease",
+      "doi": "10.1177/1753466619841234",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Background: Fiducial markers (FMs) help direct stereotactic body radiation therapy (SBRT) and localization for surgical resection in lung cancer management. We report the safety, accuracy, and practice patterns of FM placement utilizing electromagnetic navigation bronchoscopy (ENB). Methods: NAVIGATE is a global, prospective, multicenter, observational cohort study of ENB using the superDimension navigation system. This prospectively collected subgroup analysis presents the patient demographics, procedural characteristics, and 1-month outcomes in patients undergoing ENB-guided FM placement. Follow up through 24 months is ongoing. Results: 258 patients from 21 centers in the United States were included. General anesthesia was used in 68.2%. Lesion location was confirmed by radial endobronchial ultrasound in 34.5% of procedures. The median ENB procedure time was 31.0 min. Concurrent lung lesion biopsy was conducted in 82.6% (213/258) of patients. A mean of 2.2 ± 1.7 FMs (median 1.0) were placed per patient and 99.2% were accurately positioned based on subjective operator assessment. Follow-up imaging showed that 94.1% (239/254) of markers remained in place. The procedure-related pneumothorax rate was 5.4% (14/258) overall and 3.1% (8/258) grade ≥ 2 based on the CTCAE scale. The procedure-related grade ≥ 4 respiratory failure rate was 1.6% (4/258). There were no bronchopulmonary hemorrhages. Conclusion: ENB is an accurate and versatile tool to place FMs for SBRT and localization for surgical resection with low complication rates. The ability to perform a biopsy safely in the same procedure can also increase efficiency. The impact of practice pattern variations on therapeutic effectiveness requires further study.",
+      "methods": "NAVIGATE (NCT02410837) is a global, prospective, multicenter, observational cohort study of ENB procedures using the superDimension navigation system. Adult patients undergoing elective ENB-guided FM placement were eligible. ENB-guided FM placement and subsequent SBRT were performed per manufacturer instructions and institutional practice; no protocol-mandated technique was imposed. Procedure-related pneumothorax, bronchopulmonary hemorrhage, and respiratory failure were defined per CTCAE and adjudicated by an independent medical monitor. Risk-based monitoring verified ≥20% of data against source. No sample size calculation was performed for this single-arm subgroup analysis. Descriptive statistics were produced using SAS 9.4.",
+      "results": "From 1 May 2015 to 31 August 2016, 258 patients at 21 U.S. centers underwent ENB-guided FM placement; 1-month follow-up was completed in 255/258 (99.8%). General anesthesia was used in 176/258 (68.2%); radial EBUS in 89/258 (34.5%). Median total procedure time was 57.0 min, with median ENB time 31.0 min. In 39 patients with FM placement alone, total and ENB times were 31.0 and 20.0 min, respectively. A total of 563 FMs were placed (mean 2.2 ± 1.7 per patient; median 1; range 1-12). SuperLock nitinol coil was used in 208/258 (80.6%). Operator-assessed accurate placement occurred in 256/258 (99.2%). Follow-up imaging occurred a mean 8.1 days postprocedure (median 0 days); 211/258 (81.8%) had same-day imaging. At follow-up imaging, 239/254 (94.1%) had markers present (4 lacked imaging). Pneumothorax occurred in 14/258 (5.4%) overall; grade ≥2 pneumothorax in 8/258 (3.1%). Respiratory failure occurred in 4/258 (1.6%) (all under general anesthesia): three grade 4 events (all recovered) and one grade 5 anesthesia-related death 9 days postprocedure. No bronchopulmonary hemorrhages were reported. By concomitant procedure: among 219 with additional ENB-guided procedures, pneumothorax all grades 14/219 (6.4%), grade ≥2 8/219 (3.7%), respiratory failure grade ≥4 3/219 (1.4%), deaths 0/219; among 39 with FM-only, pneumothorax 0/39 (0%), respiratory failure grade ≥4 1/39 (2.6%), deaths 1/39 (2.6%)."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults undergoing elective ENB-guided fiducial marker placement in the United States as part of the NAVIGATE study.",
+      "inclusion_criteria": [
+        "Adult patients",
+        "Elective ENB-guided fiducial marker placement planned"
+      ],
+      "exclusion_criteria": [
+        "Not specified beyond study eligibility for ENB procedure"
+      ]
+    },
+    "intervention": {
+      "text": "Electromagnetic navigation bronchoscopy (ENB)-guided fiducial marker placement",
+      "details": "superDimension navigation system-guided transbronchial placement of fiducial markers for SBRT and/or surgical localization; anesthesia per institutional practice (general anesthesia or moderate sedation); optional concomitant ENB-guided lung lesion biopsy, pleural dye marking, or lymph node sampling."
+    },
+    "comparison": {
+      "text": "None (single-arm observational subgroup)",
+      "details": "Descriptive analysis; subgroup comparison by concurrent procedures (FM-only vs FM plus additional ENB procedures) reported."
+    },
+    "outcomes": [
+      {
+        "name": "Procedure-related pneumothorax (any grade) within 1 month",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Procedure-related pneumothorax (CTCAE grade ≥2) within 1 month",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Respiratory failure (CTCAE grade ≥4) within 1 month",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "All-cause death within 1 month",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Bronchopulmonary hemorrhage (any grade) within 1 month",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Operator-assessed accurate fiducial placement at end of procedure",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Fiducial marker present on follow-up imaging",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Prospective observational cohort",
+    "allocation": "nonrandomized",
+    "blinding": "open-label",
+    "sites_count": 21,
+    "countries": [
+      "US"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 258,
+      "analyzed": 258
+    },
+    "analysis_populations": [
+      {
+        "name": "Safety set",
+        "description": "All patients undergoing ENB-guided fiducial placement with available 1-month follow-up for adverse events",
+        "n": 258
+      },
+      {
+        "name": "Imaging-evaluable",
+        "description": "Patients with follow-up imaging to assess fiducial presence",
+        "n": 254
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "overall",
+      "name": "All ENB-guided fiducial marker patients",
+      "n_randomized": 0,
+      "n_analyzed": 258,
+      "n_completed": 255
+    },
+    {
+      "arm_id": "combo",
+      "name": "ENB-guided fiducial placement plus other ENB procedures (biopsy and/or dye marking)",
+      "n_randomized": 0,
+      "n_analyzed": 219,
+      "n_completed": 219
+    },
+    {
+      "arm_id": "fm_only",
+      "name": "ENB-guided fiducial placement only",
+      "n_randomized": 0,
+      "n_analyzed": 39,
+      "n_completed": 39
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "pneumothorax_any_1m",
+      "name": "Procedure-related pneumothorax (any grade)",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P1M",
+      "timepoint_label": "1 month",
+      "groups": [
+        {
+          "arm_id": "overall",
+          "raw": {
+            "events": 14,
+            "total": 258
+          }
+        },
+        {
+          "arm_id": "combo",
+          "raw": {
+            "events": 14,
+            "total": 219
+          }
+        },
+        {
+          "arm_id": "fm_only",
+          "raw": {
+            "events": 0,
+            "total": 39
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "fm_only",
+        "measure": "risk_difference",
+        "est": 0.064,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Safety set",
+        "missing_handling": "Not applicable"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [
+          "Main text",
+          "Table 4"
+        ],
+        "quote": "Among all 258 patients..., any grade pneumothorax was observed in 5.4% (14/258)... Among the 219 patients who had ENB-guided lung lesion biopsy in addition to ENB-guided fiducial placement... All grades 6.4% (14/219); ... Patients with fiducial placement only (n = 39): All grades 0.0% (0/39)."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.849
+        },
+        "odds_ratio": {
+          "est": 0.84
+        },
+        "arr": -0.01,
+        "nnh": 103.5
+      }
+    },
+    {
+      "concept_id": "pneumothorax_ge2_1m",
+      "name": "Procedure-related pneumothorax (CTCAE grade ≥2)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P1M",
+      "timepoint_label": "1 month",
+      "groups": [
+        {
+          "arm_id": "overall",
+          "raw": {
+            "events": 8,
+            "total": 258
+          }
+        },
+        {
+          "arm_id": "combo",
+          "raw": {
+            "events": 8,
+            "total": 219
+          }
+        },
+        {
+          "arm_id": "fm_only",
+          "raw": {
+            "events": 0,
+            "total": 39
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "fm_only",
+        "measure": "risk_difference",
+        "est": 0.037,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Safety set",
+        "missing_handling": "Not applicable"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [
+          "Main text",
+          "Table 4"
+        ],
+        "quote": "Pneumothorax rated CTCAE grade ≥ 2 was observed in 3.1% (8/258). Table 4: CTCAE grade 2 or higher 3.7% (8/219) vs 0.0% (0/39)."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.849
+        },
+        "odds_ratio": {
+          "est": 0.844
+        },
+        "arr": -0.006,
+        "nnh": 181.1
+      }
+    },
+    {
+      "concept_id": "respiratory_failure_ge4_1m",
+      "name": "Respiratory failure (CTCAE grade ≥4)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P1M",
+      "timepoint_label": "1 month",
+      "groups": [
+        {
+          "arm_id": "overall",
+          "raw": {
+            "events": 4,
+            "total": 258
+          }
+        },
+        {
+          "arm_id": "combo",
+          "raw": {
+            "events": 3,
+            "total": 219
+          }
+        },
+        {
+          "arm_id": "fm_only",
+          "raw": {
+            "events": 1,
+            "total": 39
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "fm_only",
+        "measure": "risk_difference",
+        "est": -0.012,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Safety set",
+        "missing_handling": "Not applicable"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [
+          "Main text",
+          "Table 4"
+        ],
+        "quote": "Four respiratory failure events were observed (1.6%; 4/258)... Table 4: Respiratory failure, CTCAE grade 4 or higher 1.4% (3/219) vs 2.6% (1/39)."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 1.132
+        },
+        "odds_ratio": {
+          "est": 1.134
+        },
+        "arr": 0.002,
+        "nnt": 553.9
+      }
+    },
+    {
+      "concept_id": "death_allcause_1m",
+      "name": "All-cause death",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P1M",
+      "timepoint_label": "1 month",
+      "groups": [
+        {
+          "arm_id": "overall",
+          "raw": {
+            "events": 1,
+            "total": 258
+          }
+        },
+        {
+          "arm_id": "combo",
+          "raw": {
+            "events": 0,
+            "total": 219
+          }
+        },
+        {
+          "arm_id": "fm_only",
+          "raw": {
+            "events": 1,
+            "total": 39
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "combo",
+        "measure": "risk_difference",
+        "est": 0.026,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Safety set",
+        "missing_handling": "Not applicable"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [
+          "Main text",
+          "Table 4"
+        ],
+        "quote": "One grade 5 respiratory failure led to an anesthesia-related death, 9 days postprocedure... Table 4: Death 0.0% (0/219) vs 2.6% (1/39)."
+      },
+      "derived": {
+        "arr": 0.004,
+        "nnt": 258.0
+      }
+    },
+    {
+      "concept_id": "bronchopulmonary_hemorrhage_any_1m",
+      "name": "Bronchopulmonary hemorrhage (any grade)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P1M",
+      "timepoint_label": "1 month",
+      "groups": [
+        {
+          "arm_id": "overall",
+          "raw": {
+            "events": 0,
+            "total": 258
+          }
+        },
+        {
+          "arm_id": "combo",
+          "raw": {
+            "events": 0,
+            "total": 219
+          }
+        },
+        {
+          "arm_id": "fm_only",
+          "raw": {
+            "events": 0,
+            "total": 39
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "overall",
+        "measure": "risk_difference",
+        "est": 0,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Safety set",
+        "missing_handling": "Not applicable"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [
+          "Main text",
+          "Table 4"
+        ],
+        "quote": "There were no bronchopulmonary hemorrhages. Table 4: Bronchopulmonary hemorrhage, all grades 0.0% (0/219) vs 0.0% (0/39)."
+      },
+      "derived": {
+        "arr": 0.0
+      }
+    },
+    {
+      "concept_id": "fiducial_accurate_placement_endproc",
+      "name": "Operator-assessed accurate fiducial placement at end of procedure",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "End of procedure",
+      "groups": [
+        {
+          "arm_id": "overall",
+          "raw": {
+            "events": 256,
+            "total": 258
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "overall",
+        "measure": "proportion",
+        "est": 0.992,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All ENB FM patients",
+        "missing_handling": "Not applicable"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [
+          "Table 3"
+        ],
+        "quote": "Fiducial marker accurately placed (based on subjective operator assessment) 99.2% (256/258)."
+      }
+    },
+    {
+      "concept_id": "fiducial_present_followup_imaging",
+      "name": "Fiducial marker present on follow-up imaging",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P8D",
+      "timepoint_label": "Follow-up imaging (median 0 days; mean 8.1 days)",
+      "groups": [
+        {
+          "arm_id": "overall",
+          "raw": {
+            "events": 239,
+            "total": 254
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "overall",
+        "measure": "proportion",
+        "est": 0.941,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Imaging-evaluable",
+        "missing_handling": "Complete-case (4 patients without follow-up imaging excluded)"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [
+          "Table 3",
+          "Main text"
+        ],
+        "quote": "Based on follow-up imaging, 94.1% (239/254) of markers remained in place."
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Pneumothorax (all grades)",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Pneumothorax"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "overall",
+          "events": 14,
+          "patients": 14,
+          "percentage": 5.4,
+          "total": 258
+        },
+        {
+          "arm_id": "combo",
+          "events": 14,
+          "patients": 14,
+          "percentage": 6.4,
+          "total": 219
+        },
+        {
+          "arm_id": "fm_only",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 39
+        }
+      ],
+      "period": "0-30 days",
+      "management": "Not reported",
+      "provenance": {
+        "pages": [],
+        "tables": [
+          "Main text",
+          "Table 4"
+        ],
+        "quote": "Any grade pneumothorax was observed in 5.4% (14/258). Table 4: All grades 6.4% (14/219) vs 0.0% (0/39)."
+      }
+    },
+    {
+      "event_name": "Pneumothorax (CTCAE grade ≥2)",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Pneumothorax"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "hospitalization"
+      ],
+      "groups": [
+        {
+          "arm_id": "overall",
+          "events": 8,
+          "patients": 8,
+          "percentage": 3.1,
+          "total": 258
+        },
+        {
+          "arm_id": "combo",
+          "events": 8,
+          "patients": 8,
+          "percentage": 3.7,
+          "total": 219
+        },
+        {
+          "arm_id": "fm_only",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 39
+        }
+      ],
+      "period": "0-30 days",
+      "management": "Not reported",
+      "provenance": {
+        "pages": [],
+        "tables": [
+          "Main text",
+          "Table 4"
+        ],
+        "quote": "Pneumothorax rated CTCAE grade ≥ 2 was observed in 3.1% (8/258)... Table 4: 3.7% (8/219) vs 0.0% (0/39)."
+      }
+    },
+    {
+      "event_name": "Respiratory failure",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Respiratory failure"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "life-threatening",
+        "hospitalization"
+      ],
+      "groups": [
+        {
+          "arm_id": "overall",
+          "events": 4,
+          "patients": 4,
+          "percentage": 1.6,
+          "total": 258
+        },
+        {
+          "arm_id": "combo",
+          "events": 3,
+          "patients": 3,
+          "percentage": 1.4,
+          "total": 219
+        },
+        {
+          "arm_id": "fm_only",
+          "events": 1,
+          "patients": 1,
+          "percentage": 2.6,
+          "total": 39
+        }
+      ],
+      "period": "0-30 days",
+      "management": "Reintubation and subsequent extubation in 3 patients; 1 anesthesia-related fatal event",
+      "provenance": {
+        "pages": [],
+        "tables": [
+          "Main text",
+          "Table 4"
+        ],
+        "quote": "Four respiratory failure events were observed (1.6%; 4/258)... The other three respiratory failures were all grade 4... all three patients were reintubated and successfully extubated."
+      }
+    },
+    {
+      "event_name": "Pulmonary haemorrhage",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Pulmonary haemorrhage"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "overall",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 258
+        },
+        {
+          "arm_id": "combo",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 219
+        },
+        {
+          "arm_id": "fm_only",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 39
+        }
+      ],
+      "period": "0-30 days",
+      "management": "Not reported",
+      "provenance": {
+        "pages": [],
+        "tables": [
+          "Main text",
+          "Table 4"
+        ],
+        "quote": "There were no bronchopulmonary hemorrhages."
+      }
+    },
+    {
+      "event_name": "Death",
+      "meddra": {
+        "soc": "General disorders and administration site conditions",
+        "pt": "Death"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "death"
+      ],
+      "groups": [
+        {
+          "arm_id": "overall",
+          "events": 1,
+          "patients": 1,
+          "percentage": 0.4,
+          "total": 258
+        },
+        {
+          "arm_id": "combo",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 219
+        },
+        {
+          "arm_id": "fm_only",
+          "events": 1,
+          "patients": 1,
+          "percentage": 2.6,
+          "total": 39
+        }
+      ],
+      "period": "0-30 days",
+      "management": "Not applicable",
+      "provenance": {
+        "pages": [],
+        "tables": [
+          "Main text",
+          "Table 4"
+        ],
+        "quote": "One grade 5 respiratory failure led to an anesthesia-related death, 9 days postprocedure... Table 4: Death ... 0.0% (0/219) vs 2.6% (1/39)."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "ROBINS-I",
+    "overall_judgment": "serious",
+    "domains": [
+      {
+        "name": "Confounding",
+        "judgment": "serious",
+        "support_for_judgment": "Single-arm observational subgroup with non-random allocation; concurrent procedures varied (biopsy/dye marking) and anesthesia type differed."
+      },
+      {
+        "name": "Selection of participants",
+        "judgment": "moderate",
+        "support_for_judgment": "Adults undergoing elective ENB-guided FM placement; inclusion largely at clinician discretion."
+      },
+      {
+        "name": "Classification of interventions",
+        "judgment": "low",
+        "support_for_judgment": "Intervention (ENB-guided FM placement) clearly defined and executed per institutional practice."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "low",
+        "support_for_judgment": "Observational design; procedures followed usual care."
+      },
+      {
+        "name": "Missing data",
+        "judgment": "low",
+        "support_for_judgment": "1-month follow-up completed in 255/258 (99.8%); imaging available in 254."
+      },
+      {
+        "name": "Measurement of outcomes",
+        "judgment": "moderate",
+        "support_for_judgment": "Safety outcomes adjudicated by independent monitor; accuracy outcome based on subjective operator assessment."
+      },
+      {
+        "name": "Selection of reported result",
+        "judgment": "low",
+        "support_for_judgment": "Outcomes prespecified in protocol (FM placement accuracy as secondary; safety endpoints defined)."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "electromagnetic navigation bronchoscopy",
+      "fiducial marker",
+      "SBRT",
+      "lung cancer",
+      "bronchoscopy",
+      "NAVIGATE study"
+    ],
+    "summary_tldr": "In 258 U.S. patients, ENB-guided fiducial placement had low complication rates (pneumothorax 14/258; grade ≥2 8/258), high operator-assessed placement accuracy (256/258), and 239/254 had markers present on follow-up imaging.",
+    "clinical_relevance": "Supports ENB-guided fiducial placement as a safe, accurate method for SBRT targeting and surgical localization, often combined with same-session biopsy."
+  }
+}

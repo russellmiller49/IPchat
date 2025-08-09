@@ -1,0 +1,491 @@
+{
+  "source": {
+    "document_id": "Unimodality and Multimodality Cryodebridement",
+    "ingest_date": "2025-08-08T16:40:43.522958+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1513/AnnalsATS.201508-486OC"
+  },
+  "document": {
+    "metadata": {
+      "title": "Unimodality and Multimodality Cryodebridement for Airway Obstruction: A Single-Center Experience with Safety and Efficacy",
+      "year": 2016,
+      "authors": [
+        "Hanine Inaty",
+        "Erik Folch",
+        "Robert Berger",
+        "Sebastian Fernandez-Bussy",
+        "Sumit Chatterji",
+        "Daniel Alape",
+        "Adnan Majid"
+      ],
+      "journal": "Annals of the American Thoracic Society",
+      "doi": "10.1513/AnnalsATS.201508-486OC",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Rationale: Cryodebridement (CD) refers to the removal of obstructive material from the lumen of the tracheobronchial tree by freezing with a cryoprobe, which is usually inserted through a flexible bronchoscope. This method of achieving instant recanalization of airways has been established for over 20 years, but published experience comprises limited case series. Objectives: This study describes a single large-volume referral center experience, including clinical outcomes and safety profile. Methods: Electronic medical records of 156 patients who underwent bronchoscopic CD between December 2007 and March 2012 as the primary method to relieve airway obstruction were reviewed retrospectively. Measurements and Main Results: The most frequent cause of airway obstruction was malignancy (n = 88), with non-small-cell lung cancer and metastatic renal cell carcinoma being the most common etiologies. The site of obstruction was localized to the central airways in 63 patients (40%) and the distal airways in 44 patients (28%), and it was diffuse in 49 patients (32%). Bronchoscopic airway patency was achieved in 95% of patients, with the highest success rates found in those with obstruction localized in the central airways. Improvement in symptoms occurred in 118 (82%) of 144 symptomatic patients. Serious complications were reported in 17 patients (11%) and included respiratory distress, severe bleeding, airway injury, and hemodynamic instability. All patients responded to treatment, and no intra- or postoperative deaths were reported. Conclusions: CD, when used alone or in combination with other endoscopic treatment modalities, appears to be safe and effective in treating endoluminal airway obstruction.",
+      "methods": "Retrospective single-center review of electronic medical records for all patients who underwent bronchoscopic cryodebridement (CD) as the primary endoscopic method to relieve airway obstruction between December 2007 and March 2012 at Beth Israel Deaconess Medical Center. Both malignant and benign etiologies were included. Patients receiving complementary modalities (mechanical debridement with forceps, argon plasma coagulation [APC], electrocautery, balloon dilation, stent placement, photodynamic therapy debridement) were included. Clinically significant obstruction was defined as estimated airway diameter <50%. Obstruction location classified as central (trachea, mainstem bronchi, bronchus intermedius), distal (lobar/segmental), or diffuse (both). Lesions classified as endobronchial or mixed. Procedures performed under total intravenous anesthesia with rigid bronchoscopy and jet ventilation; therapeutic flexible bronchoscope used for inspection and CD. A 2.4-mm flexible cryoprobe cooled by nitrous oxide to approximately -89°C was applied to target tissue for 5-15 seconds and removed en bloc with the bronchoscope; tissue detached after thawing. Hemostasis achieved with APC/electrocautery as needed. Success defined bronchoscopically as complete (no residual stenosis) or partial (scope traversal and distal visualization); failure if scope could not traverse stenosis. Post-intervention chest CT within 8 weeks assessed radiologic improvement (increased airway diameter and lung expansion). Major complications defined as respiratory failure requiring endotracheal intubation (ETI) or noninvasive ventilation (NIV), severe bleeding, pneumothorax, hemodynamic instability, airway perforation, and death during/within 30 days.",
+      "results": "A total of 156 patients (mean age 63 years; range 21-88; 1:1 male:female) underwent CD. Most were symptomatic at presentation (144/156, 92%); 31 (20%) were initially admitted to ICU. Obstruction location: central 63 (40%), distal 44 (28%), diffuse 49 (32%). Lesion type: endobronchial 66 (42%), mixed 90 (58%). Etiology: malignant 88 (56%)—with non-small-cell lung cancer 49 (31%), renal cell carcinoma 19 (12%)—and benign 68 (44%), with granulation tissue 40 (26%) the most common benign cause. Airway patency (complete or partial) was achieved in 148/156 (95%) overall. By location: central complete 52/63 (83%), partial 10/63 (16%), none 1/63 (2%); distal complete 24/44 (55%), partial 16/44 (36%), none 4/44 (9%); diffuse complete 19/49 (39%), partial 27/49 (55%), none 3/49 (6%). Symptom improvement occurred in 118/144 (82%) symptomatic patients. Second bronchoscopy within 4 weeks was performed in 35/156 (22%); partial-to-complete patency achieved in 32/35 (91%) after the second procedure; 2 additional patients improved after a third procedure within 4 weeks. Removal of foreign bodies, mucus plugs, and blood clots was successful in 100% after the first bronchoscopy. Median procedure duration 63 minutes (SD 35; range 11-225). Concomitant procedures: forceps debridement 79 (51%), electrocautery 47 (30%), APC 27 (17%), balloon dilation 39 (25%), stent placement 19 (12%), photodynamic therapy 9 (6%). CD alone was used in 42 (27%). Radiologic improvement on CT within 8 weeks noted in 41/70 (59%) who had follow-up imaging. Complications: moderate bleeding in 6 patients, a partial mucosal tear in 1 patient (no repair required), respiratory distress requiring ETI in 7 patients, NIV used in 2 patients. No pneumothorax or pneumomediastinum. All patients recovered; no procedure-related deaths. Overall, serious complications occurred in 17 patients (11%)."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Patients with clinically significant tracheobronchial airway obstruction undergoing bronchoscopic cryodebridement at a single tertiary referral center.",
+      "inclusion_criteria": [
+        "Underwent bronchoscopic cryodebridement as the primary endoscopic method to relieve airway obstruction",
+        "Malignant or benign etiologies of airway obstruction",
+        "Airway diameter estimated <50% (clinically significant obstruction)",
+        "Obstruction located in central, distal, or both (diffuse) airways"
+      ],
+      "exclusion_criteria": [
+        "Not explicitly stated"
+      ]
+    },
+    "intervention": {
+      "text": "Bronchoscopic cryodebridement (CD)",
+      "details": "Rigid bronchoscopy under general anesthesia with jet ventilation; therapeutic flexible bronchoscope used. A 2.4-mm flexible cryoprobe cooled by nitrous oxide to approximately -89°C applied to target tissue for 5-15 seconds with en bloc removal; adjunct hemostasis with APC or electrocautery; balloon dilation or stent placement in selected mixed lesions; CD used 48-72 hours post photodynamic therapy to remove necrotic debris when applicable."
+    },
+    "comparison": {
+      "text": "None (single-arm retrospective cohort)",
+      "details": "No randomized or contemporaneous control group."
+    },
+    "outcomes": [
+      {
+        "name": "Bronchoscopic airway patency (complete or partial) immediately post-procedure",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Symptomatic improvement among symptomatic patients",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Radiologic improvement on chest CT within 8 weeks",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Serious complications within 30 days",
+        "type": "safety",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Retrospective single-center observational cohort",
+    "allocation": "non-randomized",
+    "blinding": "none",
+    "sites_count": 1,
+    "countries": [
+      "US"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 156,
+      "analyzed": 156
+    },
+    "analysis_populations": [
+      {
+        "name": "All treated",
+        "description": "All patients who underwent cryodebridement",
+        "n": 156
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "cohort",
+      "name": "Cryodebridement cohort",
+      "n_randomized": 0,
+      "n_analyzed": 156,
+      "n_completed": 156
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "airway_patency_immediate",
+      "name": "Airway patency (complete or partial) immediately post-procedure",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "PT0H",
+      "timepoint_label": "Immediate post-procedure",
+      "groups": [
+        {
+          "arm_id": "cohort",
+          "raw": {
+            "events": 148,
+            "total": 156
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          859
+        ],
+        "tables": [
+          "Table 1"
+        ],
+        "quote": "In 148 (95%) of our patients, airway patency was either complete or partial."
+      }
+    },
+    {
+      "concept_id": "symptom_improvement_overall",
+      "name": "Symptomatic improvement among symptomatic patients",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "PT0H",
+      "timepoint_label": "Post-procedure (timing per chart review)",
+      "groups": [
+        {
+          "arm_id": "cohort",
+          "raw": {
+            "events": 118,
+            "total": 144
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Symptomatic at presentation",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          856
+        ],
+        "tables": [],
+        "quote": "Improvement in symptoms occurred in 118 (82%) of 144 symptomatic patients."
+      }
+    },
+    {
+      "concept_id": "ct_radiologic_improvement_8w",
+      "name": "Radiologic improvement on chest CT within 8 weeks",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P8W",
+      "timepoint_label": "Within 8 weeks",
+      "groups": [
+        {
+          "arm_id": "cohort",
+          "raw": {
+            "events": 41,
+            "total": 70
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Patients with follow-up CT",
+        "missing_handling": "Only patients with imaging included"
+      },
+      "provenance": {
+        "pages": [
+          858
+        ],
+        "tables": [],
+        "quote": "Radiologic improvement ... was noted at follow-up in 41 (59%) of the 70 patients who had CT scans of the chest within 8 weeks of CD."
+      }
+    },
+    {
+      "concept_id": "repeat_bronchoscopy_4w",
+      "name": "Second bronchoscopy within 4 weeks due to partial/no symptomatic response",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P4W",
+      "timepoint_label": "Within 4 weeks",
+      "groups": [
+        {
+          "arm_id": "cohort",
+          "raw": {
+            "events": 35,
+            "total": 156
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          858
+        ],
+        "tables": [],
+        "quote": "a second bronchoscopy was performed within 4 weeks of the first procedure in 35 patients (22%)."
+      }
+    },
+    {
+      "concept_id": "any_serious_complication_30d",
+      "name": "Any serious complication within 30 days",
+      "type": "binary",
+      "outcome_type": "safety",
+      "timepoint_iso8601": "P30D",
+      "timepoint_label": "During procedure or within 30 days",
+      "groups": [
+        {
+          "arm_id": "cohort",
+          "raw": {
+            "events": 17,
+            "total": 156
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          856,
+          858
+        ],
+        "tables": [
+          "Table 5"
+        ],
+        "quote": "Serious complications were reported in 17 patients (11%) and included respiratory distress, severe bleeding, airway injury, and hemodynamic instability."
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Respiratory failure requiring endotracheal intubation",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Respiratory failure"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "hospitalization"
+      ],
+      "groups": [
+        {
+          "arm_id": "cohort",
+          "events": 7,
+          "patients": 7,
+          "percentage": 4.5,
+          "total": 156
+        }
+      ],
+      "period": "During procedure or within 30 days",
+      "management": "Endotracheal intubation; 3 extubated within 24 hours, 2 after 3 days, 1 after 9 days",
+      "provenance": {
+        "pages": [
+          858
+        ],
+        "tables": [],
+        "quote": "Respiratory distress requiring ventilatory support with ETI was noted in seven patients."
+      }
+    },
+    {
+      "event_name": "Respiratory failure requiring noninvasive ventilation",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Respiratory failure"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "hospitalization"
+      ],
+      "groups": [
+        {
+          "arm_id": "cohort",
+          "events": 2,
+          "patients": 2,
+          "percentage": 1.3,
+          "total": 156
+        }
+      ],
+      "period": "During procedure or within 30 days",
+      "management": "Noninvasive ventilation; all patients recovered",
+      "provenance": {
+        "pages": [
+          858
+        ],
+        "tables": [],
+        "quote": "NIV was used in two patients. All patients recovered."
+      }
+    },
+    {
+      "event_name": "Airway haemorrhage (moderate)",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Airway haemorrhage"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "cohort",
+          "events": 6,
+          "patients": 6,
+          "percentage": 3.8,
+          "total": 156
+        }
+      ],
+      "period": "Intra-procedural",
+      "management": "Controlled with iced saline, APC, and electrocautery",
+      "provenance": {
+        "pages": [
+          858
+        ],
+        "tables": [],
+        "quote": "Moderate bleeding in six patients was controlled with iced saline, APC, and electrocautery."
+      }
+    },
+    {
+      "event_name": "Airway injury (mucosal tear)",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Airway injury"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "cohort",
+          "events": 1,
+          "patients": 1,
+          "percentage": 0.6,
+          "total": 156
+        }
+      ],
+      "period": "Intra-procedural",
+      "management": "Did not require repair",
+      "provenance": {
+        "pages": [
+          858
+        ],
+        "tables": [],
+        "quote": "A partial mucosal tear in one patient did not require repair."
+      }
+    },
+    {
+      "event_name": "Pneumothorax",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Pneumothorax"
+      },
+      "serious": true,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "cohort",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 156
+        }
+      ],
+      "period": "During procedure or within 30 days",
+      "management": "",
+      "provenance": {
+        "pages": [
+          858
+        ],
+        "tables": [],
+        "quote": "There were no cases of pneumothorax or pneumomediastinum."
+      }
+    },
+    {
+      "event_name": "Death",
+      "meddra": {
+        "soc": "General disorders and administration site conditions",
+        "pt": "Death"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "death"
+      ],
+      "groups": [
+        {
+          "arm_id": "cohort",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 156
+        }
+      ],
+      "period": "Intra- or postoperative (within 30 days)",
+      "management": "",
+      "provenance": {
+        "pages": [
+          856,
+          858
+        ],
+        "tables": [],
+        "quote": "No intra- or postoperative deaths were reported."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "ROBINS-I",
+    "overall_judgment": "serious",
+    "domains": [
+      {
+        "name": "Confounding",
+        "judgment": "serious",
+        "support_for_judgment": "Retrospective single-arm design without control; potential for selection and confounding by indication."
+      },
+      {
+        "name": "Selection of participants",
+        "judgment": "moderate",
+        "support_for_judgment": "Included all patients undergoing CD at a single center during the time period."
+      },
+      {
+        "name": "Classification of interventions",
+        "judgment": "low",
+        "support_for_judgment": "Intervention clearly defined as cryodebridement with protocolized approach."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "moderate",
+        "support_for_judgment": "Frequent concomitant procedures (forceps, APC, electrocautery, balloon dilation, stenting) may influence outcomes."
+      },
+      {
+        "name": "Missing data",
+        "judgment": "moderate",
+        "support_for_judgment": "Outcomes like radiologic improvement assessed in a subset (70/156)."
+      },
+      {
+        "name": "Measurement of outcomes",
+        "judgment": "moderate",
+        "support_for_judgment": "Symptom improvement and radiologic improvement based on clinical judgment; potential for measurement bias."
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "low",
+        "support_for_judgment": "Outcomes appear prespecified within the retrospective review; comprehensive reporting."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "cryodebridement",
+      "cryotherapy",
+      "airway obstruction",
+      "bronchoscopy",
+      "interventional pulmonology"
+    ],
+    "summary_tldr": "In a retrospective single-center cohort of 156 patients with malignant and benign airway obstruction, cryodebridement achieved bronchoscopic patency in 148/156 (95%), improved symptoms in 118/144 (82%), with serious complications in 17/156 (11%) and no procedure-related deaths.",
+    "clinical_relevance": "Supports cryodebridement as a safe, effective modality—alone or multimodality—for rapid airway recanalization, including in high FiO2 settings."
+  }
+}

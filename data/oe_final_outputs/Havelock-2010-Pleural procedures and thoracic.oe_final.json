@@ -1,0 +1,187 @@
+{
+  "source": {
+    "document_id": "Havelock-2010-Pleural procedures and thoracic",
+    "ingest_date": "2025-08-08T13:05:21.242438+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1136/thx.2010.137026"
+  },
+  "document": {
+    "metadata": {
+      "title": "Pleural procedures and thoracic ultrasound: British Thoracic Society pleural disease guideline 2010",
+      "year": 2010,
+      "authors": [
+        "Tom Havelock",
+        "Richard Teoh",
+        "Diane Laws",
+        "Fergus Gleeson"
+      ],
+      "journal": "Thorax",
+      "doi": "10.1136/thx.2010.137026",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Pleural aspiration (thoracocentesis) and chest drain insertion are common hospital procedures with potential for serious complications. This British Thoracic Society guideline updates prior recommendations, incorporating the UK National Patient Safety Agency 2008 report, and provides practical guidance on training, asepsis, pre-procedure preparation, use of thoracic ultrasound, and safe technique. Evidence indicates that increased operator experience and ultrasound guidance reduce complications such as pneumothorax, dry taps, and inadvertent organ puncture. Recommendations cover when to perform procedures (avoiding out-of-hours unless emergent), anticoagulation thresholds (INR <1.5 for non-urgent procedures), and strong endorsement of real-time thoracic ultrasound for pleural fluid procedures.",
+      "methods": "Guideline based on review of observational studies and randomized evidence where available, with recommendations graded by strength of evidence (e.g., U, B, C). A fixed-effects meta-analysis of complication frequencies by operator experience and image guidance was conducted and summarized (Table 1; calculations and references in online appendix). Key comparative studies included one randomized controlled trial (n=52) and multiple retrospective cohorts assessing ultrasound-guided versus clinically localized (blind) pleural aspiration.",
+      "results": "Ultrasound guidance reduced failure and complication rates versus blind techniques. In an RCT (n=52), the failure rate (dry tap or pneumothorax) was 33% with blind aspiration and 0% with ultrasound guidance. Retrospective cohorts reported lower pneumothorax with ultrasound (e.g., 18% vs 3% and 10.3% vs 4.9%, with fewer requiring drains). Clinicians accurately identified safe sites clinically in only a proportion of cases; ultrasound increased accurate site selection and avoided potential organ puncture. Among patients with unilateral ‘white-out’ on chest x-ray, 9 of 50 had no pleural effusion on ultrasound, preventing unnecessary procedures. After failed clinical attempts, ultrasound-guided aspiration succeeded in 15 of 17 cases."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults requiring pleural procedures (pleural aspiration or chest drain insertion) for pneumothorax or pleural effusion in hospital settings.",
+      "inclusion_criteria": [
+        "Patients with pneumothorax requiring aspiration or drainage",
+        "Patients with pleural effusion (malignant, parapneumonic/empyema, other) requiring diagnostic or therapeutic aspiration",
+        "Patients with unilateral opaque hemithorax (white-out) being evaluated for pleural fluid"
+      ],
+      "exclusion_criteria": [
+        "Emergent tension pneumothorax scenarios where imaging may not precede decompression",
+        "Uncorrected significant coagulopathy (for non-urgent procedures) with INR >=1.5"
+      ]
+    },
+    "intervention": {
+      "text": "Thoracic ultrasound-guided pleural procedures",
+      "details": "Real-time thoracic ultrasound by trained operators to select the insertion site and guide pleural aspiration or chest drain placement for pleural fluid."
+    },
+    "comparison": {
+      "text": "Clinically localized (blind) pleural aspiration",
+      "details": "Site selection based on clinical examination and chest radiograph without real-time ultrasound; includes prior remote skin marking without concurrent ultrasound (X marks the spot)."
+    },
+    "outcomes": [
+      {
+        "name": "Post-procedure pneumothorax",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Procedure failure (dry tap and/or pneumothorax)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Requirement for chest drain post-aspiration",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Avoidance of unnecessary aspiration in unilateral white-out",
+        "type": "other",
+        "umls_cui": ""
+      },
+      {
+        "name": "Success of ultrasound-guided aspiration after failed clinical attempt",
+        "type": "other",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Guideline",
+    "allocation": "NA",
+    "blinding": "NA",
+    "sites_count": 0,
+    "countries": [
+      "UK"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": []
+  },
+  "arms": [
+    {
+      "arm_id": "whiteout_cohort",
+      "name": "Patients with unilateral opaque hemithorax (prospective cohort)",
+      "n_randomized": 0,
+      "n_analyzed": 50,
+      "n_completed": 50
+    },
+    {
+      "arm_id": "failed_clinical_cohort",
+      "name": "Patients with prior failed clinically guided aspiration (observational cohort)",
+      "n_randomized": 0,
+      "n_analyzed": 17,
+      "n_completed": 17
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "no_effusion_on_ultrasound_whiteout",
+      "name": "Absence of pleural effusion on ultrasound among patients with unilateral opaque hemithorax",
+      "type": "binary",
+      "outcome_type": "other",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Index assessment",
+      "groups": [
+        {
+          "arm_id": "whiteout_cohort",
+          "raw": {
+            "events": 9,
+            "total": 50
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Descriptive proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Prospective cohort of patients with unilateral white-out on chest x-ray",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "In a prospective study of 50 patients, nine had no pleural effusion present on thoracic ultrasound thereby avoiding inappropriate pleural aspiration and potential procedure-related injury."
+      }
+    },
+    {
+      "concept_id": "ultrasound_guided_success_after_failed_clinical",
+      "name": "Success of ultrasound-guided pleural aspiration after failed clinically guided procedure",
+      "type": "binary",
+      "outcome_type": "other",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Immediate post-failure attempt",
+      "groups": [
+        {
+          "arm_id": "failed_clinical_cohort",
+          "raw": {
+            "events": 15,
+            "total": 17
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Descriptive proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Patients with prior failed clinically guided pleural aspiration",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "Ultrasound-guided pleural aspiration was subsequently successful in 15 of the 17 patients in whom it was attempted."
+      }
+    }
+  ],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "AGREE II",
+    "overall_judgment": "not_assessed",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "pleural aspiration",
+      "thoracic ultrasound",
+      "chest drain",
+      "pneumothorax",
+      "pleural effusion",
+      "guideline"
+    ],
+    "summary_tldr": "BTS 2010 guideline strongly recommends real-time thoracic ultrasound for pleural fluid procedures, reducing failures and complications versus blind techniques.",
+    "clinical_relevance": "Supports safer pleural procedures by emphasizing training, aseptic technique, INR thresholds, and routine ultrasound guidance."
+  }
+}

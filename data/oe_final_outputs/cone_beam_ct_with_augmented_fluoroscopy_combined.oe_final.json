@@ -1,0 +1,394 @@
+{
+  "source": {
+    "document_id": "cone_beam_ct_with_augmented_fluoroscopy_combined",
+    "ingest_date": "2025-08-08T11:18:40.891965+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1097/LBR.0000000000000536"
+  },
+  "document": {
+    "metadata": {
+      "title": "Cone-Beam CT With Augmented Fluoroscopy Combined With Electromagnetic Navigation Bronchoscopy for Biopsy of Pulmonary Nodules",
+      "year": 2018,
+      "authors": [
+        "Michael A. Pritchett",
+        "Stéphanie Schampaert",
+        "Joris A.H. de Groot",
+        "Charles C. Schirmer",
+        "Imramsjah van der Bom"
+      ],
+      "journal": "Journal of Bronchology & Interventional Pulmonology",
+      "doi": "10.1097/LBR.0000000000000536",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Background: Electromagnetic navigation bronchoscopy (ENB) has been widely adopted as a guidance technique for biopsy of peripheral lung nodules, but is limited by lack of real-time confirmation of biopsy devices. Intraprocedural cone-beam computed tomography (CBCT) with augmented fluoroscopy (AF) can assess or confirm device location. Objective: Determine safety and diagnostic yield (DY) of CBCT with AF during ENB-guided biopsy of peripheral lung nodules. Methods: Retrospective, single-center series of 75 consecutive patients undergoing ENB-guided biopsy with intraprocedural CBCT and AF; 3D segmentation (OncoSuite) was fused with live fluoroscopy for real-time guidance. Results: Ninety-three lesions (median 16.0 mm) were biopsied. Overall DY by lesion was 83.7% (95% CI, 74.8%-89.9%). Multivariate regression found no independent correlation of DY with lesion size, location, standard fluoroscopic visibility, or bronchus sign. Pneumothorax occurred in 3/75 patients (4%), with chest tubes in 2. Conclusion: ENB with CBCT-AF is feasible and effective, achieving high DY with low complication rates.",
+      "methods": "Single-center retrospective study of 75 consecutive patients (September 2016-May 2017) undergoing ENB-guided biopsy in a hybrid OR with a C-arm CBCT system (Allura Xper FD20; Philips). After intubation under general anesthesia, an 8-second CBCT scan was acquired and lung nodules were segmented using OncoSuite. During ENB, segmented lesions were overlaid on live fluoroscopy (augmented fluoroscopy) to guide catheter positioning; geometric correspondence was maintained during C-arm/table/zoom changes. Additional CBCT scans were performed as needed. Radial EBUS was not used. Tissue sampling employed multimodality tools (cytology brush, 21/19G fine needle aspiration, forceps, GenCut, triple needle brush, BAL). Rapid on-site evaluation was used for all procedures. Primary outcome was diagnostic yield (specific malignant or benign diagnosis counted as diagnostic; nonspecific findings counted as indeterminate). Indeterminate cases were followed to classify true negatives and false negatives for sensitivity analysis. Multivariate regression assessed independent correlation of lesion size, location, fluoroscopic visibility, and bronchus sign with DY; significance threshold p<0.05. Radiation dose was estimated in a subset using dose-area product conversion (0.16 mSv/Gy·cm2). Analyses used R 2.15.0.",
+      "results": "Ninety-three lesions in 75 patients were biopsied; 1 patient was lost to follow-up (excluded from performance analysis). Median lesion size was 16.0 mm (range 7-55). Most lesions were in the middle or peripheral third (94.6%). Bronchus sign on CT was present in 39%; 49% were visible on standard fluoroscopy. Mean fluoroscopy time was 6.2±2.6 minutes. Proven malignancy rate was 68.5% (63/92 lesions analyzed), with primary lung cancer in 53/92 lesions (stages I 35, II 2, III 4, IV 12); metastases 9 and lymphoma 1. Pneumothorax occurred in 3/75 patients (4%), with chest tube in 2; no significant hemorrhage or respiratory failure. Diagnostic yield by lesion was 83.7% (77/92; 95% CI, 74.8%-89.9%). Diagnostic accuracy was 93.5% (86/92; includes 9 indeterminate lesions later confirmed benign). Sensitivity for malignancy ranged from 91.3% (TP 63, FN 6) assuming 3 incomplete follow-ups were FN to 95.5% (TP 63, FN 3) assuming they were TN; prevalence of malignancy 71.7% to 75.0% under these assumptions. Multivariate regression showed no independent correlation of DY with lesion size, location, fluoroscopic visibility, or bronchus sign. In 9 patients, dose-area product was 31±16 Gy·cm2; estimated effective dose was 1.5±0.7 mSv (fluoroscopy) and 3.0±1.4 mSv (exposures), averaging 2.0 mSv per CBCT run with 1.5 runs per case."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults undergoing ENB-guided biopsy of peripheral pulmonary nodules in a hybrid operating room.",
+      "inclusion_criteria": [
+        "Consecutive patients scheduled for ENB-guided biopsy",
+        "Peripheral lung nodules surrounded by aerated lung",
+        "Lesions beyond the segmental bronchus (transbronchial biopsy required)"
+      ],
+      "exclusion_criteria": [
+        "Endobronchially visible lesions",
+        "Insufficient follow-up for performance analysis (1 patient excluded for DY analysis)"
+      ]
+    },
+    "intervention": {
+      "text": "ENB with intraprocedural cone-beam CT and augmented fluoroscopy",
+      "details": "General anesthesia; initial 8 s CBCT acquisition with 3D lesion segmentation (OncoSuite); segmentation fused with live fluoroscopy for real-time 3D guidance; additional CBCT as needed; multimodality sampling tools; ROSE used; no radial EBUS."
+    },
+    "comparison": {
+      "text": "None (single-arm observational cohort)",
+      "details": "No concurrent or historical control group; multivariate regression assessed lesion factors."
+    },
+    "outcomes": [
+      {
+        "name": "Diagnostic yield per lesion",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Diagnostic accuracy per lesion",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Sensitivity for malignancy",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Pneumothorax",
+        "type": "safety",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Observational",
+    "allocation": "nonrandomized",
+    "blinding": "none",
+    "sites_count": 1,
+    "countries": [
+      "US"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 75,
+      "analyzed": 92
+    },
+    "analysis_populations": [
+      {
+        "name": "Lesion-level performance",
+        "description": "All lesions with outcome ascertainment (excluding 1 lost to follow-up)",
+        "n": 92
+      },
+      {
+        "name": "Patient-level safety",
+        "description": "All patients undergoing the procedure",
+        "n": 75
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "ENB + CBCT with augmented fluoroscopy",
+      "n_randomized": 75,
+      "n_analyzed": 75,
+      "n_completed": 75
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "diagnostic_yield_per_lesion_enb_cbct_af",
+      "name": "Diagnostic yield per lesion",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Intra-procedural/Index biopsy",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 77,
+            "total": 92
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "intervention",
+        "measure": "proportion",
+        "est": 0.837,
+        "ci_lower": 0.748,
+        "ci_upper": 0.899,
+        "ci_level": 0.95
+      },
+      "analysis": {
+        "model": "Exact binomial proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Lesion-level; excludes 1 lesion lost to follow-up",
+        "missing_handling": "Excluded 1 lesion without follow-up confirmation"
+      },
+      "provenance": {
+        "pages": [
+          274,
+          282
+        ],
+        "tables": [],
+        "quote": "The overall DY by lesion was calculated ... resulting in a DY by lesion of 83.7% (95% confidence interval, 74.8%-89.9%)."
+      }
+    },
+    {
+      "concept_id": "diagnostic_accuracy_per_lesion_enb_cbct_af",
+      "name": "Diagnostic accuracy per lesion",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Index biopsy with follow-up classification",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 86,
+            "total": 92
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Descriptive proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Lesion-level; includes 9 indeterminate lesions later confirmed benign",
+        "missing_handling": "Excluded 1 lesion without follow-up"
+      },
+      "provenance": {
+        "pages": [
+          279
+        ],
+        "tables": [],
+        "quote": "Diagnostic accuracy was 93.5%, which represents the malignant (n = 63) and benign lesions (n = 14) as well as the indeterminate lesions subsequently confirmed as benign (n = 9) divided by the total number of lesions biopsied (n = 92)."
+      }
+    },
+    {
+      "concept_id": "sensitivity_for_malignancy_min_assumption",
+      "name": "Sensitivity for malignancy (minimum, incomplete follow-up considered false negatives)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Index biopsy classification with conservative follow-up assumption",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 63,
+            "total": 69
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "intervention",
+        "measure": "proportion",
+        "est": 0.913,
+        "ci_level": 0.95
+      },
+      "analysis": {
+        "model": "Descriptive sensitivity = TP/(TP+FN)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Lesions with malignancy on index bronchoscopy (TP=63) plus FN including 3 confirmed malignant or treated as malignant and 3 incomplete follow-ups",
+        "missing_handling": "Classified 3 incomplete follow-ups as FN"
+      },
+      "provenance": {
+        "pages": [
+          279
+        ],
+        "tables": [],
+        "quote": "Assuming subjects with uncompleted follow-up (n = 3) actually had lung cancer ... sensitivity ... 91.3% (95% CI, 82.3%-96.0%)."
+      }
+    },
+    {
+      "concept_id": "sensitivity_for_malignancy_max_assumption",
+      "name": "Sensitivity for malignancy (maximum, incomplete follow-up considered true negatives)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Index biopsy classification with optimistic follow-up assumption",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 63,
+            "total": 66
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "intervention",
+        "measure": "proportion",
+        "est": 0.955,
+        "ci_level": 0.95
+      },
+      "analysis": {
+        "model": "Descriptive sensitivity = TP/(TP+FN)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Lesions with malignancy on index bronchoscopy (TP=63) plus FN=3 (confirmed malignant or treated as malignant); incomplete follow-ups treated as TN",
+        "missing_handling": "Classified 3 incomplete follow-ups as TN"
+      },
+      "provenance": {
+        "pages": [
+          279
+        ],
+        "tables": [],
+        "quote": "Assuming subjects with uncompleted follow-up did not have malignant disease ... sensitivity ... 95.5% (95% CI, 87.5%-98.4%)."
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Pneumothorax",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Pneumothorax"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "other medically important condition"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 3,
+          "patients": 3,
+          "percentage": 4.0,
+          "total": 75
+        }
+      ],
+      "period": "Periprocedural (index hospitalization/observation)",
+      "management": "Chest tube in 2 of 3 patients",
+      "provenance": {
+        "pages": [
+          279
+        ],
+        "tables": [],
+        "quote": "Pneumothorax occurred in 3 patients (4%), out of which 2 received a chest tube."
+      }
+    },
+    {
+      "event_name": "Pulmonary hemorrhage",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Pulmonary haemorrhage"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 75
+        }
+      ],
+      "period": "Periprocedural",
+      "management": "",
+      "provenance": {
+        "pages": [
+          279
+        ],
+        "tables": [],
+        "quote": "No significant bronchopulmonary hemorrhage or respiratory failure was reported."
+      }
+    },
+    {
+      "event_name": "Respiratory failure",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Respiratory failure"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 75
+        }
+      ],
+      "period": "Periprocedural",
+      "management": "",
+      "provenance": {
+        "pages": [
+          279
+        ],
+        "tables": [],
+        "quote": "No significant bronchopulmonary hemorrhage or respiratory failure was reported."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "ROBINS-I",
+    "overall_judgment": "serious",
+    "domains": [
+      {
+        "name": "Confounding",
+        "judgment": "serious",
+        "support_for_judgment": "Single-arm retrospective design without comparator; potential unmeasured confounding."
+      },
+      {
+        "name": "Selection of participants",
+        "judgment": "moderate",
+        "support_for_judgment": "Consecutive series at a single center; potential selection bias minimized but not eliminated."
+      },
+      {
+        "name": "Classification of interventions",
+        "judgment": "low",
+        "support_for_judgment": "Intervention clearly defined as ENB with CBCT and AF throughout."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "low",
+        "support_for_judgment": "Standardized procedural approach reported; additional CBCT at operator discretion."
+      },
+      {
+        "name": "Missing data",
+        "judgment": "low",
+        "support_for_judgment": "Only 1 patient lost to follow-up excluded from DY; sensitivity analysis addressed incomplete follow-up."
+      },
+      {
+        "name": "Measurement of outcomes",
+        "judgment": "moderate",
+        "support_for_judgment": "Outcome definitions standard; adjudication via pathology and follow-up; potential observer bias in retrospective context."
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "moderate",
+        "support_for_judgment": "Pre-specified primary outcome stated; limited detail on statistical plan."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "cone-beam CT",
+      "augmented fluoroscopy",
+      "electromagnetic navigation bronchoscopy",
+      "peripheral pulmonary nodules",
+      "diagnostic yield",
+      "pneumothorax"
+    ],
+    "summary_tldr": "In 75 patients (92 lesions analyzed), ENB with intraprocedural CBCT and augmented fluoroscopy achieved 83.7% diagnostic yield with 4% pneumothorax (2 chest tubes) and no significant hemorrhage or respiratory failure.",
+    "clinical_relevance": "Combines real-time confirmation via CBCT-AF with ENB to improve lesion targeting while maintaining a favorable safety profile."
+  }
+}

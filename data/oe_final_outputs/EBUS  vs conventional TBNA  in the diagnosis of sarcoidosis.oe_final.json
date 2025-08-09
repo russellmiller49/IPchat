@@ -1,0 +1,520 @@
+{
+  "source": {
+    "document_id": "EBUS  vs conventional TBNA  in the diagnosis of sarcoidosis",
+    "ingest_date": "2025-08-08T11:44:11.436982+00:00",
+    "trial_registration_id": "NCT01908868",
+    "pmid": "",
+    "doi": "10.1378/chest.13-2339"
+  },
+  "document": {
+    "metadata": {
+      "title": "Endobronchial Ultrasound-Guided Transbronchial Needle Aspiration vs Conventional Transbronchial Needle Aspiration in the Diagnosis of Sarcoidosis",
+      "year": 2014,
+      "authors": [
+        "Dheeraj Gupta",
+        "Devendra S. Dadhwal",
+        "Ritesh Agarwal",
+        "Nalini Gupta",
+        "Amanjit Bal",
+        "Ashutosh N. Aggarwal"
+      ],
+      "journal": "CHEST",
+      "doi": "10.1378/chest.13-2339",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "BACKGROUND: Endobronchial ultrasound-guided transbronchial needle aspiration (EBUS-TBNA) is superior to conventional transbronchial needle aspiration (cTBNA) in the staging of lung cancer. However, its efficiency in diagnosis of sarcoidosis when combined with endobronchial biopsy (EBB) and transbronchial lung biopsy (TBLB) has not been studied. This randomized controlled trial compares diagnostic yield of EBUS-TBNA vs cTBNA in combination with EBB and TBLB. METHODS: Patients with clinical diagnosis of sarcoidosis were randomized 1:1 to EBUS-TBNA or cTBNA. All patients underwent TBLB and EBB. The primary outcome was detection of granulomas. The secondary end points were the individual and cumulative yields of various procedures, serious adverse events, and procedure time. RESULTS: Of the 130 patients, sarcoidosis was diagnosed in 117 (62 cTBNA, 55 EBUS-TBNA). The two groups were similar at baseline. Granulomas were demonstrated in 104 (53 cTBNA, 51 EBUS-TBNA) patients and were similar in two groups (85.5% vs 92.7%, P = .34). Individually, EBUS-TBNA had the highest yield (41 of 55, 74.5%), which was better than cTBNA (30 of 62, 48.4%, P = .004) or EBB (40 of 111, 36.3%, P < .0001) but not TBLB (78 of 112, 69.6%, P = .54). Adding EBB/TBLB to cTBNA led to an increase in granuloma detection, whereas the addition of TBLB (but not EBB) significantly enhanced the yield of EBUS-TBNA. The procedure time was significantly longer with EBUS-TBNA. No major adverse events occurred. CONCLUSIONS: Individually, EBUS-TBNA has the highest diagnostic yield in sarcoidosis, but it should be combined with TBLB for the optimal yield. The diagnostic yield of cTBNA (plus EBB and TBLB) is similar to EBUS-TBNA plus TBLB.",
+      "methods": "Prospective, open-label, investigator-initiated randomized controlled trial conducted at a tertiary care research institute in India between November 2011 and December 2012. Adults (>18 years) with clinico-radiologic features suggestive of sarcoidosis and enlarged right paratracheal (4R) and subcarinal (7) lymph nodes (short axis >10 mm on CT) were randomized 1:1 to EBUS-TBNA or cTBNA. All patients underwent EBB and TBLB. Exclusions included hypoxemia, severe lung function impairment, coagulopathy, pregnancy, recent systemic glucocorticoids (>2 weeks in prior 3 months), availability of alternate minimally invasive diagnostic site, or no consent. EBUS-TBNA was performed with a convex probe EBUS bronchoscope, at least three passes per node, using a 21-gauge dedicated needle; IV midazolam and pentazocine were used for sedation. cTBNA used a conventional bronchoscope, at least three passes per node with a 21-gauge needle; no additional sedation. Both targeted 4R and 7 nodes. ROSE was not used. EBB (≥4 samples) and TBLB (≥4 samples, no fluoroscopy) were performed subsequently. Patients were observed ≥6 hours; chest radiograph and ultrasound were performed to exclude pneumothorax. The primary endpoint was detection of noncaseating granulomas by any bronchoscopic procedure among patients finally diagnosed with sarcoidosis. Secondary endpoints included individual and cumulative yields of procedures, serious adverse events (pneumothorax, pulmonary hemorrhage ≥100 mL, mediastinal infection, death), and procedure time. Analysis was intention-to-treat based on final diagnosis.",
+      "results": "Of 168 screened, 130 were randomized (68 cTBNA, 62 EBUS-TBNA). Final diagnosis of sarcoidosis was established in 117 (62 cTBNA, 55 EBUS-TBNA). Granulomas were demonstrated in 104 patients overall (53 cTBNA group, 51 EBUS-TBNA group); diagnostic yield by any procedure was 85.5% vs 92.7% (P = .34). Individually, EBUS-TBNA had the highest diagnostic yield (41/55, 74.5%), superior to cTBNA (30/62, 48.4%, P = .004) and EBB (40/111, 36.3%, P < .0001), and not different from TBLB (78/112, 69.6%, P = .54). In the cTBNA group, adding EBB or TBLB increased yield (cTBNA alone 30/62 vs cTBNA+EBB 45/62, P = .006; vs cTBNA+TBLB 49/62, P = .0004; vs cTBNA+EBB+TBLB 55/62, P < .0001). In the EBUS-TBNA group, adding TBLB increased yield (EBUS alone 41/55 vs EBUS+TBLB 50/55, P = .045); adding EBB did not (EBUS+EBB 45/55, P = .489; EBUS+EBB+TBLB 51/55, P > .99). Procedure time was longer with EBUS-TBNA (mean [SD] 33.5 [5.6] min) vs cTBNA (22.9 [3.9] min), P = .0001. No major adverse events occurred. Minor bleeding occurred in 3 patients (1 cTBNA, 2 EBUS-TBNA); none required transfusion."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with clinico-radiologic suspicion of sarcoidosis and enlarged mediastinal lymph nodes (stations 4R and 7).",
+      "inclusion_criteria": [
+        "Age > 18 years",
+        "Clinical and radiologic features suggestive of sarcoidosis",
+        "Enlarged right paratracheal (station 4R) and subcarinal (station 7) lymph nodes with short axis > 10 mm on chest CT",
+        "Indication for TBNA"
+      ],
+      "exclusion_criteria": [
+        "Hypoxemia (SpO2 < 90% on room air)",
+        "Severely deranged lung function (FVC or FEV1 < 50% predicted)",
+        "Abnormal coagulation (prothrombin time > 3 s above control or aPTT > 10 s above control; platelet count < 50000/µL)",
+        "Pregnancy",
+        "Systemic glucocorticoids for > 2 weeks in preceding 3 months",
+        "Alternate minimally invasive diagnostic site available (e.g., skin or peripheral lymph node biopsy)",
+        "Failure to provide informed consent"
+      ]
+    },
+    "intervention": {
+      "text": "Endobronchial ultrasound-guided transbronchial needle aspiration (EBUS-TBNA)",
+      "details": "Convex probe EBUS bronchoscope (BF-UC180F) with EU-ME1 processor; at least 3 passes per node; 21-gauge dedicated needle (Vizishot NA-201 SX-4021A); targeted stations 4R and 7; IV midazolam and pentazocine sedation; no ROSE; followed by EBB and TBLB."
+    },
+    "comparison": {
+      "text": "Conventional transbronchial needle aspiration (cTBNA)",
+      "details": "Video bronchoscope; at least 3 passes per node; 21-gauge needle (Smooth Shot NA-401D 1321); targeted stations 4R and 7; no additional sedation; no ROSE; followed by EBB and TBLB."
+    },
+    "outcomes": [
+      {
+        "name": "Detection of noncaseating granulomas by any bronchoscopic procedure (TBNA, EBB, or TBLB)",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Individual diagnostic yield of EBUS-TBNA vs cTBNA",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Procedure time",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Serious adverse events (pneumothorax, pulmonary hemorrhage ≥100 mL, mediastinal infection, death); minor bleeding",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "RCT",
+    "allocation": "randomized",
+    "blinding": "open-label",
+    "sites_count": 1,
+    "countries": [
+      "IN"
+    ],
+    "sample_size": {
+      "planned": 129,
+      "enrolled": 130,
+      "analyzed": 117
+    },
+    "analysis_populations": [
+      {
+        "name": "Randomized",
+        "description": "All randomized participants",
+        "n": 130
+      },
+      {
+        "name": "Sarcoidosis cohort",
+        "description": "Participants finally diagnosed with sarcoidosis used for diagnostic yield analyses",
+        "n": 117
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "EBUS-TBNA",
+      "n_randomized": 62,
+      "n_analyzed": 55,
+      "n_completed": 62
+    },
+    {
+      "arm_id": "control",
+      "name": "Conventional TBNA (cTBNA)",
+      "n_randomized": 68,
+      "n_analyzed": 62,
+      "n_completed": 68
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "granuloma_detection_any_procedure",
+      "name": "Detection of granulomas by any bronchoscopic procedure",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Periprocedural",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 51,
+            "total": 55
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 53,
+            "total": 62
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": 0.0726,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.34,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Chi-square or Fisher exact test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Sarcoidosis cohort (participants finally diagnosed with sarcoidosis)",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          550,
+          551
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "Granulomas were demonstrated in 104 (53 cTBNA, 51 EBUS-TBNA) patients and were similar in two groups (85.5% vs 92.7%, P = .34)."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 1.085
+        },
+        "odds_ratio": {
+          "est": 2.165
+        },
+        "arr": 0.072,
+        "nnt": 13.8
+      }
+    },
+    {
+      "concept_id": "tbna_alone_granuloma_detection",
+      "name": "Granuloma detection by TBNA modality alone",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Periprocedural",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 41,
+            "total": 55
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 30,
+            "total": 62
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": 0.2593,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.004,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Chi-square test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Sarcoidosis cohort (participants finally diagnosed with sarcoidosis)"
+      },
+      "provenance": {
+        "pages": [
+          550,
+          551
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "Individually, EBUS-TBNA had the highest diagnostic yield (41 of 55, 74.5%), which was better than cTBNA (30 of 62, 48.4%, P = .004)."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 1.541
+        },
+        "odds_ratio": {
+          "est": 3.124
+        },
+        "arr": 0.262,
+        "nnt": 3.8
+      }
+    },
+    {
+      "concept_id": "procedure_time_minutes",
+      "name": "Procedure time",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "unit": "min",
+      "unit_canonical": "minute",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": 33.5,
+            "sd": 5.6,
+            "total": 62
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "mean": 22.9,
+            "sd": 3.9,
+            "total": 68
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "mean_difference",
+        "est": 10.6,
+        "ci_lower": null,
+        "ci_upper": null,
+        "p_value": 0.0001,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Mann-Whitney U test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All randomized (per-procedural metric)"
+      },
+      "provenance": {
+        "pages": [
+          551
+        ],
+        "tables": []
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Pneumothorax",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Pneumothorax"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "medically important"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 62
+        },
+        {
+          "arm_id": "control",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 68
+        }
+      ],
+      "period": "Day 0",
+      "management": "Not applicable; none occurred.",
+      "provenance": {
+        "pages": [
+          551
+        ],
+        "tables": [],
+        "quote": "There were no major adverse events."
+      }
+    },
+    {
+      "event_name": "Pulmonary haemorrhage ≥100 mL",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Pulmonary haemorrhage"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "medically important"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 62
+        },
+        {
+          "arm_id": "control",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 68
+        }
+      ],
+      "period": "Day 0",
+      "management": "Not applicable; none occurred.",
+      "provenance": {
+        "pages": [
+          551
+        ],
+        "tables": [],
+        "quote": "No major adverse events occurred."
+      }
+    },
+    {
+      "event_name": "Mediastinal infection",
+      "meddra": {
+        "soc": "Infections and infestations",
+        "pt": "Mediastinitis"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "medically important"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 62
+        },
+        {
+          "arm_id": "control",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 68
+        }
+      ],
+      "period": "Day 0",
+      "management": "Not applicable; none occurred.",
+      "provenance": {
+        "pages": [
+          551
+        ],
+        "tables": [],
+        "quote": "No major adverse events occurred."
+      }
+    },
+    {
+      "event_name": "Death",
+      "meddra": {
+        "soc": "General disorders and administration site conditions",
+        "pt": "Death"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "death"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 62
+        },
+        {
+          "arm_id": "control",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 68
+        }
+      ],
+      "period": "Study period",
+      "management": "Not applicable; none occurred.",
+      "provenance": {
+        "pages": [
+          551
+        ],
+        "tables": [],
+        "quote": "No major adverse events occurred."
+      }
+    },
+    {
+      "event_name": "Airway haemorrhage (minor bleeding)",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Airway haemorrhage"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 2,
+          "patients": 2,
+          "percentage": 3.2,
+          "total": 62
+        },
+        {
+          "arm_id": "control",
+          "events": 1,
+          "patients": 1,
+          "percentage": 1.5,
+          "total": 68
+        }
+      ],
+      "period": "Day 0",
+      "management": "None required blood transfusion.",
+      "provenance": {
+        "pages": [
+          551
+        ],
+        "tables": [],
+        "quote": "Three patients (2.3%) (one with cTBNA and two with EBUS-TBNA) had minor bleeding, but none of them required blood transfusion..."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "RoB 2",
+    "overall_judgment": "some concerns",
+    "domains": [
+      {
+        "name": "Randomization process",
+        "judgment": "low",
+        "support_for_judgment": "Computer-generated randomization with sealed opaque envelopes."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "some concerns",
+        "support_for_judgment": "Open-label design; sedation differed between groups by design."
+      },
+      {
+        "name": "Missing outcome data",
+        "judgment": "some concerns",
+        "support_for_judgment": "EBB not performed in 6 and TBLB not performed in 5 among sarcoidosis patients; primary outcome based on available procedures."
+      },
+      {
+        "name": "Measurement of the outcome",
+        "judgment": "low",
+        "support_for_judgment": "Histopathologic confirmation of granulomas via standard cytology/histology."
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "low",
+        "support_for_judgment": "Outcomes prespecified (ClinicalTrials.gov NCT01908868); results reported as planned."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "sarcoidosis",
+      "EBUS-TBNA",
+      "conventional TBNA",
+      "bronchoscopy",
+      "granuloma",
+      "diagnostic yield"
+    ],
+    "summary_tldr": "Among patients with suspected sarcoidosis and enlarged mediastinal nodes, EBUS-TBNA had higher individual yield than cTBNA (41/55 vs 30/62; P = 0.004), but overall granuloma detection by any procedure was similar between arms (51/55 vs 53/62; P = 0.34). Procedure time was longer with EBUS (33.5 vs 22.9 min; P = 0.0001).",
+    "clinical_relevance": "EBUS-TBNA provides the highest individual bronchoscopic yield for sarcoidosis; combining TBNA with TBLB optimizes diagnostic yield, and cTBNA plus biopsies can achieve yields comparable to EBUS-based strategies."
+  }
+}

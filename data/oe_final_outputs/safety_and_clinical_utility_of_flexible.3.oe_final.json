@@ -1,0 +1,602 @@
+{
+  "source": {
+    "document_id": "safety_and_clinical_utility_of_flexible.3",
+    "ingest_date": "2025-08-08T15:44:54.052021+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": ""
+  },
+  "document": {
+    "metadata": {
+      "title": "Safety and Clinical Utility of Flexible Bronchoscopic Cryoextraction in Patients With Non-neoplasm Tracheobronchial Obstruction: A Retrospective Chart Review",
+      "year": 2015,
+      "authors": [
+        "Narin Sriratanaviriyakul",
+        "Francis Lam",
+        "Brian M. Morrissey",
+        "Nicholas Stollenwerk",
+        "Michael Schivo",
+        "Ken Y. Yoneda"
+      ],
+      "journal": "Journal of Bronchology & Interventional Pulmonology",
+      "doi": "",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Background: Airway obstruction from blood clots, airway secretions, and foreign bodies is a potentially life-threatening condition. Optimal management of this problem, whether by rigid or flexible bronchoscopy, has not been well studied. We report our single-center experience on the safety and clinical utility of cryoprobe extraction for this indication. Methods: We performed a retrospective chart review from January 2006 to November 2014 of all subjects aged 18 and older who underwent flexible bronchoscopic cryoprobe extraction. Subjects with obstruction due to benign or malignant neoplasm or airway stenosis were excluded. Results: A total of 38 cryotherapy sessions performed on 30 subjects were identified for inclusion. Cryoprobe extraction was successful in reestablishing airway patency in 32/38 (84%) sessions overall and in 24/26 (92%) for blood clots, 4/6 (67%) for mucous plugging, 2/4 (50%) for foreign bodies, and 2/2 (100%) for plastic bronchitis. Twenty-one of 31 (68%) sessions resulted in improvement in oxygenation or ventilation. There was 1 complication related to sedation. Conclusions: We conclude that flexible bronchoscopic cryoprobe extraction of blood clots, mucous secretions, plastic bronchitis, and foreign bodies is a safe and effective option. It can be safely performed at the bedside and in many cases eliminates the need for rigid bronchoscopy.",
+      "methods": "Retrospective chart review at a single academic medical center (University of California, Davis Medical Center) from January 2006 to November 2014. Adults aged 18 years or older who underwent flexible bronchoscopic cryoextraction for non-neoplastic tracheobronchial obstruction were included. Patients with obstruction due to benign or malignant neoplasm or airway stenosis were excluded. Flexible bronchoscopies were performed by pulmonary attendings or fellows under institutional operating and monitoring procedures with intravenous sedation administered by certified registered nurses. ERBE cryoprobes (1.9 mm or 2.4 mm diameter, 90 cm length) were used via bronchoscopes with 2-3 mm channels. The cryoprobe tip was advanced 4-5 mm beyond the bronchoscope tip to avoid scope damage, placed in direct contact with the target, and freeze cycles of 20-120 seconds were applied. The cryoprobe and bronchoscope were withdrawn together for extraction. None of the patients underwent rigid bronchoscopy. Success for airway patency was defined as complete removal of the obstruction from the visible airway. Improvement in oxygenation/ventilation within 24 hours was defined as: liberation from mechanical ventilation, decrease in PEEP ≥5, decrease in FiO2 ≥25% or ≥2 LPM, or reversal of lobar collapse. Sessions on ECMO were excluded from the oxygenation/ventilation outcome.",
+      "results": "Thirty-eight cryotherapy sessions in 30 subjects were analyzed. Mean age was 52.6 years; 66.7% were male. Indications by session: blood clots 26, mucous plugging 6, foreign body 4, plastic bronchitis 2. Thirty-three of 38 sessions were in mechanically ventilated patients. Airway patency was reestablished in 32/38 (84.2%) sessions overall: 24/26 (92%) blood clots, 4/6 (66.7%) mucous plugging, 2/4 (50%) foreign body, and 2/2 (100%) plastic bronchitis. Improvement in oxygenation/ventilation occurred in 21/31 (67.7%) evaluable sessions (ECMO sessions excluded): 14/21 (66.7%) blood clots, 4/6 (66.7%) mucous plugging, and 3/4 (75%) foreign body. One complication of transient hypotension related to sedation occurred (1/38, 2.6%), resolving with intravenous fluids. No significant or persistent airway bleeding was observed after clot removal, and no procedures were aborted prematurely."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults undergoing flexible bronchoscopic cryoextraction for non-neoplastic tracheobronchial obstruction at a single US academic center (2006-2014).",
+      "inclusion_criteria": [
+        "Age ≥18 years",
+        "Underwent flexible bronchoscopic cryoextraction",
+        "Indication: non-neoplasm tracheobronchial obstruction (blood clots, mucous plugging, foreign body, plastic bronchitis)"
+      ],
+      "exclusion_criteria": [
+        "Obstruction due to benign or malignant neoplasm",
+        "Airway stenosis",
+        "Sessions on ECMO excluded from oxygenation/ventilation outcome analysis"
+      ]
+    },
+    "intervention": {
+      "text": "Flexible bronchoscopic cryoextraction",
+      "details": "ERBE cryoprobes (1.9 mm or 2.4 mm) via flexible bronchoscope (2-3 mm channel); probe tip extended ≥4-5 mm beyond scope tip; freeze cycles 20-120 seconds; extraction by removing probe and scope together; performed at bedside under IV sedation."
+    },
+    "comparison": {
+      "text": "None (single-arm retrospective series)",
+      "details": "No concurrent or randomized comparator; descriptive outcomes only."
+    },
+    "outcomes": [
+      {
+        "name": "Reestablishment of airway patency (complete removal of obstruction)",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Improvement in oxygenation/ventilation within 24 hours",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Procedure-related complications",
+        "type": "safety",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "retrospective observational",
+    "allocation": "non-randomized",
+    "blinding": "none",
+    "sites_count": 1,
+    "countries": [
+      "US"
+    ],
+    "sample_size": {
+      "planned": null,
+      "enrolled": 30,
+      "analyzed": 30
+    },
+    "analysis_populations": [
+      {
+        "name": "All sessions",
+        "description": "All cryoextraction sessions included in safety and airway patency analyses",
+        "n": 38
+      },
+      {
+        "name": "Sessions excluding ECMO",
+        "description": "Sessions evaluable for oxygenation/ventilation improvement outcome (ECMO excluded)",
+        "n": 31
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "cryo",
+      "name": "Flexible bronchoscopic cryoextraction (sessions)",
+      "n_randomized": 0,
+      "n_analyzed": 38,
+      "n_completed": 38
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "airway_patency_overall",
+      "name": "Airway patency reestablished (overall)",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Post-procedure",
+      "groups": [
+        {
+          "arm_id": "cryo",
+          "raw": {
+            "events": 32,
+            "total": 38
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": "single_group_proportion",
+        "est": 0.842,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "descriptive (proportion)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All sessions",
+        "missing_handling": "Not applicable"
+      },
+      "provenance": {
+        "pages": [
+          289,
+          290
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "Reestablishment of airway patency was successful in 32/38 (84.2%) sessions."
+      }
+    },
+    {
+      "concept_id": "airway_patency_blood_clots",
+      "name": "Airway patency reestablished (blood clots)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Post-procedure",
+      "groups": [
+        {
+          "arm_id": "cryo",
+          "raw": {
+            "events": 24,
+            "total": 26
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": "single_group_proportion",
+        "est": 0.923,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "descriptive (proportion)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All sessions - blood clot indication",
+        "missing_handling": "Not applicable"
+      },
+      "provenance": {
+        "pages": [
+          289,
+          290
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "Blood clot extraction was successful in 24/26 (92%) sessions."
+      }
+    },
+    {
+      "concept_id": "airway_patency_mucous_plugging",
+      "name": "Airway patency reestablished (mucous plugging)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Post-procedure",
+      "groups": [
+        {
+          "arm_id": "cryo",
+          "raw": {
+            "events": 4,
+            "total": 6
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": "single_group_proportion",
+        "est": 0.667,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "descriptive (proportion)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All sessions - mucous plugging indication",
+        "missing_handling": "Not applicable"
+      },
+      "provenance": {
+        "pages": [
+          290
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "Mucous plugging extraction was successful in 4/6 (66.7%) sessions."
+      }
+    },
+    {
+      "concept_id": "airway_patency_foreign_body",
+      "name": "Airway patency reestablished (foreign body)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Post-procedure",
+      "groups": [
+        {
+          "arm_id": "cryo",
+          "raw": {
+            "events": 2,
+            "total": 4
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": "single_group_proportion",
+        "est": 0.5,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "descriptive (proportion)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All sessions - foreign body indication",
+        "missing_handling": "Not applicable"
+      },
+      "provenance": {
+        "pages": [
+          290
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "Foreign body extraction was successful in 2/4 (50%) of sessions."
+      }
+    },
+    {
+      "concept_id": "airway_patency_plastic_bronchitis",
+      "name": "Airway patency reestablished (plastic bronchitis)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Post-procedure",
+      "groups": [
+        {
+          "arm_id": "cryo",
+          "raw": {
+            "events": 2,
+            "total": 2
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": "single_group_proportion",
+        "est": 1,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "descriptive (proportion)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All sessions - plastic bronchitis indication",
+        "missing_handling": "Not applicable"
+      },
+      "provenance": {
+        "pages": [
+          290
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "The patient with plastic bronchitis underwent 2/2 (100%) successful extraction sessions."
+      }
+    },
+    {
+      "concept_id": "oxygenation_ventilation_improvement_overall",
+      "name": "Improvement in oxygenation/ventilation within 24 hours (overall, ECMO excluded)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P1D",
+      "timepoint_label": "24 hours",
+      "groups": [
+        {
+          "arm_id": "cryo",
+          "raw": {
+            "events": 21,
+            "total": 31
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": "single_group_proportion",
+        "est": 0.677,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "descriptive (proportion)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Sessions excluding ECMO",
+        "missing_handling": "Not applicable"
+      },
+      "provenance": {
+        "pages": [
+          289,
+          290
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "Improvement in oxygenation and/or ventilation occurred in 21/31 (67.7%) sessions."
+      }
+    },
+    {
+      "concept_id": "oxygenation_ventilation_improvement_blood_clots",
+      "name": "Improvement in oxygenation/ventilation within 24 hours (blood clots, ECMO excluded)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P1D",
+      "timepoint_label": "24 hours",
+      "groups": [
+        {
+          "arm_id": "cryo",
+          "raw": {
+            "events": 14,
+            "total": 21
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": "single_group_proportion",
+        "est": 0.667,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "descriptive (proportion)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Sessions excluding ECMO - blood clot indication",
+        "missing_handling": "Not applicable"
+      },
+      "provenance": {
+        "pages": [
+          290
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "Blood clots: Improvement in oxygenation/ventilation 14/21 (66.7%)."
+      }
+    },
+    {
+      "concept_id": "oxygenation_ventilation_improvement_mucous_plugging",
+      "name": "Improvement in oxygenation/ventilation within 24 hours (mucous plugging)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P1D",
+      "timepoint_label": "24 hours",
+      "groups": [
+        {
+          "arm_id": "cryo",
+          "raw": {
+            "events": 4,
+            "total": 6
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": "single_group_proportion",
+        "est": 0.667,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "descriptive (proportion)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All sessions - mucous plugging indication",
+        "missing_handling": "Not applicable"
+      },
+      "provenance": {
+        "pages": [
+          290
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "Mucous plugging: Improvement in oxygenation/ventilation 4/6 (66.7%)."
+      }
+    },
+    {
+      "concept_id": "oxygenation_ventilation_improvement_foreign_body",
+      "name": "Improvement in oxygenation/ventilation within 24 hours (foreign body)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P1D",
+      "timepoint_label": "24 hours",
+      "groups": [
+        {
+          "arm_id": "cryo",
+          "raw": {
+            "events": 3,
+            "total": 4
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": "single_group_proportion",
+        "est": 0.75,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "descriptive (proportion)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All sessions - foreign body indication",
+        "missing_handling": "Not applicable"
+      },
+      "provenance": {
+        "pages": [
+          290
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "Foreign body: Improvement in oxygenation/ventilation 3/4 (75%)."
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Hypotension",
+      "meddra": {
+        "soc": "Vascular disorders",
+        "pt": "Hypotension"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "cryo",
+          "events": 1,
+          "patients": 1,
+          "percentage": 2.6,
+          "total": 38
+        }
+      ],
+      "period": "Periprocedural",
+      "management": "Resolved with intravenous fluid bolus",
+      "provenance": {
+        "pages": [
+          289,
+          290
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "quote": "There was only one complication of transient hypotension related to sedation that resolved with an intravenous fluid bolus."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "ROBINS-I",
+    "overall_judgment": "serious",
+    "domains": [
+      {
+        "name": "Confounding",
+        "judgment": "serious",
+        "support_for_judgment": "Single-arm retrospective chart review without control group; outcomes influenced by indication and clinical status."
+      },
+      {
+        "name": "Selection of participants",
+        "judgment": "moderate",
+        "support_for_judgment": "Included all consecutive adult cases undergoing cryoextraction over 8 years; exclusions based on etiology."
+      },
+      {
+        "name": "Classification of interventions",
+        "judgment": "low",
+        "support_for_judgment": "Intervention well-defined as flexible bronchoscopic cryoextraction with specified devices and technique."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "low",
+        "support_for_judgment": "No procedures aborted; bedside standardized practice."
+      },
+      {
+        "name": "Missing data",
+        "judgment": "low",
+        "support_for_judgment": "Clear denominators reported per outcome; ECMO sessions explicitly excluded from specific analysis."
+      },
+      {
+        "name": "Measurement of outcomes",
+        "judgment": "moderate",
+        "support_for_judgment": "Outcomes (patency, oxygenation/ventilation improvement) based on clinical/bronchoscopic assessment in routine care."
+      },
+      {
+        "name": "Selection of reported result",
+        "judgment": "moderate",
+        "support_for_judgment": "Descriptive reporting; no protocol preregistration."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "cryoextraction",
+      "flexible bronchoscopy",
+      "blood clot",
+      "airway obstruction",
+      "foreign body",
+      "mucous plugging",
+      "plastic bronchitis"
+    ],
+    "summary_tldr": "Single-center retrospective series: flexible bronchoscopic cryoextraction restored airway patency in 32/38 sessions (84.2%); oxygenation/ventilation improved in 21/31 (67.7%); 1 transient hypotension.",
+    "clinical_relevance": "Supports bedside flexible cryoextraction as a safe, effective option for non-neoplastic tracheobronchial obstruction, potentially avoiding rigid bronchoscopy in ICU patients."
+  }
+}

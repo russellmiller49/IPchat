@@ -1,0 +1,355 @@
+{
+  "source": {
+    "document_id": "A Multicenter RCT of Zephyr Endobronchial Valv",
+    "ingest_date": "2025-08-08T09:15:55.442045+00:00",
+    "trial_registration_id": "NCT01796392",
+    "pmid": "",
+    "doi": "10.1164/rccm.201803-0590OC"
+  },
+  "document": {
+    "metadata": {
+      "title": "A Multicenter Randomized Controlled Trial of Zephyr Endobronchial Valve Treatment in Heterogeneous Emphysema (LIBERATE)",
+      "year": 2018,
+      "authors": [
+        "Gerard J. Criner",
+        "Richard Sue",
+        "Shawn Wright",
+        "Mark Dransfield",
+        "Hiram Rivas-Perez",
+        "Tanya Wiese",
+        "Frank C. Sciurba",
+        "Pallav L. Shah",
+        "Momen M. Wahidi",
+        "Hugo Goulart de Oliveira",
+        "Brian Morrissey",
+        "Paulo F. G. Cardoso",
+        "Steven Hays",
+        "Adnan Majid",
+        "Nicholas Pastis Jr.",
+        "Lisa Kopas",
+        "Mark Vollenweider",
+        "P. Michael McFadden",
+        "Michael Machuzak",
+        "David W. Hsia",
+        "Arthur Sung",
+        "Nabil Jarad",
+        "Malgorzata Kornaszewska",
+        "Stephen Hazelrigg",
+        "Ganesh Krishna",
+        "Brian Armstrong",
+        "Narinder S. Shargill",
+        "Dirk-Jan Slebos"
+      ],
+      "journal": "American Journal of Respiratory and Critical Care Medicine",
+      "doi": "10.1164/rccm.201803-0590OC",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Rationale: This is the first multicenter randomized controlled trial to evaluate the effectiveness and safety of Zephyr Endobronchial Valve (EBV) in patients with little to no collateral ventilation out to 12 months. Objectives: To evaluate the effectiveness and safety of Zephyr EBV in heterogeneous emphysema with little to no collateral ventilation in the treated lobe. Methods: Subjects were enrolled with a 2:1 randomization (EBV/standard of care [SoC]) at 24 sites. Primary outcome at 12 months was the ΔEBV-SoC of subjects with a post-bronchodilator FEV1 improvement from baseline of greater than or equal to 15%. Secondary endpoints included absolute changes in post-bronchodilator FEV1, 6-minute-walk distance, and St. George’s Respiratory Questionnaire scores. Measurements and Main Results: A total of 190 subjects (128 EBV and 62 SoC) were randomized. At 12 months, 47.7% EBV and 16.8% SoC subjects had a ΔFEV1 ≥15% (P < 0.001). ΔEBV-SoC at 12 months was statistically and clinically significant: for FEV1, 0.106 L (P < 0.001); 6-minute-walk distance, 139.31 m (P = 0.002); and St. George’s Respiratory Questionnaire, 27.05 points (P = 0.004). Significant ΔEBV-SoC were also observed in hyperinflation (residual volume, 2522 ml; P < 0.001), modified Medical Research Council Dyspnea Scale (20.8 points; P < 0.001), and the BODE index (21.2 points). Pneumothorax was the most common serious adverse event in the treatment period (procedure to 45 d), in 34/128 (26.6%) of EBV subjects. Four deaths occurred in the EBV group during this phase, and one each in the EBV and SoC groups between 46 days and 12 months. Conclusions: Zephyr EBV provides clinically meaningful benefits in lung function, exercise tolerance, dyspnea, and quality of life out to at least 12 months, with an acceptable safety profile in patients with little or no collateral ventilation in the target lobe.",
+      "methods": "This randomized controlled trial (NCT01796392) enrolled subjects at 24 sites (18 US and 6 outside the US) between October 2013 and September 2016. Eligible ex-smokers aged 40-75 years had post-bronchodilator FEV1 15-45% predicted, TLC >100% predicted, RV ≥175% predicted, DLCO ≥20% predicted, and 6-minute-walk distance (6MWD) 100-500 m after pulmonary rehabilitation. Target lobe selection required CT destruction score >50% and heterogeneous emphysema defined as an absolute ≥15 difference in destruction scores between targeted and ipsilateral lobes. Collateral ventilation was assessed with the Chartis system; only collateral ventilation-negative targets were randomized 2:1 to Zephyr EBV or standard of care (SoC). EBV procedures aimed for complete lobar occlusion in the same session; EBV subjects were hospitalized for 5 nights with daily chest radiographs. EBV subjects had CT at 45 days to assess target lobe volume reduction and underwent valve revision if necessary. Follow-up visits occurred at 45 days and 3, 6, 9, and 12 months. Spirometry was standardized using the ERT MasterScope. After 12 months, SoC subjects could crossover to EBV. Safety was assessed through 12 months, with an independent Clinical Events Committee adjudicating serious adverse events. Statistical analyses used ANCOVA for continuous outcomes (adjusting for baseline) and chi-square/Fisher/Cochran-Mantel-Haenszel tests for categorical outcomes.",
+      "results": "A total of 190 subjects were randomized (128 EBV, 62 SoC). At 12 months, 47.7% of EBV and 16.8% of SoC subjects achieved a ≥15% improvement in post-bronchodilator FEV1 (P < 0.001). Between-group differences (EBV-SoC) at 12 months favored EBV for FEV1 absolute change by 0.106 L (P < 0.001), 6MWD by 139.31 m (P = 0.002), and SGRQ by 27.05 points (P = 0.004). Additional significant differences included RV by 2522 ml (P < 0.001), mMRC by 20.8 points (P < 0.001), and BODE index by 21.2 points. Pneumothorax occurred in 34/128 (26.6%) EBV subjects during the treatment period (procedure to 45 days). There were 4 deaths in the EBV group in the treatment period and 1 death each in EBV and SoC between 46 days and 12 months."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with severe heterogeneous emphysema and hyperinflation, little to no collateral ventilation in the target lobe, post-bronchodilator FEV1 15-45% predicted, TLC >100% predicted, RV ≥175% predicted, DLCO ≥20% predicted, and 6MWD 100-500 m after pulmonary rehabilitation.",
+      "inclusion_criteria": [
+        "Age 40-75 years",
+        "Ex-smoker",
+        "Post-bronchodilator FEV1 15-45% predicted",
+        "Total lung capacity >100% predicted",
+        "Residual volume ≥175% predicted",
+        "DLCO ≥20% predicted",
+        "6-minute-walk distance 100-500 m after pulmonary rehabilitation",
+        "Heterogeneous emphysema with target lobe CT destruction score >50%",
+        "Absolute ≥15 difference in destruction scores between targeted and ipsilateral lobes",
+        "Collateral ventilation negative in target lobe by Chartis assessment"
+      ],
+      "exclusion_criteria": [
+        "Collateral ventilation positive in target lobe",
+        "Active smoking",
+        "Outside age range 40-75 years",
+        "Did not meet pulmonary function or lung volume thresholds",
+        "Other medical history or blood chemistry exclusions per protocol"
+      ]
+    },
+    "intervention": {
+      "text": "Zephyr Endobronchial Valve (EBV) treatment",
+      "details": "Bronchoscopic placement of Zephyr EBVs with intent for complete lobar occlusion during the same session as Chartis assessment; 5-night post-procedure hospitalization with daily chest radiographs; CT at 45 days to confirm target lobe volume reduction and completeness of occlusion; valve revision as needed."
+    },
+    "comparison": {
+      "text": "Standard of care (SoC) medical management",
+      "details": "Bronchoscopy terminated after Chartis assessment; standard medical management without valve placement; routine follow-up per study schedule."
+    },
+    "outcomes": [
+      {
+        "name": "Proportion of subjects with ≥15% improvement in post-bronchodilator FEV1 at 12 months",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Absolute change in post-bronchodilator FEV1 at 12 months",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Change in 6-minute-walk distance at 12 months",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Change in St. George’s Respiratory Questionnaire total score at 12 months",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "RCT",
+    "allocation": "randomized",
+    "blinding": "open-label",
+    "sites_count": 24,
+    "countries": [
+      "US",
+      "UK",
+      "Brazil",
+      "Netherlands"
+    ],
+    "sample_size": {
+      "planned": 183,
+      "enrolled": 190,
+      "analyzed": 190
+    },
+    "analysis_populations": [
+      {
+        "name": "ITT",
+        "description": "All randomized participants",
+        "n": 190
+      },
+      {
+        "name": "12-month completers",
+        "description": "Participants with 12-month follow-up",
+        "n": 178
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "Zephyr Endobronchial Valve (EBV)",
+      "n_randomized": 128,
+      "n_analyzed": 128,
+      "n_completed": 119
+    },
+    {
+      "arm_id": "control",
+      "name": "Standard of care (SoC)",
+      "n_randomized": 62,
+      "n_analyzed": 62,
+      "n_completed": 59
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "primary_fev1_responder_12m",
+      "name": "FEV1 ≥15% improvement at 12 months",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P12M",
+      "timepoint_label": "12 months",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 61,
+            "total": 128
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 10,
+            "total": 62
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": 0.309,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.001,
+        "p_operator": "<",
+        "adjusted": true
+      },
+      "analysis": {
+        "model": "Cochran-Mantel-Haenszel test",
+        "adjusted": true,
+        "covariates": [
+          "site"
+        ],
+        "population": "ITT",
+        "missing_handling": "not reported"
+      },
+      "provenance": {
+        "pages": [
+          1154,
+          1156
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "At 12 months, 47.7% EBV and 16.8% SoC subjects had a ΔFEV1 ≥15% (P < 0.001)."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 2.955
+        },
+        "odds_ratio": {
+          "est": 4.734
+        },
+        "arr": 0.315,
+        "nnt": 3.2
+      }
+    },
+    {
+      "concept_id": "fev1_absolute_change_12m",
+      "name": "Absolute FEV1 change",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P12M",
+      "unit": "L",
+      "unit_canonical": "liter",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "total": 128
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "total": 62
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "mean_difference",
+        "est": 0.106,
+        "ci_lower": null,
+        "ci_upper": null,
+        "p_value": 0.001,
+        "p_operator": "<",
+        "adjusted": true
+      },
+      "analysis": {
+        "model": "ANCOVA",
+        "adjusted": true,
+        "covariates": [
+          "baseline FEV1"
+        ],
+        "population": "ITT",
+        "missing_handling": "not reported"
+      },
+      "provenance": {
+        "pages": [
+          1154,
+          1156
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "ΔEBV-SoC at 12 months was statistically and clinically significant: for FEV1, 0.106 L (P < 0.001)."
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Pneumothorax",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Pneumothorax"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "hospitalization"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 34,
+          "patients": 34,
+          "percentage": 26.6,
+          "total": 128
+        },
+        {
+          "arm_id": "control",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 62
+        }
+      ],
+      "period": "0-45 days",
+      "management": "",
+      "provenance": {
+        "pages": [
+          1154,
+          1158
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "quote": "Pneumothorax was the most common serious adverse event in the treatment period (procedure to 45 d), in 34/128 (26.6%) of EBV subjects."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "RoB 2",
+    "overall_judgment": "some concerns",
+    "domains": [
+      {
+        "name": "Randomization process",
+        "judgment": "low",
+        "support_for_judgment": "Blocked 2:1 randomization with central procedures; collateral ventilation assessment prior to randomization."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "some concerns",
+        "support_for_judgment": "Open-label design; post-randomization valve revision possible in intervention arm."
+      },
+      {
+        "name": "Missing outcome data",
+        "judgment": "some concerns",
+        "support_for_judgment": "Not all randomized participants completed 12-month follow-up; handling of missing data not clearly described."
+      },
+      {
+        "name": "Measurement of the outcome",
+        "judgment": "low",
+        "support_for_judgment": "Objective spirometry and standardized assessments (ERT MasterScope); independent core lab for imaging."
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "low",
+        "support_for_judgment": "Outcomes prespecified; primary and secondary endpoints reported with statistical testing per analysis plan."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "emphysema",
+      "endobronchial valve",
+      "Zephyr",
+      "bronchoscopy",
+      "lung volume reduction",
+      "COPD"
+    ],
+    "summary_tldr": "In severe heterogeneous emphysema with little/no collateral ventilation, Zephyr EBVs increased the 12-month FEV1 responder rate (≥15% improvement) to 47.7% vs 16.8% with standard care (p < 0.001), with improvements in FEV1, 6MWD, and SGRQ.",
+    "clinical_relevance": "Establishes durable 12-month clinical benefits of Zephyr EBV therapy over optimized medical management in appropriately selected emphysema patients."
+  }
+}

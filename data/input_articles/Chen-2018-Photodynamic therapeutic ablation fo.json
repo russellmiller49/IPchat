@@ -1,0 +1,4794 @@
+{
+  "version": {
+    "json_export": "203",
+    "page_segmentation": "5",
+    "schema": "1.1.0",
+    "structure": "1.1099.0",
+    "table_structure": "5"
+  },
+  "extended_metadata": {
+    "ID_instance": "14 A9 96 F4 60 BA B2 11 0A 00 67 45 8B 6B C6 23 ",
+    "ID_permanent": "31 41 20 42 30 20 39 31 20 46 34 20 36 30 20 42 41 20 42 32 20 31 31 20 30 41 20 30 30 20 36 37 20 34 35 20 38 42 20 36 42 20 43 36 20 32 33 20 ",
+    "has_acroform": false,
+    "has_embedded_files": false,
+    "is_XFA": false,
+    "is_certified": false,
+    "is_encrypted": false,
+    "is_digitally_signed": false,
+    "language": "zh-CN",
+    "page_count": 6,
+    "pdf_version": "1.6",
+    "pdfa_compliance_level": "",
+    "pdfua_compliance_level": ""
+  },
+  "elements": [
+    {
+      "Bounds": [
+        45.35429382324219,
+        631.3202972412109,
+        530.5670318603516,
+        696.5843048095703
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Neue LT Pro",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Helvetica Neue LT Pro",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "JHVZVL+HelveticaNeueLTPro-Bd",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1075,
+      "Page": 0,
+      "Path": "//Document/Title",
+      "Text": "Photodynamic therapeutic ablation for peripheral pulmonary malignancy via electromagnetic navigation bronchoscopy localization in a hybrid operating room (OR): a pioneering study ",
+      "TextSize": 16.0,
+      "attributes": {
+        "LineHeight": 23,
+        "SpaceAfter": 18
+      }
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        600.6390991210938,
+        215.69052124023438,
+        614.6311492919922
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "IDGTHN+JansonTextLT-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1076,
+      "Page": 0,
+      "Path": "//Document/H1",
+      "Text": "Ke-Cheng Chen1,2, Jang-Ming Lee1 ",
+      "TextSize": 6.1215057373046875,
+      "attributes": {
+        "LineHeight": 12.625,
+        "SpaceAfter": 10.875
+      }
+    },
+    {
+      "Bounds": [
+        45.35389709472656,
+        525.4602966308594,
+        552.7362518310547,
+        588.0649871826172
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "PSJJGZ+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1080,
+      "Page": 0,
+      "Path": "//Document/Footnote",
+      "Text": "1Department of Surgery, National Taiwan University Hospital and National Taiwan University College of Medicine, Taipei; 2Institute of Biomedical Engineering, College of Medicine and College of Engineering, National Taiwan University, Taipei Contributions: (I) Conception and design: All authors; (II) Administrative support: JM Lee; (III) Provision of study materials or patients: JM Lee; (IV) Collection and assembly of data: KC Chen; (V) Data analysis and interpretation: All authors; (VI) Manuscript writing: All authors; (VII) Final approval of manuscript: All authors. ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 13
+      }
+    },
+    {
+      "Bounds": [
+        45.35389709472656,
+        499.4602966308594,
+        552.2259979248047,
+        522.4842987060547
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": true,
+        "monospaced": false,
+        "name": "ORIDNB+JansonTextLT-Italic",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1082,
+      "Page": 0,
+      "Path": "//Document/P",
+      "Text": "Correspondence to: Jang-Ming Lee, MD, PhD. Department of Surgery, National Taiwan University Hospital, No. 7, Chung Shan South Road, Taipei 100. Email: jangminglee@gmail.com. ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 13.125,
+        "SpaceAfter": 13.375
+      }
+    },
+    {
+      "Bounds": [
+        102.04719543457031,
+        420.9058074951172,
+        496.0139465332031,
+        483.69529724121094
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Helvetica",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "HERNTP+Helvetica-AME",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1083,
+      "Page": 0,
+      "Path": "//Document/P[2]",
+      "Text": "Background: With the aid of electromagnetic navigation bronchoscopy (ENB), it has become possible to approach peripheral lung tumors from the airway. Meanwhile, local ablation using photodynamic therapy (PDT) has shown increasing promise in the realm of lung cancer treatment. The purpose of this study was to explore an alternative ablation method using PDT with SuperDimension ENB localization in a hybrid operating theater. ",
+      "TextSize": 8.5,
+      "attributes": {
+        "LineHeight": 13,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        102.04719543457031,
+        342.9268035888672,
+        496.59999084472656,
+        418.7042999267578
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Helvetica",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "HERNTP+Helvetica-AME",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1084,
+      "Page": 0,
+      "Path": "//Document/P[3]",
+      "Text": "Methods: Our study includes patients with primary or metastatic lung cancer who underwent PDT via ENB in the hybrid operating room (OR) of National Taiwan University Hospital between January 2016 and January 2017. ENB with the SuperDimension Navigation System (7th edition) was performed before PDT ablation to localize the target lesions. PDT ablation was performed with the assistance of intraoperative Dyna-computed tomography (Dyna-CT). Tumor response was evaluated by CT 3 months after the procedure. ",
+      "TextSize": 8.5,
+      "attributes": {
+        "LineHeight": 13,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        102.04719543457031,
+        264.9393005371094,
+        496.0542755126953,
+        340.7252960205078
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Helvetica",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "HERNTP+Helvetica-AME",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1085,
+      "Page": 0,
+      "Path": "//Document/P[4]",
+      "Text": "Results: Three patients underwent lung interstitial PDT via the aid of ENB during the study period. The mean size of the nodules was 21.3 mm. The mean navigation time was 14.3 minutes. In all cases, the target pulmonary nodule was ablated by PDT successfully. No major procedure-related complications occurred. One patient suffered from skin hypersensitivity one month after the procedure. The follow-up CT showed significant tumor shrinkage for all the patients. They were all discharged without incident a few days after the procedure as scheduled. ",
+      "TextSize": 8.5,
+      "attributes": {
+        "LineHeight": 13,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        102.04719543457031,
+        238.93780517578125,
+        496.71910095214844,
+        262.73779296875
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Helvetica",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "HERNTP+Helvetica-AME",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1086,
+      "Page": 0,
+      "Path": "//Document/P[5]",
+      "Text": "Conclusions: PDT with SuperDimension ENB guidance in the hybrid OR is a novel and feasible approach to control peripheral lung malignancy. ",
+      "TextSize": 8.5,
+      "attributes": {
+        "LineHeight": 13.125,
+        "SpaceAfter": 5.625
+      }
+    },
+    {
+      "Bounds": [
+        102.04719543457031,
+        207.46429443359375,
+        496.0478210449219,
+        230.62429809570312
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Helvetica",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "HERNTP+Helvetica-AME",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1087,
+      "Page": 0,
+      "Path": "//Document/P[6]",
+      "Text": "Keywords: Peripheral-type lung malignancy; electromagnetic navigation bronchoscopy (ENB); photodynamic therapy (PDT); SuperDimension ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 13,
+        "SpaceAfter": 13.125
+      }
+    },
+    {
+      "Bounds": [
+        102.04719543457031,
+        168.46429443359375,
+        323.9751739501953,
+        191.48829650878906
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "PSJJGZ+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1088,
+      "Page": 0,
+      "Path": "//Document/P[7]",
+      "Text": "Submitted Mar 01, 2018. Accepted for publication Mar 19, 2018. doi: 10.21037/jtd.2018.03.139 ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 13,
+        "SpaceAfter": 3.375
+      }
+    },
+    {
+      "Bounds": [
+        102.04719543457031,
+        155.46429443359375,
+        322.93524169921875,
+        165.5843048095703
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "IDGTHN+JansonTextLT-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1089,
+      "Page": 0,
+      "Path": "//Document/P[8]",
+      "Text": "View this article at: http://dx.doi.org/10.21037/jtd.2018.03.139 ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 9.625,
+        "SpaceAfter": 18
+      }
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        117.82479858398438,
+        109.09556579589844,
+        129.4907989501953
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Black",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Helvetica Black",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "JHVZVL+HelveticaBlack",
+        "subset": true,
+        "weight": 900
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1090,
+      "Page": 0,
+      "Path": "//Document/H1[2]",
+      "Text": "Introduction ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 11.375,
+        "SpaceAfter": 6.5
+      }
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        71.83529663085938,
+        289.55322265625,
+        109.78779602050781
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "PSJJGZ+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1091,
+      "Page": 0,
+      "Path": "//Document/P[9]",
+      "Text": "Lung cancer is the major cause of cancer deaths worldwide (1,2). Low-dose computed tomography (CT) lung screening is more sensitive in detecting early-stage lung cancers than ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 13,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        308.9792938232422,
+        71.84480285644531,
+        553.7823028564453,
+        129.31979370117188
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "PSJJGZ+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1092,
+      "Page": 0,
+      "Path": "//Document/P[10]",
+      "Text": "other screening methods and its widespread use has resulted in a decrease in the number of advanced-stage cancers diagnosed and an increase in the number of early-stage lung cancers diagnosed (3). Therefore, surgeons are facing more ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 15.25,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        512.1026000976562,
+        290.07310485839844,
+        695.6710968017578
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "PSJJGZ+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1193,
+      "Page": 1,
+      "Path": "//Document/P[11]",
+      "Text": "and more early lung cancer patients. Surgical resection is the treatment of choice for early-staged non-small cell lung cancer (NSCLC), but it’s not perfect. On the one hand, it is difficult to localize small lung tumors intra-operatively. On the other hand, some patients present with multi-focal lesions that cannot be completely eradicated by surgery. Conventional treatment strategies to handle such conditions include surgical resection under localization with a hook-wire system or dye injection, whether by a percutaneous route or navigator bronchoscopy (4-6). However, there are several disadvantages of these treatment approaches, including the risk of general anesthesia, potential complications of bleeding or air leakage, especially for some patients with poor lung function or suboptimal medical conditions. ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 13.25,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        142.3625946044922,
+        289.90101623535156,
+        510.8011016845703
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "PSJJGZ+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1194,
+      "Page": 1,
+      "Path": "//Document/P[12]",
+      "Text": "Photodynamic therapy (PDT), which uses a photosensitizer that is focally retained in the tumor to perform tumor-specific ablation by irradiating with a certain wave-length of light, has been used as an effective treatment for centrally-located lung cancer (7-11). Photofrin, the most frequently used and commercially available photosensitizer for lung cancer, works under 630-nm red-light irradiation. Interstitial PDT aided by CT-guided catheter implantation has been adopted for peripheral lung cancer (10). Nevertheless, there are potential disadvantages of such an approach, such as the risk of hemopneumothorax during CT-guided catheter insertion, lung collapse causing dislodging of the catheter during the procedure, and an inability to target other lesions after lung collapse (10). Recently, electromagnetic navigation bronchoscopy (ENB) (SuperDimension™ Navigation System, Super-D ENB, Covidien, Minneapolis, MN, USA) has been applied in the diagnosis, staging, preoperative localization and treatment of lung cancer (4,5,12-14). Compared with a percutaneous route, ENB has the advantages of reduced risk of pneumothorax and precise localization of lung tumor with a working channel through which the PDT irradiation probe can function. In addition, the initial use of hybrid operating room (OR) for ENB makes it a stronger tool (15). Our aim is to evaluate the feasibility and safety of tumor ablation via the newly developed 7th edition of the ENB system. In this clinical study, we evaluate whether ENB with SuperDimension (Super-D) combined with interstitial PDT may be useful in tumor control. ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 13.25,
+        "SpaceAfter": 18,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        109.85360717773438,
+        90.77003479003906,
+        121.51960754394531
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Black",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Helvetica Black",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "JHVZVL+HelveticaBlack",
+        "subset": true,
+        "weight": 900
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1195,
+      "Page": 1,
+      "Path": "//Document/H1[3]",
+      "Text": "Methods ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 11.375,
+        "SpaceAfter": 8.5
+      }
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        89.45710754394531,
+        221.04730224609375,
+        101.56010437011719
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": true,
+        "monospaced": false,
+        "name": "GAHHFR+JansonTextLT-BoldItalic",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1196,
+      "Page": 1,
+      "Path": "//Document/H2",
+      "Text": "Patient demographics and clinical features ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 11.375,
+        "SpaceAfter": 8.5
+      }
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        69.63059997558594,
+        289.9292907714844,
+        81.53410339355469
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "PSJJGZ+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1197,
+      "Page": 1,
+      "Path": "//Document/P[13]",
+      "Text": "A prospectively maintained database of patients who have ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 11.375
+      }
+    },
+    {
+      "Bounds": [
+        308.97259521484375,
+        461.6540069580078,
+        554.2097625732422,
+        695.652099609375
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "PSJJGZ+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1198,
+      "Page": 1,
+      "Path": "//Document/P[14]",
+      "Text": "received an ENB was reviewed to identify all patients who underwent PDT via ENB at our institution from January 2016 to January 2017. The eligibility criteria for inclusion in our study was the presence of lung tumors but not endobronchial tumors, and the medical suitability for undergoing PDT ablation after ENB localization. Written informed consent to participate was provided by the participants. The Research Ethics Committee of National Taiwan University Hospital approved this study (201407063DINB) as did clinicaltrial.gov (NCT03211078). Patients were excluded based on the following criteria: less than 18 years old; leukopenia (WBC count less than 3,500/mm3), or thrombocytopenia (platelet count less than 100,000/mm3); chronic renal insufficiency with serum creatinine >2.5 mg/dL; grade 3 to 4 elevations in liver function test, or bilirubin >1.5 mg/dL; pregnancy or lactation. A team of surgeons performed ENB and PDT ablation in the hybrid OR. ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 13.125,
+        "SpaceAfter": 18,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        308.97479248046875,
+        428.9360046386719,
+        510.36534118652344,
+        441.03900146484375
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": true,
+        "monospaced": false,
+        "name": "GAHHFR+JansonTextLT-BoldItalic",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1201,
+      "Page": 1,
+      "Path": "//Document/H2[2]",
+      "Text": "ENB procedures and Dyna-CT in the hybrid OR ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 11.375,
+        "SpaceAfter": 6.625
+      }
+    },
+    {
+      "Bounds": [
+        308.97479248046875,
+        200.23300170898438,
+        555.1557769775391,
+        421.2884979248047
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "PSJJGZ+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1202,
+      "Page": 1,
+      "Path": "//Document/P[15]",
+      "Text": "The patients underwent general anesthesia with intubation. The nodules were localized using the planning software and the computer console of the 7th edition SuperDimension Navigation System (Covidien, Minneapolis, MN, USA). The planning software allowed us to plan a route to the nodule one day before surgery. If there was no bronchus leading to the nodule, we used the best available exit point from the bronchial tree. Using a locatable electromagnetic guide and an extended working catheter, each nodule was localized with the electromagnetic guide and the navigational console. After the nodule was located, the electromagnetic guide was removed, and the extended working catheter was left in place (Figure 1). A PDT probe was inserted through the extended working catheter (Figure 2). The position of the probe was confirmed by Dyna-CT in the hybrid OR (Figure 3). ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 13.125,
+        "SpaceAfter": 18,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        308.97479248046875,
+        167.66700744628906,
+        377.66929626464844,
+        179.77000427246094
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": true,
+        "monospaced": false,
+        "name": "GAHHFR+JansonTextLT-BoldItalic",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1203,
+      "Page": 1,
+      "Path": "//Document/H2[3]",
+      "Text": "PDT procedures ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 11.375,
+        "SpaceAfter": 6.5
+      }
+    },
+    {
+      "Bounds": [
+        308.97479248046875,
+        69.74099731445312,
+        554.7298889160156,
+        160.01950073242188
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "PSJJGZ+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1204,
+      "Page": 1,
+      "Path": "//Document/P[16]",
+      "Text": "After Super-D ENB localization, PDT was performed to ablate the targeted pulmonary lesion. Intravenous photofrin was given 48 hours before the procedure at a dose of 2 mg/kg. After successful localization, 630-nm light was given at a dosage of 200 J/cm through the working channel in LUNG mode (2,000 mW) for 500 seconds using Diomed 630-nm diode laser (Diomed, ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 13.125,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        139.04025268554688,
+        497.48028564453125,
+        456.2353210449219,
+        694.4881591796875
+      ],
+      "ObjectID": 1341,
+      "Page": 2,
+      "Path": "//Document/Figure",
+      "attributes": {
+        "BBox": [
+          139.07399999999325,
+          497.53899999998976,
+          456.22099999999045,
+          694.4509999999718
+        ],
+        "Placement": "Block"
+      }
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        466.3876953125,
+        552.2391815185547,
+        490.13670349121094
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "IDGTHN+JansonTextLT-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1342,
+      "Page": 2,
+      "Path": "//Document/P[17]",
+      "Text": "Figure 1 Using a locatable electromagnetic guide and an extended working catheter, the nodule was localized with the SuperDimension 7th edition electromagnetic guide and the navigational console. ",
+      "TextSize": 8.5,
+      "attributes": {
+        "LineHeight": 13,
+        "SpaceAfter": 18
+      }
+    },
+    {
+      "Bounds": [
+        47.9530029296875,
+        315.47698974609375,
+        547.0724182128906,
+        440.3445281982422
+      ],
+      "ObjectID": 1343,
+      "Page": 2,
+      "Path": "//Document/Figure[2]",
+      "attributes": {
+        "BBox": [
+          48.237999999999374,
+          315.62699999999313,
+          547.05799999999,
+          439.10199999999895
+        ],
+        "Placement": "Block"
+      }
+    },
+    {
+      "Bounds": [
+        47.9530029296875,
+        315.47698974609375,
+        547.0724182128906,
+        440.3445281982422
+      ],
+      "Font": {
+        "alt_family_name": "Humanist",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Humanist 52 1 BT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FBSBRT+Humanist521BT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1343,
+      "Page": 2,
+      "Path": "//Document/Figure[2]",
+      "Text": "A B C ",
+      "TextSize": 10.889999389648438,
+      "attributes": {
+        "BBox": [
+          48.237999999999374,
+          315.62699999999313,
+          547.05799999999,
+          439.10199999999895
+        ],
+        "Placement": "Block"
+      }
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        271.6374969482422,
+        552.7876434326172,
+        308.38299560546875
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "IDGTHN+JansonTextLT-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1344,
+      "Page": 2,
+      "Path": "//Document/P[18]",
+      "Text": "Figure 2 PDT after ENB localization in the hybrid OR. (A) Insertion of the PDT irradiation probe through the working channel to the targeted lesion; (B) setting up of the Dyna-computed tomography scanner in the hybrid OR to check the position of the working catheter and probe; (C) the PDT irradiation probe. PDT, photodynamic therapy; OR, operating room. ",
+      "TextSize": 8.5,
+      "attributes": {
+        "LineHeight": 13,
+        "SpaceAfter": 18,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        69.60960388183594,
+        290.3261413574219,
+        245.55909729003906
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "PSJJGZ+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1345,
+      "Page": 2,
+      "Path": "//Document/P[19]",
+      "Text": "Cambridge, UK) and optical delivery fiber (Figure 2). Dyna-CT was performed to confirm the position of the PDT probe to make sure that the light was accurately delivered to the tumor. After the operation, patients were sent to the ward or intensive care unit for post-operative care. Tumor response was classified into three grades by CT 3 months later: complete remission (CR), when no tumor was observable; partial remission (PR) which is defined as a reduction in tumor volume greater than 50% but with the cancer still recognizable; and no change (NC) which is defined as NC in tumor size or a decrease of less than 50%; and progressive disease (PD) which is defined as an increase in tumor size. ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 13.625,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        308.9792938232422,
+        234.02609252929688,
+        349.3828582763672,
+        245.6920928955078
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Black",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Helvetica Black",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "JHVZVL+HelveticaBlack",
+        "subset": true,
+        "weight": 900
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1346,
+      "Page": 2,
+      "Path": "//Document/H1[4]",
+      "Text": "Results ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 11.375,
+        "SpaceAfter": 8.75
+      }
+    },
+    {
+      "Bounds": [
+        308.9792938232422,
+        213.3730926513672,
+        415.6072998046875,
+        225.47610473632812
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": true,
+        "monospaced": false,
+        "name": "GAHHFR+JansonTextLT-BoldItalic",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1347,
+      "Page": 2,
+      "Path": "//Document/H2[4]",
+      "Text": "Treatments and outcomes ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 11.375,
+        "SpaceAfter": 7.125
+      }
+    },
+    {
+      "Bounds": [
+        308.9792938232422,
+        69.59060668945312,
+        554.1405029296875,
+        204.52859497070312
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "PSJJGZ+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1348,
+      "Page": 2,
+      "Path": "//Document/P[20]",
+      "Text": "Three patients, one male and two females, underwent PDT ablation via ENB during the study period (Table 1); each patient had a single lung tumor, which were found to be malignant at biopsy before the procedure. The mean age was 65.7 years (75, 57, 65 years old). The median nodule size was 21.3 mm (3.6, 2.0, 0.8 mm). Lung tumor localization was successful in all patients, and all tumors were successfully ablated by PDT with the targeted dose. The mean navigation time was 14.3 min (16, 20, 7 min). There were no adverse events related to the procedure of ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 13.625,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        97.21771240234375,
+        392.87884521484375,
+        498.05787658691406,
+        694.4882202148438
+      ],
+      "ObjectID": 1349,
+      "Page": 3,
+      "Path": "//Document/Figure[3]",
+      "attributes": {
+        "BBox": [
+          97.19599999999991,
+          392.903999999995,
+          497.9799999999959,
+          694.4509999999718
+        ],
+        "Placement": "Block"
+      }
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        361.78619384765625,
+        552.4981536865234,
+        385.5352020263672
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "IDGTHN+JansonTextLT-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1350,
+      "Page": 3,
+      "Path": "//Document/P[21]",
+      "Text": "Figure 3 Dyna-computed tomography image showing the position of the ENB-guided PDT irradiation. ENB, electromagnetic navigation bronchoscopy; PDT, photodynamic therapy. ",
+      "TextSize": 8.5,
+      "attributes": {
+        "LineHeight": 13,
+        "SpaceAfter": 18
+      }
+    },
+    {
+      "Bounds": [
+        51.02360534667969,
+        325.50050354003906,
+        459.50364685058594,
+        335.62049865722656
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "IDGTHN+JansonTextLT-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1351,
+      "Page": 3,
+      "Path": "//Document/P[22]",
+      "Text": "Table 1 Characteristics, treatment course and outcome of the patients undergoing PDT via ENB with SuperDimension ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 9.625,
+        "SpaceAfter": 6.625
+      }
+    },
+    {
+      "Bounds": [
+        51.02360534667969,
+        217.0998992919922,
+        541.8468017578125,
+        320.11590576171875
+      ],
+      "ObjectID": 1352,
+      "Page": 3,
+      "Path": "//Document/Table",
+      "attributes": {
+        "BBox": [
+          45.35819999999876,
+          241.82999999999447,
+          458.6209999999992,
+          323.42699999999604
+        ],
+        "NumCol": 9,
+        "NumRow": 4,
+        "Placement": "Block",
+        "SpaceAfter": 13.125
+      },
+      "filePaths": [
+        "tables/fileoutpart0.xlsx"
+      ]
+    },
+    {
+      "Bounds": [
+        51.02360534667969,
+        305.1239013671875,
+        63.61564636230469,
+        314.6199035644531
+      ],
+      "ObjectID": 1537,
+      "Page": 3,
+      "Path": "//Document/Table/TR/TH",
+      "attributes": {
+        "BBox": [
+          45.35819999999876,
+          295.9479999999894,
+          68.63719999999739,
+          323.42699999999604
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 0,
+        "Height": 27.5,
+        "InlineAlign": "Center",
+        "RowIndex": 0,
+        "Width": 23.25
+      }
+    },
+    {
+      "Bounds": [
+        51.02360534667969,
+        305.1239013671875,
+        63.61564636230469,
+        314.6199035644531
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Neue LT Pro",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Helvetica Neue LT Pro",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "EXDVDV+HelveticaNeueLTPro-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1570,
+      "Page": 3,
+      "Path": "//Document/Table/TR/TH/P",
+      "Text": "No ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        78.2716064453125,
+        305.1239013671875,
+        109.671630859375,
+        314.6199035644531
+      ],
+      "ObjectID": 1538,
+      "Page": 3,
+      "Path": "//Document/Table/TR/TH[2]",
+      "attributes": {
+        "BBox": [
+          68.63719999999739,
+          295.9479999999894,
+          114.95499999999811,
+          323.42699999999604
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 1,
+        "Height": 27.5,
+        "InlineAlign": "Center",
+        "RowIndex": 0,
+        "Width": 46.375
+      }
+    },
+    {
+      "Bounds": [
+        78.2716064453125,
+        305.1239013671875,
+        109.671630859375,
+        314.6199035644531
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Neue LT Pro",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Helvetica Neue LT Pro",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "EXDVDV+HelveticaNeueLTPro-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1567,
+      "Page": 3,
+      "Path": "//Document/Table/TR/TH[2]/P",
+      "Text": "Age/sex ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        124.75959777832031,
+        305.1239013671875,
+        162.0956573486328,
+        314.6199035644531
+      ],
+      "ObjectID": 1539,
+      "Page": 3,
+      "Path": "//Document/Table/TR/TH[3]",
+      "attributes": {
+        "BBox": [
+          114.95499999999811,
+          295.9479999999894,
+          204.35199999999895,
+          323.42699999999604
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 2,
+        "Height": 27.5,
+        "InlineAlign": "Start",
+        "RowIndex": 0,
+        "Width": 89.375
+      }
+    },
+    {
+      "Bounds": [
+        124.75959777832031,
+        305.1239013671875,
+        162.0956573486328,
+        314.6199035644531
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Neue LT Pro",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Helvetica Neue LT Pro",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "EXDVDV+HelveticaNeueLTPro-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1564,
+      "Page": 3,
+      "Path": "//Document/Table/TR/TH[3]/P",
+      "Text": "Diagnosis ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        208.66360473632812,
+        305.1239013671875,
+        241.85562133789062,
+        314.6199035644531
+      ],
+      "ObjectID": 1540,
+      "Page": 3,
+      "Path": "//Document/Table/TR/TH[4]",
+      "attributes": {
+        "BBox": [
+          204.35199999999895,
+          295.9479999999894,
+          247.0699999999997,
+          323.42699999999604
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 3,
+        "Height": 27.5,
+        "InlineAlign": "Center",
+        "RowIndex": 0,
+        "Width": 42.75
+      }
+    },
+    {
+      "Bounds": [
+        208.66360473632812,
+        305.1239013671875,
+        241.85562133789062,
+        314.6199035644531
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Neue LT Pro",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Helvetica Neue LT Pro",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "EXDVDV+HelveticaNeueLTPro-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1561,
+      "Page": 3,
+      "Path": "//Document/Table/TR/TH[4]/P",
+      "Text": "Location ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        256.85560607910156,
+        305.1239013671875,
+        294.19166564941406,
+        314.6199035644531
+      ],
+      "ObjectID": 1541,
+      "Page": 3,
+      "Path": "//Document/Table/TR/TH[5]",
+      "attributes": {
+        "BBox": [
+          247.0699999999997,
+          295.9479999999894,
+          297.82799999999406,
+          323.42699999999604
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 4,
+        "Height": 27.5,
+        "InlineAlign": "Center",
+        "RowIndex": 0,
+        "Width": 50.75
+      }
+    },
+    {
+      "Bounds": [
+        256.85560607910156,
+        305.1239013671875,
+        294.19166564941406,
+        314.6199035644531
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Neue LT Pro",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Helvetica Neue LT Pro",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "EXDVDV+HelveticaNeueLTPro-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1558,
+      "Page": 3,
+      "Path": "//Document/Table/TR/TH[5]/P",
+      "Text": "Size (mm) ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        305.8955993652344,
+        299.6199035644531,
+        345.4635925292969,
+        320.11590576171875
+      ],
+      "ObjectID": 1542,
+      "Page": 3,
+      "Path": "//Document/Table/TR/TH[6]",
+      "attributes": {
+        "BBox": [
+          297.82799999999406,
+          295.9479999999894,
+          348.70599999999104,
+          323.42699999999604
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 5,
+        "Height": 27.5,
+        "InlineAlign": "Start",
+        "RowIndex": 0,
+        "Width": 50.875
+      }
+    },
+    {
+      "Bounds": [
+        305.8955993652344,
+        299.6199035644531,
+        345.4635925292969,
+        320.11590576171875
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Neue LT Pro",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Helvetica Neue LT Pro",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "EXDVDV+HelveticaNeueLTPro-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1555,
+      "Page": 3,
+      "Path": "//Document/Table/TR/TH[6]/P",
+      "Text": "Admission day ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 11
+      }
+    },
+    {
+      "Bounds": [
+        356.6396026611328,
+        299.6199035644531,
+        399.8955841064453,
+        320.11590576171875
+      ],
+      "ObjectID": 1543,
+      "Page": 3,
+      "Path": "//Document/Table/TR/TH[7]",
+      "attributes": {
+        "BBox": [
+          348.70599999999104,
+          295.9479999999894,
+          402.583999999988,
+          323.42699999999604
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 6,
+        "Height": 27.5,
+        "InlineAlign": "Start",
+        "RowIndex": 0,
+        "Width": 53.875
+      }
+    },
+    {
+      "Bounds": [
+        356.6396026611328,
+        299.6199035644531,
+        399.8955841064453,
+        320.11590576171875
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Neue LT Pro",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Helvetica Neue LT Pro",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "EXDVDV+HelveticaNeueLTPro-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1552,
+      "Page": 3,
+      "Path": "//Document/Table/TR/TH[7]/P",
+      "Text": "Follow time (months) ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 11
+      }
+    },
+    {
+      "Bounds": [
+        409.3675994873047,
+        299.6199035644531,
+        454.9996032714844,
+        320.11590576171875
+      ],
+      "ObjectID": 1544,
+      "Page": 3,
+      "Path": "//Document/Table/TR/TH[8]",
+      "attributes": {
+        "BBox": [
+          402.583999999988,
+          295.9479999999894,
+          458.6209999999992,
+          323.42699999999604
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 7,
+        "Height": 27.5,
+        "InlineAlign": "Start",
+        "RowIndex": 0,
+        "Width": 56
+      }
+    },
+    {
+      "Bounds": [
+        409.3675994873047,
+        299.6199035644531,
+        454.9996032714844,
+        320.11590576171875
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Neue LT Pro",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Helvetica Neue LT Pro",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "EXDVDV+HelveticaNeueLTPro-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1549,
+      "Page": 3,
+      "Path": "//Document/Table/TR/TH[8]/P",
+      "Text": "Progression-free survival ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 11
+      }
+    },
+    {
+      "Bounds": [
+        464.8955993652344,
+        305.11590576171875,
+        518.5356140136719,
+        314.6118927001953
+      ],
+      "ObjectID": 1545,
+      "Page": 3,
+      "Path": "//Document/Table/TR/TH[9]",
+      "attributes": {
+        "BBox": [
+          458.6209999999992,
+          295.9479999999894,
+          550.05799999999,
+          323.42699999999604
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 8,
+        "Height": 27.5,
+        "InlineAlign": "Start",
+        "RowIndex": 0,
+        "Width": 91.375
+      }
+    },
+    {
+      "Bounds": [
+        464.8955993652344,
+        305.11590576171875,
+        518.5356140136719,
+        314.6118927001953
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Neue LT Pro",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Helvetica Neue LT Pro",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "EXDVDV+HelveticaNeueLTPro-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1546,
+      "Page": 3,
+      "Path": "//Document/Table/TR/TH[9]/P",
+      "Text": "Complications ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        51.03959655761719,
+        283.10789489746094,
+        57.71159362792969,
+        292.60389709472656
+      ],
+      "ObjectID": 1501,
+      "Page": 3,
+      "Path": "//Document/Table/TR[2]/TD",
+      "attributes": {
+        "BBox": [
+          45.35819999999876,
+          269.4289999999892,
+          68.63719999999739,
+          295.9479999999894
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 0,
+        "Height": 26.5,
+        "InlineAlign": "Start",
+        "RowIndex": 1,
+        "Width": 23.25
+      }
+    },
+    {
+      "Bounds": [
+        51.03959655761719,
+        283.10789489746094,
+        57.71159362792969,
+        292.60389709472656
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Neue LT Pro",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Helvetica Neue LT Pro",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "EXDVDV+HelveticaNeueLTPro-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1534,
+      "Page": 3,
+      "Path": "//Document/Table/TR[2]/TD/P",
+      "Text": "1 ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        78.28759765625,
+        283.10789489746094,
+        99.03955078125,
+        292.60389709472656
+      ],
+      "ObjectID": 1502,
+      "Page": 3,
+      "Path": "//Document/Table/TR[2]/TD[2]",
+      "attributes": {
+        "BBox": [
+          68.63719999999739,
+          269.4289999999892,
+          114.95499999999811,
+          295.9479999999894
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 1,
+        "Height": 26.5,
+        "InlineAlign": "Start",
+        "RowIndex": 1,
+        "Width": 46.375
+      }
+    },
+    {
+      "Bounds": [
+        78.28759765625,
+        283.10789489746094,
+        99.03955078125,
+        292.60389709472656
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Neue LT Pro",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Helvetica Neue LT Pro",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "EXDVDV+HelveticaNeueLTPro-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1531,
+      "Page": 3,
+      "Path": "//Document/Table/TR[2]/TD[2]/P",
+      "Text": "75/M ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        124.77560424804688,
+        272.10789489746094,
+        204.21481323242188,
+        292.60389709472656
+      ],
+      "ObjectID": 1503,
+      "Page": 3,
+      "Path": "//Document/Table/TR[2]/TD[3]",
+      "attributes": {
+        "BBox": [
+          114.95499999999811,
+          269.4289999999892,
+          204.35199999999895,
+          295.9479999999894
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 2,
+        "Height": 26.5,
+        "InlineAlign": "Start",
+        "RowIndex": 1,
+        "Width": 89.375
+      }
+    },
+    {
+      "Bounds": [
+        124.77560424804688,
+        272.10789489746094,
+        204.21481323242188,
+        292.60389709472656
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Neue LT Pro",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Helvetica Neue LT Pro",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "EXDVDV+HelveticaNeueLTPro-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1528,
+      "Page": 3,
+      "Path": "//Document/Table/TR[2]/TD[3]/P",
+      "Text": "Lung metastasis from colon cancer ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 10.875
+      }
+    },
+    {
+      "Bounds": [
+        208.67959594726562,
+        283.10789489746094,
+        225.27957153320312,
+        292.60389709472656
+      ],
+      "ObjectID": 1504,
+      "Page": 3,
+      "Path": "//Document/Table/TR[2]/TD[4]",
+      "attributes": {
+        "BBox": [
+          204.35199999999895,
+          269.4289999999892,
+          247.0699999999997,
+          295.9479999999894
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 3,
+        "Height": 26.5,
+        "InlineAlign": "Start",
+        "RowIndex": 1,
+        "Width": 42.75
+      }
+    },
+    {
+      "Bounds": [
+        208.67959594726562,
+        283.10789489746094,
+        225.27957153320312,
+        292.60389709472656
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Neue LT Pro",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Helvetica Neue LT Pro",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "EXDVDV+HelveticaNeueLTPro-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1525,
+      "Page": 3,
+      "Path": "//Document/Table/TR[2]/TD[4]/P",
+      "Text": "RLL ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        256.87159729003906,
+        283.10789489746094,
+        267.99159240722656,
+        292.60389709472656
+      ],
+      "ObjectID": 1505,
+      "Page": 3,
+      "Path": "//Document/Table/TR[2]/TD[5]",
+      "attributes": {
+        "BBox": [
+          247.0699999999997,
+          269.4289999999892,
+          297.82799999999406,
+          295.9479999999894
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 4,
+        "Height": 26.5,
+        "InlineAlign": "Start",
+        "RowIndex": 1,
+        "Width": 50.75
+      }
+    },
+    {
+      "Bounds": [
+        256.87159729003906,
+        283.10789489746094,
+        267.99159240722656,
+        292.60389709472656
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Neue LT Pro",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Helvetica Neue LT Pro",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "EXDVDV+HelveticaNeueLTPro-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1522,
+      "Page": 3,
+      "Path": "//Document/Table/TR[2]/TD[5]/P",
+      "Text": "36 ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        305.91160583496094,
+        283.10789489746094,
+        312.58360290527344,
+        292.60389709472656
+      ],
+      "ObjectID": 1506,
+      "Page": 3,
+      "Path": "//Document/Table/TR[2]/TD[6]",
+      "attributes": {
+        "BBox": [
+          297.82799999999406,
+          269.4289999999892,
+          348.70599999999104,
+          295.9479999999894
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 5,
+        "Height": 26.5,
+        "InlineAlign": "Start",
+        "RowIndex": 1,
+        "Width": 50.875
+      }
+    },
+    {
+      "Bounds": [
+        305.91160583496094,
+        283.10789489746094,
+        312.58360290527344,
+        292.60389709472656
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Neue LT Pro",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Helvetica Neue LT Pro",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "EXDVDV+HelveticaNeueLTPro-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1519,
+      "Page": 3,
+      "Path": "//Document/Table/TR[2]/TD[6]/P",
+      "Text": "5 ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        356.6555938720703,
+        283.10789489746094,
+        367.7755889892578,
+        292.60389709472656
+      ],
+      "ObjectID": 1507,
+      "Page": 3,
+      "Path": "//Document/Table/TR[2]/TD[7]",
+      "attributes": {
+        "BBox": [
+          348.70599999999104,
+          269.4289999999892,
+          402.583999999988,
+          295.9479999999894
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 6,
+        "Height": 26.5,
+        "InlineAlign": "Start",
+        "RowIndex": 1,
+        "Width": 53.875
+      }
+    },
+    {
+      "Bounds": [
+        356.6555938720703,
+        283.10789489746094,
+        367.7755889892578,
+        292.60389709472656
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Neue LT Pro",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Helvetica Neue LT Pro",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "EXDVDV+HelveticaNeueLTPro-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1516,
+      "Page": 3,
+      "Path": "//Document/Table/TR[2]/TD[7]/P",
+      "Text": "16 ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        409.38360595703125,
+        283.10789489746094,
+        433.43963623046875,
+        292.60389709472656
+      ],
+      "ObjectID": 1508,
+      "Page": 3,
+      "Path": "//Document/Table/TR[2]/TD[8]",
+      "attributes": {
+        "BBox": [
+          402.583999999988,
+          269.4289999999892,
+          458.6209999999992,
+          295.9479999999894
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 7,
+        "Height": 26.5,
+        "InlineAlign": "Start",
+        "RowIndex": 1,
+        "Width": 56
+      }
+    },
+    {
+      "Bounds": [
+        409.38360595703125,
+        283.10789489746094,
+        433.43963623046875,
+        292.60389709472656
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Neue LT Pro",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Helvetica Neue LT Pro",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "EXDVDV+HelveticaNeueLTPro-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1513,
+      "Page": 3,
+      "Path": "//Document/Table/TR[2]/TD[8]/P",
+      "Text": "+ (PR) ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        464.91160583496094,
+        283.10789489746094,
+        471.93565368652344,
+        292.60389709472656
+      ],
+      "ObjectID": 1509,
+      "Page": 3,
+      "Path": "//Document/Table/TR[2]/TD[9]",
+      "attributes": {
+        "BBox": [
+          458.6209999999992,
+          269.4289999999892,
+          550.05799999999,
+          295.9479999999894
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 8,
+        "Height": 26.5,
+        "InlineAlign": "Start",
+        "RowIndex": 1,
+        "Width": 91.375
+      }
+    },
+    {
+      "Bounds": [
+        464.91160583496094,
+        283.10789489746094,
+        471.93565368652344,
+        292.60389709472656
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Neue LT Pro",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Helvetica Neue LT Pro",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "EXDVDV+HelveticaNeueLTPro-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1510,
+      "Page": 3,
+      "Path": "//Document/Table/TR[2]/TD[9]/P",
+      "Text": "− ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        51.05560302734375,
+        255.60389709472656,
+        57.72760009765625,
+        265.0998992919922
+      ],
+      "ObjectID": 1465,
+      "Page": 3,
+      "Path": "//Document/Table/TR[3]/TD",
+      "attributes": {
+        "BBox": [
+          45.35819999999876,
+          241.82999999999447,
+          68.63719999999739,
+          269.4289999999892
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 0,
+        "Height": 27.625,
+        "InlineAlign": "Start",
+        "RowIndex": 2,
+        "Width": 23.25
+      }
+    },
+    {
+      "Bounds": [
+        51.05560302734375,
+        255.60389709472656,
+        57.72760009765625,
+        265.0998992919922
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Neue LT Pro",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Helvetica Neue LT Pro",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "EXDVDV+HelveticaNeueLTPro-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1498,
+      "Page": 3,
+      "Path": "//Document/Table/TR[3]/TD/P",
+      "Text": "2 ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        78.30360412597656,
+        255.60389709472656,
+        96.67958068847656,
+        265.0998992919922
+      ],
+      "ObjectID": 1466,
+      "Page": 3,
+      "Path": "//Document/Table/TR[3]/TD[2]",
+      "attributes": {
+        "BBox": [
+          68.63719999999739,
+          241.82999999999447,
+          114.95499999999811,
+          269.4289999999892
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 1,
+        "Height": 27.625,
+        "InlineAlign": "Start",
+        "RowIndex": 2,
+        "Width": 46.375
+      }
+    },
+    {
+      "Bounds": [
+        78.30360412597656,
+        255.60389709472656,
+        96.67958068847656,
+        265.0998992919922
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Neue LT Pro",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Helvetica Neue LT Pro",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "EXDVDV+HelveticaNeueLTPro-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1495,
+      "Page": 3,
+      "Path": "//Document/Table/TR[3]/TD[2]/P",
+      "Text": "57/F ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        124.79159545898438,
+        244.60389709472656,
+        204.23081970214844,
+        265.0998992919922
+      ],
+      "ObjectID": 1467,
+      "Page": 3,
+      "Path": "//Document/Table/TR[3]/TD[3]",
+      "attributes": {
+        "BBox": [
+          114.95499999999811,
+          241.82999999999447,
+          204.35199999999895,
+          269.4289999999892
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 2,
+        "Height": 27.625,
+        "InlineAlign": "Start",
+        "RowIndex": 2,
+        "Width": 89.375
+      }
+    },
+    {
+      "Bounds": [
+        124.79159545898438,
+        244.60389709472656,
+        204.23081970214844,
+        265.0998992919922
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Neue LT Pro",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Helvetica Neue LT Pro",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "EXDVDV+HelveticaNeueLTPro-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1492,
+      "Page": 3,
+      "Path": "//Document/Table/TR[3]/TD[3]/P",
+      "Text": "Lung metastasis from colon cancer ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 10.875
+      }
+    },
+    {
+      "Bounds": [
+        208.6956024169922,
+        255.60389709472656,
+        226.6235809326172,
+        265.0998992919922
+      ],
+      "ObjectID": 1468,
+      "Page": 3,
+      "Path": "//Document/Table/TR[3]/TD[4]",
+      "attributes": {
+        "BBox": [
+          204.35199999999895,
+          241.82999999999447,
+          247.0699999999997,
+          269.4289999999892
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 3,
+        "Height": 27.625,
+        "InlineAlign": "Start",
+        "RowIndex": 2,
+        "Width": 42.75
+      }
+    },
+    {
+      "Bounds": [
+        208.6956024169922,
+        255.60389709472656,
+        226.6235809326172,
+        265.0998992919922
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Neue LT Pro",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Helvetica Neue LT Pro",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "EXDVDV+HelveticaNeueLTPro-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1489,
+      "Page": 3,
+      "Path": "//Document/Table/TR[3]/TD[4]/P",
+      "Text": "RUL ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        256.8876037597656,
+        255.60389709472656,
+        268.0075988769531,
+        265.0998992919922
+      ],
+      "ObjectID": 1469,
+      "Page": 3,
+      "Path": "//Document/Table/TR[3]/TD[5]",
+      "attributes": {
+        "BBox": [
+          247.0699999999997,
+          241.82999999999447,
+          297.82799999999406,
+          269.4289999999892
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 4,
+        "Height": 27.625,
+        "InlineAlign": "Start",
+        "RowIndex": 2,
+        "Width": 50.75
+      }
+    },
+    {
+      "Bounds": [
+        256.8876037597656,
+        255.60389709472656,
+        268.0075988769531,
+        265.0998992919922
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Neue LT Pro",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Helvetica Neue LT Pro",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "EXDVDV+HelveticaNeueLTPro-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1486,
+      "Page": 3,
+      "Path": "//Document/Table/TR[3]/TD[5]/P",
+      "Text": "20 ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        305.92759704589844,
+        255.60389709472656,
+        312.59959411621094,
+        265.0998992919922
+      ],
+      "ObjectID": 1470,
+      "Page": 3,
+      "Path": "//Document/Table/TR[3]/TD[6]",
+      "attributes": {
+        "BBox": [
+          297.82799999999406,
+          241.82999999999447,
+          348.70599999999104,
+          269.4289999999892
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 5,
+        "Height": 27.625,
+        "InlineAlign": "Start",
+        "RowIndex": 2,
+        "Width": 50.875
+      }
+    },
+    {
+      "Bounds": [
+        305.92759704589844,
+        255.60389709472656,
+        312.59959411621094,
+        265.0998992919922
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Neue LT Pro",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Helvetica Neue LT Pro",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "EXDVDV+HelveticaNeueLTPro-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1483,
+      "Page": 3,
+      "Path": "//Document/Table/TR[3]/TD[6]/P",
+      "Text": "4 ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        356.6716003417969,
+        255.60389709472656,
+        367.7915954589844,
+        265.0998992919922
+      ],
+      "ObjectID": 1471,
+      "Page": 3,
+      "Path": "//Document/Table/TR[3]/TD[7]",
+      "attributes": {
+        "BBox": [
+          348.70599999999104,
+          241.82999999999447,
+          402.583999999988,
+          269.4289999999892
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 6,
+        "Height": 27.625,
+        "InlineAlign": "Start",
+        "RowIndex": 2,
+        "Width": 53.875
+      }
+    },
+    {
+      "Bounds": [
+        356.6716003417969,
+        255.60389709472656,
+        367.7915954589844,
+        265.0998992919922
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Neue LT Pro",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Helvetica Neue LT Pro",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "EXDVDV+HelveticaNeueLTPro-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1480,
+      "Page": 3,
+      "Path": "//Document/Table/TR[3]/TD[7]/P",
+      "Text": "14 ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        409.39959716796875,
+        255.60389709472656,
+        433.45562744140625,
+        265.0998992919922
+      ],
+      "ObjectID": 1472,
+      "Page": 3,
+      "Path": "//Document/Table/TR[3]/TD[8]",
+      "attributes": {
+        "BBox": [
+          402.583999999988,
+          241.82999999999447,
+          458.6209999999992,
+          269.4289999999892
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 7,
+        "Height": 27.625,
+        "InlineAlign": "Start",
+        "RowIndex": 2,
+        "Width": 56
+      }
+    },
+    {
+      "Bounds": [
+        409.39959716796875,
+        255.60389709472656,
+        433.45562744140625,
+        265.0998992919922
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Neue LT Pro",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Helvetica Neue LT Pro",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "EXDVDV+HelveticaNeueLTPro-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1477,
+      "Page": 3,
+      "Path": "//Document/Table/TR[3]/TD[8]/P",
+      "Text": "+ (PR) ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        464.92759704589844,
+        255.60389709472656,
+        471.95164489746094,
+        265.0998992919922
+      ],
+      "ObjectID": 1473,
+      "Page": 3,
+      "Path": "//Document/Table/TR[3]/TD[9]",
+      "attributes": {
+        "BBox": [
+          458.6209999999992,
+          241.82999999999447,
+          550.05799999999,
+          269.4289999999892
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 8,
+        "Height": 27.625,
+        "InlineAlign": "Start",
+        "RowIndex": 2,
+        "Width": 91.375
+      }
+    },
+    {
+      "Bounds": [
+        464.92759704589844,
+        255.60389709472656,
+        471.95164489746094,
+        265.0998992919922
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Neue LT Pro",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Helvetica Neue LT Pro",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "EXDVDV+HelveticaNeueLTPro-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1474,
+      "Page": 3,
+      "Path": "//Document/Table/TR[3]/TD[9]/P",
+      "Text": "− ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        51.07159423828125,
+        228.0998992919922,
+        57.74359130859375,
+        237.5959014892578
+      ],
+      "ObjectID": 1427,
+      "Page": 3,
+      "Path": "//Document/Table/TR[4]/TD",
+      "attributes": {
+        "BBox": [
+          45.35819999999876,
+          213.15099999999802,
+          68.63719999999739,
+          241.82999999999447
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 0,
+        "Height": 28.625,
+        "InlineAlign": "Start",
+        "RowIndex": 3,
+        "Width": 23.25
+      }
+    },
+    {
+      "Bounds": [
+        51.07159423828125,
+        228.0998992919922,
+        57.74359130859375,
+        237.5959014892578
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Neue LT Pro",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Helvetica Neue LT Pro",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "EXDVDV+HelveticaNeueLTPro-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1462,
+      "Page": 3,
+      "Path": "//Document/Table/TR[4]/TD/P",
+      "Text": "3 ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        78.31959533691406,
+        228.0998992919922,
+        96.69557189941406,
+        237.5959014892578
+      ],
+      "ObjectID": 1428,
+      "Page": 3,
+      "Path": "//Document/Table/TR[4]/TD[2]",
+      "attributes": {
+        "BBox": [
+          68.63719999999739,
+          213.15099999999802,
+          114.95499999999811,
+          241.82999999999447
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 1,
+        "Height": 28.625,
+        "InlineAlign": "Start",
+        "RowIndex": 3,
+        "Width": 46.375
+      }
+    },
+    {
+      "Bounds": [
+        78.31959533691406,
+        228.0998992919922,
+        96.69557189941406,
+        237.5959014892578
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Neue LT Pro",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Helvetica Neue LT Pro",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "EXDVDV+HelveticaNeueLTPro-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1459,
+      "Page": 3,
+      "Path": "//Document/Table/TR[4]/TD[2]/P",
+      "Text": "65/F ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        124.80760192871094,
+        217.0998992919922,
+        186.7508544921875,
+        237.5959014892578
+      ],
+      "ObjectID": 1429,
+      "Page": 3,
+      "Path": "//Document/Table/TR[4]/TD[3]",
+      "attributes": {
+        "BBox": [
+          114.95499999999811,
+          213.15099999999802,
+          204.35199999999895,
+          241.82999999999447
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 2,
+        "Height": 28.625,
+        "InlineAlign": "Start",
+        "RowIndex": 3,
+        "Width": 89.375
+      }
+    },
+    {
+      "Bounds": [
+        124.80760192871094,
+        228.0998992919922,
+        144.96763610839844,
+        237.5959014892578
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Neue LT Pro",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Helvetica Neue LT Pro",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "EXDVDV+HelveticaNeueLTPro-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1456,
+      "Page": 3,
+      "Path": "//Document/Table/TR[4]/TD[3]/P/Sub",
+      "Text": "Lung ",
+      "TextSize": 8.0,
+      "attributes": {
+        "Placement": "Block"
+      }
+    },
+    {
+      "Bounds": [
+        124.80760192871094,
+        217.0998992919922,
+        186.7508544921875,
+        226.5959014892578
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Neue LT Pro",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Helvetica Neue LT Pro",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "EXDVDV+HelveticaNeueLTPro-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1457,
+      "Page": 3,
+      "Path": "//Document/Table/TR[4]/TD[3]/P/Sub[2]",
+      "Text": "adenocarcinoma ",
+      "TextSize": 8.0,
+      "attributes": {
+        "Placement": "Block"
+      }
+    },
+    {
+      "Bounds": [
+        208.7115936279297,
+        228.0998992919922,
+        225.3115692138672,
+        237.5959014892578
+      ],
+      "ObjectID": 1430,
+      "Page": 3,
+      "Path": "//Document/Table/TR[4]/TD[4]",
+      "attributes": {
+        "BBox": [
+          204.35199999999895,
+          213.15099999999802,
+          247.0699999999997,
+          241.82999999999447
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 3,
+        "Height": 28.625,
+        "InlineAlign": "Start",
+        "RowIndex": 3,
+        "Width": 42.75
+      }
+    },
+    {
+      "Bounds": [
+        208.7115936279297,
+        228.0998992919922,
+        225.3115692138672,
+        237.5959014892578
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Neue LT Pro",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Helvetica Neue LT Pro",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "EXDVDV+HelveticaNeueLTPro-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1451,
+      "Page": 3,
+      "Path": "//Document/Table/TR[4]/TD[4]/P",
+      "Text": "RLL ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        256.9035949707031,
+        228.0998992919922,
+        263.5755920410156,
+        237.5959014892578
+      ],
+      "ObjectID": 1431,
+      "Page": 3,
+      "Path": "//Document/Table/TR[4]/TD[5]",
+      "attributes": {
+        "BBox": [
+          247.0699999999997,
+          213.15099999999802,
+          297.82799999999406,
+          241.82999999999447
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 4,
+        "Height": 28.625,
+        "InlineAlign": "Start",
+        "RowIndex": 3,
+        "Width": 50.75
+      }
+    },
+    {
+      "Bounds": [
+        256.9035949707031,
+        228.0998992919922,
+        263.5755920410156,
+        237.5959014892578
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Neue LT Pro",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Helvetica Neue LT Pro",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "EXDVDV+HelveticaNeueLTPro-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1448,
+      "Page": 3,
+      "Path": "//Document/Table/TR[4]/TD[5]/P",
+      "Text": "8 ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        305.943603515625,
+        228.0998992919922,
+        312.6156005859375,
+        237.5959014892578
+      ],
+      "ObjectID": 1432,
+      "Page": 3,
+      "Path": "//Document/Table/TR[4]/TD[6]",
+      "attributes": {
+        "BBox": [
+          297.82799999999406,
+          213.15099999999802,
+          348.70599999999104,
+          241.82999999999447
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 5,
+        "Height": 28.625,
+        "InlineAlign": "Start",
+        "RowIndex": 3,
+        "Width": 50.875
+      }
+    },
+    {
+      "Bounds": [
+        305.943603515625,
+        228.0998992919922,
+        312.6156005859375,
+        237.5959014892578
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Neue LT Pro",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Helvetica Neue LT Pro",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "EXDVDV+HelveticaNeueLTPro-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1445,
+      "Page": 3,
+      "Path": "//Document/Table/TR[4]/TD[6]/P",
+      "Text": "3 ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        356.68760681152344,
+        228.0998992919922,
+        367.80760192871094,
+        237.5959014892578
+      ],
+      "ObjectID": 1433,
+      "Page": 3,
+      "Path": "//Document/Table/TR[4]/TD[7]",
+      "attributes": {
+        "BBox": [
+          348.70599999999104,
+          213.15099999999802,
+          402.583999999988,
+          241.82999999999447
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 6,
+        "Height": 28.625,
+        "InlineAlign": "Start",
+        "RowIndex": 3,
+        "Width": 53.875
+      }
+    },
+    {
+      "Bounds": [
+        356.68760681152344,
+        228.0998992919922,
+        367.80760192871094,
+        237.5959014892578
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Neue LT Pro",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Helvetica Neue LT Pro",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "EXDVDV+HelveticaNeueLTPro-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1442,
+      "Page": 3,
+      "Path": "//Document/Table/TR[4]/TD[7]/P",
+      "Text": "12 ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        409.4156036376953,
+        228.0998992919922,
+        434.0635528564453,
+        237.5959014892578
+      ],
+      "ObjectID": 1434,
+      "Page": 3,
+      "Path": "//Document/Table/TR[4]/TD[8]",
+      "attributes": {
+        "BBox": [
+          402.583999999988,
+          213.15099999999802,
+          458.6209999999992,
+          241.82999999999447
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 7,
+        "Height": 28.625,
+        "InlineAlign": "Start",
+        "RowIndex": 3,
+        "Width": 56
+      }
+    },
+    {
+      "Bounds": [
+        409.4156036376953,
+        228.0998992919922,
+        434.0635528564453,
+        237.5959014892578
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Neue LT Pro",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Helvetica Neue LT Pro",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "EXDVDV+HelveticaNeueLTPro-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1439,
+      "Page": 3,
+      "Path": "//Document/Table/TR[4]/TD[8]/P",
+      "Text": "+ (CR) ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        464.943603515625,
+        217.0998992919922,
+        541.8468017578125,
+        237.5959014892578
+      ],
+      "ObjectID": 1435,
+      "Page": 3,
+      "Path": "//Document/Table/TR[4]/TD[9]",
+      "attributes": {
+        "BBox": [
+          458.6209999999992,
+          213.15099999999802,
+          550.05799999999,
+          241.82999999999447
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 8,
+        "Height": 28.625,
+        "InlineAlign": "Start",
+        "RowIndex": 3,
+        "Width": 91.375
+      }
+    },
+    {
+      "Bounds": [
+        464.943603515625,
+        217.0998992919922,
+        541.8468017578125,
+        237.5959014892578
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Neue LT Pro",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Helvetica Neue LT Pro",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "EXDVDV+HelveticaNeueLTPro-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1436,
+      "Page": 3,
+      "Path": "//Document/Table/TR[4]/TD[9]/P",
+      "Text": "Skin hypersensitivity, grade I ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 11
+      }
+    },
+    {
+      "Bounds": [
+        51.08760070800781,
+        190.76390075683594,
+        547.3341064453125,
+        211.25990295410156
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Neue LT Pro",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Helvetica Neue LT Pro",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "EXDVDV+HelveticaNeueLTPro-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1353,
+      "Page": 3,
+      "Path": "//Document/P[23]",
+      "Text": "M, male; F, female; PDT, photodynamic therapy; ENB, electromagnetic navigation bronchoscopy; PR, partial remission; CR, complete remission; RLL, right lower lobe; RUL, right upper lobe ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 11,
+        "SpaceAfter": 18
+      }
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        75.69679260253906,
+        290.1702117919922,
+        164.17979431152344
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "PSJJGZ+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1354,
+      "Page": 3,
+      "Path": "//Document/P[24]",
+      "Text": "ENB-guided PDT ablation. The only complication was mild skin hypersensitivity in one patient one month after discharge. Neither mortality nor major morbidity were noted throughout all of the procedures. The follow-up CT showed tumor shrinkage in the patients. One patient had CR and two got PR (Figure 4). ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 15.25,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        308.9792938232422,
+        152.69430541992188,
+        366.11236572265625,
+        164.3603057861328
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Black",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Helvetica Black",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "JHVZVL+HelveticaBlack",
+        "subset": true,
+        "weight": 900
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1355,
+      "Page": 3,
+      "Path": "//Document/H1[5]",
+      "Text": "Discussion ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 11.375,
+        "SpaceAfter": 7.5
+      }
+    },
+    {
+      "Bounds": [
+        308.9792938232422,
+        75.85830688476562,
+        554.0800476074219,
+        143.0518035888672
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "PSJJGZ+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1356,
+      "Page": 3,
+      "Path": "//Document/P[25]",
+      "Text": "Early lung cancer has in recent years become an important issue in the clinical practice of thoracic oncology due to the increased incidence of lung cancer and prevalence of low-dose CT screening (1-3). Thoracic surgeons are referred more and more patients with peripheral lung ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 13.75,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        123.13400268554688,
+        568.4779663085938,
+        471.8919982910156,
+        695.7460327148438
+      ],
+      "ObjectID": 1357,
+      "Page": 4,
+      "Path": "//Document/Figure[4]",
+      "attributes": {
+        "BBox": [
+          123.35499999999956,
+          568.5769999999902,
+          471.8209999999963,
+          694.4509999999718
+        ],
+        "Placement": "Block"
+      }
+    },
+    {
+      "Bounds": [
+        123.13400268554688,
+        568.4779663085938,
+        471.8919982910156,
+        695.7460327148438
+      ],
+      "Font": {
+        "alt_family_name": "Humanist",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Humanist 52 1 BT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FBSBRT+Humanist521BT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1357,
+      "Page": 4,
+      "Path": "//Document/Figure[4]",
+      "Text": "A B ",
+      "TextSize": 10.889999389648438,
+      "attributes": {
+        "BBox": [
+          123.35499999999956,
+          568.5769999999902,
+          471.8209999999963,
+          694.4509999999718
+        ],
+        "Placement": "Block"
+      }
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        537.6356964111328,
+        552.3719482421875,
+        561.3847045898438
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "IDGTHN+JansonTextLT-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1358,
+      "Page": 4,
+      "Path": "//Document/P[26]",
+      "Text": "Figure 4 The pre-PDT axial CT (A) and the post-PDT axial CT 3 months later (B). The tumor volume shrinkage was more than 50% (PR). PR, partial remission; PDT, photodynamic therapy; CT, computed tomography. ",
+      "TextSize": 8.5,
+      "attributes": {
+        "LineHeight": 13.125,
+        "SpaceAfter": 18
+      }
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        69.53509521484375,
+        291.18666076660156,
+        511.5605926513672
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "PSJJGZ+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1415,
+      "Page": 4,
+      "Path": "//Document/P[27]/ParagraphSpan",
+      "Text": "lesions for consideration of surgical resection, which is still the gold standard treatment of choice (4-6). However, some doubts about the significance of invasive procedures for very early lung cancer have been noted (16). With the aid of ENB, the PDT probe can reach the lung periphery where the tumor is located. This novel technique utilizes the virtual image generated to guide the surgeon through a route of predetermined points within the bronchial tree, allowing improved access to peripheral lung lesions which conventional methods are incapable of reaching. Using ENB-guided sampling methods, the sensitivity for the detection of malignancy with bronchoscopic biopsy, brushing or fine-needle aspiration (FNA) has been estimated to be about 83% (4,5,12-14). One recent animal experiment reported that ENB-guided PDT was successful in dogs (17). We performed a pioneering study of three patients who underwent localization of pulmonary nodules via Super-D ENB guidance followed by PDT irradiation of the lung tumor in a hybrid OR. The aid of hybrid OR can confirm the localization by 2D or 3D image, which makes the navigation even more accurate (15). Our initial experience was successful and there were no adverse events related to ENB-guided localization. Localization techniques for lung nodules are typically reserved for lesions that are small and deep-seated in the lung parenchyma, or lesions that are ground glass opacities (GGOs) (4,5,12-14). The outcome obtained by ENB in our study is in agreement with previous studies of the safety and efficacy of ENB-guided transbronchial localization, which used transbronchial marking with methylene blue before minimally invasive thoracoscopic or robotic resection to guide the surgeon. These previous studies found that this technique could be readily mastered and with less than a year of experience using ",
+      "TextSize": 9.5
+    },
+    {
+      "Bounds": [
+        308.9792938232422,
+        434.3730926513672,
+        553.9814758300781,
+        511.44659423828125
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "PSJJGZ+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1416,
+      "Page": 4,
+      "Path": "//Document/P[27]/ParagraphSpan[2]",
+      "Text": "the procedure at their site, there were no adverse events related to marking with dye, and no conversions from VATS to thoracotomy (4,5,12,13). Our study shows that, with the aid of ENB, PDT can be successfully used not only to ablate central-type lung malignancies but also peripheral ones. ",
+      "TextSize": 9.5
+    },
+    {
+      "Bounds": [
+        308.9792938232422,
+        356.1690979003906,
+        554.2096405029297,
+        433.2425994873047
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "PSJJGZ+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1360,
+      "Page": 4,
+      "Path": "//Document/P[28]",
+      "Text": "There are some limitations to this work. First, this was a pioneering study with only a few cases. Second, the followup time is short. It is very likely that it carried selection bias. Prospective, multi-institutional randomized controlled studies are necessary to further demonstrate the real benefits of PDT with ENB in lung tumor patients. ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 13,
+        "SpaceAfter": 18,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        308.9792938232422,
+        324.0115966796875,
+        372.6292724609375,
+        335.67759704589844
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Black",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Helvetica Black",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "JHVZVL+HelveticaBlack",
+        "subset": true,
+        "weight": 900
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1361,
+      "Page": 4,
+      "Path": "//Document/H1[6]",
+      "Text": "Conclusions ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 11.375,
+        "SpaceAfter": 6.5
+      }
+    },
+    {
+      "Bounds": [
+        308.9792938232422,
+        251.90660095214844,
+        553.1563720703125,
+        315.94610595703125
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "PSJJGZ+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1362,
+      "Page": 4,
+      "Path": "//Document/P[29]",
+      "Text": "In conclusion, this study demonstrates that ENB with PDT can achieve accurate intraoperative identification and ablation of peripheral pulmonary malignancy with the aid of Dyna-CT in the hybrid OR. It may be a feasible and alternative technique to control peripheral pulmonary cancer. ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 13,
+        "SpaceAfter": 18,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        308.9792938232422,
+        219.7490997314453,
+        409.463623046875,
+        231.41510009765625
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Black",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Helvetica Black",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "JHVZVL+HelveticaBlack",
+        "subset": true,
+        "weight": 900
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1363,
+      "Page": 4,
+      "Path": "//Document/H1[7]",
+      "Text": "Acknowledgements ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 11.375,
+        "SpaceAfter": 6.5
+      }
+    },
+    {
+      "Bounds": [
+        308.9792938232422,
+        121.57609558105469,
+        554.4773406982422,
+        211.68359375
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": true,
+        "monospaced": false,
+        "name": "ORIDNB+JansonTextLT-Italic",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1364,
+      "Page": 4,
+      "Path": "//Document/P[30]",
+      "Text": "Funding: This study was supported by the Ministry of Science and Technology (NSC 101-2314-B002-020- MY3, NSC 106-2314-B-002-241-MY2), National Health Research Institute (NHRI-EX102-10032BI), Ministry of Health and Welfare (DOH101-TD-I-111- NSC003), and National Taiwan University Hospital and National Taiwan University College of Medicine (NTUH 107C101-A3). ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 13,
+        "SpaceAfter": 18,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        308.9792938232422,
+        89.41859436035156,
+        355.6299285888672,
+        101.0845947265625
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Black",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Helvetica Black",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "JHVZVL+HelveticaBlack",
+        "subset": true,
+        "weight": 900
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1365,
+      "Page": 4,
+      "Path": "//Document/H1[8]",
+      "Text": "Footnote ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 11.375,
+        "SpaceAfter": 8.125
+      }
+    },
+    {
+      "Bounds": [
+        308.9792938232422,
+        69.297607421875,
+        552.3845062255859,
+        81.35310363769531
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Janson Text LT",
+        "font_type": "CIDFontType2",
+        "italic": true,
+        "monospaced": false,
+        "name": "ORIDNB+JansonTextLT-Italic",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1366,
+      "Page": 4,
+      "Path": "//Document/P[31]",
+      "Text": "Conflicts of Interest: The authors have no conflicts of interest ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 11.375
+      }
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        683.7675018310547,
+        89.67173767089844,
+        695.6710052490234
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "PSJJGZ+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1220,
+      "Page": 5,
+      "Path": "//Document/P[32]",
+      "Text": "to declare. ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 11.375,
+        "SpaceAfter": 13
+      }
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        605.7819976806641,
+        291.1964416503906,
+        669.6694946289062
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": true,
+        "monospaced": false,
+        "name": "ORIDNB+JansonTextLT-Italic",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1221,
+      "Page": 5,
+      "Path": "//Document/P[33]",
+      "Text": "Ethical Statement: This study was approved by the Research Ethics Committee of National Taiwan University Hospital (No. 201407063DINB) as did clinicaltrial.gov (NCT03211078). Written informed consent to participate was provided by the participants. ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 13,
+        "SpaceAfter": 18,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        574.1849975585938,
+        104.7777099609375,
+        585.8509979248047
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Black",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Helvetica Black",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "JHVZVL+HelveticaBlack",
+        "subset": true,
+        "weight": 900
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1222,
+      "Page": 5,
+      "Path": "//Document/H1[9]",
+      "Text": "References ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 11.375,
+        "SpaceAfter": 6.5
+      }
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        554.3316955566406,
+        54.68731689453125,
+        565.6087036132812
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "PSJJGZ+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1223,
+      "Page": 5,
+      "Path": "//Document/L/LI/Lbl",
+      "Text": "1. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        62.36430358886719,
+        515.3437042236328,
+        281.19932556152344,
+        565.6087036132812
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "PSJJGZ+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1224,
+      "Page": 5,
+      "Path": "//Document/L/LI/LBody",
+      "Text": "Moore MA, Manan AA, Chow KY, et al. Cancer epidemiology and control in peninsular and island South-East Asia - past, present and future. Asian Pac J Cancer Prev 2010;11 Suppl 2:81-98. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        502.3386993408203,
+        54.68731689453125,
+        513.6157073974609
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "PSJJGZ+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1225,
+      "Page": 5,
+      "Path": "//Document/L/LI[2]/Lbl",
+      "Text": "2. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        62.36430358886719,
+        476.34669494628906,
+        286.8512878417969,
+        513.6157073974609
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "PSJJGZ+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1226,
+      "Page": 5,
+      "Path": "//Document/L/LI[2]/LBody",
+      "Text": "Long N, Moore MA, Chen W, et al. Cancer epidemiology and control in north-East Asia - past, present and future. Asian Pac J Cancer Prev 2010;11 Suppl 2:107-48. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        463.3417053222656,
+        54.68731689453125,
+        474.6186981201172
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "PSJJGZ+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1227,
+      "Page": 5,
+      "Path": "//Document/L/LI[3]/Lbl",
+      "Text": "3. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        62.36430358886719,
+        437.3497009277344,
+        288.3944549560547,
+        474.6186981201172
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "PSJJGZ+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1228,
+      "Page": 5,
+      "Path": "//Document/L/LI[3]/LBody",
+      "Text": "Aberle DR, DeMello S, Berg CD, et al. Results of the two incidence screenings in the National Lung Screening Trial. N Engl J Med 2013;369:920-31. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        424.3446960449219,
+        54.68731689453125,
+        435.6217041015625
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "PSJJGZ+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1229,
+      "Page": 5,
+      "Path": "//Document/L/LI[4]/Lbl",
+      "Text": "4. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        62.36430358886719,
+        359.3647003173828,
+        284.7344665527344,
+        435.6217041015625
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "PSJJGZ+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1230,
+      "Page": 5,
+      "Path": "//Document/L/LI[4]/LBody",
+      "Text": "Ng CSH, Chu CM, Lo CK, et al. Hybrid operating room Dyna-computed tomography combined image-guided electromagnetic navigation bronchoscopy dye marking and hookwire localization video-assisted thoracic surgery metastasectomy. Interact Cardiovasc Thorac Surg 2018;26:338-40. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        346.35069274902344,
+        54.68731689453125,
+        357.62770080566406
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "PSJJGZ+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1231,
+      "Page": 5,
+      "Path": "//Document/L/LI[5]/Lbl",
+      "Text": "5. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        62.36430358886719,
+        307.3627014160156,
+        287.84124755859375,
+        357.62770080566406
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "PSJJGZ+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1232,
+      "Page": 5,
+      "Path": "//Document/L/LI[5]/LBody",
+      "Text": "Krimsky WS, Minnich DJ, Cattaneo SM, et al. Thoracoscopic detection of occult indeterminate pulmonary nodules using bronchoscopic pleural dye marking. J Community Hosp Intern Med Perspect 2014;4. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        294.3576965332031,
+        54.606292724609375,
+        305.63470458984375
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Janson Text LT",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "NNTXZD+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1233,
+      "Page": 5,
+      "Path": "//Document/L/LI[6]/Lbl",
+      "Text": "6. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        62.36430358886719,
+        268.36570739746094,
+        286.33831787109375,
+        305.63470458984375
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Janson Text LT",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "NNTXZD+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1234,
+      "Page": 5,
+      "Path": "//Document/L/LI[6]/LBody",
+      "Text": "Ichinose J, Kohno T, Fujimori S, et al. Efficacy and complications of computed tomography-guided hook wire localization. Ann Thorac Surg 2013;96:1203-8. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        255.36070251464844,
+        54.68731689453125,
+        266.6376953125
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "PSJJGZ+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1235,
+      "Page": 5,
+      "Path": "//Document/L/LI[7]/Lbl",
+      "Text": "7. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        62.36430358886719,
+        255.36070251464844,
+        287.4902801513672,
+        266.6376953125
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "PSJJGZ+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1236,
+      "Page": 5,
+      "Path": "//Document/L/LI[7]/LBody/ParagraphSpan",
+      "Text": "Usuda J, Kato H, Okunaka T, et al. Photodynamic therapy ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        325.9833068847656,
+        684.3636932373047,
+        541.6682739257812,
+        695.6407012939453
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "PSJJGZ+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1237,
+      "Page": 5,
+      "Path": "//Document/L/LI[7]/LBody/L/LI/LBody",
+      "Text": "(PDT) for lung cancers. J Thorac Oncol 2006;1:489-93. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        308.9732971191406,
+        671.3677062988281,
+        318.3063201904297,
+        682.6446990966797
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "PSJJGZ+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1238,
+      "Page": 5,
+      "Path": "//Document/L/LI[8]/Lbl",
+      "Text": "8. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        325.9833068847656,
+        645.3757019042969,
+        532.4883728027344,
+        682.6446990966797
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "PSJJGZ+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1239,
+      "Page": 5,
+      "Path": "//Document/L/LI[8]/LBody",
+      "Text": "Kato H, Usuda J, Okunaka T, et al. Basic and clinical research on photodynamic therapy at Tokyo Medical University Hospital. Lasers Surg Med 2006;38:371-5. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        308.9732971191406,
+        632.3706970214844,
+        318.3063201904297,
+        643.647705078125
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "PSJJGZ+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1240,
+      "Page": 5,
+      "Path": "//Document/L/LI[9]/Lbl",
+      "Text": "9. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        325.9833068847656,
+        593.3827056884766,
+        540.3003387451172,
+        643.647705078125
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "PSJJGZ+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1241,
+      "Page": 5,
+      "Path": "//Document/L/LI[9]/LBody",
+      "Text": "Chen KC, Hsieh YS, Tseng YF, et al. Pleural Photodynamic Therapy and Surgery in Lung Cancer and Thymoma Patients with Pleural Spread. PLoS One 2015;10:e0133230. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        308.9732971191406,
+        580.3777008056641,
+        322.977294921875,
+        591.6546936035156
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "PSJJGZ+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1242,
+      "Page": 5,
+      "Path": "//Document/L/LI[10]/Lbl",
+      "Text": "10. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        325.9833068847656,
+        554.3856964111328,
+        527.4384613037109,
+        591.6546936035156
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "PSJJGZ+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1243,
+      "Page": 5,
+      "Path": "//Document/L/LI[10]/LBody",
+      "Text": "Okunaka T, Kato H, Tsutsui H, et al. Photodynamic therapy for peripheral lung cancer. Lung Cancer 2004;43:77-82. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        308.9732971191406,
+        541.3807067871094,
+        322.977294921875,
+        552.6576995849609
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "PSJJGZ+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1244,
+      "Page": 5,
+      "Path": "//Document/L/LI[11]/Lbl",
+      "Text": "11. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        325.9833068847656,
+        515.3887023925781,
+        548.6163024902344,
+        552.6576995849609
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "PSJJGZ+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1245,
+      "Page": 5,
+      "Path": "//Document/L/LI[11]/LBody",
+      "Text": "Simone CB 2nd, Friedberg JS, Glatstein E, et al. Photodynamic therapy for the treatment of non-small cell lung cancer. J Thorac Dis 2012;4:63-75. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        308.9732971191406,
+        502.3836975097656,
+        323.33750915527344,
+        513.6607055664062
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "PSJJGZ+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1246,
+      "Page": 5,
+      "Path": "//Document/L/LI[12]/Lbl",
+      "Text": "12. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        325.9833068847656,
+        450.3997039794922,
+        541.6881866455078,
+        513.6607055664062
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "PSJJGZ+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1247,
+      "Page": 5,
+      "Path": "//Document/L/LI[12]/LBody",
+      "Text": "Bolton WD, Howe H 3rd, Stephenson JE. The utility of electromagnetic navigational bronchoscopy as a localization tool for robotic resection of small pulmonary nodules. Ann Thorac Surg 2014;98:471-5; discussion 475-6. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        308.9732971191406,
+        437.3856964111328,
+        322.977294921875,
+        448.66270446777344
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "PSJJGZ+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1248,
+      "Page": 5,
+      "Path": "//Document/L/LI[13]/Lbl",
+      "Text": "13. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        325.9833068847656,
+        398.397705078125,
+        539.958251953125,
+        448.66270446777344
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "PSJJGZ+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1249,
+      "Page": 5,
+      "Path": "//Document/L/LI[13]/LBody",
+      "Text": "Luo K, Lin Y, Lin X, et al. Localization of peripheral pulmonary lesions to aid surgical resection: a novel approach for electromagnetic navigation bronchoscopic dye marking. Eur J Cardiothorac Surg 2017;52:516-21. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        308.9732971191406,
+        385.3927001953125,
+        322.977294921875,
+        396.66969299316406
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "PSJJGZ+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1250,
+      "Page": 5,
+      "Path": "//Document/L/LI[14]/Lbl",
+      "Text": "14. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        325.9833068847656,
+        372.3966979980469,
+        538.9584045410156,
+        396.66969299316406
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "PSJJGZ+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1251,
+      "Page": 5,
+      "Path": "//Document/L/LI[14]/LBody",
+      "Text": "Port J, Harrison S. Electromagnetic navigational bronchoscopy. Semin Intervent Radiol 2013;30:128-32. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        308.9732971191406,
+        359.40069580078125,
+        322.977294921875,
+        370.6777038574219
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "PSJJGZ+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1252,
+      "Page": 5,
+      "Path": "//Document/L/LI[15]/Lbl",
+      "Text": "15. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        325.9833068847656,
+        333.40870666503906,
+        552.1173706054688,
+        370.6777038574219
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "PSJJGZ+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1253,
+      "Page": 5,
+      "Path": "//Document/L/LI[15]/LBody",
+      "Text": "Ng CS, Yu SC, Lau RW, et al. Hybrid DynaCT-guided electromagnetic navigational bronchoscopic biopsy†. Eur J Cardiothorac Surg 2016;49 Suppl 1:i87-8. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        308.9732971191406,
+        320.40370178222656,
+        322.977294921875,
+        331.6806945800781
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "PSJJGZ+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1254,
+      "Page": 5,
+      "Path": "//Document/L/LI[16]/Lbl",
+      "Text": "16. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        325.9833068847656,
+        307.40769958496094,
+        526.9622497558594,
+        331.6806945800781
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "PSJJGZ+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1255,
+      "Page": 5,
+      "Path": "//Document/L/LI[16]/LBody",
+      "Text": "Black WC, Baron JA. CT screening for lung cancer: spiraling into confusion? JAMA 2007;297:995-7. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        308.9732971191406,
+        294.4116973876953,
+        322.95909118652344,
+        305.68870544433594
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "PSJJGZ+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1256,
+      "Page": 5,
+      "Path": "//Document/L/LI[17]/Lbl",
+      "Text": "17. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        325.9833068847656,
+        268.41969299316406,
+        552.3485870361328,
+        305.68870544433594
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "PSJJGZ+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1257,
+      "Page": 5,
+      "Path": "//Document/L/LI[17]/LBody",
+      "Text": "Musani AI, Veir JK, Huang Z, et al. Photodynamic therapy via navigational bronchoscopy for peripheral lung cancer in dogs. Lasers Surg Med 2018. [Epub ahead of print]. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        51.02360534667969,
+        166.28280639648438,
+        284.6457061767578,
+        229.02130126953125
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "IDGTHN+JansonTextLT-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1258,
+      "Page": 5,
+      "Path": "//Document/Aside/P",
+      "Text": "Cite this article as: Chen KC, Lee JM. Photodynamic therapeutic ablation for peripheral pulmonary malignancy via electromagnetic navigation bronchoscopy localization in a hybrid operating room (OR): a pioneering study. J Thorac Dis 2018;10(Suppl 6):S725-S730. doi: 10.21037/jtd.2018.03.139 ",
+      "TextSize": 8.5,
+      "attributes": {
+        "LineHeight": 13,
+        "SpaceAfter": 18,
+        "TextAlign": "Justify"
+      }
+    }
+  ],
+  "pages": [
+    {
+      "boxes": {
+        "CropBox": [
+          0.0,
+          0.0,
+          595.2760009765625,
+          779.5280151367188
+        ],
+        "MediaBox": [
+          0.0,
+          0.0,
+          595.2760009765625,
+          779.5280151367188
+        ]
+      },
+      "height": 779.5280151367188,
+      "is_scanned": false,
+      "page_number": 0,
+      "rotation": 0,
+      "width": 595.2760009765625
+    },
+    {
+      "boxes": {
+        "CropBox": [
+          0.0,
+          0.0,
+          595.2760009765625,
+          779.5280151367188
+        ],
+        "MediaBox": [
+          0.0,
+          0.0,
+          595.2760009765625,
+          779.5280151367188
+        ]
+      },
+      "height": 779.5280151367188,
+      "is_scanned": false,
+      "page_number": 1,
+      "rotation": 0,
+      "width": 595.2760009765625
+    },
+    {
+      "boxes": {
+        "CropBox": [
+          0.0,
+          0.0,
+          595.2760009765625,
+          779.5280151367188
+        ],
+        "MediaBox": [
+          0.0,
+          0.0,
+          595.2760009765625,
+          779.5280151367188
+        ]
+      },
+      "height": 779.5280151367188,
+      "is_scanned": false,
+      "page_number": 2,
+      "rotation": 0,
+      "width": 595.2760009765625
+    },
+    {
+      "boxes": {
+        "CropBox": [
+          0.0,
+          0.0,
+          595.2760009765625,
+          779.5280151367188
+        ],
+        "MediaBox": [
+          0.0,
+          0.0,
+          595.2760009765625,
+          779.5280151367188
+        ]
+      },
+      "height": 779.5280151367188,
+      "is_scanned": false,
+      "page_number": 3,
+      "rotation": 0,
+      "width": 595.2760009765625
+    },
+    {
+      "boxes": {
+        "CropBox": [
+          0.0,
+          0.0,
+          595.2760009765625,
+          779.5280151367188
+        ],
+        "MediaBox": [
+          0.0,
+          0.0,
+          595.2760009765625,
+          779.5280151367188
+        ]
+      },
+      "height": 779.5280151367188,
+      "is_scanned": false,
+      "page_number": 4,
+      "rotation": 0,
+      "width": 595.2760009765625
+    },
+    {
+      "boxes": {
+        "CropBox": [
+          0.0,
+          0.0,
+          595.2760009765625,
+          779.5280151367188
+        ],
+        "MediaBox": [
+          0.0,
+          0.0,
+          595.2760009765625,
+          779.5280151367188
+        ]
+      },
+      "height": 779.5280151367188,
+      "is_scanned": false,
+      "page_number": 5,
+      "rotation": 0,
+      "width": 595.2760009765625
+    }
+  ]
+}

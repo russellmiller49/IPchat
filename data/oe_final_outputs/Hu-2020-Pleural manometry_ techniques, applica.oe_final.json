@@ -1,0 +1,87 @@
+{
+  "source": {
+    "document_id": "Hu-2020-Pleural manometry_ techniques, applica",
+    "ingest_date": "2025-08-08T13:22:50.335642+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.21037/jtd.2020.04.04"
+  },
+  "document": {
+    "metadata": {
+      "title": "Pleural manometry: techniques, applications, and pitfalls",
+      "year": 2020,
+      "authors": [
+        "Kurt Hu",
+        "Amit Chopra",
+        "John Terrill Huggins",
+        "Rahul Nanchal"
+      ],
+      "journal": "Journal of Thoracic Disease",
+      "doi": "10.21037/jtd.2020.04.04",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Pleural manometry (PM) is a novel tool that allows direct measurement of the pressure in the pleural space in the presence of either a pleural effusion or a pneumothorax. Originally it was used to guide therapy for tuberculosis (TB) before the development of anti-TB medications. It was relegated to highly specialized centers for thoracoscopies until Light used it to investigate pleural effusions in the 1980s. However, there remains lack of robust data to support the routine use of PM. Recently additional published studies have generated renewed interest supporting the use of PM in specialized cases of complex pleural disorders. In this paper we summarize the current different techniques, applications, and pitfalls for the use of PM.",
+      "methods": "Narrative review. The authors describe pleural manometry techniques (hemodynamic electronic transducer systems, digital manometer, and U-tube water manometer), setup considerations (zeroing, dampening, measurement timing), and other continuous-measurement approaches. They summarize pathophysiologic principles (pleural elastance, pressure-volume curves) and compile key observational and randomized data relevant to clinical applications (non-expandable lung diagnosis, large-volume thoracentesis guidance, pleurodesis in malignant pleural effusions, selected pneumothorax management). No systematic search, predefined inclusion criteria, or meta-analysis was reported.",
+      "results": "Key points summarized: Hemodynamic electronic transducer and digital manometer measurements show strong linear correlation (r=0.9582, p<0.001), while undampened U-tube and electronic transducer correlate poorly (r=0.448, p=0.84), noting that dampening improves agreement. Normal pleural elastance range is reported as 0.5 to 14.5 cmH2O/L based on modeling and observational data. Pressure-volume curve patterns differentiate normal expansion (monophasic, low elastance), lung entrapment (biphasic), and trapped lung (monophasic, high elastance). For large-volume thoracentesis, suggested stopping criteria include absolute pleural pressure below -20 cmH2O or a change >10 cmH2O between aliquots reaching ≤ -10 cmH2O. The review highlights that routine PM use lacks robust evidence but may aid in selected complex pleural disorders."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults undergoing pleural fluid or air drainage for pleural effusion or pneumothorax in whom pleural pressure measurement is considered.",
+      "inclusion_criteria": [],
+      "exclusion_criteria": []
+    },
+    "intervention": {
+      "text": "Pleural manometry",
+      "details": "Direct pleural pressure measurement via catheter using hemodynamic electronic transducers, digital manometers, or U-tube water manometers with intermittent or continuous measurement approaches."
+    },
+    "comparison": {
+      "text": "Not applicable",
+      "details": "Narrative review without a predefined comparator."
+    },
+    "outcomes": [
+      {
+        "name": "Review objective: summarize techniques, applications, and pitfalls of pleural manometry",
+        "type": "primary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Narrative review",
+    "allocation": "none",
+    "blinding": "none",
+    "sites_count": 0,
+    "countries": [
+      "US"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": []
+  },
+  "arms": [],
+  "outcomes_normalized": [],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "Not applicable (narrative review)",
+    "overall_judgment": "unclear",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "pleural manometry",
+      "pleural effusion",
+      "pneumothorax",
+      "malignant pleural effusion",
+      "non-expandable lung",
+      "pleural elastance",
+      "thoracentesis"
+    ],
+    "summary_tldr": "Narrative review describing pleural manometry techniques, physiologic interpretation (including pleural elastance and pressure-volume curves), and selective clinical uses in complex pleural disorders.",
+    "clinical_relevance": "Provides practical guidance on PM setup, interpretation, and thresholds that may inform thoracentesis decisions, identification of non-expandable lung, and pleurodesis candidacy in malignant effusion."
+  }
+}

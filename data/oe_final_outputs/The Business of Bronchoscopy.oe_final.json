@@ -1,0 +1,86 @@
+{
+  "source": {
+    "document_id": "The Business of Bronchoscopy",
+    "ingest_date": "2025-08-08T16:16:30.375234+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1016/j.ccm.2017.11.006"
+  },
+  "document": {
+    "metadata": {
+      "title": "The Business of Bronchoscopy: How to Set up an Interventional Pulmonology Program",
+      "year": 2018,
+      "authors": [
+        "Edward Kessler",
+        "Momen M. Wahidi"
+      ],
+      "journal": "Clinics in Chest Medicine",
+      "doi": "10.1016/j.ccm.2017.11.006",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Interventional pulmonology is a growing field with demand for new practices to provide advanced diagnostic and therapeutic bronchoscopy and pleural procedures. The article outlines how to assess local needs, create a focused business plan, define services and operations, secure equipment and staffing, market the service to referrers, and monitor performance. Emphasis is placed on collaboration with oncology and thoracic surgery, fiscal responsibility, and continuous tracking of procedural outcomes, complications, and efficiency.",
+      "methods": "Not a clinical study. Narrative, practice-oriented guidance describing steps to establish and operate an interventional pulmonology program, including needs assessment, service line design, marketing, financial considerations, equipment procurement, staffing, multidisciplinary integration, and performance monitoring.",
+      "results": "Not a clinical study and no patient outcomes are reported. The article provides operational and financial guidance and cites an example of downstream collections from technical fees per endobronchial ultrasound transbronchial needle aspiration case of 19174 at one institution."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Healthcare organizations and clinicians planning or expanding an interventional pulmonology service within hospital or group practice settings in the United States.",
+      "inclusion_criteria": [],
+      "exclusion_criteria": []
+    },
+    "intervention": {
+      "text": "Establishment and operation of an interventional pulmonology program",
+      "details": "Components include needs assessment, business plan, service line design, equipment selection (eg, EBUS system, navigational bronchoscopy), staffing (nurses, respiratory therapists, advanced practice providers), scheduling and locations, marketing to referrers, and multidisciplinary integration."
+    },
+    "comparison": {
+      "text": "",
+      "details": ""
+    },
+    "outcomes": [
+      {
+        "name": "Program performance metrics (procedural volume, diagnostic yield, complications, efficiency, turnaround times, referrals, financial metrics including RVUs and downstream revenue)",
+        "type": "primary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "narrative review",
+    "allocation": "not_applicable",
+    "blinding": "not_applicable",
+    "sites_count": 0,
+    "countries": [
+      "US"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": []
+  },
+  "arms": [],
+  "outcomes_normalized": [],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "NA",
+    "overall_judgment": "not_applicable",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "interventional pulmonology",
+      "bronchoscopy",
+      "business plan",
+      "program development",
+      "EBUS",
+      "financial management",
+      "staffing",
+      "equipment procurement"
+    ],
+    "summary_tldr": "Practice guidance on planning, launching, and monitoring an interventional pulmonology program, including needs assessment, business planning, staffing, equipment, marketing, multidisciplinary integration, and performance tracking.",
+    "clinical_relevance": "Provides a practical roadmap for institutions to establish sustainable interventional pulmonology services aligned with quality and fiscal goals."
+  }
+}

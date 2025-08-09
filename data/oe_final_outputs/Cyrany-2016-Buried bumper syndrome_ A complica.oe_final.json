@@ -1,0 +1,314 @@
+{
+  "source": {
+    "document_id": "Cyrany-2016-Buried bumper syndrome_ A complica",
+    "ingest_date": "2025-08-08T11:21:45.660222+00:00",
+    "trial_registration_id": null,
+    "pmid": null,
+    "doi": "10.3748/wjg.v22.i2.618"
+  },
+  "document": {
+    "metadata": {
+      "title": "Buried bumper syndrome: A complication of percutaneous endoscopic gastrostomy",
+      "year": 2016,
+      "authors": [
+        "Jiri Cyrany",
+        "Stanislav Rejchrt",
+        "Marcela Kopacova",
+        "Jan Bures"
+      ],
+      "journal": "World Journal of Gastroenterology",
+      "doi": "10.3748/wjg.v22.i2.618",
+      "pmid": null
+    },
+    "sections": {
+      "abstract": "Percutaneous endoscopic gastrostomy (PEG) is a widely used method of nutrition delivery for patients with longterm insufficiency of oral intake. The PEG complication rate varies from 0.4% to 22.5% of cases, with minor complications being three times more frequent. Buried bumper syndrome (BBS) is a severe complication of this method, in which the internal fixation device migrates alongside the tract of the stoma outside the stomach. Excessive compression of tissue between the external and internal fixation device of the gastrostomy tube is considered the main etiological factor leading to BBS. Incidence of BBS is estimated at around 1% (0.3%-2.4%). Inability to insert, loss of patency and leakage around the PEG tube are considered to be a typical symptomatic triad. Gastroscopy is indicated in all cases in which BBS is suspected. The depth of disc migration in relation to the lamina muscularis propria of the stomach is critical for further therapy and can be estimated by endoscopic or transabdominal ultrasound. BBS can be complicated by gastrointestinal bleeding, perforation, peritonitis, intra-abdominal and abdominal wall abscesses, or phlegmon, and these complications can lead to fatal outcomes. The most important preventive measure is adequate positioning of the external bolster. A conservative approach should be applied only in patients with high operative risk and dismal prognosis. Choice of the method of release is based on the type of the PEG set and depth of disc migration. A disc retained inside the stomach and completely covered by the overgrowing tissue can be released using some type of endoscopic dissection technique (needle knife, argon plasma coagulation, or papillotome through the cannula). Proper patient selection and dissection of the overgrowing tissue are the major determinants for successful endoscopic therapy. A disc localized out of the stomach (lamina muscularis propria) should be treated by a surgeon.",
+      "methods": "Narrative topical review. No systematic search strategy, inclusion/exclusion criteria, or quantitative synthesis were reported.",
+      "results": "Key findings summarized from the literature: overall PEG complication rates range from 0.4% to 22.5%, with minor complications three times more frequent than major. Buried bumper syndrome (BBS) occurs in approximately 1% of PEGs (range 0.3%-2.4%), with higher rates reported in select series (up to 9% overall and up to 22% in pediatric case series). A prospective study found BBS on CT in 5% (3/57) of gastrostomies placed more than one year prior. Risk factors include tight external bolster positioning, rigid or abrasive internal discs, improper dressing, malignancy, poor nutritional status (BMI < 20 kg/m2), significant weight gain, pediatric age, agitation, and impaired wound healing. Complications of BBS include GI bleeding, perforation, peritonitis, intra-abdominal and abdominal wall abscesses, and phlegmon; bleeding may require endoscopic therapy or angiography. Prevention centers on correct external bolster positioning (approximately 10 mm from skin after tract maturation), periodic loosening and rotation of the PEG (“PEG twirl sign”), and education of caregivers. Management options include conservative ‘cut and leave’ in selected high-risk patients, endoscopic techniques for intragastric buried discs (dissection with needle knife, APC, papillotome), and surgical management when the disc is outside the gastric wall."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Patients with percutaneous endoscopic gastrostomy (PEG) tubes at risk for or presenting with buried bumper syndrome (BBS).",
+      "inclusion_criteria": [],
+      "exclusion_criteria": []
+    },
+    "intervention": {
+      "text": "Endoscopic diagnosis and management strategies for buried bumper syndrome; preventive external bolster positioning and PEG care practices.",
+      "details": "Endoscopic assessment (gastroscopy; endoscopic or transabdominal ultrasound as needed), endoscopic release techniques (needle knife, argon plasma coagulation, papillotome through cannula), and preventive measures including proper external bolster positioning (~10 mm after tract maturation) and periodic tube advancement/rotation."
+    },
+    "comparison": {
+      "text": "Conservative or surgical approaches, and alternative PEG care practices, compared narratively across cited literature.",
+      "details": "Conservative 'cut and leave' strategy in high-risk patients; surgical management when the internal disc is beyond the gastric muscularis; no randomized comparisons reported."
+    },
+    "outcomes": [
+      {
+        "name": "Incidence of buried bumper syndrome",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Complications of buried bumper syndrome (bleeding, perforation, peritonitis, abscess, phlegmon)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Technical success and safety of endoscopic release",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "narrative review",
+    "allocation": "NA",
+    "blinding": "NA",
+    "sites_count": 0,
+    "countries": [],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": []
+  },
+  "arms": [
+    {
+      "arm_id": "cohort",
+      "name": "PEG patients >1 year post-placement (CT-screened prospective cohort from cited study)",
+      "n_randomized": 57,
+      "n_analyzed": 57,
+      "n_completed": 57
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "bbs_detected_by_ct_over_1y",
+      "name": "Buried bumper syndrome detected by CT in PEG placed >1 year prior",
+      "type": "binary",
+      "outcome_type": "incidence",
+      "timepoint_iso8601": "P1Y",
+      "timepoint_label": "More than 1 year after PEG",
+      "groups": [
+        {
+          "arm_id": "cohort",
+          "raw": {
+            "events": 3,
+            "total": 57
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "cohort",
+        "measure": "proportion",
+        "est": 0.0526,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": null,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "descriptive proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Prospective CT-screened cohort of PEG patients with tubes placed >1 year",
+        "missing_handling": "not reported"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "A prospective study found BBS using computer tomography in 5% (3/57) of gastrostomies introduced more than a year ago."
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Gastrointestinal haemorrhage",
+      "meddra": {
+        "soc": "Gastrointestinal disorders",
+        "pt": "Gastrointestinal haemorrhage"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "hospitalization",
+        "life-threatening",
+        "other medically important condition"
+      ],
+      "groups": [
+        {
+          "arm_id": "cohort",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 57
+        }
+      ],
+      "period": "not reported",
+      "management": "Endoscopic epinephrine injection and tamponade with balloon gastrostomy set; angiography in some cases.",
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "Bleeding can be treated endoscopically by epinephrine injection and tamponade with a balloon gastrostomy set, but sometimes angiography is needed."
+      }
+    },
+    {
+      "event_name": "Gastrointestinal perforation",
+      "meddra": {
+        "soc": "Gastrointestinal disorders",
+        "pt": "Gastrointestinal perforation"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "hospitalization",
+        "life-threatening",
+        "death"
+      ],
+      "groups": [
+        {
+          "arm_id": "cohort",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 57
+        }
+      ],
+      "period": "not reported",
+      "management": "not reported",
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "BBS can be complicated by gastrointestinal bleeding, perforation, peritonitis, intra-abdominal and abdominal wall abscesses, or phlegmon, and these complications can lead to fatal outcomes."
+      }
+    },
+    {
+      "event_name": "Peritonitis",
+      "meddra": {
+        "soc": "Infections and infestations",
+        "pt": "Peritonitis"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "hospitalization",
+        "life-threatening",
+        "death"
+      ],
+      "groups": [
+        {
+          "arm_id": "cohort",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 57
+        }
+      ],
+      "period": "not reported",
+      "management": "not reported",
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "BBS can be complicated by ... peritonitis ... and these complications can lead to fatal outcomes."
+      }
+    },
+    {
+      "event_name": "Abdominal abscess",
+      "meddra": {
+        "soc": "Infections and infestations",
+        "pt": "Abdominal abscess"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "hospitalization",
+        "other medically important condition"
+      ],
+      "groups": [
+        {
+          "arm_id": "cohort",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 57
+        }
+      ],
+      "period": "not reported",
+      "management": "not reported",
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "BBS can be complicated by ... intra-abdominal and abdominal wall abscesses ..."
+      }
+    },
+    {
+      "event_name": "Cellulitis",
+      "meddra": {
+        "soc": "Infections and infestations",
+        "pt": "Cellulitis"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "hospitalization",
+        "other medically important condition"
+      ],
+      "groups": [
+        {
+          "arm_id": "cohort",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 57
+        }
+      ],
+      "period": "not reported",
+      "management": "not reported",
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "BBS can be complicated by ... abdominal wall abscesses, or phlegmon ..."
+      }
+    },
+    {
+      "event_name": "Phlegmon",
+      "meddra": {
+        "soc": "Infections and infestations",
+        "pt": "Phlegmon"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "hospitalization",
+        "other medically important condition"
+      ],
+      "groups": [
+        {
+          "arm_id": "cohort",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 57
+        }
+      ],
+      "period": "not reported",
+      "management": "not reported",
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "BBS can be complicated by ... phlegmon, and these complications can lead to fatal outcomes."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "Not applicable (narrative review)",
+    "overall_judgment": "not_applicable",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "buried bumper syndrome",
+      "percutaneous endoscopic gastrostomy",
+      "PEG complications",
+      "endoscopic therapy",
+      "external bolster positioning"
+    ],
+    "summary_tldr": "Narrative review: Buried bumper syndrome is a serious PEG complication (~1% overall; 3/57 detected on CT >1 year post-PEG in one prospective cohort). Prevention hinges on correct external bolster position; endoscopic dissection techniques can manage intragastric buried discs.",
+    "clinical_relevance": "Highlights recognition, prevention, and endoscopic management strategies for buried bumper syndrome to reduce morbidity and potentially fatal complications."
+  }
+}

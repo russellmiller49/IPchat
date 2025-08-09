@@ -1,0 +1,328 @@
+{
+  "source": {
+    "document_id": "Hartman-2021-New bronchoscopic treatment modal",
+    "ingest_date": "2025-08-08T13:01:49.765800+00:00",
+    "trial_registration_id": "NCT02483637; NCT03107494; NCT03893370; NCT03892694; NCT03631472; NCT03385616",
+    "pmid": "",
+    "doi": "10.1183/16000617.0281-2020"
+  },
+  "document": {
+    "metadata": {
+      "title": "New bronchoscopic treatment modalities for patients with chronic bronchitis",
+      "year": 2021,
+      "authors": [
+        "Jorine E. Hartman",
+        "Justin L. Garner",
+        "Pallav L. Shah",
+        "Dirk-Jan Slebos"
+      ],
+      "journal": "European Respiratory Review",
+      "doi": "10.1183/16000617.0281-2020",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Chronic bronchitis is a chronic, progressive disease that is difficult to treat. Despite much effort, patients remain highly symptomatic. Currently, a number of innovative bronchoscopic treatments for this disease are under investigation. Liquid nitrogen metered cryospray, bronchial rheoplasty and balloon desobstruction all aim to destroy the hyperplastic goblet cells and excess submucous glands using different strategies. These therapies are in an early phase of clinical research and larger randomised controlled trials are needed to confirm the pilot data available and to evaluate the treatment durability. The fourth technique, targeted lung denervation (TLD), aims to decrease the release of acetylcholine, which regulates smooth muscle tone and mucus production by ablating the parasympathetic nerves running alongside the main bronchi. Evaluation of this treatment is at a more advanced stage and promising effects on exacerbation frequency have been shown. However, confirmation of the benefit in improvement in chronic bronchitis symptoms is still needed.",
+      "methods": "References for this review were identified through searches of PubMed, Scopus and Google Scholar for articles published until June 2020, using the terms “COPD”, “chronic bronchitis” and “bronchoscopy”. Articles, conference proceedings and relevant references cited in those articles were reviewed. All articles were published in English. The clinical trial registration websites clinicaltrials.gov and the ISRCTN registry were also searched to identify ongoing or planned trials.",
+      "results": "Three bronchoscopic treatments directly targeting the chronic bronchitis phenotype were identified: the RejuvenAir System Metered Cryospray (liquid nitrogen cryospray), RheOx bronchial rheoplasty (pulsed electrical energy), and Karakoca balloon desobstruction (mechanical mucosal disruption). Targeted lung denervation (TLD) was included as a fourth technique aimed at reducing cholinergic tone relevant to both emphysema and chronic bronchitis.\n\nRejuvenAir: In chronic bronchitis, a prospective single-arm feasibility study enrolled 35 patients (34 completed all three procedures). No device- or procedure-related serious adverse events were reported. At 3 months, clinically meaningful improvements in quality of life and cough were observed; at 12 months, no clinically relevant improvements were maintained. Reported changes included SGRQ total -6.4±14.4 at 3 months (n=34) and -4.6±15.1 at 12 months (n=31); CAT -3.8±7.1 at 3 months (n=34) and -2.0±7.2 at 12 months (n=31); LCQ total +21.6±32.2 at 3 months (n=34) and +9.1±29.0 at 12 months (n=31). Lung function and 6MWD changes were small.\n\nRheOx: Two combined multicentre single-arm trials (n=30) demonstrated significant improvements in CAT and SGRQ at 3, 6, and 12 months. Mean SGRQ change -16.9±20.0 at 3 months (n=30) and -15.2±20.4 at 12 months (n=29); CAT change -8.8±7.6 at 3 months (n=30) and -7.0±8.9 at 12 months (n=29). Goblet cell hyperplasia score showed a 39% relative reduction at 90-120 days. Four procedure-related serious adverse events occurred within 6 months (pneumonia n=1, mucosal scarring n=1, COPD exacerbations n=2); none between 6 and 12 months. Lung function did not change.\n\nKarakoca balloon desobstruction: A single-centre case series (n=188) reported no intra-, peri-, or post-operative complications. At 1 month, statistically significant improvements were observed: FEV1 increased from 0.77±0.26 L to 1.28±0.47 L; 6MWD increased from 69±41 m to 387±113 m; SpO2 also improved. The initial pilot (n=10) similarly reported no complications and improvements in FEV1 and symptoms.\n\nTLD: Preclinical studies showed physiological and histological effects consistent with denervation. Clinical evaluation is more advanced (multiple COPD studies cited), with promising effects on exacerbation frequency, but confirmation of benefits on chronic bronchitis symptoms remains needed. Ongoing and planned trials include a large sham-controlled RCT for RejuvenAir (NCT03893370) and mechanistic and feasibility studies for RejuvenAir and RheOx."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with COPD and chronic bronchitis phenotype (productive cough with sputum for ≥3 months in two consecutive years), typically symptomatic with mucus hypersecretion and cough.",
+      "inclusion_criteria": [
+        "COPD diagnosis",
+        "Chronic bronchitis by clinical definition (productive cough with sputum ≥3 months in 2 successive years)",
+        "Airways accessible by bronchoscopy (second to seventh generation for RheOx; first to fifth generations for mucus-producing goblet cells)"
+      ],
+      "exclusion_criteria": [
+        "Implantable cardiac devices or similar that contraindicate monopolar energy (RheOx)",
+        "General contraindications to bronchoscopy or general anesthesia"
+      ]
+    },
+    "intervention": {
+      "text": "Bronchoscopic treatments targeting chronic bronchitis",
+      "details": "1) RejuvenAir System metered cryospray: liquid nitrogen at -196°C, 10-mm spray zone, depth 0.1-0.5 mm; typically delivered in 2-3 staged procedures. 2) RheOx bronchial rheoplasty: short bursts of high-frequency electrical energy to airway epithelium/submucosa; two procedures (one lung each) 1 month apart; 2nd-7th generation airways. 3) Karakoca balloon desobstruction: repeated inflation/deflation of a mesh-covered latex balloon (2.0-2.5 bar) to mechanically disrupt hyperplastic mucosa; single session treating 100-300 segmental bronchi. 4) Targeted lung denervation: dual-cooled radiofrequency ablation around main bronchi to disrupt parasympathetic nerves."
+    },
+    "comparison": {
+      "text": "No concurrent control in included pilot studies",
+      "details": "Single-arm studies with pre-post comparisons; sham-controlled RCTs planned/ongoing (e.g., RejuvenAir NCT03893370)."
+    },
+    "outcomes": [
+      {
+        "name": "Quality of life (SGRQ, CAT)",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Chronic bronchitis symptom burden (LCQ; CAT cough/phlegm items)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Goblet cell hyperplasia score (histology)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Lung function (FEV1)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Exercise capacity (6-minute walk distance)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Exacerbation rate (planned primary in RCT)",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Safety (serious adverse events)",
+        "type": "primary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "narrative review",
+    "allocation": "nonrandomized",
+    "blinding": "open-label",
+    "sites_count": 0,
+    "countries": [],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": [
+      {
+        "name": "NA",
+        "description": "Narrative synthesis of included studies",
+        "n": 0
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "Bronchoscopic treatments for chronic bronchitis",
+      "n_randomized": 0,
+      "n_analyzed": 0,
+      "n_completed": 0
+    },
+    {
+      "arm_id": "control",
+      "name": "No concurrent control (single-arm evidence)",
+      "n_randomized": 0,
+      "n_analyzed": 0,
+      "n_completed": 0
+    }
+  ],
+  "outcomes_normalized": [],
+  "safety_normalized": [
+    {
+      "event_name": "Pneumonia",
+      "meddra": {
+        "soc": "Infections and infestations",
+        "pt": "Pneumonia"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "hospitalization"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 1,
+          "patients": 1,
+          "percentage": 3.3,
+          "total": 30
+        },
+        {
+          "arm_id": "control",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 0
+        }
+      ],
+      "period": "0-6 months",
+      "management": "",
+      "provenance": {
+        "pages": [],
+        "tables": [
+          "Table 3"
+        ],
+        "quote": "Four procedure-related serious adverse events were reported up to 6 months (pneumonia n=1, mucosal scarring n=1 and COPD exacerbations n=2; all resolved without sequelae)."
+      }
+    },
+    {
+      "event_name": "Chronic obstructive pulmonary disease exacerbation",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Chronic obstructive pulmonary disease"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "hospitalization"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 2,
+          "patients": 2,
+          "percentage": 6.7,
+          "total": 30
+        },
+        {
+          "arm_id": "control",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 0
+        }
+      ],
+      "period": "0-6 months",
+      "management": "",
+      "provenance": {
+        "pages": [],
+        "tables": [
+          "Table 3"
+        ],
+        "quote": "Four procedure-related serious adverse events were reported up to 6 months (pneumonia n=1, mucosal scarring n=1 and COPD exacerbations n=2; all resolved without sequelae)."
+      }
+    },
+    {
+      "event_name": "Airway stenosis",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Airway stenosis"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "other_medically_important"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 1,
+          "patients": 1,
+          "percentage": 3.3,
+          "total": 30
+        },
+        {
+          "arm_id": "control",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 0
+        }
+      ],
+      "period": "0-6 months",
+      "management": "",
+      "provenance": {
+        "pages": [],
+        "tables": [
+          "Table 3"
+        ],
+        "quote": "Four procedure-related serious adverse events were reported up to 6 months (pneumonia n=1, mucosal scarring n=1 and COPD exacerbations n=2; all resolved without sequelae)."
+      }
+    },
+    {
+      "event_name": "Device related complication",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Device related complication"
+      },
+      "serious": true,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 35
+        },
+        {
+          "arm_id": "control",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 0
+        }
+      ],
+      "period": "procedure-related",
+      "management": "",
+      "provenance": {
+        "pages": [],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "In this study none of the serious adverse events were found to be related to the device or the procedure."
+      }
+    },
+    {
+      "event_name": "Procedure complication",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Procedure complication"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 188
+        },
+        {
+          "arm_id": "control",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 0
+        }
+      ],
+      "period": "intra-, peri-, and post-operative",
+      "management": "",
+      "provenance": {
+        "pages": [],
+        "tables": [
+          "Table 4"
+        ],
+        "quote": "According to the authors, none of the 188 patients developed intraoperative, perioperative or post-operative complications."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "RoB 2",
+    "overall_judgment": "not_applicable",
+    "domains": [
+      {
+        "name": "Randomization process",
+        "judgment": "not_applicable",
+        "support_for_judgment": "Narrative review summarizing single-arm and early-phase studies; no randomization."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "chronic bronchitis",
+      "COPD",
+      "bronchoscopy",
+      "cryospray",
+      "rheoplasty",
+      "balloon desobstruction",
+      "targeted lung denervation",
+      "goblet cells",
+      "mucus hypersecretion"
+    ],
+    "summary_tldr": "Narrative review of four bronchoscopic therapies for chronic bronchitis shows promising symptom and quality-of-life improvements in small single-arm studies; larger randomized trials (including sham-controlled) are needed to confirm efficacy and durability.",
+    "clinical_relevance": "Emerging bronchoscopic options may address mucus hypersecretion and symptom burden in chronic bronchitis, a COPD phenotype with limited effective targeted therapies."
+  }
+}

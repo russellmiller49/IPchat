@@ -1,0 +1,89 @@
+{
+  "source": {
+    "document_id": "Value-Based Proposition for a Dedicated IP suite",
+    "ingest_date": "2025-08-08T16:49:48.150754+00:00",
+    "trial_registration_id": null,
+    "pmid": null,
+    "doi": "10.1016/j.chest.2018.05.029"
+  },
+  "document": {
+    "metadata": {
+      "title": "Value-Based Proposition for a Dedicated Interventional Pulmonology Suite: An Adaptable Business Model",
+      "year": 2018,
+      "authors": [
+        "Neeraj R. Desai",
+        "Kim D. French",
+        "Edward J. Diamond",
+        "Kevin L. Kovitz"
+      ],
+      "journal": "CHEST",
+      "doi": "10.1016/j.chest.2018.05.029",
+      "pmid": null
+    },
+    "sections": {
+      "abstract": "Value-based care is evolving with a focus on improving efficiency, reducing cost, and enhancing the patient experience. Interventional pulmonology has the opportunity to lead an effective value-based care model. This model is supported by the relatively low cost of pulmonary procedures and has the potential to improve efficiencies in thoracic care. We discuss key strategies to evaluate and improve efficiency in interventional pulmonology practice and describe our experience in developing an interventional pulmonology suite. Such a model can be adapted to other specialty areas and may encourage a more coordinated approach to specialty care.",
+      "methods": "The authors mapped bronchoscopy workflow from registration to postprocedure discharge, collecting timestamps across multiple steps (eg, registration, preprocedural preparation, room entry, procedure start/completion, room exit, discharge, and changeover). Lean principles were applied to identify inefficiencies. Coding/billing processes were reviewed by a management team. A business plan was developed including market analysis, SWOT analysis, customer value strategy, competitive strategy, legal/regulatory review, and financial planning to support creation of a dedicated interventional pulmonology suite. Integration with institutional lung cancer care pathways (screening, nodule programs, thoracic malignancy clinic) was emphasized.",
+      "results": "Process mapping identified opportunities to improve efficiency via standardized orders, documentation templates, and streamlined changeover procedures. IP procedures were decentralized across multiple hospital locations (ultrasound department, ambulatory surgery unit, endoscopy unit, and OR). The team proposed consolidating procedures into a dedicated IP suite to improve access, throughput, and cost-effectiveness, while enabling high-risk procedures to be performed safely with specialized staff. Market and SWOT analyses supported the business case, highlighting competitive differentiation, potential to reduce outmigration, and downstream revenue growth through enhanced cancer care pathways."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Patients undergoing outpatient bronchoscopy and other interventional pulmonology procedures within a community hospital system pursuing value-based care integration.",
+      "inclusion_criteria": [],
+      "exclusion_criteria": []
+    },
+    "intervention": {
+      "text": "Dedicated interventional pulmonology (IP) suite and program",
+      "details": "Development and implementation of a centralized IP suite using lean workflow mapping, standardized orders/templates, optimized changeover, dedicated staffing, and integration with lung cancer care pathways."
+    },
+    "comparison": {
+      "text": "Decentralized procedural model",
+      "details": "Procedures performed across multiple locations (OR, endoscopy unit, ultrasound department, ambulatory surgery center) without dedicated IP suite."
+    },
+    "outcomes": [
+      {
+        "name": "Procedural efficiency (eg, throughput time, changeover time, scheduling access)",
+        "type": "primary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Practice management description",
+    "allocation": null,
+    "blinding": null,
+    "sites_count": 1,
+    "countries": [
+      "US"
+    ],
+    "sample_size": {
+      "planned": null,
+      "enrolled": null,
+      "analyzed": null
+    },
+    "analysis_populations": []
+  },
+  "arms": [],
+  "outcomes_normalized": [],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": null,
+    "overall_judgment": null,
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "interventional pulmonology",
+      "value-based care",
+      "bronchoscopy",
+      "workflow mapping",
+      "lean principles",
+      "business plan",
+      "MACRA",
+      "IP suite",
+      "lung cancer pathways"
+    ],
+    "summary_tldr": "Describes a business and workflow model for a dedicated interventional pulmonology suite to improve efficiency, access, and cost-effectiveness within value-based care.",
+    "clinical_relevance": "Provides a replicable operational framework for consolidating interventional pulmonology services to enhance throughput and integrate thoracic cancer care."
+  }
+}

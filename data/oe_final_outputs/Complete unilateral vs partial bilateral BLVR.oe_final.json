@@ -1,0 +1,496 @@
+{
+  "source": {
+    "document_id": "Complete unilateral vs partial bilateral BLVR",
+    "ingest_date": "2025-08-08T10:47:36.152442+00:00",
+    "trial_registration_id": "NCT00995852",
+    "pmid": "",
+    "doi": "10.1378/chest.11-2886"
+  },
+  "document": {
+    "metadata": {
+      "title": "Complete Unilateral vs Partial Bilateral Endoscopic Lung Volume Reduction in Patients With Bilateral Lung Emphysema",
+      "year": 2012,
+      "authors": [
+        "Ralf Eberhardt",
+        "Daniela Gompelmann",
+        "Maren Schuhmann",
+        "Hannah Reinhardt",
+        "Armin Ernst",
+        "Claus P. Heussel",
+        "Felix J. F. Herth"
+      ],
+      "journal": "CHEST",
+      "doi": "10.1378/chest.11-2886",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Background: Intrabronchial valve placement for endoscopic lung volume reduction is used for patients with severe lung emphysema. Different treatment approaches are unilateral valve placement with the goal of complete occlusion and subsequent atelectasis leading to true volume reduction vs bilateral partial closure aiming for redistribution of ventilation but avoiding atelectasis. In this prospective pilot trial, we compared the efficacy of these treatment approaches. Methods: Patients with severe bilateral heterogeneous emphysema were randomized to two groups. In the first group, patients received unilateral valves aiming for total occlusion of one lobe. In the other group, valves were placed in two contralateral lobes with incomplete closure. In all cases, one-way valves were placed via a flexible bronchoscope. Patients were followed at 30 and 90 days, end points being change in pulmonary function tests (PFTs), 6-min walk distance (6MWD), and dyspnea score as measured by the modified Medical Research Council (mMRC) dyspnea score, as well as quality of life as measured by the St. George Respiratory Questionnaire (SGRQ). Results: Twenty-two patients were treated in this study, 11 patients in each arm. At 30 days and 90 days, significant differences were seen in PFT and 6MWD, as well as in mMRC and SGRQ scores, in favor of unilateral treatment. At 90 days, FEV1 was improved by 21.4% ± 10.7% in this group, but not in the bilateral group (-0.03% ± 13.9%, P = .002). One patient in the unilateral group experienced a pneumothorax, and two patients in the bilateral group were treated for transient respiratory failure. Conclusions: Unilateral intrabronchial valve placement with complete occlusion appears superior to bilateral partial occlusion.",
+      "methods": "Single-center, prospective, randomized study at the Thoraxklinik, University of Heidelberg. Adults with severe bilateral heterogeneous emphysema were randomized 1:1 (stratified by upper- vs lower-lobe predominance) to unilateral intrabronchial valve (IBV) placement aiming for complete occlusion of one lobe vs bilateral IBV placement in two contralateral lobes with incomplete occlusion (one segment intentionally left open on each side). IBVs from one supplier (Olympus Medical Co) were placed via flexible bronchoscopy. Standard prophylactic antibiotics were given and chest radiograph obtained within 24 h. Follow-up at 30 and 90 days included PFTs, 6MWT, mMRC, SGRQ, chest radiographs, and HRCT at 90 days. Primary endpoints: FEV1 and 6MWD. Secondary endpoints: SGRQ, RV, TLC, IVC, RV/TLC. Safety endpoints: pneumothorax, respiratory failure, death, valve migration. Statistics: SAS 8.2; Wilcoxon-Mann-Whitney for between-group comparisons (a = 0.2 as stated), Wilcoxon signed-rank test within groups (a = 0.05); no multiplicity adjustment.",
+      "results": "Twenty-two of 73 screened patients were randomized and treated (11 per group); all completed 30- and 90-day follow-up. Baseline characteristics were similar between groups. Mean valves used: unilateral 3.4 (range 3-4), bilateral 5.3 (range 4-11). Unilateral group showed significant improvements at 30 and 90 days in FEV1, IVC, RV/TLC, 6MWD, SGRQ total and impacts domains, and mMRC at 90 days; RV improvement was significant at 90 days only. Bilateral group showed no significant changes in PFTs, 6MWD, SGRQ, or mMRC. At 90 days, FEV1 percent change was 21.4% ± 10.7% (unilateral) vs -0.03% ± 13.9% (bilateral), P = .002. Radiology: Atelectasis at 30 days in 7/11 unilateral vs 0/11 bilateral; at 90 days on HRCT, atelectasis in 5/11 unilateral vs 1/11 bilateral, and visual volume reduction in 9/11 unilateral vs 3/11 bilateral; between-group P = .004 (atelectasis) and P = .030 (volume reduction). Seven unilateral vs one bilateral patient improved ≥30 m in 6MWD by 90 days. Safety: four COPD exacerbations (two per group), one pneumothorax (unilateral, day 4; chest tube; discharged day 16), two respiratory failures (bilateral, days 52 and 76; one required noninvasive ventilation, one intubation; both had valves removed at 90 days). No valve migration or deaths."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with severe bilateral heterogeneous emphysema eligible for endoscopic lung volume reduction at a single German center.",
+      "inclusion_criteria": [
+        "Severe bilateral heterogeneous emphysema confirmed by HRCT and perfusion scintigraphy",
+        "FEV1 < 40% predicted",
+        "Residual volume (RV) > 150% predicted",
+        "Total lung capacity (TLC) > 100% predicted",
+        "Upper- or lower-lobe-predominant emphysema allowed"
+      ],
+      "exclusion_criteria": [
+        "Predominantly unilateral emphysema",
+        "6-minute walk test distance < 150 m",
+        "Hypercapnia with PaCO2 > 55 mm Hg"
+      ]
+    },
+    "intervention": {
+      "text": "Unilateral intrabronchial valve placement with complete lobar occlusion",
+      "details": "Placement of one-way intrabronchial valves (Olympus) via flexible bronchoscopy to occlude all segments of the worst lobe to achieve complete occlusion/atelectasis; mean 3.4 valves used; prophylactic antibiotics; post-procedure chest radiograph."
+    },
+    "comparison": {
+      "text": "Bilateral partial intrabronchial valve placement",
+      "details": "Valves placed in two contralateral lobes with intentional incomplete occlusion, leaving one segment open on each side to avoid atelectasis; mean 5.3 valves used."
+    },
+    "outcomes": [
+      {
+        "name": "FEV1 change",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "6-minute walk distance change",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Quality of life (SGRQ)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Atelectasis on imaging",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Adverse events (pneumothorax, respiratory failure)",
+        "type": "safety",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "RCT",
+    "allocation": "randomized",
+    "blinding": "open-label",
+    "sites_count": 1,
+    "countries": [
+      "DE"
+    ],
+    "sample_size": {
+      "planned": 22,
+      "enrolled": 22,
+      "analyzed": 22
+    },
+    "analysis_populations": [
+      {
+        "name": "ITT",
+        "description": "All randomized patients; all treated and completed follow-up",
+        "n": 22
+      },
+      {
+        "name": "PP",
+        "description": "Protocol-compliant population; same as ITT due to no dropouts",
+        "n": 22
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "Unilateral complete occlusion (IBV)",
+      "n_randomized": 11,
+      "n_analyzed": 11,
+      "n_completed": 11
+    },
+    {
+      "arm_id": "control",
+      "name": "Bilateral partial occlusion (IBV)",
+      "n_randomized": 11,
+      "n_analyzed": 11,
+      "n_completed": 11
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "fev1_percent_change_90d",
+      "name": "FEV1 percent change at 90 days",
+      "type": "continuous",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P90D",
+      "unit": "%",
+      "unit_canonical": "percent",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": 21.4,
+            "sd": 10.7,
+            "total": 11
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "mean": -0.03,
+            "sd": 13.9,
+            "total": 11
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "mean_difference",
+        "est": 21.43,
+        "adjusted": false,
+        "p_value": 0.002,
+        "p_operator": "="
+      },
+      "analysis": {
+        "model": "Wilcoxon-Mann-Whitney between-group; within-group Wilcoxon signed-rank",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT",
+        "missing_handling": "Complete-case (no missing)"
+      },
+      "provenance": {
+        "pages": [
+          901
+        ],
+        "tables": [],
+        "quote": "At 90 days, FEV1 was improved by 21.4% ± 10.7% in this group, but not in the bilateral group (-0.03% ± 13.9%, P = .002)."
+      }
+    },
+    {
+      "concept_id": "atelectasis_presence_90d",
+      "name": "Atelectasis on HRCT at 90 days",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P90D",
+      "timepoint_label": "90 days",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 5,
+            "total": 11
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 1,
+            "total": 11
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": 0.364,
+        "ci_level": 0.95,
+        "p_value": 0.004,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Between-group comparison (nonparametric test as per study)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT"
+      },
+      "provenance": {
+        "pages": [
+          904
+        ],
+        "tables": [],
+        "quote": "After 90 days, complete or partial atelectasis was visible on HRCT scan in five patients with complete closure and one patient of the bilateral group... Radiologic evidence of atelectasis... is, hence, significantly more common in the unilateral treatment group (P = .004)."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 5.0
+        },
+        "odds_ratio": {
+          "est": 8.333
+        },
+        "arr": 0.364,
+        "nnt": 2.8
+      }
+    },
+    {
+      "concept_id": "visual_volume_reduction_90d",
+      "name": "Visual volume reduction on HRCT at 90 days",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P90D",
+      "timepoint_label": "90 days",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 9,
+            "total": 11
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 3,
+            "total": 11
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": 0.545,
+        "ci_level": 0.95,
+        "p_value": 0.03,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Between-group comparison (nonparametric test as per study)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT"
+      },
+      "provenance": {
+        "pages": [
+          904
+        ],
+        "tables": [],
+        "quote": "Visual volume reduction on HRCT scan after 90 days was present in nine patients of the unilateral group and three of the other group... (P = .030)."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 3.0
+        },
+        "odds_ratio": {
+          "est": 12.0
+        },
+        "arr": 0.545,
+        "nnt": 1.8
+      }
+    },
+    {
+      "concept_id": "sixmwd_responder_90d",
+      "name": "6MWD improvement ≥30 m at 90 days",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P90D",
+      "timepoint_label": "90 days",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 7,
+            "total": 11
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 1,
+            "total": 11
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": 0.545,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive between-group responder comparison",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT"
+      },
+      "provenance": {
+        "pages": [
+          903,
+          904
+        ],
+        "tables": [],
+        "quote": "Seven patients improved by more than 30 m after ELVR, whereas in the bilateral group only one patient was observed to have an improvement 90 days after ELVR."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 7.0
+        },
+        "odds_ratio": {
+          "est": 17.5
+        },
+        "arr": 0.545,
+        "nnt": 1.8
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Pneumothorax",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Pneumothorax"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "hospitalization",
+        "intervention required"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 1,
+          "patients": 1,
+          "percentage": 9.1,
+          "total": 11
+        },
+        {
+          "arm_id": "control",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 11
+        }
+      ],
+      "period": "0-90 days",
+      "management": "Chest tube placed on day 4; removed after 12 days; discharged day 16.",
+      "provenance": {
+        "pages": [
+          904
+        ],
+        "tables": [],
+        "quote": "One patient developed a pneumothorax at day 4 following ELVR... required insertion of a chest drain. It was removed after 12 days and the patient was discharged home 16 days after the procedure."
+      }
+    },
+    {
+      "event_name": "Respiratory failure",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Respiratory failure"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "hospitalization",
+        "life-threatening"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 11
+        },
+        {
+          "arm_id": "control",
+          "events": 2,
+          "patients": 2,
+          "percentage": 18.2,
+          "total": 11
+        }
+      ],
+      "period": "0-90 days",
+      "management": "One required noninvasive ventilation; one required intubation; valves removed at 90 days due to lack of clinical improvement.",
+      "provenance": {
+        "pages": [
+          904
+        ],
+        "tables": [],
+        "quote": "In the bilateral group, two additional patients developed respiratory failure 52 and 76 days post ELVR. One patient required noninvasive ventilation; the other patient necessitated intubation... Both patients had their IBVs removed... after 90 days."
+      }
+    },
+    {
+      "event_name": "COPD exacerbation",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Chronic obstructive pulmonary disease exacerbation"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 2,
+          "patients": 2,
+          "percentage": 18.2,
+          "total": 11
+        },
+        {
+          "arm_id": "control",
+          "events": 2,
+          "patients": 2,
+          "percentage": 18.2,
+          "total": 11
+        }
+      ],
+      "period": "0-90 days",
+      "management": "Managed with antibiotics and/or steroids without hospitalization.",
+      "provenance": {
+        "pages": [
+          904
+        ],
+        "tables": [],
+        "quote": "Complications observed were four exacerbations, two per group, requiring antibiotic treatment and/or steroids without the need for hospitalization."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "RoB 2",
+    "overall_judgment": "some concerns",
+    "domains": [
+      {
+        "name": "Randomization process",
+        "judgment": "some concerns",
+        "support_for_judgment": "Stratified randomization (upper vs lower lobe predominance) with 1:1 allocation; allocation concealment not described."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "some concerns",
+        "support_for_judgment": "Open-label; performance bias possible."
+      },
+      {
+        "name": "Missing outcome data",
+        "judgment": "low",
+        "support_for_judgment": "All 22 randomized patients completed 30- and 90-day follow-up."
+      },
+      {
+        "name": "Measurement of the outcome",
+        "judgment": "low",
+        "support_for_judgment": "Objective outcomes (PFTs, 6MWD, imaging) with standardized instruments; questionnaires are validated."
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "some concerns",
+        "support_for_judgment": "Pilot study with multiple outcomes; no prospective statistical analysis plan described; alpha for between-group set at 0.2."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "emphysema",
+      "intrabranchial valve",
+      "endoscopic lung volume reduction",
+      "bronchoscopy",
+      "atelectasis",
+      "6-minute walk distance"
+    ],
+    "summary_tldr": "In a 22-patient randomized pilot trial, unilateral complete lobar occlusion with intrabronchial valves outperformed bilateral partial occlusion at 90 days for FEV1, 6MWD, symptoms, QoL, and radiologic volume loss.",
+    "clinical_relevance": "Findings support targeting complete lobar occlusion (with atelectasis) in appropriately selected patients with bilateral heterogeneous emphysema."
+  }
+}

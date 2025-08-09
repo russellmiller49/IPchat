@@ -1,0 +1,294 @@
+{
+  "source": {
+    "document_id": "Development of a Tool to Assess Basic Competency in the Performance of Rigid Bronchoscopy",
+    "ingest_date": "2025-08-08T11:29:00.610668+00:00",
+    "trial_registration_id": null,
+    "pmid": null,
+    "doi": "10.1513/AnnalsATS.201509-593OC"
+  },
+  "document": {
+    "metadata": {
+      "title": "Development of a Tool to Assess Basic Competency in the Performance of Rigid Bronchoscopy",
+      "year": 2016,
+      "authors": [
+        "Kamran Mahmood",
+        "Momen M. Wahidi",
+        "Kathryn E. Osann",
+        "Kathleen Coles",
+        "Scott L. Shofer",
+        "Ellen E. Volker",
+        "Mohsen Davoudi"
+      ],
+      "journal": "Annals of the American Thoracic Society",
+      "doi": "10.1513/AnnalsATS.201509-593OC",
+      "pmid": null
+    },
+    "sections": {
+      "abstract": "Rationale: Rigid bronchoscopy is increasingly used by pulmonologists for the management of central airway disorders. However, an assessment tool to evaluate the competency of operators in the performance of this technique has not been developed. We created the Rigid Bronchoscopy Tool for Assessment of Skills and Competence (RIGID-TASC) to serve as an objective, competency-oriented assessment tool of basic rigid bronchoscopic skills, including rigid bronchoscopic intubation and central airway navigation. Objectives: To assess whether RIGID-TASC scores accurately distinguish the basic rigid bronchoscopy skills of novice, intermediate, and expert operators, and to determine whether RIGID-TASC has adequate interrater reliability when used by different independent testers. Methods: At two academic medical centers in the United States, 30 physician volunteers were selected in three categories: 10 novices at rigid bronchoscopy (performed at least 50 flexible, but no rigid, bronchoscopies), 10 operators with intermediate experience (performed 5-20 rigid bronchoscopies), and 10 experts (performed >100 rigid bronchoscopies). Participants included pulmonary and critical care fellows, interventional pulmonology fellows, and faculty interventional pulmonologists. Each subject then performed rigid bronchoscopic intubation and navigation on a manikin, while being scored independently by two testers, using RIGID-TASC. Measurements and Main Results: Mean scores for three categories (novice, intermediate, and expert) were 58.10 (±4.6 [SE]), 78.15 (±3.8), and 94.40 (±1.1), respectively. There was significant difference between novice and intermediate (20.05, 95% confidence interval [CI] = 7.77-32.33, P = 0.001), and intermediate and expert (16.25, 95% CI = 3.97-28.53, P = 0.008) operators. The interrater reliability (intraclass correlation coefficient) between the two testers was high (r = 0.95, 95% CI = 0.90-0.98). Conclusions: RIGID-TASC showed evidence of construct validity and interrater reliability in this setting and group of subjects. It can be used to reliably and objectively score and classify operators from novice to expert in basic rigid bronchoscopic intubation and navigation.",
+      "methods": "RIGID-TASC is a 23-point, weighted, checklist-based instrument yielding a composite score from 0 to 100. Items assess bronchoscope assembly, patient positioning, atraumatic introduction through upper airway, tracheal and mainstem bronchial navigation, number of attempts, and time to reach the carina. Weights were determined a priori by author consensus based on safety, effectiveness, and difficulty to master. Thirty physician volunteers from two US academic centers (Duke University and University of California Irvine) were categorized by rigid bronchoscopy experience: novice (≥50 flexible bronchoscopies, 0 rigid), intermediate (5-20 rigid and ≥50 flexible), expert (>100 rigid). Novices received a 10-minute instruction on basic techniques before testing. Using a 10-mm outer diameter rigid bronchoscope in a manikin, two independent examiners, blinded to each other’s scores, assessed performance using RIGID-TASC. Sample size was set a priori at 10 per expertise level to provide 80% power to detect an effect size of 0.36 at alpha 0.05. Statistical analysis used ANOVA with Tukey adjustment for multiple comparisons across groups; continuous variables compared with t tests where applicable, categorical variables with chi-square. Interrater reliability was assessed with intraclass correlation coefficient (ICC). Agreement between self-assessed expertise and RIGID-TASC-derived expertise was evaluated with Cohen’s kappa.",
+      "results": "Ten novice, ten intermediate, and ten expert operators were enrolled and analyzed. Mean (SE) RIGID-TASC total scores were 58.10 (4.6), 78.15 (3.8), and 94.40 (1.1) for novice, intermediate, and expert groups, respectively. Pairwise Tukey-adjusted comparisons showed significant differences: novice vs intermediate mean difference 20.05 (95% CI 7.77-32.33; P = 0.001), intermediate vs expert 16.25 (95% CI 3.97-28.53; P = 0.008). Interrater reliability between two testers was high: ICC r = 0.95 (95% CI 0.90-0.98). Subcategory scores (preintubation, upper airway navigation, lower airway navigation, attempts, time to carina) demonstrated significant differences across experience levels (ANOVA P values ranging from 0.002 to <0.001). Agreement between self-assessed and RIGID-TASC-based expertise was Cohen’s kappa 0.75 (95% CI 0.55-0.95)."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Physician volunteers (pulmonary/critical care fellows, interventional pulmonology fellows, and faculty interventional pulmonologists) at two US academic centers performing rigid bronchoscopy intubation and central airway navigation on a manikin.",
+      "inclusion_criteria": [
+        "Novice group: ≥50 flexible bronchoscopies and 0 rigid bronchoscopies",
+        "Intermediate group: 5-20 rigid bronchoscopies and ≥50 flexible bronchoscopies",
+        "Expert group: >100 rigid bronchoscopies",
+        "Completed simulated rigid bronchoscopy intubation and navigation on a manikin"
+      ],
+      "exclusion_criteria": []
+    },
+    "intervention": {
+      "text": "RIGID-TASC assessment during simulated rigid bronchoscopy",
+      "details": "Participants performed rigid bronchoscopic intubation and central airway navigation on a manikin using a 10-mm outer diameter rigid bronchoscope; performance was independently scored by two examiners using the 23-item weighted RIGID-TASC checklist. Novices received a 10-minute introductory instruction before testing."
+    },
+    "comparison": {
+      "text": "Between-group comparison by experience level and interrater reliability between two independent testers",
+      "details": "ANOVA with Tukey-adjusted pairwise comparisons across novice, intermediate, and expert groups; interrater reliability assessed via intraclass correlation coefficient."
+    },
+    "outcomes": [
+      {
+        "name": "RIGID-TASC total score differences among expertise levels",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Interrater reliability (intraclass correlation coefficient) between two testers",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "observational cross-sectional",
+    "allocation": "non-randomized",
+    "blinding": "assessors mutually blinded to each other's scores",
+    "sites_count": 2,
+    "countries": [
+      "US"
+    ],
+    "sample_size": {
+      "planned": 30,
+      "enrolled": 30,
+      "analyzed": 30
+    },
+    "analysis_populations": [
+      {
+        "name": "Full analysis set",
+        "description": "All enrolled participants completing the simulation and scoring",
+        "n": 30
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "novice",
+      "name": "Novice (≥50 flexible, 0 rigid bronchoscopies)",
+      "n_randomized": 0,
+      "n_analyzed": 10,
+      "n_completed": 10
+    },
+    {
+      "arm_id": "intermediate",
+      "name": "Intermediate (5-20 rigid; ≥50 flexible bronchoscopies)",
+      "n_randomized": 0,
+      "n_analyzed": 10,
+      "n_completed": 10
+    },
+    {
+      "arm_id": "expert",
+      "name": "Expert (>100 rigid bronchoscopies)",
+      "n_randomized": 0,
+      "n_analyzed": 10,
+      "n_completed": 10
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "rigid_tasc_total_score_novice_vs_intermediate",
+      "name": "RIGID-TASC total score",
+      "type": "continuous",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P0D",
+      "unit": "score",
+      "unit_canonical": "score_0_100",
+      "timepoint_label": "Immediate (simulation session)",
+      "groups": [
+        {
+          "arm_id": "novice",
+          "raw": {
+            "mean": 58.1,
+            "sd": 14.55,
+            "total": 10
+          }
+        },
+        {
+          "arm_id": "intermediate",
+          "raw": {
+            "mean": 78.15,
+            "sd": 12.02,
+            "total": 10
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "intermediate",
+        "measure": "mean_difference",
+        "est": -20.05,
+        "ci_lower": -32.33,
+        "ci_upper": -7.77,
+        "ci_level": 0.95,
+        "p_value": 0.001,
+        "p_operator": "=",
+        "adjusted": true
+      },
+      "analysis": {
+        "model": "ANOVA with Tukey-adjusted pairwise comparisons",
+        "adjusted": true,
+        "covariates": [],
+        "population": "Full analysis set",
+        "missing_handling": "complete-case"
+      },
+      "provenance": {
+        "pages": [
+          503
+        ],
+        "tables": [
+          "Figure 1"
+        ],
+        "quote": "Mean scores for three categories (novice, intermediate, and expert) were 58.10 (±4.6 [SE]), 78.15 (±3.8), and 94.40 (±1.1), respectively. There was significant difference between novice and intermediate (20.05, 95% CI = 7.77-32.33, P = 0.001)."
+      }
+    },
+    {
+      "concept_id": "rigid_tasc_total_score_intermediate_vs_expert",
+      "name": "RIGID-TASC total score",
+      "type": "continuous",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P0D",
+      "unit": "score",
+      "unit_canonical": "score_0_100",
+      "timepoint_label": "Immediate (simulation session)",
+      "groups": [
+        {
+          "arm_id": "intermediate",
+          "raw": {
+            "mean": 78.15,
+            "sd": 12.02,
+            "total": 10
+          }
+        },
+        {
+          "arm_id": "expert",
+          "raw": {
+            "mean": 94.4,
+            "sd": 3.48,
+            "total": 10
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "expert",
+        "measure": "mean_difference",
+        "est": -16.25,
+        "ci_lower": -28.53,
+        "ci_upper": -3.97,
+        "ci_level": 0.95,
+        "p_value": 0.008,
+        "p_operator": "=",
+        "adjusted": true
+      },
+      "analysis": {
+        "model": "ANOVA with Tukey-adjusted pairwise comparisons",
+        "adjusted": true,
+        "covariates": [],
+        "population": "Full analysis set",
+        "missing_handling": "complete-case"
+      },
+      "provenance": {
+        "pages": [
+          503
+        ],
+        "tables": [
+          "Figure 1"
+        ],
+        "quote": "There was significant difference between intermediate and expert (16.25, 95% CI = 3.97-28.53, P = 0.008) operators."
+      }
+    },
+    {
+      "concept_id": "rigid_tasc_interrater_reliability_icc",
+      "name": "Interrater reliability (intraclass correlation coefficient)",
+      "type": "correlation",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Immediate (simulation session)",
+      "groups": [],
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": "intraclass_correlation_coefficient",
+        "est": 0.95,
+        "ci_lower": 0.9,
+        "ci_upper": 0.98,
+        "ci_level": 0.95
+      },
+      "analysis": {
+        "model": "Two-way random-effects ICC",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Full analysis set"
+      },
+      "provenance": {
+        "pages": [
+          503
+        ],
+        "tables": [],
+        "quote": "The interrater reliability (intraclass correlation coefficient) between the two testers was high (r = 0.95, 95% CI = 0.90-0.98)."
+      }
+    }
+  ],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "NIH Quality Assessment Tool for Observational Cohort and Cross-Sectional Studies",
+    "overall_judgment": "some concerns",
+    "domains": [
+      {
+        "name": "Selection of participants",
+        "judgment": "some concerns",
+        "support_for_judgment": "Convenience sample of volunteers at two academic centers; expertise level based on self-reported procedure counts."
+      },
+      {
+        "name": "Measurement of outcomes",
+        "judgment": "low",
+        "support_for_judgment": "Standardized checklist (RIGID-TASC) applied by two independent assessors; high interrater reliability."
+      },
+      {
+        "name": "Blinding of outcome assessors",
+        "judgment": "low",
+        "support_for_judgment": "Assessors were blinded to each other's scores."
+      },
+      {
+        "name": "Confounding",
+        "judgment": "some concerns",
+        "support_for_judgment": "No adjustment for potential confounders beyond expertise category; novices received brief instruction."
+      },
+      {
+        "name": "Statistical analysis",
+        "judgment": "low",
+        "support_for_judgment": "Appropriate use of ANOVA with Tukey adjustment; prespecified sample size calculation."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "rigid bronchoscopy",
+      "competency",
+      "assessment tool",
+      "simulation",
+      "interrater reliability",
+      "RIGID-TASC"
+    ],
+    "summary_tldr": "RIGID-TASC discriminated novice, intermediate, and expert operators in a manikin-based rigid bronchoscopy task and showed high interrater reliability (ICC 0.95).",
+    "clinical_relevance": "Provides an objective, reliable tool to assess and standardize training and competency in rigid bronchoscopy."
+  }
+}

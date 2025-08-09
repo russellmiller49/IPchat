@@ -1,0 +1,433 @@
+{
+  "source": {
+    "document_id": "Pleural Interventions in the Management of Hep",
+    "ingest_date": "2025-08-08T14:56:01.229062+00:00",
+    "trial_registration_id": null,
+    "pmid": null,
+    "doi": "10.1016/j.chest.2021.08.043"
+  },
+  "document": {
+    "metadata": {
+      "title": "Pleural Interventions in the Management of Hepatic Hydrothorax",
+      "year": 2022,
+      "authors": [
+        "Christopher R. Gilbert",
+        "Samira Shojaee",
+        "Fabien Maldonado",
+        "Lonny B. Yarmus",
+        "Eihab Bedawi",
+        "David Feller-Kopman",
+        "Najib M. Rahman",
+        "Jason A. Akulian",
+        "Jed A. Gorden"
+      ],
+      "journal": "Chest",
+      "doi": "10.1016/j.chest.2021.08.043",
+      "pmid": null
+    },
+    "sections": {
+      "abstract": "Hepatic hydrothorax (HH) occurs in 5%-15% of patients with cirrhosis and portal hypertension and reflects advanced liver disease. Presentations range from small, minimally symptomatic effusions to massive effusions with respiratory failure. High-quality HH-specific evidence is limited. This case-based review summarizes pleural intervention options—thoracentesis, tube thoracostomy, indwelling tunneled pleural catheter (IPC), pleurodesis, and surgical approaches—and provides practical recommendations. Multidisciplinary management with hepatology and transplant teams is emphasized. For non-transplant candidates with refractory HH, IPC is suggested for palliation when appropriate; serial thoracentesis is recommended when definitive procedures are not possible. For transplant candidates, serial thoracentesis is commonly used while the potential role of IPC is considered within the transplant evaluation.",
+      "methods": "Case-based narrative review and expert opinion synthesizing available retrospective studies, database analyses, and systematic reviews regarding pleural interventions for hepatic hydrothorax. No randomized controlled trials were conducted.",
+      "results": "Key data summarized: serial thoracentesis is standard but associated with cumulative complications in HH populations; chest tube drainage in HH is linked with poor outcomes and higher mortality than thoracentesis in database studies; TIPS benefits many but up to 25% have partial or no response; IPC can palliate symptoms with variable spontaneous pleurodesis and notable infection risks. Illustrative studies include: Yoon 2019 (12-month mortality: thoracentesis 18.2% [2/11], pigtail catheter 87.5% [14/16], surgery with diaphragmatic repair/pleurodesis 70.0% [7/10]); Orman & Lok 2009 (chest tube n=17 with 35.3% mortality at 3 months [6/17]); IPC series report pleurodesis and infection rates (e.g., Chen 2016: pleurodesis 33% [8/24], infection 16.7% [4/24], IPC-related mortality 0%)."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with hepatic hydrothorax secondary to cirrhosis/portal hypertension and transudative pleural effusion after exclusion of other cardiopulmonary causes.",
+      "inclusion_criteria": [
+        "Underlying liver disease with portal hypertension",
+        "Pleural effusion consistent with transudate",
+        "No alternative cardiopulmonary etiology for effusion identified"
+      ],
+      "exclusion_criteria": [
+        "Empyema or overt pleural infection requiring alternative management",
+        "Malignant pleural effusion",
+        "Primary cardiogenic pleural effusion"
+      ]
+    },
+    "intervention": {
+      "text": "Pleural interventions for HH",
+      "details": "Therapeutic thoracentesis, indwelling tunneled pleural catheter (IPC), tube thoracostomy with/without chemical pleurodesis, surgical diaphragmatic repair/pleurodesis; multidisciplinary management; optimization of sodium restriction/diuretics and consideration of TIPS/transplant."
+    },
+    "comparison": {
+      "text": "Alternative HH management strategies",
+      "details": "Serial thoracentesis vs chest tube drainage vs IPC vs surgical approaches; medical optimization including diuretics and sodium restriction; TIPS and transplant evaluation."
+    },
+    "outcomes": [
+      {
+        "name": "Mortality at 12 months",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Procedure-related infection",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Spontaneous pleurodesis",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "narrative review",
+    "allocation": "na",
+    "blinding": "na",
+    "sites_count": 0,
+    "countries": [
+      "US",
+      "UK"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": [
+      {
+        "name": "Overall",
+        "description": "All studies and data summarized in narrative review",
+        "n": 0
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "yoon2019_thoracentesis",
+      "name": "Serial thoracentesis (Yoon 2019)",
+      "n_randomized": 0,
+      "n_analyzed": 11,
+      "n_completed": 11
+    },
+    {
+      "arm_id": "yoon2019_pigtail",
+      "name": "Pigtail catheter without pleurodesis (Yoon 2019)",
+      "n_randomized": 0,
+      "n_analyzed": 16,
+      "n_completed": 16
+    },
+    {
+      "arm_id": "yoon2019_surgery",
+      "name": "Surgery with diaphragmatic repair and pleurodesis (Yoon 2019)",
+      "n_randomized": 0,
+      "n_analyzed": 10,
+      "n_completed": 10
+    },
+    {
+      "arm_id": "orman2009_chest_tube",
+      "name": "Chest tube placement (Orman & Lok 2009)",
+      "n_randomized": 0,
+      "n_analyzed": 17,
+      "n_completed": 17
+    },
+    {
+      "arm_id": "chen2016_ipc",
+      "name": "Indwelling tunneled pleural catheter (Chen 2016)",
+      "n_randomized": 0,
+      "n_analyzed": 24,
+      "n_completed": 24
+    },
+    {
+      "arm_id": "kniese2019_ipc",
+      "name": "Indwelling tunneled pleural catheter (Kniese 2019)",
+      "n_randomized": 0,
+      "n_analyzed": 62,
+      "n_completed": 62
+    },
+    {
+      "arm_id": "shojaee2019_ipc",
+      "name": "Indwelling tunneled pleural catheter (Shojaee 2019 multicenter)",
+      "n_randomized": 0,
+      "n_analyzed": 79,
+      "n_completed": 79
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "mortality_12m_yoon2019",
+      "name": "All-cause mortality at 12 months",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P12M",
+      "timepoint_label": "12 months",
+      "groups": [
+        {
+          "arm_id": "yoon2019_thoracentesis",
+          "raw": {
+            "events": 2,
+            "total": 11
+          }
+        },
+        {
+          "arm_id": "yoon2019_pigtail",
+          "raw": {
+            "events": 14,
+            "total": 16
+          }
+        },
+        {
+          "arm_id": "yoon2019_surgery",
+          "raw": {
+            "events": 7,
+            "total": 10
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "yoon2019_thoracentesis",
+        "measure": "risk_difference",
+        "est": null,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": null,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "unadjusted proportion comparison",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Retrospective cohort",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          279
+        ],
+        "tables": [
+          "Table 1"
+        ],
+        "table_number": 1,
+        "quote": "Thoracentesis—18.2% (n = 11); Pigtail—87.5% (n = 16); Surgery—70.0% (n = 10)"
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.208
+        },
+        "odds_ratio": {
+          "est": 0.032
+        },
+        "arr": -0.693,
+        "nnh": 1.4
+      }
+    },
+    {
+      "concept_id": "mortality_3m_orman2009",
+      "name": "All-cause mortality at 3 months",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P3M",
+      "timepoint_label": "3 months",
+      "groups": [
+        {
+          "arm_id": "orman2009_chest_tube",
+          "raw": {
+            "events": 6,
+            "total": 17
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": null,
+        "est": null,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": null,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "single-arm proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Retrospective cohort",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          279
+        ],
+        "tables": [
+          "Table 1"
+        ],
+        "table_number": 1,
+        "quote": "Chest tube placement (n = 17) … Mortality 35.3% at 3 mos"
+      }
+    },
+    {
+      "concept_id": "ipc_related_mortality_followup",
+      "name": "IPC-related mortality during follow-up",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": null,
+      "timepoint_label": "Follow-up (study-specific)",
+      "groups": [
+        {
+          "arm_id": "chen2016_ipc",
+          "raw": {
+            "events": 0,
+            "total": 24
+          }
+        },
+        {
+          "arm_id": "kniese2019_ipc",
+          "raw": {
+            "events": 2,
+            "total": 62
+          }
+        },
+        {
+          "arm_id": "shojaee2019_ipc",
+          "raw": {
+            "events": 2,
+            "total": 79
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "chen2016_ipc",
+        "measure": "risk_difference",
+        "est": null,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": null,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "unadjusted proportion comparison",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Retrospective cohorts",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          279
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "Chen 2016 (n = 24) IPC-related mortality 0.0%; Kniese 2019 (n = 62) IPC-related mortality 3.2%; Shojaee 2019 (n = 79) IPC-related mortality 2.5%"
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.0
+        },
+        "odds_ratio": {
+          "est": 0.0
+        },
+        "arr": -0.032,
+        "nnh": 31.0
+      }
+    },
+    {
+      "concept_id": "ipc_spontaneous_pleurodesis_chen2016",
+      "name": "Spontaneous pleurodesis",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": null,
+      "timepoint_label": "Follow-up (study-specific)",
+      "groups": [
+        {
+          "arm_id": "chen2016_ipc",
+          "raw": {
+            "events": 8,
+            "total": 24
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": null,
+        "est": null,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": null,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "single-arm proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Retrospective cohort",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          279
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "Chen et al 2016 (n = 24) Pleurodesis Rate 33%"
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Infection",
+      "meddra": {
+        "soc": "Infections and infestations",
+        "pt": "Infection"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "hospitalization",
+        "other medically important"
+      ],
+      "groups": [
+        {
+          "arm_id": "chen2016_ipc",
+          "events": 4,
+          "patients": 4,
+          "percentage": 16.7,
+          "total": 24
+        }
+      ],
+      "period": "follow-up (study-specific)",
+      "management": null,
+      "provenance": {
+        "pages": [
+          279
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "Chen et al 2016 … Infection Rate 16.7%"
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "Not applicable (narrative review)",
+    "overall_judgment": "some concerns",
+    "domains": [
+      {
+        "name": "Study selection and synthesis",
+        "judgment": "some concerns",
+        "support_for_judgment": "Evidence base consists of small retrospective series and database studies; lack of randomized trials; potential selection and reporting biases."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "hepatic hydrothorax",
+      "thoracentesis",
+      "indwelling pleural catheter",
+      "chest tube",
+      "pleurodesis",
+      "TIPS",
+      "cirrhosis"
+    ],
+    "summary_tldr": "In hepatic hydrothorax, avoid chest tubes when possible; use serial thoracentesis or carefully selected IPC for palliation, noting infection risks, and coordinate with hepatology/transplant teams.",
+    "clinical_relevance": "Provides pragmatic, multidisciplinary guidance for pleural management in cirrhotic patients with HH, summarizing real-world outcomes and risks of common interventions."
+  }
+}

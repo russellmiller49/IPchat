@@ -1,0 +1,896 @@
+{
+  "source": {
+    "document_id": "Ljungdahl-2006-Complication rate lower after p",
+    "ingest_date": "2025-08-08T14:05:52.819013+00:00",
+    "trial_registration_id": null,
+    "pmid": null,
+    "doi": "10.1007/s00464-005-0757-6"
+  },
+  "document": {
+    "metadata": {
+      "title": "Complication rate lower after percutaneous endoscopic gastrostomy than after surgical gastrostomy: a prospective, randomized trial",
+      "year": 2006,
+      "authors": [
+        "M. Ljungdahl",
+        "M. Sundbom"
+      ],
+      "journal": "Surgical Endoscopy",
+      "doi": "10.1007/s00464-005-0757-6",
+      "pmid": null
+    },
+    "sections": {
+      "abstract": "Background: Percutaneous endoscopic gastrostomy (PEG) has increasingly replaced surgical gastrostomy (SG) as the primary procedure for the long-term nutrition of patients with swallowing disorders. This prospective randomized study compares PEG with SG in terms of effectiveness and safety. Methods: This study enrolled 70 patients with swallowing disorders, mainly attributable to neurologic impairment. All the patients, eligible for both techniques, were randomized to PEG (pull method) or SG. The groups were comparable in terms of age, body mass index, and underlying diseases. Complications were reported 7 and 30 days after the operative procedure. Results: The procedures were successfully completed for all the patients. The median operative time was 15 min for PEG and 35 min for SG (p < 0.001). The rate of complications was lower for PEG (42.9%) than for SG (74.3%; p < 0.01). The 30-day mortality rates were 5.7% for PEG and 14.3% for SG (nonsignificant difference). Conclusion: The findings show PEG to be an efficient method for gastrostomy tube placement with a lower complication rate than SG. In addition, PEG is faster to perform and requires fewer medical resources. The authors consider PEG to be the primary procedure for gastrostomy tube placement.",
+      "methods": "The Research Ethics Committee at Uppsala University approved the study. During 45 months, patients with impaired swallowing and a need for long-term (>4 weeks) enteral feeding were screened. Inclusion required feasibility of both PEG and SG; exclusions were prior upper GI surgery and inability to undergo endoscopy due to pharyngoesophageal obstruction. Two refused participation. Seventy patients were randomized by sealed envelopes (non-stratified) to PEG (n=35) or SG (n=35). Preoperative antibiotics (cefuroxime 1.5 g IV) were given. PEG (pull technique) was performed under light sedation with endoscopic guidance using 20-22 Fr catheters. SG was performed via a short upper midline incision with a 22 Fr tube and gastric fixation. Feeding was started after 24 hours. Outcomes included procedure duration, technical success, and complications assessed daily and recorded at days 7 and 30; complications were classified as early (days 1-7) or late (days 8-30); wound infection required ≥2 of erythema, induration, or purulent discharge. Mortality was followed ≥6 months. Statistics used ANOVA and Student’s t-test for group differences and chi-square for 30-day mortality; p<0.05 was significant.",
+      "results": "All planned procedures were completed without perioperative complications. Median operative time was 15 min (9-31) for PEG and 35 min (20-65) for SG (p<0.001). For SG, total time in the operating theater (induction, operation, awakening) was 85 min (45-125). No perioperative mortality occurred. In PEG, two patients died within 30 days (GI hemorrhage day 2 deemed procedure-related; recurrent stroke day 9), 30-day mortality 5.7%. One PEG patient had local peritonitis treated conservatively. Twelve PEG patients (34%) had minor complications. In SG, 30-day mortality was 14.3% (two aspiration pneumonia; three progression of underlying disease). Two additional SG patients developed pneumonia treated with antibiotics (major complication). Nineteen SG patients (54%) had minor gastrostomy-site complications; tube dislodgement occurred in six (four easily replaced, two required reoperation). Patients with any complication were fewer in PEG (13/35) than SG (25/35) (p<0.01; table p=0.003)."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with swallowing disorders requiring long-term (>4 weeks) enteral feeding, eligible for both PEG and surgical gastrostomy.",
+      "inclusion_criteria": [
+        "Impaired swallowing with need for long-term (>4 weeks) enteral feeding",
+        "Both PEG and SG technically feasible",
+        "Informed consent by patient or proxy"
+      ],
+      "exclusion_criteria": [
+        "Previous upper gastrointestinal tract surgery",
+        "Endoscopy not possible due to pharyngoesophageal obstruction",
+        "Refusal to participate"
+      ]
+    },
+    "intervention": {
+      "text": "Percutaneous endoscopic gastrostomy (PEG), pull technique",
+      "details": "Endoscopic guidance under light sedation; percutaneous pull-through placement of 20-22 Fr PEG catheter (Ponsky Pull PEG 20-Fr or Compat PEG 22-Fr); prophylactic cefuroxime 1.5 g IV; sterile preparation and local anesthesia; feeding delayed 24 hours."
+    },
+    "comparison": {
+      "text": "Surgical gastrostomy (SG)",
+      "details": "Open gastrostomy via short upper midline incision; 22-Fr gastrostomy tube (Compat-Gastrotube); creation of serosal tunnel with purse-string sutures and gastric fixation to abdominal wall; performed in operating theater with anesthesia; feeding delayed 24 hours."
+    },
+    "outcomes": [
+      {
+        "name": "Patients with ≥1 complication within 30 days",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "30-day all-cause mortality",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Major complications within 30 days",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Individual postoperative complications within 30 days (peristomal infection, stomal leakage, tube dislodgement, pneumonia, peritonitis)",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "RCT",
+    "allocation": "randomized",
+    "blinding": "open-label",
+    "sites_count": 1,
+    "countries": [
+      "Sweden"
+    ],
+    "sample_size": {
+      "planned": null,
+      "enrolled": 70,
+      "analyzed": 70
+    },
+    "analysis_populations": [
+      {
+        "name": "ITT",
+        "description": "All randomized participants",
+        "n": 70
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "Percutaneous endoscopic gastrostomy (PEG, pull method)",
+      "n_randomized": 35,
+      "n_analyzed": 35,
+      "n_completed": 35
+    },
+    {
+      "arm_id": "control",
+      "name": "Surgical gastrostomy (SG, open)",
+      "n_randomized": 35,
+      "n_analyzed": 35,
+      "n_completed": 35
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "any_complication_patient_level_30d",
+      "name": "Patients with ≥1 complication at 30 days",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P30D",
+      "timepoint_label": "30 days",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 13,
+            "total": 35
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 25,
+            "total": 35
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": null,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.003,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Student's t-test on proportions (as reported in table)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          1250
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "No. of patients with complications 13 (37.1) vs 25 (71.4), p = 0.003"
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.52
+        },
+        "odds_ratio": {
+          "est": 0.236
+        },
+        "arr": -0.343,
+        "nnh": 2.9
+      }
+    },
+    {
+      "concept_id": "mortality_30d_all_cause",
+      "name": "30-day all-cause mortality",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P30D",
+      "timepoint_label": "30 days",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 2,
+            "total": 35
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 5,
+            "total": 35
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": null,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.238,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Chi-square test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          1250
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Mortality 2 (5.7) vs 5 (14.3), p = 0.238"
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.4
+        },
+        "odds_ratio": {
+          "est": 0.364
+        },
+        "arr": -0.086,
+        "nnh": 11.7
+      }
+    },
+    {
+      "concept_id": "major_complication_30d",
+      "name": "Major complications within 30 days (composite)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P30D",
+      "timepoint_label": "30 days",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 1,
+            "total": 35
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 2,
+            "total": 35
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": null,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.562,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Student's t-test (as reported for category)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          1250
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Major complications: Pneumonia 0 vs 2; Local peritonitis 1 vs 0; p = 0.562"
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.5
+        },
+        "odds_ratio": {
+          "est": 0.485
+        },
+        "arr": -0.029,
+        "nnh": 35.0
+      }
+    },
+    {
+      "concept_id": "minor_complication_any_30d",
+      "name": "Patients with ≥1 minor complication within 30 days",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P30D",
+      "timepoint_label": "30 days",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 12,
+            "total": 35
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 19,
+            "total": 35
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": null,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.054,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Student's t-test (as reported for category)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          1250
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Minor complications: Peristomal infection, Stomal leakage, Dislodged tube; p = 0.054"
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.632
+        },
+        "odds_ratio": {
+          "est": 0.439
+        },
+        "arr": -0.2,
+        "nnh": 5.0
+      }
+    },
+    {
+      "concept_id": "peristomal_infection_30d",
+      "name": "Peristomal (stoma site) infection within 30 days",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P30D",
+      "timepoint_label": "30 days",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 6,
+            "total": 35
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 6,
+            "total": 35
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": null,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": null,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive (no specific p-value reported for this individual comparison)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          1250
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Peristomal infection 6 (5, 1) vs 6 (3, 3); 17.1% vs 17.1%"
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 1.0
+        },
+        "odds_ratio": {
+          "est": 1.0
+        },
+        "arr": 0.0
+      }
+    },
+    {
+      "concept_id": "stomal_leakage_30d",
+      "name": "Stoma site leakage within 30 days",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P30D",
+      "timepoint_label": "30 days",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 4,
+            "total": 35
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 7,
+            "total": 35
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": null,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": null,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive (no specific p-value reported for this individual comparison)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          1250
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Stomal leakage 4 (2, 2) vs 7 (1, 6); 11.4% vs 20.0%"
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.571
+        },
+        "odds_ratio": {
+          "est": 0.516
+        },
+        "arr": -0.086,
+        "nnh": 11.7
+      }
+    },
+    {
+      "concept_id": "gastrostomy_tube_dislodgement_30d",
+      "name": "Gastrostomy tube dislodgement within 30 days",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P30D",
+      "timepoint_label": "30 days",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 2,
+            "total": 35
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 6,
+            "total": 35
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": null,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": null,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive (no specific p-value reported for this individual comparison)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          1249,
+          1250
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Dislodged tube 2 (1, 1) vs 6 (1, 5); In SG, four replaced easily, two required reoperation."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.333
+        },
+        "odds_ratio": {
+          "est": 0.293
+        },
+        "arr": -0.114,
+        "nnh": 8.8
+      }
+    },
+    {
+      "concept_id": "pneumonia_30d",
+      "name": "Pneumonia within 30 days (nonfatal cases classified as major complications)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P30D",
+      "timepoint_label": "30 days",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 0,
+            "total": 35
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 2,
+            "total": 35
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": null,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": null,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive (no specific p-value reported for this individual comparison)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          1250
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Pneumonia 0 vs 2 (1, 1) in SG; treated successfully by antibiotics."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.0
+        },
+        "odds_ratio": {
+          "est": 0.0
+        },
+        "arr": -0.057,
+        "nnh": 17.5
+      }
+    },
+    {
+      "concept_id": "local_peritonitis_30d",
+      "name": "Local peritonitis within 30 days",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P30D",
+      "timepoint_label": "30 days",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 1,
+            "total": 35
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 0,
+            "total": 35
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": null,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": null,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive (no specific p-value reported for this individual comparison)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          1249,
+          1250
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Local peritonitis 1 (1, 0) vs 0; treated conservatively."
+      },
+      "derived": {
+        "arr": 0.029,
+        "nnt": 35.0
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Stoma site infection",
+      "meddra": {
+        "soc": "Infections and infestations",
+        "pt": "Stoma site infection"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 6,
+          "patients": 6,
+          "percentage": 17.1,
+          "total": 35
+        },
+        {
+          "arm_id": "control",
+          "events": 6,
+          "patients": 6,
+          "percentage": 17.1,
+          "total": 35
+        }
+      ],
+      "period": "0-30 days",
+      "management": "Not specifically described.",
+      "provenance": {
+        "pages": [
+          1250
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "Peristomal infection 6 (5, 1) vs 6 (3, 3) (17.1% vs 17.1%)."
+      }
+    },
+    {
+      "event_name": "Stoma site leakage",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Stoma site leakage"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 4,
+          "patients": 4,
+          "percentage": 11.4,
+          "total": 35
+        },
+        {
+          "arm_id": "control",
+          "events": 7,
+          "patients": 7,
+          "percentage": 20.0,
+          "total": 35
+        }
+      ],
+      "period": "0-30 days",
+      "management": "Not specifically described.",
+      "provenance": {
+        "pages": [
+          1250
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "Stomal leakage 4 (2, 2) vs 7 (1, 6) (11.4% vs 20.0%)."
+      }
+    },
+    {
+      "event_name": "Gastrostomy tube dislodgement",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Gastrostomy tube dislodgement"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 2,
+          "patients": 2,
+          "percentage": 5.7,
+          "total": 35
+        },
+        {
+          "arm_id": "control",
+          "events": 6,
+          "patients": 6,
+          "percentage": 17.1,
+          "total": 35
+        }
+      ],
+      "period": "0-30 days",
+      "management": "In SG group, 4/6 replaced easily; 2/6 required reoperation.",
+      "provenance": {
+        "pages": [
+          1249,
+          1250
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "Dislodged tube 2 (1, 1) vs 6 (1, 5). In four of these patients, it could be replaced easily, whereas two patients required reoperation."
+      }
+    },
+    {
+      "event_name": "Pneumonia",
+      "meddra": {
+        "soc": "Infections and infestations",
+        "pt": "Pneumonia"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "hospitalization",
+        "medically important event"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 35
+        },
+        {
+          "arm_id": "control",
+          "events": 2,
+          "patients": 2,
+          "percentage": 5.7,
+          "total": 35
+        }
+      ],
+      "period": "0-30 days",
+      "management": "Treated successfully with antibiotics in two nonfatal cases; two additional fatal aspiration pneumonia cases contributed to mortality.",
+      "provenance": {
+        "pages": [
+          1249,
+          1250
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "Pneumonia developed in two other patients, but was treated successfully by antibiotics. This was considered a major complication."
+      }
+    },
+    {
+      "event_name": "Peritonitis",
+      "meddra": {
+        "soc": "Gastrointestinal disorders",
+        "pt": "Peritonitis"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "medically important event"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 1,
+          "patients": 1,
+          "percentage": 2.9,
+          "total": 35
+        },
+        {
+          "arm_id": "control",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 35
+        }
+      ],
+      "period": "0-30 days",
+      "management": "Treated conservatively.",
+      "provenance": {
+        "pages": [
+          1249,
+          1250
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "One patient experienced a major complication (local peritonitis), but was successfully treated conservatively."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "RoB 2",
+    "overall_judgment": "some concerns",
+    "domains": [
+      {
+        "name": "Randomization process",
+        "judgment": "some concerns",
+        "support_for_judgment": "Non-stratified sealed-envelope randomization; allocation concealment not fully described."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "some concerns",
+        "support_for_judgment": "Open-label surgical vs endoscopic procedures; no blinding."
+      },
+      {
+        "name": "Missing outcome data",
+        "judgment": "low",
+        "support_for_judgment": "All 70 randomized patients were included; outcomes assessed within 30 days with mortality data captured."
+      },
+      {
+        "name": "Measurement of the outcome",
+        "judgment": "low",
+        "support_for_judgment": "Objective outcomes (mortality, defined complications) with structured daily assessments."
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "low",
+        "support_for_judgment": "Predefined timepoints (days 7 and 30) and comprehensive reporting of complication categories."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "percutaneous endoscopic gastrostomy",
+      "surgical gastrostomy",
+      "randomized trial",
+      "complications",
+      "30-day mortality"
+    ],
+    "summary_tldr": "In a single-center RCT (n=70), PEG had fewer patients with complications at 30 days than SG (13/35 vs 25/35; p=0.003); 30-day mortality was not significantly different (2/35 vs 5/35; p=0.238).",
+    "clinical_relevance": "Supports PEG as the primary approach for long-term enteral access when both techniques are feasible, with lower early complication burden than surgical gastrostomy."
+  }
+}

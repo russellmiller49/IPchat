@@ -1,0 +1,41 @@
+{
+  "source": {
+    "document_id": "timeout_test",
+    "ingest_date": "2025-08-08T07:49:05.793229Z"
+  },
+  "document": {
+    "metadata": {
+      "title": "Test Document - Mock Response",
+      "year": "2024",
+      "authors": [
+        "Test Author"
+      ]
+    },
+    "sections": {
+      "abstract": "This is a test response generated in test mode.",
+      "methods": "Mock methods section",
+      "results": "Mock results section",
+      "conclusion": "Mock conclusion section"
+    }
+  },
+  "design": {
+    "study_type": "test",
+    "participants": {
+      "total": 100
+    }
+  },
+  "retrieval": {
+    "keywords": [
+      "test",
+      "mock",
+      "response"
+    ],
+    "summary_tldr": "Test response for debugging purposes",
+    "embedding_ref": "test_embedding_ref"
+  },
+  "data": {
+    "primary_endpoints": [],
+    "secondary_endpoints": [],
+    "adverse_events": []
+  }
+}

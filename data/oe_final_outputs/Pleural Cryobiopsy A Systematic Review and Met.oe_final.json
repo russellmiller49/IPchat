@@ -1,0 +1,260 @@
+{
+  "source": {
+    "document_id": "Pleural Cryobiopsy A Systematic Review and Meta-Analysis",
+    "ingest_date": "2025-08-08T14:54:44.061085+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1016/j.chest.2019.09.023"
+  },
+  "document": {
+    "metadata": {
+      "title": "Pleural Cryobiopsy: A Systematic Review and Meta-Analysis",
+      "year": 2020,
+      "authors": [
+        "Majid Shafiq",
+        "Jaskaran S. Sethi",
+        "Muhammad S. Ali",
+        "Uzair K. Ghori",
+        "Tajalli Saghaie",
+        "Erik Folch"
+      ],
+      "journal": "Chest",
+      "doi": "10.1016/j.chest.2019.09.023",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "BACKGROUND: Pleural biopsy using either video-assisted thoracoscopic surgery or medical pleuroscopy is the current diagnostic criterion standard for pleural pathology with a high, yet imperfect, diagnostic yield. Cryobiopsy may provide greater tissue, increase depth of sampled tissue, and/or reduce crush artifact. However, its impact on diagnostic yield remains uncertain, and there are potential concerns regarding its safety too. We performed a systematic review and meta-analysis to investigate the same. METHODS: We performed a systematic search of MEDLINE, Embase, and Google Scholar for studies evaluating the performance of pleural cryobiopsy, assessing the quality of each study using the Quality Assessment, Data Abstraction and Synthesis-2 tool. Using inverse variance weighting, we performed a meta-analysis of diagnostic yield estimations. We also reviewed specimen characteristics and complications related to the procedure. RESULTS: Seven observational studies involving 586 pleural biopsies (311 cryobiopsies and 275 flexible forceps biopsies) were evaluated. All but one study used a semi-rigid thoracoscope. Meta-analysis generated a diagnostic yield of 96.5% for cryobiopsy and 93.1% for forceps biopsy with an inverse variance-weighted OR of 1.61 (95% CI, 0.71-3.66) and an I2 of 16%. No instances of moderate to severe bleeding were reported with cryobiopsy. A funnel plot illustrated no major publication bias. CONCLUSIONS: Based on analysis of relatively homogenous observational data, pleural cryobiopsy is safe but does not increase diagnostic yield over flexible forceps biopsy. Adequately powered multicenter randomized trials are needed for further investigation.",
+      "methods": "We performed a comprehensive search of MEDLINE, Embase, and Google Scholar in March 2019 in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses checklist. We used “cryobiopsy” OR “cryoprobe” OR “cryotechnology” AND “pleura” OR “thoracoscopy” OR “pleuroscopy” OR “pleural biopsy” OR “pleural effusion” as search terms to identify relevant studies. We applied these search terms to titles and abstracts. The bibliographies of shortlisted articles were also reviewed to identify any additional relevant studies. Conference abstract books were searched for additional studies that may have been presented but not yet published as manuscripts. We reviewed full texts of all shortlisted studies to identify all studies that met our Population, Intervention, Comparison, Outcome, Study Type criteria: patients included adult humans undergoing pleural biopsy via medical pleuroscopy (MP) or video-assisted thoracoscopic surgery (VATS), intervention included cryobiopsy of the pleura, control included forceps biopsy of the pleura, outcome included overall diagnostic yield, and study type included observational or experimental. Exclusion criteria: case reports or series with fewer than five subjects, nonstandardized procedures, studies with overlapping datasets, and review papers. Two authors used the Quality Assessment, Data Abstraction and Synthesis-2 (QUADAS-2) tool to assess the quality of included studies. Meta-analysis of the diagnostic yield estimations was performed using inverse variance weighting to aggregate proportions and calculate a pooled odds ratio. Heterogeneity was measured using the I2 index with a fixed-effects model planned for I2 < 40% otherwise random-effects. A funnel plot was generated to assess publication bias.",
+      "results": "Seven observational studies representing 586 biopsies (311 cryobiopsies and 275 flexible forceps biopsies) were analyzed. Most studies used a semi-rigid thoracoscope; one used a rigid thoracoscope but only flexible forceps and cryoprobe data were included for consistency. In all but one study, both cryobiopsy and flexible forceps biopsy were performed in the same patient. Meta-analysis yielded a pooled diagnostic yield of 96.5% for cryobiopsy and 93.1% for flexible forceps biopsy, with an inverse variance-weighted odds ratio of 1.61 (95% CI, 0.71-3.66), I2 = 16%, and overall effect z = 1.15, P = .25. Studies consistently showed larger specimen sizes with cryobiopsy and, where assessed, fewer instances of crush artifact. None of the studies reported any instances of major bleeding with cryobiopsy. A funnel plot showed no obvious publication bias."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults undergoing pleural biopsy for unexplained pleural effusion or pleural pathology via medical pleuroscopy or VATS.",
+      "inclusion_criteria": [
+        "Adult humans undergoing pleural biopsy via medical pleuroscopy or VATS",
+        "Studies including pleural cryobiopsy",
+        "Comparator flexible forceps pleural biopsy",
+        "Reported overall diagnostic yield"
+      ],
+      "exclusion_criteria": [
+        "Case reports or series with fewer than 5 subjects",
+        "Nonstandardized procedures",
+        "Overlapping datasets",
+        "Review papers"
+      ]
+    },
+    "intervention": {
+      "text": "Pleural cryobiopsy",
+      "details": "Cryoprobe applied to pleura during MP or VATS; cryoprobe size 1.9-2.4 mm; freezing time 3-10 s; typically 1-4 cryobiopsies per patient."
+    },
+    "comparison": {
+      "text": "Flexible forceps pleural biopsy",
+      "details": "Flexible forceps passed via semi-rigid thoracoscope working channel; number of biopsies often 1-20; rigid forceps excluded from primary analysis."
+    },
+    "outcomes": [
+      {
+        "name": "Overall diagnostic yield",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Major bleeding (moderate to severe) during/after biopsy",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Specimen size",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "systematic_review_meta_analysis",
+    "allocation": "not_applicable",
+    "blinding": "not_applicable",
+    "sites_count": 7,
+    "countries": [
+      "multinational"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 586,
+      "analyzed": 586
+    },
+    "analysis_populations": [
+      {
+        "name": "included_biopsies",
+        "description": "All biopsies across included studies",
+        "n": 586
+      },
+      {
+        "name": "studies",
+        "description": "Included observational studies",
+        "n": 7
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "Pleural cryobiopsy",
+      "n_randomized": 311,
+      "n_analyzed": 311,
+      "n_completed": 311
+    },
+    {
+      "arm_id": "control",
+      "name": "Flexible forceps pleural biopsy",
+      "n_randomized": 275,
+      "n_analyzed": 275,
+      "n_completed": 275
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "diagnostic_yield_overall",
+      "name": "Overall diagnostic yield",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Index procedure",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 300,
+            "total": 311
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 256,
+            "total": 275
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "odds_ratio",
+        "est": 1.61,
+        "ci_lower": 0.71,
+        "ci_upper": 3.66,
+        "ci_level": 0.95,
+        "p_value": 0.25,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "inverse_variance_fixed",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Meta-analysis across 7 observational studies",
+        "missing_handling": "Not reported",
+        "heterogeneity_i2": 16,
+        "effect_z": 1.15
+      },
+      "provenance": {
+        "pages": [
+          227
+        ],
+        "tables": [
+          "Figure 2"
+        ],
+        "table_number": 0,
+        "quote": "Total events 300 vs 256; OR 1.61 (95% CI, 0.71-3.66). Test for overall effect: z = 1.15 (P = .25)."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 1.036
+        },
+        "odds_ratio": {
+          "est": 2.024
+        },
+        "arr": 0.034,
+        "nnt": 29.7
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Major procedural bleeding",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Procedural haemorrhage"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "other medically important condition"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 301
+        },
+        {
+          "arm_id": "control",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 261
+        }
+      ],
+      "period": "Periprocedural",
+      "management": "",
+      "provenance": {
+        "pages": [
+          226,
+          227
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "quote": "None of the studies reported any instances of major bleeding with cryobiopsy."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "QUADAS-2",
+    "overall_judgment": "unclear",
+    "domains": [
+      {
+        "name": "Patient selection",
+        "judgment": "unclear",
+        "support_for_judgment": "Most included studies were observational with potential selection bias not fully detailed."
+      },
+      {
+        "name": "Index test",
+        "judgment": "low",
+        "support_for_judgment": "Cryobiopsy conducted with described protocols; applicability concerns low."
+      },
+      {
+        "name": "Reference standard",
+        "judgment": "unclear",
+        "support_for_judgment": "Diagnostic confirmation and follow-up for nonspecific pleuritis varied (6-12 months where reported)."
+      },
+      {
+        "name": "Flow and timing",
+        "judgment": "unclear",
+        "support_for_judgment": "Follow-up duration and handling of indeterminate results varied across studies."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "pleural cryobiopsy",
+      "pleuroscopy",
+      "thoracoscopy",
+      "pleural biopsy",
+      "diagnostic yield",
+      "bleeding"
+    ],
+    "summary_tldr": "Meta-analysis of 7 observational studies (586 biopsies) found no significant improvement in diagnostic yield with pleural cryobiopsy vs flexible forceps (OR 1.61; P = 0.25); no major bleeding reported with cryobiopsy.",
+    "clinical_relevance": "Pleural cryobiopsy provides larger specimens without increasing diagnostic yield over flexible forceps; safety profile acceptable. Randomized trials are needed."
+  }
+}

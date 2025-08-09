@@ -1,0 +1,113 @@
+{
+  "source": {
+    "document_id": "American Brachytherapy Society consensus guide",
+    "ingest_date": "2025-08-08T09:42:59.837445+00:00",
+    "trial_registration_id": null,
+    "pmid": null,
+    "doi": "10.1016/j.brachy.2015.09.006"
+  },
+  "document": {
+    "metadata": {
+      "title": "American Brachytherapy Society consensus guidelines for thoracic brachytherapy for lung cancer",
+      "year": 2016,
+      "authors": [
+        "A. Stewart",
+        "B. Parashar",
+        "M. Patel",
+        "D. O’Farrell",
+        "M. Biagioli",
+        "P. Devlin",
+        "S. Mutyala"
+      ],
+      "journal": "Brachytherapy",
+      "doi": "10.1016/j.brachy.2015.09.006",
+      "pmid": null
+    },
+    "sections": {
+      "abstract": "PURPOSE: To update brachytherapy recommendations for pretreatment evaluation, treatment, and dosimetric issues for thoracic brachytherapy for lung cancer. METHODS AND MATERIALS: Members of the American Brachytherapy Society with expertise in thoracic brachytherapy updated recommendations for thoracic brachytherapy based on literature review and clinical experience. RESULTS: The American Brachytherapy Society consensus guidelines recommend the use of endobronchial brachytherapy for disease palliation in patients with central obstructing lesions, particularly in patients who have previously received external beam radiotherapy. The use of interstitial implants after incomplete resection may improve outcomes and provide enhanced palliation. Early reports support the use of CT-guided intratumoral volume implants within clinical studies. The use of brachytherapy routinely after sublobar resection is not generally recommended, unless within the confines of a clinical trial or a registry. CONCLUSIONS: American Brachytherapy Society recommendations for thoracic brachytherapy are provided. Practitioners are encouraged to follow these guidelines and to develop further clinical trials to examine this treatment modality to increase the evidence base for its use.",
+      "methods": "Guideline development based on literature review and clinical experience by members of the American Brachytherapy Society with expertise in thoracic brachytherapy. Recommendations update prior ABS guidance (1993 and 2001) and encompass pretreatment evaluation, treatment planning, dose/fractionation, and dosimetric reporting.",
+      "results": "Key recommendations include: CT simulation and CT-based 3D planning for endobronchial brachytherapy; prefer HDR or PDR techniques over LDR for endobronchial treatment; individualized dose prescription with attention to organ-at-risk proximity (notably blood vessels) to mitigate risks such as massive hemoptysis; report dose to target and at 10 mm from catheter center plus OAR doses; consider brachytherapy for palliation of central obstructing lesions, especially in previously irradiated patients; radical endobronchial brachytherapy alone or as boost generally within clinical trials; interstitial seed implants after incomplete resection generally within trials; postoperative CT planning and OAR dose reporting for interstitial implants; new dose/fractionation schemes summarized. Cited RCTs and series show no survival difference between fractionation schemes or addition of brachytherapy to EBRT in most settings, with some symptomatic benefits and higher re-expansion rates of collapsed lungs when brachytherapy is added in select scenarios."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with lung cancer (predominantly non-small cell) presenting with central endobronchial obstruction or thoracic tumors, including patients previously treated with external beam radiotherapy or those with incomplete surgical resection margins.",
+      "inclusion_criteria": [
+        "Endoluminal disease suitable for brachytherapy on bronchoscopy",
+        "Ability to tolerate bronchoscopy",
+        "Predicted survival greater than 2 months for palliative response",
+        "Central obstructing lesions with symptoms (e.g., cough, dyspnea, hemoptysis)"
+      ],
+      "exclusion_criteria": [
+        "Predominant extrabronchial disease without endoluminal component unless used as boost",
+        "Inability to tolerate bronchoscopy",
+        "Poor performance status precluding procedure"
+      ]
+    },
+    "intervention": {
+      "text": "Endobronchial or interstitial thoracic brachytherapy",
+      "details": "HDR or PDR endobronchial brachytherapy with CT simulation and 3D planning; individualized prescription point and OAR assessment; consideration of centering devices to minimize mucosal and vascular hot spots. Interstitial permanent seed implantation (125I or 131Cs) generally within clinical trials, particularly after incomplete resections."
+    },
+    "comparison": {
+      "text": "External beam radiotherapy and other local modalities",
+      "details": "Comparators discussed include EBRT alone or with brachytherapy boost, laser resection, stenting, and photodynamic therapy in palliative settings."
+    },
+    "outcomes": [
+      {
+        "name": "Symptom relief (dyspnea, cough, hemoptysis, obstruction)",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Lung re-expansion in atelectasis",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Overall survival",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Adverse events (e.g., hemoptysis)",
+        "type": "safety",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Guideline/Consensus",
+    "allocation": "none",
+    "blinding": "none",
+    "sites_count": null,
+    "countries": [],
+    "sample_size": {
+      "planned": null,
+      "enrolled": null,
+      "analyzed": null
+    },
+    "analysis_populations": []
+  },
+  "arms": [],
+  "outcomes_normalized": [],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "Not applicable",
+    "overall_judgment": "not_applicable",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "endobronchial brachytherapy",
+      "thoracic brachytherapy",
+      "lung cancer",
+      "interstitial seeds",
+      "iodine-125",
+      "cesium-131",
+      "palliation",
+      "external beam radiotherapy"
+    ],
+    "summary_tldr": "ABS guideline recommends CT-based HDR/PDR endobronchial brachytherapy for palliation of central airway obstruction (especially after prior EBRT), with interstitial seeds mainly within clinical trials; routine use after sublobar resection not recommended.",
+    "clinical_relevance": "Provides contemporary practice recommendations for safe and effective implementation of thoracic brachytherapy, emphasizing CT-based planning and careful OAR assessment to reduce risks such as hemoptysis."
+  }
+}

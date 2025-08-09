@@ -1,0 +1,642 @@
+{
+  "source": {
+    "document_id": "Role of Montgomery T-tube stent for laryngotra",
+    "ingest_date": "2025-08-08T15:26:07.437394+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1016/j.anl.2013.10.008"
+  },
+  "document": {
+    "metadata": {
+      "title": "Role of Montgomery T-tube stent for laryngotracheal stenosis",
+      "year": 2014,
+      "authors": [
+        "Saravanam Prasanna Kumar",
+        "Arunachalam Ravikumar",
+        "Kannan Senthil",
+        "Lakshman Somu",
+        "Mohd Ismail Nazrin"
+      ],
+      "journal": "Auris Nasus Larynx",
+      "doi": "10.1016/j.anl.2013.10.008",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Objective: To identify the indications, complications and outcome of patients of LTS managed with Montgomery T-tube stenting and review the current literature about the role of stenting in LTS. Methods: Retrospective chart reviews of 39 patients of laryngotracheal stenosis managed by T-tube stenting for temporary or definitive treatment during the period 2004-2011 were considered. The data on indications for stenting, type of stent, problems/complications of stenting, duration of stenting, additional intervention and outcome of management were collected, tabulated and analyzed. Results: Of the 51 cases of laryngotracheal stenosis 39 patients were treated by Montgomery T-tube stenting. There was no mortality associated with the procedure or stenting. 82% of the patients were successfully decannulated. The problems and complications encountered were crusting within the tube in 44% and granulation at the subglottis in 33%. Two patients had complication due to T-tube itself: One patient developed tracheomalacia and the other had stenosis at both ends of the T-tube. Conclusion: Stenting still has a role in management of inoperable or in some deadlock situations where resection anastomosis is not feasible. It is easier to introduce the stent and to maintain it. Complications are minor and can be managed easily. It is safe for long term use. We emphasize that the treating surgeon needs to use prudence while treating stenosis using stents.",
+      "methods": "Retrospective chart review of patients with laryngotracheal stenosis (LTS) managed at a tertiary center from 2004-2011. After LTS diagnosis, flexible and rigid endoscopy assessed vocal cord movement, stenosis type/grade/length, and posterior glottic/subglottic involvement; CT with 3D reconstruction was also obtained. Management decisions were individualized. Of 51 LTS patients, 5 were excluded (non-T-tube management) and 7 of 8 resection-anastomosis patients were excluded; 1 with wound dehiscence subsequently required T-tube and was included. A total of 39 patients treated with Montgomery T-tube (temporary or definitive) were analyzed. T-tube insertion was via tracheostoma with endoscopic guidance, addressing stenosis/granulation as needed. Follow-up included T-tube inspection/change at 6-12 months and assessment for decannulation; stoma closure was delayed 10 days post-decannulation to monitor for narrowing.",
+      "results": "Among 39 patients, 32 developed LTS post-endotracheal intubation (21 emergency, 11 elective), 6 post-tracheostomy, and 1 due to thyroid malignancy infiltrating trachea (palliative). The most common site in post-intubation cases was trachea (48.5%); all tracheostomized cases had suprastomal stenosis. Thirty-eight had normal vocal cord mobility; 1 had restricted right vocal cord mobility. Complications included crusting/mucus plug in 17/39 (43.58%), granulation tissue in 14/39 (33.33%), persistent cough in 2/39 (5.1%), surgical emphysema in 2/39 (5.1%), bronchial intubation of the lower end in 1/39 (2.6%), clots/mucus plug causing obstruction in 1/39 (2.6%), hoarseness in 1/39 (2.6%), lower respiratory tract infection in 3/39 (7.7%), tracheobronchitis in 3/39 (7.7%), aspiration in 4/39 (10.3%), tracheomalacia in 1/39 (2.6%), restenosis at ends in 1/39 (2.6%), and displacement of tube in 1/39 (2.6%). Thirty-two patients (82.05%) were successfully decannulated and doing well after 6 months of follow-up; three patients remained on T-tube, one required permanent tracheostomy, and three died due to comorbidities unrelated to stenting. No procedure- or stent-related mortality was observed. Among those decannulated (n=32), mean stenting duration was 10.15 months (SD 8.6; range 2-36)."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Patients with laryngotracheal stenosis managed at a tertiary care hospital.",
+      "inclusion_criteria": [
+        "Diagnosed laryngotracheal stenosis between 2004 and 2011",
+        "Managed with Montgomery T-tube (temporary or definitive)"
+      ],
+      "exclusion_criteria": [
+        "Posterior glottic stenosis managed without stenting",
+        "Suprastomal anterior wall collapse managed by tracheoplasty without stenting",
+        "Posterior glottic and subglottic stenosis managed with Hood’s laryngeal stent",
+        "Primary resection-anastomosis without subsequent T-tube (7/8 excluded)"
+      ]
+    },
+    "intervention": {
+      "text": "Montgomery T-tube stenting",
+      "details": "Insertion via tracheostoma under endoscopic guidance; stenosis addressed by splitting/tracheoplasty; granulations removed; T-tube length adjusted to avoid glottis/carina impingement. Follow-up with inspection at 6 months and tube change approximately every 12 months, with assessment for decannulation."
+    },
+    "comparison": {
+      "text": "None (single-arm case series)",
+      "details": "No concurrent control group."
+    },
+    "outcomes": [
+      {
+        "name": "Successful decannulation",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Procedure- or stent-related mortality",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Complications (adverse events)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Duration of stenting until decannulation",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "retrospective case series",
+    "allocation": "non-randomized",
+    "blinding": "none",
+    "sites_count": 1,
+    "countries": [
+      "IN"
+    ],
+    "sample_size": {
+      "planned": 39,
+      "enrolled": 39,
+      "analyzed": 39
+    },
+    "analysis_populations": [
+      {
+        "name": "All treated",
+        "description": "All patients stented with Montgomery T-tube",
+        "n": 39
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "Montgomery T-tube stenting",
+      "n_randomized": 39,
+      "n_analyzed": 39,
+      "n_completed": 32
+    },
+    {
+      "arm_id": "control",
+      "name": "No control (single-arm case series)",
+      "n_randomized": 0,
+      "n_analyzed": 0,
+      "n_completed": 0
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "successful_decannulation",
+      "name": "Successful decannulation",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P6M",
+      "timepoint_label": "≥6 months post-decannulation follow-up",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 32,
+            "total": 39
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          196,
+          197
+        ],
+        "tables": [],
+        "quote": "Thirty-two patients (82.05%) were successfully decannulated and are doing fine after 6 months of follow up."
+      }
+    },
+    {
+      "concept_id": "procedure_stent_related_mortality",
+      "name": "Procedure- or stent-related mortality",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P6M",
+      "timepoint_label": "Up to last follow-up",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 0,
+            "total": 39
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          196
+        ],
+        "tables": [],
+        "quote": "There was no mortality associated with the procedure or stenting."
+      }
+    },
+    {
+      "concept_id": "duration_stenting_until_decannulation_months",
+      "name": "Duration of stenting until decannulation",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Duration until decannulation",
+      "unit": "month",
+      "unit_canonical": "month",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": 10.15,
+            "sd": 8.6,
+            "total": 32
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Decannulated subgroup"
+      },
+      "provenance": {
+        "pages": [
+          196
+        ],
+        "tables": [],
+        "quote": "The average duration of stenting in thirty-two patients who were decannulated was 10.15 ± 8.6 SD months with a minimum of 2 months and a maximum of 36 months."
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Subcutaneous emphysema",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Subcutaneous emphysema"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 2,
+          "patients": 2,
+          "percentage": 5.1,
+          "total": 39
+        }
+      ],
+      "period": "Immediate (within 24 h)",
+      "management": "Managed by loosening sutures/keeping T-tube plug open or adjusting tube size as needed",
+      "provenance": {
+        "pages": [
+          196
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "Surgical emphysema (2)"
+      }
+    },
+    {
+      "event_name": "Cough",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Cough"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 2,
+          "patients": 2,
+          "percentage": 5.1,
+          "total": 39
+        }
+      ],
+      "period": "Immediate (within 24 h)",
+      "management": "Adjusted T-tube length/position if impinging on carina or subglottis",
+      "provenance": {
+        "pages": [
+          196
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "Persistent irritant cough (2)"
+      }
+    },
+    {
+      "event_name": "Device malposition",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Device malposition"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 1,
+          "patients": 1,
+          "percentage": 2.6,
+          "total": 39
+        }
+      ],
+      "period": "Immediate (within 24 h)",
+      "management": "Readjusted tube length/position",
+      "provenance": {
+        "pages": [
+          196
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "The lower end of the tube is entered one bronchus (1)"
+      }
+    },
+    {
+      "event_name": "Mucus plugging",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Mucus plugging"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 17,
+          "patients": 17,
+          "percentage": 43.6,
+          "total": 39
+        }
+      ],
+      "period": "Intermediate (days to weeks)",
+      "management": "Suction clearance; antibiotics/bronchodilators if infection",
+      "provenance": {
+        "pages": [
+          196
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "Crusting and mucus plug (17)"
+      }
+    },
+    {
+      "event_name": "Blood clot",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Haemorrhage"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 1,
+          "patients": 1,
+          "percentage": 2.6,
+          "total": 39
+        }
+      ],
+      "period": "Immediate (within 24 h)",
+      "management": "Suction clearance",
+      "provenance": {
+        "pages": [
+          196
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "Clots and mucus plug (1)"
+      }
+    },
+    {
+      "event_name": "Dysphonia",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Dysphonia"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 1,
+          "patients": 1,
+          "percentage": 2.6,
+          "total": 39
+        }
+      ],
+      "period": "Intermediate (days to weeks)",
+      "management": "Conservative management",
+      "provenance": {
+        "pages": [
+          196
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "Hoarseness of voice (1)"
+      }
+    },
+    {
+      "event_name": "Lower respiratory tract infection",
+      "meddra": {
+        "soc": "Infections and infestations",
+        "pt": "Lower respiratory tract infection"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 3,
+          "patients": 3,
+          "percentage": 7.7,
+          "total": 39
+        }
+      ],
+      "period": "Intermediate (days to weeks)",
+      "management": "Antibiotics and bronchodilators; chest physiotherapy",
+      "provenance": {
+        "pages": [
+          196
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "Lower respiratory tract infection (3)"
+      }
+    },
+    {
+      "event_name": "Tracheobronchitis",
+      "meddra": {
+        "soc": "Infections and infestations",
+        "pt": "Tracheobronchitis"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 3,
+          "patients": 3,
+          "percentage": 7.7,
+          "total": 39
+        }
+      ],
+      "period": "Intermediate (days to weeks)",
+      "management": "Antibiotics and bronchodilators",
+      "provenance": {
+        "pages": [
+          196
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "Tracheobronchitis (3)"
+      }
+    },
+    {
+      "event_name": "Aspiration",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Aspiration"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 4,
+          "patients": 4,
+          "percentage": 10.3,
+          "total": 39
+        }
+      ],
+      "period": "Intermediate (days to weeks)",
+      "management": "Supportive care; swallowing precautions",
+      "provenance": {
+        "pages": [
+          196
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "Aspiration (4)"
+      }
+    },
+    {
+      "event_name": "Granulation tissue",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Granulation tissue"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 14,
+          "patients": 14,
+          "percentage": 35.9,
+          "total": 39
+        }
+      ],
+      "period": "Intermediate (days to weeks)",
+      "management": "Systemic antibiotics, inhaled steroids; surgical removal if troublesome",
+      "provenance": {
+        "pages": [
+          196
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "Granulations (14) - particularly in the subglottis and lower end of the tube"
+      }
+    },
+    {
+      "event_name": "Tracheomalacia",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Tracheomalacia"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 1,
+          "patients": 1,
+          "percentage": 2.6,
+          "total": 39
+        }
+      ],
+      "period": "Late (months)",
+      "management": "Reinsertion of T-tube",
+      "provenance": {
+        "pages": [
+          196,
+          197
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "Tracheomalacia (1)"
+      }
+    },
+    {
+      "event_name": "Tracheal stenosis",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Tracheal stenosis"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 1,
+          "patients": 1,
+          "percentage": 2.6,
+          "total": 39
+        }
+      ],
+      "period": "Late (months)",
+      "management": "Reinsertion of T-tube",
+      "provenance": {
+        "pages": [
+          196
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "Restenosis at the ends of the tube (1)"
+      }
+    },
+    {
+      "event_name": "Device displacement",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Device dislocation"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 1,
+          "patients": 1,
+          "percentage": 2.6,
+          "total": 39
+        }
+      ],
+      "period": "Late (months)",
+      "management": "Repositioning",
+      "provenance": {
+        "pages": [
+          196
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "Displacement of the tube (1)"
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "ROBINS-I",
+    "overall_judgment": "serious",
+    "domains": [
+      {
+        "name": "Bias due to confounding",
+        "judgment": "serious",
+        "support_for_judgment": "Single-arm retrospective case series without control; patient selection from ICU referrals with multiple prior procedures."
+      },
+      {
+        "name": "Bias in selection of participants",
+        "judgment": "moderate",
+        "support_for_judgment": "Exclusions based on treatment received; only those managed with T-tube included."
+      },
+      {
+        "name": "Bias in classification of interventions",
+        "judgment": "low",
+        "support_for_judgment": "Intervention (Montgomery T-tube) clearly defined."
+      },
+      {
+        "name": "Bias due to deviations from intended interventions",
+        "judgment": "moderate",
+        "support_for_judgment": "Adjustments to tube length/position and management of complications during follow-up."
+      },
+      {
+        "name": "Bias due to missing data",
+        "judgment": "unclear",
+        "support_for_judgment": "Follow-up details beyond 6 months post-decannulation variably reported; some patients remained on T-tube."
+      },
+      {
+        "name": "Bias in measurement of outcomes",
+        "judgment": "low",
+        "support_for_judgment": "Objective outcomes (decannulation, recorded complications)."
+      },
+      {
+        "name": "Bias in selection of the reported result",
+        "judgment": "moderate",
+        "support_for_judgment": "Descriptive reporting without prespecified protocol or statistical analysis plan."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "laryngotracheal stenosis",
+      "Montgomery T-tube",
+      "tracheal stent",
+      "case series",
+      "Auris Nasus Larynx"
+    ],
+    "summary_tldr": "In a single-arm case series of 39 LTS patients treated with Montgomery T-tube, 32/39 (82%) were successfully decannulated; common issues were mucus crusting (17/39) and granulation tissue (14/39), with no procedure- or stent-related mortality.",
+    "clinical_relevance": "Supports Montgomery T-tube as a feasible option for airway maintenance and bridging/definitive management when resection anastomosis is not feasible or declined."
+  }
+}

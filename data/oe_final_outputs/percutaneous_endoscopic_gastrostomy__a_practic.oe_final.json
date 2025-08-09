@@ -1,0 +1,125 @@
+{
+  "source": {
+    "document_id": "percutaneous_endoscopic_gastrostomy__a_practic",
+    "ingest_date": "2025-08-08T14:50:31.498497+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1097/SGA.0000000000000150"
+  },
+  "document": {
+    "metadata": {
+      "title": "Percutaneous Endoscopic Gastrostomy: A Practical Overview on Its Indications, Placement Conditions, Management, and Nursing Care",
+      "year": 2015,
+      "authors": [
+        "Ana Belén Friginal-Ruiz",
+        "Alfredo J. Lucendo"
+      ],
+      "journal": "Gastroenterology Nursing",
+      "doi": "10.1097/SGA.0000000000000150",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Percutaneous endoscopic gastrostomy (PEG) feeding represents the most effective and safest option for feeding patients with an impaired or diminished swallowing ability, despite having a functioning digestive system. The use of PEG has evolved to be useful in many situations beyond degenerative neuromuscular disorders, with an increasing body of evidence supporting the advantages of PEG tubes in oncologic and pediatric patients. Risk factors for complications after PEG tube placement include acute and chronic conditions associated with malnutrition and several organic disorders. Patients suitable for PEG tube placement should be individually identified to implement the advantages of this technique while minimizing risk events. The safety of placing a PEG tube in patients under antithrombotic medication has been investigated, as well as the advantages of antibiotic prophylaxis in reducing peristomal infection. Evidence supports the safety of early feeding after placement, thus resulting in lower costs. Percutaneous endoscopic gastrostomy-related complications are rare and mostly prevented by appropriate nursing care. Best medical practice and nursing care will ensure optimal performance leading to a wider acceptance, and greater utility of PEG by healthcare professionals, patients, and caregivers. This review aims to update knowledge relating to PEG tube indications, placement, management, and care in order to reinforce PEG feeding as the most valuable access for patients with a functional gastrointestinal system who have abnormalities in swallowing mechanisms.",
+      "methods": "PubMed search from January 1990 to March 2015 using terms: 'PEG tube', 'PEG tube feeding', 'complications', 'diet', 'dietary intervention', 'dietary treatment', 'enteral or parenteral nutrition', and 'risk factors'. References of retrieved articles were checked. Limited to human studies, English language.",
+      "results": "PEG is favored over nasogastric feeding due to lower intervention failure rates and comparable or improved safety. In head and neck cancer, prophylactic PEG prior to chemoradiation may limit weight loss, though high-quality evidence remains limited and concerns about prolonged tube dependency exist. In pediatric populations, PEG is efficient and safe, including in small infants, and supports nutritional status across various conditions, including oncology. Absolute contraindications include lack of gastric access (e.g., colonic interposition), massive ascites, uncorrectable coagulopathy, portal hypertension with gastric varices, and obstructing esophageal lesions preventing endoscopic access. Regarding antithrombotics, post-PEG bleeding is uncommon: pooled incidence approximately 2.67% overall and 2.7% without antiplatelet therapy; pooled relative risk with aspirin 1.43 (95% CI 0.89-2.29), clopidogrel 1.21 (95% CI 0.48-3.04), and dual antiplatelet therapy 2.13 (95% CI 0.77-5.91). For infection prevention, peristomal infection without prophylaxis can be up to 32%; prophylactic antibiotics significantly reduce infection risk (pooled odds ratio 0.31; 95% CI 0.22-0.44). Early feeding after PEG appears safe and cost-saving. Prior abdominal surgery is not a contraindication, though gastric surgery may increase technical failure."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Patients with functional gastrointestinal tracts who cannot safely or adequately take oral nutrition due to dysphagia or obstruction in varied settings (neurologic disease, head and neck cancer, pediatric conditions).",
+      "inclusion_criteria": [
+        "Human studies",
+        "English language",
+        "Publications between 1990 and 2015",
+        "Patients requiring enteral access with intact GI absorption and motility"
+      ],
+      "exclusion_criteria": [
+        "Non-human studies",
+        "Non-English language",
+        "Lack of relevance to PEG indications, placement, management, or complications"
+      ]
+    },
+    "intervention": {
+      "text": "Percutaneous endoscopic gastrostomy (PEG) tube placement",
+      "details": "Endoscopic placement of a flexible tube to create a stoma between abdominal wall and stomach; includes peri-procedural management such as antithrombotic handling and antibiotic prophylaxis."
+    },
+    "comparison": {
+      "text": "Alternative nutritional routes or management strategies",
+      "details": "Comparisons discussed include nasogastric tubes, surgical or radiologic gastrostomy, with/without antiplatelet or anticoagulant continuation/bridging, and with/without antibiotic prophylaxis."
+    },
+    "outcomes": [
+      {
+        "name": "Peristomal infection",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Procedure-related bleeding",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Intervention failure",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Weight maintenance",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Aspiration pneumonia",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Mortality",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Narrative review",
+    "allocation": "none",
+    "blinding": "none",
+    "sites_count": 0,
+    "countries": [],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": []
+  },
+  "arms": [],
+  "outcomes_normalized": [],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "Not applicable",
+    "overall_judgment": "unclear",
+    "domains": [
+      {
+        "name": "Applicability",
+        "judgment": "unclear",
+        "support_for_judgment": "Narrative review synthesizing heterogeneous observational studies and meta-analyses; no single trial risk-of-bias assessment performed."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "percutaneous endoscopic gastrostomy",
+      "PEG",
+      "antiplatelet",
+      "anticoagulant",
+      "antibiotic prophylaxis",
+      "peristomal infection",
+      "bleeding",
+      "head and neck cancer",
+      "pediatric PEG"
+    ],
+    "summary_tldr": "Narrative review: PEG is an effective, safe long-term enteral access; prophylactic antibiotics reduce peristomal infections, and continuation of antiplatelet therapy shows no clear increase in bleeding risk.",
+    "clinical_relevance": "Provides practical guidance on PEG indications, contraindications, peri-procedural management of antithrombotics, and infection prevention strategies."
+  }
+}

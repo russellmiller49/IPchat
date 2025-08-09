@@ -1,0 +1,102 @@
+{
+  "source": {
+    "document_id": "LungRADSAssessmentCategoriesv1-1",
+    "ingest_date": "2025-08-08T14:07:22.475982+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1016/j.jacr.2023.09.009"
+  },
+  "document": {
+    "metadata": {
+      "title": "ACR Lung-RADS v2022: Assessment Categories and Management Recommendations",
+      "year": 2024,
+      "authors": [
+        "Jared Christensen",
+        "Ashley Elizabeth Prosper",
+        "Carol C. Wu",
+        "Jonathan Chung",
+        "Elizabeth Lee",
+        "Brett Elicker",
+        "Andetta R. Hunsaker",
+        "Milena Petranovic",
+        "Kim L. Sandler",
+        "Brendon Stiles",
+        "Peter Mazzone",
+        "David Yankelevitz",
+        "Denise Aberle",
+        "Caroline Chiles",
+        "Ella Kazerooni"
+      ],
+      "journal": "Journal of the American College of Radiology",
+      "doi": "10.1016/j.jacr.2023.09.009",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "The ACR created the Lung CT Screening Reporting and Data System (Lung-RADS) in 2014 to standardize the reporting and management of screen-detected pulmonary nodules. Lung-RADS was updated to version 1.1 in 2019 and revised size thresholds for nonsolid nodules, added classification criteria for perifissural nodules, and allowed for short-interval follow-up of rapidly enlarging nodules that may be infectious in etiology. Lung-RADS v2022, released in November 2022, provides several updates including guidance on the classification and management of atypical pulmonary cysts, juxtapleural nodules, airway-centered nodules, and potentially infectious findings. This new release also provides clarification for determining nodule growth and introduces stepped management for nodules that are stable or decreasing in size. This article summarizes the current evidence and expert consensus supporting Lung-RADS v2022.",
+      "methods": "Narrative review and expert consensus by the ACR Lung-RADS Committee. The committee conducted targeted literature reviews for key topics (atypical pulmonary cysts, juxtapleural nodules, infectious/inflammatory findings, airway nodules, growth definitions, stepped management, and interval diagnostic CTs). Where evidence was sufficient, recommendations were evidence-based; where evidence was limited, consensus was reached using nominal group methodology.",
+      "results": "Lung-RADS v2022 introduces new classification and management recommendations for atypical pulmonary cysts (thick-walled and multilocular), expands benign criteria to include juxtapleural nodules across pleural locations with benign morphology and size thresholds, updates handling of potentially infectious/inflammatory findings with short-interval follow-up, refines airway nodule categorization, clarifies growth as an increase greater than 1.5 mm in mean diameter within a 12-month interval, defines slow-growing nodules with management steps, adds guidance for use of the S modifier, and provides a stepped management approach for stable or decreasing category 3 and 4A nodules. The Risk of Malignancy column is removed from the table due to lesion-specific variability and limited utility outside category 4B."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults at high risk for lung cancer undergoing low-dose CT lung cancer screening",
+      "inclusion_criteria": [
+        "High-risk individuals eligible for lung cancer screening per contemporary guidelines",
+        "Undergoing low-dose chest CT for lung cancer screening"
+      ],
+      "exclusion_criteria": [
+        "Not a clinical study; no patient-level inclusion/exclusion reported"
+      ]
+    },
+    "intervention": {
+      "text": "Lung-RADS v2022 classification and management recommendations",
+      "details": "Application of updated Lung-RADS v2022 criteria for nodules including atypical pulmonary cysts, juxtapleural nodules, airway-centered nodules, infectious/inflammatory findings, clarified growth definitions, slow-growing nodule management, S modifier use, and stepped follow-up."
+    },
+    "comparison": {
+      "text": "Prior Lung-RADS versions or heterogeneous reporting",
+      "details": "Implicit comparison to Lung-RADS v1.1 and earlier practices; evidence summaries from NLST, NELSON, and other literature inform updates."
+    },
+    "outcomes": [
+      {
+        "name": "Standardized reporting and management of screen-detected pulmonary nodules",
+        "type": "primary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Guideline/Consensus statement",
+    "allocation": "not_applicable",
+    "blinding": "not_applicable",
+    "sites_count": 0,
+    "countries": [],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": []
+  },
+  "arms": [],
+  "outcomes_normalized": [],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "not_applicable",
+    "overall_judgment": "not_applicable",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "Lung-RADS",
+      "low-dose CT",
+      "pulmonary nodules",
+      "atypical pulmonary cysts",
+      "juxtapleural nodules",
+      "airway nodules",
+      "infectious inflammatory findings",
+      "lung cancer screening"
+    ],
+    "summary_tldr": "ACR Lung-RADS v2022 updates classification and management for cystic, juxtapleural, airway, and infectious-appearing findings, clarifies growth, and introduces stepped management to standardize lung cancer screening CT reporting.",
+    "clinical_relevance": "Provides updated, evidence-informed guidance to reduce false positives, maintain sensitivity, and streamline follow-up decisions in lung cancer screening programs."
+  }
+}

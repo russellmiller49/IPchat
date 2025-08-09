@@ -1,0 +1,168 @@
+{
+  "source": {
+    "document_id": "Study Design and Rationale ENB and ETN  ALL IN ONE Trial",
+    "ingest_date": "2025-08-08T16:03:25.679342+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1016/j.cct.2018.06.007"
+  },
+  "document": {
+    "metadata": {
+      "title": "Study Design and Rationale: A Multicenter, Prospective Trial of Electromagnetic Bronchoscopic and Electromagnetic Transthoracic Navigational Approaches for the Biopsy of Peripheral Pulmonary Nodules (ALL IN ONE Trial)",
+      "year": 2018,
+      "authors": [
+        "Jeffrey Thiboutot",
+        "Hans J. Lee",
+        "Gerard A. Silvestri",
+        "Alex Chen",
+        "Momen M. Wahidi",
+        "Christopher R. Gilbert",
+        "Nicholas J. Pastis",
+        "Jenna Los",
+        "Alexa M. Barriere",
+        "Christopher Mallow",
+        "Benjamin Salwen",
+        "Marcus J. Dinga",
+        "Eric L. Flenaugh",
+        "Jason A. Akulian",
+        "Roy Semaan",
+        "Lonny B. Yarmus"
+      ],
+      "journal": "Contemporary Clinical Trials",
+      "doi": "10.1016/j.cct.2018.06.007",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Background: Pulmonary nodules are a common but difficult issue for physicians as most identified on imaging are benign but those identified early that are cancerous are potentially curable. Multiple diagnostic options are available, ranging from radiographic surveillance, minimally invasive biopsy (bronchoscopy or transthoracic biopsy) to more invasive surgical biopsy/resection. Each technique has differences in diagnostic yield and complication rates with no established gold standard. Currently, the safest approach is bronchoscopic but it is limited by variable diagnostic yields. Percutaneous approaches are limited by nodule location and complications. With the recent advent of electromagnetic navigation (EMN), a combined bronchoscopic and transthoracic approach is now feasible in a single, staged procedure. Here, we present the study design and rationale for a single-arm trial evaluating a staged approach for the diagnosis of pulmonary nodules. Methods: Participants with 1-3 cm, intermediate to high-risk pulmonary nodules will undergo a staged approach with endobronchial ultrasound (EBUS) followed by EMN-bronchoscopy (ENB), then EMN-transthoracic biopsy (EMN-TTNA) with the procedure terminated at any stage after a diagnosis is made via rapid onsite cyto-pathology. We aim to recruit 150 EMN participants from eight academic and community settings to show significant improvements over other historic bronchoscopic guided techniques. The primary outcome is overall diagnostic yield of the staged approach. Conclusion: This is the first study designed to evaluate the diagnostic yield of a staged procedure using EBUS, ENB and EMN-TTNA for the diagnosis of pulmonary nodules. If effective, the staged procedure will increase minimally invasive procedural diagnostic yield for pulmonary nodules.",
+      "methods": "This is a multi-center, non-randomized, single-arm, prospective trial designed to evaluate a staged sampling methodology to maximize diagnostic yield for peripheral pulmonary nodules. Eligible patients (age ≥21 years) with 1-3 cm nodules and intermediate to high pretest probability of malignancy will undergo, in a single procedural session: (1) EBUS for mediastinal/hilar staging; if ROSE is negative, then (2) ENB; if ROSE remains negative, then (3) EMN-guided transthoracic needle aspiration (EMN-TTNA) for nodules amenable to a percutaneous approach (primarily outer 1/3 lung zone determined by radiology core lab using CT Pulmo 3D segmentation). Rapid on-site evaluation (ROSE) will determine progression or termination at each stage. A same-day, non-contrast chest CT using the EMN protocol will be performed for planning. Sedation per local standard. Eight U.S. centers (academic and community) will participate. The EMN system (SPiN Thoracic Navigation System and SPiNPerc Kit, Veran Inc.) with software version 4.0 or higher will be used per IFU.",
+      "results": ""
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with 1-3 cm peripheral pulmonary nodules and intermediate (5-65%) or high (>65%) pretest probability of malignancy undergoing minimally invasive diagnostic evaluation.",
+      "inclusion_criteria": [
+        "Age ≥21 years",
+        "Lung nodule identified on chest CT and candidate for elective ENB evaluation",
+        "Target nodule greatest diameter between 1 and 3 cm",
+        "Clinical N0/N1 staging at enrollment",
+        "Intermediate risk of malignancy (5-65% per Mayo Model) requiring diagnosis OR high probability of cancer (>65%) referred for surgery or SBRT (with option for tissue diagnosis prior to surgery if requested)",
+        "No bleeding disorders",
+        "Willing and able to provide informed consent"
+      ],
+      "exclusion_criteria": [
+        "Pregnant (by urine or serum testing)",
+        "BMI > 40",
+        "Predetermined plan to pursue SBRT without confirmatory tissue diagnosis if study procedure is nondiagnostic for nodules in the outer 1/3 lung zone",
+        "Predetermined plan to pursue SBRT without confirmatory tissue diagnosis when the target nodule is not accessible to a percutaneous approach per radiology core lab"
+      ]
+    },
+    "intervention": {
+      "text": "Staged EMN-guided diagnostic procedure",
+      "details": "Single-session staged approach: EBUS for nodal staging → if ROSE negative, ENB for nodule sampling → if ROSE negative and nodule amenable to percutaneous approach (primarily outer 1/3 zone), EMN-TTNA. Use of SPiN Thoracic Navigation System and SPiNPerc Kit per IFU, with planning non-contrast chest CT on the day of procedure."
+    },
+    "comparison": {
+      "text": "None (single-arm study)",
+      "details": "Performance will be compared against historic bronchoscopic guided techniques; no concurrent control arm."
+    },
+    "outcomes": [
+      {
+        "name": "Overall diagnostic yield of the staged approach",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Time to diagnosis",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Complication rate (procedural adverse events)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Need for additional independent procedures",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "single-arm prospective trial",
+    "allocation": "non-randomized",
+    "blinding": "open-label",
+    "sites_count": 8,
+    "countries": [
+      "US"
+    ],
+    "sample_size": {
+      "planned": 150,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": [
+      {
+        "name": "Full analysis set",
+        "description": "All enrolled participants with attempted staged procedure",
+        "n": 0
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "Staged EBUS → ENB → EMN-TTNA",
+      "n_randomized": 0,
+      "n_analyzed": 0,
+      "n_completed": 0
+    }
+  ],
+  "outcomes_normalized": [],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "RoB 2",
+    "overall_judgment": "not_applicable",
+    "domains": [
+      {
+        "name": "Randomization process",
+        "judgment": "not_applicable",
+        "support_for_judgment": "Single-arm, non-randomized design."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "not_applicable",
+        "support_for_judgment": "No comparator arm; protocol adherence to staged approach described."
+      },
+      {
+        "name": "Missing outcome data",
+        "judgment": "unclear",
+        "support_for_judgment": "Protocol paper; results not reported."
+      },
+      {
+        "name": "Measurement of the outcome",
+        "judgment": "unclear",
+        "support_for_judgment": "Outcome definitions provided; no reported measurement results."
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "unclear",
+        "support_for_judgment": "Pre-specified outcomes described; no results to assess selective reporting."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "electromagnetic navigation bronchoscopy",
+      "ENB",
+      "EMN-TTNA",
+      "peripheral pulmonary nodule",
+      "EBUS",
+      "transthoracic needle aspiration",
+      "ALL IN ONE trial",
+      "Veran SPiN Thoracic Navigation System"
+    ],
+    "summary_tldr": "Protocol for a single-arm, multicenter staged EBUS → ENB → EMN-TTNA procedure to improve diagnostic yield for 1-3 cm pulmonary nodules; plans to enroll 150 participants across 8 US centers.",
+    "clinical_relevance": "If effective, the staged minimally invasive approach could increase diagnostic yield and reduce need for additional procedures for intermediate/high-risk pulmonary nodules."
+  }
+}

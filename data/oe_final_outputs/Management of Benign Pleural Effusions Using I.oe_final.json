@@ -1,0 +1,327 @@
+{
+  "source": {
+    "document_id": "Management of Benign Pleural Effusions Using I",
+    "ingest_date": "2025-08-08T14:15:12.269284+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1016/j.chest.2016.10.052"
+  },
+  "document": {
+    "metadata": {
+      "title": "Management of Benign Pleural Effusions Using Indwelling Pleural Catheters: A Systematic Review and Meta-analysis",
+      "year": 2017,
+      "authors": [
+        "Monali Patil",
+        "Samjot Singh Dhillon",
+        "Kristopher Attwood",
+        "Marwan Saoud",
+        "Abdul Hamid Alraiyes",
+        "Kassem Harris"
+      ],
+      "journal": "CHEST",
+      "doi": "10.1016/j.chest.2016.10.052",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "BACKGROUND: The indwelling pleural catheter (IPC), which was initially introduced for the management of recurrent malignant effusions, could be a valuable management option for recurrent benign pleural effusion (BPE), replacing chemical pleurodesis. The purpose of this study is to analyze the efficacy and safety of IPC use in the management of refractory nonmalignant effusions. METHODS: We conducted a systematic review and meta-analysis on the published literature. Retrospective cohort studies, case series, and reports that used IPCs for the management of pleural effusion were included in the study. RESULTS: Thirteen studies were included in the analysis, with a total of 325 patients. Congestive heart failure (49.8%) was the most common cause of BPE requiring IPC placement. The estimated average rate of spontaneous pleurodesis was 51.3% (95% CI, 37.1%-65.6%). The estimated average rate of all complications was 17.2% (95% CI, 9.8%-24.5%) for the entire group. The estimated average rate of major complications included the following: empyema, 2.3% (95% CI, 0.0%-4.7%); loculation, 2.0% (95% CI, 0.0%-4.7%); dislodgement, 1.3% (95% CI, 0.0%-3.7%); leakage, 1.3% (95% CI, 0.0%-3.5%); and pneumothorax, 1.2% (95% CI, 0.0%-4.1%). The estimated average rate of minor complications included the following: skin infection, 2.7% (95% CI, 0.6%-4.9%); blockage and drainage failure, 1.1% (95% CI, 0.0%-3.5%); subcutaneous emphysema, 1.1% (95% CI, 0.0%-4.0%); and other, 2.5% (95% CI, 0.0%-5.2%). One death was directly related to IPC use. CONCLUSIONS: IPCs are an effective and viable option in the management of patients with refractory BPE. The quality of evidence to support IPC use for BPE remains low, and high-quality studies such as randomized controlled trials are needed.",
+      "methods": "A literature search was conducted using PubMed, Cochrane database, EMBASE, and MEDLINE from January 2011 to January 2016 to identify reports of IPC use for benign pleural effusions. Inclusion criteria: case series using IPC for BPE regardless of cause, reported follow-up, and outcomes. Retrospective cohort studies, case series, and abstracts were eligible. Exclusion criteria: non-English, no follow-up or outcomes, reviews, single case reports, editorials, malignant etiologies mixed without separable data, and post-lung-transplant populations. Primary outcome was spontaneous pleurodesis defined as drainage < 50 mL on three consecutive IPC drainage procedures with no significant effusion on imaging and no recurrence after catheter removal. Secondary outcomes included time to pleurodesis, complication rates, and additional pleural procedures. Complications were classified as major (requiring removal/replacement, serious infection, pneumothorax, or additional invasive procedures) or minor (managed conservatively without invasive intervention). Study-specific rates used 95% CIs via Jeffreys Prior. Random-effects meta-analyses were performed with 95% prediction intervals; heterogeneity was assessed with Q and I2. Publication bias was assessed via funnel plots and Egger test. Analyses were conducted in SAS 9.4 at alpha 0.05.",
+      "results": "Thirteen studies totaling 325 adult patients were included. Cardiac causes accounted for 162/325 (49.8%); other causes included hepatic disease 40 (12.3%), chylothorax 11 (3.4%), empyema 9 (2.8%), inflammatory pleurisy 21 (6.5%), renal disease 13 (4.0%), yellow nail syndrome 5 (1.5%), and others 64 (19.7%). A total of 350 IPCs were placed. Spontaneous pleurodesis occurred in 160/325 patients; the pooled estimated average rate was 51.3% (95% CI, 37.1%-65.6%; I2 87.2%; Q 93.8; P < .001). Subgroup pooled pleurodesis rates were 42.1% (95% CI, 20.1%-64.1%) for cardiac causes and 61.4% (95% CI, 45.3%-77.4%) for noncardiac causes; the difference was not statistically significant (OR 0.457; P = .165). Time to pleurodesis was variably reported (means and medians) and was not meta-analyzed. Eighty-four additional pleural procedures were reported post-IPC. In a comparative cohort (Freeman et al.), IPC vs thoracoscopy/talc pleurodesis was associated with shorter hospital stay (2 vs 6 days) and lower readmission rates (5% vs 23%). The pooled overall complication rate was 17.2% (95% CI, 9.8%-24.5%). Reported major complications included nine empyemas (three required IPC removal; one death due to sepsis) and six pneumothoraces (none required large-bore chest tubes). Minor complications included eight insertion-site local skin infections treated conservatively. Thirty-seven catheters were removed due to complications (8 detailed; 29 unspecified)."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with refractory benign (nonmalignant) pleural effusion after optimal medical therapy, undergoing indwelling pleural catheter placement.",
+      "inclusion_criteria": [
+        "Adult patients with benign pleural effusion refractory to optimal medical management",
+        "Received indwelling pleural catheter",
+        "Reported follow-up and outcomes in included studies"
+      ],
+      "exclusion_criteria": [
+        "Underlying malignancy without separable benign cohort data",
+        "Post-lung-transplant pleural effusions",
+        "Non-English publications",
+        "No follow-up/outcomes reported",
+        "Review articles, editorials, and single case reports"
+      ]
+    },
+    "intervention": {
+      "text": "Indwelling pleural catheter (IPC)",
+      "details": "Tunneled pleural catheter inserted for symptom control in refractory benign pleural effusions. Spontaneous pleurodesis defined as drainage < 50 mL on three consecutive drainages with no significant effusion on imaging and no recurrence after catheter removal. Major complications: required catheter removal/replacement, serious infection (empyema/sepsis), pneumothorax, or additional invasive pleural procedures. Minor complications: managed conservatively (e.g., thrombolytic for blockage)."
+    },
+    "comparison": {
+      "text": "None (single-arm studies; subgroup comparison by etiology)",
+      "details": "Exploratory subgroup comparison of cardiac vs noncardiac etiologies; one retrospective cohort compared IPC with thoracoscopy plus talc pleurodesis."
+    },
+    "outcomes": [
+      {
+        "name": "Spontaneous pleurodesis",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Complications (major and minor)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Time to pleurodesis",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Additional pleural procedures",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Hospital stay and readmissions",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Systematic review and meta-analysis",
+    "allocation": "not_applicable",
+    "blinding": "not_applicable",
+    "sites_count": 13,
+    "countries": [],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 325,
+      "analyzed": 325
+    },
+    "analysis_populations": [
+      {
+        "name": "All included patients",
+        "description": "All patients from 13 included studies",
+        "n": 325
+      },
+      {
+        "name": "Cardiac subgroup",
+        "description": "Patients with cardiac etiology of pleural effusion",
+        "n": 162
+      },
+      {
+        "name": "Noncardiac subgroup",
+        "description": "Patients with noncardiac etiologies of pleural effusion",
+        "n": 163
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "overall",
+      "name": "All included patients",
+      "n_randomized": 0,
+      "n_analyzed": 325,
+      "n_completed": 0
+    },
+    {
+      "arm_id": "cardiac",
+      "name": "Cardiac etiology",
+      "n_randomized": 0,
+      "n_analyzed": 162,
+      "n_completed": 0
+    },
+    {
+      "arm_id": "noncardiac",
+      "name": "Noncardiac etiologies",
+      "n_randomized": 0,
+      "n_analyzed": 163,
+      "n_completed": 0
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "spontaneous_pleurodesis_anytime",
+      "name": "Spontaneous pleurodesis",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "Follow-up (as reported)",
+      "groups": [
+        {
+          "arm_id": "overall",
+          "raw": {
+            "events": 160,
+            "total": 325
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "overall",
+        "measure": "single_group_proportion",
+        "est": 0.513,
+        "ci_lower": 0.371,
+        "ci_upper": 0.656,
+        "ci_level": 0.95
+      },
+      "analysis": {
+        "model": "Random-effects meta-analysis",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All included patients from 13 studies",
+        "heterogeneity_i2": 87.2,
+        "heterogeneity_q": 93.8,
+        "heterogeneity_q_p_value": 0.001,
+        "heterogeneity_q_p_operator": "<",
+        "software": "SAS 9.4",
+        "study_ci_method": "Jeffreys Prior"
+      },
+      "provenance": {
+        "pages": [
+          628,
+          630
+        ],
+        "tables": [
+          "Figure 2"
+        ],
+        "table_number": 2,
+        "quote": "Of the 325 patients, 160 were reported to have spontaneous pleurodesis. The estimated average rate of spontaneous pleurodesis was 51.3% (95% CI, 37.1%-65.6%)... I2 87.2%; Q 93.8 (P < .001)."
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Pleural empyema",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Pleural empyema"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "hospitalization",
+        "other medically important condition"
+      ],
+      "groups": [
+        {
+          "arm_id": "overall",
+          "events": 9,
+          "patients": 9,
+          "percentage": 2.8,
+          "total": 325
+        }
+      ],
+      "period": "Study follow-up",
+      "management": "All treated medically; 3/9 required IPC removal; 1 death due to severe sepsis secondary to empyema",
+      "provenance": {
+        "pages": [
+          631
+        ],
+        "tables": [],
+        "quote": "Overall, there were nine reported cases of empyema... Three of nine patients needed IPC removal, and one death was attributed to severe sepsis secondary to empyema."
+      }
+    },
+    {
+      "event_name": "Pneumothorax",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Pneumothorax"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "other medically important condition"
+      ],
+      "groups": [
+        {
+          "arm_id": "overall",
+          "events": 6,
+          "patients": 6,
+          "percentage": 1.8,
+          "total": 325
+        }
+      ],
+      "period": "Periprocedural/Follow-up",
+      "management": "None required large-bore chest tubes",
+      "provenance": {
+        "pages": [
+          631
+        ],
+        "tables": [],
+        "quote": "Although there were six reported cases of pneumothorax secondary to IPC insertion, none of them required large-bore chest tubes."
+      }
+    },
+    {
+      "event_name": "Device insertion site infection",
+      "meddra": {
+        "soc": "General disorders and administration site conditions",
+        "pt": "Device insertion site infection"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "overall",
+          "events": 8,
+          "patients": 8,
+          "percentage": 2.5,
+          "total": 325
+        }
+      ],
+      "period": "Study follow-up",
+      "management": "Managed with topical antibiotics; one required systemic therapy",
+      "provenance": {
+        "pages": [
+          631
+        ],
+        "tables": [],
+        "quote": "Among the minor complications, eight patients experienced insertion site local skin infection and were treated with topical antibiotics, with only one patient requiring systemic therapy."
+      }
+    },
+    {
+      "event_name": "Sepsis",
+      "meddra": {
+        "soc": "Infections and infestations",
+        "pt": "Sepsis"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "death",
+        "hospitalization",
+        "life-threatening"
+      ],
+      "groups": [
+        {
+          "arm_id": "overall",
+          "events": 1,
+          "patients": 1,
+          "percentage": 0.3,
+          "total": 325
+        }
+      ],
+      "period": "Study follow-up",
+      "management": "Fatal case related to empyema-associated severe sepsis",
+      "provenance": {
+        "pages": [
+          631
+        ],
+        "tables": [],
+        "quote": "One death was attributed to severe sepsis secondary to empyema."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "GRADE",
+    "overall_judgment": "very low",
+    "domains": [
+      {
+        "name": "Study design and risk of bias",
+        "judgment": "serious",
+        "support_for_judgment": "Evidence base comprised retrospective cohorts, case series, and abstracts with methodological limitations and potential selection and information biases."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "indwelling pleural catheter",
+      "benign pleural effusion",
+      "hepatic hydrothorax",
+      "congestive heart failure",
+      "pleurodesis",
+      "PleurX"
+    ],
+    "summary_tldr": "Across 13 studies (n=325), IPCs for refractory benign pleural effusions achieved pooled spontaneous pleurodesis in 51.3% with an overall complication rate of 17.2%; one IPC-related death occurred.",
+    "clinical_relevance": "Supports IPCs as a management option for refractory benign pleural effusions when medical therapy fails; however, evidence quality is very low and randomized trials are needed."
+  }
+}

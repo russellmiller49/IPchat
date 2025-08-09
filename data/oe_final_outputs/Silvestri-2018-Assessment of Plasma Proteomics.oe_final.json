@@ -1,0 +1,422 @@
+{
+  "source": {
+    "document_id": "Silvestri-2018-Assessment of Plasma Proteomics",
+    "ingest_date": "2025-08-08T15:58:22.373740+00:00",
+    "trial_registration_id": "NCT01752114",
+    "pmid": "",
+    "doi": "10.1016/j.chest.2018.02.012"
+  },
+  "document": {
+    "metadata": {
+      "title": "Assessment of Plasma Proteomics Biomarker’s Ability to Distinguish Benign From Malignant Lung Nodules: Results of the PANOPTIC (Pulmonary Nodule Plasma Proteomic Classifier) Trial",
+      "year": 2018,
+      "authors": [
+        "Gerard A. Silvestri",
+        "Nichole T. Tanner",
+        "Paul Kearney",
+        "Anil Vachani",
+        "Pierre P. Massion",
+        "Alexander Porter",
+        "Steven C. Springmeyer",
+        "Kenneth C. Fang",
+        "David Midthun",
+        "Peter J. Mazzone"
+      ],
+      "journal": "Chest",
+      "doi": "10.1016/j.chest.2018.02.012",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Background: Lung nodules are a diagnostic challenge, with an estimated yearly incidence of 1.6 million in the United States. This study evaluated the accuracy of an integrated proteomic classifier in identifying benign nodules in patients with a pretest probability of cancer (pCA) ≤ 50%. Methods: A prospective, multicenter observational trial of 685 patients with 8- to 30-mm lung nodules was conducted. Multiple reaction monitoring mass spectrometry measured the relative abundance of two plasma proteins, LG3BP and C163A. Results were integrated with a clinical risk prediction model to identify likely benign nodules. Sensitivity, specificity, and negative predictive value (NPV) were calculated, and potential changes in invasive testing were estimated if classifier results had been used. Results: In a subgroup of 178 patients with clinician-assessed pCA ≤ 50%, the prevalence of lung cancer was 16%. The integrated classifier demonstrated a sensitivity of 97% (CI, 82-100), specificity of 44% (CI, 36-52), and NPV of 98% (CI, 92-100) in distinguishing benign from malignant nodules, and performed better than PET, validated risk models, and physician estimates (P ≤ .001). If used to direct care, 40% fewer procedures would be performed on benign nodules, with 3% of malignant nodules misclassified. Conclusions: In patients with lung nodules and pCA ≤ 50%, the integrated classifier accurately identifies benign nodules and could reduce invasive procedures by directing benign nodules to surveillance.",
+      "methods": "Design: Prospective, multicenter, observational diagnostic accuracy study with retrospective evaluation of classifier performance. Thirty-three sites (31 US, 2 Canada) enrolled adults ≥ 40 years with 8- to 30-mm pulmonary nodules presenting within 60 days of a baseline CT scan to a pulmonologist and/or thoracic surgeon. Exclusions included prior biopsy of the index nodule, prior CT/PET identifying the nodule, current/previous cancer within 2 years (except nonmelanoma skin cancer), or receipt of blood products within 30 days. Physicians estimated pretest probability of cancer (pCA) at enrollment. Plasma proteins LG3BP and C163A were quantified by multiple reaction monitoring mass spectrometry and integrated with five clinical risk factors (age, smoking status, nodule diameter, edge characteristics, and location) to produce a posttest probability of benignity using a predefined threshold (validated from discovery). Outcomes included AUC, sensitivity, specificity, and NPV. Nodules were deemed benign by pathologic diagnosis, radiographic resolution, or no growth over 1 year; malignancy required histopathology. Blinding: Physicians, subjects, lab, and statistical personnel were blinded; test results did not influence care. Statistical analysis used MATLAB and MedCalc. Group comparisons used chi-square/ANOVA; comparisons of predictors used McNemar test at fixed sensitivity or specificity. Significance threshold P ≤ 0.05.",
+      "results": "Of 685 enrolled, 392 were eligible for analysis after exclusions (protocol deviations, missing data, inadequate samples). Analyses focused on a subgroup with pCA ≤ 50% (n = 178; cancer prevalence 16% with 29 malignant, 149 benign). Malignant nodules were larger than benign (16.5 mm vs 13.5 mm; P < .01). In this intended-use subgroup, the integrated classifier achieved sensitivity 97% (CI, 82-100), specificity 44% (CI, 36-52), NPV 98% (CI, 92-100), and AUC 0.76, outperforming physician pCA (AUC 0.69), VA (0.60), Mayo (0.69), and PET (0.58). Using the McNemar test at fixed sensitivity 90%, the classifier performed significantly better than these comparators (P ≤ .001; PET comparison in n = 75 with PET). Confusion matrix at the predefined threshold: 66 classified as 'likely benign' (65 benign, 1 malignant) and 112 as 'not likely benign' (84 benign, 28 malignant). If classifier results had directed care, 40% fewer procedures would be performed on benign nodules, with 3% of malignant nodules misclassified. Among immediate post-detection invasive procedures, 35/58 benign vs 23/58 malignant; 14/35 (40%) benign would have been flagged 'likely benign' and 1/23 (4%) malignant incorrectly flagged 'likely benign'."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with incidentally detected 8- to 30-mm pulmonary nodules referred to pulmonology or thoracic surgery; intended-use performance focused on those with clinician-assessed pretest probability of cancer ≤ 50%.",
+      "inclusion_criteria": [
+        "Age ≥ 40 years",
+        "Pulmonary nodule 8-30 mm diameter",
+        "Presentation within 60 days of baseline chest CT to pulmonologist and/or thoracic surgeon",
+        "Mediastinal lymphadenopathy allowed"
+      ],
+      "exclusion_criteria": [
+        "Any prior attempt at biopsy of the index nodule",
+        "Prior CT or PET/CT that had identified the index nodule",
+        "Current or prior cancer diagnosis within 2 years (except nonmelanoma skin cancer)",
+        "Receipt of blood products within 30 days prior to enrollment",
+        "Empiric cancer therapy without confirmatory diagnosis (excluded from analysis)"
+      ]
+    },
+    "intervention": {
+      "text": "Integrated plasma proteomic classifier (LG3BP and C163A) combined with five clinical risk factors",
+      "details": "Multiple reaction monitoring mass spectrometry quantification of LG3BP and C163A integrated with age, smoking status, nodule diameter, edge characteristics, and location to produce a posttest probability of benignity at a predefined threshold optimized for NPV."
+    },
+    "comparison": {
+      "text": "Standard risk assessment methods",
+      "details": "Physician-assessed pretest probability of cancer, validated clinical models (Mayo, VA), and PET (SUV ≥ 2.5 considered positive)."
+    },
+    "outcomes": [
+      {
+        "name": "Negative predictive value (NPV) for benign classification at predefined threshold",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Sensitivity and specificity for malignancy at predefined threshold",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Area under the ROC curve (AUC) for classifier and comparators",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "prospective observational diagnostic accuracy",
+    "allocation": "non-randomized",
+    "blinding": "blinded (participants, clinicians, laboratory, statisticians)",
+    "sites_count": 33,
+    "countries": [
+      "US",
+      "Canada"
+    ],
+    "sample_size": {
+      "planned": 42,
+      "enrolled": 685,
+      "analyzed": 392
+    },
+    "analysis_populations": [
+      {
+        "name": "All eligible",
+        "description": "All participants meeting eligibility with sufficient data for analysis",
+        "n": 392
+      },
+      {
+        "name": "Intended-use subgroup",
+        "description": "Participants with clinician-assessed pretest probability of cancer ≤ 50%",
+        "n": 178
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "malignant",
+      "name": "Final diagnosis: malignant (pCA ≤ 50% subgroup)",
+      "n_randomized": 29,
+      "n_analyzed": 29,
+      "n_completed": 29
+    },
+    {
+      "arm_id": "benign",
+      "name": "Final diagnosis: benign (pCA ≤ 50% subgroup)",
+      "n_randomized": 149,
+      "n_analyzed": 149,
+      "n_completed": 149
+    },
+    {
+      "arm_id": "likely_benign_test",
+      "name": "Index test result: likely benign classification",
+      "n_randomized": 66,
+      "n_analyzed": 66,
+      "n_completed": 66
+    },
+    {
+      "arm_id": "not_likely_benign_test",
+      "name": "Index test result: not likely benign classification",
+      "n_randomized": 112,
+      "n_analyzed": 112,
+      "n_completed": 112
+    },
+    {
+      "arm_id": "integrated_classifier_auc",
+      "name": "AUC: Integrated classifier",
+      "n_randomized": 178,
+      "n_analyzed": 178,
+      "n_completed": 178
+    },
+    {
+      "arm_id": "physician_pca_auc",
+      "name": "AUC: Physician pretest probability",
+      "n_randomized": 178,
+      "n_analyzed": 178,
+      "n_completed": 178
+    },
+    {
+      "arm_id": "va_model_auc",
+      "name": "AUC: VA model",
+      "n_randomized": 178,
+      "n_analyzed": 178,
+      "n_completed": 178
+    },
+    {
+      "arm_id": "mayo_model_auc",
+      "name": "AUC: Mayo model",
+      "n_randomized": 178,
+      "n_analyzed": 178,
+      "n_completed": 178
+    },
+    {
+      "arm_id": "pet_auc",
+      "name": "AUC: PET (subset with PET performed)",
+      "n_randomized": 75,
+      "n_analyzed": 75,
+      "n_completed": 75
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "classifier_npv_likely_benign_pca_le_50",
+      "name": "Negative predictive value: benign diagnosis among 'likely benign' test results",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "At index test",
+      "groups": [
+        {
+          "arm_id": "likely_benign_test",
+          "raw": {
+            "events": 65,
+            "total": 66
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "not_likely_benign_test",
+        "measure": "none",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Diagnostic test NPV at predefined threshold",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Intended-use subgroup (pCA ≤ 50%)",
+        "missing_handling": "Complete-case (per analysis dataset)"
+      },
+      "provenance": {
+        "pages": [
+          494
+        ],
+        "tables": [],
+        "quote": "For intended-use subjects, 66 of 178 were 'likely benign' according to the integrated classifier. Of these, 65 had a benign nodule and 1 had a malignant lung nodule."
+      }
+    },
+    {
+      "concept_id": "classifier_sensitivity_malignancy_pca_le_50",
+      "name": "Sensitivity for malignancy at predefined threshold",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "At index test",
+      "groups": [
+        {
+          "arm_id": "malignant",
+          "raw": {
+            "events": 28,
+            "total": 29
+          }
+        },
+        {
+          "arm_id": "benign",
+          "raw": {
+            "events": 0,
+            "total": 149
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "benign",
+        "measure": "none",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Diagnostic test sensitivity at predefined threshold",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Intended-use subgroup (pCA ≤ 50%)",
+        "missing_handling": "Complete-case (per analysis dataset)"
+      },
+      "provenance": {
+        "pages": [
+          493,
+          494
+        ],
+        "tables": [],
+        "quote": "The integrated classifier revealed a sensitivity of 97% (CI, 82-100)... In intended-use subjects, 1 of 29 malignant nodules was incorrectly labeled 'likely benign'."
+      },
+      "derived": {
+        "arr": 0.966,
+        "nnt": 1.0
+      }
+    },
+    {
+      "concept_id": "classifier_specificity_malignancy_pca_le_50",
+      "name": "Specificity for malignancy at predefined threshold",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "At index test",
+      "groups": [
+        {
+          "arm_id": "benign",
+          "raw": {
+            "events": 65,
+            "total": 149
+          }
+        },
+        {
+          "arm_id": "malignant",
+          "raw": {
+            "events": 0,
+            "total": 29
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "malignant",
+        "measure": "none",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Diagnostic test specificity at predefined threshold",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Intended-use subgroup (pCA ≤ 50%)",
+        "missing_handling": "Complete-case (per analysis dataset)"
+      },
+      "provenance": {
+        "pages": [
+          493,
+          494
+        ],
+        "tables": [],
+        "quote": "The integrated classifier revealed ... a specificity of 44% (CI, 36-52)... In intended-use subjects, 65 benign nodules were labeled 'likely benign'."
+      },
+      "derived": {
+        "arr": 0.436,
+        "nnt": 2.3
+      }
+    },
+    {
+      "concept_id": "auc_classifier_vs_comparators_pca_le_50",
+      "name": "AUC for integrated classifier and comparators",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "At index test",
+      "unit": "",
+      "unit_canonical": "",
+      "groups": [
+        {
+          "arm_id": "integrated_classifier_auc",
+          "raw": {
+            "mean": 0.76,
+            "sd": null,
+            "total": 178
+          }
+        },
+        {
+          "arm_id": "physician_pca_auc",
+          "raw": {
+            "mean": 0.69,
+            "sd": null,
+            "total": 178
+          }
+        },
+        {
+          "arm_id": "va_model_auc",
+          "raw": {
+            "mean": 0.6,
+            "sd": null,
+            "total": 178
+          }
+        },
+        {
+          "arm_id": "mayo_model_auc",
+          "raw": {
+            "mean": 0.69,
+            "sd": null,
+            "total": 178
+          }
+        },
+        {
+          "arm_id": "pet_auc",
+          "raw": {
+            "mean": 0.58,
+            "sd": null,
+            "total": 75
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "physician_pca_auc",
+        "measure": "other",
+        "est": null,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.001,
+        "p_operator": "<=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "McNemar test at fixed sensitivity 90% comparing classifier versus each comparator",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Intended-use subgroup (pCA ≤ 50%); PET subset n=75",
+        "missing_handling": "Complete-case"
+      },
+      "provenance": {
+        "pages": [
+          493,
+          494
+        ],
+        "tables": [],
+        "quote": "The integrated classifier demonstrated an AUC of 0.76, whereas the AUCs for physician pCA, the VA and Mayo models, and PET were 0.69, 0.60, 0.69, and 0.58, respectively. Using the McNemar test in which sensitivity was fixed at 90%, the integrated classifier performed significantly better than physician pCA, the VA and Mayo models, and PET (P ≤ .001)."
+      }
+    }
+  ],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "QUADAS-2",
+    "overall_judgment": "some concerns",
+    "domains": [
+      {
+        "name": "Patient selection",
+        "judgment": "low",
+        "support_for_judgment": "Prospective multicenter enrollment with prespecified inclusion/exclusion; intended-use subgroup defined by clinician-assessed pCA."
+      },
+      {
+        "name": "Index test",
+        "judgment": "low",
+        "support_for_judgment": "Index test performed with predefined threshold and blinding of clinicians, patients, lab, and statisticians."
+      },
+      {
+        "name": "Reference standard",
+        "judgment": "some concerns",
+        "support_for_judgment": "Benign classification allowed 1-year CT stability rather than standard 2 years, which may misclassify slow-growing lesions."
+      },
+      {
+        "name": "Flow and timing",
+        "judgment": "some concerns",
+        "support_for_judgment": "Exclusions due to incomplete data and missing follow-up; PET subset analysis limited to those tested."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "pulmonary nodule",
+      "proteomic classifier",
+      "LG3BP",
+      "C163A",
+      "PANOPTIC",
+      "diagnostic accuracy",
+      "negative predictive value"
+    ],
+    "summary_tldr": "In patients with pCA ≤ 50%, the integrated proteomic-classifier achieved NPV 98%, sensitivity 97%, specificity 44%, and outperformed physician assessment, Mayo/VA models, and PET.",
+    "clinical_relevance": "Test could reduce invasive procedures by 40% for benign nodules while misclassifying 3% of malignant nodules."
+  }
+}

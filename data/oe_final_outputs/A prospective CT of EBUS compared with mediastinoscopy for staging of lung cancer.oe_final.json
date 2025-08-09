@@ -1,0 +1,495 @@
+{
+  "source": {
+    "document_id": "A prospective controlled trial of EBUS-TBNA vs mediastinoscopy for mediastinal staging in lung cancer",
+    "ingest_date": "2025-08-08T00:00:00+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1016/j.jtcvs.2011.08.037"
+  },
+  "document": {
+    "metadata": {
+      "title": "A prospective controlled trial of endobronchial ultrasound-guided transbronchial needle aspiration compared with mediastinoscopy for mediastinal lymph node staging of lung cancer",
+      "year": 2011,
+      "authors": [
+        "Kazuhiro Yasufuku",
+        "Andrew Pierre",
+        "Gail Darling",
+        "Marc de Perrot",
+        "Thomas Waddell",
+        "Michael Johnston",
+        "Gilda da Cunha Santos",
+        "William Geddie",
+        "Scott Boerner",
+        "Lisa W. Le",
+        "Shaf Keshavjee"
+      ],
+      "journal": "The Journal of Thoracic and Cardiovascular Surgery",
+      "doi": "10.1016/j.jtcvs.2011.08.037",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Objective: To compare endobronchial ultrasound-guided transbronchial needle aspiration (EBUS-TBNA) with mediastinoscopy for mediastinal lymph node staging of potentially resectable non-small cell lung cancer. Methods: Patients with confirmed or suspected non-small cell lung cancer who required mediastinoscopy to determine suitability for lung cancer resection were entered into the trial. All patients underwent EBUS-TBNA followed by mediastinoscopy under general anesthesia. If both were negative for N2 or N3 disease, the patient underwent pulmonary resection and mediastinal lymphadenectomy. Results: Between July 2006 and August 2010, 190 patients were registered, 159 enrolled, and 153 were eligible for analysis. EBUS-TBNA and mediastinoscopy sampled an average of 3 and 4 lymph node stations per patient, respectively. The mean short axis of the lymph node biopsied by EBUS-TBNA was 6.9 (SD 2.9) mm. The prevalence of N2/N3 disease was 35% (53/153). There was excellent agreement between EBUS-TBNA and mediastinoscopy for mediastinal staging in 136 patients (91%; Kappa 0.8; 95% CI 0.7-0.9). Specificity and positive predictive value for both techniques were 100%. Sensitivity, negative predictive value, and diagnostic accuracy for EBUS-TBNA and mediastinoscopy were 81%, 91%, 93%, and 79%, 90%, 93%, respectively. No significant differences were found by McNemar’s test (P = .78). There were no complications from EBUS-TBNA. Minor complications from mediastinoscopy occurred in 4/153 (2.6%). Conclusions: EBUS-TBNA and mediastinoscopy achieved similar results for mediastinal staging. As performed, EBUS-TBNA can replace mediastinoscopy in potentially resectable non-small cell lung cancer.",
+      "methods": "Prospective, controlled, paired diagnostic accuracy study at a single academic center. Adults with confirmed or suspected NSCLC requiring mediastinoscopy for mediastinal staging underwent EBUS-TBNA first under general anesthesia, followed by standard cervical mediastinoscopy in the same session. The surgeon performing mediastinoscopy was blinded to EBUS-TBNA cytology results. If both procedures showed no N2/N3 disease, patients proceeded to pulmonary resection with systematic mediastinal lymphadenectomy; surgical pathology served as reference where applicable. EBUS-TBNA was performed using a convex probe EBUS bronchoscope with a 22-gauge needle, targeting contralateral nodes first; ROSE was used to assess adequacy, up to 5 passes per node. Mediastinoscopy sampled stations 2R, 4R, 2L, 4L, and 7. Adequate sampling required diagnostic material or lymphoid tissue. Sensitivity, specificity, PPV, NPV, and diagnostic accuracy were calculated; agreement assessed with Cohen’s kappa; paired comparison of correct/incorrect staging by McNemar’s test.",
+      "results": "Of 190 registered, 159 enrolled; 153 were eligible and analyzed. Mean age 66.8 years; 55% male. Most had cN0/1 on imaging (64%). EBUS-TBNA mean procedure time was 20.2 minutes. EBUS-TBNA sampled 426 lymph nodes (≈3 per patient); mediastinoscopy sampled 573 (≈4 per patient). EBUS-TBNA had 8 false-negative lymph node stations and 122 inadequately sampled stations (predominantly <5 mm); mediastinoscopy had 14 false-negative stations and 10 inadequate samples. N2/N3 prevalence was 53/153 (35%). Specificity and PPV were 100% for both tests. EBUS-TBNA: sensitivity 81%, NPV 91%, accuracy 93% (TP 43, FN 10, TN 100, FP 0). Mediastinoscopy: sensitivity 79%, NPV 90%, accuracy 93% (TP 42, FN 11, TN 100, FP 0). Agreement was excellent (kappa 0.8; 95% CI 0.7-0.9). McNemar’s test showed no significant difference (P = .78). Both tests were incorrect in 4 patients (one 4R, three stations 5/6 beyond both tests). Mediastinoscopy missed 7 cases detected by EBUS (N2 5, N3 2); EBUS missed 6 cases detected by mediastinoscopy (N2 5, N3 1), including two stations not sampled (2R) and four micrometastases. No EBUS-TBNA complications; mediastinoscopy had 4 minor complications (2 hematomas, 1 left recurrent nerve injury, 1 wound infection)."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with confirmed or suspected NSCLC undergoing mediastinal staging to determine suitability for lung cancer resection.",
+      "inclusion_criteria": [
+        "Age ≥18 years",
+        "Confirmed or suspected NSCLC",
+        "Requires mediastinoscopy for mediastinal staging to determine suitability for lung cancer resection"
+      ],
+      "exclusion_criteria": [
+        "Medically unfit for bronchoscopy or mediastinoscopy",
+        "Verified stage IV disease or technically inoperable",
+        "Known small cell lung cancer",
+        "High clinical suspicion of lymphoma",
+        "Unable to provide informed consent"
+      ]
+    },
+    "intervention": {
+      "text": "Endobronchial ultrasound-guided transbronchial needle aspiration (EBUS-TBNA)",
+      "details": "Convex probe EBUS under general anesthesia using a 22-gauge needle with ROSE; contralateral nodes sampled first; up to 5 passes per node; nodes ≥5 mm or sonographically suspicious targeted."
+    },
+    "comparison": {
+      "text": "Cervical mediastinoscopy",
+      "details": "Standard mediastinoscopy under general anesthesia sampling stations 2R, 4R, 2L, 4L, and 7 with systematic dissection; adequacy defined by diagnostic material or lymphoid tissue."
+    },
+    "outcomes": [
+      {
+        "name": "Correct final pathological mediastinal N stage assignment (N0/N1 vs N2/N3)",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Sensitivity for detection of N2/N3 disease",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Procedure-related complications",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Prospective paired diagnostic accuracy study",
+    "allocation": "nonrandomized",
+    "blinding": "mediastinoscopy surgeon blinded to EBUS-TBNA cytology results",
+    "sites_count": 1,
+    "countries": [
+      "CA"
+    ],
+    "sample_size": {
+      "planned": 190,
+      "enrolled": 159,
+      "analyzed": 153
+    },
+    "analysis_populations": [
+      {
+        "name": "Paired",
+        "description": "All patients who underwent both EBUS-TBNA and mediastinoscopy with evaluable reference standard",
+        "n": 153
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "EBUS-TBNA",
+      "n_randomized": 153,
+      "n_analyzed": 153,
+      "n_completed": 153
+    },
+    {
+      "arm_id": "control",
+      "name": "Mediastinoscopy",
+      "n_randomized": 153,
+      "n_analyzed": 153,
+      "n_completed": 153
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "correct_n_stage_overall",
+      "name": "Correct final mediastinal N stage (N0/N1 vs N2/N3)",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Index procedures with surgical/pathologic confirmation",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 143,
+            "total": 153
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 142,
+            "total": 153
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": 0.0065359477,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.78,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "McNemar’s test (paired binary comparison of correct vs incorrect classification)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Paired",
+        "missing_handling": "Complete-case (patients with both tests and reference standard)"
+      },
+      "provenance": {
+        "pages": [
+          1395
+        ],
+        "tables": [
+          "Table 3",
+          "Table 4"
+        ],
+        "table_number": 3,
+        "quote": "There was excellent agreement between EBUS-TBNA and mediastinoscopy... The sensitivity, negative predictive value, and diagnostic accuracy for EBUS-TBNA and mediastinoscopy were 81%, 91%, 93%, and 79%, 90%, 93%, respectively... McNemar’s test, P = .78."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 1.007
+        },
+        "odds_ratio": {
+          "est": 1.108
+        },
+        "arr": 0.007,
+        "nnt": 153.0
+      }
+    },
+    {
+      "concept_id": "sensitivity_n2n3",
+      "name": "Sensitivity for detecting N2/N3 disease",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Index procedures (reference = final pathology/combined reference standard)",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 43,
+            "total": 53
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 42,
+            "total": 53
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": 0.0188679245,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": ""
+      },
+      "analysis": {
+        "model": "Descriptive diagnostic accuracy (sensitivity) using paired gold-standard adjudication",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Disease-positive subset (N2/N3 = 53)"
+      },
+      "provenance": {
+        "pages": [
+          1395
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "quote": "The sensitivity, negative predictive value, and diagnostic accuracy for mediastinal lymph node staging for EBUS-TBNA and mediastinoscopy were 81%, 91%, 93%, and 79%, 90%, 93%, respectively."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 1.024
+        },
+        "odds_ratio": {
+          "est": 1.126
+        },
+        "arr": 0.019,
+        "nnt": 53.0
+      }
+    },
+    {
+      "concept_id": "specificity_n2n3",
+      "name": "Specificity for excluding N2/N3 disease",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Index procedures (reference = surgical pathology for true negatives)",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 100,
+            "total": 100
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 100,
+            "total": 100
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": 0,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": ""
+      },
+      "analysis": {
+        "model": "Descriptive diagnostic accuracy (specificity) using surgical-pathologic confirmation for true negatives",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Disease-negative subset (N0/N1 = 100)"
+      },
+      "provenance": {
+        "pages": [
+          1395
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "quote": "Specificity and positive predictive value for both techniques were 100%."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 1.0
+        },
+        "arr": 0.0
+      }
+    },
+    {
+      "concept_id": "inadequate_sampling_station",
+      "name": "Inadequate lymph node sampling per station",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "During index procedure",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 122,
+            "total": 426
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 10,
+            "total": 573
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": 0.2581826271,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": ""
+      },
+      "analysis": {
+        "model": "Descriptive comparison across procedures (node-level)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All sampled lymph node stations"
+      },
+      "provenance": {
+        "pages": [
+          1394
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Inadequate lymph node sampling was seen in 122 lymph nodes on EBUS-TBNA... Ten lymph node stations were thought to have inadequate sampling on mediastinoscopy."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 16.41
+        },
+        "odds_ratio": {
+          "est": 22.594
+        },
+        "arr": 0.269,
+        "nnt": 3.7
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Haematoma",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Haematoma"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 153
+        },
+        {
+          "arm_id": "control",
+          "events": 2,
+          "patients": 2,
+          "percentage": 1.3,
+          "total": 153
+        }
+      ],
+      "period": "Perioperative",
+      "management": "",
+      "provenance": {
+        "pages": [
+          1396
+        ],
+        "tables": [],
+        "quote": "Minor complications from mediastinoscopy were observed in 4 patients (2.6%) (hematoma in 2, left recurrent nerve injury in 1, and wound infection in 1)."
+      }
+    },
+    {
+      "event_name": "Recurrent laryngeal nerve injury",
+      "meddra": {
+        "soc": "Nervous system disorders",
+        "pt": "Recurrent laryngeal nerve injury"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 153
+        },
+        {
+          "arm_id": "control",
+          "events": 1,
+          "patients": 1,
+          "percentage": 0.7,
+          "total": 153
+        }
+      ],
+      "period": "Perioperative",
+      "management": "",
+      "provenance": {
+        "pages": [
+          1396
+        ],
+        "tables": [],
+        "quote": "Minor complications from mediastinoscopy were observed in 4 patients (2.6%) (hematoma in 2, left recurrent nerve injury in 1, and wound infection in 1)."
+      }
+    },
+    {
+      "event_name": "Wound infection",
+      "meddra": {
+        "soc": "Infections and infestations",
+        "pt": "Wound infection"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 153
+        },
+        {
+          "arm_id": "control",
+          "events": 1,
+          "patients": 1,
+          "percentage": 0.7,
+          "total": 153
+        }
+      ],
+      "period": "Perioperative",
+      "management": "",
+      "provenance": {
+        "pages": [
+          1396
+        ],
+        "tables": [],
+        "quote": "Minor complications from mediastinoscopy were observed in 4 patients (2.6%) (hematoma in 2, left recurrent nerve injury in 1, and wound infection in 1)."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "QUADAS-2",
+    "overall_judgment": "low",
+    "domains": [
+      {
+        "name": "Patient selection",
+        "judgment": "low",
+        "support_for_judgment": "Prospective consecutive-like enrollment of patients requiring mediastinoscopy; clear inclusion/exclusion."
+      },
+      {
+        "name": "Index test (EBUS-TBNA)",
+        "judgment": "low",
+        "support_for_judgment": "Performed before reference test; ROSE used; thresholds pre-specified (N2/N3)."
+      },
+      {
+        "name": "Reference standard",
+        "judgment": "low",
+        "support_for_judgment": "Composite of mediastinoscopy and surgical pathology; true negatives confirmed by surgical-pathologic examination."
+      },
+      {
+        "name": "Flow and timing",
+        "judgment": "low",
+        "support_for_judgment": "Both tests in same anesthesia session; surgical confirmation when both negative; 153/159 analyzed with clear exclusions."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "EBUS-TBNA",
+      "mediastinoscopy",
+      "mediastinal staging",
+      "non-small cell lung cancer",
+      "diagnostic accuracy"
+    ],
+    "summary_tldr": "In 153 paired patients, EBUS-TBNA and mediastinoscopy had identical accuracy (93%) and 100% specificity; EBUS-TBNA sensitivity 81% vs 79% with no significant difference (McNemar P = 0.78) and fewer complications.",
+    "clinical_relevance": "Supports EBUS-TBNA as a minimally invasive alternative to mediastinoscopy for mediastinal staging in potentially resectable NSCLC."
+  }
+}

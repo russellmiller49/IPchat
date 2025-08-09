@@ -1,0 +1,985 @@
+{
+  "source": {
+    "document_id": "Endosonography for mediastinal disease EUS vs EBUS",
+    "ingest_date": "2025-08-08T12:00:55.079805+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1055/s-0034-1392092"
+  },
+  "document": {
+    "metadata": {
+      "title": "Endosonography for mediastinal disease: esophageal ultrasound vs. endobronchial ultrasound",
+      "year": 2015,
+      "authors": [
+        "Nikhil Meena",
+        "Thaddeus Bartter"
+      ],
+      "journal": "Endoscopy International Open",
+      "doi": "10.1055/s-0034-1392092",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Background and study aims: One can approach mediastinal pathology via esophageal ultrasound (EUS) and/or endobronchial ultrasound (EBUS). It has been suggested that EUS is better tolerated by patients. If so, EUS might be the procedure of choice when suspect lesions are accessible via EUS. We studied procedural characteristics of EUS with fine needle aspiration (EUS-FNA) and EBUS with transbronchial needle aspiration (EBUS-TBNA) to see how they differed. Patients and methods: Retrospective review of consecutive EBUS and EUS procedures performed on patients over nine months. One hundred fifty-five procedures were analyzed (61 EUS, 73 EBUS, 21 EUS+EBUS). For EUS, EBUS, and EUS+EBUS, 1.4, 2.0 and 2.5 sites (mean) were sampled, respectively. EUS required approximately one-half of the time of EBUS or the combined procedures; 13.1 vs. 24.1 and 26.9 min, respectively (P<0.0001 for EUS vs. both EBUS and EUS+EBUS). Sedation dosing was statistically lower for EUS and not significantly different between EBUS and the combined approach. EUS also involved lower oxygen requirements and shorter time to discharge. Because fewer mean sites were sampled with EUS than with EBUS or the combined procedure, we performed analysis restricted to procedures that involved sampling of ≤2 sites to determine whether approach-related differences in procedure characteristics were preserved. There were 56 such EUS procedures and 52 such EBUS procedures. EUS remained significantly faster and required less patient sedation. Conclusions: EUS involved statistically significant economies of time and sedation. This has implications with respect to safety and productivity. When applicable, EUS is the procedure of choice.",
+      "methods": "After institutional review board approval, all ultrasound-guided endoscopies performed by Interventional Pulmonary at a single institution from August 1, 2012 until April 30, 2013 were retrospectively reviewed. To allow head-to-head comparison of EUS and EBUS procedures, patients requiring sedation for additional procedures such as regular bronchoscopy or chest tube insertion were excluded. The same convex curvilinear bronchoscope (BF-UC180F) was used for both EBUS and EUS. Sampling used a 21-gauge needle with suction; a standard of at least three passes per lesion was used, with up to 10 passes based on ROSE and clinical suspicion. Rapid on-site cytologic evaluation was available for all procedures. Parameters compared included type of procedure, sedation dosing, number and sites of biopsies, yield, procedure time, maximal oxygen flow during the procedure, time on oxygen post-procedure, and time from scope removal to discharge. Student’s t-tests were used with P<0.05 considered significant.",
+      "results": "Of 165 procedures, 10 were excluded (3 propofol sedation; 7 missing data), leaving 155 procedures: 61 EUS, 73 EBUS, and 21 combined EUS+EBUS. For EUS vs EBUS vs combined, mean sites sampled were 1.4 vs 2.0 vs 2.5. EUS had lower midazolam dosing (3.4 mg vs 4.6 mg; P=0.0002) and lower fentanyl dosing (73.6 µg vs 98.3 µg; P=0.0001) than EBUS, and a shorter procedure time (13.1 min vs 24.1 min; P<0.0001). EUS also had lower maximal oxygen flow (5.3 L/min vs 6.7 L/min; P=0.009), shorter time to room air (18.9 min vs 26.5 min; P=0.05), and shorter time to discharge (42.7 min vs 55.7 min; P=0.0002). In an analysis restricted to procedures with ≤2 sites sampled (56 EUS, 52 EBUS), EUS remained faster (12.1 vs 21.8 min; P<0.0001) with lower sedation (midazolam 3.4 vs 4.5 mg; P=0.0003; fentanyl 72.1 vs 98.2 µg; P<0.0001) and shorter discharge time (42.4 vs 55.1 min; P=0.001). Diagnostic performance: Among 70 EUS procedures, there were two false negatives documented by crossover to EBUS. Among 82 EBUS procedures, there were four false negatives documented by crossover to EUS. Reported EUS sensitivity 0.96 (95% CI 0.86-0.99) and specificity 1.00 (95% CI 0.76-1.00); EBUS sensitivity 0.92 (95% CI 0.84-0.98) and specificity 1.00 (95% CI 0.74-1.00). Complications were rare: two cases of severe post-procedural hypoxia (one EBUS and one combined) and one mediastinal bleeding event (combined); all were observed overnight without intervention."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults undergoing ultrasound-guided mediastinal endosonography for diagnosis and staging of thoracic disease at a single US center over 9 months.",
+      "inclusion_criteria": [
+        "All ultrasound-guided endoscopies (EUS or EBUS) performed by Interventional Pulmonary from 2012-08-01 to 2013-04-30",
+        "Availability of procedural and recovery data",
+        "Use of moderate sedation with midazolam and fentanyl"
+      ],
+      "exclusion_criteria": [
+        "Concomitant additional procedures requiring sedation (e.g., regular bronchoscopy, chest tube insertion)",
+        "Use of propofol sedation",
+        "Missing key procedural data on chart review"
+      ]
+    },
+    "intervention": {
+      "text": "Esophageal ultrasound-guided fine needle aspiration (EUS-FNA)",
+      "details": "Performed with a convex curvilinear bronchoscope (BF-UC180F) via the esophagus; 21-gauge needle with suction; at least 3 passes per lesion, up to 10 based on ROSE and suspicion."
+    },
+    "comparison": {
+      "text": "Endobronchial ultrasound-guided transbronchial needle aspiration (EBUS-TBNA)",
+      "details": "Performed with the same convex curvilinear bronchoscope (BF-UC180F) via the airway; 21-gauge needle with suction; at least 3 passes per lesion, up to 10 based on ROSE and suspicion."
+    },
+    "outcomes": [
+      {
+        "name": "Procedure time (minutes)",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Sedation dose (midazolam, fentanyl)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Maximal oxygen flow during procedure",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Time to room air",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Time to discharge",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Diagnostic performance (false negatives; sensitivity; specificity)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Complications (e.g., hypoxia, bleeding)",
+        "type": "safety",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "retrospective observational comparative study",
+    "allocation": "non-randomized",
+    "blinding": "none",
+    "sites_count": 1,
+    "countries": [
+      "US"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 155,
+      "analyzed": 155
+    },
+    "analysis_populations": [
+      {
+        "name": "All analyzed procedures",
+        "description": "All eligible EUS and EBUS procedures excluding propofol sedation and missing data; includes combined EUS+EBUS for descriptive context",
+        "n": 155
+      },
+      {
+        "name": "Head-to-head EUS vs EBUS only",
+        "description": "EUS-only and EBUS-only procedures from all analyzed",
+        "n": 134
+      },
+      {
+        "name": "≤2 sites subset (head-to-head)",
+        "description": "EUS-only and EBUS-only procedures with ≤2 sites sampled",
+        "n": 108
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "EUS-FNA (esophageal ultrasound)",
+      "n_randomized": 0,
+      "n_analyzed": 61,
+      "n_completed": 61
+    },
+    {
+      "arm_id": "control",
+      "name": "EBUS-TBNA (endobronchial ultrasound)",
+      "n_randomized": 0,
+      "n_analyzed": 73,
+      "n_completed": 73
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "procedure_time_minutes_all",
+      "name": "Procedure time",
+      "type": "continuous",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "PT0H",
+      "timepoint_label": "Intra-procedural",
+      "unit": "min",
+      "unit_canonical": "minute",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": 13.1,
+            "sd": 5.1,
+            "total": 61
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "mean": 24.1,
+            "sd": 8.4,
+            "total": 73
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "mean_difference",
+        "est": -11.0,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.0001,
+        "p_operator": "<",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Student's t-test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Head-to-head EUS vs EBUS only (all sites counts)",
+        "missing_handling": "Excluded procedures with propofol or missing data"
+      },
+      "provenance": {
+        "pages": [
+          303
+        ],
+        "tables": [
+          "Table 1"
+        ],
+        "table_number": 1,
+        "quote": "Procedure time (min): EUS 13.1 ± 5.1 vs EBUS 24.1 ± 8.4; P < 0.0001"
+      }
+    },
+    {
+      "concept_id": "midazolam_dose_mg_all",
+      "name": "Midazolam dose",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "PT0H",
+      "timepoint_label": "Intra-procedural",
+      "unit": "mg",
+      "unit_canonical": "milligram",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": 3.4,
+            "sd": 1.4,
+            "total": 61
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "mean": 4.6,
+            "sd": 1.9,
+            "total": 73
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "mean_difference",
+        "est": -1.2,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.0002,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Student's t-test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Head-to-head EUS vs EBUS only (all sites counts)",
+        "missing_handling": "Excluded procedures with propofol or missing data"
+      },
+      "provenance": {
+        "pages": [
+          303
+        ],
+        "tables": [
+          "Table 1"
+        ],
+        "table_number": 1,
+        "quote": "Midazolam (mg): EUS 3.4 ± 1.4 vs EBUS 4.6 ± 1.9; P = 0.0002"
+      }
+    },
+    {
+      "concept_id": "fentanyl_dose_ug_all",
+      "name": "Fentanyl dose",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "PT0H",
+      "timepoint_label": "Intra-procedural",
+      "unit": "ug",
+      "unit_canonical": "microgram",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": 73.6,
+            "sd": 27.0,
+            "total": 61
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "mean": 98.3,
+            "sd": 39.7,
+            "total": 73
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "mean_difference",
+        "est": -24.7,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.0001,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Student's t-test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Head-to-head EUS vs EBUS only (all sites counts)"
+      },
+      "provenance": {
+        "pages": [
+          303
+        ],
+        "tables": [
+          "Table 1"
+        ],
+        "table_number": 1,
+        "quote": "Fentanyl (µg): EUS 73.6 ± 27 vs EBUS 98.3 ± 39.7; P = 0.0001"
+      }
+    },
+    {
+      "concept_id": "oxygen_flow_lpm_all",
+      "name": "Maximal oxygen flow during procedure",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "PT0H",
+      "timepoint_label": "Intra-procedural",
+      "unit": "L/min",
+      "unit_canonical": "liter per minute",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": 5.3,
+            "sd": 2.6,
+            "total": 61
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "mean": 6.7,
+            "sd": 3.4,
+            "total": 73
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "mean_difference",
+        "est": -1.4,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.009,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Student's t-test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Head-to-head EUS vs EBUS only (all sites counts)"
+      },
+      "provenance": {
+        "pages": [
+          303
+        ],
+        "tables": [
+          "Table 1"
+        ],
+        "table_number": 1,
+        "quote": "O2 flow (L/min): EUS 5.3 ± 2.6 vs EBUS 6.7 ± 3.4; P = 0.009"
+      }
+    },
+    {
+      "concept_id": "time_to_room_air_minutes_all",
+      "name": "Time to room air",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "PT0H",
+      "timepoint_label": "Immediate post-procedure",
+      "unit": "min",
+      "unit_canonical": "minute",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": 18.9,
+            "sd": 19.7,
+            "total": 61
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "mean": 26.5,
+            "sd": 23.9,
+            "total": 73
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "mean_difference",
+        "est": -7.6,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.05,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Student's t-test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Head-to-head EUS vs EBUS only (all sites counts)"
+      },
+      "provenance": {
+        "pages": [
+          303
+        ],
+        "tables": [
+          "Table 1"
+        ],
+        "table_number": 1,
+        "quote": "Time to room air (min): EUS 18.9 ± 19.7 vs EBUS 26.5 ± 23.9; P = 0.05"
+      }
+    },
+    {
+      "concept_id": "time_to_discharge_minutes_all",
+      "name": "Time to discharge",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "PT0H",
+      "timepoint_label": "Post-procedure recovery",
+      "unit": "min",
+      "unit_canonical": "minute",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": 42.7,
+            "sd": 15.9,
+            "total": 61
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "mean": 55.7,
+            "sd": 20.6,
+            "total": 73
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "mean_difference",
+        "est": -13.0,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.0002,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Student's t-test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Head-to-head EUS vs EBUS only (all sites counts)"
+      },
+      "provenance": {
+        "pages": [
+          303
+        ],
+        "tables": [
+          "Table 1"
+        ],
+        "table_number": 1,
+        "quote": "Time to discharge (min): EUS 42.7 ± 15.9 vs EBUS 55.7 ± 20.6; P = 0.0002"
+      }
+    },
+    {
+      "concept_id": "sites_sampled_count_all",
+      "name": "Total sites sampled",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "PT0H",
+      "timepoint_label": "Intra-procedural",
+      "unit": "count",
+      "unit_canonical": "count",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": 1.4,
+            "sd": 0.6,
+            "total": 61
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "mean": 2.0,
+            "sd": 0.8,
+            "total": 73
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "mean_difference",
+        "est": -0.6,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.0001,
+        "p_operator": "<",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Student's t-test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Head-to-head EUS vs EBUS only (all sites counts)"
+      },
+      "provenance": {
+        "pages": [
+          303
+        ],
+        "tables": [
+          "Table 1"
+        ],
+        "table_number": 1,
+        "quote": "Total sites: EUS 1.4 ± 0.6 vs EBUS 2.0 ± 0.8; P < 0.0001"
+      }
+    },
+    {
+      "concept_id": "procedure_time_minutes_subset_le2",
+      "name": "Procedure time (≤2 sites subset)",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "PT0H",
+      "timepoint_label": "Intra-procedural",
+      "unit": "min",
+      "unit_canonical": "minute",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": 12.1,
+            "sd": 5.4,
+            "total": 56
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "mean": 21.8,
+            "sd": 8.3,
+            "total": 52
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "mean_difference",
+        "est": -9.7,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.0001,
+        "p_operator": "<",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Student's t-test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Head-to-head EUS vs EBUS only; procedures with ≤2 sites sampled"
+      },
+      "provenance": {
+        "pages": [
+          304
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Procedure time (min): EUS 12.1 ± 5.4 vs EBUS 21.8 ± 8.3; P < 0.0001"
+      }
+    },
+    {
+      "concept_id": "midazolam_dose_mg_subset_le2",
+      "name": "Midazolam dose (≤2 sites subset)",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "PT0H",
+      "timepoint_label": "Intra-procedural",
+      "unit": "mg",
+      "unit_canonical": "milligram",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": 3.4,
+            "sd": 1.4,
+            "total": 56
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "mean": 4.5,
+            "sd": 1.7,
+            "total": 52
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "mean_difference",
+        "est": -1.1,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.0003,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Student's t-test",
+        "population": "Head-to-head EUS vs EBUS only; procedures with ≤2 sites sampled"
+      },
+      "provenance": {
+        "pages": [
+          304
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Midazolam (mg): EUS 3.4 ± 1.4 vs EBUS 4.5 ± 1.7; P = 0.0003"
+      }
+    },
+    {
+      "concept_id": "fentanyl_dose_ug_subset_le2",
+      "name": "Fentanyl dose (≤2 sites subset)",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "PT0H",
+      "timepoint_label": "Intra-procedural",
+      "unit": "ug",
+      "unit_canonical": "microgram",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": 72.1,
+            "sd": 27.1,
+            "total": 56
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "mean": 98.2,
+            "sd": 34.6,
+            "total": 52
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "mean_difference",
+        "est": -26.1,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.0001,
+        "p_operator": "<",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Student's t-test",
+        "population": "Head-to-head EUS vs EBUS only; procedures with ≤2 sites sampled"
+      },
+      "provenance": {
+        "pages": [
+          304
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Fentanyl (µg): EUS 72.1 ± 27.1 vs EBUS 98.2 ± 34.6; P < 0.0001"
+      }
+    },
+    {
+      "concept_id": "oxygen_flow_lpm_subset_le2",
+      "name": "Maximal oxygen flow during procedure (≤2 sites subset)",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "PT0H",
+      "timepoint_label": "Intra-procedural",
+      "unit": "L/min",
+      "unit_canonical": "liter per minute",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": 5.3,
+            "sd": 2.7,
+            "total": 56
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "mean": 6.4,
+            "sd": 3.4,
+            "total": 52
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "mean_difference",
+        "est": -1.1,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.06,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Student's t-test",
+        "population": "Head-to-head EUS vs EBUS only; procedures with ≤2 sites sampled"
+      },
+      "provenance": {
+        "pages": [
+          304
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Maximal O2 flow (L/min): EUS 5.3 ± 2.7 vs EBUS 6.4 ± 3.4; P = 0.06"
+      }
+    },
+    {
+      "concept_id": "time_to_room_air_minutes_subset_le2",
+      "name": "Time to room air (≤2 sites subset)",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "PT0H",
+      "timepoint_label": "Immediate post-procedure",
+      "unit": "min",
+      "unit_canonical": "minute",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": 18.6,
+            "sd": 16.9,
+            "total": 56
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "mean": 27.2,
+            "sd": 25.8,
+            "total": 52
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "mean_difference",
+        "est": -8.6,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.05,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Student's t-test",
+        "population": "Head-to-head EUS vs EBUS only; procedures with ≤2 sites sampled"
+      },
+      "provenance": {
+        "pages": [
+          304
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Time to room air (min): EUS 18.6 ± 16.9 vs EBUS 27.2 ± 25.8; P = 0.05"
+      }
+    },
+    {
+      "concept_id": "time_to_discharge_minutes_subset_le2",
+      "name": "Time to discharge (≤2 sites subset)",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "PT0H",
+      "timepoint_label": "Post-procedure recovery",
+      "unit": "min",
+      "unit_canonical": "minute",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": 42.4,
+            "sd": 15.8,
+            "total": 56
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "mean": 55.1,
+            "sd": 22.3,
+            "total": 52
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "mean_difference",
+        "est": -12.7,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.001,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Student's t-test",
+        "population": "Head-to-head EUS vs EBUS only; procedures with ≤2 sites sampled"
+      },
+      "provenance": {
+        "pages": [
+          304
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Time to discharge (min): EUS 42.4 ± 15.8 vs EBUS 55.1 ± 22.3; P = 0.001"
+      }
+    },
+    {
+      "concept_id": "false_negatives_requiring_crossover",
+      "name": "False negatives documented by crossover",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "PT0H",
+      "timepoint_label": "Peri-procedural diagnostic outcome",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 2,
+            "total": 70
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 4,
+            "total": 82
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Descriptive (no hypothesis test reported)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All EUS-only and EBUS-only studies including crossover cases"
+      },
+      "provenance": {
+        "pages": [
+          304
+        ],
+        "tables": [],
+        "quote": "Seventy EUS procedures were performed... There were two false negatives, which were documented by crossover to EBUS... Eighty-two EBUS studies were performed. Four false negative results were documented by crossover to EUS."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.586
+        },
+        "odds_ratio": {
+          "est": 0.574
+        },
+        "arr": -0.02,
+        "nnh": 49.5
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Hypoxia",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Hypoxia"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "hospitalization"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 61
+        },
+        {
+          "arm_id": "control",
+          "events": 1,
+          "patients": 1,
+          "percentage": 1.37,
+          "total": 73
+        }
+      ],
+      "period": "Immediate post-procedure",
+      "management": "Admitted for observation; discharged the following day; no interventions required.",
+      "provenance": {
+        "pages": [
+          304
+        ],
+        "tables": [],
+        "quote": "Complications were rare. Two patients experienced severe post-procedural hypoxia (one EBUS and one EBUS+EUS). All three of these patients were admitted for observation and discharged the following day. No interventions were required."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "ROBINS-I",
+    "overall_judgment": "moderate",
+    "domains": [
+      {
+        "name": "Confounding",
+        "judgment": "serious",
+        "support_for_judgment": "Non-randomized retrospective design; baseline differences in number of sites sampled between groups."
+      },
+      {
+        "name": "Selection of participants",
+        "judgment": "moderate",
+        "support_for_judgment": "Consecutive procedures at a single center; exclusions for propofol and missing data."
+      },
+      {
+        "name": "Classification of interventions",
+        "judgment": "low",
+        "support_for_judgment": "Clear procedural definitions for EUS and EBUS using the same scope."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "low",
+        "support_for_judgment": "Procedures followed standard protocols; crossover documented."
+      },
+      {
+        "name": "Missing data",
+        "judgment": "low",
+        "support_for_judgment": "7/165 with missing data excluded; remaining had complete key outcomes."
+      },
+      {
+        "name": "Measurement of outcomes",
+        "judgment": "low",
+        "support_for_judgment": "Objective procedural metrics recorded in charts; ROSE available."
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "low",
+        "support_for_judgment": "Pre-specified comparisons reported with corresponding P-values."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "esophageal ultrasound",
+      "endobronchial ultrasound",
+      "EUS-FNA",
+      "EBUS-TBNA",
+      "mediastinal",
+      "lung cancer staging",
+      "bronchoscopy",
+      "sedation",
+      "procedure time",
+      "oxygen desaturation"
+    ],
+    "summary_tldr": "In a single-center retrospective comparison, EUS required less time (13.1 vs 24.1 min) and sedation (midazolam 3.4 vs 4.6 mg; fentanyl 73.6 vs 98.3 µg) than EBUS, with faster recovery.",
+    "clinical_relevance": "When anatomy allows, EUS may be preferred over EBUS to reduce sedation requirements and improve procedural efficiency; approaches are complementary for diagnosis."
+  }
+}

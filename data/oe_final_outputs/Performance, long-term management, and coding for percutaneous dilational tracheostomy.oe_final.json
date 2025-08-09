@@ -1,0 +1,124 @@
+{
+  "source": {
+    "document_id": "Performance, long-term management, and coding for percutaneous dilational tracheostomy",
+    "ingest_date": "2025-08-08T14:52:02.910824+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1016/j.chest.2018.10.049"
+  },
+  "document": {
+    "metadata": {
+      "title": "Performance, Long-term Management, and Coding for Percutaneous Dilational Tracheostomy",
+      "year": 2019,
+      "authors": [
+        "Jaspal Singh",
+        "Ronald F. Sing"
+      ],
+      "journal": "Chest",
+      "doi": "10.1016/j.chest.2018.10.049",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Percutaneous dilatational tracheotomy (PDT) has become widely accepted and can be safely performed by surgeons and nonsurgeons at the ICU bedside. Bedside PDT offers proven clinical outcomes and resource savings, often serving as the tracheostomy procedure of choice for prolonged mechanical ventilation. This article outlines logistics and operations for incorporating PDT into routine ICU care, including team composition, patient selection, procedural steps, bronchoscopy/ultrasound guidance, training and credentialing, documentation, coding, and quality improvement. Evidence comparing PDT to open surgical tracheotomy suggests lower bleeding and mortality with PDT and no significant difference in overall complications, with a trend favoring PDT. Contraindications and special considerations are detailed, particularly for high-risk patients and less experienced operators.",
+      "methods": "Topics in Practice Management narrative review and pragmatic guidance. The authors summarize existing evidence including systematic reviews and meta-analyses comparing percutaneous tracheostomy techniques to open surgical tracheotomy, and provide institutional practices for team setup, patient selection, procedural conduct (often with bronchoscopic guidance), postprocedural care, training thresholds, and coding/billing. No new randomized or observational cohort data were generated.",
+      "results": "Synthesis of prior evidence indicates PDT is associated with lower bleeding and mortality versus open tracheotomy in a systematic review of 17 randomized controlled trials (1,212 patients). A meta-analysis reported no significant difference in overall complications with a trend favoring percutaneous methods. The American College of Surgeons recommends bedside PDT as the procedure of choice even in high-risk patients. The article provides a practical checklist, outlines absolute and relative contraindications (e.g., age <8 years, gross neck distortion, uncorrectable coagulopathy, PEEP >20 cm H2O), describes team roles, emphasizes bronchoscopy or ultrasound guidance, and recommends training thresholds (≥20 supervised cases and ≥10 annually to maintain competency). Coding guidance includes CPT 31600 for planned tracheostomy (0-day global for Medicare) and related bronchoscopic procedure codes when medically necessary."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Critically ill adult patients in the ICU requiring tracheostomy for prolonged mechanical ventilation.",
+      "inclusion_criteria": [
+        "ICU patients anticipated to require prolonged mechanical ventilation",
+        "Hemodynamic stability suitable for bedside procedure",
+        "Clear anatomic neck landmarks (for early operator experience)"
+      ],
+      "exclusion_criteria": [
+        "Age < 8",
+        "Emergency airway access due to acute compromise",
+        "Gross neck distortion (hematoma, tumor, thyromegaly, high innominate artery)",
+        "Medically uncorrectable bleeding diathesis",
+        "Prothrombin time or activated partial thromboplastin time > 1.5 times reference range",
+        "Platelet count < 50000",
+        "Bleeding time > 10",
+        "Positive end-expiratory pressure > 20",
+        "Infection at prospective neck surgical site"
+      ]
+    },
+    "intervention": {
+      "text": "Bedside percutaneous dilatational tracheostomy (PDT)",
+      "details": "Sterile bedside PDT with local anesthesia, deep sedation and analgesia, often neuromuscular blockade; bronchoscopic guidance recommended for airway visualization and placement confirmation; optional ultrasound guidance as alternative; guidewire-assisted dilation and placement of cuffed tracheostomy tube (commonly 8.0 mm); checklist use; postprocedure confirmation by bronchoscopy and end-tidal CO2; routine postprocedure care and follow-up for suture removal and first tube change around day 7."
+    },
+    "comparison": {
+      "text": "Open surgical tracheotomy (often in operating room)",
+      "details": "Traditional open surgical approach with operating room resources and transport; compared versus bedside percutaneous techniques in prior RCTs and meta-analyses for bleeding, mortality, and complications."
+    },
+    "outcomes": [
+      {
+        "name": "Procedure-related bleeding",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "All-cause mortality",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Overall complications",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Accidental decannulation",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Airway obstruction",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Narrative review",
+    "allocation": "not_applicable",
+    "blinding": "not_applicable",
+    "sites_count": 0,
+    "countries": [],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": []
+  },
+  "arms": [],
+  "outcomes_normalized": [],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "Not applicable",
+    "overall_judgment": "not_applicable",
+    "domains": [
+      {
+        "name": "Randomization process",
+        "judgment": "not_applicable",
+        "support_for_judgment": "This is a narrative review/practice management article; no randomization performed."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "percutaneous dilatational tracheostomy",
+      "bedside tracheostomy",
+      "ICU",
+      "bronchoscopy guidance",
+      "ultrasound guidance",
+      "tracheostomy complications",
+      "CPT 31600",
+      "prolonged mechanical ventilation"
+    ],
+    "summary_tldr": "Narrative review: Bedside percutaneous dilatational tracheostomy is widely adopted, with evidence suggesting lower bleeding and mortality vs open tracheotomy and comparable overall complications, alongside practical guidance for safe implementation, training, and coding.",
+    "clinical_relevance": "Supports ICU adoption of bedside PDT with team-based protocols, bronchoscopy/ultrasound guidance, and standardized training and documentation to improve safety, efficiency, and billing compliance."
+  }
+}

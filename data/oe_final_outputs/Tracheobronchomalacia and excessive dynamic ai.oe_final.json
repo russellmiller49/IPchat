@@ -1,0 +1,84 @@
+{
+  "source": {
+    "document_id": "Tracheobronchomalacia and excessive dynamic ai",
+    "ingest_date": "2025-08-08T16:31:08.566509+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1016/j.ccm.2013.05.003"
+  },
+  "document": {
+    "metadata": {
+      "title": "Tracheobronchomalacia and Excessive Dynamic Airway Collapse",
+      "year": 2013,
+      "authors": [
+        "Septimiu Murgu",
+        "Henri Colt"
+      ],
+      "journal": "Clinics in Chest Medicine",
+      "doi": "10.1016/j.ccm.2013.05.003",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "This narrative review defines and distinguishes tracheobronchomalacia and excessive dynamic airway collapse within the broader syndrome of expiratory central airway collapse. It critiques historical thresholds used to define excessive collapse, summarizes imaging and bronchoscopic assessment techniques, describes airflow dynamics relevant to flow limitation, and proposes a multidomain classification (FEMOS: functional class, extent, morphology, origin, severity) to standardize description and monitoring. The authors advocate careful physiologic assessment and conservative management, including medical therapy and noninvasive positive pressure ventilation, before considering airway stents or surgical repair.",
+      "methods": "Narrative, non-systematic review of adult expiratory central airway collapse including tracheobronchomalacia and excessive dynamic airway collapse. Sources discussed include bronchoscopic estimation techniques, paired inspiratory-expiratory dynamic computed tomography, and prior classification systems. The article synthesizes physiologic models of flow limitation, reviews variability in anatomic sites and respiratory maneuvers used to measure collapse, and illustrates clinical application of a standardized FEMOS classification using case vignettes.",
+      "results": "Key findings include the lack of consensus on what constitutes excessive airway collapse during expiration, wide variability in measurement methods and sites, and the observation that conventional cutoffs may label many healthy individuals as abnormal. The review emphasizes that severity of narrowing is only one determinant of flow limitation and symptoms, with geometry and flow velocity also contributing. The FEMOS classification is presented to standardize reporting across domains of functional impairment, anatomic extent, morphology, etiology, and severity. Case examples demonstrate application of the framework to guide evaluation and management decisions, highlighting a preference for conservative therapies prior to stenting or surgery."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with expiratory central airway collapse, including tracheobronchomalacia and excessive dynamic airway collapse.",
+      "inclusion_criteria": [],
+      "exclusion_criteria": []
+    },
+    "intervention": {
+      "text": "Clinical evaluation and management strategies for expiratory central airway collapse (e.g., functional bronchoscopy, dynamic CT, noninvasive positive pressure ventilation, airway stents, tracheoplasty).",
+      "details": "Emphasis on physiologic assessment, identification of flow-limiting segments with functional bronchoscopy, and conservative measures before invasive interventions."
+    },
+    "comparison": {
+      "text": "",
+      "details": ""
+    },
+    "outcomes": [
+      {
+        "name": "Standardized characterization of expiratory central airway collapse using FEMOS domains",
+        "type": "primary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Narrative review",
+    "allocation": "NA",
+    "blinding": "NA",
+    "sites_count": 0,
+    "countries": [],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": []
+  },
+  "arms": [],
+  "outcomes_normalized": [],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "Not applicable",
+    "overall_judgment": "na",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "Tracheobronchomalacia",
+      "Excessive dynamic airway collapse",
+      "Airway stents",
+      "Tracheoplasty",
+      "Noninvasive positive pressure ventilation",
+      "Airflow dynamics",
+      "Choke points",
+      "Functional bronchoscopy"
+    ],
+    "summary_tldr": "Narrative review clarifying definitions, measurement variability, and physiologic underpinnings of expiratory central airway collapse; proposes FEMOS classification and recommends conservative management before invasive interventions.",
+    "clinical_relevance": "Provides a standardized framework (FEMOS) to classify and monitor central airway collapse and guides clinicians to prioritize physiologic assessment and noninvasive therapy before stenting or surgery."
+  }
+}

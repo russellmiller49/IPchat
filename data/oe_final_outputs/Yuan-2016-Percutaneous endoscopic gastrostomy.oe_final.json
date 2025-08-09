@@ -1,0 +1,102 @@
+{
+  "source": {
+    "document_id": "Yuan-2016-Percutaneous endoscopic gastrostomy",
+    "ingest_date": "2025-08-08T16:56:09.188853+00:00",
+    "trial_registration_id": null,
+    "pmid": null,
+    "doi": "10.1002/14651858.CD009198.pub2"
+  },
+  "document": {
+    "metadata": {
+      "title": "Percutaneous endoscopic gastrostomy versus percutaneous radiological gastrostomy for swallowing disturbances",
+      "year": 2016,
+      "authors": [
+        "Yong Yuan",
+        "Yongfan Zhao",
+        "Tianpeng Xie",
+        "Yang Hu"
+      ],
+      "journal": "Cochrane Database of Systematic Reviews",
+      "doi": "10.1002/14651858.CD009198.pub2",
+      "pmid": null
+    },
+    "sections": {
+      "abstract": "Background: Gastrostomy is standard for long-term enteral nutrition in individuals with swallowing disturbances. Percutaneous gastrostomy can be performed via endoscopy (PEG) or radiological guidance (PRG), each with different limitations, advantages, and contraindications. Numerous studies have compared these techniques, but the optimal method regarding efficacy and safety remains unclear. Objectives: To compare the safety and efficacy of PEG and PRG in individuals with swallowing disturbances. Search methods: CENTRAL (January 2016), MEDLINE (1946 to 22 January 2016), EMBASE (1980 to 22 January 2016), reference lists, ongoing trial databases including the Chinese Cochrane Centre Controlled Trials Register, and PubMed; no language restrictions. Selection criteria: RCTs comparing PEG with PRG in individuals with swallowing disturbances. Data collection and analysis: Two authors independently screened and assessed study quality; no meta-analysis due to absence of eligible RCTs. Main results: No RCTs were identified. Observational evidence suggests both PEG and PRG can be safely performed in selected individuals, with both major and minor complications reported. A definitive RCT is needed to determine the preferred technique. Authors’ conclusions: PEG and PRG are both effective for long-term enteral nutrition in selected individuals; current evidence is insufficient to recommend one over the other. Technique choice should be based on indications/contraindications, operator experience, and available facilities. Large-scale RCTs are required.",
+      "methods": "Criteria: Intended inclusion of randomized controlled trials comparing PEG and PRG in individuals with swallowing disturbances requiring enteral feeding, regardless of underlying disease, age, or gender; individuals with decompression indications were excluded. Interventions: PEG (pull-type, push-type, or introducer) vs PRG (sonographic or fluoroscopic guidance). Outcomes planned: Primary—mortality; Secondary—success of tube placement, major complications, and other procedure-related outcomes. Searches: CENTRAL, MEDLINE, EMBASE to 22 January 2016, PubMed, ongoing trials databases; no language restrictions. Screening and quality assessment by two authors independently. Analysis planned per standard Cochrane methods; not performed due to no eligible RCTs.",
+      "results": "No randomized controlled trials comparing PEG vs PRG for swallowing disturbances were identified. Existing evidence comprises retrospective, non-randomized studies and case series, indicating both techniques are feasible and generally safe in selected populations, with reported major and minor complications. No direct randomized evidence enables comparative estimates of efficacy or safety between PEG and PRG."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Individuals with swallowing disturbances requiring long-term enteral nutrition via percutaneous gastrostomy",
+      "inclusion_criteria": [
+        "Individuals with swallowing disturbances requiring enteral feeding",
+        "Participants randomized to PEG or PRG (for planned RCTs)",
+        "No restrictions on underlying disease, age, or gender"
+      ],
+      "exclusion_criteria": [
+        "Indication of decompression rather than feeding",
+        "Contraindications to percutaneous gastrostomy such as severe ascites, peritonitis, serious coagulopathy, interposed viscera, severe peritoneal carcinomatosis, serious psychosis, or short life expectancy"
+      ]
+    },
+    "intervention": {
+      "text": "Percutaneous endoscopic gastrostomy (PEG)",
+      "details": "Endoscopic placement using pull-type or push-type tubes, or introducer technique under endoscopic guidance"
+    },
+    "comparison": {
+      "text": "Percutaneous radiological gastrostomy (PRG)",
+      "details": "Radiologically inserted gastrostomy using sonographic or fluoroscopic guidance"
+    },
+    "outcomes": [
+      {
+        "name": "Mortality rate",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Success rate of tube placement",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Major complication rate",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Systematic review (Intervention Review)",
+    "allocation": null,
+    "blinding": null,
+    "sites_count": 0,
+    "countries": [],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": []
+  },
+  "arms": [],
+  "outcomes_normalized": [],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "Not applicable (no included RCTs)",
+    "overall_judgment": "no_information",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "percutaneous endoscopic gastrostomy",
+      "PEG",
+      "percutaneous radiological gastrostomy",
+      "PRG",
+      "radiologically inserted gastrostomy",
+      "swallowing disturbances",
+      "enteral nutrition"
+    ],
+    "summary_tldr": "Cochrane review (2016) found no randomized trials comparing PEG vs PRG for swallowing disturbances; insufficient evidence to favor one technique.",
+    "clinical_relevance": "Both PEG and PRG appear feasible and safe in selected patients based on observational data; choice should depend on indications, contraindications, operator expertise, and available facilities; RCTs are needed."
+  }
+}

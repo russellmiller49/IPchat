@@ -1,0 +1,82 @@
+{
+  "source": {
+    "document_id": "Awab-2017-Whole lung lavage-technical details",
+    "ingest_date": "2025-08-08T10:05:05.019981+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.21037/jtd.2017.04.10"
+  },
+  "document": {
+    "metadata": {
+      "title": "Whole lung lavage—technical details, challenges and management of complications",
+      "year": 2017,
+      "authors": [
+        "Ahmed Awab",
+        "Muhammad S. Khan",
+        "Houssein A. Youness"
+      ],
+      "journal": "Journal of Thoracic Disease",
+      "doi": "10.21037/jtd.2017.04.10",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Pulmonary alveolar proteinosis (PAP) is a rare disease characterized by alveolar accumulation of surfactant material with resulting hypoxemia and reduced lung function. Whole lung lavage (WLL) to physically remove the proteinaceous material from the affected lung is the standard treatment. Since its original description in 1964, there have been increasing numbers of WLL procedures done worldwide and the technique has been variously refined and modified. When done in experienced centers, WLL provides long lasting benefit in the majority of patients. It is considered safe and effective. There are no guidelines standardizing the procedure. Our preferred method is to lavage one lung at a time, with the patient supine, filling to functional residual capacity (FRC) and repeating cycles of drainage and instillation with chest percussion until the effluent is clear. The aim of this article is to provide a detailed description of the technique, equipment needed and logistic considerations as well as providing a physiologic rationale for each step of WLL. We will also review the available data concerning variations of the technique described in the literature.",
+      "methods": "Narrative review and technical description of whole lung lavage (WLL) for pulmonary alveolar proteinosis, summarizing historical development, procedural steps, anesthesia considerations, lung isolation, body positioning, lavage protocol, intraoperative monitoring, and logistical preparations. The article also summarizes survey data from 20 worldwide centers regarding indications and typical practice parameters (reference 17) and reports observational timing data from case series.",
+      "results": "Key quantitative points summarized from cited sources and procedural practice: In a survey of 20 centers, indications for WLL included declining lung function (100%), declining baseline PaO2 (90%), radiographic worsening (79%), decline in DLCO (70%), decline in FVC (63%), decline in SpO2 (58%), symptoms (42%), and other (15%). In a case series of 92 cases, median time from diagnosis to WLL was 2 months, with 79% undergoing WLL within 12 months; in another series of 33 patients, the median period between diagnosis and WLL was 7 months (range 0-60). Interval between right and left lung WLL is commonly around 3 weeks. Typical total saline volume per lung averages 15.4±6.8 L across centers, with up to 40 L sometimes required; approximately 30-50 L should be prepared. Adults and children may be treated with about 250 mL/kg total volume. Procedural parameters include denitrogenation with FiO2 1.0 for 15-20 minutes, initial infusion rate not exceeding 125 mL/min, initial fill to approximately half of baseline FRC for the target lung, and repeated cycles of 500-1,000 mL instillation with chest percussion and drainage until effluent is clear. No randomized trials or comparative arms are presented."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Patients with pulmonary alveolar proteinosis undergoing or considered for whole lung lavage.",
+      "inclusion_criteria": [],
+      "exclusion_criteria": []
+    },
+    "intervention": {
+      "text": "Whole lung lavage (WLL)",
+      "details": "General anesthesia with double-lumen endotracheal tube; denitrogenation with FiO2 1.0 for 15-20 minutes; slow initial filling (≤125 mL/min) to approximately half of measured FRC of the target lung; repeated cycles of 500-1,000 mL warm saline instillation with chest percussion and passive/active drainage until clear effluent; typical per-lung total volume around 15.4±6.8 L (up to 40 L); consider sequential contralateral lung lavage after approximately 3 weeks."
+    },
+    "comparison": {
+      "text": "",
+      "details": ""
+    },
+    "outcomes": [
+      {
+        "name": "Indications for WLL across centers",
+        "type": "primary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "narrative_review",
+    "allocation": "none",
+    "blinding": "none",
+    "sites_count": 0,
+    "countries": [],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": []
+  },
+  "arms": [],
+  "outcomes_normalized": [],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "NA",
+    "overall_judgment": "NA",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "pulmonary alveolar proteinosis",
+      "whole lung lavage",
+      "interventional pulmonology",
+      "double-lumen tube",
+      "anesthesia"
+    ],
+    "summary_tldr": "Narrative technical review detailing how to perform whole lung lavage for PAP, including indications, protocol steps, and practical considerations; no randomized comparisons or quantitative efficacy/safety analyses reported.",
+    "clinical_relevance": "Provides a step-by-step operational protocol and rationale for WLL, the standard treatment for PAP, aiding centers in safe, effective implementation."
+  }
+}

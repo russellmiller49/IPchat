@@ -1,0 +1,414 @@
+{
+  "source": {
+    "document_id": "Robotic bronchoscopy for pulmonary lesions a review of existing technologies and clinical data",
+    "ingest_date": "2025-08-08T15:22:48.179742+00:00",
+    "trial_registration_id": "NCT03727425; NCT04182815; NCT03893539",
+    "pmid": null,
+    "doi": "10.21037/jtd.2020.03.35"
+  },
+  "document": {
+    "metadata": {
+      "title": "Robotic bronchoscopy for pulmonary lesions: a review of existing technologies and clinical data",
+      "year": 2020,
+      "authors": [
+        "Abhinav Agrawal",
+        "D. Kyle Hogarth",
+        "Septimiu Murgu"
+      ],
+      "journal": "Journal of Thoracic Disease",
+      "doi": "10.21037/jtd.2020.03.35",
+      "pmid": null
+    },
+    "sections": {
+      "abstract": "Bronchoscopic interventions are preferred for sampling suspicious pulmonary lesions as they have lower complications and can achieve diagnosis and staging in one single procedure. Limitations in existing guided bronchoscopy platforms has led to developments in robotic assisted technologies. These devices may allow the bronchoscopist to more precisely maneuver the scope and instruments into the periphery of the lungs under direct visualization while also ensuring stability during sampling of the target lesions. These devices have the potential to improve the diagnostic yield in sampling peripheral lung lesions and may play a role in the treatment of non-operable or oligometastatic peripheral tumors using bronchoscopic ablative therapies. In this article, we review the existing robotic bronchoscopy technologies and summarize the available pre-clinical and clinical data supporting their use.",
+      "methods": "Narrative review of pre-clinical (cadaver) and clinical feasibility/post-marketing studies of robotic-assisted bronchoscopy platforms (Monarch by Auris Health; Ion Endoluminal System by Intuitive Surgical). Data summarized include navigation success, diagnostic yield, and complications, as reported in included studies and trials.",
+      "results": "Monarch platform: Cadaver REACH study showed farther airway generation reach (9th vs 6th) versus conventional thin bronchoscope. Human feasibility (Rojas-Solano et al.) obtained samples in 14/15 patients without pneumothorax or significant bleeding. ACCESS cadaver study demonstrated diagnostic yield of 63/67 with TBNA, increasing to 65/67 with addition of forceps; eccentric r-EBUS view yield 47/48. Multicenter retrospective post-marketing series (165 patients, 167 lesions) reported 88.6% navigation success, conservative diagnostic yield 69.1%, pneumothorax 3.6%, bleeding 2.4% (counts not provided). BENEFIT interim analysis reported lesion localization 96% in 56 patients, pneumothorax in 2 patients with 1 chest tube. Ion system: First human study (Fielding et al.) achieved target and obtained samples in 28/29 patients; overall diagnostic yield reported as 79.3% and malignancy diagnostic yield 88% (counts not provided). Cadaver Precision-1 study reported higher nodule localization and successful puncture with RAB vs EMN and UTB-rEBUS, with statistically significant differences; raw counts not reported in the review text."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults undergoing evaluation of peripheral pulmonary lesions or central lung lesions using bronchoscopic techniques; cadaver models with artificial pulmonary nodules for pre-clinical testing.",
+      "inclusion_criteria": [
+        "Suspicious pulmonary lesions (central or peripheral) suitable for bronchoscopic evaluation (Rojas-Solano et al.)",
+        "Peripheral pulmonary lesions with or without bronchus sign (varies by study)",
+        "Cadaver lungs with artificially implanted nodules for pre-clinical studies"
+      ],
+      "exclusion_criteria": [
+        "Not explicitly reported in the review for included studies"
+      ]
+    },
+    "intervention": {
+      "text": "Robotic-assisted bronchoscopy (RAB)",
+      "details": "Monarch platform (Auris Health): outer sheath and inner bronchoscope with 4-way steering, EMN guidance, continuous peripheral visualization, 2.1 mm working channel. Ion Endoluminal System (Intuitive Surgical): 3.5 mm articulating catheter with fiber-optic shape-sensing, integrated vision probe (removed before sampling), 2.0 mm working channel, TBNA needle visualization and adjustable throw."
+    },
+    "comparison": {
+      "text": "Conventional guided bronchoscopy methods",
+      "details": "Electromagnetic navigation bronchoscopy (EMN), ultrathin bronchoscope with radial EBUS (UTB-rEBUS), and conventional thin bronchoscopy; comparisons mainly in cadaver Precision-1 study."
+    },
+    "outcomes": [
+      {
+        "name": "Navigation success (reaching target and obtaining samples)",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Diagnostic yield (tissue diagnosis)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Procedure-related adverse events (e.g., pneumothorax, bleeding)",
+        "type": "safety",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Narrative review",
+    "allocation": "none",
+    "blinding": "none",
+    "sites_count": null,
+    "countries": null,
+    "sample_size": {
+      "planned": null,
+      "enrolled": null,
+      "analyzed": null
+    },
+    "analysis_populations": []
+  },
+  "arms": [
+    {
+      "arm_id": "Monarch_RojasSolano2018",
+      "name": "Monarch RAB (Rojas-Solano et al. 2018 feasibility cohort)",
+      "n_randomized": null,
+      "n_analyzed": 15,
+      "n_completed": 15
+    },
+    {
+      "arm_id": "Ion_Fielding2019",
+      "name": "Ion RAB (Fielding et al. 2019 feasibility cohort)",
+      "n_randomized": null,
+      "n_analyzed": 29,
+      "n_completed": 29
+    },
+    {
+      "arm_id": "Monarch_ACCESS2019_cadaver",
+      "name": "Monarch RAB (ACCESS cadaver nodules)",
+      "n_randomized": null,
+      "n_analyzed": 67,
+      "n_completed": 67
+    },
+    {
+      "arm_id": "Monarch_BENEFIT_interim",
+      "name": "Monarch RAB (BENEFIT interim cohort)",
+      "n_randomized": null,
+      "n_analyzed": 56,
+      "n_completed": 56
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "rab_navigation_sampling_success_intraop",
+      "name": "Navigation to target and obtaining samples (intra-procedure)",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": null,
+      "timepoint_label": "During procedure",
+      "groups": [
+        {
+          "arm_id": "Ion_Fielding2019",
+          "raw": {
+            "events": 28,
+            "total": 29
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": "one_proportion",
+        "est": null,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": null,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Single-arm feasibility study (patients)",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "table_number": null,
+        "quote": "The primary end point of reaching the target and obtaining samples was achieved in 28/29 (96.6%) of the cases."
+      }
+    },
+    {
+      "concept_id": "rab_diagnostic_yield_cadaver_tbna",
+      "name": "Diagnostic yield with TBNA (cadaver nodules)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": null,
+      "timepoint_label": "Procedural",
+      "groups": [
+        {
+          "arm_id": "Monarch_ACCESS2019_cadaver",
+          "raw": {
+            "events": 63,
+            "total": 67
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": "one_proportion",
+        "est": null,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": null,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Cadaver nodules",
+        "missing_handling": "Not applicable"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "table_number": null,
+        "quote": "The overall diagnosed yield was noted to be 94% (63/67) using transbronchial needle aspiration (TBNA)."
+      }
+    },
+    {
+      "concept_id": "rab_diagnostic_yield_cadaver_tbna_plus_forceps",
+      "name": "Diagnostic yield with TBNA + forceps (cadaver nodules)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": null,
+      "timepoint_label": "Procedural",
+      "groups": [
+        {
+          "arm_id": "Monarch_ACCESS2019_cadaver",
+          "raw": {
+            "events": 65,
+            "total": 67
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": "one_proportion",
+        "est": null,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": null,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Cadaver nodules",
+        "missing_handling": "Not applicable"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "table_number": null,
+        "quote": "…which was increased to 97% (65/67) by the use of transbronchial forceps (TBBX)."
+      }
+    },
+    {
+      "concept_id": "rab_yield_eccentric_rebus_cadaver",
+      "name": "Diagnostic yield in eccentric r-EBUS view (cadaver nodules)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": null,
+      "timepoint_label": "Procedural",
+      "groups": [
+        {
+          "arm_id": "Monarch_ACCESS2019_cadaver",
+          "raw": {
+            "events": 47,
+            "total": 48
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": "one_proportion",
+        "est": null,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": null,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Cadaver nodules with eccentric r-EBUS view",
+        "missing_handling": "Not applicable"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "table_number": null,
+        "quote": "The yield for lesions with eccentric ultrasound (r-EBUS) view in this study was 97% (47/48)…"
+      }
+    },
+    {
+      "concept_id": "rab_sampling_success_patients_monarch",
+      "name": "Sampling success (Monarch RAB, patients)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": null,
+      "timepoint_label": "During procedure",
+      "groups": [
+        {
+          "arm_id": "Monarch_RojasSolano2018",
+          "raw": {
+            "events": 14,
+            "total": 15
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": "one_proportion",
+        "est": null,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": null,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Single-arm feasibility study (patients)",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "table_number": null,
+        "quote": "Samples were obtained in 14/15 (93%) patients…"
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Pneumothorax",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Pneumothorax"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "Monarch_RojasSolano2018",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 15
+        }
+      ],
+      "period": "Periprocedural",
+      "management": null,
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "None of the patients had a pneumothorax…"
+      }
+    },
+    {
+      "event_name": "Pulmonary haemorrhage",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Pulmonary haemorrhage"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "Monarch_RojasSolano2018",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 15
+        }
+      ],
+      "period": "Periprocedural",
+      "management": null,
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "…or significant bleeding as a complication."
+      }
+    },
+    {
+      "event_name": "Pneumothorax",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Pneumothorax"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "other medically important condition"
+      ],
+      "groups": [
+        {
+          "arm_id": "Monarch_BENEFIT_interim",
+          "events": 2,
+          "patients": 2,
+          "percentage": 3.6,
+          "total": 56
+        }
+      ],
+      "period": "Periprocedural",
+      "management": "Chest tube in 1/2",
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "Pneumothorax occurred in 2 patients (3.6%) with 1 patient (1.8%) requiring a chest tube."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "Not applicable (narrative review)",
+    "overall_judgment": "not_applicable",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "robotic bronchoscopy",
+      "peripheral pulmonary lesion",
+      "electromagnetic navigation bronchoscopy",
+      "radial EBUS",
+      "Monarch",
+      "Ion endoluminal system",
+      "lung cancer",
+      "biopsy"
+    ],
+    "summary_tldr": "Robotic-assisted bronchoscopy platforms enable stable navigation and sampling of peripheral lung lesions with high procedural success in feasibility and cadaver studies; early safety data show low pneumothorax rates.",
+    "clinical_relevance": "RAB may improve diagnostic yield for peripheral lung nodules compared with conventional guided bronchoscopy, with acceptable safety; large prospective studies are ongoing."
+  }
+}

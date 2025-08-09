@@ -1,0 +1,87 @@
+{
+  "source": {
+    "document_id": "Indications and complications of rigid broncho",
+    "ingest_date": "2025-08-08T13:23:56.100748+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1080/17476348.2018.1473037"
+  },
+  "document": {
+    "metadata": {
+      "title": "Indications and complications of rigid bronchoscopy",
+      "year": 2018,
+      "authors": [
+        "Hitesh Batra",
+        "Lonny Yarmus"
+      ],
+      "journal": "Expert Review of Respiratory Medicine",
+      "doi": "10.1080/17476348.2018.1473037",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Introduction: Rigid bronchoscopy is an invaluable tool for the management of airway disorders and an essential skill for an interventional pulmonologist. Since its introduction in the late 19th century, it has remained an important technique for the management of central airway obstruction, foreign body aspiration and massive hemoptysis. Areas covered: This article will review the history, indications, contraindication, technique and complications of rigid bronchoscopy. We will also briefly discuss the methods of anesthesia and ventilation and finally our perspective on the future of rigid bronchoscopy. Expert commentary: Although the rise of flexible bronchoscopy in the 1960s led to a decline in the use of rigid bronchoscopy, the last two decades have witnessed resurgence in its popularity. We anticipate that it will remain an important tool used by interventional pulmonologists for decades to come. We suggest that interventional pulmonologists must have training and develop expertise in this technique.",
+      "methods": "Narrative review of the history, equipment, techniques, indications, contraindications, anesthesia and ventilation methods, and complications related to rigid bronchoscopy. No formal systematic search strategy, randomization, or quantitative meta-analysis described.",
+      "results": "Summarizes the evolution and current applications of rigid bronchoscopy. Highlights technical advantages over flexible bronchoscopy for central airway obstruction, foreign body removal, and management of massive hemoptysis. Describes equipment (bronchoscopes, optics, accessory instruments), procedural techniques (intubation approaches), and ventilation strategies including manual jet ventilation. Notes potential complications such as hypoxemia and pneumothorax risks, but provides no pooled quantitative estimates."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Patients requiring interventional management of central airway disorders (e.g., malignancy-related central airway obstruction, foreign body aspiration, massive hemoptysis).",
+      "inclusion_criteria": [
+        "Adults or children undergoing rigid bronchoscopy for diagnostic or therapeutic airway indications",
+        "Central airway obstruction, foreign body aspiration, or airway bleeding requiring intervention"
+      ],
+      "exclusion_criteria": [
+        "Not applicable for this narrative review; no participant-level inclusion/exclusion applied"
+      ]
+    },
+    "intervention": {
+      "text": "Rigid bronchoscopy",
+      "details": "Use of rigid bronchoscope under general anesthesia (commonly total intravenous anesthesia) with ventilation strategies such as manual jet ventilation; includes therapeutic maneuvers like tumor debulking, dilation, stent placement, and foreign body removal."
+    },
+    "comparison": {
+      "text": "Flexible bronchoscopy or alternative airway management techniques",
+      "details": "Narrative comparisons of technical capabilities and clinical use; no randomized comparator employed."
+    },
+    "outcomes": [
+      {
+        "name": "Procedure success and complications (e.g., hypoxemia, pneumothorax, bleeding)",
+        "type": "primary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Narrative review",
+    "allocation": "na",
+    "blinding": "na",
+    "sites_count": 0,
+    "countries": [],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": []
+  },
+  "arms": [],
+  "outcomes_normalized": [],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "Not applicable",
+    "overall_judgment": "na",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "rigid bronchoscopy",
+      "central airway obstruction",
+      "foreign body aspiration",
+      "massive hemoptysis",
+      "jet ventilation",
+      "interventional pulmonology"
+    ],
+    "summary_tldr": "Narrative review detailing indications, technique, equipment, anesthesia/ventilation approaches, and complications of rigid bronchoscopy, emphasizing its ongoing role in managing complex central airway disease.",
+    "clinical_relevance": "Supports training and utilization of rigid bronchoscopy for therapeutic management of central airway obstruction, foreign body removal, and massive hemoptysis."
+  }
+}

@@ -1,0 +1,4026 @@
+{
+  "version": {
+    "json_export": "203",
+    "page_segmentation": "5",
+    "schema": "1.1.0",
+    "structure": "1.1099.0",
+    "table_structure": "5"
+  },
+  "extended_metadata": {
+    "ID_instance": "1F 53 33 AB 60 BA B2 11 0A 00 67 45 8B 6B C6 23 ",
+    "ID_permanent": "33 39 20 42 37 20 32 45 20 41 42 20 36 30 20 42 41 20 42 32 20 31 31 20 30 41 20 30 30 20 36 37 20 34 35 20 38 42 20 36 42 20 43 36 20 32 33 20 ",
+    "has_acroform": false,
+    "has_embedded_files": false,
+    "is_XFA": false,
+    "is_certified": false,
+    "is_encrypted": false,
+    "is_digitally_signed": false,
+    "language": "zh-CN",
+    "page_count": 8,
+    "pdf_version": "1.6",
+    "pdfa_compliance_level": "",
+    "pdfua_compliance_level": ""
+  },
+  "elements": [
+    {
+      "Bounds": [
+        45.35429382324219,
+        654.3123016357422,
+        517.3016052246094,
+        696.5843048095703
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Neue LT Pro",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Helvetica Neue LT Pro",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "PLOXOU+HelveticaNeueLTPro-Bd",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1264,
+      "Page": 0,
+      "Path": "//Document/Title",
+      "Text": "Towards an optimization of bronchoscopic approaches to the diagnosis and treatment of the pulmonary nodules: a review ",
+      "TextSize": 16.0,
+      "attributes": {
+        "LineHeight": 23,
+        "SpaceAfter": 18
+      }
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        623.6390991210938,
+        343.0520324707031,
+        637.6311492919922
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "OMZMAW+JansonTextLT-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1265,
+      "Page": 0,
+      "Path": "//Document/H1",
+      "Text": "William S. Krimsky1, Michael A. Pritchett2, Kelvin K. W. Lau3 ",
+      "TextSize": 6.1215057373046875,
+      "attributes": {
+        "LineHeight": 12.625,
+        "SpaceAfter": 10.875
+      }
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        600.4602966308594,
+        374.37977600097656,
+        611.0649871826172
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TRMVSM+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1270,
+      "Page": 0,
+      "Path": "//Document/Footnote",
+      "Text": "1Interventional Pulmonary Medicine, Medstar Franklin Square Medical Center, Baltimore, USA; ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 13,
+        "SpaceAfter": -9.624979999999596,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        45.35569763183594,
+        587.4602966308594,
+        552.01708984375,
+        611.0649871826172
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TRMVSM+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1272,
+      "Page": 0,
+      "Path": "//Document/Footnote[2]",
+      "Text": "2Department of Pulmonary Medicine, Chest Center of the Carolinas, FirstHealth Moore Regional Hospital, Pinehurst Medical Clinic, Pinehurst, North Carolina, USA; ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 5.625,
+        "SpaceAfter": -6.249979999999823
+      }
+    },
+    {
+      "Bounds": [
+        45.352996826171875,
+        574.4602966308594,
+        552.8397369384766,
+        598.0649871826172
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TRMVSM+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1274,
+      "Page": 0,
+      "Path": "//Document/Footnote[3]",
+      "Text": "3Department of Thoracic Surgery, St Bartholomew’s Hospital, West Smithfield, London, UK ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 5.625,
+        "SpaceAfter": 3.375
+      }
+    },
+    {
+      "Bounds": [
+        45.352996826171875,
+        535.4602966308594,
+        552.0180969238281,
+        571.4842987060547
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": true,
+        "monospaced": false,
+        "name": "RONJQQ+JansonTextLT-Italic",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1275,
+      "Page": 0,
+      "Path": "//Document/P",
+      "Text": "Contributions: (I) Conception and design: WS Krimsky, M Pritchett; (II) Administrative support: None; (III) Provision of study materials or patients: All authors; (IV) Collection and assembly of data: None; (V) Data analysis and interpretation: None; (VI) Manuscript writing: All authors; (VII) Final approval of manuscript: All authors. ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 13,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        45.352996826171875,
+        509.4602966308594,
+        551.9987030029297,
+        532.4842987060547
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": true,
+        "monospaced": false,
+        "name": "RONJQQ+JansonTextLT-Italic",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1276,
+      "Page": 0,
+      "Path": "//Document/P[2]",
+      "Text": "Correspondence to: William S. Krimsky, MD, FCCP, DAABIP. Chief of Interventional Pulmonary Medicine, Medstar Franklin Square Medical Center, Baltimore, USA. Email: wkrimsky@gmail.com. ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 13,
+        "SpaceAfter": 13.5
+      }
+    },
+    {
+      "Bounds": [
+        102.04719543457031,
+        352.9268035888672,
+        496.7842254638672,
+        493.69529724121094
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Helvetica",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "MJAAYA+Helvetica-AME",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1277,
+      "Page": 0,
+      "Path": "//Document/P[3]",
+      "Text": "Abstract: The last several years have seen substantive improvements and innovation with respect to bronchoscopic approaches to the indeterminate pulmonary nodule both diagnostically and therapeutically. Indeed, these advances have only accelerated over the last year or two and extend across multiple domains and include improvements in imaging technologies and techniques, approaches and tools to access different areas of the lung, tools to acquire tissue as well as tools and methods to ablate tissue. Needless to say, there are a variety of different approaches in terms of how these issues are being solved along with differing levels of technology and infrastructure commitments necessary to utilize these various tools, with some of these approaches being farther along than others. This article reviews some of these recent advances in the domains of advanced imaging, approaches to accessing various parts of the lung, tools designed to acquire tissue, robotic endoscopy platforms, new approaches to tissue ablation as well as potential additions to these areas that are on the horizon. ",
+      "TextSize": 8.5,
+      "attributes": {
+        "LineHeight": 13,
+        "SpaceAfter": 9,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        102.04719543457031,
+        334.46429443359375,
+        441.47117614746094,
+        344.6242980957031
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Helvetica",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "MJAAYA+Helvetica-AME",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1278,
+      "Page": 0,
+      "Path": "//Document/P[4]",
+      "Text": "Keywords: Bronchoscopy; pulmonary nodule; navigational bronchoscopy; bronchoscopic ablation ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 9.625,
+        "SpaceAfter": 12.875
+      }
+    },
+    {
+      "Bounds": [
+        102.04719543457031,
+        295.46429443359375,
+        323.9751739501953,
+        318.48829650878906
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TRMVSM+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1279,
+      "Page": 0,
+      "Path": "//Document/P[5]",
+      "Text": "Submitted Mar 20, 2018. Accepted for publication Mar 28, 2018. doi: 10.21037/jtd.2018.04.38 ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 13.125,
+        "SpaceAfter": 3.375
+      }
+    },
+    {
+      "Bounds": [
+        102.04719543457031,
+        282.46429443359375,
+        318.78314208984375,
+        292.5843048095703
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "OMZMAW+JansonTextLT-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1280,
+      "Page": 0,
+      "Path": "//Document/P[6]",
+      "Text": "View this article at: http://dx.doi.org/10.21037/jtd.2018.04.38 ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 9.625,
+        "SpaceAfter": 18
+      }
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        244.82479858398438,
+        109.09556579589844,
+        256.4907989501953
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Black",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Helvetica Black",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "QPYDCS+HelveticaBlack",
+        "subset": true,
+        "weight": 900
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1281,
+      "Page": 0,
+      "Path": "//Document/H1[2]",
+      "Text": "Introduction ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 11.375,
+        "SpaceAfter": 7.125
+      }
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        88.02729797363281,
+        290.4757843017578,
+        235.68580627441406
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TRMVSM+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1282,
+      "Page": 0,
+      "Path": "//Document/P[7]/ParagraphSpan",
+      "Text": "The last several years have seen substantive improvements and innovation with respect to bronchoscopic approaches to the indeterminate pulmonary nodule both diagnostically and therapeutically. Indeed, these advances have only accelerated over the last year or two and extend across multiple domains and include improvements in imaging technologies and techniques, approaches and tools to access different areas of the lung, tools to acquire tissue as well as tools and methods to ablate tissue. Needless to say, there are a variety of different approaches in terms of how these issues are being solved along with differing levels of ",
+      "TextSize": 9.5
+    },
+    {
+      "Bounds": [
+        308.9792938232422,
+        218.3292999267578,
+        553.5072326660156,
+        256.28179931640625
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TRMVSM+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1283,
+      "Page": 0,
+      "Path": "//Document/P[7]/ParagraphSpan[2]",
+      "Text": "technology and infrastructure commitments necessary to utilize these various tools, with some of these approaches being farther along than others. ",
+      "TextSize": 9.5
+    },
+    {
+      "Bounds": [
+        308.9792938232422,
+        88.07479858398438,
+        554.5453643798828,
+        217.2082977294922
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TRMVSM+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1284,
+      "Page": 0,
+      "Path": "//Document/P[8]",
+      "Text": "Given the accelerating pace of innovation with respect to this particular topic, one would almost certainly expect to see continued development in approaches to the management and treatment of the indeterminate pulmonary nodule. Herein, we review some of the recent advances in the domains of advanced imaging, approaches to accessing various parts of the lung, tools designed to acquire tissue, robotic endoscopy platforms, new approaches to tissue ablation as well as potential additions to the armamentarium that are on the horizon. ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 13,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        73.666748046875,
+        556.2482299804688,
+        257.9867401123047,
+        694.4882202148438
+      ],
+      "ObjectID": 1398,
+      "Page": 1,
+      "Path": "//Document/Figure",
+      "attributes": {
+        "BBox": [
+          73.67699999999968,
+          556.2169999999751,
+          257.9899999999907,
+          694.4509999999718
+        ],
+        "Placement": "Block"
+      }
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        537.9786987304688,
+        219.12826538085938,
+        548.731201171875
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "OMZMAW+JansonTextLT-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1399,
+      "Page": 1,
+      "Path": "//Document/P[9]",
+      "Text": "Figure 1 Cone beam CT with projected image. ",
+      "TextSize": 8.5,
+      "attributes": {
+        "LineHeight": 10.25,
+        "SpaceAfter": 18
+      }
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        502.75390625,
+        139.271240234375,
+        514.4199066162109
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Black",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Helvetica Black",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "QPYDCS+HelveticaBlack",
+        "subset": true,
+        "weight": 900
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1400,
+      "Page": 1,
+      "Path": "//Document/H1[3]",
+      "Text": "Advanced imaging ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 11.375,
+        "SpaceAfter": 8.125
+      }
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        482.7658996582031,
+        144.5818634033203,
+        494.868896484375
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": true,
+        "monospaced": false,
+        "name": "KGBOWE+JansonTextLT-BoldItalic",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1401,
+      "Page": 1,
+      "Path": "//Document/H2",
+      "Text": "Cone beam CT (CBCT) ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 11.375,
+        "SpaceAfter": 6.375
+      }
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        255.41189575195312,
+        290.546142578125,
+        475.25140380859375
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TRMVSM+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1402,
+      "Page": 1,
+      "Path": "//Document/P[10]",
+      "Text": "CBCT is made possible with flat-panel detector systems present in most hybrid operating rooms. With newer systems and updated software, the resolution is similar to conventional CT scanning. CBCT scans are obtained by taking a series of 480 X-ray images during a 180-degree rotational scan around the patient. Typical scans take between 4–10 seconds to perform. CBCT has been used extensively for percutaneous needle biopsies in the lung but more recently has been described in conjunction with bronchoscopy. Hohenforst-Schmidt et al. (1) reported a diagnostic yield of 70% in 33 patients with an average lesion size of 25 mm (1). Subsequently, Park et al. showed that in CBCT combined with bronchoscopy, the only factor associated with higher yield during transbronchial lung biopsy was CBCT confirmation of biopsy forceps positioning (2). A diagnostic yield of 71.2% was achieved in this study of 59 lesions with an average size of 31 mm. ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 13,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        45.34480285644531,
+        73.4678955078125,
+        290.8979034423828,
+        254.31939697265625
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Janson Text LT",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "VULHUI+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1403,
+      "Page": 1,
+      "Path": "//Document/P[11]",
+      "Text": "In 2014, the first case was reported using a combination of electromagnetic navigation bronchoscopy (ENB) and CBCT (3). Since that time a retrospective study of 57 nodules in 46 consecutive patients was published in abstract form. The median size of lesions in this cohort was only 15 mm and the diagnostic yield was 87.7% (4). The yield for lesions 10 mm or less was 91.6% (11 of 12 lesions). Data on the full cohort of 93 lesions in 75 patients has been submitted for publication and shows an overall diagnostic yield of 93.5%. We acknowledge that these results are at a single center with a highly experienced user and may not be generalizable. Ongoing studies are in progress to determine if the addition of CBCT to ENB will result in a similar increase in diagnostic yield. ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 13,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        308.9602966308594,
+        488.94090270996094,
+        554.3453216552734,
+        695.7843933105469
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TRMVSM+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1404,
+      "Page": 1,
+      "Path": "//Document/P[12]",
+      "Text": "The latter study utilized the Philips Allura Xper FD20 system with the OncoSuite software package. This combination allows for the physician to select the lesion on the initial CBCT scan and it is then projected on standard fluoroscopy throughout the case in what is referred to as augmented fluoroscopy. The projected lesion is accurately projected during any rotation of the c-arm throughout the case. This allows for accurate localization of the lesion as well as real-time confirmation of biopsy tools (Figure 1). Additionally, this allows for non-fluoroscopically visible lesions to now be visible. Most importantly, 3D real-time imaging is able to overcome CT-to-body divergence issues that plague current forms of navigational bronchoscopy. As the field advances toward the possibility of bronchoscopic ablation of peripheral tumors, real-time confirmation of probe positioning will be imperative. ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 13,
+        "SpaceAfter": 18,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        308.9602966308594,
+        456.35589599609375,
+        405.9837951660156,
+        468.4588928222656
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Janson Text LT",
+        "font_type": "CIDFontType2",
+        "italic": true,
+        "monospaced": false,
+        "name": "LFLUKC+JansonTextLT-BoldItalic",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1405,
+      "Page": 1,
+      "Path": "//Document/H2[2]",
+      "Text": "Augmented fluoroscopy ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 11.375,
+        "SpaceAfter": 6.5
+      }
+    },
+    {
+      "Bounds": [
+        308.9602966308594,
+        306.9779052734375,
+        554.2239837646484,
+        448.8414001464844
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Janson Text LT",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "VULHUI+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1406,
+      "Page": 1,
+      "Path": "//Document/P[13]",
+      "Text": "Augmented fluoroscopy involves projecting an image onto the real-time fluoroscopic images. As mentioned above the Philips OncoSuite package allows for this after the lesion is highlighted through a process called segmentation. Currently there are two navigation systems that utilize augmented fluoroscopy as well. One is the Archimedes platform (Broncus Medical, Inc., San Jose, CA, USA) that uses transparenchymal access and navigation to localize lesions. The system projects the lesion as well as the transparenchymal pathway onto the live fluoroscopic image in what it calls “fused fluoroscopy”. ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 13,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        308.94129943847656,
+        73.04989624023438,
+        554.2090606689453,
+        305.8854064941406
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Janson Text LT",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "VULHUI+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1407,
+      "Page": 1,
+      "Path": "//Document/P[14]",
+      "Text": "The other system using this technology is LungVision (BodyVision Medical Ltd., Israel) which uses augmented fluoroscopy to highlight not only the lesion but also the airways leading to it. Navigation to the lesion is fluoroscopically based with real-time overlay of the pathway and target, both of which are dynamic and move with respiratory motion. This system can utilize any commercial c-arm fluoroscopy system combined with a location board placed under the patient with radiopaque beads. Planning is based on preprocedural CT scan much like other navigation systems. Recent data presented in abstract form highlighted the accuracy of this system compared to CBCT (5). The system allowed for accurate localization and biopsy of 20 lesions (average size 21.7 mm) with a divergence compared to CBCT of only 5 mm. Another feasibility trial of 85 patients from multiple centers showed a success rate of 92% and no peri-procedural adverse events (6). This novel system allows for real-time tracking of nodules ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 13,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        113.43778991699219,
+        563.677001953125,
+        481.83778381347656,
+        694.7379760742188
+      ],
+      "ObjectID": 1457,
+      "Page": 2,
+      "Path": "//Document/Figure[2]",
+      "attributes": {
+        "BBox": [
+          113.3949999999968,
+          563.7769999999728,
+          481.77999999999884,
+          694.4509999999718
+        ],
+        "Placement": "Block"
+      }
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        546.656005859375,
+        138.27542114257812,
+        557.4084930419922
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "OMZMAW+JansonTextLT-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1458,
+      "Page": 2,
+      "Path": "//Document/P[15]",
+      "Text": "Figure 2 Tomosynthesis. ",
+      "TextSize": 8.5,
+      "attributes": {
+        "LineHeight": 10.25,
+        "SpaceAfter": 18
+      }
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        470.89959716796875,
+        290.41880798339844,
+        522.9311065673828
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TRMVSM+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1459,
+      "Page": 2,
+      "Path": "//Document/P[16]",
+      "Text": "and the ability to compensate for respiratory motion. This innovative design may help to improve the overall diagnostic yield of guided bronchoscopy by overcoming some of the common limitations of ENB. ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 13.375,
+        "SpaceAfter": 18,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        437.56410217285156,
+        105.86929321289062,
+        449.66709899902344
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Janson Text LT",
+        "font_type": "CIDFontType2",
+        "italic": true,
+        "monospaced": false,
+        "name": "LFLUKC+JansonTextLT-BoldItalic",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1460,
+      "Page": 2,
+      "Path": "//Document/H2[3]",
+      "Text": "Tomosynthesis ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 11.375,
+        "SpaceAfter": 6.875
+      }
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        163.25160217285156,
+        290.75633239746094,
+        429.2991027832031
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TRMVSM+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1461,
+      "Page": 2,
+      "Path": "//Document/P[17]",
+      "Text": "Tomosynthesis involves serial X-ray images taken in during movement of a c-arm through limited angles (usually −20 to +20 or −35 to +35 degrees). Images can be viewed individually to eliminate overlapping structures or stacked together to form a 3D model. There are a variety of reconstruction algorithms that are used to create an additive effect to make smaller lesions more visible and in sharper focus while blurring out of plane images (Figure 2). Nelson et al. showed that the use of tomosynthesis in combination with ENB in an animal model could help to eliminate the CT-to-body divergence issue that hinders ENB alone (7). Additionally, the tomosynthesis images were able to resolve 7 mm lesions that were not visible on standard fluoroscopy. The results of this study showed a significant correlation (coefficient 0.926) in position as measured with tomosynthesis compared to high resolution CT scan (HRCT). Conversely with ENB alone, there was significant divergence between the perceived distance to the target and the actual distance as measured by HRCT (correlation coefficient 0.048, P<0.0001). ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 13.375,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        69.61959838867188,
+        291.51861572265625,
+        161.7790985107422
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TRMVSM+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1462,
+      "Page": 2,
+      "Path": "//Document/P[18]/ParagraphSpan",
+      "Text": "The superDimension ENB system (Medtronic, Minneapolis, Minnesota, USA) has recently gained FDA approval for its fluoroscopic navigation system that utilizes tomosynthesis in combination with its already robust navigation platform. The recent multicenter global NAVIGATE trial showed that out of 1,000 ENB procedures, only 60% of lesions were visible on standard ",
+      "TextSize": 9.5
+    },
+    {
+      "Bounds": [
+        308.9792938232422,
+        405.58709716796875,
+        553.9251708984375,
+        522.9026031494141
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TRMVSM+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1463,
+      "Page": 2,
+      "Path": "//Document/P[18]/ParagraphSpan[2]",
+      "Text": "fluoroscopy (8). The addition of fluoroscopic navigation to ENB will allow for improved real-time visualization of previously non-fluoroscopically visible lesions. This will also give the ability to re-register the ENB system locally, once proximity to the lesion is confirmed using the tomosynthesis reconstructions. This will update the system and help to eliminate CT-to-body divergence. This improved localization may help to improve diagnostic yield of ENB. ",
+      "TextSize": 9.5
+    },
+    {
+      "Bounds": [
+        308.9888000488281,
+        373.1446075439453,
+        348.2788848876953,
+        384.8105926513672
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Black",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Helvetica Black",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "QPYDCS+HelveticaBlack",
+        "subset": true,
+        "weight": 900
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1464,
+      "Page": 2,
+      "Path": "//Document/H1[4]",
+      "Text": "Access ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 11.375,
+        "SpaceAfter": 8.5
+      }
+    },
+    {
+      "Bounds": [
+        308.9888000488281,
+        352.8050994873047,
+        542.2803039550781,
+        364.90809631347656
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Janson Text LT",
+        "font_type": "CIDFontType2",
+        "italic": true,
+        "monospaced": false,
+        "name": "LFLUKC+JansonTextLT-BoldItalic",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1465,
+      "Page": 2,
+      "Path": "//Document/H2[4]",
+      "Text": "Bronchoscopic transparenchymal nodule access (BTPNA) ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 11.375,
+        "SpaceAfter": 6.625
+      }
+    },
+    {
+      "Bounds": [
+        308.9888000488281,
+        122.22109985351562,
+        554.2007293701172,
+        344.94859313964844
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TRMVSM+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1466,
+      "Page": 2,
+      "Path": "//Document/P[19]",
+      "Text": "The Archimedes system (Broncus Medical) is a novel navigation system that uses a transparenchymal approach and therefore is not dependent on airway access to a lesion. Based on the pre-procedural CT scan, planning for the procedure is undertaken in proprietary software where the physician selects one of two computer selected points to exit the airway and begin the transparenchymal navigation. The exit point can be adjusted per physician preference and the vasculature is highlighted with a “virtual Doppler” function to help avoid vessels at the exit point. The airway is then punctured and dilated after which a steerable catheter is placed into the lung parenchyma. Utilizing the aforementioned fused fluoroscopic (augmented fluoroscopy) image the physician directs the catheter directly to the lesion for biopsy. Infrared cameras on the system detect the c-arm position and the optimal positioning of the c-arm is displayed. ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 13.125,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        308.9888000488281,
+        69.51510620117188,
+        553.6338043212891,
+        120.94810485839844
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TRMVSM+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1556,
+      "Page": 2,
+      "Path": "//Document/P[20]/ParagraphSpan",
+      "Text": "Data from the first human trial with this novel system was published by Herth et al. in 2015 (9). While 12 patients were enrolled, the procedure was only possible in 10 of these patients (85% success rate). Of these ten patients, ",
+      "TextSize": 9.5
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        475.83160400390625,
+        290.6893005371094,
+        695.6710968017578
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TRMVSM+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1537,
+      "Page": 3,
+      "Path": "//Document/P[20]/ParagraphSpan[2]",
+      "Text": "all had successful transparenchymal access, biopsy and diagnosis, confirmed by surgical resection. The average lesion size was 25 mm and the two unsuccessful procedures involved inaccessible lesions that were located in the left upper lobe. There were no adverse events, including pneumothorax and bronchopulmonary hemorrhage. A second study in humans with the BTPNA system involved six patients, of which 5 were able to have the procedure completed (10). The average lesion size was 19.8 mm and the procedure yielded a malignant diagnosis in all five cases. Pneumothorax was reported in 2 of the 5 patients (40%), 1 of which required a chest tube. Only one patient in both studies was able to have a successful transparenchymal biopsy of a lesion in the left upper lobe. There is currently a multi-site, multi-national study (EAST2) enrolling patients for further study. There are six U.S. sites, 1 in Germany and 3 in China. Estimated study completion date is early 2019. ",
+      "TextSize": 9.5
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        443.1820983886719,
+        253.40179443359375,
+        455.9270324707031
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Janson Text LT",
+        "font_type": "CIDFontType2",
+        "italic": true,
+        "monospaced": false,
+        "name": "LFLUKC+JansonTextLT-BoldItalic",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1538,
+      "Page": 3,
+      "Path": "//Document/H2[5]",
+      "Text": "CrossCountryTM transbronchial access tool (TBAT) ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 11.375,
+        "SpaceAfter": 6.375
+      }
+    },
+    {
+      "Bounds": [
+        45.35069274902344,
+        241.76759338378906,
+        290.2995300292969,
+        436.3605651855469
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TRMVSM+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1540,
+      "Page": 3,
+      "Path": "//Document/P[21]",
+      "Text": "The CrossCountryTM TBAT (Medtronic) is designed to allow access through an airway wall and into the lung parenchyma, specifically for difficult to reach lesions, or to reach various areas of a larger lesion. Once the optimal airway exit point is reached, a small sharp tipped wire is deployed through the airway wall and into the parenchyma. Subsequently a cone-shaped dilator is advanced over the wire, through the airway wall and into the parenchyma to the target. Then by Seldinger technique, the extended working channel/EdgeTM catheter is advanced over the graduated dilator while pulling the wire back. The catheter is directed over the central dilator until in the correct position at the proximal edge of the lesion. The wire and dilator are then removed leaving access for biopsy tools though the extended working channel/EdgeTM catheter. ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 13,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        45.351898193359375,
+        72.81959533691406,
+        290.62445068359375,
+        240.6750946044922
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TRMVSM+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1544,
+      "Page": 3,
+      "Path": "//Document/P[22]/ParagraphSpan",
+      "Text": "Two small case series have been published on the feasibility and safety of this device. In the first study, Anciano et al. described three cases utilizing the TBAT (11). The lesion was able to be reached in all three cases, 2 of which yielded a definitive diagnosis. There were no adverse events reported. In a second series, Bowling et al. reported their experience with the TBAT in 12 lesions (12). Seventy-five percent of these lesions (9 of 12) were able to be accessed successfully with the TBAT. The diagnostic yield was 66% (8 of 12) and one patient suffered a pneumothorax and required a chest tube. Perhaps most importantly, after the development of a specific protocol was instituted, the next 7 of 7 cases were successful. The protocol involved ",
+      "TextSize": 9.5
+    },
+    {
+      "Bounds": [
+        308.9864044189453,
+        566.8576049804688,
+        554.0741119384766,
+        695.72509765625
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TRMVSM+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1545,
+      "Page": 3,
+      "Path": "//Document/P[22]/ParagraphSpan[2]",
+      "Text": "preprocedural CBCT scan (Artis Zeego, Siemens) and highlighting of the lesion with software so that if there was any small amount of bleeding around the lesion during biopsy or TBAT deployment, they would still know the position of the nodule. The second part of the protocol involved doing a repeat CBCT scan once the planned exit point was reached to confirm line to target and to avoid any “danger zones” (pleura, vessels, etc.). The use of the TBAT as well as CBCT may be integral to the future bronchoscopic application of ablative energy to a lung lesion. ",
+      "TextSize": 9.5
+    },
+    {
+      "Bounds": [
+        309.0339050292969,
+        534.2725982666016,
+        529.0729064941406,
+        546.3755950927734
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Janson Text LT",
+        "font_type": "CIDFontType2",
+        "italic": true,
+        "monospaced": false,
+        "name": "LFLUKC+JansonTextLT-BoldItalic",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1546,
+      "Page": 3,
+      "Path": "//Document/H2[6]",
+      "Text": "Thin convex probe endobronchial ultrasound (EBUS) ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 11.375,
+        "SpaceAfter": 6.5
+      }
+    },
+    {
+      "Bounds": [
+        309.0339050292969,
+        293.922607421875,
+        554.6259002685547,
+        526.7581024169922
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TRMVSM+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1547,
+      "Page": 3,
+      "Path": "//Document/P[23]",
+      "Text": "The development of convex probe EBUS has been one of the most revolutionary inventions in this history of bronchoscopy. The limitations of EBUS are scope size and relative inflexibility. Current EBUS scopes are designed for mediastinal and hilar lymph node staging, however, there are times where there are relatively central lung lesions that are able to be accessed with convex EBUS scopes. Recently there has been development of a thin convex EBUS scope (Olympus) that has improved flexibility and reach compared to the traditional EBUS scope. The new scope has a 170-degree angle of articulation, compared to 120-degrees with a standard EBUS scope. The viewing angle is 20-degrees, compared to the relatively acute viewing angle of 35-degrees on standard EBUS scopes. The smaller size scope does limit the needle to a maximum of 25 G. Existing data from gastrointestinal (GI) literature has suggested no difference between a 22-G and a 25-G needle in sample adequacy. ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 13,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        309.0339050292969,
+        137.97059631347656,
+        553.9643249511719,
+        292.83009338378906
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TRMVSM+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1548,
+      "Page": 3,
+      "Path": "//Document/P[24]",
+      "Text": "In 2016, Callahan et al. did a cadaveric study with the thin convex probe compared to the traditional EBUS scope (13). This study showed significantly improved access to smaller airways with the thin scope. In a more recent study in ex vivo human lungs, the thin convex EBUS scope showed a greater reach by 22 mm compared to the traditional scope (14). The thin probe also was capable of accessing twice as many segmental bronchi (98% vs. 48% of right lung subsegments, 91% vs. 47% of left lung subsegments). The advent of a thin convex EBUS scope could provide better access to lobar and interlobar lymph nodes as well as improved access to intraparenchymal lesions as well. ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 13,
+        "SpaceAfter": 18,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        309.0339050292969,
+        92.38960266113281,
+        537.0718841552734,
+        117.48860168457031
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Janson Text LT",
+        "font_type": "CIDFontType2",
+        "italic": true,
+        "monospaced": false,
+        "name": "LFLUKC+JansonTextLT-BoldItalic",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1549,
+      "Page": 3,
+      "Path": "//Document/H2[7]",
+      "Text": "Electromagnetic-guided transthoracic needle aspiration (EMTTNA) ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 13,
+        "SpaceAfter": 8
+      }
+    },
+    {
+      "Bounds": [
+        309.0339050292969,
+        72.97160339355469,
+        553.7594757080078,
+        84.87510681152344
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TRMVSM+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1550,
+      "Page": 3,
+      "Path": "//Document/P[25]",
+      "Text": "To further utilize the tracking and localizing function of ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 11.375
+      }
+    },
+    {
+      "Bounds": [
+        73.66676330566406,
+        509.68821716308594,
+        257.98675537109375,
+        694.4882202148438
+      ],
+      "ObjectID": 1694,
+      "Page": 4,
+      "Path": "//Document/Figure[3]",
+      "attributes": {
+        "BBox": [
+          73.67699999999968,
+          509.65899999999965,
+          257.9899999999907,
+          694.4509999999718
+        ],
+        "Placement": "Block"
+      }
+    },
+    {
+      "Bounds": [
+        73.66676330566406,
+        509.68821716308594,
+        257.98675537109375,
+        694.4882202148438
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Neue LT Pro",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Helvetica Neue LT Pro",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "KGBOWE+HelveticaNeueLTPro-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1694,
+      "Page": 4,
+      "Path": "//Document/Figure[3]",
+      "Text": "Arcpoint flexible needle Standard needle ",
+      "TextSize": 7.0,
+      "attributes": {
+        "BBox": [
+          73.67699999999968,
+          509.65899999999965,
+          257.9899999999907,
+          694.4509999999718
+        ],
+        "Placement": "Block"
+      }
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        491.0709991455078,
+        211.8948516845703,
+        501.9595031738281
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "OMZMAW+JansonTextLT-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1695,
+      "Page": 4,
+      "Path": "//Document/P[26]",
+      "Text": "Figure 3 Arcpoint needle vs. standard needle. ",
+      "TextSize": 8.5,
+      "attributes": {
+        "LineHeight": 10.25,
+        "SpaceAfter": 18
+      }
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        151.4199981689453,
+        290.56529235839844,
+        467.4821014404297
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TRMVSM+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1696,
+      "Page": 4,
+      "Path": "//Document/P[27]",
+      "Text": "ENB, there has been, more recently, the application of electromagnetic navigation combined with a percutaneous approach in the SPiN PercTM system (Veran Medical). This EMTTNA technique allows for tracking and targeting of solitary pulmonary nodules to facilitate percutaneous biopsy without having to rely on CT-guidance. A study by Yarmus et al. in 2016 involved the use of EMTTNA in a small cohort of 24 patients with an average lesion size of 20.3 mm (15). These patients first had an attempted ENB with Veran’s electromagnetic (EM) navigation system. ENB was diagnostic in only 33% of patients and the remaining patients underwent EMTTNA. The diagnostic yield of EMTTNA alone was 83%, however this was associated with a high pneumothorax rate of 21%. When all procedures were combined (ENB + EBUS + EMTTNA) the diagnostic yield increased to 92% (58% of which were malignant, 42% considered benign). This technology offers the advantage of an all-in-one diagnostic procedure for those who feel comfortable performing their own TTNA procedure under virtual guidance only. Lesions that require a posterior approach are currently not able to utilize this technique. EMTTNA is a promising technology but may also be more difficult with lesions smaller than 2 cm as the technique lacks real-time confirmation of needle placement. ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 13.25,
+        "SpaceAfter": 18,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        45.3572998046875,
+        118.87300109863281,
+        97.80865478515625,
+        130.53900146484375
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Black",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Helvetica Black",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "QPYDCS+HelveticaBlack",
+        "subset": true,
+        "weight": 900
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1697,
+      "Page": 4,
+      "Path": "//Document/H1[5]",
+      "Text": "New tools ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 11.375,
+        "SpaceAfter": 6.875
+      }
+    },
+    {
+      "Bounds": [
+        45.3572998046875,
+        72.06649780273438,
+        289.7486267089844,
+        110.41799926757812
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TRMVSM+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1828,
+      "Page": 4,
+      "Path": "//Document/P[28]/ParagraphSpan",
+      "Text": "Development has continued on tools that can be deployed through scopes, sheaths and catheters and into the periphery of the lung, not only with respect to tissue acquisition but ",
+      "TextSize": 9.5
+    },
+    {
+      "Bounds": [
+        308.9822998046875,
+        566.7124938964844,
+        554.103271484375,
+        695.7510070800781
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TRMVSM+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1829,
+      "Page": 4,
+      "Path": "//Document/P[28]/ParagraphSpan[2]",
+      "Text": "also for delivery of different agents, markers, etc. For the most part, the focus over the past year or two has been the development of more flexible instruments, predominantly needles, in an effort to avoid substantive displacement or alteration of the position of the instrument through which it is being inserted. Other tools have also been developed with the focus on acquiring tissue for histopathologic evaluation as an update on the traditional biopsy forceps, which although they remain quite useful, have their own intrinsic limitations. ",
+      "TextSize": 9.5
+    },
+    {
+      "Bounds": [
+        308.9822998046875,
+        423.54750061035156,
+        554.3450012207031,
+        565.6009979248047
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Janson Text LT",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "VULHUI+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1699,
+      "Page": 4,
+      "Path": "//Document/P[29]",
+      "Text": "Olympus recently introduced the PeriView FLEX TBNA needle. It is a 21-G needle that can be used with a nitinol stylet to adjust flexibility. The tool is largely designed to avoid displacement of the bronchoscope or catheter through which it is being inserted while maintaining enough longitudinal stability to continue to puncture the tissue. The design of this needle employs a spiral laser cut design to accomplish this. It appears to be visible under fluoroscopy and can be used both directly through the operating channel of the bronchoscope as well as through sheaths and catheters. ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 13,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        308.97509765625,
+        241.2093048095703,
+        554.7001190185547,
+        422.4360046386719
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TRMVSM+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1700,
+      "Page": 4,
+      "Path": "//Document/P[30]",
+      "Text": "Similarly, Medtronic has introduced the flexible ArcpointTM pulmonary needle. This is also designed to maintain longitudinal stability while providing substantive flexibility and limited displacement of their variably curved EdgeTM catheters used during ENB. The needle is available in two sizes, 21 G and 18 G. Similar to the Olympus needle, it can be used with or without a style to adjust flexibility. The needle itself is 8 mm in length and attached to a braided and tapered sheath. When compared to traditional non-flexible aspirating needles, the ArcpiontTM needle would appear to be able to maintain its position with significantly less catheter displacement (Figure 3). Given the recent introduction in both tools, there is limited human data as of yet with respect to performance, yield, etc. (16). ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 13,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        308.9656066894531,
+        124.064697265625,
+        554.2560424804688,
+        240.09779357910156
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TRMVSM+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1701,
+      "Page": 4,
+      "Path": "//Document/P[31]",
+      "Text": "Two other tools bear mentioning. Medtronic has also introduced the GenCutTM Core Biopsy System. This is a flexible tool with a blunt, rounded tip, a port and blade along the distal and lateral aspect of the tool with a hollow core. This allows it to be placed through a variety of different sheaths and catheters while remaining quite flexible. Once in position, suction is applied, and the tool rotated and agitated. In this manner, intact tissue for histopathologic evaluation can be obtained. ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 13,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        308.9810028076172,
+        72.00469970703125,
+        553.3352508544922,
+        122.95320129394531
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TRMVSM+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1702,
+      "Page": 4,
+      "Path": "//Document/P[32]",
+      "Text": "In addition, Olympus has developed a smaller needle to fit through its new smaller ultrasound bronchoscope. It is a 25G needle and deployed in a manner similar to the current EBUS needle designs. ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 13,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        45.34989929199219,
+        657.7754974365234,
+        289.91778564453125,
+        695.6710052490234
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TRMVSM+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1703,
+      "Page": 5,
+      "Path": "//Document/P[33]",
+      "Text": "Again, both of these tools have either been in release for a short period of time or have not yet been released and thus data remains limited. ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 13,
+        "SpaceAfter": 18,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        45.34989929199219,
+        625.1905059814453,
+        174.52139282226562,
+        637.2935028076172
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Janson Text LT",
+        "font_type": "CIDFontType2",
+        "italic": true,
+        "monospaced": false,
+        "name": "LFLUKC+JansonTextLT-BoldItalic",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1704,
+      "Page": 5,
+      "Path": "//Document/H2[8]",
+      "Text": "Robotic bronchoscopy platforms ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 11.375,
+        "SpaceAfter": 6.375
+      }
+    },
+    {
+      "Bounds": [
+        45.34989929199219,
+        371.8034973144531,
+        291.7104949951172,
+        617.6759948730469
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TRMVSM+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1705,
+      "Page": 5,
+      "Path": "//Document/P[34]",
+      "Text": "There has been increasing interest in a robotic bronchoscopy platform that would seek to improve upon some aspects of conventional and guided-bronchoscopy. There are currently two robotic bronchoscopy systems that are advanced enough for human trials. The MonarchTM system (Auris Surgical Robotics, Redwood City, CA, USA) was recently cleared by the FDA and is comprised of a robotically propelled outer sheath [5.7-mm outer diameter (OD)] with an inner telescoping endoscope measuring 4.4 mm in diameter. The MonarchTM system (Auris Surgical Robotics, Redwood City, CA, USA) is comprised of a robotically propelled outer sheath [5.7 mm outer diameter (OD)] with an inner telescoping endoscope measuring 4.4 mm in diameter. The system uses electromagnetic navigation for guidance with an external EM field generator. The physician uses a small hand-held controller to guide the robotic scope into biopsy position. The scope has continuous optical capabilities and a separate suction channel. The working channel of the scope is 2.1 mm. ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 13,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        45.351104736328125,
+        137.87550354003906,
+        290.3682098388672,
+        370.71099853515625
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TRMVSM+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1706,
+      "Page": 5,
+      "Path": "//Document/P[35]",
+      "Text": "Results of a cadaveric study were recently published in abstract form (17). This study compared the reach of the robotic endoscopy system (RES) to that of a traditional thin scope (4.2 mm OD). The RES was able to reach three generations further into the airways compared to the traditional thin scope. Additionally, the total insertion depth beyond the level of the carina was significantly greater in the RES group (172 vs. 128 mm). The full manuscript of this article has recently been published and further shows that the RES is able to outreach the conventional thin scope in all subsegments of the lung, particularly in those most difficult to reach segments (right bronchus 1, 8 vs. 3.5 generations and left bronchus 1+2, 8 vs. 4.5 generations) (18). This improved bronchoscopic reach may help to increase the diagnostic yield compared to conventional guided-bronchoscopy. The Auris platform has been designed to be modular with future expansion into other specialties, such as urology. ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 13,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        45.351104736328125,
+        72.89549255371094,
+        290.609619140625,
+        136.7830047607422
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TRMVSM+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1812,
+      "Page": 5,
+      "Path": "//Document/P[36]/ParagraphSpan",
+      "Text": "The other robotic bronchoscopy platform pending FDA approval is an as yet unnamed system from Intuitive Surgical. This system also uses a robotically-guided catheter and a built-in navigation system based on shape sensing technology, rather than the traditional electromagnetic ",
+      "TextSize": 9.5
+    },
+    {
+      "Bounds": [
+        308.9761047363281,
+        527.9454956054688,
+        554.2944641113281,
+        695.8009948730469
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TRMVSM+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1813,
+      "Page": 5,
+      "Path": "//Document/P[36]/ParagraphSpan[2]",
+      "Text": "navigation used in many other guided bronchoscopy systems. The navigation system still uses the patients preprocedural CT scan as the basis for navigation. Once the biopsy location is reached the camera must be removed from the catheter to facilitate biopsy. The working channel of this biopsy channel is 2.0 mm and can facilitate up to a 19G needle. A first-in-human trial was recently published on a cohort of 30 patients with average lesion size of only 15 mm (19). Lesions were visible on radial probe EBUS (rEBUS) in 24 cases (15 eccentric and 9 concentric). Overall diagnostic yield was reported as 83% (16 with malignant results, 8 benign and 5 inconclusive). No adverse events were reported. ",
+      "TextSize": 9.5
+    },
+    {
+      "Bounds": [
+        308.9761047363281,
+        358.99749755859375,
+        554.1976013183594,
+        526.8529968261719
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TRMVSM+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1708,
+      "Page": 5,
+      "Path": "//Document/P[37]",
+      "Text": "There are potential advantages to the robotic endoscopy platforms. The first is improved reach into the lung. Secondly, the improved reach along with the ability to hold the endoscope/catheter in a locked curved position may allow biopsy tools to stay on target without the straightening that currently plagues other systems. This benefit would also be crucial in the use of flexible ablation probes which are also discussed here. It’s also too early to tell if the shape sensing-based navigation platform will be more or less accurate than the traditional electromagnetic navigation-based systems. With one of these systems already FDA approved we anticipate assessment of these theoretical advances in the near future. ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 13,
+        "SpaceAfter": 18,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        308.9761047363281,
+        326.8970031738281,
+        514.7119750976562,
+        338.56300354003906
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Black",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Helvetica Black",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "QPYDCS+HelveticaBlack",
+        "subset": true,
+        "weight": 900
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1709,
+      "Page": 5,
+      "Path": "//Document/H1[6]",
+      "Text": "Bronchoscopic peripheral tumor ablation ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 11.375,
+        "SpaceAfter": 6.375
+      }
+    },
+    {
+      "Bounds": [
+        308.9761047363281,
+        229.01849365234375,
+        553.6861877441406,
+        318.8979949951172
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TRMVSM+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1710,
+      "Page": 5,
+      "Path": "//Document/P[38]",
+      "Text": "Given the improvements in access to various parts of the lung with different scope or catheter-based systems, one of the seemingly inevitable outcomes is the development of ablative modalities to apply energy to local areas of the lung as a treatment for malignancies in general and lung cancer specifically. Again, this is an emerging area of significant interest albeit with limited data to date. ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 13,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        308.9665985107422,
+        72.79100036621094,
+        554.0488433837891,
+        227.92599487304688
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TRMVSM+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1711,
+      "Page": 5,
+      "Path": "//Document/P[39]",
+      "Text": "The initial work in this area came from a Japanese group and built off of a treat and resect approach published in 2010 wherein different amounts of radiofrequency energy were applied to various lesions that subsequently underwent resection (20). Ultimately, they reported on two patients treated with a flexible radiofrequency ablation catheter-based system deployed via a CT-guided bronchoscopic approach to treat patients with medically inoperable, small peripheral lung cancers (21). One of the two patients recurred at the treated site after a 4-year interval and was retreated with the same system and has remained stable at a 12-month follow-up. The second patients remained stable ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 13,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        683.7675933837891,
+        154.7753448486328,
+        695.6710968017578
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TRMVSM+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1712,
+      "Page": 6,
+      "Path": "//Document/P[40]",
+      "Text": "at 40 months of follow-up. ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 11.375
+      }
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        579.7996063232422,
+        290.28321838378906,
+        682.6750946044922
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TRMVSM+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1713,
+      "Page": 6,
+      "Path": "//Document/P[41]",
+      "Text": "This was followed by another paper published by this group in 2015 which evaluated 23 peripheral lung lesions in 20 patients with early-stage non-small cell lung cancer again using a CT-guided bronchoscopic approach in conjunction with a cooled radiofrequency ablation (RFA) catheter (22). Local disease control was achieved in most patients, 82.6%, with median progression free survival of 35 months. In addition, there were no reported serious adverse events. ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 13,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        358.8675994873047,
+        290.7840118408203,
+        578.7071075439453
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TRMVSM+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1714,
+      "Page": 6,
+      "Path": "//Document/P[42]",
+      "Text": "Indeed, work has continued in this area and a recent case series from Xie et al. was published, wherein three patients were treated with a flexible RFA catheter, delivered with the aid of navigational bronchoscopy (23). In that setting, a total of three patients, two patients with nonsurgical stage IA lung cancer and one patient with a lung metastasis, underwent treatment with the RFA system utilizing navigational bronchoscopy. Partial responses were seen in two of the three patients with one of the patients having a complete response. One of the patients with a partial response developed progressive disease at 6-month followup. The other two patients had 1-year progression-free survival. There were no serious adverse events reported and they concluded that navigational bronchoscopic-guided RFA is a safe and feasible procedure for poor surgical candidates with stage IA lung cancer or oligometastatic disease to the lung. ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 13,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        228.7841033935547,
+        290.5572509765625,
+        357.7751007080078
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Janson Text LT",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "VULHUI+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1715,
+      "Page": 6,
+      "Path": "//Document/P[43]",
+      "Text": "Most recently, the first case was completed that employed a navigational platform utilizing a TBAT, a CBCT system for real-time visualization and further refinement of catheter position and ablation zone overlay, and a flexible microwave catheter, the Medtronic Emprint™ ablation catheter with thermosphere™ technology, to treat a patient at St. Bartholomew’s Hospital in London in the setting of a presumed single metastatic focus of endometrial cancer. The procedure was well tolerated with the successful delivery of ablation energy and the work in ongoing.  ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 13,
+        "SpaceAfter": 18,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        196.68359375,
+        165.572998046875,
+        208.34959411621094
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Black",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Helvetica Black",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "QPYDCS+HelveticaBlack",
+        "subset": true,
+        "weight": 900
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1716,
+      "Page": 6,
+      "Path": "//Document/H1[7]",
+      "Text": "On and over the horizon ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 11.375,
+        "SpaceAfter": 6.375
+      }
+    },
+    {
+      "Bounds": [
+        45.34480285644531,
+        72.81309509277344,
+        290.38677978515625,
+        188.68460083007812
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TRMVSM+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1799,
+      "Page": 6,
+      "Path": "//Document/P[44]/ParagraphSpan",
+      "Text": "Innovative and novel approaches to diagnosis and treatment of pulmonary nodules will, in all likelihood continue. Some will be developed “de-novo” and others will migrate from other specialties. These will include different energy sources for ablation (24), techniques for sentinel node identification (25), adjunctive and concomitant therapies delivered both independent of, as well as in conjunction with, local ablation (26) along with expanding the approach to endoscopic treatment in an effort to approach surgical ",
+      "TextSize": 9.5
+    },
+    {
+      "Bounds": [
+        308.9698028564453,
+        683.8150939941406,
+        339.92076110839844,
+        695.7185974121094
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TRMVSM+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1800,
+      "Page": 6,
+      "Path": "//Document/P[44]/ParagraphSpan[2]",
+      "Text": "results. ",
+      "TextSize": 9.5
+    },
+    {
+      "Bounds": [
+        308.9698028564453,
+        566.8511047363281,
+        553.6071319580078,
+        682.7225952148438
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TRMVSM+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1718,
+      "Page": 6,
+      "Path": "//Document/P[45]",
+      "Text": "To that end, the opportunity to endoscopically deliver treatment for early stage lung cancer in conjunction with sentinel lymph node identification and mediastinal staging is appealing. Additionally, the ability to treat not only the primary lesion but also of the various “exit” pathways from the tumor site through the treatment of the broncho-lymphatic-vascular bundle in one anesthetic event remains quite enticing and may suggest an opportunity to mimic surgical outcomes in early stage lung cancer. ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 13,
+        "SpaceAfter": 18,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        308.9698028564453,
+        534.7505950927734,
+        409.4541320800781,
+        546.4165954589844
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Black",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Helvetica Black",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "QPYDCS+HelveticaBlack",
+        "subset": true,
+        "weight": 900
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1719,
+      "Page": 6,
+      "Path": "//Document/H1[8]",
+      "Text": "Acknowledgements ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 11.375,
+        "SpaceAfter": 8
+      }
+    },
+    {
+      "Bounds": [
+        308.9698028564453,
+        514.8480987548828,
+        336.93780517578125,
+        526.7516021728516
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TRMVSM+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1720,
+      "Page": 6,
+      "Path": "//Document/P[46]",
+      "Text": "None. ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 11.375,
+        "SpaceAfter": 18
+      }
+    },
+    {
+      "Bounds": [
+        308.9698028564453,
+        482.7476043701172,
+        355.6204376220703,
+        494.4136047363281
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Black",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Helvetica Black",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "QPYDCS+HelveticaBlack",
+        "subset": true,
+        "weight": 900
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1721,
+      "Page": 6,
+      "Path": "//Document/H1[9]",
+      "Text": "Footnote ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 11.375,
+        "SpaceAfter": 6.375
+      }
+    },
+    {
+      "Bounds": [
+        308.9698028564453,
+        384.8690948486328,
+        553.3924407958984,
+        474.74859619140625
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": true,
+        "monospaced": false,
+        "name": "RONJQQ+JansonTextLT-Italic",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1722,
+      "Page": 6,
+      "Path": "//Document/P[47]",
+      "Text": "Conflicts of Interest: WS Krimsky is a part-time employee of Medtronic, serves as a consultant with options for Gala Therapeutics, Innovital Systems and Peytant Solutions, and works for CSA medical and Merit Medical. MA Pritchett serves as a consultant for Medtronic, Johnson & Johnson and AstraZeneca. KK Lau is a consultant for Medtronic and has received educational grant from Philips. ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 13,
+        "SpaceAfter": 18,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        308.9698028564453,
+        353.2720947265625,
+        368.39320373535156,
+        364.93809509277344
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Black",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Helvetica Black",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "QPYDCS+HelveticaBlack",
+        "subset": true,
+        "weight": 900
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1723,
+      "Page": 6,
+      "Path": "//Document/H1[10]",
+      "Text": "References ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 11.375,
+        "SpaceAfter": 6.75
+      }
+    },
+    {
+      "Bounds": [
+        308.9763946533203,
+        333.33180236816406,
+        318.66957092285156,
+        344.6087951660156
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TRMVSM+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1790,
+      "Page": 6,
+      "Path": "//Document/L/LI/Lbl",
+      "Text": "1. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        325.9864044189453,
+        281.34779357910156,
+        530.2693634033203,
+        344.6087951660156
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TRMVSM+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1791,
+      "Page": 6,
+      "Path": "//Document/L/LI/LBody",
+      "Text": "Hohenforst-Schmidt W, Zarogoulidis P, Vogl T, et al. Cone Beam Computertomography (CBCT) in Interventional Chest Medicine - High Feasibility for Endobronchial Realtime Navigation. J Cancer 2014;5:231-41. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        308.9763946533203,
+        268.33380126953125,
+        318.2283935546875,
+        279.6107940673828
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Janson Text LT",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "VULHUI+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1787,
+      "Page": 6,
+      "Path": "//Document/L/LI[2]/Lbl",
+      "Text": "2. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        325.9864044189453,
+        242.341796875,
+        546.6106567382812,
+        279.6107940673828
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Janson Text LT",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "VULHUI+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1788,
+      "Page": 6,
+      "Path": "//Document/L/LI[2]/LBody",
+      "Text": "Park SC, Kim CJ, Han CH, et al. Factors associated with the diagnostic yield of computed tomography-guided transbronchial lung biopsy. Thorac Cancer 2017;8:153-8. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        308.9763946533203,
+        229.33680725097656,
+        318.3094177246094,
+        240.61380004882812
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TRMVSM+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1784,
+      "Page": 6,
+      "Path": "//Document/L/LI[3]/Lbl",
+      "Text": "3. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        325.9864044189453,
+        203.3448028564453,
+        519.0606536865234,
+        240.61380004882812
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TRMVSM+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1785,
+      "Page": 6,
+      "Path": "//Document/L/LI[3]/LBody",
+      "Text": "Pritchett M. Cone-Beam CT Scanning With Electromagnetic Navigation Bronchoscopy. Chest 2014;146:728A. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        308.9763946533203,
+        190.3397979736328,
+        318.3094177246094,
+        201.61680603027344
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TRMVSM+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1781,
+      "Page": 6,
+      "Path": "//Document/L/LI[4]/Lbl",
+      "Text": "4. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        325.9864044189453,
+        164.34779357910156,
+        551.6523895263672,
+        201.61680603027344
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TRMVSM+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1782,
+      "Page": 6,
+      "Path": "//Document/L/LI[4]/LBody",
+      "Text": "Pritchett M, Radaelli A, Schampaert S, et al. Cone Beam CT-Guided Endobronchial Biopsy Assisted by Augmented Fluoroscopy. Chest 2017;152:A887. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        308.9763946533203,
+        151.34280395507812,
+        318.2283935546875,
+        162.6197967529297
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Janson Text LT",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "VULHUI+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1778,
+      "Page": 6,
+      "Path": "//Document/L/LI[5]/Lbl",
+      "Text": "5. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        325.9864044189453,
+        112.35479736328125,
+        547.7914428710938,
+        162.6197967529297
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Janson Text LT",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "VULHUI+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1779,
+      "Page": 6,
+      "Path": "//Document/L/LI[5]/LBody",
+      "Text": "Pritchett M. Feasibility of the Lungvision Augmented Endobronchial Fluoroscopic Navigation and Localization System: Comparison With Cone Beam CT for Nodule Localization. Chest 2017;152:A863. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        308.9763946533203,
+        99.34979248046875,
+        318.3094177246094,
+        110.62680053710938
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TRMVSM+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1774,
+      "Page": 6,
+      "Path": "//Document/L/LI[6]/Lbl",
+      "Text": "6. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        325.9864044189453,
+        73.35780334472656,
+        537.2974395751953,
+        110.62680053710938
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TRMVSM+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1776,
+      "Page": 6,
+      "Path": "//Document/L/LI[6]/LBody/ParagraphSpan",
+      "Text": "Stoy S, Hogarth D, Al-Zubaidi A, et al. Bronchoscopic Peripheral Lung Nodule Navigation by a Novel Live Endobronchial Fluoroscopic Navigation and Guidance ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        62.36219787597656,
+        671.335693359375,
+        255.00718688964844,
+        695.6087036132812
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TRMVSM+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1568,
+      "Page": 7,
+      "Path": "//Document/L/LI[6]/LBody/ParagraphSpan[2]",
+      "Text": "Systemtechnology: Insights From the Multicenter Lungvision I Trial. Chest 2017;152:A757. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        45.352203369140625,
+        658.3307037353516,
+        54.68522644042969,
+        669.6076965332031
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TRMVSM+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1569,
+      "Page": 7,
+      "Path": "//Document/L[2]/LI/Lbl",
+      "Text": "7. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        62.36219787597656,
+        619.3426971435547,
+        271.71116638183594,
+        669.6076965332031
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TRMVSM+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1570,
+      "Page": 7,
+      "Path": "//Document/L[2]/LI/LBody",
+      "Text": "Nelson G, Wu M, Hinkel C, et al. Improved targeting accuracy of lung tumor biopsies with scanning-beam digital x-ray tomosynthesis image guidance. Med Phys 2016;43:6282. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        45.352203369140625,
+        606.3377075195312,
+        54.60420227050781,
+        617.6147003173828
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Janson Text LT",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "VULHUI+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1571,
+      "Page": 7,
+      "Path": "//Document/L[2]/LI[2]/Lbl",
+      "Text": "8. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        62.36219787597656,
+        554.3536987304688,
+        279.99119567871094,
+        617.6147003173828
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Janson Text LT",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "VULHUI+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1572,
+      "Page": 7,
+      "Path": "//Document/L[2]/LI[2]/LBody",
+      "Text": "Khandhar SJ, Bowling MR, Flandes J, et al. Electromagnetic navigation bronchoscopy to access lung lesions in 1,000 subjects: first results of the prospective, multicenter NAVIGATE study. BMC Pulm Med 2017;17:59. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        45.352203369140625,
+        541.3397064208984,
+        54.68522644042969,
+        552.61669921875
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TRMVSM+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1573,
+      "Page": 7,
+      "Path": "//Document/L[2]/LI[3]/Lbl",
+      "Text": "9. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        62.36219787597656,
+        502.35169982910156,
+        284.66217041015625,
+        552.61669921875
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TRMVSM+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1574,
+      "Page": 7,
+      "Path": "//Document/L[2]/LI[3]/LBody",
+      "Text": "Herth FJ, Eberhardt R, Sterman D, et al. Bronchoscopic transparenchymal nodule access (BTPNA): first in human trial of a novel procedure for sampling solitary pulmonary nodules. Thorax 2015;70:326-32. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        45.352203369140625,
+        489.34669494628906,
+        59.27520751953125,
+        500.6237030029297
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Janson Text LT",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "VULHUI+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1575,
+      "Page": 7,
+      "Path": "//Document/L[2]/LI[4]/Lbl",
+      "Text": "10. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        62.36219787597656,
+        463.3547058105469,
+        288.53033447265625,
+        500.6237030029297
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Janson Text LT",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "VULHUI+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1576,
+      "Page": 7,
+      "Path": "//Document/L[2]/LI[4]/LBody",
+      "Text": "Harzheim D, Sterman D, Shah PL, et al. Bronchoscopic Transparenchymal Nodule Access: Feasibility and Safety in an Endoscopic Unit. Respiration 2016;91:302-6. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        45.352203369140625,
+        450.3497009277344,
+        59.356201171875,
+        461.62669372558594
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TRMVSM+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1577,
+      "Page": 7,
+      "Path": "//Document/L[2]/LI[5]/Lbl",
+      "Text": "11. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        62.36219787597656,
+        411.3616943359375,
+        288.52125549316406,
+        461.62669372558594
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TRMVSM+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1578,
+      "Page": 7,
+      "Path": "//Document/L[2]/LI[5]/LBody",
+      "Text": "Anciano C, Brown C, Bowling M. Going Off Road: The First Case Reports of the Use of the Transbronchial Access Tool With Electromagnetic Navigational Bronchoscopy. J Bronchology Interv Pulmonol 2017;24:253-6. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        45.352203369140625,
+        398.35670471191406,
+        59.356201171875,
+        409.6336975097656
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TRMVSM+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1579,
+      "Page": 7,
+      "Path": "//Document/L[2]/LI[6]/Lbl",
+      "Text": "12. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        62.36219787597656,
+        359.3686981201172,
+        275.2994689941406,
+        409.6336975097656
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TRMVSM+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1580,
+      "Page": 7,
+      "Path": "//Document/L[2]/LI[6]/LBody",
+      "Text": "Bowling MR, Brown C, Anciano CJ. Feasibility and Safety of the Transbronchial Access Tool for Peripheral Pulmonary Nodule and Mass. Ann Thorac Surg 2017;104:443-9. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        45.352203369140625,
+        346.3636932373047,
+        59.356201171875,
+        357.6407012939453
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TRMVSM+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1581,
+      "Page": 7,
+      "Path": "//Document/L[2]/LI[7]/Lbl",
+      "Text": "13. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        62.36219787597656,
+        307.3757019042969,
+        282.4725036621094,
+        357.6407012939453
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TRMVSM+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1582,
+      "Page": 7,
+      "Path": "//Document/L[2]/LI[7]/LBody",
+      "Text": "Callahan S, Tanner N, Chen A, et al. Comparison of the Thin Convex Probe Endobronchial Ultrasound Bronchoscope to Standard EBUS and Flexible Bronchoscope: A Cadaveric Study. Chest 2016;150:979A. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        45.352203369140625,
+        294.3706970214844,
+        59.356201171875,
+        305.647705078125
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TRMVSM+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1583,
+      "Page": 7,
+      "Path": "//Document/L[2]/LI[8]/Lbl",
+      "Text": "14. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        62.36219787597656,
+        255.38270568847656,
+        280.51145935058594,
+        305.647705078125
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TRMVSM+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1584,
+      "Page": 7,
+      "Path": "//Document/L[2]/LI[8]/LBody",
+      "Text": "Patel P, Wada H, Hu HP, et al. First Evaluation of the New Thin Convex Probe Endobronchial Ultrasound Scope: A Human Ex Vivo Lung Study. Ann Thorac Surg 2017;103:1158-64. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        45.352203369140625,
+        242.37770080566406,
+        59.27520751953125,
+        253.65469360351562
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Janson Text LT",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "VULHUI+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1585,
+      "Page": 7,
+      "Path": "//Document/L[2]/LI[9]/Lbl",
+      "Text": "15. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        62.36219787597656,
+        203.3896942138672,
+        288.667236328125,
+        253.65469360351562
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Janson Text LT",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "VULHUI+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1586,
+      "Page": 7,
+      "Path": "//Document/L[2]/LI[9]/LBody",
+      "Text": "Yarmus LB, Arias S, Feller-Kopman D, et al. Electromagnetic navigation transthoracic needle aspiration for the diagnosis of pulmonary nodules: a safety and feasibility pilot study. J Thorac Dis 2016;8:186-94. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        45.352203369140625,
+        190.38470458984375,
+        59.356201171875,
+        201.6616973876953
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TRMVSM+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1587,
+      "Page": 7,
+      "Path": "//Document/L[2]/LI[10]/Lbl",
+      "Text": "16. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        62.36219787597656,
+        177.38870239257812,
+        269.6681671142578,
+        201.6616973876953
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TRMVSM+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1588,
+      "Page": 7,
+      "Path": "//Document/L[2]/LI[10]/LBody/ParagraphSpan",
+      "Text": "Skibo S, Mattingley J, Alvarado C, et al. Performance of a Novel Pulmonary Needle Using Electromagnetic ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        325.9721984863281,
+        671.3896942138672,
+        552.1780700683594,
+        695.6627044677734
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Janson Text LT",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "VULHUI+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1589,
+      "Page": 7,
+      "Path": "//Document/L[2]/LI[10]/LBody/P",
+      "Text": "Navigation Bronchoscopy in a Porcine Lung Model. Chest 2017;152:A961. ",
+      "TextSize": 9.0,
+      "attributes": {
+        "LineHeight": 13
+      }
+    },
+    {
+      "Bounds": [
+        308.97120666503906,
+        658.3847045898438,
+        323.3354034423828,
+        669.6616973876953
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TRMVSM+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1590,
+      "Page": 7,
+      "Path": "//Document/L[2]/LI[11]/Lbl",
+      "Text": "17. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        325.981201171875,
+        632.3927001953125,
+        552.5098114013672,
+        669.6616973876953
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TRMVSM+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1591,
+      "Page": 7,
+      "Path": "//Document/L[2]/LI[11]/LBody",
+      "Text": "Chen A, Wahidi M, Gillespie C, et al. Robotic Endoscopic Airway Challenge: Reach Assessment. Chest 2017;152:A882. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        308.97120666503906,
+        619.3876953125,
+        322.97520446777344,
+        630.6647033691406
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TRMVSM+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1592,
+      "Page": 7,
+      "Path": "//Document/L[2]/LI[12]/Lbl",
+      "Text": "18. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        325.981201171875,
+        593.3957061767578,
+        545.4911956787109,
+        630.6647033691406
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TRMVSM+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1593,
+      "Page": 7,
+      "Path": "//Document/L[2]/LI[12]/LBody",
+      "Text": "Chen AC, Gillespie CT. Robotic Endoscopic Airway Challenge: REACH Assessment. Ann Thorac Surg 2018. [Epub ahead of print]. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        308.97120666503906,
+        580.3907012939453,
+        322.97520446777344,
+        591.6676940917969
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TRMVSM+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1594,
+      "Page": 7,
+      "Path": "//Document/L[2]/LI[13]/Lbl",
+      "Text": "19. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        325.981201171875,
+        541.4026947021484,
+        552.2782440185547,
+        591.6676940917969
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TRMVSM+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1595,
+      "Page": 7,
+      "Path": "//Document/L[2]/LI[13]/LBody",
+      "Text": "Fielding D, Bashirzadeh F, Son JH, et al. First Human Use of a New Robotic-Assisted Navigation System for Small Peripheral Pulmonary Nodules Demonstrates Good Safety Profile and High Diagnostic Yield. Chest 2017;152:A858. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        308.97120666503906,
+        528.397705078125,
+        322.8941955566406,
+        539.6746978759766
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Janson Text LT",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "VULHUI+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1596,
+      "Page": 7,
+      "Path": "//Document/L[2]/LI[14]/Lbl",
+      "Text": "20. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        325.981201171875,
+        476.4136962890625,
+        549.7626495361328,
+        539.6746978759766
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Janson Text LT",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "VULHUI+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1597,
+      "Page": 7,
+      "Path": "//Document/L[2]/LI[14]/LBody",
+      "Text": "Tanabe T, Koizumi T, Tsushima K, et al. Comparative study of three different catheters for CT imaging-bronchoscopy-guided radiofrequency ablation as a potential and novel interventional therapy for lung cancer. Chest 2010;137:890-7. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        308.97120666503906,
+        463.3997039794922,
+        322.8941955566406,
+        474.67669677734375
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Janson Text LT",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "VULHUI+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1598,
+      "Page": 7,
+      "Path": "//Document/L[2]/LI[15]/Lbl",
+      "Text": "21. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        325.981201171875,
+        424.4116973876953,
+        546.2444915771484,
+        474.67669677734375
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Janson Text LT",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "VULHUI+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1599,
+      "Page": 7,
+      "Path": "//Document/L[2]/LI[15]/LBody",
+      "Text": "Koizumi T, Kobayashi T, Tanabe T, et al. Clinical experience of bronchoscopy-guided radiofrequency ablation for peripheral-type lung cancer. Case Rep Oncol Med 2013;2013:515160. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        308.97120666503906,
+        411.4066925048828,
+        322.8941955566406,
+        422.68370056152344
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Janson Text LT",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "VULHUI+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1600,
+      "Page": 7,
+      "Path": "//Document/L[2]/LI[16]/Lbl",
+      "Text": "22. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        325.981201171875,
+        372.418701171875,
+        540.7203521728516,
+        422.68370056152344
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Janson Text LT",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "VULHUI+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1601,
+      "Page": 7,
+      "Path": "//Document/L[2]/LI[16]/LBody",
+      "Text": "Koizumi T, Tsushima K, Tanabe T, et al. Bronchoscopy-Guided Cooled Radiofrequency Ablation as a Novel Intervention Therapy for Peripheral Lung Cancer. Respiration 2015;90:47-55. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        308.97120666503906,
+        359.4136962890625,
+        323.3354034423828,
+        370.6907043457031
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TRMVSM+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1602,
+      "Page": 7,
+      "Path": "//Document/L[2]/LI[17]/Lbl",
+      "Text": "23. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        325.981201171875,
+        320.4257049560547,
+        552.2522430419922,
+        370.6907043457031
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TRMVSM+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1603,
+      "Page": 7,
+      "Path": "//Document/L[2]/LI[17]/LBody",
+      "Text": "Xie F, Zheng X, Xiao B, et al. Navigation Bronchoscopy-Guided Radiofrequency Ablation for Nonsurgical Peripheral Pulmonary Tumors. Respiration 2017;94:293-8. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        308.97120666503906,
+        307.4207000732422,
+        322.8941955566406,
+        318.69769287109375
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Janson Text LT",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "VULHUI+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1604,
+      "Page": 7,
+      "Path": "//Document/L[2]/LI[18]/Lbl",
+      "Text": "24. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        325.981201171875,
+        281.42869567871094,
+        539.6501770019531,
+        318.69769287109375
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Janson Text LT",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "VULHUI+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1605,
+      "Page": 7,
+      "Path": "//Document/L[2]/LI[18]/LBody",
+      "Text": "Zhong L, Sun S, Shi J, et al. Clinical analysis on 113 patients with lung cancer treated by percutaneous CT-guided microwave ablation. J Thorac Dis 2017;9:590-7. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        308.97120666503906,
+        268.4237060546875,
+        322.8941955566406,
+        279.70069885253906
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Janson Text LT",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "VULHUI+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1606,
+      "Page": 7,
+      "Path": "//Document/L[2]/LI[19]/Lbl",
+      "Text": "25. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        325.981201171875,
+        229.43569946289062,
+        552.2960968017578,
+        279.70069885253906
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Janson Text LT",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "VULHUI+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1607,
+      "Page": 7,
+      "Path": "//Document/L[2]/LI[19]/LBody",
+      "Text": "Digesu CS, Hachey KJ, Gilmore DM, et al. Long-term outcomes after near-infrared sentinel lymph node mapping in non-small cell lung cancer. J Thorac Cardiovasc Surg 2018;155:1280-91. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        308.97120666503906,
+        216.43069458007812,
+        322.8941955566406,
+        227.70770263671875
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Janson Text LT",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "VULHUI+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1608,
+      "Page": 7,
+      "Path": "//Document/L[2]/LI[20]/Lbl",
+      "Text": "26. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        325.981201171875,
+        190.43870544433594,
+        552.0971374511719,
+        227.70770263671875
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Janson Text LT",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "VULHUI+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1609,
+      "Page": 7,
+      "Path": "//Document/L[2]/LI[20]/LBody",
+      "Text": "Shiau AL, Teo ML, Chen SY, et al. Inhibition of experimental lung metastasis by systemic lentiviral delivery of kallistatin. BMC Cancer 2010;10:245. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        51.02360534667969,
+        88.34140014648438,
+        283.98655700683594,
+        151.07989501953125
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "OMZMAW+JansonTextLT-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1610,
+      "Page": 7,
+      "Path": "//Document/Aside/P",
+      "Text": "Cite this article as: Krimsky WS, Pritchett MA, Lau KK. Towards an optimization of bronchoscopic approaches to the diagnosis and treatment of the pulmonary nodules: a review. J Thorac Dis 2018;10(Suppl 14):S1637-S1644. doi: 10.21037/ jtd.2018.04.38 ",
+      "TextSize": 8.5,
+      "attributes": {
+        "LineHeight": 13,
+        "SpaceAfter": 18,
+        "TextAlign": "Justify"
+      }
+    }
+  ],
+  "pages": [
+    {
+      "boxes": {
+        "CropBox": [
+          0.0,
+          0.0,
+          595.2760009765625,
+          779.5280151367188
+        ],
+        "MediaBox": [
+          0.0,
+          0.0,
+          595.2760009765625,
+          779.5280151367188
+        ]
+      },
+      "height": 779.5280151367188,
+      "is_scanned": false,
+      "page_number": 0,
+      "rotation": 0,
+      "width": 595.2760009765625
+    },
+    {
+      "boxes": {
+        "CropBox": [
+          0.0,
+          0.0,
+          595.2760009765625,
+          779.5280151367188
+        ],
+        "MediaBox": [
+          0.0,
+          0.0,
+          595.2760009765625,
+          779.5280151367188
+        ]
+      },
+      "height": 779.5280151367188,
+      "is_scanned": false,
+      "page_number": 1,
+      "rotation": 0,
+      "width": 595.2760009765625
+    },
+    {
+      "boxes": {
+        "CropBox": [
+          0.0,
+          0.0,
+          595.2760009765625,
+          779.5280151367188
+        ],
+        "MediaBox": [
+          0.0,
+          0.0,
+          595.2760009765625,
+          779.5280151367188
+        ]
+      },
+      "height": 779.5280151367188,
+      "is_scanned": false,
+      "page_number": 2,
+      "rotation": 0,
+      "width": 595.2760009765625
+    },
+    {
+      "boxes": {
+        "CropBox": [
+          0.0,
+          0.0,
+          595.2760009765625,
+          779.5280151367188
+        ],
+        "MediaBox": [
+          0.0,
+          0.0,
+          595.2760009765625,
+          779.5280151367188
+        ]
+      },
+      "height": 779.5280151367188,
+      "is_scanned": false,
+      "page_number": 3,
+      "rotation": 0,
+      "width": 595.2760009765625
+    },
+    {
+      "boxes": {
+        "CropBox": [
+          0.0,
+          0.0,
+          595.2760009765625,
+          779.5280151367188
+        ],
+        "MediaBox": [
+          0.0,
+          0.0,
+          595.2760009765625,
+          779.5280151367188
+        ]
+      },
+      "height": 779.5280151367188,
+      "is_scanned": false,
+      "page_number": 4,
+      "rotation": 0,
+      "width": 595.2760009765625
+    },
+    {
+      "boxes": {
+        "CropBox": [
+          0.0,
+          0.0,
+          595.2760009765625,
+          779.5280151367188
+        ],
+        "MediaBox": [
+          0.0,
+          0.0,
+          595.2760009765625,
+          779.5280151367188
+        ]
+      },
+      "height": 779.5280151367188,
+      "is_scanned": false,
+      "page_number": 5,
+      "rotation": 0,
+      "width": 595.2760009765625
+    },
+    {
+      "boxes": {
+        "CropBox": [
+          0.0,
+          0.0,
+          595.2760009765625,
+          779.5280151367188
+        ],
+        "MediaBox": [
+          0.0,
+          0.0,
+          595.2760009765625,
+          779.5280151367188
+        ]
+      },
+      "height": 779.5280151367188,
+      "is_scanned": false,
+      "page_number": 6,
+      "rotation": 0,
+      "width": 595.2760009765625
+    },
+    {
+      "boxes": {
+        "CropBox": [
+          0.0,
+          0.0,
+          595.2760009765625,
+          779.5280151367188
+        ],
+        "MediaBox": [
+          0.0,
+          0.0,
+          595.2760009765625,
+          779.5280151367188
+        ]
+      },
+      "height": 779.5280151367188,
+      "is_scanned": false,
+      "page_number": 7,
+      "rotation": 0,
+      "width": 595.2760009765625
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "source": {
+    "document_id": "Rigid Bronchoscopy",
+    "ingest_date": "2025-08-08T15:16:46.575561+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1055/s-0038-1676647"
+  },
+  "document": {
+    "metadata": {
+      "title": "Rigid Bronchoscopy",
+      "year": 2018,
+      "authors": [
+        "Javier Diaz-Mendoza",
+        "A. Rolando Peralta",
+        "Labib Debiane",
+        "Michael J. Simoff"
+      ],
+      "journal": "Seminars in Respiratory and Critical Care Medicine",
+      "doi": "10.1055/s-0038-1676647",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Rigid bronchoscopy is one of the oldest medical techniques used in the respiratory and thoracic fields. Even though its use declined after the development of flexible bronchoscopy, it has again gained importance with the growth of interventional pulmonology, becoming a critical technique taught as part of the training in this subspecialty. The therapeutic advantages compared to other approaches of thoracic pathologies makes rigid bronchoscopy a primary component in the present and future of interventional pulmonary medicine.",
+      "methods": "Narrative review and technical overview of rigid bronchoscopy history, equipment, indications, techniques, stenting, and anesthesia considerations. No explicit systematic search strategy, inclusion criteria, or statistical methods reported.",
+      "results": "This article does not report original comparative trial results. It summarizes clinical uses of rigid bronchoscopy (e.g., massive hemoptysis management, foreign body removal, central airway obstruction, and airway stenting) and cites prior studies and series, including a case series reporting 31/32 patients with symptom improvement after bronchoscopic management of tracheal stenosis."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Patients undergoing or considered for rigid bronchoscopy for diagnostic or therapeutic airway interventions (e.g., massive hemoptysis, foreign body aspiration, central airway obstruction, airway stenosis).",
+      "inclusion_criteria": [],
+      "exclusion_criteria": []
+    },
+    "intervention": {
+      "text": "Rigid bronchoscopy",
+      "details": "Use of rigid bronchoscope for airway control, suction, mechanical debulking, ablative techniques (laser, argon plasma coagulation, electrocautery, cryotherapy), balloon dilation, and placement of silicone airway stents."
+    },
+    "comparison": {
+      "text": "",
+      "details": ""
+    },
+    "outcomes": [
+      {
+        "name": "Respiratory symptom improvement after bronchoscopic management of tracheal stenosis",
+        "type": "other",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "narrative_review",
+    "allocation": "na",
+    "blinding": "na",
+    "sites_count": 0,
+    "countries": [],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": []
+  },
+  "arms": [
+    {
+      "arm_id": "single_arm",
+      "name": "Bronchoscopic management of tracheal stenosis (laser + dilation for simple; dilation + stent for complex) as cited from Brichet et al.",
+      "n_randomized": 0,
+      "n_analyzed": 32,
+      "n_completed": 0
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "resp_symptom_improvement_tracheal_stenosis_post_bronchoscopic_management",
+      "name": "Respiratory symptom improvement after bronchoscopic management of tracheal stenosis",
+      "type": "binary",
+      "outcome_type": "other",
+      "timepoint_iso8601": "",
+      "timepoint_label": "",
+      "groups": [
+        {
+          "arm_id": "single_arm",
+          "raw": {
+            "events": 31,
+            "total": 32
+          }
+        }
+      ],
+      "analysis": {
+        "model": "single-arm proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Case series cited within review",
+        "missing_handling": "not reported"
+      },
+      "provenance": {
+        "pages": [
+          677
+        ],
+        "tables": [],
+        "quote": "Brichet et al described a dramatic improvement of respiratory symptoms in 31 out of 32 patients, when managed with a combination of laser and bronchoscopic dilatation (for simple stenosis) versus dilation with stent placement (for complex stenosis)."
+      }
+    }
+  ],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "Not applicable",
+    "overall_judgment": "not_applicable",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "rigid bronchoscopy",
+      "central airway obstruction",
+      "silicone stent",
+      "massive hemoptysis",
+      "tracheal stenosis",
+      "interventional pulmonology"
+    ],
+    "summary_tldr": "Narrative review: Rigid bronchoscopy is a core interventional pulmonology tool for airway control, debulking, dilation, and silicone stent placement; cited case series reported 31/32 patients improving in symptoms after bronchoscopic management of tracheal stenosis.",
+    "clinical_relevance": "Supports best-practice use of rigid bronchoscopy for therapeutic airway interventions and silicone stent deployment."
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "source": {
+    "document_id": "Iatrogenic bleeding during flexible bronchoscopy",
+    "ingest_date": "2025-08-08T13:22:51.334078+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1183/23120541.00084-2016"
+  },
+  "document": {
+    "metadata": {
+      "title": "Iatrogenic bleeding during flexible bronchoscopy: risk factors, prophylactic measures and management",
+      "year": 2017,
+      "authors": [
+        "Maurizio Bernasconi",
+        "Coenraad F.N. Koegelenberg",
+        "Angela Koutsokera",
+        "Adam Ogna",
+        "Alessio Casutt",
+        "Laurent Nicod",
+        "Alban Lovis"
+      ],
+      "journal": "ERJ Open Research",
+      "doi": "10.1183/23120541.00084-2016",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Significant iatrogenic bleeding during flexible bronchoscopy is fortunately rare and usually self-limiting. Life-threatening bleeding, however, can occur, especially after conventional or cryoprobe-assisted transbronchial biopsy. The aim of this review is to provide the practising pulmonologist with a concise overview of the incidence, severity and risk factors for bleeding, to provide sensible advice on prophylactic measures and to suggest a plan of action in the case of significant bleeding. Bronchoscopy units should have a standardised approach and plan of action in the case of life-threatening haemorrhage. Wedging the bronchoscope in the bleeding segment, turning the patient in an anti-Trendelenburg position and onto the side in order for the bleeding lung to be in the dependent position, installing vasoconstrictors and using a tamponade balloon early are the recommended first-line strategies. Involving a resuscitation team should be considered early in the case of massive bleeding, desaturation and haemodynamic instability.",
+      "methods": "References for this review were identified through searches of PubMed for articles published on this topic. Articles resulting from these searches and relevant references cited in those articles were reviewed.",
+      "results": "Bleeding during diagnostic flexible bronchoscopy occurs in 0.26% to 5% of cases, depending on definition, patient population and procedures performed. Transbronchial lung biopsy increases bleeding risk, with clinically moderate to severe bleeding reported in 1.1% to 2.8% of patients. Massive bleeding and mortality are rare and predominantly associated with therapeutic rather than diagnostic bronchoscopies, with incidences of 0.059% versus 0.031% for massive bleeding and 0.012% versus 0.003% for mortality, respectively. Endobronchial ultrasound-guided transbronchial needle aspiration shows very low bleeding risk, with bleeding in 3 of 1317 patients. Patient-related factors include lung malignancy, immunocompromise (notably lung transplant recipients), and theoretical concerns in pulmonary hypertension; in a prospective controlled trial, 24 patients with mean pulmonary arterial pressure 45 mmHg undergoing transbronchial biopsy experienced no significant bleeding or worsening hypoxaemia. Routine coagulation testing before flexible bronchoscopy with transbronchial biopsy has not predicted bleeding. Acetylsalicylic acid does not increase bleeding risk with transbronchial lung biopsy, whereas clopidogrel significantly increases clinically significant bleeding after transbronchial lung biopsy; prasugrel and ticagrelor, associated with higher platelet inhibition and spontaneous bleeding risk, should be withheld before invasive interventions. Prophylactic measures include careful patient selection, optimization of correctable risk factors, consideration of vasoconstrictor instillation for well-vascularised central endobronchial tumours, and early use of tamponade balloons, especially with cryobiopsy. Table-based recommendations suggest thresholds and periprocedural management for platelet counts, INR/PT, and timing of interruption and resumption of heparins, antiplatelets, and oral anticoagulants tailored to bronchoalveolar lavage, endobronchial biopsy/needle aspiration, and transbronchial lung biopsy."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults undergoing flexible bronchoscopy for diagnostic or therapeutic indications in pulmonary practice",
+      "inclusion_criteria": [
+        "Patients undergoing flexible bronchoscopy",
+        "Procedures including inspection, BAL, EBB, TBNA, EBUS-TBNA, TBLB, and cryobiopsy"
+      ],
+      "exclusion_criteria": [
+        "Not applicable (narrative review)"
+      ]
+    },
+    "intervention": {
+      "text": "Prophylactic measures and management strategies to prevent or control iatrogenic bleeding during flexible bronchoscopy",
+      "details": "Strategies include wedging the bronchoscope, patient positioning with bleeding lung dependent, instillation of vasoconstrictors (e.g., adrenaline/terlipressin) when bleeding is likely, early use of tamponade/occlusion balloon especially with cryobiopsy, and periprocedural management of anticoagulants/antiplatelets."
+    },
+    "comparison": {
+      "text": "Not applicable",
+      "details": "Narrative synthesis without randomized comparator arms"
+    },
+    "outcomes": [
+      {
+        "name": "Incidence and severity of bleeding with flexible bronchoscopy procedures",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Procedure-, patient-, haemostasis-, and tissue-related risk factors for bleeding",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Effect of antithrombotic therapies on bleeding risk",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Prophylactic and management measures for significant bleeding",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "narrative review",
+    "allocation": "none",
+    "blinding": "none",
+    "sites_count": 0,
+    "countries": [],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": []
+  },
+  "arms": [],
+  "outcomes_normalized": [],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "Not applicable",
+    "overall_judgment": "not_applicable",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "flexible bronchoscopy",
+      "iatrogenic bleeding",
+      "transbronchial lung biopsy",
+      "endobronchial ultrasound",
+      "cryobiopsy",
+      "anticoagulation",
+      "antiplatelet therapy",
+      "pulmonary hypertension"
+    ],
+    "summary_tldr": "Bleeding during flexible bronchoscopy is uncommon (0.26%-5%) but risk increases with transbronchial biopsy and cryobiopsy; clopidogrel elevates bleeding risk, while aspirin does not. Early mechanical tamponade and vasoconstrictors are key first-line measures.",
+    "clinical_relevance": "Provides practical risk stratification, periprocedural antithrombotic management, and stepwise control strategies for significant bleeding during bronchoscopy."
+  }
+}

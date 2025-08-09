@@ -1,0 +1,347 @@
+{
+  "source": {
+    "document_id": "Andriolo-2015-Early versus late tracheostomy f",
+    "ingest_date": "2025-08-08T09:44:25.944199+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1002/14651858.CD007271.pub3"
+  },
+  "document": {
+    "metadata": {
+      "title": "Early versus late tracheostomy for critically ill patients",
+      "year": 2015,
+      "authors": [
+        "Brenda NG Andriolo",
+        "Regis B Andriolo",
+        "Humberto Saconato",
+        "Álvaro N Atallah",
+        "Orsine Valente"
+      ],
+      "journal": "Cochrane Database of Systematic Reviews",
+      "doi": "10.1002/14651858.CD007271.pub3",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Background Long-term mechanical ventilation is the most common situation for which tracheostomy is indicated for patients in intensive care units (ICUs). 'Early' and 'late' tracheostomies are two categories of the timing of tracheostomy. Evidence on the advantages attributed to early versus late tracheostomy is somewhat conflicting but includes shorter hospital stays and lower mortality rates. Objectives To evaluate the effectiveness and safety of early (≤ 10 days after tracheal intubation) versus late tracheostomy (> 10 days after tracheal intubation) in critically ill adults predicted to be on prolonged mechanical ventilation with different clinical conditions. Search methods This is an update of a review last published in 2012 (Issue 3, The Cochrane Library) with previous searches run in December 2010. In this version, we searched the Cochrane Central Register of Controlled Trials (CENTRAL) (2013, Issue 8); MEDLINE (via PubMed) (1966 to August 2013); EMBASE (via Ovid) (1974 to August 2013); LILACS (1986 to August 2013); PEDro (1999 to August 2013) and CINAHL (1982 to August 2013). We reran the search in October 2014 and will deal with any studies of interest when we update the review. Selection criteria We included all randomized and quasi-randomized controlled trials comparing early tracheostomy (two to 10 days after intubation) against late tracheostomy (> 10 days after intubation) for critically ill adult patients expected to be on prolonged mechanical ventilation. Data collection and analysis Two review authors extracted data and conducted a quality assessment. Meta-analyses with random-effects models were conducted for mortality, time spent on mechanical ventilation and time spent in the ICU. Main results We included eight RCTs (N = 1977 participants). At the longest follow-up time available in these studies, evidence of moderate quality from seven RCTs (n = 1903) showed lower mortality rates in the early as compared with the late tracheostomy group (risk ratio 0.83, 95% CI 0.70 to 0.98; P value 0.03; number needed to treat for an additional beneficial outcome ≅ 11). Divergent results were reported on the time spent on mechanical ventilation and no differences were noted for pneumonia, but the probability of discharge from the ICU was higher at day 28 in the early tracheostomy group (risk ratio 1.29, 95% CI 1.08 to 1.55; P value 0.006; number needed to treat for an additional beneficial outcome ≅ 8). Authors' conclusions The whole findings of this systematic review are no more than suggestive of the superiority of early over late tracheostomy because no information of high quality is available for specific subgroups with particular characteristics.",
+      "methods": "Design: Systematic review and meta-analysis of randomized and quasi-randomized controlled trials. Databases: CENTRAL (2013, Issue 8), MEDLINE (1966 to August 2013), EMBASE (1974 to August 2013), LILACS (1986 to August 2013), PEDro (1999 to August 2013), CINAHL (1982 to August 2013). Search updated October 2014. Inclusion: Adult critically ill patients expected to require prolonged mechanical ventilation, randomized to early tracheostomy (2-10 days after intubation; ≤10 days) versus late tracheostomy (>10 days). Analysis: Random-effects meta-analyses for mortality, mechanical ventilation duration, and ICU length of stay.",
+      "results": "Eight RCTs (n = 1977) were included. For mortality at the longest available follow-up (28 days to 2 years), seven RCTs (n = 1903) showed lower mortality with early tracheostomy (risk ratio 0.83, 95% CI 0.70 to 0.98; P = 0.03). Ventilator-free days at 1-28 days from two studies (n = 335) suggested a mean difference of 1.62 days (95% CI -0.01 to 3.25). ICU discharge at day 28 was higher with early tracheostomy in two studies (n = 538) (risk ratio 1.29, 95% CI 1.08 to 1.55; P = 0.006). No significant differences were noted for pneumonia (five studies, n = 948). Heterogeneity for duration outcomes was substantial."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Critically ill adult patients in ICUs predicted to require prolonged mechanical ventilation",
+      "inclusion_criteria": [
+        "Adults in intensive care units",
+        "Expected to require prolonged mechanical ventilation",
+        "Randomized or quasi-randomized trials comparing early vs late tracheostomy"
+      ],
+      "exclusion_criteria": [
+        "Non-randomized studies",
+        "Pediatric populations",
+        "Trials not comparing timing of tracheostomy"
+      ]
+    },
+    "intervention": {
+      "text": "Early tracheostomy",
+      "details": "Tracheostomy performed within 2 to 10 days after tracheal intubation (≤10 days)"
+    },
+    "comparison": {
+      "text": "Late tracheostomy",
+      "details": "Tracheostomy performed more than 10 days after tracheal intubation (>10 days)"
+    },
+    "outcomes": [
+      {
+        "name": "Mortality at the longest follow-up available (28 days to 2 years)",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "ICU discharge at day 28",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Ventilator-free days (days 1-28)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Pneumonia",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "systematic_review_and_meta_analysis",
+    "allocation": "not_applicable",
+    "blinding": "not_applicable",
+    "sites_count": 0,
+    "countries": [],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 1977,
+      "analyzed": 1903
+    },
+    "analysis_populations": [
+      {
+        "name": "All included participants",
+        "description": "All randomized participants across included trials",
+        "n": 1977
+      },
+      {
+        "name": "Mortality analysis dataset",
+        "description": "Participants included in mortality at longest follow-up meta-analysis (7 RCTs)",
+        "n": 1903
+      },
+      {
+        "name": "ICU discharge at day 28 dataset",
+        "description": "Participants included in ICU discharge at day 28 meta-analysis (2 RCTs)",
+        "n": 538
+      },
+      {
+        "name": "Ventilator-free days dataset",
+        "description": "Participants included in ventilator-free days (1-28 days) meta-analysis (2 RCTs)",
+        "n": 335
+      },
+      {
+        "name": "Pneumonia dataset",
+        "description": "Participants included in pneumonia analysis (5 RCTs)",
+        "n": 948
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "Early tracheostomy (≤10 days after intubation)",
+      "n_randomized": 0,
+      "n_analyzed": 0,
+      "n_completed": 0
+    },
+    {
+      "arm_id": "control",
+      "name": "Late tracheostomy (>10 days after intubation)",
+      "n_randomized": 0,
+      "n_analyzed": 0,
+      "n_completed": 0
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "mortality_longest_followup",
+      "name": "All-cause mortality at longest follow-up",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": null,
+      "timepoint_label": "Longest follow-up (28 days to 2 years)",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": null,
+            "total": null
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": null,
+            "total": null
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_ratio",
+        "est": 0.83,
+        "ci_lower": 0.7,
+        "ci_upper": 0.98,
+        "ci_level": 0.95,
+        "p_value": 0.03,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "random-effects",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Pooled across 7 RCTs (n=1903)",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "table_number": null,
+        "quote": "Risk ratio (RR) 0.83, 95% CI 0.70 to 0.98; P value 0.03 (7 RCTs; n=1903)."
+      }
+    },
+    {
+      "concept_id": "icu_discharge_day28",
+      "name": "ICU discharge at day 28",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P28D",
+      "timepoint_label": "28 days",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": null,
+            "total": null
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": null,
+            "total": null
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_ratio",
+        "est": 1.29,
+        "ci_lower": 1.08,
+        "ci_upper": 1.55,
+        "ci_level": 0.95,
+        "p_value": 0.006,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "random-effects",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Pooled across 2 RCTs (n=538)",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "table_number": null,
+        "quote": "Probability of discharge from the ICU was higher at day 28 in the early tracheostomy group (RR 1.29, 95% CI 1.08 to 1.55; P value 0.006; 2 studies; n=538)."
+      }
+    },
+    {
+      "concept_id": "ventilator_free_days_1_28",
+      "name": "Ventilator-free days during 1 to 28 days",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P28D",
+      "unit": "days",
+      "unit_canonical": "day",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": null,
+            "sd": null,
+            "total": null
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "mean": null,
+            "sd": null,
+            "total": null
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "mean_difference",
+        "est": 1.62,
+        "ci_lower": -0.01,
+        "ci_upper": 3.25,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "random-effects",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Pooled across 2 RCTs (n=335)",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "Mean ventilator-free days during 1 to 28 days in the intervention groups was 1.62 higher (0.01 lower to 3.25 higher) (2 studies; n=335)."
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Pneumonia",
+      "meddra": {
+        "soc": "Infections and infestations",
+        "pt": "Pneumonia"
+      },
+      "serious": null,
+      "seriousness_criteria": [],
+      "groups": [],
+      "period": "",
+      "management": "",
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "No differences were noted for pneumonia (5 studies; n=948)."
+      }
+    },
+    {
+      "event_name": "Sternal wound infection",
+      "meddra": {
+        "soc": "Infections and infestations",
+        "pt": "Wound infection"
+      },
+      "serious": null,
+      "seriousness_criteria": [],
+      "groups": [],
+      "period": "",
+      "management": "",
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "Evidence quality for sternal wound infection was low; data not estimable."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "AMSTAR 2",
+    "overall_judgment": "moderate",
+    "domains": [
+      {
+        "name": "Literature search",
+        "judgment": "low",
+        "support_for_judgment": "Multiple databases searched with update; search strategy described."
+      },
+      {
+        "name": "Study selection and data extraction",
+        "judgment": "low",
+        "support_for_judgment": "Two reviewers performed selection and extraction."
+      },
+      {
+        "name": "Risk of bias in individual studies",
+        "judgment": "some concerns",
+        "support_for_judgment": "Included RCTs varied in quality; heterogeneity noted for some outcomes."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "tracheostomy",
+      "timing",
+      "critical care",
+      "mechanical ventilation",
+      "ICU",
+      "early tracheostomy",
+      "late tracheostomy"
+    ],
+    "summary_tldr": "Early tracheostomy reduced all-cause mortality at longest follow-up (RR 0.83; P=0.03) and increased ICU discharge by day 28 (RR 1.29; P=0.006).",
+    "clinical_relevance": "Supports consideration of earlier tracheostomy in selected critically ill adults; effect sizes modest with heterogeneity for duration outcomes."
+  }
+}

@@ -1,0 +1,411 @@
+{
+  "source": {
+    "document_id": "Treatment of Pulmonary Carcinoid Tumors",
+    "ingest_date": "2025-08-08T16:37:14.097357+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1097/LBR.0000000000000791"
+  },
+  "document": {
+    "metadata": {
+      "title": "Treatment of Pulmonary Carcinoid Tumors With Bronchoscopic Cryotherapy: A 28-Year Single-center Experience",
+      "year": 2022,
+      "authors": [
+        "Periklis Perikleous",
+        "Nora Mayer",
+        "Jonathan Finch",
+        "Emma Beddow",
+        "Vladimir Anikin",
+        "Nizar Asadi"
+      ],
+      "journal": "Journal of Bronchology & Interventional Pulmonology",
+      "doi": "10.1097/LBR.0000000000000791",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Background: Pulmonary carcinoids are rare tumors originating from neuroendocrine cells in the lungs. Because of their potentially infiltrative nature, surgical resection remains the treatment of choice. However, not all patients with technically resectable disease will be able to undergo surgery, primarily because of poor lung function or medical co-morbidities. Centrally located, intraluminal tumors have been reported to be amenable to bronchoscopic treatment. We specifically examined the role of cryotherapy in the treatment of bronchial carcinoid tumors. Methods: Sixty-three patients (52.38% female) who underwent a combined total of 243 cryotherapy procedures for treatment of bronchial carcinoid between 1992 and 2020 in our institution were included. Following multidisciplinary discussion, patients were considered for first-line cryotherapy when lung resection was deemed not possible or when they had rejected surgery. Results: Cryotherapy resulted in complete remission in 21 (33.33%) patients with maximum tumor diameter less than 20 mm (mean 11.08 mm, 95% CI 8.76-13.40), and allowed 22 (34.92%) patients with larger lesions (mean 24.04 mm, 95% CI 18.78-29.30) to proceed with parenchymal sparing resections. Marked symptomatic relief (P < 0.001) was reported by 58 (92.06%) patients. Median follow-up was 33 months (range 0-243). One (1.59%) patient had recurrence in a contralateral lobe 3 years after surgery and was treated with radiofrequency ablation. Conclusions: We provide evidence on the safety and efficacy of cryotherapy and encourage wider adoption of this inexpensive and minimally invasive technique for treatment of bronchial carcinoids.",
+      "methods": "Retrospective, observational, single-center study including 63 patients treated with first-line bronchoscopic cryotherapy for endobronchial carcinoid between 1992 and 2020. Patients were discussed in a multidisciplinary team and selected for cryotherapy if lung resection was not possible due to poor pulmonary function or medical comorbidities, or if surgery was refused. Cryotherapy was performed under general anesthesia using flexible bronchoscopy via a Negus rigid bronchoscope with jet ventilation (alternatively via endotracheal tube or laryngeal mask). With the lesion in direct vision, the cryoprobe was applied typically for 4 minutes per application; number of applications depended on size, site, and macroscopic characteristics. Biopsy for histologic confirmation was taken via cryoextraction or forceps. Bleeding was managed with 10 ml boluses of adrenaline 1:100,000 and/or cryoprobe application at the bleeding point. Repeat bronchoscopy was scheduled within 4-6 weeks to assess response and resectability; further procedures were performed as indicated for cryodebulking or cryorecanalization. Antibiotics were prescribed based on clinical indications. Data were collected from archived research material, prospectively populated databases, operative logbooks, and medical records. Numeric data were summarized as mean (95% CI) or median (range). Tumor size was assessed radiographically at baseline; endoscopic/histopathologic findings were used to estimate size post-treatment, assigning 0 mm if no visible tumor and negative histology. A two-tailed t test was used to analyze tumor size before and after cryotherapy. Symptomatology and degree of airway obstruction before and after treatment were analyzed with the Wilcoxon paired-signed ranks test. Cases with insufficient data, including 2 patients lost to follow-up, were excluded from statistical analyses.",
+      "results": "Sixty-three patients (52.38% female), median age 48 years (range 17-88), received first-line cryotherapy when considered inoperable (69.84%) or if they refused surgery (7.93%). Typical carcinoid in 58 (92.06%) and atypical in 5 (7.93%). Tumor location: main bronchus 20 (31.75%), bronchus intermedius 15 (23.81%), lobar bronchus 28 (44.44%). Median cryotherapy applications per patient were 3 (range 1-18); median interval between procedures 35 days (range 6-3556). Bronchoscopic cryotherapy resulted in marked symptomatic relief in 58 (92.06%) patients who had undergone 3 or fewer cryoablations (P < 0.001). No immediate or late postprocedural complications occurred; all patients were discharged the same day; none required re-admission. Transient cough with blood-stained sputum resolved within 3-5 days. Complete tumor removal with cryotherapy alone occurred in 18 (28.57%) patients with typical carcinoid; an additional 3 patients who underwent surgery had no residual tumor on final histology, totaling 21 (33.33%) with complete remission attributable to cryotherapy. Thirty-two (50.79%) patients underwent surgery after cryotherapy; tumor size reduction was achieved in 29/32 and 22 (34.92% overall) underwent bronchoplastic/sleeve parenchymal-sparing resections; none required more extensive resection than initially anticipated and 13 ultimately required lesser procedures, avoiding 9 pneumonectomies and 4 bilobectomies. Median follow-up for survivors as of July 2020 was 33 months (range 0-243). One patient had contralateral lobe recurrence 3 years after surgery, managed with radiofrequency ablation."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Patients with endobronchial pulmonary carcinoid tumors managed with first-line bronchoscopic cryotherapy at a single UK thoracic surgery center (1992-2020).",
+      "inclusion_criteria": [
+        "Diagnosed endobronchial pulmonary carcinoid (typical or atypical) by histology",
+        "Considered for first-line bronchoscopic cryotherapy after multidisciplinary discussion",
+        "Surgery deemed not possible due to poor pulmonary function or medical comorbidities, or patient refusal of surgery"
+      ],
+      "exclusion_criteria": [
+        "Insufficient data for specific statistical analyses (including 2 patients lost to follow-up)"
+      ]
+    },
+    "intervention": {
+      "text": "Bronchoscopic cryotherapy",
+      "details": "Under general anesthesia using flexible bronchoscopy via a rigid bronchoscope with jet ventilation (or via endotracheal tube/laryngeal mask). Cryoprobe applications typically 4 minutes per application; number based on lesion characteristics. Biopsy via cryoextraction or forceps. Hemostasis with 10 ml adrenaline 1:100,000 and/or cryoprobe. Repeat bronchoscopy at 4-6 weeks; additional sessions for cryodebulking or recanalization as indicated."
+    },
+    "comparison": {
+      "text": "None (single-arm observational study)",
+      "details": "Pre- versus post-treatment assessments of symptoms and airway obstruction using paired analyses."
+    },
+    "outcomes": [
+      {
+        "name": "Marked symptomatic relief after cryotherapy",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Complete tumor remission attributable to cryotherapy",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Proceeding to parenchymal-sparing resection after cryotherapy",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Any procedure-related complication or readmission",
+        "type": "safety",
+        "umls_cui": ""
+      },
+      {
+        "name": "Contralateral lobe recurrence after treatment",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "observational",
+    "allocation": "non-randomized",
+    "blinding": "none",
+    "sites_count": 1,
+    "countries": [
+      "UK"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 63,
+      "analyzed": 63
+    },
+    "analysis_populations": [
+      {
+        "name": "Treated",
+        "description": "All patients who underwent first-line bronchoscopic cryotherapy",
+        "n": 63
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "Bronchoscopic cryotherapy",
+      "n_randomized": 0,
+      "n_analyzed": 63,
+      "n_completed": 63
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "symptomatic_relief_post_cryo",
+      "name": "Marked symptomatic relief after cryotherapy",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P1M",
+      "timepoint_label": "First post-treatment assessment (within 4-6 weeks)",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 58,
+            "total": 63
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "intervention",
+        "measure": "single_group_proportion",
+        "est": 0.921,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": 0.001,
+        "p_operator": "<",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Wilcoxon paired-signed ranks test (pre- vs post-treatment symptom scores)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Patients with paired symptom data"
+      },
+      "provenance": {
+        "pages": [
+          71,
+          73
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "Bronchoscopic cryotherapy resulted in marked symptomatic relief in 58 (92.06%) patients who had undergone 3 or less cryoablation procedures (P < 0.001)."
+      }
+    },
+    {
+      "concept_id": "complete_remission_cryo_only",
+      "name": "Complete tumor removal with cryotherapy alone",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0M",
+      "timepoint_label": "End of cryotherapy treatment course",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 18,
+            "total": 63
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "intervention",
+        "measure": "single_group_proportion",
+        "est": 0.286,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated"
+      },
+      "provenance": {
+        "pages": [
+          74
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Complete tumor removal with cryotherapy alone: 18 patients (28.57%)."
+      }
+    },
+    {
+      "concept_id": "complete_remission_any_residual_absent",
+      "name": "Complete remission attributable to cryotherapy (including no residual tumor at surgery)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0M",
+      "timepoint_label": "End of initial treatment sequence (cryo ± surgery)",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 21,
+            "total": 63
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "intervention",
+        "measure": "single_group_proportion",
+        "est": 0.333,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated"
+      },
+      "provenance": {
+        "pages": [
+          71,
+          74
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Cryotherapy resulted in complete remission in 21 (33.33%) patients with maximum tumor diameter less than 20 mm..."
+      }
+    },
+    {
+      "concept_id": "parenchymal_sparing_resection_after_cryo",
+      "name": "Underwent parenchymal-sparing (bronchoplastic/sleeve) resection after cryotherapy",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0M",
+      "timepoint_label": "At time of subsequent surgery after cryotherapy",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 22,
+            "total": 63
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "intervention",
+        "measure": "single_group_proportion",
+        "est": 0.349,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated; subset undergoing surgery n=32"
+      },
+      "provenance": {
+        "pages": [
+          71,
+          74
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "…allowed 22 (34.92%) patients with larger lesions … to proceed with parenchymal sparing resections."
+      }
+    },
+    {
+      "concept_id": "contralateral_recurrence_post_treatment",
+      "name": "Contralateral lobe recurrence after initial treatment",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P36M",
+      "timepoint_label": "36 months after surgery",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 1,
+            "total": 63
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "intervention",
+        "measure": "single_group_proportion",
+        "est": 0.016,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated"
+      },
+      "provenance": {
+        "pages": [
+          71
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "One (1.59%) patient was diagnosed with recurrence in a contralateral lobe 3 years after surgery and was treated with radiofrequency ablation."
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Any procedure-related complication",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Procedural complication"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 63
+        }
+      ],
+      "period": "Peri-procedural to late postprocedural follow-up",
+      "management": "",
+      "provenance": {
+        "pages": [
+          73
+        ],
+        "tables": [],
+        "quote": "No immediate or late postprocedural complications had occurred from bronchoscopic cryotherapy; all patients were discharged home on the same day after their procedure and none required re-admission."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "ROBINS-I",
+    "overall_judgment": "serious",
+    "domains": [
+      {
+        "name": "Confounding",
+        "judgment": "serious",
+        "support_for_judgment": "Single-arm retrospective cohort without control group; patient selection based on operability and preferences."
+      },
+      {
+        "name": "Selection of participants",
+        "judgment": "moderate",
+        "support_for_judgment": "Institutional cohort with MDT selection; inclusion dependent on clinical inoperability or refusal."
+      },
+      {
+        "name": "Classification of interventions",
+        "judgment": "low",
+        "support_for_judgment": "Intervention well defined as bronchoscopic cryotherapy."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "low",
+        "support_for_judgment": "Care pathways described; repeat procedures planned; no deviations reported."
+      },
+      {
+        "name": "Missing data",
+        "judgment": "moderate",
+        "support_for_judgment": "Two patients lost to follow-up and some insufficient data excluded from specific analyses."
+      },
+      {
+        "name": "Measurement of outcomes",
+        "judgment": "moderate",
+        "support_for_judgment": "Symptom relief assessed clinically; histologic and bronchoscopic assessments used for remission; potential assessor bias without blinding."
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "moderate",
+        "support_for_judgment": "Multiple outcomes reported; limited statistical details for some analyses."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "pulmonary carcinoid",
+      "bronchoscopic cryotherapy",
+      "endobronchial tumor",
+      "parenchymal-sparing resection",
+      "sleeve resection"
+    ],
+    "summary_tldr": "In a 63-patient single-center cohort, first-line bronchoscopic cryotherapy achieved marked symptomatic relief in 58/63 and complete remission attributable to cryotherapy in 21/63, with no reported procedural complications; 22/63 proceeded to parenchymal-sparing resections.",
+    "clinical_relevance": "Suggests bronchoscopic cryotherapy is a safe, minimally invasive option for selected centrally located endobronchial carcinoids, offering symptom relief, potential remission, and facilitating parenchymal-sparing surgery when needed."
+  }
+}

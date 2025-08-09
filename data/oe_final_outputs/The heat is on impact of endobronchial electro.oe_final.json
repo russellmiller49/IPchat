@@ -1,0 +1,428 @@
+{
+  "source": {
+    "document_id": "The heat is on impact of endobronchial electro",
+    "ingest_date": "2025-08-08T16:20:02.597597+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": ""
+  },
+  "document": {
+    "metadata": {
+      "title": "The Heat Is On: Impact of Endobronchial Electrosurgery on the Need for Nd-YAG Laser Photoresection",
+      "year": 2000,
+      "authors": [
+        "Terrence D. Coulter",
+        "Atul C. Mehta"
+      ],
+      "journal": "CHEST",
+      "doi": "",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Study objectives: Advances in bronchoscopic electrosurgery have allowed its application in the outpatient setting in patients who otherwise would have required Nd-YAG laser photoresection (LPR) in the operating room. We intended to evaluate the impact of endobronchial electrosurgery (EBES) on the need for Nd-YAG LPR on patients with symptomatic airway lesions. Design: Prospective observational case series. Participants: One hundred eighteen evaluations for LPR were performed. Forty-seven evaluations (40%) were considered to be amendable to EBES and were treated during the initial bronchoscopy. The remaining patients underwent LPR. Setting: Outpatient bronchoscopy suite at the Cleveland Clinic Foundation, Cleveland, OH. Results: Of the 47 procedures, 42 (89%) were successful in alleviating the obstruction, thus eliminating the need for LPR. No major complications were encountered. Conclusion: EBES can be performed safely in the outpatient setting and is an effective procedure in treating select endobronchial lesions. EBES eliminated the need for LPR in 36% of such procedures with a potential for significant time and cost savings.",
+      "methods": "Prospective evaluation of patients referred for Nd-YAG laser photoresection (LPR) since August 1997. During the study period, 118 evaluations for LPR were performed. If during initial flexible bronchoscopy an endobronchial lesion amenable to EBES was encountered, EBES was attempted in the outpatient bronchoscopy suite under conscious sedation. Eligibility for EBES required < 50% luminal obstruction, visualized size < 2 cm, limited vascularity, and estimated procedure time < 1 h. EBES was performed using a flexible bronchoscope (Olympus BF 240) and an electrosurgical unit (Olympus PSD-10) with cut, coagulate, and blend modes delivered via accessories (polypectomy snare, coagulation probe, forceps, cutting blade). Pedunculated lesions were resected with a snare; sessile lesions were ablated with a coagulation probe; concentric web-like strictures were incised with a blade followed by balloon dilation. Success was defined as relief of obstruction eliminating the need for LPR. Procedures exceeding 1 h or limited by intolerance (excessive bleeding or coughing) were considered unsuccessful. Monitoring included continuous oxygen saturation, ECG, and BP; supplemental oxygen was titrated to maintain saturation > 92%.",
+      "results": "Thirty-eight patients (22 men, 16 women; age 24-85 years) underwent 47 EBES procedures treating 68 lesions. One patient required four procedures, one required three, and three patients required two for recurrent disease. Lesion etiologies included benign (papillomatosis, granulation tissue, lipoma, hamartoma, stenosis) and malignant (bronchogenic carcinoma, renal cell carcinoma, colon adenocarcinoma, sarcoma, lymphoma, carcinoid). Lesion locations included trachea (24), mainstem bronchi (27), lobar bronchi (16), and tracheostomy stoma (1). EBES was successful in 42 of 47 procedures (89%), eliminating the need for LPR. Failures occurred in lesions larger or more extensive than anticipated or with significant vascularity. Complications were few: bleeding (4), limited field of view (3), transient desaturation (1), excessive cough (1). No hospitalizations or endotracheal intubations occurred as a consequence of the procedure. Across the 118 LPR evaluations during the period, EBES eliminated LPR in 42 cases (~36%)."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Patients with symptomatic tracheobronchial obstruction referred for evaluation for Nd-YAG laser photoresection at a single tertiary center.",
+      "inclusion_criteria": [
+        "Referred for evaluation for Nd-YAG LPR",
+        "Endobronchial lesion encountered on flexible bronchoscopy amenable to EBES: < 50% luminal obstruction",
+        "Lesion size < 2 cm in greatest dimension",
+        "Limited vascularity",
+        "Estimated procedure time < 1 hour"
+      ],
+      "exclusion_criteria": [
+        "Lesions not meeting EBES amenability criteria",
+        "Inability to tolerate procedure (excessive bleeding or coughing leading to discontinuation)",
+        "Procedural time > 1 hour"
+      ]
+    },
+    "intervention": {
+      "text": "Endobronchial electrosurgery (EBES)",
+      "details": "Outpatient flexible bronchoscopy with Olympus BF 240 and Olympus PSD-10 electrosurgical unit (cut, coagulate, blend modes; 0-80 W). Accessories: polypectomy snare, coagulation probe, forceps, cutting blade. Pedunculated lesions resected with snare using blend mode; sessile lesions ablated with probe; web-like strictures incised with blade and dilated with balloon. Conscious sedation with morphine and midazolam, topical 2% lidocaine (≤ 7 mg/kg over 45 min), oxygen titrated to saturation > 92%."
+    },
+    "comparison": {
+      "text": "Nd-YAG laser photoresection (LPR)",
+      "details": "Performed in operating room under general anesthesia using flexible bronchoscope; used for patients not amenable to EBES or after unsuccessful EBES."
+    },
+    "outcomes": [
+      {
+        "name": "Procedural success (relief of obstruction eliminating need for LPR)",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Periprocedural complications (bleeding, hypoxemia, cough, visualization issues)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Proportion of all LPR evaluations in which LPR was avoided by EBES",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Observational case series",
+    "allocation": "nonrandomized",
+    "blinding": "none",
+    "sites_count": 1,
+    "countries": [
+      "US"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 38,
+      "analyzed": 38
+    },
+    "analysis_populations": [
+      {
+        "name": "Procedures",
+        "description": "All EBES procedures performed",
+        "n": 47
+      },
+      {
+        "name": "Patients",
+        "description": "Unique patients undergoing EBES",
+        "n": 38
+      },
+      {
+        "name": "All evaluations",
+        "description": "All evaluations for Nd-YAG LPR during the study period",
+        "n": 118
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "ebes",
+      "name": "Endobronchial electrosurgery (EBES)",
+      "n_randomized": 0,
+      "n_analyzed": 47,
+      "n_completed": 47
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "procedural_success_eliminate_lpr_immediate",
+      "name": "Procedural success (relief of obstruction eliminating need for LPR)",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "PT0H",
+      "timepoint_label": "Immediate post-procedure",
+      "groups": [
+        {
+          "arm_id": "ebes",
+          "raw": {
+            "events": 42,
+            "total": 47
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "ebes",
+        "measure": "single_proportion",
+        "est": 0.894,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All EBES procedures",
+        "missing_handling": "Not applicable (complete procedural counts)"
+      },
+      "provenance": {
+        "pages": [
+          517
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "Successful results were seen in 42 procedures (89%), thus eliminating need for the LPR."
+      }
+    },
+    {
+      "concept_id": "lpr_avoided_among_all_evaluations",
+      "name": "LPR avoided among all LPR evaluations during study period",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "PT0H",
+      "timepoint_label": "Index evaluation",
+      "groups": [
+        {
+          "arm_id": "ebes",
+          "raw": {
+            "events": 42,
+            "total": 118
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "ebes",
+        "measure": "single_proportion",
+        "est": 0.356,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All evaluations for LPR during the period (impact analysis)",
+        "missing_handling": "Not applicable"
+      },
+      "provenance": {
+        "pages": [
+          516
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "EBES eliminated the need for LPR in 36% of such procedures."
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Haemorrhage",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Haemorrhage"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "ebes",
+          "events": 4,
+          "patients": 4,
+          "percentage": 8.5,
+          "total": 47
+        }
+      ],
+      "period": "intra-procedural",
+      "management": "",
+      "provenance": {
+        "pages": [
+          520
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "quote": "Bleeding 4"
+      }
+    },
+    {
+      "event_name": "Intraoperative complications",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Intraoperative complications"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "ebes",
+          "events": 3,
+          "patients": 3,
+          "percentage": 6.4,
+          "total": 47
+        }
+      ],
+      "period": "intra-procedural",
+      "management": "",
+      "provenance": {
+        "pages": [
+          520
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "quote": "Limited field of view 3"
+      }
+    },
+    {
+      "event_name": "Hypoxaemia",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Hypoxaemia"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "ebes",
+          "events": 1,
+          "patients": 1,
+          "percentage": 2.1,
+          "total": 47
+        }
+      ],
+      "period": "intra-procedural",
+      "management": "",
+      "provenance": {
+        "pages": [
+          517
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "quote": "Transient desaturation 1"
+      }
+    },
+    {
+      "event_name": "Cough",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Cough"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "ebes",
+          "events": 1,
+          "patients": 1,
+          "percentage": 2.1,
+          "total": 47
+        }
+      ],
+      "period": "intra-procedural",
+      "management": "",
+      "provenance": {
+        "pages": [
+          517
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "quote": "Excessive cough 1"
+      }
+    },
+    {
+      "event_name": "Hospitalization",
+      "meddra": {
+        "soc": "Social circumstances",
+        "pt": "Hospitalisation"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "hospitalization"
+      ],
+      "groups": [
+        {
+          "arm_id": "ebes",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 47
+        }
+      ],
+      "period": "post-procedural",
+      "management": "",
+      "provenance": {
+        "pages": [
+          517
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "quote": "Hospital admissions 0"
+      }
+    },
+    {
+      "event_name": "Endotracheal intubation",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Endotracheal intubation complication"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "life-threatening"
+      ],
+      "groups": [
+        {
+          "arm_id": "ebes",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 47
+        }
+      ],
+      "period": "post-procedural",
+      "management": "",
+      "provenance": {
+        "pages": [
+          517
+        ],
+        "tables": [],
+        "quote": "No patients required hospitalization or endotracheal intubation as a consequence of the procedure."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "ROBINS-I",
+    "overall_judgment": "serious",
+    "domains": [
+      {
+        "name": "Bias due to confounding",
+        "judgment": "serious",
+        "support_for_judgment": "No concurrent comparator group; selection for EBES based on lesion characteristics and operator discretion."
+      },
+      {
+        "name": "Bias in selection of participants",
+        "judgment": "moderate",
+        "support_for_judgment": "Only lesions meeting amenability criteria underwent EBES; others underwent LPR."
+      },
+      {
+        "name": "Bias in classification of interventions",
+        "judgment": "low",
+        "support_for_judgment": "Intervention clearly defined and delivered in standardized setting with specified equipment."
+      },
+      {
+        "name": "Bias due to deviations from intended interventions",
+        "judgment": "low",
+        "support_for_judgment": "Procedures performed per protocol in outpatient suite; no crossovers reported."
+      },
+      {
+        "name": "Bias due to missing data",
+        "judgment": "low",
+        "support_for_judgment": "Complete procedural outcome counts reported (47 procedures)."
+      },
+      {
+        "name": "Bias in measurement of outcomes",
+        "judgment": "moderate",
+        "support_for_judgment": "Outcomes assessed by operators; no blinding; success defined clinically during procedure."
+      },
+      {
+        "name": "Bias in selection of reported results",
+        "judgment": "moderate",
+        "support_for_judgment": "Descriptive outcomes only; no pre-registered analysis plan."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "endobronchial electrosurgery",
+      "bronchoscopy",
+      "Nd-YAG laser photoresection",
+      "airway obstruction",
+      "Cleveland Clinic",
+      "CHEST 2000"
+    ],
+    "summary_tldr": "Prospective single-center case series: EBES achieved immediate relief of obstruction in 42/47 procedures (89%), avoiding LPR in ~36% of all LPR evaluations; no major complications or hospitalizations.",
+    "clinical_relevance": "EBES is a feasible outpatient alternative to Nd-YAG laser for select endobronchial lesions, potentially reducing need for OR-based laser therapy and associated costs."
+  }
+}

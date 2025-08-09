@@ -1,0 +1,186 @@
+{
+  "source": {
+    "document_id": "Mechanical properties of different airway sten",
+    "ingest_date": "2025-08-08T14:18:32.505285+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1016/j.medengphy.2015.02.008"
+  },
+  "document": {
+    "metadata": {
+      "title": "Mechanical properties of different airway stents",
+      "year": 2015,
+      "authors": [
+        "Anat Ratnovsky",
+        "Noa Regev",
+        "Shaily Wald",
+        "Mordechai Kramer",
+        "Sara Naftali"
+      ],
+      "journal": "Medical Engineering and Physics",
+      "doi": "10.1016/j.medengphy.2015.02.008",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Airway stents improve pulmonary function and quality of life in patients suffering from airway obstruction. The aim of this study was to compare main types of stents (silicone, balloon-dilated metal, self-expanding metal, and covered self-expanding metal) in terms of their mechanical properties and the radial forces they exert on the trachea. Mechanical measurements were carried out using a force gauge and specially designed adaptors fabricated in our lab. Numerical simulations were performed for eight different stent geometries, inserted into trachea models. The results show a clear correlation between stent diameter (oversizing) and the levels of stress it exerts on the trachea. Compared with uncovered metal stents, metal stents that are covered with less stiff material exert significantly less stress on the trachea while still maintaining strong contact with it. The use of such stents may reduce formation of mucosa necrosis and fistulas while still preventing stent migration. Silicone stents produce the lowest levels of stress, which may be due to weak contact between the stent and the trachea and can explain their propensity for migration. Unexpectedly, stents made of the same materials exerted different stresses due to differences in their structure. Stenosis significantly increases stress levels in all stents.",
+      "methods": "Mechanical measurements: Several airway stents (A-E) were tested using a Mark-10 force gauge and custom polyester film adaptors matching each stent’s circumference. Radial stress was computed as σ = Fy / (2π r l), and strain as ε = Δly / (2π r). Stress-strain curves were recorded until adaptor failure; linear regions were extracted. Numerical simulations: Approximately 100 finite element simulations (SolidWorks Simulation 2011, Shrink-Fit contact) were run for eight stent geometries (A-H) with lengths 50 mm and diameters 14, 15, and 16 mm. Stent materials included nitinol (55Ni-45Ti), cobalt alloys (elgiloy; 40Co-20Cr), stainless steel 316L, and silicone (E = 1 MPa and E = 160 GPa). Covers were silicone or PTFE. Trachea models comprised smooth muscle and cartilage layers, with healthy geometry and 30% symmetric or 30% non-symmetric stenosis. Materials were linear elastic (cartilage E = 3.33 MPa, ν = 0.49; smooth muscle E = 0.7 MPa, ν = 0.49). Governing equation F = k u; Von Mises effective stress computed per standard formulation. Boundary conditions enforced equal contact forces and radial displacements at the stent-trachea interface and zero displacements at harnessed tracheal edges. Mesh: 40,000-180,000 tetrahedral elements (4-node).",
+      "results": "Validation: Simulated smooth silicone stent stress-strain closely matched measurements (max strain 0.175 vs 0.2; elastic modulus ~1 MPa simulation vs 0.3 MPa measured). Bench testing: Covered metal stents were stiffer than uncovered; internally-covered metal stent (A) had higher yield stress than externally-covered (B): 15.7 kPa vs 12.3 kPa. Silicone stent exhibited a narrow linear region and higher stiffness within that region; shape distortion occurred at higher loads. Simulations: Stent diameter strongly increased stress. Example for a metal stent in healthy trachea: ~50 MPa (14 mm), ~100 MPa (15 mm), ~150 MPa (16 mm). With 30% stenosis, maximum stress rose markedly to ~400 MPa (14 mm), ~700 MPa (15 mm), and ~1000 MPa (16 mm), with non-symmetric stenosis typically highest. Material effects: stiffer metals (cobalt alloys, stainless steel 316L; E ≈ 190 GPa) generated higher stresses than nitinol (E ≈ 83 GPa). Covered metal stents exerted lower stresses than uncovered while maintaining contact. Silicone (both smooth and studded) exerted the lowest stresses; higher-stiffness silicone produced higher stresses than lower-stiffness silicone. Structural geometry notably influenced stress, even with identical materials."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Airway stent devices tested on bench and in finite element simulations with healthy and stenotic trachea models.",
+      "inclusion_criteria": [
+        "Stent geometries A-H with length 50",
+        "Stent diameters 14",
+        "Stent diameters 15",
+        "Stent diameters 16",
+        "Stent materials: nitinol, cobalt alloys, stainless steel 316L, silicone",
+        "Covers: silicone or PTFE",
+        "Trachea models: healthy, 30% symmetric stenosis, 30% non-symmetric stenosis"
+      ],
+      "exclusion_criteria": []
+    },
+    "intervention": {
+      "text": "Airway stent insertion and loading within trachea models using finite element simulations; radial compression bench testing.",
+      "details": "SolidWorks Simulation 2011 shrink-fit contact; Von Mises stress analysis; tetrahedral mesh 40000-180000 elements; boundary conditions equating interface forces and displacements. Bench tests used Mark-10 force gauge with custom adaptors to derive stress-strain curves and yield stress."
+    },
+    "comparison": {
+      "text": "Comparisons across stent types, coverings, materials, diameters, and trachea stenosis geometries.",
+      "details": "Descriptive comparative analysis of stress distributions and magnitudes; no randomized allocation or hypothesis testing."
+    },
+    "outcomes": [
+      {
+        "name": "Von Mises effective stress at stent-trachea interface",
+        "type": "primary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "bench_test_and_finite_element_simulation",
+    "allocation": "nonrandomized",
+    "blinding": "none",
+    "sites_count": 1,
+    "countries": [
+      "Israel"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": [
+      {
+        "name": "Simulations",
+        "description": "All finite element simulation cases",
+        "n": 100
+      },
+      {
+        "name": "Bench_tests",
+        "description": "Distinct stent geometries tested mechanically (A-E)",
+        "n": 5
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "Internally-covered self-expanding metal stent (A)",
+      "n_randomized": 0,
+      "n_analyzed": 0,
+      "n_completed": 0
+    },
+    {
+      "arm_id": "control",
+      "name": "Externally-covered self-expanding metal stent (B)",
+      "n_randomized": 0,
+      "n_analyzed": 0,
+      "n_completed": 0
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "bench_yield_stress_internal_vs_external_cover",
+      "name": "Yield stress level in radial compression (bench test)",
+      "type": "continuous",
+      "outcome_type": "primary",
+      "unit": "kPa",
+      "unit_canonical": "kilopascal",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": 15.7,
+            "sd": 0,
+            "total": 1
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "mean": 12.3,
+            "sd": 0,
+            "total": 1
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "mean_difference",
+        "est": 3.4,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive mechanical test; linear region of stress-strain curve used to identify yield stress/stiffness",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Bench-tested stent specimens A and B",
+        "missing_handling": "Not applicable"
+      },
+      "provenance": {
+        "pages": [
+          412
+        ],
+        "tables": [
+          "Fig. 4a"
+        ],
+        "table_number": null,
+        "quote": "The internally-covered metal stent (A) is slightly stiffer than the externally-covered metal stent (yield stress levels of 15.7 kPa versus 12.3 kPa, respectively)."
+      }
+    }
+  ],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "Not applicable",
+    "overall_judgment": "unclear",
+    "domains": [
+      {
+        "name": "Randomization process",
+        "judgment": "not_applicable",
+        "support_for_judgment": "Device bench testing and simulations; no allocation or randomization."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "airway stent",
+      "trachea",
+      "finite element",
+      "radial stress",
+      "mechanical testing",
+      "silicone",
+      "nitinol",
+      "cobalt alloy",
+      "PTFE",
+      "stenosis"
+    ],
+    "summary_tldr": "Covered metal and silicone stents exert lower radial stresses than uncovered metal stents; stress increases markedly with stent oversizing and with tracheal stenosis.",
+    "clinical_relevance": "Mechanical insights may guide stent selection to reduce mucosal injury and fistula risk while maintaining fixation."
+  }
+}

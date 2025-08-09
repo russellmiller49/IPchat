@@ -1,0 +1,87 @@
+{
+  "source": {
+    "document_id": "Tracheomalacia and Tracheobronchomalacia in Children and Adults",
+    "ingest_date": "2025-08-08T16:32:57.361214+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1378/chest.127.3.984"
+  },
+  "document": {
+    "metadata": {
+      "title": "Tracheomalacia and Tracheobronchomalacia in Children and Adults: An In-depth Review",
+      "year": 2005,
+      "authors": [
+        "Kelly A. Carden",
+        "Philip M. Boiselle",
+        "David A. Waltz",
+        "Armin Ernst"
+      ],
+      "journal": "Chest",
+      "doi": "10.1378/chest.127.3.984",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Tracheomalacia and tracheobronchomalacia are disorders encountered in pediatric and adult medicine. Despite increasing recognition, uncertainty remains regarding identification, causes, and treatment. This comprehensive review covers historical aspects, classification, associated conditions, histopathology, natural history, diagnostic modalities, and current treatments, including airway stenting and surgical intervention.",
+      "methods": "Exhaustive literature review from the late 1800s to the time of publication using multiple medical literature search engines and Harvard Medical School resources, including non-English references. Narrative synthesis; no predefined protocol or quantitative meta-analysis reported.",
+      "results": "Key findings summarized: classification into congenital (primary) and acquired (secondary) forms; associations with genetic syndromes and tracheoesophageal anomalies; histopathologic features include reduced cartilage-to-muscle ratio and widened posterior membranous wall. Reported epidemiology includes an estimated congenital TM incidence of 1 per 1445 infants; evidence of TM in 15.4% of infants in a series of 664 diagnostic bronchoscopies; TM present in up to 30% of children aged ≤3 years undergoing bronchoscopy for respiratory distress; in a cohort of 50 infants with TM, 48% were primary and 52% secondary, with 96% of secondary cases in premature infants with respiratory distress syndrome requiring prolonged mechanical ventilation. Severe TM can have mortality rates as high as 80%. Diagnostic approaches discussed include bronchoscopy and imaging; management options include conservative care (e.g., CPAP), addressing underlying causes, airway stents, and surgical interventions."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Children and adults with tracheomalacia or tracheobronchomalacia",
+      "inclusion_criteria": [],
+      "exclusion_criteria": []
+    },
+    "intervention": {
+      "text": "Diagnostic and therapeutic strategies for tracheomalacia/tracheobronchomalacia",
+      "details": "Approaches discussed include bronchoscopy, dynamic imaging, conservative management (e.g., CPAP), airway stenting, and surgical repair depending on etiology and severity."
+    },
+    "comparison": {
+      "text": "None",
+      "details": "Narrative review without explicit comparator groups."
+    },
+    "outcomes": [
+      {
+        "name": "Overview of epidemiology, diagnosis, and management strategies",
+        "type": "primary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "narrative_review",
+    "allocation": "none",
+    "blinding": "none",
+    "sites_count": 0,
+    "countries": [],
+    "sample_size": {
+      "planned": null,
+      "enrolled": null,
+      "analyzed": null
+    },
+    "analysis_populations": []
+  },
+  "arms": [],
+  "outcomes_normalized": [],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "NA",
+    "overall_judgment": "unclear",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "tracheomalacia",
+      "tracheobronchomalacia",
+      "children",
+      "adults",
+      "bronchoscopy",
+      "airway stent",
+      "CPAP",
+      "esophageal atresia",
+      "tracheoesophageal fistula"
+    ],
+    "summary_tldr": "Narrative review detailing classification, associations, diagnosis, and management of tracheomalacia/tracheobronchomalacia in children and adults; incidence estimates and high mortality in severe pediatric cases highlighted.",
+    "clinical_relevance": "Provides clinicians with a comprehensive overview of recognition, diagnostic approaches, and treatment options for airway malacia across ages."
+  }
+}

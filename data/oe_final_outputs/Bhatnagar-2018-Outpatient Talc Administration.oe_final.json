@@ -1,0 +1,246 @@
+{
+  "source": {
+    "document_id": "Bhatnagar-2018-Outpatient Talc Administration",
+    "ingest_date": "2025-08-08T10:06:09.637995+00:00",
+    "trial_registration_id": "EudraCT 2012-000599-40",
+    "pmid": "",
+    "doi": "10.1056/NEJMoa1716883"
+  },
+  "document": {
+    "metadata": {
+      "title": "Outpatient Talc Administration by Indwelling Pleural Catheter for Malignant Effusion",
+      "year": 2018,
+      "authors": [
+        "R. Bhatnagar",
+        "E.K. Keenan",
+        "A.J. Morley",
+        "B.C. Kahan",
+        "A.E. Stanton",
+        "M. Haris",
+        "R.N. Harrison",
+        "R.A. Mustafa",
+        "L.J. Bishop",
+        "L. Ahmed",
+        "A. West",
+        "J. Holme",
+        "M. Evison",
+        "M. Munavvar",
+        "P. Sivasothy",
+        "J. Herre",
+        "D. Cooper",
+        "M. Roberts",
+        "A. Guhan",
+        "C. Hooper",
+        "J. Walters",
+        "T.S. Saba",
+        "B. Chakrabarti",
+        "S. Gunatilake",
+        "I. Psallidas",
+        "S.P. Walker",
+        "A.C. Bibby",
+        "S. Smith",
+        "L.J. Stadon",
+        "N.J. Zahan‑Evans",
+        "Y.C.G. Lee",
+        "J.E. Harvey",
+        "N.M. Rahman",
+        "R.F. Miller",
+        "N.A. Maskell"
+      ],
+      "journal": "The New England Journal of Medicine",
+      "doi": "10.1056/NEJMoa1716883",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "BACKGROUND: Malignant pleural effusion affects more than 750,000 persons each year across Europe and the United States. Pleurodesis with the administration of talc in hospitalized patients is the most common treatment, but indwelling pleural catheters placed for drainage offer an ambulatory alternative. We examined whether talc administered through an indwelling pleural catheter was more effective at inducing pleurodesis than the use of an indwelling pleural catheter alone. METHODS: Over a period of 4 years, we recruited patients with malignant pleural effusion at 18 centers in the United Kingdom. After the insertion of an indwelling pleural catheter, patients underwent drainage regularly on an outpatient basis. If there was no evidence of substantial lung entrapment (nonexpandable lung, in which lung expansion and pleural apposition are not possible because of visceral fibrosis or bronchial obstruction) at 10 days, patients were randomly assigned to receive either 4 g of talc slurry or placebo through the indwelling pleural catheter on an outpatient basis. Talc or placebo was administered on a single-blind basis. Follow-up lasted for 70 days. The primary outcome was successful pleurodesis at day 35 after randomization. RESULTS: The target of 154 patients undergoing randomization was reached after 584 patients were approached. At day 35, a total of 30 of 69 patients (43%) in the talc group had successful pleurodesis, as compared with 16 of 70 (23%) in the placebo group (hazard ratio, 2.20; 95% confidence interval, 1.23 to 3.92; P=0.008). No significant between-group differences in effusion size and complexity, number of inpatient days, mortality, or number of adverse events were identified. No significant excess of blockages of the indwelling pleural catheter was noted in the talc group. CONCLUSIONS: Among patients without substantial lung entrapment, the outpatient administration of talc through an indwelling pleural catheter for the treatment of malignant pleural effusion resulted in a significantly higher chance of pleurodesis at 35 days than an indwelling catheter alone, with no deleterious effects.",
+      "methods": "The IPC-Plus trial was a randomized, placebo-controlled, single-blind, parallel-group trial conducted at 18 UK centers (June 2012-December 2016). Adults with symptomatic malignant pleural effusion choosing indwelling pleural catheter (IPC) underwent IPC insertion and outpatient drainage. After approximately 10 days, patients without substantial lung entrapment (assessed by chest radiograph and thoracic ultrasonography) were randomized 1:1 by centralized computer minimization (type of cancer; total volume drained <2 L vs ≥2 L; day-10 chest radiograph: no entrapment vs some entrapment) to receive intrapleural talc slurry (4 g in 50 ml 0.9% saline) or placebo (50 ml 0.9% saline) via IPC. All patients received intrapleural lidocaine before instillation. Blinding was single-blind (participants and community nurses blinded; treating team unblinded). Post-instillation drainage occurred 12-36 hours later, then at least twice weekly to day 70. Primary outcome was successful pleurodesis by day 35, defined by both low drainage (<50 ml on three consecutive drainages) and chest radiograph showing <25% opacification due to fluid. Secondary outcomes included quality of life, dyspnea and pain VAS, total drainage volume to day 70, all-cause mortality to day 70, inpatient days to day 70, ultrasonographic complexity, pleurodesis at day 70, sustained pleurodesis at days 35 and 70, and number of pleural procedures. Analyses were intention-to-treat with observed outcomes, adjusted for minimization variables. The primary outcome used a competing-risk time-to-event regression model with death as a competing risk; censoring at day 35 or last contact.",
+      "results": "Of 923 screened, 584 met entry criteria; 154 were randomized (78 talc; 76 placebo). The primary analysis included 69 talc and 70 placebo with sufficient data. By day 35, successful pleurodesis occurred in 30/69 (43%) talc vs 16/70 (23%) placebo (hazard ratio 2.20; 95% CI 1.23-3.92; P=0.008). Sensitivity analyses favored talc. No significant between-group differences were seen in effusion size/complexity, inpatient days, mortality, or adverse events. No excess IPC blockages occurred with talc. Twenty participants withdrew during the trial (10 per group)."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with symptomatic malignant pleural effusion managed with an indwelling pleural catheter at 18 UK centers, without substantial lung entrapment at ~10 days post-IPC insertion.",
+      "inclusion_criteria": [
+        "Confirmed symptomatic malignant pleural effusion",
+        "Patient elected treatment with an indwelling pleural catheter",
+        "Expected survival >2 months (investigator judgment)",
+        "Expected ECOG performance-status score ≤2 after fluid removal",
+        "At randomization (~day 10): no substantial lung entrapment and adequate pleural apposition on chest radiograph/ultrasound"
+      ],
+      "exclusion_criteria": [
+        "Age <18 years",
+        "Extensive/nonexpandable lung or fluid loculation",
+        "Ipsilateral pleurodesis attempt within previous 8 weeks",
+        "Any contraindication to trial procedures",
+        "At day-10 reassessment: <75% pleural apposition on chest radiograph or >1/3 hemithorax opacification due to fluid (ultrasound)"
+      ]
+    },
+    "intervention": {
+      "text": "Intrapleural talc slurry via indwelling pleural catheter",
+      "details": "Single outpatient instillation of 4 g sterile graded talc (Steritalc) made into slurry with 50 ml 0.9% sodium chloride via IPC after intrapleural lidocaine; post-instillation drainage at 12-36 hours, then ≥2 times/week to day 70."
+    },
+    "comparison": {
+      "text": "Placebo instillation via indwelling pleural catheter",
+      "details": "Single outpatient instillation of 50 ml 0.9% sodium chloride via IPC after intrapleural lidocaine; identical drainage schedule."
+    },
+    "outcomes": [
+      {
+        "name": "Successful pleurodesis by day 35",
+        "type": "primary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "RCT",
+    "allocation": "randomized",
+    "blinding": "single-blind",
+    "sites_count": 18,
+    "countries": [
+      "UK"
+    ],
+    "sample_size": {
+      "planned": 154,
+      "enrolled": 154,
+      "analyzed": 139
+    },
+    "analysis_populations": [
+      {
+        "name": "ITT (observed outcomes)",
+        "description": "All randomized participants with observed outcome data analyzed as assigned",
+        "n": 139
+      },
+      {
+        "name": "Randomized",
+        "description": "All randomized participants",
+        "n": 154
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "Talc via indwelling pleural catheter",
+      "n_randomized": 78,
+      "n_analyzed": 69,
+      "n_completed": 68
+    },
+    {
+      "arm_id": "control",
+      "name": "Placebo (saline) via indwelling pleural catheter",
+      "n_randomized": 76,
+      "n_analyzed": 70,
+      "n_completed": 66
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "pleurodesis_success_35d",
+      "name": "Successful pleurodesis by day 35",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P35D",
+      "timepoint_label": "Day 35 after randomization",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 30,
+            "total": 69
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 16,
+            "total": 70
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "hazard_ratio",
+        "est": 2.2,
+        "ci_lower": 1.23,
+        "ci_upper": 3.92,
+        "ci_level": 0.95,
+        "p_value": 0.008,
+        "p_operator": "=",
+        "adjusted": true
+      },
+      "analysis": {
+        "model": "Competing-risk time-to-event regression (Fine-Gray subdistribution hazards)",
+        "adjusted": true,
+        "covariates": [
+          "cancer type (breast/ovarian vs mesothelioma vs other)",
+          "total volume drained from enrollment to randomization (<2 L vs ≥2 L)",
+          "day-10 chest radiograph (no lung entrapment vs some entrapment)"
+        ],
+        "population": "ITT (observed outcomes)",
+        "missing_handling": "Death treated as competing risk; censored at day 35 or last contact"
+      },
+      "provenance": {
+        "pages": [
+          1316,
+          1317
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "At day 35, a total of 30 of 69 patients (43%) in the talc group had successful pleurodesis, as compared with 16 of 70 (23%) in the placebo group (hazard ratio, 2.20; 95% confidence interval, 1.23 to 3.92; P=0.008)."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 1.902
+        },
+        "odds_ratio": {
+          "est": 2.596
+        },
+        "arr": 0.206,
+        "nnt": 4.8
+      }
+    }
+  ],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "RoB 2",
+    "overall_judgment": "low",
+    "domains": [
+      {
+        "name": "Randomization process",
+        "judgment": "low",
+        "support_for_judgment": "Centralized computer-based randomization with minimization and allocation concealment."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "low",
+        "support_for_judgment": "Participants and community nurses were blinded; procedures standardized across groups."
+      },
+      {
+        "name": "Missing outcome data",
+        "judgment": "some concerns",
+        "support_for_judgment": "15/154 lacked sufficient data for primary outcome by day 35; sensitivity analyses reportedly consistent."
+      },
+      {
+        "name": "Measurement of the outcome",
+        "judgment": "low",
+        "support_for_judgment": "Objective drainage thresholds and chest radiographs read by blinded pulmonologists."
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "low",
+        "support_for_judgment": "Outcome and analysis prespecified; no interim analysis performed; primary significance threshold prespecified."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "malignant pleural effusion",
+      "indwelling pleural catheter",
+      "talc pleurodesis",
+      "outpatient",
+      "randomized controlled trial"
+    ],
+    "summary_tldr": "In adults with malignant pleural effusion managed via IPC, outpatient talc instillation increased successful pleurodesis at 35 days (30/69 vs 16/70; HR 2.20; P=0.008) without increased adverse events.",
+    "clinical_relevance": "Supports an ambulatory strategy combining indwelling pleural catheter with talc to improve pleurodesis success without added harms."
+  }
+}

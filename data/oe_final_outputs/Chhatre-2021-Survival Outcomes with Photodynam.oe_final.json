@@ -1,0 +1,522 @@
+{
+  "source": {
+    "document_id": "Chhatre-2021-Survival Outcomes with Photodynam",
+    "ingest_date": "2025-08-08T10:36:54.552637+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.3390/cancers13040803"
+  },
+  "document": {
+    "metadata": {
+      "title": "Survival Outcomes with Photodynamic Therapy, Chemotherapy and Radiation in Patients with Stage III or Stage IV Non-Small Cell Lung Cancer",
+      "year": 2021,
+      "authors": [
+        "Sumedha Chhatre",
+        "Anil Vachani",
+        "Ron R. Allison",
+        "Ravishankar Jayadevappa"
+      ],
+      "journal": "Cancers",
+      "doi": "10.3390/cancers13040803",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Data regarding the association between photodynamic therapy (PDT) and mortality in lung cancer patients are limited. We analyzed the association between PDT and mortality in patients with stage III or IV non-small cell lung cancer (NSCLC) using data from the National Cancer Database (NCDB) between 2004 and 2016. From the NCDB, we identified patients receiving laser ablation/cryosurgery or local tumor destruction/excision (which includes PDT). From Medicare and Medicaid claims between 2000 and 2013, we identified NSCLC patients receiving PDT and those receiving bronchoscopy, then used these to confirm the PDT treatment. From NCDB, we extracted NSCLC patients who received radiation with chemotherapy, radiation alone or chemotherapy alone. We used survival analysis to determine the association between PDT and mortality. Between 2004 and 2016, 457,556 NSCLC patients with stage III or stage IV were identified, of which 147 received PDT with radiation and chemotherapy, 227,629 received radiation with chemotherapy, 106,667 had radiation therapy alone and 122,193 received chemotherapy alone. Compared to the radiation alone group, the PDT group and radiation with chemotherapy group had lower hazard of mortality (50% and 53% lower, respectively). Among the NSCLC patients with stage III or stage IV disease, the addition of PDT to radiation therapy offers survival benefit over radiation therapy alone.",
+      "methods": "Retrospective observational cohort study using the National Cancer Database (NCDB) from 2004-2016 to identify adults with stage III or IV NSCLC who received one of four treatment strategies: (1) PDT as part of ablation/local tumor destruction/excision combined with radiation and chemotherapy; (2) radiation with chemotherapy; (3) radiation alone; or (4) chemotherapy alone. Medicare and Medicaid claims (2000-2013) for PDT and bronchoscopy were used to validate PDT exposure. Demographics, comorbidities (Charlson-Deyo), facility type, insurance, income, geography, stage, and histology were extracted. Propensity score-adjusted Cox proportional hazards models estimated hazard ratios (HRs) for overall mortality comparing treatment groups, adjusting for age, sex, race, insurance, income, urbanicity, Charlson-Deyo score, and stage. Descriptive statistics compared baseline characteristics across groups. Overall mortality proportions and time to death were summarized.",
+      "results": "A total of 1,048,113 NSCLC patients were identified; 667,527 had stage III or IV disease. Treatment groups included: PDT + radiation + chemotherapy (n=147), radiation + chemotherapy (n=227,629), radiation alone (n=106,667), and chemotherapy alone (n=122,193). Overall mortality among those with mortality data was 90.8% in the PDT group (118/130), 87.9% in radiation + chemotherapy (183,956/209,390), 95.6% in radiation alone (94,239/98,534), and 91.3% in chemotherapy alone (103,265/denominator not reported). Mean time to death (months) was 18.6 (PDT), 18.0 (radiation + chemotherapy), 7.3 (radiation alone), and 14.7 (chemotherapy alone); overall group differences p<0.0001. In propensity score-adjusted Cox models using radiation alone as reference, PDT + radiation + chemotherapy was associated with lower hazard of mortality (HR=0.50, 95% CI 0.42-0.60), as was radiation + chemotherapy (HR=0.47, 95% CI 0.46-0.50). Using chemotherapy alone as reference, PDT + radiation + chemotherapy had HR=1.03 (95% CI 0.86-1.23) and radiation + chemotherapy had HR=0.98 (95% CI 0.98-1.02)."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with stage III or IV non-small cell lung cancer in the US reported to the NCDB (2004-2016).",
+      "inclusion_criteria": [
+        "Diagnosis of NSCLC",
+        "Stage III or IV disease",
+        "Received radiation therapy and/or chemotherapy; subset received PDT (as ablation/local tumor destruction/excision) verified against claims",
+        "Reported in NCDB 2004-2016"
+      ],
+      "exclusion_criteria": [
+        "Not treated in one of the four predefined groups (PDT+RT+chemo, RT+chemo, RT only, chemo only)",
+        "Missing key variables required for analysis (e.g., mortality status) as applicable"
+      ]
+    },
+    "intervention": {
+      "text": "Photodynamic therapy combined with radiation and chemotherapy",
+      "details": "PDT with Photofrin photosensitizer followed by 630 nm laser light approximately 48 hours later; identified via NCDB ablation/destruction codes and confirmed using Medicare/Medicaid claims for PDT and bronchoscopy when available; delivered alongside radiation therapy and systemic chemotherapy."
+    },
+    "comparison": {
+      "text": "Radiation therapy alone; additional comparisons with radiation + chemotherapy and chemotherapy alone",
+      "details": "Standard radiation therapy without concurrent chemotherapy (primary reference group for main analysis); separate models used chemotherapy alone as reference."
+    },
+    "outcomes": [
+      {
+        "name": "Overall survival / overall mortality",
+        "type": "primary",
+        "umls_cui": "C0919267"
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Observational retrospective cohort",
+    "allocation": "non-randomized",
+    "blinding": "none",
+    "sites_count": 0,
+    "countries": [
+      "US"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 667527,
+      "analyzed": 456636
+    },
+    "analysis_populations": [
+      {
+        "name": "All included patients",
+        "description": "Patients with stage III/IV NSCLC in NCDB who received one of the four treatment strategies",
+        "n": 456636
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "pdt_rad_chemo",
+      "name": "PDT + radiation + chemotherapy",
+      "n_randomized": 147,
+      "n_analyzed": 147,
+      "n_completed": 147
+    },
+    {
+      "arm_id": "rad_chemo",
+      "name": "Radiation + chemotherapy",
+      "n_randomized": 227629,
+      "n_analyzed": 227629,
+      "n_completed": 227629
+    },
+    {
+      "arm_id": "rad",
+      "name": "Radiation only",
+      "n_randomized": 106667,
+      "n_analyzed": 106667,
+      "n_completed": 106667
+    },
+    {
+      "arm_id": "chemo",
+      "name": "Chemotherapy only",
+      "n_randomized": 122193,
+      "n_analyzed": 122193,
+      "n_completed": 122193
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "overall_mortality_binary_pdt_vs_rad",
+      "name": "Overall mortality",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "End of follow-up",
+      "groups": [
+        {
+          "arm_id": "pdt_rad_chemo",
+          "raw": {
+            "events": 118,
+            "total": 130
+          }
+        },
+        {
+          "arm_id": "rad",
+          "raw": {
+            "events": 94239,
+            "total": 98534
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "rad",
+        "measure": "risk_ratio",
+        "est": 0.949,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Unadjusted risk comparison",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All included with mortality data for these groups",
+        "missing_handling": "Complete case for mortality status"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [
+          "Table 1"
+        ],
+        "table_number": 1,
+        "quote": "Overall mortality for PDT group was 90.8% (118/130) and 95.6% (94,239/98,534) for radiation alone."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.949
+        },
+        "odds_ratio": {
+          "est": 0.448
+        },
+        "arr": -0.049,
+        "nnh": 20.5
+      }
+    },
+    {
+      "concept_id": "overall_mortality_binary_radchemo_vs_rad",
+      "name": "Overall mortality",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "End of follow-up",
+      "groups": [
+        {
+          "arm_id": "rad_chemo",
+          "raw": {
+            "events": 183956,
+            "total": 209390
+          }
+        },
+        {
+          "arm_id": "rad",
+          "raw": {
+            "events": 94239,
+            "total": 98534
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "rad",
+        "measure": "risk_ratio",
+        "est": 0.92,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Unadjusted risk comparison",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All included with mortality data for these groups",
+        "missing_handling": "Complete case for mortality status"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [
+          "Table 1"
+        ],
+        "table_number": 1,
+        "quote": "Overall mortality was 87.9% (183,956/209,390) for radiation with chemotherapy and 95.6% (94,239/98,534) for radiation alone."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.919
+        },
+        "odds_ratio": {
+          "est": 0.33
+        },
+        "arr": -0.078,
+        "nnh": 12.8
+      }
+    },
+    {
+      "concept_id": "overall_survival_hr_pdt_vs_rad",
+      "name": "Overall survival (hazard of death)",
+      "type": "time-to-event",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Time-to-event over follow-up",
+      "groups": [
+        {
+          "arm_id": "pdt_rad_chemo",
+          "raw": {
+            "events": 118,
+            "total": 130
+          }
+        },
+        {
+          "arm_id": "rad",
+          "raw": {
+            "events": 94239,
+            "total": 98534
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "rad",
+        "measure": "hazard_ratio",
+        "est": 0.5,
+        "ci_lower": 0.42,
+        "ci_upper": 0.6,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": true
+      },
+      "analysis": {
+        "model": "Cox proportional hazards with propensity score adjustment",
+        "adjusted": true,
+        "covariates": [
+          "age at diagnosis",
+          "sex",
+          "race",
+          "insurance status",
+          "income",
+          "urbanicity",
+          "Charlson-Deyo score",
+          "stage (III vs IV)"
+        ],
+        "population": "All included patients in PDT+RT+chemo and RT-only groups",
+        "missing_handling": "Complete case analysis for covariates and mortality"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Compared to the radiation alone group, the PDT (with radiation and chemo) group had lower hazard of overall mortality (HR = 0.50, 95% CI = 0.42, 0.60)."
+      }
+    },
+    {
+      "concept_id": "overall_survival_hr_radchemo_vs_rad",
+      "name": "Overall survival (hazard of death)",
+      "type": "time-to-event",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Time-to-event over follow-up",
+      "groups": [
+        {
+          "arm_id": "rad_chemo",
+          "raw": {
+            "events": 183956,
+            "total": 209390
+          }
+        },
+        {
+          "arm_id": "rad",
+          "raw": {
+            "events": 94239,
+            "total": 98534
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "rad",
+        "measure": "hazard_ratio",
+        "est": 0.47,
+        "ci_lower": 0.46,
+        "ci_upper": 0.5,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": true
+      },
+      "analysis": {
+        "model": "Cox proportional hazards with propensity score adjustment",
+        "adjusted": true,
+        "covariates": [
+          "age at diagnosis",
+          "sex",
+          "race",
+          "insurance status",
+          "income",
+          "urbanicity",
+          "Charlson-Deyo score",
+          "stage (III vs IV)"
+        ],
+        "population": "All included patients in RT+chemo and RT-only groups",
+        "missing_handling": "Complete case analysis for covariates and mortality"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Radiation with chemotherapy group had lower hazard of overall mortality (HR = 0.47, 95% CI = 0.46, 0.50) compared to radiation alone."
+      }
+    },
+    {
+      "concept_id": "overall_survival_hr_pdt_vs_chemo",
+      "name": "Overall survival (hazard of death)",
+      "type": "time-to-event",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Time-to-event over follow-up",
+      "groups": [
+        {
+          "arm_id": "pdt_rad_chemo",
+          "raw": {
+            "events": 118,
+            "total": 130
+          }
+        },
+        {
+          "arm_id": "chemo",
+          "raw": {
+            "events": 103265,
+            "total": null
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "chemo",
+        "measure": "hazard_ratio",
+        "est": 1.03,
+        "ci_lower": 0.86,
+        "ci_upper": 1.23,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": true
+      },
+      "analysis": {
+        "model": "Cox proportional hazards with propensity score adjustment",
+        "adjusted": true,
+        "covariates": [
+          "age at diagnosis",
+          "sex",
+          "race",
+          "insurance status",
+          "income",
+          "urbanicity",
+          "Charlson-Deyo score",
+          "stage (III vs IV)"
+        ],
+        "population": "All included patients in PDT+RT+chemo and chemo-only groups",
+        "missing_handling": "Complete case analysis for covariates and mortality"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "The hazard of mortality associated with PDT exposure was comparable with chemotherapy alone as the reference group (HR = 1.03, 95% CI = 0.86, 1.23)."
+      }
+    },
+    {
+      "concept_id": "overall_survival_hr_radchemo_vs_chemo",
+      "name": "Overall survival (hazard of death)",
+      "type": "time-to-event",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Time-to-event over follow-up",
+      "groups": [
+        {
+          "arm_id": "rad_chemo",
+          "raw": {
+            "events": 183956,
+            "total": 209390
+          }
+        },
+        {
+          "arm_id": "chemo",
+          "raw": {
+            "events": 103265,
+            "total": null
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "chemo",
+        "measure": "hazard_ratio",
+        "est": 0.98,
+        "ci_lower": 0.98,
+        "ci_upper": 1.02,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": true
+      },
+      "analysis": {
+        "model": "Cox proportional hazards with propensity score adjustment",
+        "adjusted": true,
+        "covariates": [
+          "age at diagnosis",
+          "sex",
+          "race",
+          "insurance status",
+          "income",
+          "urbanicity",
+          "Charlson-Deyo score",
+          "stage (III vs IV)"
+        ],
+        "population": "All included patients in RT+chemo and chemo-only groups",
+        "missing_handling": "Complete case analysis for covariates and mortality"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Radiation with chemotherapy vs chemotherapy alone: HR = 0.98, 95% CI = 0.98, 1.02."
+      }
+    }
+  ],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "ROBINS-I",
+    "overall_judgment": "serious",
+    "domains": [
+      {
+        "name": "Confounding",
+        "judgment": "serious",
+        "support_for_judgment": "Non-randomized observational design; although propensity score adjustment and covariate adjustment were used, residual confounding is likely."
+      },
+      {
+        "name": "Selection of participants",
+        "judgment": "moderate",
+        "support_for_judgment": "Cohort derived from NCDB with inclusion based on received treatments; potential selection into treatment strategies."
+      },
+      {
+        "name": "Classification of interventions",
+        "judgment": "low",
+        "support_for_judgment": "Interventions identified via NCDB treatment codes; PDT exposure corroborated with claims."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "low",
+        "support_for_judgment": "Retrospective registry data; no evidence of protocolized intervention deviations affecting outcomes."
+      },
+      {
+        "name": "Missing data",
+        "judgment": "moderate",
+        "support_for_judgment": "Mortality denominators differ from group totals in some arms, suggesting incomplete data for some patients."
+      },
+      {
+        "name": "Measurement of outcomes",
+        "judgment": "low",
+        "support_for_judgment": "Overall survival/mortality from NCDB is generally reliable."
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "low",
+        "support_for_judgment": "Pre-specified comparisons across defined treatment groups with full reporting of HRs and CIs."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "non-small cell lung cancer",
+      "photodynamic therapy",
+      "NCDB",
+      "radiation therapy",
+      "chemotherapy",
+      "overall survival"
+    ],
+    "summary_tldr": "In stage III/IV NSCLC, adding PDT to radiation and chemotherapy was associated with lower mortality hazard vs radiation alone (HR 0.50, 95% CI 0.42-0.60).",
+    "clinical_relevance": "Supports considering PDT as an adjunct to chemoradiation for selected advanced NSCLC patients, particularly those with endoluminal airway tumors."
+  }
+}

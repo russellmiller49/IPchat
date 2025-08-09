@@ -1,0 +1,975 @@
+{
+  "source": {
+    "document_id": "efficacy of whole lung avage",
+    "ingest_date": "2025-08-08T11:47:13.783623+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1159/000455179"
+  },
+  "document": {
+    "metadata": {
+      "title": "Efficacy of Whole-Lung Lavage in Pulmonary Alveolar Proteinosis: A Multicenter International Study of GELF",
+      "year": 2017,
+      "authors": [
+        "Pierre Gay",
+        "Benoit Wallaert",
+        "Stefan Nowak",
+        "Jonas Yserbyt",
+        "Stavros Anevlavis",
+        "Christophe Hermant",
+        "Alban Lovis",
+        "Olivier Menard",
+        "Bernard Maitre",
+        "Thomas Vandemoortele",
+        "Hervé Dutau",
+        "Amandine Briault",
+        "Arnaud Bourdin",
+        "Jean-Michel Vergnon",
+        "Marios E. Froudarakis"
+      ],
+      "journal": "Respiration",
+      "doi": "10.1159/000455179",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Background: New therapies have emerged in the treatment of pulmonary alveolar proteinosis (PAP) and, therefore, there is a real need to evaluate the efficacy of whole-lung lavage (WLL) in this rare disease. Objectives: The aim of this study was to assess the efficacy of WLL in patients with PAP. Methods: We included 33 patients from 12 centers, which are members of the French-Speaking Thoracic Endoscopy Group, for analysis. Data collection concerned patients and disease characteristics, pulmonary function tests (PFTs) and technical information on the procedure. Results: The median age of the patients was 44 years (range 13-77). There were 23 (71.9%) patients with respiratory insufficiency at presentation. All patients underwent WLL by general anesthesia and selective lung ventilation, except 1 who underwent awake flexible bronchoscopy. We noted differences in the technique, as 12 (36.36%) patients had percussion during the procedure and only 4 (12.1%) patients underwent 2-lung lavage during 1 anesthesia. A median of 12 L was used to perform WLL (1.0-40 L). Complications occurred in 11 (33.3%) patients, and 18 (56.25%) of them relapsed in a median period of 16.9 months. No significant changes were found in any PFT parameters studied, except for PaO2, which was significantly improved by 6.375 mm Hg (p = 0.0213) after the procedure compared to before. Conclusions: Although the application of the WLL technique was variable, overall, it significantly improved patients’ short-term respiratory condition by improving PaO2. However, a long-term effect needs to be confirmed, as many of our patients relapsed.",
+      "methods": "This study is based on a survey submitted to all GELF members. Twelve centers treating adult patients participated. Patients’ inclusion criteria were confirmation of PAP and therapeutic lung lavage. There were no exclusion criteria. Data collected included demographics, PAP form, diagnostic methods, PFTs at diagnosis and after WLL, procedural details, complications, and outcomes. Efficacy of WLL was categorized as excellent, improved, stable, or worse. Descriptive statistics were used; Student t test was performed to compare groups, and simple regression analysis was performed. Significance was set at p < 0.05.",
+      "results": "Thirty-three patients were included (median age 44 years, range 13-77; 69.7% male). Primary PAP in 81.8%; secondary PAP 18.2%. Respiratory insufficiency at rest in 71.9%. WLL was performed under general anesthesia with selective intubation in 32/33; 1 underwent flexible bronchoscopy under local anesthesia. Thoracic percussion was used in 36.4%. Two-lung lavage in one anesthesia in 12.1%. Median saline per procedure 12 L (range 1-40). Post-procedure, 42.4% returned to ward and 57.6% to ICU (median 2 days). One WLL was sufficient in 51.5%; 39.4% had a second lavage; 9.1% had multiple lavages. Efficacy was rated excellent in 18.2%, improved in 33.3%, stable in 21.2%, and insufficient/worse in 27.3%. Complications occurred in 33.3%; most frequent was desaturation (5 patients). Two deaths occurred (6%). PaO2 improved by 6.375 mm Hg (p = 0.021); KCO showed a non-significant trend toward improvement (4.238% predicted; p = 0.19). ΔPaO2 and ΔKCO were positively related (p = 0.0012; r2 = 0.628). Relapse occurred in 57.6% at median 16.9 months; 9/33 underwent new WLL after relapse."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults and one pediatric patient with confirmed pulmonary alveolar proteinosis treated at 12 GELF centers",
+      "inclusion_criteria": [
+        "Confirmed diagnosis of pulmonary alveolar proteinosis",
+        "Underwent therapeutic lung lavage (WLL)"
+      ],
+      "exclusion_criteria": [
+        "None specified"
+      ]
+    },
+    "intervention": {
+      "text": "Whole-lung lavage (WLL)",
+      "details": "Performed predominantly under general anesthesia with selective lung ventilation; median 12 L saline per procedure (range 1-40 L); thoracic percussion used in 36.4%; 12.1% had bilateral lavage during one anesthesia; some procedures performed with flexible bronchoscopy."
+    },
+    "comparison": {
+      "text": "Pre- versus post-procedure within-subject comparison",
+      "details": "No external control group; outcomes compared before and after WLL in the same patients."
+    },
+    "outcomes": [
+      {
+        "name": "Change in PaO2 after WLL",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Procedural complications (safety)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Relapse after WLL",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Changes in PFT parameters (FEV1, FVC, TLC, PaCO2, KCO)",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Observational",
+    "allocation": "non-randomized",
+    "blinding": "none",
+    "sites_count": 12,
+    "countries": [
+      "France",
+      "Belgium",
+      "Greece",
+      "Switzerland",
+      "Canada"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 33,
+      "analyzed": 33
+    },
+    "analysis_populations": [
+      {
+        "name": "All treated",
+        "description": "All patients undergoing at least one WLL with available data",
+        "n": 33
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "wll",
+      "name": "Whole-lung lavage cohort",
+      "n_randomized": 0,
+      "n_analyzed": 33,
+      "n_completed": 33
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "pao2_change_post_wll",
+      "name": "PaO2 change from pre- to post-WLL",
+      "type": "continuous",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Immediate post-procedure (short-term)",
+      "unit": "mm Hg",
+      "unit_canonical": "mmHg",
+      "groups": [
+        {
+          "arm_id": "wll",
+          "raw": {
+            "mean": 6.375,
+            "sd": null,
+            "total": 33
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "wll",
+        "measure": "pre_post_change",
+        "est": 6.375,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.0213,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "paired t-test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated",
+        "missing_handling": "Complete cases",
+        "notes": "Interquartile range for change reported: 1.038-11.712"
+      },
+      "provenance": {
+        "pages": [
+          201
+        ],
+        "tables": [
+          "Table 4",
+          "Figure 4"
+        ],
+        "quote": "After the procedure, we noted a significant overall improvement in PaO2 of 6.375 mm Hg (p = 0.02, interquartile range 1.038-11.712; Table 4; Fig. 4)."
+      }
+    },
+    {
+      "concept_id": "kco_change_post_wll",
+      "name": "KCO (% predicted) change from pre- to post-WLL",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Immediate post-procedure (short-term)",
+      "unit": "% predicted",
+      "unit_canonical": "percent_predicted",
+      "groups": [
+        {
+          "arm_id": "wll",
+          "raw": {
+            "mean": 4.238,
+            "sd": null,
+            "total": 33
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "wll",
+        "measure": "pre_post_change",
+        "est": 4.238,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.19,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "paired t-test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated",
+        "missing_handling": "Complete cases",
+        "notes": "Interquartile range for change reported: -2.34 to 10.82"
+      },
+      "provenance": {
+        "pages": [
+          202
+        ],
+        "tables": [
+          "Table 4"
+        ],
+        "quote": "There was a trend towards a better KCO of 4.238% (p = 0.19; interquartile range -2.34 to 10.82)."
+      }
+    },
+    {
+      "concept_id": "fev1_change_post_wll",
+      "name": "FEV1 (% predicted) pre- to post-WLL",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Immediate post-procedure",
+      "unit": "% predicted",
+      "unit_canonical": "percent_predicted",
+      "groups": [
+        {
+          "arm_id": "wll_pre",
+          "raw": {
+            "mean": 75.5,
+            "sd": 22.3,
+            "total": 33
+          }
+        },
+        {
+          "arm_id": "wll_post",
+          "raw": {
+            "mean": 81.0,
+            "sd": 24.0,
+            "total": 33
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "wll_pre",
+        "measure": "mean_difference",
+        "est": 5.5,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.1,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "paired t-test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated",
+        "missing_handling": "Complete cases"
+      },
+      "provenance": {
+        "pages": [
+          202
+        ],
+        "tables": [
+          "Table 4"
+        ],
+        "quote": "FEV1 75.5±22.3 before vs 81.0±24.0 after; p = 0.1."
+      }
+    },
+    {
+      "concept_id": "fvc_change_post_wll",
+      "name": "FVC (% predicted) pre- to post-WLL",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Immediate post-procedure",
+      "unit": "% predicted",
+      "unit_canonical": "percent_predicted",
+      "groups": [
+        {
+          "arm_id": "wll_pre",
+          "raw": {
+            "mean": 78.2,
+            "sd": 17.7,
+            "total": 33
+          }
+        },
+        {
+          "arm_id": "wll_post",
+          "raw": {
+            "mean": 78.6,
+            "sd": 24.0,
+            "total": 33
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "wll_pre",
+        "measure": "mean_difference",
+        "est": 0.4,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.1,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "paired t-test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated",
+        "missing_handling": "Complete cases"
+      },
+      "provenance": {
+        "pages": [
+          202
+        ],
+        "tables": [
+          "Table 4"
+        ],
+        "quote": "FVC 78.2±17.7 before vs 78.6±24.0 after; p = 0.1."
+      }
+    },
+    {
+      "concept_id": "tlc_change_post_wll",
+      "name": "Total lung capacity (% predicted) pre- to post-WLL",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Immediate post-procedure",
+      "unit": "% predicted",
+      "unit_canonical": "percent_predicted",
+      "groups": [
+        {
+          "arm_id": "wll_pre",
+          "raw": {
+            "mean": 78.0,
+            "sd": 19.9,
+            "total": 33
+          }
+        },
+        {
+          "arm_id": "wll_post",
+          "raw": {
+            "mean": 72.3,
+            "sd": 21.4,
+            "total": 33
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "wll_pre",
+        "measure": "mean_difference",
+        "est": -5.7,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.41,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "paired t-test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated",
+        "missing_handling": "Complete cases"
+      },
+      "provenance": {
+        "pages": [
+          202
+        ],
+        "tables": [
+          "Table 4"
+        ],
+        "quote": "Total lung capacity 78.0±19.9 before vs 72.3±21.4 after; p = 0.41."
+      }
+    },
+    {
+      "concept_id": "paco2_change_post_wll",
+      "name": "PaCO2 (mm Hg) pre- to post-WLL",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Immediate post-procedure",
+      "unit": "mm Hg",
+      "unit_canonical": "mmHg",
+      "groups": [
+        {
+          "arm_id": "wll_pre",
+          "raw": {
+            "mean": 34.6,
+            "sd": 3.8,
+            "total": 33
+          }
+        },
+        {
+          "arm_id": "wll_post",
+          "raw": {
+            "mean": 35.2,
+            "sd": 3.5,
+            "total": 33
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "wll_pre",
+        "measure": "mean_difference",
+        "est": 0.6,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.44,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "paired t-test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated",
+        "missing_handling": "Complete cases"
+      },
+      "provenance": {
+        "pages": [
+          202
+        ],
+        "tables": [
+          "Table 4"
+        ],
+        "quote": "PaCO2 34.6±3.8 before vs 35.2±3.5 after; p = 0.44."
+      }
+    },
+    {
+      "concept_id": "delta_pao2_delta_kco_correlation",
+      "name": "Correlation between ΔPaO2 and ΔKCO",
+      "type": "association",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Immediate post-procedure change association",
+      "groups": [
+        {
+          "arm_id": "wll",
+          "raw": {
+            "total": 33
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "wll",
+        "measure": "correlation_r_squared",
+        "est": 0.628,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.0012,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "simple linear regression",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated",
+        "missing_handling": "Complete cases"
+      },
+      "provenance": {
+        "pages": [
+          203
+        ],
+        "tables": [
+          "Figure 5"
+        ],
+        "quote": "When we performed simple regression analysis between Δ post-procedure PaO2 - pre-procedure PaO2 and Δ post-procedure KCO - pre-procedure KCO, these 2 parameters were significantly positively related (p = 0.0012, r2 = 0.68)."
+      }
+    },
+    {
+      "concept_id": "global_clinical_efficacy_categories",
+      "name": "Global WLL efficacy categories",
+      "type": "categorical",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Post-procedure assessment at index treatment",
+      "groups": [
+        {
+          "arm_id": "wll",
+          "raw": {
+            "category_counts": {
+              "excellent": 6,
+              "improved": 11,
+              "stable": 7,
+              "insufficient_or_worse": 9
+            },
+            "total": 33
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "wll",
+        "measure": "distribution",
+        "est": null,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated"
+      },
+      "provenance": {
+        "pages": [
+          202
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "quote": "Efficacy rated as excellent 6 (18.2%), improved 11 (33.3%), stable 7 (21.2%), insufficient 9 (27.3%)."
+      }
+    },
+    {
+      "concept_id": "relapse_after_wll",
+      "name": "Relapse after WLL",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "Follow-up (median 16.9 months)",
+      "groups": [
+        {
+          "arm_id": "wll",
+          "raw": {
+            "events": 19,
+            "total": 33
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "wll",
+        "measure": "risk",
+        "est": 0.576,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated"
+      },
+      "provenance": {
+        "pages": [
+          204
+        ],
+        "tables": [
+          "Table 5"
+        ],
+        "quote": "Follow-up was available in all cases but one. Overall, 19 (57.6%) patients relapsed, and 9 (27.3%) had a new WLL after relapsing."
+      }
+    },
+    {
+      "concept_id": "peri_procedural_mortality",
+      "name": "Death related to procedure or early post-procedure",
+      "type": "binary",
+      "outcome_type": "safety",
+      "timepoint_iso8601": "",
+      "timepoint_label": "Peri-procedural to 4 weeks",
+      "groups": [
+        {
+          "arm_id": "wll",
+          "raw": {
+            "events": 2,
+            "total": 33
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "wll",
+        "measure": "risk",
+        "est": 0.061,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated",
+        "notes": "One patient with secondary PAP due to myelodysplastic syndrome; one died 4 weeks after WLL without improvement."
+      },
+      "provenance": {
+        "pages": [
+          203
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "quote": "Two patients died after WLL... one died 4 weeks later."
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Oxygen saturation decreased",
+      "meddra": {
+        "soc": "Investigations",
+        "pt": "Oxygen saturation decreased"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "wll",
+          "events": 5,
+          "patients": 5,
+          "percentage": 15.2,
+          "total": 33
+        }
+      ],
+      "period": "Peri-procedural",
+      "management": "",
+      "provenance": {
+        "pages": [
+          203
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "quote": "Complications: Desaturation 5 (12.1%)."
+      }
+    },
+    {
+      "event_name": "Headache",
+      "meddra": {
+        "soc": "Nervous system disorders",
+        "pt": "Headache"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "wll",
+          "events": 1,
+          "patients": 1,
+          "percentage": 3.0,
+          "total": 33
+        }
+      ],
+      "period": "Peri-procedural",
+      "management": "",
+      "provenance": {
+        "pages": [
+          203
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "quote": "Headache/fever 1 (3)."
+      }
+    },
+    {
+      "event_name": "Pyrexia",
+      "meddra": {
+        "soc": "General disorders and administration site conditions",
+        "pt": "Pyrexia"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "wll",
+          "events": 1,
+          "patients": 1,
+          "percentage": 3.0,
+          "total": 33
+        }
+      ],
+      "period": "Peri-procedural",
+      "management": "",
+      "provenance": {
+        "pages": [
+          203
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "quote": "Headache/fever 1 (3)."
+      }
+    },
+    {
+      "event_name": "Circulatory collapse",
+      "meddra": {
+        "soc": "Vascular disorders",
+        "pt": "Circulatory collapse"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "life-threatening"
+      ],
+      "groups": [
+        {
+          "arm_id": "wll",
+          "events": 1,
+          "patients": 1,
+          "percentage": 3.0,
+          "total": 33
+        }
+      ],
+      "period": "Peri-procedural",
+      "management": "",
+      "provenance": {
+        "pages": [
+          203
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "quote": "Hemodynamic collapses 1 (3)."
+      }
+    },
+    {
+      "event_name": "Subcutaneous emphysema",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Subcutaneous emphysema"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "medically important"
+      ],
+      "groups": [
+        {
+          "arm_id": "wll",
+          "events": 1,
+          "patients": 1,
+          "percentage": 3.0,
+          "total": 33
+        }
+      ],
+      "period": "Peri-procedural",
+      "management": "",
+      "provenance": {
+        "pages": [
+          203
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "quote": "Subcutaneous emphysema 1 (3)."
+      }
+    },
+    {
+      "event_name": "Pneumonitis",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Pneumonitis"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "hospitalization"
+      ],
+      "groups": [
+        {
+          "arm_id": "wll",
+          "events": 1,
+          "patients": 1,
+          "percentage": 3.0,
+          "total": 33
+        }
+      ],
+      "period": "Peri-procedural",
+      "management": "",
+      "provenance": {
+        "pages": [
+          203
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "quote": "Pneumonitis 1 (3)."
+      }
+    },
+    {
+      "event_name": "Pulmonary oedema",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Pulmonary oedema"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "life-threatening",
+        "hospitalization"
+      ],
+      "groups": [
+        {
+          "arm_id": "wll",
+          "events": 1,
+          "patients": 1,
+          "percentage": 3.0,
+          "total": 33
+        }
+      ],
+      "period": "Peri-procedural",
+      "management": "",
+      "provenance": {
+        "pages": [
+          203
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "quote": "Cardiogenic pulmonary edema 1 (3)."
+      }
+    },
+    {
+      "event_name": "Device malposition",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Device malposition"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "medically important"
+      ],
+      "groups": [
+        {
+          "arm_id": "wll",
+          "events": 1,
+          "patients": 1,
+          "percentage": 3.0,
+          "total": 33
+        }
+      ],
+      "period": "Peri-procedural",
+      "management": "",
+      "provenance": {
+        "pages": [
+          203
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "quote": "Intubation dislocation 1 (3)."
+      }
+    },
+    {
+      "event_name": "Intubation prolonged",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Intubation prolonged"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "hospitalization",
+        "disability/incapacity"
+      ],
+      "groups": [
+        {
+          "arm_id": "wll",
+          "events": 1,
+          "patients": 1,
+          "percentage": 3.0,
+          "total": 33
+        }
+      ],
+      "period": "Peri-procedural",
+      "management": "",
+      "provenance": {
+        "pages": [
+          203
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "quote": "Prolonged intubation 1 (3)."
+      }
+    },
+    {
+      "event_name": "Death",
+      "meddra": {
+        "soc": "General disorders and administration site conditions",
+        "pt": "Death"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "death"
+      ],
+      "groups": [
+        {
+          "arm_id": "wll",
+          "events": 2,
+          "patients": 2,
+          "percentage": 6.1,
+          "total": 33
+        }
+      ],
+      "period": "Peri-procedural to 4 weeks",
+      "management": "",
+      "provenance": {
+        "pages": [
+          203
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "quote": "Two patients died after WLL... one died 4 weeks later."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "ROBINS-I",
+    "overall_judgment": "serious",
+    "domains": [
+      {
+        "name": "Confounding",
+        "judgment": "serious",
+        "support_for_judgment": "No control group; pre-post design with potential temporal and clinical confounding."
+      },
+      {
+        "name": "Selection of participants",
+        "judgment": "moderate",
+        "support_for_judgment": "Inclusion required undergoing WLL; may not represent all PAP severities."
+      },
+      {
+        "name": "Classification of interventions",
+        "judgment": "low",
+        "support_for_judgment": "Intervention clearly defined as WLL."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "moderate",
+        "support_for_judgment": "Substantial variability in WLL technique across centers."
+      },
+      {
+        "name": "Missing data",
+        "judgment": "low",
+        "support_for_judgment": "Outcomes reported for nearly all patients; follow-up missing in 1 case."
+      },
+      {
+        "name": "Measurement of outcomes",
+        "judgment": "low",
+        "support_for_judgment": "Objective outcomes (PaO2, PFTs) measured using standard methods."
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "moderate",
+        "support_for_judgment": "Primary outcome not pre-specified; multiple outcomes reported without adjustment."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "pulmonary alveolar proteinosis",
+      "whole lung lavage",
+      "WLL",
+      "bronchoalveolar lavage",
+      "interventional pulmonology",
+      "PaO2",
+      "complications"
+    ],
+    "summary_tldr": "In 33 PAP patients, WLL improved PaO2 by 6.375 mm Hg (p = 0.021) with complications in 33% and relapse in 58% at median 16.9 months.",
+    "clinical_relevance": "Despite center-to-center variability, WLL offers short-term oxygenation improvement in PAP; long-term control is limited by frequent relapses."
+  }
+}

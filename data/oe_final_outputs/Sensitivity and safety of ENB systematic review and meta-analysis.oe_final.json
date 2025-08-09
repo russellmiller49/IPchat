@@ -1,0 +1,529 @@
+{
+  "source": {
+    "document_id": "Sensitivity and safety of ENB systematic review and meta-analysis",
+    "ingest_date": "2025-08-08T00:00:00+00:00",
+    "trial_registration_id": "PROSPERO CRD42019109449",
+    "pmid": "",
+    "doi": "10.1016/j.chest.2020.05.534"
+  },
+  "document": {
+    "metadata": {
+      "title": "Sensitivity and Safety of Electromagnetic Navigation Bronchoscopy for Lung Cancer Diagnosis: Systematic Review and Meta-analysis",
+      "year": 2020,
+      "authors": [
+        "Erik E. Folch",
+        "Gonzalo Labarca",
+        "Daniel Ospina-Delgado",
+        "Fayez Kheir",
+        "Adnan Majid",
+        "Sandeep J. Khandhar",
+        "Hiren J. Mehta",
+        "Michael A. Jantz",
+        "Sebastian Fernandez-Bussy"
+      ],
+      "journal": "CHEST",
+      "doi": "10.1016/j.chest.2020.05.534",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "BACKGROUND: Bronchoscopy is a useful tool for the diagnosis of lesions near central airways; however, the diagnostic accuracy of these procedures for peripheral pulmonary lesions (PPLs) is a matter of ongoing debate. In this setting, electromagnetic navigation bronchoscopy (ENB) is a technique used to navigate and obtain samples from these lesions. This systematic review and meta-analysis aims to explore the sensitivity of ENB in patients with PPLs suspected of lung cancer. RESEARCH QUESTION: In patients with peripheral pulmonary lesion suspected of lung cancer, what is the sensitivity and safety of electromagnetic navigation bronchoscopy compared to surgery or longitudinal follow up? STUDY DESIGN AND METHODS: A comprehensive search of several databases was performed. Extracted data included sensitivity of ENB for malignancy, adequacy of the tissue sample, and complications. The study quality was assessed using the QUADAS-2 tool, and the combined data were meta-analyzed using a bivariate method model. A summary receiver operatic characteristic curve (sROC) was created. Finally, the quality of evidence was rated using the Grading of Recommendations Assessment, Development and Evaluation approach. RESULTS: Forty studies with a total of 3,342 participants were included in our analysis. ENB reported a pooled sensitivity of 77% (95% CI, 72%-82%; I2 = 80.6%) and a specificity of 100% (95% CI, 99%-100%; I2 = 0%) for malignancy. The sROC showed an area under the curve of 0.955 (P = .03). ENB achieved a sufficient sample for ancillary tests in 90.9% (95% CI, 84.8%-96.9%; I2 = 80.7%). Risk of pneumothorax was 2.0% (95% CI, 1.0-3.0; I2 = 45.2%). We found subgroup differences according to the risk of bias and the number of sampling techniques. Meta-regression showed an association between sensitivity and the mean distance of the sensor tip to the center of the nodule, the number of tissue sampling techniques, and the cancer prevalence in the study. INTERPRETATION: ENB is very safe with good sensitivity for diagnosing malignancy in patients with PPLs. The applicability of our findings is limited because most studies were done with the superDimension navigation system and heterogeneity was high.",
+      "methods": "This systematic review and meta-analysis followed PRISMA-DTA recommendations and was registered in PROSPERO (CRD42019109449). A comprehensive search of PubMed, Embase, LILACS, ClinicalTrials.gov, Cochrane Central, ScienceDirect, Scirus, ISI Web of Knowledge, and Google Scholar was performed in May 2019 and updated in November 2019 without language restrictions. Inclusion criteria: ENB used for diagnosis of PPLs; diagnosis confirmed histologically or by close clinical follow-up; clear reference standard for sensitivity. Data extracted included study characteristics, TP, FP, TN, FN, ROSE use, nodule size, fluoroscopy use, r-EBUS use, cancer prevalence, and successful navigation. Risk of bias was assessed using QUADAS-2. Meta-analyses used proportions after a binomial distribution with Freeman-Tukey double arcsine transformation (STATA 14.2; Open Meta Analyst). A bivariate model and sROC were generated. Heterogeneity assessed via I2 and subgroup analyses by prespecified covariates. Publication bias assessed with funnel plot and Egger test. Complementary analyses included meta-regression of sensitivity on continuous covariates (cancer prevalence, tip-to-nodule distance, procedure duration, number of sampling techniques, nodule size) and adequacy of samples for ancillary testing. Safety outcomes included pneumothorax (requiring chest tube placement), minor bleeding, major bleeding, acute respiratory failure, and need for repeat biopsy.",
+      "results": "Forty studies (n = 3,342 participants) were included. Successful navigation to target lesion was 98% (3,290/3,356 PPLs). Pooled sensitivity for lung cancer was 0.77 (95% CI 0.72-0.82; I2 = 80.6%) by random effects; fixed effects 0.76 (95% CI 0.74-0.78; I2 = 0%). Pooled specificity was 1.00 (95% CI 0.99-1.00; I2 = 0%). Negative likelihood ratio 0.2 (95% CI 0.1-0.3; I2 = 0%); positive likelihood ratio 15.8 (95% CI 10.3-24.2; I2 = 0%). sROC AUC 0.955 (P = .03). Publication bias low; Egger test P = .16. Adequate sample for ancillary tests 90.9% (95% CI 84.8%-96.9%; I2 = 80.7%). Pneumothorax risk 2.0% (95% CI 1.0%-3.0%; I2 = 45.2%). Subgroup analysis by overall QUADAS-2 risk: high risk studies sensitivity 0.669 (95% CI 0.59-0.74; I2 = 78.5%) vs low risk 0.771 (95% CI 0.712-0.821; I2 = 60.2%); between-group heterogeneity P < .01. Meta-regression found sensitivity associated with smaller mean tip-to-nodule distance, greater number of sampling techniques, and higher cancer prevalence."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults undergoing evaluation of peripheral pulmonary lesions suspected of lung cancer.",
+      "inclusion_criteria": [
+        "Electromagnetic navigation bronchoscopy (ENB) used for diagnosis of peripheral pulmonary lesions",
+        "Final diagnosis confirmed histologically or by close clinical follow-up",
+        "Clear reference standard stated to establish diagnostic sensitivity"
+      ],
+      "exclusion_criteria": [
+        "Review papers or meta-analyses",
+        "Letters or conference abstracts without sufficient data",
+        "Insufficient data to calculate sensitivity for malignancy",
+        "Studies using other technologies (non-ENB)",
+        "Studies evaluating centrally located lesions"
+      ]
+    },
+    "intervention": {
+      "text": "Electromagnetic navigation bronchoscopy (ENB) as index test for PPLs",
+      "details": "Image-guided flexible catheter with navigation software (primarily superDimension; also Veran SpiNDrive) used to reach and sample peripheral pulmonary lesions; often combined with r-EBUS, fluoroscopy, and multiple sampling techniques."
+    },
+    "comparison": {
+      "text": "Reference standard verification",
+      "details": "Surgical pathology, transthoracic needle aspiration/biopsy, mediastinoscopy, or longitudinal clinical/radiographic follow-up."
+    },
+    "outcomes": [
+      {
+        "name": "Sensitivity for malignancy (ENB index test)",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Specificity for malignancy (ENB index test)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Adequacy of ENB-obtained sample for ancillary testing",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Adverse events (pneumothorax, bleeding, respiratory failure, repeat biopsy)",
+        "type": "safety",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Systematic review and meta-analysis (diagnostic test accuracy)",
+    "allocation": "not_applicable",
+    "blinding": "not_applicable",
+    "sites_count": 40,
+    "countries": [],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 3342,
+      "analyzed": 3342
+    },
+    "analysis_populations": [
+      {
+        "name": "All included participants",
+        "description": "Participants across all included studies contributing to pooled analyses",
+        "n": 3342
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "ENB index test across included studies",
+      "n_randomized": 3342,
+      "n_analyzed": 3342,
+      "n_completed": 3342
+    },
+    {
+      "arm_id": "control",
+      "name": "Reference standards (surgery, TTNA/biopsy, follow-up) for verification",
+      "n_randomized": 3342,
+      "n_analyzed": 3342,
+      "n_completed": 3342
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "enb_sensitivity_malignancy_overall",
+      "name": "ENB sensitivity for malignancy (pooled)",
+      "type": "continuous",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "End of diagnostic workup",
+      "unit": "proportion",
+      "unit_canonical": "proportion",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": 0.77,
+            "sd": null,
+            "total": 3342
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "",
+        "measure": "pooled_proportion",
+        "est": 0.77,
+        "ci_lower": 0.72,
+        "ci_upper": 0.82,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Random-effects proportions meta-analysis with Freeman-Tukey double arcsine transformation; bivariate DTA model with sROC",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All included participants across 40 studies",
+        "missing_handling": "Not reported",
+        "heterogeneity_i2": 80.6
+      },
+      "provenance": {
+        "pages": [
+          1754,
+          1755,
+          1756
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "ENB reported a pooled sensitivity of 77% (95% CI, 72%-82%; I2 = 80.6%)."
+      }
+    },
+    {
+      "concept_id": "enb_specificity_malignancy_overall",
+      "name": "ENB specificity for malignancy (pooled)",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "End of diagnostic workup",
+      "unit": "proportion",
+      "unit_canonical": "proportion",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": 1.0,
+            "sd": null,
+            "total": 3342
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "",
+        "measure": "pooled_proportion",
+        "est": 1.0,
+        "ci_lower": 0.99,
+        "ci_upper": 1.0,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Random-effects proportions meta-analysis; bivariate DTA model with sROC",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All included participants across 40 studies",
+        "missing_handling": "Not reported",
+        "heterogeneity_i2": 0.0
+      },
+      "provenance": {
+        "pages": [
+          1755,
+          1756
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "Specificity was 100% (95% CI, 99%-100%; I2 = 0%)."
+      }
+    },
+    {
+      "concept_id": "enb_sroc_auc_overall",
+      "name": "sROC area under the curve for ENB",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "End of diagnostic workup",
+      "unit": "AUC",
+      "unit_canonical": "AUC",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": 0.955,
+            "sd": null,
+            "total": 3342
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "",
+        "measure": "AUC",
+        "est": 0.955,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.03,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Bivariate diagnostic random-effects model generating sROC",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All included participants across 40 studies",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          1755
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "The sROC showed an area under the curve of 0.955 (P = .03)."
+      }
+    },
+    {
+      "concept_id": "enb_sample_adequacy_ancillary_tests",
+      "name": "Adequate sample for ancillary testing (pooled proportion)",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "At time of diagnostic sampling",
+      "unit": "proportion",
+      "unit_canonical": "proportion",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": 0.909,
+            "sd": null,
+            "total": 3342
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "",
+        "measure": "pooled_proportion",
+        "est": 0.909,
+        "ci_lower": 0.848,
+        "ci_upper": 0.969,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Binary effect meta-analysis (maximum likelihood)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Participants with attempts for ancillary testing across included studies",
+        "missing_handling": "Not reported",
+        "heterogeneity_i2": 80.7
+      },
+      "provenance": {
+        "pages": [
+          1754
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "ENB achieved a sufficient sample for ancillary tests in 90.9% (95% CI, 84.8%-96.9%; I2 = 80.7%)."
+      }
+    },
+    {
+      "concept_id": "enb_negative_likelihood_ratio",
+      "name": "Negative likelihood ratio (pooled)",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "End of diagnostic workup",
+      "unit": "ratio",
+      "unit_canonical": "ratio",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": 0.2,
+            "sd": null,
+            "total": 3342
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "",
+        "measure": "pooled_ratio",
+        "est": 0.2,
+        "ci_lower": 0.1,
+        "ci_upper": 0.3,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Random-effects pooled likelihood ratios",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All included participants across 40 studies",
+        "missing_handling": "Not reported",
+        "heterogeneity_i2": 0.0
+      },
+      "provenance": {
+        "pages": [
+          1755
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "The negative likelihood ratio was 0.2 (95% CI, 0.1-0.3; I2 = 0%)."
+      }
+    },
+    {
+      "concept_id": "enb_positive_likelihood_ratio",
+      "name": "Positive likelihood ratio (pooled)",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "End of diagnostic workup",
+      "unit": "ratio",
+      "unit_canonical": "ratio",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": 15.8,
+            "sd": null,
+            "total": 3342
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "",
+        "measure": "pooled_ratio",
+        "est": 15.8,
+        "ci_lower": 10.3,
+        "ci_upper": 24.2,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Random-effects pooled likelihood ratios",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All included participants across 40 studies",
+        "missing_handling": "Not reported",
+        "heterogeneity_i2": 0.0
+      },
+      "provenance": {
+        "pages": [
+          1755
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "The positive likelihood ratio was 15.8 (95% CI, 10.3-24.2; I2 = 0%)."
+      }
+    },
+    {
+      "concept_id": "enb_subgroup_risk_of_bias_diff",
+      "name": "Subgroup difference in sensitivity by QUADAS-2 risk of bias",
+      "type": "continuous",
+      "outcome_type": "exploratory",
+      "timepoint_iso8601": "",
+      "timepoint_label": "Sensitivity stratified by study risk of bias",
+      "unit": "proportion",
+      "unit_canonical": "proportion",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": 0.669,
+            "sd": null,
+            "total": 0
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "",
+        "measure": "between_subgroup_p_value",
+        "est": null,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.01,
+        "p_operator": "<",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Subgroup analysis with Q test for heterogeneity between subgroups",
+        "adjusted": false,
+        "covariates": [
+          "Overall QUADAS-2 risk of bias (high vs low)"
+        ],
+        "population": "All included studies",
+        "missing_handling": "Not reported",
+        "notes": "High-risk studies sensitivity 0.669 (95% CI 0.59-0.74; I2 = 78.5%) vs low-risk 0.771 (95% CI 0.712-0.821; I2 = 60.2%)"
+      },
+      "provenance": {
+        "pages": [
+          1756
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "There was significant heterogeneity between subgroups with a Q statistic of P < .01."
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Pneumothorax",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Pneumothorax"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "other medically important condition"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 67,
+          "patients": 67,
+          "percentage": 2.0,
+          "total": 3342
+        }
+      ],
+      "period": "Periprocedural/30-day (as reported across studies; pooled)",
+      "management": "Not uniformly reported; definition included pneumothorax events in ENB procedures across included studies.",
+      "provenance": {
+        "pages": [
+          1754
+        ],
+        "tables": [],
+        "quote": "Risk of pneumothorax was 2.0% (95% CI, 1.0-3.0; I2 = 45.2%)."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "QUADAS-2",
+    "overall_judgment": "high",
+    "domains": [
+      {
+        "name": "Patient selection",
+        "judgment": "high",
+        "support_for_judgment": "High or unclear risk in most studies due to non-consecutive or non-random sampling."
+      },
+      {
+        "name": "Index test",
+        "judgment": "high",
+        "support_for_judgment": "Unclear blinding and variable definition of navigation success; potential selective reporting."
+      },
+      {
+        "name": "Reference standard",
+        "judgment": "high",
+        "support_for_judgment": "Lack of a uniform reference standard in many studies; use of follow-up without confirmatory pathology."
+      },
+      {
+        "name": "Flow and timing",
+        "judgment": "some concerns",
+        "support_for_judgment": "Variability in follow-up durations (3-24 months) and incomplete verification in some cohorts."
+      },
+      {
+        "name": "Applicability",
+        "judgment": "some concerns",
+        "support_for_judgment": "Most studies used the superDimension system; generalizability to other platforms uncertain."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "electromagnetic navigation bronchoscopy",
+      "ENB",
+      "peripheral pulmonary lesion",
+      "lung cancer",
+      "diagnostic accuracy",
+      "sensitivity",
+      "specificity",
+      "pneumothorax",
+      "meta-analysis",
+      "sROC"
+    ],
+    "summary_tldr": "Across 40 studies (n=3,342), ENB sensitivity was 0.77 and specificity 1.00 for malignancy; pneumothorax risk was 2.0%.",
+    "clinical_relevance": "ENB offers a minimally invasive, relatively safe option to diagnose peripheral lung lesions, with good sensitivity and very high specificity, potentially reducing reliance on higher-risk transthoracic approaches."
+  }
+}

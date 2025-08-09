@@ -1,0 +1,98 @@
+{
+  "source": {
+    "document_id": "Endobronchial epinephrine confusion is in the air",
+    "ingest_date": "2025-08-08T11:55:22.541247+00:00",
+    "trial_registration_id": null,
+    "pmid": null,
+    "doi": null
+  },
+  "document": {
+    "metadata": {
+      "title": "Endobronchial Epinephrine: Confusion Is in the Air",
+      "year": 2013,
+      "authors": [
+        "Kay Leong Khoo",
+        "Pyng Lee",
+        "Atul C. Mehta",
+        "Daniel P. Steinfort",
+        "Felix J. F. Herth",
+        "Ralf Eberhardt",
+        "Louis B. Irving"
+      ],
+      "journal": "American Journal of Respiratory and Critical Care Medicine",
+      "doi": null,
+      "pmid": null
+    },
+    "sections": {
+      "abstract": "Letter and reply discussing the safety, dosing, and unpredictability of endobronchial/endotracheal epinephrine for control of airway bleeding during bronchoscopy. Authors highlight wide variability in recommended dilutions and volumes, potential for cardiac arrhythmias at low doses, influence of diluent volume on systemic absorption, and greater systemic absorption from distal airways. Recommendations include first-line iced saline, cautious limited epinephrine dosing with monitoring only for central airway bleeding, avoidance in high-risk patients, consideration of norepinephrine, and avoidance of epinephrine instillation into lung periphery via guide sheath after transbronchial lung biopsy.",
+      "methods": "No experimental methods; this is a correspondence with literature synthesis and practice recommendations from clinical experience.",
+      "results": "No primary data or quantitative results are presented. The correspondence cites prior studies indicating variable hemodynamic effects of endotracheal epinephrine, potential hypotension with small doses, increased systemic absorption with larger diluent volumes, and higher systemic absorption from peripheral airway administration in animal models."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Patients undergoing bronchoscopy with airway bleeding, including central (endobronchial) bleeding and bleeding after transbronchial lung biopsy.",
+      "inclusion_criteria": [],
+      "exclusion_criteria": [
+        "Elderly patients (for epinephrine use caution/avoidance per practice note)",
+        "Patients with arrhythmias",
+        "Patients with coronary artery disease",
+        "Patients with carcinoid tumors"
+      ]
+    },
+    "intervention": {
+      "text": "Topical endobronchial epinephrine instillation",
+      "details": "Suggested approach: use 1:100,000 epinephrine in small 2-ml aliquots up to a maximum cumulative dose of 0.6 mg for central airway bleeding; continuous heart rate and blood pressure monitoring; avoid peripheral (distal) instillation via guide sheath."
+    },
+    "comparison": {
+      "text": "Non-epinephrine hemostatic measures",
+      "details": "Iced saline instillation (10-15 ml aliquots via wedged bronchoscope), bronchoscopic tamponade balloon, lateral decubitus positioning; consider norepinephrine as alternative to reduce chronotropic effect."
+    },
+    "outcomes": [
+      {
+        "name": "Control of airway bleeding",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Cardiac adverse events (e.g., arrhythmias, hypotension)",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Correspondence",
+    "allocation": "none",
+    "blinding": "none",
+    "sites_count": 0,
+    "countries": [],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": []
+  },
+  "arms": [],
+  "outcomes_normalized": [],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "N/A",
+    "overall_judgment": "not_applicable",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "endobronchial epinephrine",
+      "bronchoscopy",
+      "airway bleeding",
+      "transbronchial lung biopsy",
+      "iced saline",
+      "arrhythmia",
+      "norepinephrine"
+    ],
+    "summary_tldr": "Correspondence warns of unpredictable systemic effects and arrhythmia risk from endobronchial/ endotracheal epinephrine, recommends iced saline first-line and cautious limited dosing with monitoring only for central airway bleeding; avoid distal instillation via guide sheath.",
+    "clinical_relevance": "Highlights safety concerns and practical dosing/monitoring guidance for epinephrine use in bronchoscopic management of bleeding, emphasizing alternatives and patient risk stratification."
+  }
+}

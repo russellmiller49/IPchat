@@ -1,0 +1,416 @@
+{
+  "source": {
+    "document_id": "ROSE during EBUS  for diagnosing lung cancer a randomized study",
+    "ingest_date": "2025-08-08T15:26:09.433301+00:00",
+    "trial_registration_id": "UMIN000001334",
+    "pmid": "",
+    "doi": "10.1159/000346987"
+  },
+  "document": {
+    "metadata": {
+      "title": "Rapid On-Site Cytologic Evaluation during Endobronchial Ultrasound-Guided Transbronchial Needle Aspiration for Diagnosing Lung Cancer: A Randomized Study",
+      "year": 2013,
+      "authors": [
+        "Masahide Oki",
+        "Hideo Saka",
+        "Chiyoe Kitagawa",
+        "Yoshihito Kogure",
+        "Naohiko Murata",
+        "Takashi Adachi",
+        "Masahiko Ando"
+      ],
+      "journal": "Respiration",
+      "doi": "10.1159/000346987",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Background: Although rapid on-site cytologic evaluation (ROSE) is widely used during endobronchial ultrasound-guided transbronchial needle aspiration (EBUS-TBNA), its role remains unclear. Objectives: The purpose of the present study was to evaluate the efficacy of ROSE during EBUS-TBNA in the diagnosis of lung cancer. Methods: One hundred and twenty patients highly suspected of having lung cancer who had hilar/mediastinal lymphadenopathy or a tumor adjacent to the central airway were enrolled in this study and randomized to undergo EBUS-TBNA with or without ROSE. Results: Twelve patients with visible endobronchial lesions were excluded in the analysis. Thus, a total of 108 patients (55 in the ROSE group, 53 in the non-ROSE group) were analyzed. Additional procedures including EBUS-TBNA for lesions other than the main target lesion and/or transbronchial biopsy in the same setting were performed in 11% of patients in the ROSE group and 57% in the non-ROSE group (p < 0.001). Mean puncture number was significantly lower in the ROSE group (2.2 vs. 3.1 punctures, p < 0.001), and mean bronchoscopy time was similar between both groups (22.3 vs. 22.1 min, p = 0.95). The sensitivity and accuracy for diagnosing lung cancer were 88 and 89% in the ROSE group, and 86 and 89% in the non-ROSE group, respectively. No complications were associated with the procedures. Conclusions: ROSE during EBUS-TBNA is associated with a significantly lower need for additional bronchoscopic procedures and puncture number.",
+      "methods": "Prospective randomized study at a single center (Nagoya Medical Center). Eligible patients were highly suspected of lung cancer with hilar/mediastinal lymphadenopathy or a tumor ≥10 mm adjacent to the central airway on CT, accessible by EBUS-TBNA. Patients with prior pathological diagnosis of lung cancer or with bronchoscopically visible endobronchial lesions were excluded. Randomization to EBUS-TBNA with or without ROSE was done by minimization with stratification factors: lymph node location (subcarinal vs other), node size (≥20 mm vs <20 mm), and examiner experience (staff vs residents ≤5 years after MD). EBUS-TBNA was performed under local anesthesia with lidocaine and midazolam sedation using BF-UC260F-OL8 bronchoscope with 21- or 22-gauge needle under real-time EBUS guidance. In the ROSE arm, a cytotechnologist performed on-site evaluation using Diff-Quik; additional passes/procedures were decided based on ROSE. In the non-ROSE arm, smears were fixed for cytology. Protocol defined 3 punctures as standard; additional punctures or procedures (EBUS-TBNA of other lesions and/or transbronchial biopsy for peripheral lesions) were allowed at examiner discretion. Pathology interpreted by an experienced pathologist; 'suspicious' was considered negative. Final diagnosis established by pathology, microbiology, or ≥6 months clinical/radiologic follow-up for benign. Dichotomous variables analyzed by χ2 or Fisher exact test; continuous by Student’s t test; significance at p ≤ 0.05.",
+      "results": "A total of 120 patients were randomized; 12 with visible endobronchial lesions were excluded, leaving 108 analyzed (ROSE n=55, non-ROSE n=53) with balanced baseline characteristics. Additional procedures in the same setting occurred in 6/55 (11%) ROSE vs 30/53 (57%) non-ROSE (p < 0.001). Mean punctures for the main target were 2.2±0.9 in ROSE vs 3.1±0.4 in non-ROSE (p < 0.001). Bronchoscopy time was similar: 22.3±15.9 vs 22.1±7.7 minutes (p = 0.95). Overall diagnostic yield of EBUS-TBNA was 47/55 (85%) ROSE vs 40/53 (75%) non-ROSE (p = 0.23). Diagnostic accuracy for lung cancer was 89% in both groups (p = 0.95). No bronchoscopy-related complications were observed in either group."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults highly suspected of lung cancer with hilar/mediastinal lymphadenopathy or tumor ≥10 mm adjacent to central airway, accessible by EBUS-TBNA.",
+      "inclusion_criteria": [
+        "Suspicion of lung cancer",
+        "Hilar/mediastinal lymphadenopathy or tumor ≥10 mm on CT",
+        "Lesion accessible by EBUS-TBNA",
+        "Provided informed consent"
+      ],
+      "exclusion_criteria": [
+        "Pathological diagnosis of lung cancer prior to bronchoscopy",
+        "Obviously bronchoscopically visible endobronchial lesions"
+      ]
+    },
+    "intervention": {
+      "text": "EBUS-TBNA with rapid on-site cytologic evaluation (ROSE)",
+      "details": "Real-time EBUS-guided TBNA using 21- or 22-gauge needle; on-site cytotechnologist assessment of Diff-Quik stained smears guiding additional passes/procedures."
+    },
+    "comparison": {
+      "text": "EBUS-TBNA without ROSE",
+      "details": "Smears fixed in alcohol for cytology; standard 3 punctures per lesion with additional passes/procedures at examiner discretion without on-site feedback."
+    },
+    "outcomes": [
+      {
+        "name": "Proportion undergoing additional bronchoscopic procedures during the same setting",
+        "type": "primary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "RCT",
+    "allocation": "randomized",
+    "blinding": "open-label",
+    "sites_count": 1,
+    "countries": [
+      "Japan"
+    ],
+    "sample_size": {
+      "planned": 120,
+      "enrolled": 120,
+      "analyzed": 108
+    },
+    "analysis_populations": [
+      {
+        "name": "Randomized",
+        "description": "All enrolled and randomized",
+        "n": 120
+      },
+      {
+        "name": "Analyzed",
+        "description": "Randomized patients excluding those with visible endobronchial lesions per protocol",
+        "n": 108
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "EBUS-TBNA with ROSE",
+      "n_randomized": 55,
+      "n_analyzed": 55,
+      "n_completed": 55
+    },
+    {
+      "arm_id": "control",
+      "name": "EBUS-TBNA without ROSE",
+      "n_randomized": 53,
+      "n_analyzed": 53,
+      "n_completed": 53
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "additional_procedures_same_setting",
+      "name": "Additional bronchoscopic procedures performed in the same setting",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Intra-procedural",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 6,
+            "total": 55
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 30,
+            "total": 53
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": -0.457,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.001,
+        "p_operator": "<",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Chi-square test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Analyzed",
+        "missing_handling": "Complete-case"
+      },
+      "provenance": {
+        "pages": [
+          489
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Additional procedures: 6 vs 30; p < 0.001"
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.193
+        },
+        "odds_ratio": {
+          "est": 0.094
+        },
+        "arr": -0.457,
+        "nnh": 2.2
+      }
+    },
+    {
+      "concept_id": "puncture_number_main_target",
+      "name": "Puncture number for the main target lesion",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Intra-procedural",
+      "unit": "punctures",
+      "unit_canonical": "count",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": 2.2,
+            "sd": 0.9,
+            "total": 55
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "mean": 3.1,
+            "sd": 0.4,
+            "total": 53
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "mean_difference",
+        "est": -0.9,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.001,
+        "p_operator": "<",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Student's t test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Analyzed"
+      },
+      "provenance": {
+        "pages": [
+          489
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "Mean puncture number for main target lesion: 2.2±0.9 vs 3.1±0.4; p < 0.001"
+      }
+    },
+    {
+      "concept_id": "bronchoscopy_time_minutes",
+      "name": "Bronchoscopy time",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Intra-procedural",
+      "unit": "min",
+      "unit_canonical": "minute",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": 22.3,
+            "sd": 15.9,
+            "total": 55
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "mean": 22.1,
+            "sd": 7.7,
+            "total": 53
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "mean_difference",
+        "est": 0.2,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.95,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Student's t test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Analyzed"
+      },
+      "provenance": {
+        "pages": [
+          489
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "Bronchoscopy time, min: 22.3±15.9 vs 22.1±7.7; p = 0.95"
+      }
+    },
+    {
+      "concept_id": "ebus_tbna_diagnostic_yield",
+      "name": "Diagnostic yield of EBUS-TBNA (per-patient)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Index procedure",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 47,
+            "total": 55
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 40,
+            "total": 53
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": 0.1,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.23,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Chi-square test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Analyzed",
+        "missing_handling": "Complete-case"
+      },
+      "provenance": {
+        "pages": [
+          489
+        ],
+        "tables": [
+          "Text under Table 3"
+        ],
+        "quote": "The overall diagnostic yield of EBUS-TBNA in the ROSE group and the non-ROSE group was 85% (47 of 55) and 75% (40 of 53), respectively (p = 0.23)."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 1.132
+        },
+        "odds_ratio": {
+          "est": 1.909
+        },
+        "arr": 0.1,
+        "nnt": 10.0
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Procedural complication",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Procedural complication"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 55
+        },
+        {
+          "arm_id": "control",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 53
+        }
+      ],
+      "period": "Peri-procedural",
+      "management": "",
+      "provenance": {
+        "pages": [
+          490
+        ],
+        "tables": [],
+        "quote": "No complication was observed to be associated with bronchoscopy."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "RoB 2",
+    "overall_judgment": "some concerns",
+    "domains": [
+      {
+        "name": "Randomization process",
+        "judgment": "low",
+        "support_for_judgment": "Randomization by minimization with stratification (location, size, examiner experience)."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "high",
+        "support_for_judgment": "Open-label with operator decisions (additional passes/procedures) influenced by ROSE results; primary outcome is operator-driven."
+      },
+      {
+        "name": "Missing outcome data",
+        "judgment": "low",
+        "support_for_judgment": "Outcomes reported for all analyzed patients; no complications reported."
+      },
+      {
+        "name": "Measurement of the outcome",
+        "judgment": "low",
+        "support_for_judgment": "Binary procedural outcomes and timing objectively recorded."
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "low",
+        "support_for_judgment": "Outcomes pre-specified and reported with corresponding p-values."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "EBUS-TBNA",
+      "ROSE",
+      "rapid on-site cytologic evaluation",
+      "lung cancer",
+      "bronchoscopy",
+      "mediastinal lymph nodes"
+    ],
+    "summary_tldr": "In a single-center RCT, ROSE during EBUS-TBNA reduced additional procedures (11% vs 57%) and puncture number without affecting bronchoscopy time or diagnostic accuracy.",
+    "clinical_relevance": "ROSE can streamline EBUS-TBNA by reducing extra sampling during the same session, though it does not improve diagnostic accuracy versus non-ROSE."
+  }
+}

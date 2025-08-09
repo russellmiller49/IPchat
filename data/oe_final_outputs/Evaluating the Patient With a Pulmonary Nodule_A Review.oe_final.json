@@ -1,0 +1,106 @@
+{
+  "source": {
+    "document_id": "Evaluating the Patient With a Pulmonary Nodule_A Review",
+    "ingest_date": "2025-08-08T12:05:13.673480+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1001/jama.2021.24287"
+  },
+  "document": {
+    "metadata": {
+      "title": "Evaluating the Patient With a Pulmonary Nodule: A Review",
+      "year": 2022,
+      "authors": [
+        "Peter J. Mazzone",
+        "Louis Lam"
+      ],
+      "journal": "JAMA",
+      "doi": "10.1001/jama.2021.24287",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "IMPORTANCE Pulmonary nodules are identified in approximately 1.6 million patients per year in the US and are detected on approximately 30% of computed tomographic (CT) images of the chest. Optimal treatment of an individual with a pulmonary nodule can lead to early detection of cancer while minimizing testing for a benign nodule. OBSERVATIONS At least 95% of all pulmonary nodules identified are benign, most often granulomas or intrapulmonary lymph nodes. Smaller nodules are more likely to be benign. Pulmonary nodules are categorized as small solid (<8 mm), larger solid (≥8 mm), and subsolid. Subsolid nodules are divided into ground-glass nodules (no solid component) and part-solid (both ground-glass and solid components). The probability of malignancy is less than 1% for all nodules smaller than 6 mm and 1% to 2% for nodules 6 mm to 8 mm. Nodules that are 6 mm to 8 mm can be followed with a repeat chest CT in 6 to 12 months, depending on the presence of patient risk factors and imaging characteristics associated with lung malignancy, clinical judgment about the probability of malignancy, and patient preferences. The treatment of an individual with a solid pulmonary nodule 8 mm or larger is based on the estimated probability of malignancy; the presence of patient comorbidities, such as chronic obstructive pulmonary disease and coronary artery disease; and patient preferences. Management options include surveillance imaging, positron emission tomography-CT imaging, nonsurgical biopsy with bronchoscopy or transthoracic needle biopsy, and surgical resection. Part-solid pulmonary nodules are managed according to the size of the solid component. Larger solid components are associated with a higher risk of malignancy. Ground-glass pulmonary nodules have a probability of malignancy of 10% to 50% when they persist beyond 3 months and are larger than 10 mm in diameter. A malignant nodule that is entirely ground glass in appearance is typically slow growing. Current bronchoscopy and transthoracic needle biopsy methods yield a sensitivity of 70% to 90% for a diagnosis of lung cancer. CONCLUSIONS AND RELEVANCE Pulmonary nodules are identified in approximately 1.6 million people per year in the US and approximately 30% of chest CT images. The treatment of an individual with a pulmonary nodule should be guided by the probability that the nodule is malignant, safety of testing, the likelihood that additional testing will be informative, and patient preferences.",
+      "methods": "PubMed and Cochrane databases were searched for English-language articles related to the epidemiology and treatment of adults with pulmonary nodules that were published from January 1, 2011, through September 28, 2021. Search terms included lung nodule(s), pulmonary nodule(s), and combinations modified by solitary, multiple, screening, screen-detected, and incidental. Results were further categorized by guidelines, risk, risk assessment, calculator, model, algorithm, diagnosis, diagnostic techniques, procedures, biopsy, bronchoscopy, surgery, resection, disease management, treatment, therapy, tumor board, and clinic. A total of 286 articles were retrieved; 51 articles were selected for inclusion (9 clinical practice guidelines, 11 clinical trials [6 randomized, 5 nonrandomized], 5 prospective cohort studies, 14 retrospective cohort studies, 5 risk calculator development or validation studies, 3 systematic reviews with meta-analyses, 3 biomarker accuracy studies, and 1 questionnaire study).",
+      "results": "Approximately 95% of pulmonary nodules identified on CT scans are benign. In high-risk populations undergoing LDCT screening, nodules are common: in the National Lung Screening Trial, nodules ≥4 mm were present in 27.3% of baseline scans, with malignancy probabilities of 0.5% for 4-6 mm nodules and 1.7% for 7-10 mm nodules. New nodules appeared in 2.6% at year 2. In the NELSON trial, 2.3% of baseline nodules demonstrated concerning growth (volume doubling time <400 days). On chest radiography, nodules were identified in 7.8% to 8.9% of screens. Incidental nodules also arise on nonchest imaging (eg, 9.9% on CT pulmonary angiograms). Incidence rises with age (0.4 to 20.3 per 1000 person-years from ages 18-24 to 85-89) and varies modestly by sex and smoking exposure. Imaging features can suggest benign etiologies (eg, dense central, laminated, stippled, or popcorn calcification; perifissural morphology; fat density; arteriovenous malformation with feeding/draining vessels). Solid nodules stable for ≥24 months on CT are considered benign. Management is guided by nodule size, solidity, imaging features, and patient risk factors. Small solid nodules <6 mm typically require no follow-up in low-risk individuals; in higher-risk individuals, a 12-month CT may be considered. Nodules 6-8 mm are generally followed at 6-12 months, with timing individualized. Diagnostic testing (FDG-PET, bronchoscopy, transthoracic needle biopsy) has limited yield for nodules <8 mm but improved performance for 8-30 mm nodules. For solid nodules ≥8 mm, management is driven by estimated malignancy probability, comorbidities, and preferences, with options including surveillance CT at 3 months, PET/CT, nonsurgical biopsy, or surgical resection. Subsolid nodules are stratified by ground-glass versus part-solid components and by size of the solid component; persistent ground-glass nodules >10 mm carry an estimated 10% to 50% malignancy risk and often grow slowly. Contemporary bronchoscopy and transthoracic needle biopsy demonstrate sensitivity of 70% to 90% for diagnosing lung cancer."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with a single dominant pulmonary nodule identified incidentally or on lung cancer screening CT.",
+      "inclusion_criteria": [
+        "Adults undergoing evaluation of a single dominant pulmonary nodule",
+        "Nodule detected on chest imaging (CT, x-ray) or LDCT screening"
+      ],
+      "exclusion_criteria": [
+        "Known active malignancy",
+        "Multiple pulmonary nodules without a dominant nodule",
+        "Pulmonary mass >30 mm",
+        "Special populations where general guidelines may not apply (eg, organ transplant recipients, immunocompromised, age <35 years)"
+      ]
+    },
+    "intervention": {
+      "text": "Evaluation and management strategies for pulmonary nodules",
+      "details": "Risk assessment using clinical and imaging features; surveillance with chest CT at intervals based on size and risk; PET/CT; nonsurgical biopsy (bronchoscopy or transthoracic needle biopsy); surgical resection; management tailored by nodule size and composition (solid vs subsolid)."
+    },
+    "comparison": {
+      "text": "Alternative diagnostic or surveillance strategies",
+      "details": "Varying surveillance intervals, imaging modalities, and biopsy approaches according to guideline recommendations and individualized risk."
+    },
+    "outcomes": [
+      {
+        "name": "Probability of malignancy by nodule size and characteristics",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Diagnostic yield/sensitivity of biopsy modalities",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Appropriateness of surveillance intervals",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Review",
+    "allocation": "",
+    "blinding": "",
+    "sites_count": 0,
+    "countries": [],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": []
+  },
+  "arms": [],
+  "outcomes_normalized": [],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "NA",
+    "overall_judgment": "na",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "pulmonary nodule",
+      "lung nodule",
+      "CT",
+      "LDCT",
+      "screening",
+      "Fleischner",
+      "Lung-RADS",
+      "bronchoscopy",
+      "transthoracic needle biopsy",
+      "PET/CT",
+      "ground-glass nodule",
+      "part-solid nodule"
+    ],
+    "summary_tldr": "Most pulmonary nodules are benign; management is guided by nodule size, imaging features, and patient risk, with nodules <6 mm having <1% malignancy risk and diagnostic procedures reserved mainly for nodules ≥8 mm.",
+    "clinical_relevance": "Provides evidence-based framework and guideline-aligned recommendations for evaluating incidental and screen-detected pulmonary nodules to balance early cancer detection with avoidance of unnecessary procedures."
+  }
+}

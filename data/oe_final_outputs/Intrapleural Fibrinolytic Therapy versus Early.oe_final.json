@@ -1,0 +1,368 @@
+{
+  "source": {
+    "document_id": "Intrapleural Fibrinolytic Therapy versus Early",
+    "ingest_date": "2025-08-08T13:30:17.294315+00:00",
+    "trial_registration_id": "NCT02973139",
+    "pmid": "",
+    "doi": "10.1513/AnnalsATS.202001-076OC"
+  },
+  "document": {
+    "metadata": {
+      "title": "Intrapleural Fibrinolytic Therapy versus Early Medical Thoracoscopy for Treatment of Pleural Infection: Randomized Controlled Clinical Trial",
+      "year": 2020,
+      "authors": [
+        "Fayez Kheir",
+        "Sanket Thakore",
+        "Hiren Mehta",
+        "Michael Jantz",
+        "Mihir Parikh",
+        "Alex Chee",
+        "Upendra Kaphle",
+        "Carlos Sisnega",
+        "Sebastian Fernandez-Bussy",
+        "Adnan Majid"
+      ],
+      "journal": "Annals of the American Thoracic Society",
+      "doi": "10.1513/AnnalsATS.202001-076OC",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Rationale: Pleural infection is frequently encountered in clinical practice and is associated with high morbidity and mortality. Limited evidence exists regarding the optimal treatment. Although both early medical thoracoscopy (MT) and tube thoracostomy with intrapleural instillation of tissue plasminogen activator and human recombinant deoxyribonuclease are acceptable treatments for patients with complicated pleural infection, there is a lack of comparative data for these modes of management. Objectives: The aim of this study was to compare the safety and efficacy of early MT versus intrapleural fibrinolytic therapy (IPFT) in selected patients with multiloculated pleural infection and empyema. Methods: This was a prospective multicenter, randomized controlled trial involving patients who underwent MT or IPFT for pleural infection. The primary outcome was the length of hospital stay after either intervention. Secondary outcomes included the total length of hospital stay, treatment failure, 30-day mortality, and adverse events. Results: Thirty-two patients with pleural infection were included in the study. The median length of stay after an intervention was 4 days in the IPFT arm and 2 days in the MT arm (P = 0.026). The total length of hospital stay was 6 days in the IPFT arm and 3.5 days in MT arm (P = 0.12). There was no difference in treatment failure, mortality, or adverse events between the treatment groups, and no serious complications related to either intervention were recorded. Conclusions: When used early in the course of a complicated parapneumonic effusion or empyema, MT is safe and might shorten hospital stays for selected patients as compared with IPFT therapy. A multicenter trial with a larger sample size is needed to confirm these findings. Clinical trial registered with ClinicalTrials.gov (NCT02973139).",
+      "methods": "This randomized trial recruited patients at three academic medical centers in the United States (Tulane University Medical Center; University of Florida; Beth Israel Deaconess Medical Center). Adults (>18 years) with suspected complicated parapneumonic effusion (CPPE) or empyema were screened. CPPE was defined as nonpurulent effusion in a patient with clinical evidence of infection with pleural fluid pH < 7.2, glucose < 60 mg/dl, or LDH > 1,000 IU/L. Empyema was defined as pus in the pleural space and/or positive Gram stain or culture. Inclusion required either CPPE with septated pleural effusion on ultrasound/CT and minimal/no lung entrapment, or empyema that failed to drain completely with a chest tube. Exclusions included age <18 years, pregnancy, inability to consent, prior thoracic surgery or IPFT for pleural infection, inability to tolerate procedure, uncorrectable coagulopathy, homogeneously echogenic effusion on ultrasound, or nonexpandable lung. After consent, patients were randomized 1:1 to MT or IPFT using a minimization method with sealed envelopes (factors: purulence, septations, effusion size, infection acquisition setting). All patients received small-bore chest tubes (<14 Fr) and antibiotics per standard care. MT was performed within 48 hours under moderate sedation/local anesthesia via 1-2 ports with mechanical adhesiolysis, lavage, and placement of a 24 Fr drain to suction; drain removal followed standard criteria. IPFT consisted of intrapleural tPA 10 mg plus DNase 5 mg in 50 ml normal saline each, given concurrently twice daily with 60-ml saline flush and 2-hour clamp, up to 6 doses, with chest tube suction; removal criteria matched MT. Primary outcome was postintervention hospital length of stay. Secondary outcomes: total hospital length of stay, treatment failure requiring additional intervention, adverse events (including pleural bleeding, significant pain, mortality, visceral pleural injury, prolonged air leak, cellulitis, subcutaneous emphysema). Statistical analysis used t tests for parametric, Mann-Whitney U for nonparametric, and Fisher's exact for categorical data; two-sided alpha 0.05.",
+      "results": "Between November 2017 and July 2019, 114 patients were screened; 32 were randomized (16 IPFT, 16 MT). Baseline characteristics were similar between groups. The median postintervention hospital stay was 4 days (IQR 4-4.5 or 4-5.5 as per tabulated data) for IPFT versus 2 days (IQR 2-5) for MT (P = 0.026). Total hospital stay was 6 days (IQR 5-8.5) for IPFT versus 3.5 days (IQR 2-10) for MT (P = 0.12). All patients had 4-6 week clinic follow-up; no readmissions within 30 days occurred and no additional pleural interventions were required in either arm. Total median antibiotic duration was 27.5 days (IQR 24-30.75) for IPFT and 26.5 days (IQR 22-32.25) for MT. IPFT was successful in 13/16 patients (81.25%). The study reported no significant differences between groups in treatment failure, mortality, or adverse events, and no serious complications attributable to either intervention."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults hospitalized with complicated parapneumonic effusion or pleural empyema with septations/loculations suitable for early procedural management.",
+      "inclusion_criteria": [
+        "Age >= 18 years",
+        "Complicated parapneumonic effusion with septations on ultrasound and/or CT with minimal (<2 cm) or no lung entrapment",
+        "or Empyema not completely drained by initial chest tube"
+      ],
+      "exclusion_criteria": [
+        "Age < 18 years",
+        "Pregnancy",
+        "Inability to provide informed consent",
+        "Previous thoracic surgery or prior IPFT for pleural infection",
+        "Hemodynamic instability or severe hypoxemia precluding procedure",
+        "Uncorrectable coagulopathy",
+        "Homogeneously echogenic effusion on pleural ultrasound",
+        "Nonexpandable lung (air in pleural space) after initial thoracentesis or small-bore chest tube"
+      ]
+    },
+    "intervention": {
+      "text": "Intrapleural fibrinolytic therapy (IPFT): tPA + DNase",
+      "details": "tPA 10 mg and DNase 5 mg, each in 50 ml 0.9% NaCl, administered concurrently via chest tube followed by 60-ml saline flush; tube clamped 2 hours then suction (-20 cm H2O). Dosed twice daily for up to 6 doses with clinical and imaging reassessment."
+    },
+    "comparison": {
+      "text": "Early medical thoracoscopy (MT)",
+      "details": "Rigid or semirigid thoracoscopy within 48 hours under local anesthesia and moderate sedation; mechanical lysis of adhesions, aspiration and lavage (~1 L warmed saline), 24 Fr drain placed to -20 cm H2O suction; drain removal per standardized criteria."
+    },
+    "outcomes": [
+      {
+        "name": "Postintervention hospital length of stay",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Total hospital length of stay",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Treatment failure requiring additional intervention",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "30-day mortality",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Adverse events (including serious complications)",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "RCT",
+    "allocation": "randomized",
+    "blinding": "open-label",
+    "sites_count": 3,
+    "countries": [
+      "US"
+    ],
+    "sample_size": {
+      "planned": 32,
+      "enrolled": 32,
+      "analyzed": 32
+    },
+    "analysis_populations": [
+      {
+        "name": "ITT",
+        "description": "All randomized participants",
+        "n": 32
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "Intrapleural fibrinolytic therapy (tPA + DNase)",
+      "n_randomized": 16,
+      "n_analyzed": 16,
+      "n_completed": 16
+    },
+    {
+      "arm_id": "control",
+      "name": "Medical thoracoscopy",
+      "n_randomized": 16,
+      "n_analyzed": 16,
+      "n_completed": 16
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "postintervention_hospital_stay_days",
+      "name": "Postintervention hospital length of stay",
+      "type": "continuous",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Index hospitalization after assigned intervention",
+      "unit": "days",
+      "unit_canonical": "day",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "median": 4,
+            "iqr_lower": 4,
+            "iqr_upper": 5.5,
+            "total": 16
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "median": 2,
+            "iqr_lower": 2,
+            "iqr_upper": 5,
+            "total": 16
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "median_difference",
+        "est": 2,
+        "p_value": 0.026,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Mann-Whitney U test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          960,
+          962
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "The median length of hospital stay after the intervention was 4 days (IQR, 4-4.5) in the IPFT group as compared with 2 days (IQR, 2-5) in the MT group (P = 0.026)."
+      }
+    },
+    {
+      "concept_id": "total_hospital_stay_days",
+      "name": "Total hospital length of stay",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Index hospitalization total length of stay",
+      "unit": "days",
+      "unit_canonical": "day",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "median": 6,
+            "iqr_lower": 5,
+            "iqr_upper": 8.5,
+            "total": 16
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "median": 3.5,
+            "iqr_lower": 2,
+            "iqr_upper": 10,
+            "total": 16
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "median_difference",
+        "est": 2.5,
+        "p_value": 0.12,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Mann-Whitney U test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          960,
+          962
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "The median total length of hospital stay in the IPFT group was 6 days (IQR, 5-8.5) as compared with 3.5 days (IQR, 2-10) in the MT group (P = 0.12)."
+      }
+    },
+    {
+      "concept_id": "readmission_30d",
+      "name": "30-day readmission",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P30D",
+      "timepoint_label": "30 days",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 0,
+            "total": 16
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 0,
+            "total": 16
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": 0,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Fisher's exact test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT",
+        "missing_handling": "Not applicable"
+      },
+      "provenance": {
+        "pages": [
+          960
+        ],
+        "quote": "No patients were readmitted within 30 days after the intervention in either arm."
+      },
+      "derived": {
+        "arr": 0.0
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Procedure-related complication (serious)",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Complication of procedure"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "other medically important event"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 16
+        },
+        {
+          "arm_id": "control",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 16
+        }
+      ],
+      "period": "In-hospital and 30 days",
+      "management": "",
+      "provenance": {
+        "pages": [
+          958
+        ],
+        "quote": "There was no difference in treatment failure, mortality, or adverse events between the treatment groups, and no serious complications related to either intervention were recorded."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "RoB 2",
+    "overall_judgment": "some concerns",
+    "domains": [
+      {
+        "name": "Randomization process",
+        "judgment": "low",
+        "support_for_judgment": "Minimization randomization with opaque sealed envelopes; baseline characteristics similar."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "some concerns",
+        "support_for_judgment": "Open-label design; however, objective primary outcome (length of stay)."
+      },
+      {
+        "name": "Missing outcome data",
+        "judgment": "low",
+        "support_for_judgment": "All randomized participants included in primary endpoint analysis."
+      },
+      {
+        "name": "Measurement of the outcome",
+        "judgment": "low",
+        "support_for_judgment": "Length of stay is objective; independent reviewer blinded to treatment reviewed cases."
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "low",
+        "support_for_judgment": "Outcomes prespecified; statistical methods described a priori."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "pleural infection",
+      "empyema",
+      "complicated parapneumonic effusion",
+      "medical thoracoscopy",
+      "tPA",
+      "DNase",
+      "intrapleural fibrinolytic therapy"
+    ],
+    "summary_tldr": "In adults with septated pleural infection, early medical thoracoscopy reduced postintervention hospital stay versus intrapleural tPA+DNase (median 2 vs 4 days; p=0.026) with no serious complications.",
+    "clinical_relevance": "Supports early medical thoracoscopy as a safe option that may shorten hospitalization compared with intrapleural fibrinolytics in selected multiloculated pleural infections."
+  }
+}

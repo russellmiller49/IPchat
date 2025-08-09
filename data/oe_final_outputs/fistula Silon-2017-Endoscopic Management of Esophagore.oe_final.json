@@ -1,0 +1,530 @@
+{
+  "source": {
+    "document_id": "fistula Silon-2017-Endoscopic Management of Esophagore",
+    "ingest_date": "2025-08-08T12:33:50.742375+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1007/s10620-016-4390-0"
+  },
+  "document": {
+    "metadata": {
+      "title": "Endoscopic Management of Esophagorespiratory Fistulas: A Multicenter Retrospective Study of Techniques and Outcomes",
+      "year": 2017,
+      "authors": [
+        "Bryan Silon",
+        "Ali A. Siddiqui",
+        "Linda Jo Taylor",
+        "Sanaa Arastu",
+        "Ammara Soomro",
+        "Douglas G. Adler"
+      ],
+      "journal": "Digestive Diseases and Sciences",
+      "doi": "10.1007/s10620-016-4390-0",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Background and Aims Esophagorespiratory fistulas (ERF) are a devastating complication of benign and malignant etiologies. ERF are associated with high mortality, short survival, and poor quality of life. We performed a multi-center analysis of patients with ERF undergoing endoscopic treatment. Methods Multicentre retrospective study. Results We analyzed 25 patients undergoing 35 procedures over an 8-year period. Our data showed high technical success rates (97.1% of procedures) and with good, but not ideal, clinical success rates (60% of procedures, 80% of patients), which were defined as fistula closure confirmed by radiographic or repeat endoscopic evaluation and/or a lack of recurrent episodes of clinical aspiration to focus on durable ERF closure as opposed to only initial success. Proximal ERF were the most difficult to manage with the lowest overall clinical success rates, highest rates of recurrent aspiration despite endoscopic therapy, highest adverse events, and shortest survival times. Adverse events occurred in 40.0% of our patients and were all minor. Treatment allowed for diet advancement in 75% of patients. Conclusion This represents the largest recent collection of US data and the first multicenter study evaluating the clinical success of multiple treatment modalities while stratifying data by fistula etiology and esophageal location. The endoscopic approaches detailed in this study offer a minimally invasive and safe choice for intervention with the potential to improve quality of life despite overall suboptimal clinical success and survivorship rates for in with ERF.",
+      "methods": "We performed a multicenter, retrospective study of patients with esophagorespiratory fistulae (ERF) who presented to the University of Utah Health Science Center in Salt Lake City, Utah, and Jefferson University School of Medicine in Philadelphia, Pennsylvania. Medical records, endoscopy reports, radiologic studies, pathology reports, and other records were reviewed for patients with ERF between November 2006 and June 2015. Inclusion criteria: age 18 years and over; confirmed ERF that underwent endoscopic intervention. Exclusion: minors, pregnant patients, prisoners. Data collected: demographics, fistula location and etiology, aspiration history, intervention type, technical and clinical success, post-procedure aspiration, diet, repeat procedures, adverse events, and survival/time to last contact. Technical success was defined as completion of a therapeutic intervention with accurate device deployment without immediate complication and with apparent endoscopic closure or isolation of the fistula. Clinical success was defined as fistula closure confirmed by radiographic or repeat endoscopic evaluation and/or lack of recurrent clinical aspiration. IRB approved at both centers.",
+      "results": "A total of 25 patients (15 males and 10 females; mean age 65.4 years, range 37-81) underwent 35 procedures. Etiology: malignant 14/25 (56%); benign (treatment-related in previously cured malignancy) 11/25 (44%). Location: proximal 12/25 (48%), mid 5/25 (20%), distal 6/25 (24%), multiple 2/25 (8%). Pre-intervention aspiration occurred in 20/25 (80%). Esophageal stents were used in 23/25 patients and 30/35 procedures. Overall technical success was 34/35 (97.1%) procedures. Clinical success across procedures was 20/35 (≈57%), and across patients 20/25 (80%). By etiology: benign 10/11 (≈90%) clinical success; malignant 10/14 (≈71%) clinical success. By location: proximal 9/12 (75%), mid 5/5 (100%), distal 6/6 (100%). Average survival/time to last contact: proximal 4.2 months; mid 6.0 months; distal 7.8 months; benign 6.8 months; malignant 3.3 months. Adverse events occurred in 10/25 (40%) patients and were all minor. Treatment allowed diet advancement in 75% of patients."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with confirmed esophagorespiratory fistulas evaluated at two US tertiary centers (2006-2015).",
+      "inclusion_criteria": [
+        "Age ≥18 years",
+        "Confirmed esophagorespiratory fistula",
+        "Underwent endoscopic intervention"
+      ],
+      "exclusion_criteria": [
+        "Minor",
+        "Pregnant",
+        "Prisoner"
+      ]
+    },
+    "intervention": {
+      "text": "Endoscopic management of esophagorespiratory fistulas",
+      "details": "Endoscopic therapies included esophageal stents (mostly fully covered SEMS), airway stents (tracheal or Y), over-the-scope clips (OTSC), through-the-scope clips (TTS), endoscopic suturing, argon plasma coagulation adjuncts, and combinations thereof under general anesthesia with fluoroscopic guidance in most stent placements."
+    },
+    "comparison": {
+      "text": "None (single-arm retrospective case series)",
+      "details": "No randomized or concurrent control group; descriptive outcomes reported by modality, etiology, and location."
+    },
+    "outcomes": [
+      {
+        "name": "Technical success (per procedure)",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Clinical success (per patient)",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Clinical success (per procedure)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Post-procedure aspiration",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Diet advancement after intervention",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "retrospective multicenter case series",
+    "allocation": "non-randomized",
+    "blinding": "none",
+    "sites_count": 2,
+    "countries": [
+      "US"
+    ],
+    "sample_size": {
+      "planned": 25,
+      "enrolled": 25,
+      "analyzed": 25
+    },
+    "analysis_populations": [
+      {
+        "name": "All treated (patients)",
+        "description": "All included patients who underwent at least one endoscopic intervention",
+        "n": 25
+      },
+      {
+        "name": "All procedures",
+        "description": "All endoscopic procedures performed in included patients",
+        "n": 35
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "patients",
+      "name": "Patients (All treated)",
+      "n_randomized": 0,
+      "n_analyzed": 25,
+      "n_completed": 25
+    },
+    {
+      "arm_id": "procedures",
+      "name": "Procedures (All endoscopic procedures)",
+      "n_randomized": 0,
+      "n_analyzed": 35,
+      "n_completed": 35
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "technical_success_per_procedure",
+      "name": "Technical success",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Index procedure",
+      "groups": [
+        {
+          "arm_id": "procedures",
+          "raw": {
+            "events": 34,
+            "total": 35
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All procedures",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          424,
+          428
+        ],
+        "tables": [
+          "Table 4"
+        ],
+        "table_number": 4,
+        "quote": "Our data showed high technical success rates (97.1% of procedures)...; Table 4 technical success totals sum to 34/35 procedures."
+      }
+    },
+    {
+      "concept_id": "clinical_success_per_patient",
+      "name": "Clinical success (patient-level)",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "Up to last follow-up",
+      "groups": [
+        {
+          "arm_id": "patients",
+          "raw": {
+            "events": 20,
+            "total": 25
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated (patients)",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          424,
+          427
+        ],
+        "tables": [],
+        "quote": "Clinical success rates (60% of procedures, 80% of patients) ... Clinical success was ultimately achieved for 10/11 (90.1%) benign and 10/14 (71.4%) malignant patients."
+      }
+    },
+    {
+      "concept_id": "clinical_success_per_procedure",
+      "name": "Clinical success (procedure-level)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "Up to last follow-up per procedure",
+      "groups": [
+        {
+          "arm_id": "procedures",
+          "raw": {
+            "events": 20,
+            "total": 35
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All procedures",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          424,
+          428
+        ],
+        "tables": [
+          "Table 4"
+        ],
+        "table_number": 4,
+        "quote": "Our data showed ... clinical success rates (60% of procedures)...; Table 4 clinical success counts across modalities sum to 20/35 procedures."
+      }
+    },
+    {
+      "concept_id": "aspiration_before_intervention",
+      "name": "Any aspiration event prior to intervention",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Baseline (pre-intervention)",
+      "groups": [
+        {
+          "arm_id": "patients",
+          "raw": {
+            "events": 20,
+            "total": 25
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated (patients)",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          425
+        ],
+        "tables": [],
+        "quote": "Twenty (80%) patients experienced at least one documented aspiration event prior to intervention."
+      }
+    },
+    {
+      "concept_id": "diet_advancement_after_intervention",
+      "name": "Diet advancement after intervention",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "Post-intervention (among those with diet data)",
+      "groups": [
+        {
+          "arm_id": "patients",
+          "raw": {
+            "events": 9,
+            "total": 12
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Patients with available dietary data",
+        "missing_handling": "Only patients with diet data included"
+      },
+      "provenance": {
+        "pages": [
+          424,
+          425
+        ],
+        "tables": [],
+        "quote": "Treatment allowed for diet advancement in 75% of patients. Speech therapy evaluations or dietary information was available for 12 patients."
+      }
+    },
+    {
+      "concept_id": "clinical_success_benign_patients",
+      "name": "Clinical success in benign fistulas",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "Up to last follow-up",
+      "groups": [
+        {
+          "arm_id": "patients",
+          "raw": {
+            "events": 10,
+            "total": 11
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Benign ERF subgroup",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          427
+        ],
+        "tables": [],
+        "quote": "Durable clinical success was ultimately achieved in 10/11 (90.1%) patients with benign fistulas."
+      }
+    },
+    {
+      "concept_id": "clinical_success_malignant_patients",
+      "name": "Clinical success in malignant fistulas",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "Up to last follow-up",
+      "groups": [
+        {
+          "arm_id": "patients",
+          "raw": {
+            "events": 10,
+            "total": 14
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Malignant ERF subgroup",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          427
+        ],
+        "tables": [],
+        "quote": "Clinical success was ultimately achieved for 10/14 (71.4%) patients with active malignancy."
+      }
+    },
+    {
+      "concept_id": "clinical_success_proximal_location",
+      "name": "Clinical success in proximal esophageal fistulas",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "Up to last follow-up",
+      "groups": [
+        {
+          "arm_id": "patients",
+          "raw": {
+            "events": 9,
+            "total": 12
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Proximal ERF subgroup",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          427
+        ],
+        "tables": [],
+        "quote": "Durable clinical success was ultimately achieved in 75% patients with proximal fistula after their final intervention."
+      }
+    },
+    {
+      "concept_id": "clinical_success_mid_location",
+      "name": "Clinical success in mid-esophageal fistulas",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "Up to last follow-up",
+      "groups": [
+        {
+          "arm_id": "patients",
+          "raw": {
+            "events": 5,
+            "total": 5
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Mid-esophageal ERF subgroup",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          427,
+          428
+        ],
+        "tables": [],
+        "quote": "Clinical success was ultimately achieved in 5/5 (100%) of patients with mid-esophageal fistula."
+      }
+    },
+    {
+      "concept_id": "clinical_success_distal_location",
+      "name": "Clinical success in distal esophageal fistulas",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "Up to last follow-up",
+      "groups": [
+        {
+          "arm_id": "patients",
+          "raw": {
+            "events": 6,
+            "total": 6
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Distal ERF subgroup",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          428
+        ],
+        "tables": [],
+        "quote": "All the interventions were technically and clinically successful [distal esophagus, 6 patients]."
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Procedure complication (any adverse event)",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Procedural complication"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "patients",
+          "events": 10,
+          "patients": 10,
+          "percentage": 40.0,
+          "total": 25
+        }
+      ],
+      "period": "Peri- and post-procedure (study follow-up)",
+      "management": "",
+      "provenance": {
+        "pages": [
+          424,
+          429
+        ],
+        "tables": [],
+        "quote": "Adverse events occurred in 40.0% of our patients and were all minor."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "ROBINS-I",
+    "overall_judgment": "serious",
+    "domains": [
+      {
+        "name": "Confounding",
+        "judgment": "serious",
+        "support_for_judgment": "Retrospective, non-comparative design without adjustment for confounders."
+      },
+      {
+        "name": "Selection of participants",
+        "judgment": "moderate",
+        "support_for_judgment": "Inclusion of patients referred for endoscopic intervention at two tertiary centers."
+      },
+      {
+        "name": "Classification of interventions",
+        "judgment": "low",
+        "support_for_judgment": "Interventions clearly described from procedural records."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "moderate",
+        "support_for_judgment": "Repeat and combination procedures performed based on clinical course."
+      },
+      {
+        "name": "Missing data",
+        "judgment": "moderate",
+        "support_for_judgment": "Dietary outcomes only available for a subset (12/25)."
+      },
+      {
+        "name": "Measurement of outcomes",
+        "judgment": "moderate",
+        "support_for_judgment": "Clinical success based on imaging/endoscopy and clinical aspiration; potential detection bias in retrospective review."
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "low",
+        "support_for_judgment": "Predefined outcomes (technical and clinical success, adverse events) reported consistently."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "esophagorespiratory fistula",
+      "tracheoesophageal fistula",
+      "endoscopic stent",
+      "airway stent",
+      "over-the-scope clip",
+      "OTSC",
+      "Digestive Diseases and Sciences 2017"
+    ],
+    "summary_tldr": "In 25 ERF patients (35 procedures), endoscopic therapy achieved 97.1% technical success and 80% patient-level clinical success; 40% had minor adverse events; diet improved in 75%. Proximal ERFs fared worst.",
+    "clinical_relevance": "Largest recent US multicenter series guiding endoscopic management of ERF; highlights modality performance and challenges with proximal fistulas."
+  }
+}

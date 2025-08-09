@@ -1,0 +1,428 @@
+{
+  "source": {
+    "document_id": "Jet Ventilation during Rigid Bronchoscopy in Adults",
+    "ingest_date": "2025-08-08T13:35:02.168124+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1155/2016/4234861"
+  },
+  "document": {
+    "metadata": {
+      "title": "Jet Ventilation during Rigid Bronchoscopy in Adults: A Focused Review",
+      "year": 2016,
+      "authors": [
+        "Laurie Putz",
+        "Alain Mayné",
+        "Anne-Sophie Dincq"
+      ],
+      "journal": "BioMed Research International",
+      "doi": "10.1155/2016/4234861",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "The indications for rigid bronchoscopy for interventional pulmonology have increased and include stent placements and transbronchial cryobiopsy procedures. The shared airway between anesthesiologist and pulmonologist and the open airway system, requiring specific ventilation techniques such as jet ventilation, need a good understanding of the procedure to reduce potentially harmful complications. Appropriate adjustment of the ventilator settings including pause pressure and peak inspiratory pressure reduces the risk of barotrauma. High frequency jet ventilation allows adequate oxygenation and carbon dioxide removal even in cases of tracheal stenosis up to frequencies of around 150 min-1; however, in an in vivo animal model, high frequency jet ventilation along with normal frequency jet ventilation (superimposed high frequency jet ventilation) has been shown to improve oxygenation by increasing lung volume and carbon dioxide removal by increasing tidal volume across a large spectrum of frequencies without increasing barotrauma. General anesthesia with a continuous, intravenous, short-acting agent is safe and effective during rigid bronchoscopy procedures.",
+      "methods": "Focused narrative review of jet ventilation during rigid bronchoscopy in adults. The article describes physiology, equipment, ventilator settings and alarms, superimposed high-frequency jet ventilation (SHFJV), reported advantages and complications, and peri-anesthetic management. No systematic search strategy, selection criteria, or quantitative synthesis were reported.",
+      "results": "Key points: (1) HFJV delivers small tidal volumes at high frequency with passive expiration; typical settings include driving pressure 0.3-3 bar, frequency 120-600 counts per minute, and inspiration time 0.3-0.4. (2) Two critical alarms include pause pressure with a suggested threshold less than 10 cm H2O and peak inspiratory pressure commonly set near 20 mbar. (3) Effective tracheal FiO2 during open jet ventilation with 100% oxygen is approximately 0.8-0.9 due to entrainment. (4) FiO2 should be below 0.4 during laser procedures. (5) SHFJV (combining low- and high-frequency jets) can improve oxygenation by increasing end-expiratory lung volume and enhance CO2 elimination across a range of frequencies in animal models, and is reported as safe and effective clinically in severe stenosis, with practical emphasis on PIP adjustment when PP is inhibited by some devices. (6) Complications include barotrauma (pneumothorax, pneumomediastinum, subcutaneous emphysema), hypoxemia, hypercapnia, and hemodynamic instability, with higher risk in airway narrowing and severe lung disease. (7) General anesthesia with short-acting intravenous agents and full neuromuscular blockade is recommended; monitoring may include BIS and transcutaneous CO2."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults undergoing rigid bronchoscopy for diagnostic or interventional pulmonology procedures under general anesthesia.",
+      "inclusion_criteria": [
+        "Adults requiring rigid bronchoscopy",
+        "Procedures including tumor debulking, stent placement, cryobiopsy",
+        "General anesthesia with shared open airway"
+      ],
+      "exclusion_criteria": [
+        "Pneumonia (absolute contraindication to jet ventilation)",
+        "Active asthma (absolute contraindication to jet ventilation)",
+        "Morbid obesity with poor basal oxygenation (relative)",
+        "Uncontrolled coagulopathy (relative)",
+        "Severe tracheal obstruction for less experienced operator (relative)"
+      ]
+    },
+    "intervention": {
+      "text": "Jet ventilation during rigid bronchoscopy (HFJV, LFJV, SHFJV).",
+      "details": "Typical HFJV settings: driving pressure 0.3-3 bar, frequency 120-600 counts per minute, inspiration time 0.3-0.4. LFJV frequency 10-30 per minute. SHFJV combines HFJV and LFJV. Pause pressure alarm suggested less than 10 cm H2O; peak inspiratory pressure commonly 20 mbar. Effective tracheal FiO2 with 100% oxygen is approximately 0.8-0.9. FiO2 below 0.4 recommended for laser use. Humidification adjustable 0-100 with gradual increase."
+    },
+    "comparison": {
+      "text": "Narrative comparisons between HFJV, LFJV, and SHFJV; no explicit control arm.",
+      "details": "Animal model and clinical experience suggest SHFJV can improve oxygenation and CO2 elimination versus single-frequency HFJV at higher frequencies, without increasing barotrauma."
+    },
+    "outcomes": [
+      {
+        "name": "Adequacy of gas exchange (oxygenation and CO2 removal) during rigid bronchoscopy with jet ventilation",
+        "type": "primary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "narrative_review",
+    "allocation": "none",
+    "blinding": "none",
+    "sites_count": 0,
+    "countries": [],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": []
+  },
+  "arms": [
+    {
+      "arm_id": "overall",
+      "name": "All reported cases and considerations (narrative review)",
+      "n_randomized": 0,
+      "n_analyzed": 0,
+      "n_completed": 0
+    }
+  ],
+  "outcomes_normalized": [],
+  "safety_normalized": [
+    {
+      "event_name": "Pneumothorax",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Pneumothorax"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "hospitalization",
+        "medically_significant"
+      ],
+      "groups": [
+        {
+          "arm_id": "overall",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 0
+        }
+      ],
+      "period": "",
+      "management": "",
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "Major complications include barotrauma such as pneumothorax."
+      }
+    },
+    {
+      "event_name": "Pneumomediastinum",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Pneumomediastinum"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "hospitalization",
+        "medically_significant"
+      ],
+      "groups": [
+        {
+          "arm_id": "overall",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 0
+        }
+      ],
+      "period": "",
+      "management": "",
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "Major complications include pneumomediastinum."
+      }
+    },
+    {
+      "event_name": "Subcutaneous emphysema",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Subcutaneous emphysema"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "overall",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 0
+        }
+      ],
+      "period": "",
+      "management": "",
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "Barotrauma may include subcutaneous emphysema."
+      }
+    },
+    {
+      "event_name": "Hypoxemia",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Hypoxaemia"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "life_threatening",
+        "medically_significant"
+      ],
+      "groups": [
+        {
+          "arm_id": "overall",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 0
+        }
+      ],
+      "period": "",
+      "management": "",
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "Inadequate gas exchange (hypoxemia) is a major complication."
+      }
+    },
+    {
+      "event_name": "Hypercapnia",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Hypercapnia"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "medically_significant"
+      ],
+      "groups": [
+        {
+          "arm_id": "overall",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 0
+        }
+      ],
+      "period": "",
+      "management": "",
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "Inadequate gas exchange (hypercapnia) is a major complication; severe hypercapnia over 100 mmHg associated with lower PaO2."
+      }
+    },
+    {
+      "event_name": "Circulatory collapse",
+      "meddra": {
+        "soc": "Vascular disorders",
+        "pt": "Circulatory collapse"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "life_threatening"
+      ],
+      "groups": [
+        {
+          "arm_id": "overall",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 0
+        }
+      ],
+      "period": "",
+      "management": "",
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "Potential complication includes circulatory collapse."
+      }
+    },
+    {
+      "event_name": "Gas embolism",
+      "meddra": {
+        "soc": "Vascular disorders",
+        "pt": "Gas embolism"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "life_threatening",
+        "hospitalization"
+      ],
+      "groups": [
+        {
+          "arm_id": "overall",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 0
+        }
+      ],
+      "period": "",
+      "management": "",
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "Direct RB-related complications include gas embolism."
+      }
+    },
+    {
+      "event_name": "Respiratory tract hemorrhage",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Respiratory tract haemorrhage"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "hospitalization",
+        "medically_significant"
+      ],
+      "groups": [
+        {
+          "arm_id": "overall",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 0
+        }
+      ],
+      "period": "",
+      "management": "Fogarty catheter or bronchial blocker may be used to protect contralateral lung.",
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "Direct complications related to RB include bleeding; Fogarty catheter or bronchial blocker can be used."
+      }
+    },
+    {
+      "event_name": "Bronchial rupture",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Bronchial rupture"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "life_threatening",
+        "hospitalization"
+      ],
+      "groups": [
+        {
+          "arm_id": "overall",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 0
+        }
+      ],
+      "period": "",
+      "management": "",
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "Direct complications include bronchial rupture."
+      }
+    },
+    {
+      "event_name": "Tooth injury",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Tooth injury"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "overall",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 0
+        }
+      ],
+      "period": "",
+      "management": "",
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "Direct complications related to RB procedures include tooth damage during insertion."
+      }
+    },
+    {
+      "event_name": "Gastric rupture",
+      "meddra": {
+        "soc": "Gastrointestinal disorders",
+        "pt": "Gastric rupture"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "life_threatening",
+        "hospitalization"
+      ],
+      "groups": [
+        {
+          "arm_id": "overall",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 0
+        }
+      ],
+      "period": "",
+      "management": "",
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "Malposition of a rigid bronchoscope into the digestive tract can lead to gastric rupture or distension; confirm airway with flexible bronchoscopy before jet ventilation."
+      }
+    },
+    {
+      "event_name": "Gastric distension",
+      "meddra": {
+        "soc": "Gastrointestinal disorders",
+        "pt": "Gastric distension"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "overall",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 0
+        }
+      ],
+      "period": "",
+      "management": "",
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "Gastric distension can occur with malposition into the digestive tract."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "Not applicable",
+    "overall_judgment": "not_applicable",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "jet ventilation",
+      "rigid bronchoscopy",
+      "HFJV",
+      "LFJV",
+      "SHFJV",
+      "anesthesia",
+      "barotrauma"
+    ],
+    "summary_tldr": "Narrative review: Jet ventilation facilitates rigid bronchoscopy; careful settings (pause pressure less than 10 cm H2O, peak inspiratory pressure about 20 mbar, FiO2 below 0.4 during laser) mitigate barotrauma; SHFJV may improve oxygenation and CO2 removal compared with single-frequency HFJV in models without added barotrauma.",
+    "clinical_relevance": "Provides practical parameters and safety considerations for anesthetic management using jet ventilation during adult rigid bronchoscopy, including when to consider SHFJV and how to adjust settings to avoid complications."
+  }
+}

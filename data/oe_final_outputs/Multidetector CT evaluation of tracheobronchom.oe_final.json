@@ -1,0 +1,154 @@
+{
+  "source": {
+    "document_id": "Multidetector CT evaluation of tracheobronchom",
+    "ingest_date": "2025-08-08T14:24:13.865455+00:00",
+    "trial_registration_id": null,
+    "pmid": null,
+    "doi": "10.1016/j.rcl.2008.11.007"
+  },
+  "document": {
+    "metadata": {
+      "title": "Multidetector CT Evaluation of Tracheobronchomalacia",
+      "year": 2009,
+      "authors": [
+        "Edward Y. Lee",
+        "Diana Litmanovich",
+        "Phillip M. Boiselle"
+      ],
+      "journal": "Radiologic Clinics of North America",
+      "doi": "10.1016/j.rcl.2008.11.007",
+      "pmid": null
+    },
+    "sections": {
+      "abstract": "Tracheobronchomalacia is caused by weakness of tracheobronchial walls and supporting cartilage leading to excessive expiratory airway collapse. Because routine end-inspiratory chest radiographs and CT are often nondiagnostic, dynamic maneuvers such as forced exhalation or coughing are needed for detection. Advances in multidetector CT enable noninvasive diagnosis with accuracy comparable to bronchoscopy. This review details clinical indications, physiologic principles, diagnostic criteria, MDCT protocols including dynamic expiration and cine coughing techniques, reconstruction methods, image interpretation pearls, radiation dose management, and pre- and postoperative assessment considerations.",
+      "methods": "This narrative review synthesizes published evidence and institutional protocols on MDCT evaluation of tracheobronchomalacia. Three MDCT techniques are described: paired end-inspiratory and end-expiratory volumetric CT for noncooperative children; paired end-inspiratory and dynamic-expiratory helical CT for cooperative patients; and cine MDCT during coughing on 64-row or greater scanners. Protocol parameters include inspiratory acquisition at approximately 170 mAs and 120 kVp with 2.5 mm collimation and dynamic-expiratory acquisition at approximately 40 mAs and 120 kVp with high pitch. Cine coughing acquisitions cover approximately 3.2 to 4.0 cm centered at the carina with detector collimation approximately 0.5 mm and gantry rotation approximately 0.4 seconds. Dose-reduction strategies leverage high inherent air-soft-tissue contrast to enable low mAs during expiratory and cine phases. Multiplanar reformations, virtual bronchoscopy, and external 3D reconstructions are used to assess airway dynamics and extrinsic compression.",
+      "results": "Greater than 50 percent expiratory reduction in cross-sectional airway area is widely used as a diagnostic threshold for tracheomalacia, but healthy individuals may exceed this at end-expiration. In one cited study, 4 of 10 healthy young adult male volunteers had greater than 50 percent collapse at end-expiration on electron-beam CT, supporting a more conservative threshold of 70 percent in some contexts, especially during robust maneuvers like coughing on 64-MDCT. Dose-length product is approximately 500 mGy·cm for a dual-phase study with standard-dose inspiratory and low-dose dynamic-expiratory sequences in a 70 kg adult, approximately 200 to 220 mGy·cm for a single low-dose cine acquisition, and approximately 600 mGy·cm is a reference value for routine chest CT. Low-dose dynamic expiratory imaging at approximately 40 to 80 mA showed no degradation in tracheal lumen assessment compared with standard current in a clinical study. Image interpretation emphasizes paired inspiratory-expiratory comparisons, quantitative cross-sectional area measurements at matched levels, recognition of the expiratory 'frown sign' with membranous wall bowing, and use of sagittal MPRs to map craniocaudal extent."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Patients with suspected tracheobronchomalacia or tracheomalacia based on chronic respiratory symptoms and risk factors; healthy volunteers in cited normative studies.",
+      "inclusion_criteria": [
+        "Chronic respiratory symptoms suggestive of central airway collapse",
+        "Risk factors for acquired tracheomalacia such as COPD, prior intubation or tracheostomy, radiation therapy, lung transplantation, chronic bronchitis, relapsing polychondritis, chest trauma, chronic external compression (paratracheal neoplasm or mass, aortic aneurysm or vascular rings), skeletal abnormalities (pectus, scoliosis)",
+        "Patients with suspected extrinsic airway compression (eg, mediastinal vascular anomalies, thyroid goiter)"
+      ],
+      "exclusion_criteria": []
+    },
+    "intervention": {
+      "text": "Multidetector computed tomography of the central airways with dynamic expiratory or coughing maneuvers",
+      "details": "Paired end-inspiratory and dynamic-expiratory helical MDCT using approximately 170 mAs and 120 kVp for inspiration and approximately 40 mAs and 120 kVp for dynamic expiration; cine MDCT during coughing on 64-row or greater scanners with detector collimation approximately 0.5 mm, mA approximately 80, kVp approximately 120, gantry rotation approximately 0.4 seconds, and z-axis coverage approximately 3.2 to 4.0 cm centered at the carina."
+    },
+    "comparison": {
+      "text": "Reference standards and alternative imaging phases",
+      "details": "Historical reference standard bronchoscopy; end-expiratory imaging versus dynamic-expiratory or coughing maneuvers; standard-dose versus low-dose expiratory acquisitions."
+    },
+    "outcomes": [
+      {
+        "name": "Expiratory cross-sectional area reduction threshold for tracheomalacia diagnosis",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Radiation dose-length product for dual-phase and cine airway CT protocols",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Proportion of healthy volunteers exceeding 50% tracheal collapse at end-expiration",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "narrative_review",
+    "allocation": null,
+    "blinding": null,
+    "sites_count": null,
+    "countries": [],
+    "sample_size": {
+      "planned": null,
+      "enrolled": null,
+      "analyzed": null
+    },
+    "analysis_populations": []
+  },
+  "arms": [
+    {
+      "arm_id": "stern_healthy_volunteers",
+      "name": "Healthy young adult male volunteers (electron-beam CT at end-expiration; cited study)",
+      "n_randomized": 10,
+      "n_analyzed": 10,
+      "n_completed": 10
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "tm_collapse_gt50_end_expiration_healthy",
+      "name": "Tracheal collapse >50% at end-expiration in healthy volunteers",
+      "type": "binary",
+      "outcome_type": "exploratory",
+      "timepoint_iso8601": null,
+      "timepoint_label": "End-expiration",
+      "groups": [
+        {
+          "arm_id": "stern_healthy_volunteers",
+          "raw": {
+            "events": 4,
+            "total": 10
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": "proportion",
+        "est": null,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": null,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "binomial proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Healthy young adult male volunteers scanned with electron-beam CT at end-expiration in the cited Stern study",
+        "missing_handling": "not reported"
+      },
+      "provenance": {
+        "pages": [
+          264,
+          265
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "Stern and colleagues obtained a degree of tracheal collapse greater than 50% at end-expiration in 4 of 10 healthy young adult male volunteers scanned with an electron-beam CT."
+      }
+    }
+  ],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "Not applicable",
+    "overall_judgment": "not_applicable",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "tracheobronchomalacia",
+      "tracheomalacia",
+      "bronchomalacia",
+      "multidetector computed tomography",
+      "dynamic expiration",
+      "cine CT",
+      "coughing maneuver",
+      "virtual bronchoscopy",
+      "radiation dose",
+      "airway collapse"
+    ],
+    "summary_tldr": "Review of MDCT techniques for diagnosing tracheobronchomalacia recommends dynamic expiration or coughing maneuvers, cautions that >50% collapse may occur in healthy subjects, suggests a 70% threshold during coughing, and describes dose-efficient protocols.",
+    "clinical_relevance": "Provides practical CT protocols and interpretation criteria to accurately diagnose tracheobronchomalacia while minimizing radiation exposure."
+  }
+}

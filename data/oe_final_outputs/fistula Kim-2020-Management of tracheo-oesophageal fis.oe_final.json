@@ -1,0 +1,118 @@
+{
+  "source": {
+    "document_id": "fistula Kim-2020-Management of tracheo-oesophageal fis",
+    "ingest_date": "2025-08-08T12:28:49.814655+00:00",
+    "trial_registration_id": null,
+    "pmid": null,
+    "doi": "10.1183/16000617.0094-2020"
+  },
+  "document": {
+    "metadata": {
+      "title": "Management of tracheo-oesophageal fistula in adults",
+      "year": 2020,
+      "authors": [
+        "Hyun S. Kim",
+        "Danai Khemasuwan",
+        "Javier Diaz-Mendoza",
+        "Atul C. Mehta"
+      ],
+      "journal": "European Respiratory Review",
+      "doi": "10.1183/16000617.0094-2020",
+      "pmid": null
+    },
+    "sections": {
+      "abstract": "Tracheo-oesophageal fistula (TOF) is a pathological connection between the trachea and the oesophagus that is associated with various underlying conditions including malignancies, infections, inhalation injuries and traumatic damage. As the condition spans multiple organ systems with varying aetiologies and acuities, TOF poses unique diagnostic and management challenges to pulmonologists, gastroenterologists and thoracic surgeons alike. Although stents have been a cornerstone in the management of TOF, there exists a large gap in our understanding of their efficacy and precise methodology, making stenting procedure both art and science. TOFs relating to underlying oesophageal or tracheal malignancies require advanced understanding of the airway and digestive tract anatomy, dimensions of the fistula, stent characteristics and types, and the interplay between the oesophageal stent and the airway stent if dual stenting procedure is elected. In this review article, we review the most up-to-date data on risk factors, clinical manifestations, diagnostic approaches, management methods and prognosis. Consequently, this article serves to evaluate current therapeutic strategies and the future directions in the areas of 3D-printed stents, over-the-scope clipping systems, tissue matrices and atrial septal closure devices.",
+      "methods": "Narrative review. Literature search of peer-reviewed articles in PubMed between 2000 and 2019 using the keywords “acquired tracheoesophageal fistula.”",
+      "results": "Acquired TOF in adults is approximately evenly divided between malignant and benign causes. Oesophageal cancer is the most common malignancy associated with TOF, with an incidence of 4.3-8.1% overall and up to 12% in locally advanced disease; primary lung cancer accounts for an incidence of approximately 0.3%. In a large malignant TOF series involving 207 patients, 77% were due to oesophageal cancer and 16% to primary lung cancer. Median survival from TOF diagnosis is less than 3 months. TOF can arise from tumour progression or post-treatment necrosis; in one series of 52 oesophageal cancer patients with TOF, 28.8% were attributed to treatment-related causes. After initial radiation therapy, the mean latency to TOF detection was approximately 4.4 months (SD 2.98; range 1-13; 95% CI 3.5-5.4). Oesophageal stent-related TOF incidence is estimated at 4% with a median latency of 5 months (range 0.4-53). Clinical manifestations in a series of more than 200 patients included cough (56%), aspiration (37%), fever (25%), dysphagia (19%), pneumonia (5%), haemoptysis (5%) and chest pain (5%); Ono’s sign was present in 81% of known TOF cases. The average time from symptom onset to detection in malignant TOF was approximately 7.3 months (SD 4.25; range 1-58; 95% CI 6.5-8.1). Contrast-enhanced oesophagography demonstrates the fistula in approximately 70% of patients. Airway fistula locations in malignant TOF largely reflect tumour site: distributions reported include trachea (53%), left main bronchus (22%), right main bronchus (16%), multiple sites (2%) and bronchopleural fistula (6%); another cohort of oesophageal cancer with concurrent TOF reported trachea/carina (46%), right main bronchus (45%), left main bronchus (8%) and distal airways (2%). Management principles include preventing aspiration (acid suppression, head-of-bed elevation ≥45°, NPO as needed, oral suctioning, advancing endotracheal tube cuff distal to fistula), removal of naso/orogastric tubes when possible, and consideration of gastrostomy/jejunostomy for decompression and feeding. Intraoperative measures focus on minimizing gastric insufflation and airway contamination, with close coordination between endoscopist and anesthesia. Stents are used to bridge benign TOF to surgery or palliate malignant TOF; device innovations include 3D-printed stents, over-the-scope clips, tissue matrices (e.g., Alloderm) and atrial septal occluders."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with acquired tracheo-oesophageal fistula (benign or malignant).",
+      "inclusion_criteria": [
+        "Adult patients",
+        "Acquired tracheo-oesophageal fistula",
+        "Benign (e.g., cuff-related, traumatic, infectious, corrosive) or malignant etiologies"
+      ],
+      "exclusion_criteria": [
+        "Congenital tracheo-oesophageal fistula",
+        "Pediatric populations"
+      ]
+    },
+    "intervention": {
+      "text": "Endoscopic, interventional, and surgical management of TOF",
+      "details": "Pre-operative aspiration prevention (acid suppression, head-of-bed elevation ≥45°, cessation of oral intake, oral suctioning), ventilator and tube positioning to protect airway, removal of NG/OG tubes when feasible, enteral access (gastrostomy/jejunostomy) as indicated; intraoperative suctioning and minimization of gastric insufflation; stenting strategies (airway and/or oesophageal; self-expanding metallic stents; dual stenting when appropriate); novel approaches including 3D-printed stents, over-the-scope clips, tissue matrices (e.g., Alloderm), and atrial septal occluder devices."
+    },
+    "comparison": {
+      "text": "Not applicable (narrative review)",
+      "details": "Comparators vary across included case series and reports; no single standardized control."
+    },
+    "outcomes": [
+      {
+        "name": "Survival after TOF diagnosis",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Fistula closure or sealing",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Aspiration prevention and respiratory complications",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Symptom relief (cough, dysphagia)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Nutritional status and ability to feed",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "narrative_review",
+    "allocation": "NA",
+    "blinding": "NA",
+    "sites_count": 0,
+    "countries": [],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": []
+  },
+  "arms": [],
+  "outcomes_normalized": [],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "N/A",
+    "overall_judgment": "N/A",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "tracheo-oesophageal fistula",
+      "acquired TOF",
+      "oesophageal cancer",
+      "airway stent",
+      "oesophageal stent",
+      "bronchoscopy",
+      "oesophagography",
+      "radiation therapy",
+      "chemotherapy",
+      "aspiration pneumonia",
+      "interventional pulmonology",
+      "gastroenterology",
+      "thoracic surgery"
+    ],
+    "summary_tldr": "Narrative review of adult acquired tracheo-oesophageal fistula: oesophageal cancer is the leading cause; median survival is less than 3 months; management centers on aspiration prevention and stenting, with emerging devices (3D-printed stents, OTSC, tissue matrices, septal occluders).",
+    "clinical_relevance": "Highlights the high mortality and urgent need for multidisciplinary, stent-centered palliation and selective surgical repair in adult acquired TOF, with practical pre/intra-operative measures and device innovations."
+  }
+}

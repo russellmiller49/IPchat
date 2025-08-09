@@ -1,0 +1,133 @@
+{
+  "source": {
+    "document_id": "fistula Grewal-2019-Treatment of Tracheobronchial Inju",
+    "ingest_date": "2025-08-08T12:24:33.242611+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1016/j.chest.2018.07.018"
+  },
+  "document": {
+    "metadata": {
+      "title": "Treatment of Tracheobronchial Injuries: A Contemporary Review",
+      "year": 2019,
+      "authors": [
+        "Harpreet Singh Grewal",
+        "Neha S. Dangayach",
+        "Usman Ahmad",
+        "Subha Ghosh",
+        "Thomas Gildea",
+        "Atul C. Mehta"
+      ],
+      "journal": "CHEST",
+      "doi": "10.1016/j.chest.2018.07.018",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Tracheobronchial injury is a rare but a potentially high-impact event with significant morbidity and mortality. Common etiologies include blunt or penetrating trauma and iatrogenic injury that might occur during surgery, endotracheal intubation, or bronchoscopy. Early recognition of clinical signs and symptoms can help risk-stratify patients and guide management. In recent years, there has been a paradigm shift in the management of tracheal injury towards minimally invasive modalities, such as endobronchial stent placement. Although there are still some definitive indications for surgery, selected patients who meet traditional surgical criteria as well as those patients who were deemed to be poor surgical candidates can now be managed successfully using minimally invasive techniques. This paradigm shift from surgical to nonsurgical management is promising and should be considered prior to making final management decisions.",
+      "methods": "Narrative review of contemporary diagnosis and management of tracheobronchial injuries, summarizing epidemiology, risk factors, clinical presentation, diagnostic approach (CT and bronchoscopy), morphologic classification (Cardillo levels I-IIIB), and therapeutic strategies including conservative care, surgical repair, and minimally invasive bronchoscopic stenting. No predefined systematic search strategy, inclusion, or exclusion criteria were reported.",
+      "results": "The review highlights underrecognized iatrogenic and traumatic etiologies, provides practical diagnostic steps prioritizing bronchoscopy as the gold standard, and outlines management by injury depth and clinical status. Level I injuries are generally managed conservatively; level II injuries require individualized management; level IIIA/IIIB injuries often require surgery, though airway stenting can be considered in poor surgical candidates. Indications for urgent surgery include worsening subcutaneous emphysema, progressive pneumomediastinum, pneumothorax with persistent air leak or failed reexpansion, esophageal wall prolapse, and failure to ventilate. Multidisciplinary coordination and, when necessary, ECMO as a bridge are emphasized."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Patients with tracheobronchial injuries due to iatrogenic events (endotracheal intubation, PDT, bronchoscopy, surgical procedures) or trauma (penetrating or blunt).",
+      "inclusion_criteria": [
+        "Tracheobronchial injury suspected or confirmed by imaging or bronchoscopy",
+        "Etiologies including endotracheal intubation, PDT, rigid bronchoscopy, stent removal, balloon bronchoplasty, EBUS/EUS-TBNA, thoracic/head and neck/thyroid surgery, tracheostomy, penetrating or blunt trauma"
+      ],
+      "exclusion_criteria": [
+        "Not specified (narrative review)"
+      ]
+    },
+    "intervention": {
+      "text": "Nonsurgical management including conservative care and bronchoscopic/endobronchial stent placement",
+      "details": "Conservative care for level I-II injuries with monitoring, bronchoscopic guidance for ET cuff positioning, minimizing airway pressures; airway stent deployment for selected level III injuries or poor surgical candidates; ECMO as bridge if ventilation fails."
+    },
+    "comparison": {
+      "text": "Surgical repair",
+      "details": "Open or minimally invasive surgical approaches (transcervical, thoracotomy, combined approaches) tailored to injury location and associated injuries; urgent surgery for deterioration or specified emergency indications."
+    },
+    "outcomes": [
+      {
+        "name": "Successful healing/closure of tracheal injury without major complications",
+        "type": "primary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "narrative_review",
+    "allocation": "na",
+    "blinding": "na",
+    "sites_count": 0,
+    "countries": [
+      "US"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": []
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "Nonsurgical management (conservative care and/or airway stenting)",
+      "n_randomized": 0,
+      "n_analyzed": 0,
+      "n_completed": 0
+    },
+    {
+      "arm_id": "control",
+      "name": "Surgical repair",
+      "n_randomized": 0,
+      "n_analyzed": 0,
+      "n_completed": 0
+    }
+  ],
+  "outcomes_normalized": [],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "ROBIS",
+    "overall_judgment": "unclear",
+    "domains": [
+      {
+        "name": "Study eligibility criteria",
+        "judgment": "unclear",
+        "support_for_judgment": "No explicit inclusion/exclusion criteria reported."
+      },
+      {
+        "name": "Identification and selection of studies",
+        "judgment": "unclear",
+        "support_for_judgment": "No systematic search strategy described."
+      },
+      {
+        "name": "Data collection and study appraisal",
+        "judgment": "unclear",
+        "support_for_judgment": "No standardized critical appraisal reported."
+      },
+      {
+        "name": "Synthesis and findings",
+        "judgment": "low",
+        "support_for_judgment": "Findings align with contemporary clinical practice and cite key classification and management frameworks."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "tracheobronchial injury",
+      "endotracheal intubation",
+      "percutaneous dilatational tracheostomy",
+      "bronchoscopy",
+      "airway stent",
+      "ECMO",
+      "mediastinitis",
+      "pneumomediastinum",
+      "surgical repair",
+      "conservative management"
+    ],
+    "summary_tldr": "Narrative review outlining a shift from routine surgical repair to selective minimally invasive and conservative management of tracheobronchial injuries based on injury depth and clinical status, with bronchoscopy central to diagnosis and management.",
+    "clinical_relevance": "Provides practical, multidisciplinary algorithms and indications for conservative, stent-based, and surgical management of tracheobronchial injuries."
+  }
+}

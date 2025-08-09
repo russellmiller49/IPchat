@@ -1,0 +1,101 @@
+{
+  "source": {
+    "document_id": "Sedation in Bronchoscopy",
+    "ingest_date": "2025-08-08T15:47:30.279781+00:00",
+    "trial_registration_id": null,
+    "pmid": null,
+    "doi": "10.1016/j.ccm.2017.09.004"
+  },
+  "document": {
+    "metadata": {
+      "title": "Sedation in Bronchoscopy: A Review",
+      "year": 2018,
+      "authors": [
+        "Amanda J. McCambridge",
+        "Richard Paul Boesch",
+        "John J. Mullon"
+      ],
+      "journal": "Clinics in Chest Medicine",
+      "doi": "10.1016/j.ccm.2017.09.004",
+      "pmid": null
+    },
+    "sections": {
+      "abstract": "This narrative review summarizes sedation strategies for flexible and rigid bronchoscopy. Moderate sedation is commonly used and improves patient tolerance, cough reduction, and willingness for repeat procedures without increasing complications. Topical anesthesia, particularly lidocaine, is widely used as an adjunct to systemic sedatives; alternatives like benzocaine and tetracaine have fallen out of favor due to methemoglobinemia risk. Benzodiazepines and opioids are frequently combined to leverage amnestic and antitussive effects while reducing total doses. Propofol provides rapid onset and recovery with favorable patient perceptions but requires close monitoring due to a narrow therapeutic window and lack of a reversal agent. Emerging options include ketamine and dexmedetomidine. Techniques such as transcricoid injection and nerve blocks can further improve comfort and cough suppression, with generally acceptable safety profiles when performed by experienced operators.",
+      "methods": "A literature search was conducted on MEDLINE from 1969 to 2017. Randomized controlled trials and prospective cohort studies were considered of highest impact.",
+      "results": "Across the literature, sedation during bronchoscopy improves patient tolerance, reduces cough, and increases willingness to undergo repeat procedures without increasing overall complication rates. Lidocaine is favored for topical anesthesia due to efficacy and safety, while benzocaine/tetracaine are limited by methemoglobinemia risk. Nebulized lidocaine shows mixed efficacy compared with direct application. Transcricoid/transtracheal injection and laryngeal/glossopharyngeal nerve blocks can reduce cough and improve tolerance with low complication rates in experienced hands. Benzodiazepines provide anxiolysis and amnesia; opioids add antitussive and analgesic effects, with combination regimens commonly used but requiring vigilance for respiratory depression. Propofol yields faster onset/recovery and improved patient experience versus benzodiazepines, but mandates continuous monitoring by clinicians with advanced airway skills. Alternatives like ketamine and dexmedetomidine are viable in selected settings."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults and children undergoing diagnostic or therapeutic bronchoscopy (flexible or rigid).",
+      "inclusion_criteria": [],
+      "exclusion_criteria": []
+    },
+    "intervention": {
+      "text": "Sedation regimens for bronchoscopy",
+      "details": "Topical anesthesia (primarily lidocaine by direct instillation, nebulization, or injection), systemic benzodiazepines, opioids, propofol, ketamine, dexmedetomidine, and combinations thereof; nerve blocks and transcricoid injections as adjuncts."
+    },
+    "comparison": {
+      "text": "No sedation or alternative sedation regimens",
+      "details": "Comparisons include unsedated bronchoscopy, benzodiazepines alone versus combinations with opioids or propofol, and various topical anesthesia techniques."
+    },
+    "outcomes": [
+      {
+        "name": "Patient tolerance and willingness for repeat bronchoscopy",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Cough reduction during procedure",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Complications and adverse events (e.g., hypoxemia, methemoglobinemia)",
+        "type": "safety",
+        "umls_cui": ""
+      },
+      {
+        "name": "Recovery time and time to baseline mental status",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Narrative review",
+    "allocation": null,
+    "blinding": null,
+    "sites_count": null,
+    "countries": [],
+    "sample_size": {
+      "planned": null,
+      "enrolled": null,
+      "analyzed": null
+    },
+    "analysis_populations": []
+  },
+  "arms": [],
+  "outcomes_normalized": [],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "Not applicable",
+    "overall_judgment": "unclear",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "bronchoscopy",
+      "sedation",
+      "lidocaine",
+      "benzodiazepines",
+      "opioids",
+      "propofol",
+      "ketamine",
+      "dexmedetomidine",
+      "topical anesthesia"
+    ],
+    "summary_tldr": "Narrative review: Sedation (often lidocaine plus benzodiazepine/opioid or propofol) improves tolerance and reduces cough in bronchoscopy without increasing overall complications; propofol enables faster recovery but needs close monitoring.",
+    "clinical_relevance": "Supports routine use of sedation with appropriate agent selection and monitoring to optimize bronchoscopy comfort and safety."
+  }
+}

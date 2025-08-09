@@ -1,0 +1,1069 @@
+{
+  "source": {
+    "document_id": "Eberhardt-2021-Endobronchial Valve (Zephyr) Tr",
+    "ingest_date": "2025-08-08T11:39:27.773278+00:00",
+    "trial_registration_id": "NCT02025205",
+    "pmid": "",
+    "doi": "10.1159/000517034"
+  },
+  "document": {
+    "metadata": {
+      "title": "Endobronchial Valve (Zephyr) Treatment in Homogeneous Emphysema: One-Year Results from the IMPACT Randomized Clinical Trial",
+      "year": 2021,
+      "authors": [
+        "Ralf Eberhardt",
+        "Dirk-Jan Slebos",
+        "Felix J.F. Herth",
+        "Kaid Darwiche",
+        "Manfred Wagner",
+        "Joachim H. Ficker",
+        "Christoph Petermann",
+        "Ralf-Harto Hübner",
+        "Franz Stanzel",
+        "Narinder S. Shargill",
+        "Arschang Valipour"
+      ],
+      "journal": "Respiration",
+      "doi": "10.1159/000517034",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Rationale: The long-term safety and effectiveness of bronchoscopic lung volume reduction with Zephyr endobronchial valves in subjects with severe homogeneous emphysema with little to no collateral ventilation beyond 3 months have yet to be established. Methods: Ninety-three subjects were randomized to either bronchoscopic lung volume reduction with Zephyr valves or standard of care (SoC) (1:1). Zephyr valve subjects were assessed at 3, 6, and 12 months. SoC subjects were assessed at 3 and 6 months; they were then offered crossover to Zephyr valve treatment. Results: The mean group difference (Zephyr valve - SoC) for change in FEV1 from baseline to 6 months was 16.3 ± 22.1% (mean ± SD; p < 0.001). Secondary outcomes showed the mean between-group difference for the six-minute walk distance of +28.3 ± 55.3 m (p = 0.016); St. George’s Respiratory Questionnaire, -7.51 ± 9.56 points (p < 0.001); modified Medical Research Council, -0.42 ± 0.81 points (p = 0.019); BODE index, -0.85 ± 1.39 points (p = 0.006); and residual volume of -430 ± 830 mL (p = 0.011) in favor of the Zephyr valve group. At 6 months, there were significantly more responders based on the minimal clinically important difference for these same measures in the Zephyr valve versus the SoC group. The clinical benefits were persistent at 12 months. The percentage of subjects with respiratory serious adverse events was higher in the Zephyr valve group compared to SoC during the first 30 days post-procedure but not statistically different for the Zephyr valve and SoC groups from 31 days to 6 months, and stable in the Zephyr valve group out to 12 months. There were 2 deaths in the SoC group in the 31-day to 6-month period and none in the Zephyr valve group out to 12 months. Conclusions: Bronchoscopic lung volume reduction with Zephyr valves in subjects with severe homogeneous emphysema and little to no collateral ventilation provides clinically meaningful change from baseline in lung function, quality of life, exercise capacity, dyspnea, and the BODE index at 6 months, with benefits maintained out to 12 months.",
+      "methods": "This was a multicenter, prospective, randomized, controlled, one-way crossover study (NCT02025205). Subjects with severe homogeneous emphysema and little to no collateral ventilation were randomized 1:1 to Zephyr endobronchial valve treatment or standard of care (SoC). Assessments were performed at 30 days, 3, 6, and 12 months (12 months Zephyr valve group only). Effectiveness outcomes were assessed by comparing between-group differences for changes from baseline to 6 months (Zephyr vs SoC) and within-group changes to 12 months (Zephyr). Statistical analyses included t tests for continuous outcomes, Wilcoxon tests for nonparametric variables (mMRC, BODE), χ2 tests for responder rates, McNemar’s test for within-group responder durability, and Fisher’s exact test for adverse events. Missing data were imputed using Last Observation Carried Forward and analyses were intention-to-treat.",
+      "results": "Ninety-three subjects were randomized (43 Zephyr, 50 SoC). Between-group differences (Zephyr - SoC) at 6 months favored Zephyr: FEV1 +120 ± 150 mL (p < 0.001), FEV1% +16.3 ± 22.1% (p < 0.001), RV -430 ± 830 mL (p = 0.015), 6MWD +28.3 ± 55.3 m (p = 0.016), SGRQ -7.51 ± 9.56 points (p < 0.001), CAT -0.70 ± 4.51 (p = 0.468), mMRC -0.42 ± 0.81 (p = 0.019), BODE -0.85 ± 1.39 (p = 0.006). Responder rates (MCID) at 6 months were higher with Zephyr for FEV1 (≥100 mL: 30.2% vs 8.0%, p = 0.006; ≥12%: 30.2% vs 10.0%, p = 0.014), RV (≤ -310 mL: 53.5% vs 30.0%, p = 0.022), 6MWD (≥ +26 m: 45.2% vs 22.0%, p = 0.018), SGRQ (≤ -4 points: 63.9% vs 31.3%, p = 0.003), mMRC (≤ -1 point: 34.1% vs 10.9%, p = 0.009), BODE (≤ -1 point: 50.0% vs 17.4%, p = 0.001). At 12 months (Zephyr only), changes from baseline remained significant for RV (-460 ± 1,000 mL; p = 0.005) and SGRQ (-4.01 ± 10.14; p = 0.017), but not for FEV1 (p = 0.092) or 6MWD (p = 0.759). Safety: within 6 months there were 111 respiratory adverse events in the Zephyr group (64% non-serious) and 54 in SoC (67% non-serious). Two deaths occurred in SoC from 31 days to 6 months; none occurred in Zephyr through 12 months."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with severe homogeneous emphysema and little to no collateral ventilation despite optimal medical therapy.",
+      "inclusion_criteria": [
+        "Age ≥ 40 years",
+        "COPD with post-bronchodilator FEV1 ≥ 15% predicted and ≤ 45% predicted",
+        "Total lung capacity > 100% predicted",
+        "Residual volume (RV) ≥ 200% predicted",
+        "Six-minute walk distance (6MWD) ≥ 150 m",
+        "Nonsmoker > 8 weeks",
+        "Homogeneous emphysema: heterogeneity index (-910 HU cutoff) difference between target and adjacent lobes < 15%",
+        "Perfusion scintigraphy absolute right-left lung perfusion difference ≤ 20%",
+        "Little to no collateral ventilation in the target lobe (Chartis assessment)"
+      ],
+      "exclusion_criteria": []
+    },
+    "intervention": {
+      "text": "Zephyr endobronchial valve bronchoscopic lung volume reduction",
+      "details": "One-way endobronchial valves placed to achieve lobar occlusion in the absence of collateral ventilation; Chartis® used for assessment; follow-up at 30 days, 3, 6, and 12 months; repeat bronchoscopy for valve adjustment per investigator discretion."
+    },
+    "comparison": {
+      "text": "Standard of care (SoC)",
+      "details": "Optimal medical management; assessed at 3 and 6 months, then offered crossover to Zephyr valve after 6-month follow-up if eligible."
+    },
+    "outcomes": [
+      {
+        "name": "Change in FEV1 from baseline to 6 months",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Change in residual volume, 6MWD, SGRQ, mMRC, CAT, and BODE at 6 months; MCID responder rates",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Change in outcomes at 12 months in Zephyr arm",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "RCT",
+    "allocation": "randomized",
+    "blinding": "open-label",
+    "sites_count": 8,
+    "countries": [
+      "Germany",
+      "Netherlands",
+      "Austria"
+    ],
+    "sample_size": {
+      "planned": 93,
+      "enrolled": 93,
+      "analyzed": 93
+    },
+    "analysis_populations": [
+      {
+        "name": "ITT",
+        "description": "All randomized; LOCF for missing data",
+        "n": 93
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "Zephyr endobronchial valve",
+      "n_randomized": 43,
+      "n_analyzed": 43,
+      "n_completed": 34
+    },
+    {
+      "arm_id": "control",
+      "name": "Standard of care",
+      "n_randomized": 50,
+      "n_analyzed": 50,
+      "n_completed": 44
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "fev1_absolute_change_6m",
+      "name": "Absolute FEV1 change from baseline at 6 months",
+      "type": "continuous",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P6M",
+      "unit": "L",
+      "unit_canonical": "liter",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": 0.08,
+            "sd": 0.18,
+            "total": 43
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "mean": -0.04,
+            "sd": 0.12,
+            "total": 50
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "mean_difference",
+        "est": 0.12,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.001,
+        "p_operator": "<",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "t test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT",
+        "missing_handling": "Last observation carried forward"
+      },
+      "provenance": {
+        "pages": [
+          1177,
+          1178
+        ],
+        "tables": [
+          "Table 1"
+        ],
+        "quote": "FEV1 (absolute) at 6 months: Zephyr 80±180 (n=43) vs SoC -40±120 (n=50); ∆ Zephyr - SoC = 120±150; p < 0.001"
+      }
+    },
+    {
+      "concept_id": "fev1_percent_change_6m",
+      "name": "Percent FEV1 change from baseline at 6 months",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P6M",
+      "unit": "%",
+      "unit_canonical": "percent",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": 11.54,
+            "sd": 28.58,
+            "total": 43
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "mean": -4.73,
+            "sd": 14.38,
+            "total": 50
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "mean_difference",
+        "est": 16.3,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.001,
+        "p_operator": "<",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "t test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT",
+        "missing_handling": "Last observation carried forward"
+      },
+      "provenance": {
+        "pages": [
+          1177,
+          1178
+        ],
+        "tables": [
+          "Table 1"
+        ],
+        "quote": "FEV1, % at 6 months: Zephyr 11.54±28.58 (n=43) vs SoC -4.73±14.38 (n=50); ∆ = 16.3±22.1; p < 0.001"
+      }
+    },
+    {
+      "concept_id": "rv_change_6m",
+      "name": "Residual volume change from baseline at 6 months",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P6M",
+      "unit": "mL",
+      "unit_canonical": "milliliter",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": -480,
+            "sd": 890,
+            "total": 43
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "mean": -60,
+            "sd": 770,
+            "total": 50
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "mean_difference",
+        "est": -430,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.015,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "t test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT",
+        "missing_handling": "Last observation carried forward"
+      },
+      "provenance": {
+        "pages": [
+          1177,
+          1178
+        ],
+        "tables": [
+          "Table 1"
+        ],
+        "quote": "RV, mL at 6 months: Zephyr -480±890 (n=43) vs SoC -60±770 (n=50); ∆ = -430±830; p = 0.015"
+      }
+    },
+    {
+      "concept_id": "six_minute_walk_distance_change_6m",
+      "name": "Six-minute walk distance change from baseline at 6 months",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P6M",
+      "unit": "m",
+      "unit_canonical": "meter",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": 21.3,
+            "sd": 57.5,
+            "total": 42
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "mean": -7.1,
+            "sd": 53.4,
+            "total": 50
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "mean_difference",
+        "est": 28.3,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.016,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "t test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT",
+        "missing_handling": "Last observation carried forward"
+      },
+      "provenance": {
+        "pages": [
+          1177,
+          1178
+        ],
+        "tables": [
+          "Table 1"
+        ],
+        "quote": "6MWD, m at 6 months: Zephyr 21.3±57.5 (n=42) vs SoC -7.1±53.4 (n=50); ∆ = 28.3±55.3; p = 0.016"
+      }
+    },
+    {
+      "concept_id": "sgrq_change_6m",
+      "name": "SGRQ total score change from baseline at 6 months",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P6M",
+      "unit": "points",
+      "unit_canonical": "points",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": -6.84,
+            "sd": 9.76,
+            "total": 36
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "mean": 0.63,
+            "sd": 9.42,
+            "total": 48
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "mean_difference",
+        "est": -7.51,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.001,
+        "p_operator": "<",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "t test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT",
+        "missing_handling": "Last observation carried forward"
+      },
+      "provenance": {
+        "pages": [
+          1177,
+          1178
+        ],
+        "tables": [
+          "Table 1"
+        ],
+        "quote": "SGRQ total score at 6 months: Zephyr -6.84±9.76 (n=36) vs SoC 0.63±9.42 (n=48); ∆ = -7.51±9.56; p < 0.001"
+      }
+    },
+    {
+      "concept_id": "cat_change_6m",
+      "name": "CAT total score change from baseline at 6 months",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P6M",
+      "unit": "points",
+      "unit_canonical": "points",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": -1.57,
+            "sd": 5.05,
+            "total": 42
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "mean": -0.87,
+            "sd": 3.93,
+            "total": 45
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "mean_difference",
+        "est": -0.7,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.468,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "t test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT",
+        "missing_handling": "Last observation carried forward"
+      },
+      "provenance": {
+        "pages": [
+          1178
+        ],
+        "tables": [
+          "Table 1"
+        ],
+        "quote": "CAT total score at 6 months: Zephyr -1.57±5.05 (n=42) vs SoC -0.87±3.93 (n=45); ∆ = -0.70±4.51; p = 0.468"
+      }
+    },
+    {
+      "concept_id": "mmrc_change_6m",
+      "name": "mMRC dyspnea scale change from baseline at 6 months",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P6M",
+      "unit": "points",
+      "unit_canonical": "points",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": -0.24,
+            "sd": 0.89,
+            "total": 41
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "mean": 0.17,
+            "sd": 0.74,
+            "total": 46
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "median_difference",
+        "est": -0.42,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.019,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Wilcoxon rank-sum test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT",
+        "missing_handling": "Last observation carried forward"
+      },
+      "provenance": {
+        "pages": [
+          1178
+        ],
+        "tables": [
+          "Table 1"
+        ],
+        "quote": "mMRC dyspnea scale at 6 months: Zephyr -0.24±0.89 (n=41) vs SoC 0.17±0.74 (n=46); ∆ = -0.42±0.81; p = 0.019 (Wilcoxon)"
+      }
+    },
+    {
+      "concept_id": "bode_change_6m",
+      "name": "BODE index change from baseline at 6 months",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P6M",
+      "unit": "points",
+      "unit_canonical": "points",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": -0.5,
+            "sd": 1.62,
+            "total": 40
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "mean": 0.35,
+            "sd": 1.16,
+            "total": 46
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "median_difference",
+        "est": -0.85,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.006,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Wilcoxon rank-sum test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT",
+        "missing_handling": "Last observation carried forward"
+      },
+      "provenance": {
+        "pages": [
+          1178
+        ],
+        "tables": [
+          "Table 1"
+        ],
+        "quote": "BODE index at 6 months: Zephyr -0.50±1.62 (n=40) vs SoC 0.35±1.16 (n=46); ∆ = -0.85±1.39; p = 0.006 (Wilcoxon)"
+      }
+    },
+    {
+      "concept_id": "fev1_ml_responder_6m",
+      "name": "FEV1 responders ≥ +100 mL at 6 months",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P6M",
+      "timepoint_label": "6 months",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 13,
+            "total": 43
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 4,
+            "total": 50
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": 0.195,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.006,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Chi-square test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT",
+        "missing_handling": "Last observation carried forward"
+      },
+      "provenance": {
+        "pages": [
+          1177,
+          1178
+        ],
+        "tables": [
+          "Table 1"
+        ],
+        "table_number": 1,
+        "quote": "FEV1, mL responders, MCID ≥ +100 mL at 6 months: 30.2% vs 8.0%; p = 0.006"
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 3.779
+        },
+        "odds_ratio": {
+          "est": 4.983
+        },
+        "arr": 0.222,
+        "nnt": 4.5
+      }
+    },
+    {
+      "concept_id": "fev1_percent_responder_6m",
+      "name": "FEV1 responders ≥ +12% at 6 months",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P6M",
+      "timepoint_label": "6 months",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 13,
+            "total": 43
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 5,
+            "total": 50
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": 0.202,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.014,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Chi-square test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT",
+        "missing_handling": "Last observation carried forward"
+      },
+      "provenance": {
+        "pages": [
+          1178
+        ],
+        "tables": [
+          "Table 1"
+        ],
+        "table_number": 1,
+        "quote": "FEV1, mL responders, MCID ≥ +12% at 6 months: 30.2% vs 10.0%; p = 0.014"
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 3.023
+        },
+        "odds_ratio": {
+          "est": 3.9
+        },
+        "arr": 0.202,
+        "nnt": 4.9
+      }
+    },
+    {
+      "concept_id": "rv_responder_6m",
+      "name": "RV responders ≤ -310 mL at 6 months",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P6M",
+      "timepoint_label": "6 months",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 23,
+            "total": 43
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 15,
+            "total": 50
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": 0.235,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.022,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Chi-square test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT",
+        "missing_handling": "Last observation carried forward"
+      },
+      "provenance": {
+        "pages": [
+          1177,
+          1178
+        ],
+        "tables": [
+          "Table 1"
+        ],
+        "quote": "RV, mL responders, MCID ≤ -310 mL at 6 months: 53.5% vs 30.0%; p = 0.022"
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 1.783
+        },
+        "odds_ratio": {
+          "est": 2.683
+        },
+        "arr": 0.235,
+        "nnt": 4.3
+      }
+    },
+    {
+      "concept_id": "six_minute_walk_distance_responder_6m",
+      "name": "6MWD responders ≥ +26 m at 6 months",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P6M",
+      "timepoint_label": "6 months",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 19,
+            "total": 42
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 11,
+            "total": 50
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": 0.232,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.018,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Chi-square test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT",
+        "missing_handling": "Last observation carried forward"
+      },
+      "provenance": {
+        "pages": [
+          1178
+        ],
+        "tables": [
+          "Table 1"
+        ],
+        "quote": "6MWD responders, MCID ≥ +26 m at 6 months: 45.2% vs 22.0%; p = 0.018"
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 2.056
+        },
+        "odds_ratio": {
+          "est": 2.929
+        },
+        "arr": 0.232,
+        "nnt": 4.3
+      }
+    },
+    {
+      "concept_id": "sgrq_responder_6m",
+      "name": "SGRQ responders ≤ -4 points at 6 months",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P6M",
+      "timepoint_label": "6 months",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 23,
+            "total": 36
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 15,
+            "total": 48
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": 0.315,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.003,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Chi-square test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT",
+        "missing_handling": "Last observation carried forward"
+      },
+      "provenance": {
+        "pages": [
+          1178
+        ],
+        "tables": [
+          "Table 1"
+        ],
+        "quote": "SGRQ responders, MCID ≤ -4 points at 6 months: 63.9% vs 31.3%; p = 0.003"
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 2.044
+        },
+        "odds_ratio": {
+          "est": 3.892
+        },
+        "arr": 0.326,
+        "nnt": 3.1
+      }
+    },
+    {
+      "concept_id": "mmrc_responder_6m",
+      "name": "mMRC responders ≤ -1 point at 6 months",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P6M",
+      "timepoint_label": "6 months",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 14,
+            "total": 41
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 5,
+            "total": 46
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": 0.223,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.009,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Chi-square test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT",
+        "missing_handling": "Last observation carried forward"
+      },
+      "provenance": {
+        "pages": [
+          1178
+        ],
+        "tables": [
+          "Table 1"
+        ],
+        "quote": "mMRC responders, MCID ≤ -1 point at 6 months: 34.1% vs 10.9%; p = 0.009"
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 3.141
+        },
+        "odds_ratio": {
+          "est": 4.252
+        },
+        "arr": 0.233,
+        "nnt": 4.3
+      }
+    },
+    {
+      "concept_id": "bode_responder_6m",
+      "name": "BODE index responders ≤ -1 point at 6 months",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P6M",
+      "timepoint_label": "6 months",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 20,
+            "total": 40
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 8,
+            "total": 46
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": 0.326,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.001,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Chi-square test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT",
+        "missing_handling": "Last observation carried forward"
+      },
+      "provenance": {
+        "pages": [
+          1178
+        ],
+        "tables": [
+          "Table 1"
+        ],
+        "quote": "BODE index responders, MCID ≤ -1 point at 6 months: 50.0% vs 17.4%; p = 0.001"
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 2.875
+        },
+        "odds_ratio": {
+          "est": 4.75
+        },
+        "arr": 0.326,
+        "nnt": 3.1
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Death",
+      "meddra": {
+        "soc": "General disorders and administration site conditions",
+        "pt": "Death"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "death"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 43
+        },
+        {
+          "arm_id": "control",
+          "events": 2,
+          "patients": 2,
+          "percentage": 4,
+          "total": 50
+        }
+      ],
+      "period": "P31D-P6M",
+      "management": "",
+      "provenance": {
+        "pages": [
+          1175,
+          1176
+        ],
+        "tables": [],
+        "quote": "There were 2 deaths in the SoC group in the 31-day to 6-month period and none in the Zephyr valve group out to 12 months."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "RoB 2",
+    "overall_judgment": "some concerns",
+    "domains": [
+      {
+        "name": "Randomization process",
+        "judgment": "some concerns",
+        "support_for_judgment": "Randomized 1:1; allocation concealment not detailed in report extract."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "some concerns",
+        "support_for_judgment": "Open-label design with subjective outcomes (e.g., SGRQ)."
+      },
+      {
+        "name": "Missing outcome data",
+        "judgment": "low",
+        "support_for_judgment": "ITT with LOCF; follow-up rates reported; analyses include all randomized."
+      },
+      {
+        "name": "Measurement of the outcome",
+        "judgment": "low",
+        "support_for_judgment": "Objective measures (FEV1, RV, 6MWD) and validated PROs used."
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "low",
+        "support_for_judgment": "Outcomes pre-specified; results consistent with prior 3-month report."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "emphysema",
+      "endobronchial valve",
+      "Zephyr",
+      "bronchoscopic lung volume reduction",
+      "FEV1",
+      "homogeneous emphysema"
+    ],
+    "summary_tldr": "At 6 months, Zephyr valves improved FEV1 by 120 mL versus -40 mL with higher MCID responder rates across RV, 6MWD, SGRQ, mMRC, and BODE; benefits on RV and SGRQ persisted to 12 months in the Zephyr arm.",
+    "clinical_relevance": "In patients with severe homogeneous emphysema and little/no collateral ventilation, Zephyr endobronchial valves yield clinically meaningful improvements in lung function and quality of life versus standard care."
+  }
+}

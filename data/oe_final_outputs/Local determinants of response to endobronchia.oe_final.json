@@ -1,0 +1,682 @@
+{
+  "source": {
+    "document_id": "Local determinants of response to endobronchia",
+    "ingest_date": "2025-08-08T14:05:53.830997+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": ""
+  },
+  "document": {
+    "metadata": {
+      "title": "Local Determinants of Response to Endobronchial High-Dose Rate Brachytherapy in Bronchogenic Carcinoma",
+      "year": 1997,
+      "authors": [
+        "Linda Ofiara",
+        "Ted Roman",
+        "Kevin Schwartzman",
+        "Robert D. Levy"
+      ],
+      "journal": "Chest",
+      "doi": "",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Study objective: We evaluated bronchoscopic tumor appearance and tumor location as determinants of response to high-dose rate brachytherapy (HDR-BT) in patients with symptomatic unresectable bronchogenic carcinoma previously treated with external-beam irradiation. Patients and methods: Thirty patients with symptomatic endobronchial bronchogenic carcinoma who had previously completed external irradiation were divided into two groups based on whether the initial bronchoscopic appearance showed an endoluminal mass or submucosal infiltration/extrinsic compression. Furthermore, patients were also classified based on tumor location: central (trachea or mainstem bronchi) and peripheral (lobar or segmental bronchi). Patients underwent three treatments of 800 cGy intraluminal irradiation at 2-week intervals, with follow-up evaluation 4 weeks later. We evaluated response in tumor extent based on bronchoscopic and chest radiograph appearance, as well as symptoms with standardized scales. Results: Fifteen of 24 patients who underwent follow-up bronchoscopy had reductions in the degree of endobronchial obstruction. Seven of 24 patients had radiographic improvement in the extent of atelectasis. Patients with both tumor appearances (endoluminal and submucosal/extrinsic compression) had significant improvements following HDR-BT with regard to hemoptysis. Patients with submucosal disease also had improvement in cough. Patients with peripheral tumors had better rates of response for hemoptysis and cough than did those with central tumors. Conclusion: HDR-BT may result in symptomatic improvement in patients with bronchogenic carcinoma, whether characterized endoscopically as endoluminal projection or submucosal infiltration/extrinsic compression. Peripheral tumors have better rates of response than central tumors, possibly on the basis of less extensive disease.",
+      "methods": "Prospective single-center study at Royal Victoria Hospital (McGill University) from November 1992 to October 1995. Inclusion: histologically proven bronchogenic carcinoma; inoperable/unresectable; recurrent or persistent endobronchial symptoms after prior maximal external-beam radiotherapy; endobronchial disease on bronchoscopy; consent. Patients classified by bronchoscopic appearance (endoluminal mass vs submucosal infiltration/extrinsic compression) and by location (central: trachea/mainstem vs peripheral: lobar/segmental). HDR-BT protocol: three outpatient treatments of 800 cGy at 1 cm from catheter axis, delivered every 2 weeks (total intended 3 sessions), with a follow-up bronchoscopy 4 weeks after completion (week 8). Catheters placed bronchoscopically with fluoroscopic confirmation; planning based on AP/lateral chest radiographs. Outcomes measured at baseline and week 8: symptom scores (hemoptysis, cough, dyspnea, pneumonitis) on 0-4 scale (Speiser & Spratling); ECOG performance status; blinded comparison of bronchoscopy still photographs for endobronchial obstruction (>25% change threshold); chest radiographs for atelectasis. Statistics: Welch's t test for baseline comparisons; paired t test for pre-post symptom scores; Fisher's exact test for improvements in bronchoscopy and CXR between study groups.",
+      "results": "Thirty patients enrolled; 20 endoluminal and 10 submucosal/extrinsic compression by appearance. Twenty-seven completed 3 HDR-BT sessions; 24 had week-8 follow-up (16 endoluminal; 8 submucosal). Three deaths occurred between weeks 4 and 8, judged unrelated to brachytherapy. Bronchoscopy: 15/24 improved endobronchial obstruction (10/16 endoluminal; 5/8 submucosal). CXR: among those with baseline atelectasis, 9/21 improved (6/15 endoluminal; 3/6 submucosal). Symptoms (overall): hemoptysis improved significantly; cough improved significantly; dyspnea and pneumonitis showed trends without statistical significance. By appearance, hemoptysis improved significantly in both endoluminal and submucosal groups; cough improved significantly only in submucosal group. By location, peripheral tumors showed significant improvements in hemoptysis and cough; central tumors did not. No statistically significant differences between groups for bronchoscopy or CXR improvements."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with symptomatic endobronchial bronchogenic carcinoma previously treated with external-beam radiotherapy, inoperable/unresectable, with endobronchial disease on bronchoscopy.",
+      "inclusion_criteria": [
+        "Histologically proven bronchogenic carcinoma",
+        "Inoperable due to pulmonary function or unresectable due to stage",
+        "Recurrent or persistent symptoms (hemoptysis, cough, dyspnea, or postobstructive pneumonia) after prior maximal external-beam radiotherapy",
+        "Evidence of endobronchial disease at bronchoscopy",
+        "Provided consent"
+      ],
+      "exclusion_criteria": []
+    },
+    "intervention": {
+      "text": "Endobronchial high-dose rate brachytherapy (HDR-BT)",
+      "details": "Three outpatient treatments of 800 cGy at 1 cm from catheter axis using Ir-192 source via afterloading catheter, delivered at 2-week intervals; follow-up bronchoscopy 4 weeks after the third session (week 8)."
+    },
+    "comparison": {
+      "text": "No control; within-patient pre-post comparison",
+      "details": "Baseline (pre-HDR-BT) vs 8-week post-HDR-BT assessments"
+    },
+    "outcomes": [
+      {
+        "name": "Hemoptysis symptom score change at 8 weeks",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Cough symptom score change at 8 weeks",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Dyspnea symptom score change at 8 weeks",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Pneumonitis symptom score change at 8 weeks",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Improvement in endobronchial obstruction on bronchoscopy at 8 weeks",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Improvement in atelectasis on chest radiograph at 8 weeks",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "prospective single-arm before-after",
+    "allocation": "non-randomized",
+    "blinding": "open-label with blinded outcome assessment for bronchoscopy images",
+    "sites_count": 1,
+    "countries": [
+      "CA"
+    ],
+    "sample_size": {
+      "planned": 30,
+      "enrolled": 30,
+      "analyzed": 24
+    },
+    "analysis_populations": [
+      {
+        "name": "Enrolled",
+        "description": "All enrolled patients",
+        "n": 30
+      },
+      {
+        "name": "Completed treatment",
+        "description": "Patients who completed 3 HDR-BT sessions",
+        "n": 27
+      },
+      {
+        "name": "Analyzed",
+        "description": "Patients with week-8 follow-up assessments",
+        "n": 24
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "overall",
+      "name": "HDR-BT overall cohort",
+      "n_randomized": 30,
+      "n_analyzed": 24,
+      "n_completed": 27
+    },
+    {
+      "arm_id": "endoluminal",
+      "name": "Endoluminal appearance subgroup",
+      "n_randomized": 16,
+      "n_analyzed": 16,
+      "n_completed": 0
+    },
+    {
+      "arm_id": "submucosal",
+      "name": "Submucosal/extrinsic compression subgroup",
+      "n_randomized": 8,
+      "n_analyzed": 8,
+      "n_completed": 0
+    },
+    {
+      "arm_id": "central",
+      "name": "Central location subgroup",
+      "n_randomized": 10,
+      "n_analyzed": 10,
+      "n_completed": 0
+    },
+    {
+      "arm_id": "peripheral",
+      "name": "Peripheral location subgroup",
+      "n_randomized": 14,
+      "n_analyzed": 14,
+      "n_completed": 0
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "hemoptysis_improvement_8w",
+      "name": "Hemoptysis improvement at 8 weeks",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P8W",
+      "timepoint_label": "8 weeks",
+      "groups": [
+        {
+          "arm_id": "overall",
+          "raw": {
+            "events": 11,
+            "total": 14
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "overall",
+        "measure": "within_group_change",
+        "est": null,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.01,
+        "p_operator": "<",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "paired t-test on symptom scores (0-4 scale); binary count reflects number improved",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Analyzed (n=24)",
+        "missing_handling": "Complete-case (patients with week-8 follow-up)"
+      },
+      "provenance": {
+        "pages": [
+          950
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "Hemoptysis 11/14; p<0.01 posttreatment vs baseline"
+      }
+    },
+    {
+      "concept_id": "cough_improvement_8w",
+      "name": "Cough improvement at 8 weeks",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P8W",
+      "timepoint_label": "8 weeks",
+      "groups": [
+        {
+          "arm_id": "overall",
+          "raw": {
+            "events": 11,
+            "total": 24
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "overall",
+        "measure": "within_group_change",
+        "est": null,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.05,
+        "p_operator": "<",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "paired t-test on symptom scores (0-4 scale); binary count reflects number improved",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Analyzed (n=24)",
+        "missing_handling": "Complete-case"
+      },
+      "provenance": {
+        "pages": [
+          950
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "Cough 11/24; p<0.05 posttreatment vs baseline"
+      }
+    },
+    {
+      "concept_id": "dyspnea_improvement_8w",
+      "name": "Dyspnea improvement at 8 weeks",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P8W",
+      "timepoint_label": "8 weeks",
+      "groups": [
+        {
+          "arm_id": "overall",
+          "raw": {
+            "events": 8,
+            "total": 24
+          }
+        }
+      ],
+      "analysis": {
+        "model": "paired t-test on symptom scores (0-4 scale); binary count reflects number improved",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Analyzed (n=24)",
+        "missing_handling": "Complete-case"
+      },
+      "provenance": {
+        "pages": [
+          950
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "Dyspnea 8/24"
+      }
+    },
+    {
+      "concept_id": "pneumonitis_improvement_8w",
+      "name": "Pneumonitis improvement at 8 weeks",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P8W",
+      "timepoint_label": "8 weeks",
+      "groups": [
+        {
+          "arm_id": "overall",
+          "raw": {
+            "events": 1,
+            "total": 5
+          }
+        }
+      ],
+      "analysis": {
+        "model": "paired t-test on symptom scores (0-4 scale); binary count reflects number improved",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Analyzed (n=24)",
+        "missing_handling": "Complete-case"
+      },
+      "provenance": {
+        "pages": [
+          950
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "Pneumonitis 1/5"
+      }
+    },
+    {
+      "concept_id": "bronchoscopy_obstruction_improvement_8w",
+      "name": "Improvement in endobronchial obstruction on bronchoscopy at 8 weeks",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P8W",
+      "timepoint_label": "8 weeks",
+      "groups": [
+        {
+          "arm_id": "overall",
+          "raw": {
+            "events": 15,
+            "total": 24
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Blinded paired photographic comparison (>25% decrease threshold)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Analyzed (n=24)",
+        "missing_handling": "Complete-case"
+      },
+      "provenance": {
+        "pages": [
+          950
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "Bronchoscopy 15/24"
+      }
+    },
+    {
+      "concept_id": "cxr_atelectasis_improvement_8w",
+      "name": "Improvement in atelectasis on chest radiograph at 8 weeks",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P8W",
+      "timepoint_label": "8 weeks",
+      "groups": [
+        {
+          "arm_id": "overall",
+          "raw": {
+            "events": 9,
+            "total": 21
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Radiographic assessment of atelectasis change (improved vs not improved)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Analyzed (n=24); those with baseline atelectasis (n=21)",
+        "missing_handling": "Complete-case"
+      },
+      "provenance": {
+        "pages": [
+          950
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "CXR (atelectasis) 9/21"
+      }
+    },
+    {
+      "concept_id": "hemoptysis_improvement_by_appearance_8w",
+      "name": "Hemoptysis improvement at 8 weeks by tumor appearance",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P8W",
+      "timepoint_label": "8 weeks",
+      "groups": [
+        {
+          "arm_id": "endoluminal",
+          "raw": {
+            "events": 7,
+            "total": 10
+          }
+        },
+        {
+          "arm_id": "submucosal",
+          "raw": {
+            "events": 4,
+            "total": 4
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "endoluminal",
+        "measure": "within_group_change",
+        "est": null,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.05,
+        "p_operator": "<",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "paired t-test on hemoptysis symptom scores within each subgroup; counts reflect number improved",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Endoluminal (n=16; baseline hemoptysis n=10) and Submucosal (n=8; baseline hemoptysis n=4)",
+        "missing_handling": "Complete-case"
+      },
+      "provenance": {
+        "pages": [
+          950
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "Hemoptysis Endoluminal 7/10; Submucosal 4/4; hemoptysis significantly improved in both groups"
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.7
+        },
+        "arr": -0.3,
+        "nnh": 3.3
+      }
+    },
+    {
+      "concept_id": "cough_improvement_by_appearance_8w",
+      "name": "Cough improvement at 8 weeks by tumor appearance",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P8W",
+      "timepoint_label": "8 weeks",
+      "groups": [
+        {
+          "arm_id": "endoluminal",
+          "raw": {
+            "events": 6,
+            "total": 16
+          }
+        },
+        {
+          "arm_id": "submucosal",
+          "raw": {
+            "events": 5,
+            "total": 8
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "submucosal",
+        "measure": "within_group_change",
+        "est": null,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.05,
+        "p_operator": "<",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "paired t-test on cough symptom scores within each subgroup; counts reflect number improved",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Endoluminal (n=16) and Submucosal (n=8)",
+        "missing_handling": "Complete-case"
+      },
+      "provenance": {
+        "pages": [
+          949
+        ],
+        "tables": [],
+        "quote": "Cough improved only in the submucosal/extrinsic compression group (asterisk=p<.05)"
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.6
+        },
+        "odds_ratio": {
+          "est": 0.36
+        },
+        "arr": -0.25,
+        "nnh": 4.0
+      }
+    },
+    {
+      "concept_id": "hemoptysis_improvement_by_location_8w",
+      "name": "Hemoptysis improvement at 8 weeks by tumor location",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P8W",
+      "timepoint_label": "8 weeks",
+      "groups": [
+        {
+          "arm_id": "central",
+          "raw": {
+            "events": 4,
+            "total": 6
+          }
+        },
+        {
+          "arm_id": "peripheral",
+          "raw": {
+            "events": 7,
+            "total": 8
+          }
+        }
+      ],
+      "analysis": {
+        "model": "paired t-test on hemoptysis symptom scores within each subgroup; counts reflect number improved",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Central (n=10; baseline hemoptysis n=6) and Peripheral (n=14; baseline hemoptysis n=8)",
+        "missing_handling": "Complete-case"
+      },
+      "provenance": {
+        "pages": [
+          950
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "Hemoptysis Central 4/6; Peripheral 7/8; hemoptysis significantly improved in the peripheral tumor group (asterisk=p<.05)"
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.762
+        },
+        "odds_ratio": {
+          "est": 0.286
+        },
+        "arr": -0.208,
+        "nnh": 4.8
+      }
+    },
+    {
+      "concept_id": "cough_improvement_by_location_8w",
+      "name": "Cough improvement at 8 weeks by tumor location",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P8W",
+      "timepoint_label": "8 weeks",
+      "groups": [
+        {
+          "arm_id": "central",
+          "raw": {
+            "events": 3,
+            "total": 10
+          }
+        },
+        {
+          "arm_id": "peripheral",
+          "raw": {
+            "events": 8,
+            "total": 14
+          }
+        }
+      ],
+      "analysis": {
+        "model": "paired t-test on cough symptom scores within each subgroup; counts reflect number improved",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Central (n=10) and Peripheral (n=14)",
+        "missing_handling": "Complete-case"
+      },
+      "provenance": {
+        "pages": [
+          950
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "Cough Central 3/10; Peripheral 8/14; cough significantly improved in the peripheral tumor group (asterisk=p<.05)"
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.525
+        },
+        "odds_ratio": {
+          "est": 0.321
+        },
+        "arr": -0.271,
+        "nnh": 3.7
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Death",
+      "meddra": {
+        "soc": "General disorders and administration site conditions",
+        "pt": "Death"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "death"
+      ],
+      "groups": [
+        {
+          "arm_id": "overall",
+          "events": 3,
+          "patients": 3,
+          "percentage": 10.0,
+          "total": 30
+        }
+      ],
+      "period": "Weeks 4-8 of study period",
+      "management": "",
+      "provenance": {
+        "pages": [
+          948
+        ],
+        "tables": [],
+        "quote": "Three patients unavailable for follow-up had died between weeks 4 and 8 (two in the endoluminal group and one in the submucosal group). These deaths were judged unrelated to a brachytherapy session and were attributed to progressive underlying disease."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "ROBINS-I",
+    "overall_judgment": "serious",
+    "domains": [
+      {
+        "name": "Confounding",
+        "judgment": "serious",
+        "support_for_judgment": "Single-arm before-after design without control; symptomatic changes may be influenced by regression to the mean and co-interventions."
+      },
+      {
+        "name": "Selection of participants",
+        "judgment": "moderate",
+        "support_for_judgment": "Consecutive referrals meeting criteria at a single center."
+      },
+      {
+        "name": "Classification of interventions",
+        "judgment": "low",
+        "support_for_judgment": "All participants received HDR-BT per protocol."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "low",
+        "support_for_judgment": "27/30 completed all 3 sessions; deviations minimal."
+      },
+      {
+        "name": "Missing data",
+        "judgment": "moderate",
+        "support_for_judgment": "6/30 (20%) lacked week-8 follow-up (3 deaths, 3 unavailable)."
+      },
+      {
+        "name": "Measurement of outcomes",
+        "judgment": "moderate",
+        "support_for_judgment": "Symptom scores unblinded; bronchoscopy image comparison blinded."
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "low",
+        "support_for_judgment": "Prespecified outcomes reported with counts and significance as described."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "endobronchial brachytherapy",
+      "high-dose rate",
+      "lung cancer",
+      "bronchogenic carcinoma",
+      "hemoptysis",
+      "bronchoscopy"
+    ],
+    "summary_tldr": "In a single-arm cohort of 30 previously irradiated lung cancer patients, HDR endobronchial brachytherapy led to significant improvements in hemoptysis (11/14) and cough (11/24) at 8 weeks, with 15/24 showing bronchoscopic obstruction improvement.",
+    "clinical_relevance": "Findings support HDR-BT as palliative therapy for endobronchial symptoms after prior external radiotherapy, with potentially better symptomatic response in peripheral tumors."
+  }
+}

@@ -1,0 +1,798 @@
+{
+  "source": {
+    "document_id": "Complications, and practice patterns of EBUS  AQuIRE registry",
+    "ingest_date": "2025-08-08T10:55:01.598104+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1378/chest.12-0350"
+  },
+  "document": {
+    "metadata": {
+      "title": "Complications, Consequences, and Practice Patterns of Endobronchial Ultrasound-Guided Transbronchial Needle Aspiration: Results of the AQuIRE Registry",
+      "year": 2013,
+      "authors": [
+        "George A. Eapen",
+        "Archan M. Shah",
+        "Xiudong Lei",
+        "Carlos A. Jimenez",
+        "Rodolfo C. Morice",
+        "Lonny Yarmus",
+        "Joshua Filner",
+        "Cynthia Ray",
+        "Gaetane Michaud",
+        "Sara R. Greenhill",
+        "Mona Sarkiss",
+        "Roberto Casal",
+        "David Rice",
+        "David E. Ost"
+      ],
+      "journal": "Chest",
+      "doi": "10.1378/chest.12-0350",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Background: Few studies of endobronchial ultrasound-guided transbronchial needle aspiration (EBUS-TBNA) have been large enough to identify risk factors for complications. The primary objective of this study was to quantify the incidence of and risk factors for complications in patients undergoing EBUS-TBNA. Methods: Data on prospectively enrolled patients undergoing EBUS-TBNA in the American College of Chest Physicians Quality Improvement Registry, Evaluation, and Education (AQuIRE) database were extracted and analyzed for the incidence, consequences, and predictors of complications. Results: We enrolled 1,317 patients at six hospitals. Complications occurred in 19 patients (1.44%; 95% CI, 0.87%-2.24%). Transbronchial lung biopsy (TBBx) was the only risk factor for complications, which occurred in 3.21% of patients who underwent the procedure and in 1.15% of those who did not (OR, 2.85; 95% CI, 1.07-7.59; P = .04). Pneumothorax occurred in seven patients (0.53%; 95% CI, 0.21%-1.09%). Escalations in level of care occurred in 14 patients (1.06%; 95% CI, 0.58%-1.78%); its risk factors were age > 70 years (OR, 4.06; 95% CI, 1.36-12.12; P = .012), inpatient status (OR, 4.93; 95% CI, 1.30-18.74; P = .019), and undergoing deep sedation or general anesthesia (OR, 4.68; 95% CI, 1.02-21.61; P = .048). TBBx was performed in only 12.6% of patients when rapid onsite cytologic evaluation (ROSE) was used and in 19.1% when it was not used (P = .006). Interhospital variation in TBBx use when ROSE was used was significant (P < .001). Conclusions: TBBx was the only risk factor for complications during EBUS-TBNA procedures. ROSE significantly reduced the use of TBBx.",
+      "methods": "All patients undergoing bronchoscopy with lymph node sampling by TBNA at six centers from February 13, 2009, to August 31, 2010, were entered consecutively into AQuIRE at the time of their procedure. Institutional review board approval was obtained at each site. Data were entered through the AQuIRE Web-based interface using standardized definitions, quality control checks, and protocols. Information included demographics, clinical characteristics, physician and hospital information, sedation, procedure details, pathology results, complications, and outcomes of complications. The use of ROSE was recorded, but only the final pathology reading was entered. The primary outcome was procedural morbidity within 24 h (bleeding requiring intervention, pneumothorax, clinically significant airway injury, sustained hypoxia, hypotension, cardiac arrest, arrhythmia, or respiratory failure requiring positive pressure ventilation). Secondary outcomes included escalation in level of care (hospital admission for outpatients or ICU transfer for inpatients), need for further interventions, and death. Categorical data were compared using Fisher exact test, stratified analysis used the Cochran-Mantel-Haenszel test, and logistic regression examined associations between outcomes and characteristics. Hierarchical models (patients nested within hospitals) were compared with ordinary logistic regression by removing the hospital variance component. Variables with P ≤ .20 on univariate analysis were candidates for multivariate models; backward elimination retained factors with P < .05. Analyses used SAS 9.1.",
+      "results": "A total of 1,317 patients were enrolled by 12 physicians from six hospitals. Any complication within 24 h occurred in 19 patients (1.44%; 95% CI, 0.87%-2.24%); one patient died after bleeding following endobronchial biopsy. Univariate and multivariate analyses showed that TBBx was associated with increased risk of any complication: 3.21% with TBBx vs 1.15% without (OR, 2.85; 95% CI, 1.07-7.59; P = .04). There was a trend toward higher complications with worse functional status (Zubrod ≥2: 2.5% vs <2: 1.04%; OR, 2.42; 95% CI, 0.97-6.02; P = .06). Pneumothorax occurred in 7 patients (0.53%; 95% CI, 0.21%-1.09%); 4 required tube thoracostomy and 3 resolved without intervention. Only TBBx was associated with increased risk of pneumothorax (2.7% with TBBx vs 0.2% without; OR, 15.49; 95% CI, 2.98-80.46; P = .001). Among the 187 TBBx patients, use of positive pressure ventilation was not associated with pneumothorax (2.0% vs 2.9%; P = 1.0). Escalation in level of care occurred in 14 patients (1.06%; 95% CI, 0.58%-1.78%). In multivariate analysis, age >70 years (OR, 4.06; 95% CI, 1.36-12.12; P = .012), inpatient status (OR, 4.93; 95% CI, 1.30-18.74; P = .019), and deep sedation/general anesthesia (OR, 4.68; 95% CI, 1.02-21.61; P = .048) were associated with increased risk of escalation. Tests for homogeneity demonstrated no differences among hospitals in complications (P = .99) or escalation of care (P = .77); hospital volume was not associated with outcomes. ROSE use was associated with less TBBx (12.6% vs 19.1%; P = .006), with significant interhospital variation (P < .001)."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Consecutive patients undergoing bronchoscopy with intrathoracic lymph node sampling by EBUS-TBNA at six US hospitals.",
+      "inclusion_criteria": [
+        "Undergoing bronchoscopy with lymph node sampling by TBNA",
+        "Consecutive entry into AQuIRE from 2009-02-13 to 2010-08-31"
+      ],
+      "exclusion_criteria": []
+    },
+    "intervention": {
+      "text": "Transbronchial lung biopsy (TBBx) performed in addition to EBUS-TBNA",
+      "details": "During EBUS-TBNA procedures, some patients also underwent forceps transbronchial lung biopsy at operator discretion."
+    },
+    "comparison": {
+      "text": "No transbronchial lung biopsy (EBUS-TBNA alone or with other procedures excluding TBBx)",
+      "details": "Patients who underwent EBUS-TBNA without TBBx."
+    },
+    "outcomes": [
+      {
+        "name": "Any procedural complication within 24 h",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Pneumothorax within 24 h",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Escalation in level of care within 24 h",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Prospective multicenter observational registry cohort",
+    "allocation": "nonrandomized",
+    "blinding": "none",
+    "sites_count": 6,
+    "countries": [
+      "US"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 1317,
+      "analyzed": 1317
+    },
+    "analysis_populations": [
+      {
+        "name": "Full cohort",
+        "description": "All consecutively enrolled patients undergoing EBUS-TBNA in AQuIRE",
+        "n": 1317
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "tbbx_yes",
+      "name": "TBBx performed",
+      "n_randomized": 187,
+      "n_analyzed": 187,
+      "n_completed": 187
+    },
+    {
+      "arm_id": "tbbx_no",
+      "name": "No TBBx",
+      "n_randomized": 1130,
+      "n_analyzed": 1130,
+      "n_completed": 1130
+    },
+    {
+      "arm_id": "age_gt70",
+      "name": "Age > 70 years",
+      "n_randomized": 393,
+      "n_analyzed": 393,
+      "n_completed": 393
+    },
+    {
+      "arm_id": "age_le70",
+      "name": "Age ≤ 70 years",
+      "n_randomized": 924,
+      "n_analyzed": 924,
+      "n_completed": 924
+    },
+    {
+      "arm_id": "inpatient",
+      "name": "Inpatient",
+      "n_randomized": 94,
+      "n_analyzed": 94,
+      "n_completed": 94
+    },
+    {
+      "arm_id": "outpatient",
+      "name": "Outpatient",
+      "n_randomized": 1223,
+      "n_analyzed": 1223,
+      "n_completed": 1223
+    },
+    {
+      "arm_id": "deep_or_ga",
+      "name": "Deep sedation or general anesthesia",
+      "n_randomized": 833,
+      "n_analyzed": 833,
+      "n_completed": 833
+    },
+    {
+      "arm_id": "moderate_sedation",
+      "name": "Moderate sedation",
+      "n_randomized": 484,
+      "n_analyzed": 484,
+      "n_completed": 484
+    },
+    {
+      "arm_id": "overall",
+      "name": "Overall cohort",
+      "n_randomized": 1317,
+      "n_analyzed": 1317,
+      "n_completed": 1317
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "any_complication_24h_tbbx",
+      "name": "Any procedural complication within 24 h",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P1D",
+      "timepoint_label": "24 hours",
+      "groups": [
+        {
+          "arm_id": "tbbx_yes",
+          "raw": {
+            "events": 6,
+            "total": 187
+          }
+        },
+        {
+          "arm_id": "tbbx_no",
+          "raw": {
+            "events": 13,
+            "total": 1130
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "tbbx_no",
+        "measure": "odds_ratio",
+        "est": 2.85,
+        "ci_lower": 1.07,
+        "ci_upper": 7.59,
+        "ci_level": 0.95,
+        "p_value": 0.04,
+        "p_operator": "=",
+        "adjusted": true
+      },
+      "analysis": {
+        "model": "Logistic regression (ordinary), backward elimination from variables with univariate P ≤ 0.20",
+        "adjusted": true,
+        "covariates": [
+          "Candidate variables with P ≤ 0.20 in univariate; final model retained TBBx only"
+        ],
+        "population": "Full cohort (N=1,317)",
+        "missing_handling": "Complete-case (registry fields required; no anticoagulation in cohort)"
+      },
+      "provenance": {
+        "pages": [
+          1046,
+          1048
+        ],
+        "tables": [
+          "Table 2",
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "Complications occurred in 3.21% of patients who underwent the procedure and in 1.15% of those who did not (OR, 2.85; 95% CI, 1.07-7.59; P = .04)."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 2.789
+        },
+        "odds_ratio": {
+          "est": 2.848
+        },
+        "arr": 0.021,
+        "nnt": 48.6
+      }
+    },
+    {
+      "concept_id": "pneumothorax_24h_tbbx",
+      "name": "Pneumothorax within 24 h",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P1D",
+      "timepoint_label": "24 hours",
+      "groups": [
+        {
+          "arm_id": "tbbx_yes",
+          "raw": {
+            "events": 5,
+            "total": 187
+          }
+        },
+        {
+          "arm_id": "tbbx_no",
+          "raw": {
+            "events": 2,
+            "total": 1130
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "tbbx_no",
+        "measure": "odds_ratio",
+        "est": 15.49,
+        "ci_lower": 2.98,
+        "ci_upper": 80.46,
+        "ci_level": 0.95,
+        "p_value": 0.001,
+        "p_operator": "=",
+        "adjusted": true
+      },
+      "analysis": {
+        "model": "Logistic regression (ordinary), backward elimination",
+        "adjusted": true,
+        "covariates": [
+          "Candidate variables with P ≤ 0.20 in univariate; final model retained TBBx only"
+        ],
+        "population": "Full cohort (N=1,317)"
+      },
+      "provenance": {
+        "pages": [
+          1046,
+          1047
+        ],
+        "tables": [
+          "Table 2",
+          "Table 4"
+        ],
+        "quote": "Pneumothorax occurred in seven patients (0.53%; 95% CI, 0.21%-1.09%). ... occurred in 2.7% of patients who underwent TBBx compared with 0.2% of those who did not (OR, 15.49; 95% CI, 2.98-80.46; P = .001)."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 15.107
+        },
+        "odds_ratio": {
+          "est": 15.495
+        },
+        "arr": 0.025,
+        "nnt": 40.1
+      }
+    },
+    {
+      "concept_id": "escalation_care_24h_age",
+      "name": "Escalation in level of care within 24 h (age > 70 vs ≤ 70)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P1D",
+      "timepoint_label": "24 hours",
+      "groups": [
+        {
+          "arm_id": "age_gt70",
+          "raw": {
+            "events": 8,
+            "total": 393
+          }
+        },
+        {
+          "arm_id": "age_le70",
+          "raw": {
+            "events": 6,
+            "total": 924
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "age_le70",
+        "measure": "odds_ratio",
+        "est": 4.06,
+        "ci_lower": 1.36,
+        "ci_upper": 12.12,
+        "ci_level": 0.95,
+        "p_value": 0.012,
+        "p_operator": "=",
+        "adjusted": true
+      },
+      "analysis": {
+        "model": "Logistic regression (ordinary), multivariable",
+        "adjusted": true,
+        "covariates": [
+          "Inpatient status",
+          "Anesthesia depth (deep/general vs moderate)"
+        ],
+        "population": "Full cohort (N=1,317)"
+      },
+      "provenance": {
+        "pages": [
+          1047
+        ],
+        "tables": [
+          "Table 5",
+          "Table 6"
+        ],
+        "quote": "Escalation occurred in 2% of patients aged > 70 years compared with 0.6% of patients aged ≤ 70 years (P = .04). In multivariate analysis, age > 70 years (OR, 4.06; 95% CI, 1.36-12.12; P = .012)."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 3.135
+        },
+        "odds_ratio": {
+          "est": 3.179
+        },
+        "arr": 0.014,
+        "nnt": 72.1
+      }
+    },
+    {
+      "concept_id": "escalation_care_24h_service",
+      "name": "Escalation in level of care within 24 h (inpatient vs outpatient)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P1D",
+      "timepoint_label": "24 hours",
+      "groups": [
+        {
+          "arm_id": "inpatient",
+          "raw": {
+            "events": 3,
+            "total": 94
+          }
+        },
+        {
+          "arm_id": "outpatient",
+          "raw": {
+            "events": 11,
+            "total": 1223
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "outpatient",
+        "measure": "odds_ratio",
+        "est": 4.93,
+        "ci_lower": 1.3,
+        "ci_upper": 18.74,
+        "ci_level": 0.95,
+        "p_value": 0.019,
+        "p_operator": "=",
+        "adjusted": true
+      },
+      "analysis": {
+        "model": "Logistic regression (ordinary), multivariable",
+        "adjusted": true,
+        "covariates": [
+          "Age > 70 years",
+          "Anesthesia depth (deep/general vs moderate)"
+        ],
+        "population": "Full cohort (N=1,317)"
+      },
+      "provenance": {
+        "pages": [
+          1047
+        ],
+        "tables": [
+          "Table 5",
+          "Table 6"
+        ],
+        "quote": "Trends suggested escalation associated with inpatient status (3.2% vs 0.9%; P = .074). In multivariate analysis, inpatient status (OR, 4.93; 95% CI, 1.30-18.74; P = .019)."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 3.548
+        },
+        "odds_ratio": {
+          "est": 3.632
+        },
+        "arr": 0.023,
+        "nnt": 43.6
+      }
+    },
+    {
+      "concept_id": "escalation_care_24h_anesthesia",
+      "name": "Escalation in level of care within 24 h (deep sedation/general anesthesia vs moderate)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P1D",
+      "timepoint_label": "24 hours",
+      "groups": [
+        {
+          "arm_id": "deep_or_ga",
+          "raw": {
+            "events": 12,
+            "total": 833
+          }
+        },
+        {
+          "arm_id": "moderate_sedation",
+          "raw": {
+            "events": 2,
+            "total": 484
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "moderate_sedation",
+        "measure": "odds_ratio",
+        "est": 4.68,
+        "ci_lower": 1.02,
+        "ci_upper": 21.61,
+        "ci_level": 0.95,
+        "p_value": 0.048,
+        "p_operator": "=",
+        "adjusted": true
+      },
+      "analysis": {
+        "model": "Logistic regression (ordinary), multivariable",
+        "adjusted": true,
+        "covariates": [
+          "Age > 70 years",
+          "Inpatient status"
+        ],
+        "population": "Full cohort (N=1,317)"
+      },
+      "provenance": {
+        "pages": [
+          1047
+        ],
+        "tables": [
+          "Table 5",
+          "Table 6"
+        ],
+        "quote": "Trends suggested escalation associated with deep sedation or general anesthesia (1.4% vs 0.4%; P = .1). In multivariate analysis, deep sedation or general anesthesia (OR, 4.68; 95% CI, 1.02-21.61; P = .048)."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 3.486
+        },
+        "odds_ratio": {
+          "est": 3.523
+        },
+        "arr": 0.01,
+        "nnt": 97.3
+      }
+    },
+    {
+      "concept_id": "bleeding_intervention_24h_overall",
+      "name": "Bleeding requiring intervention within 24 h",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P1D",
+      "timepoint_label": "24 hours",
+      "groups": [
+        {
+          "arm_id": "overall",
+          "raw": {
+            "events": 3,
+            "total": 1317
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Descriptive",
+        "adjusted": false,
+        "population": "Full cohort (N=1,317)"
+      },
+      "provenance": {
+        "pages": [
+          1046,
+          1048
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "Bleeding requiring intervention: 3/1,317 (0.2%); one death occurred in a patient who had bleeding after endobronchial biopsy."
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Pneumothorax",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Pneumothorax"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "hospitalization",
+        "other medically important condition"
+      ],
+      "groups": [
+        {
+          "arm_id": "overall",
+          "events": 7,
+          "patients": 7,
+          "percentage": 0.53,
+          "total": 1317
+        }
+      ],
+      "period": "0-24 hours",
+      "management": "Tube thoracostomy in 4/7; observation/resolution without intervention in 3/7",
+      "provenance": {
+        "pages": [
+          1046,
+          1047
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "Pneumothorax occurred in seven patients (0.53%; 95% CI, 0.21%-1.09%). Four of these patients required tube thoracostomy, whereas pneumothorax was resolved in three patients without intervention."
+      }
+    },
+    {
+      "event_name": "Bleeding requiring intervention",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Procedural hemorrhage"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "death",
+        "other medically important condition"
+      ],
+      "groups": [
+        {
+          "arm_id": "overall",
+          "events": 3,
+          "patients": 3,
+          "percentage": 0.23,
+          "total": 1317
+        }
+      ],
+      "period": "0-24 hours",
+      "management": "Interventions not detailed; one fatality following endobronchial biopsy-related bleeding",
+      "provenance": {
+        "pages": [
+          1046,
+          1048
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "Bleeding requiring intervention 3 (0.2%); One death occurred in a patient who had bleeding after endobronchial biopsy."
+      }
+    },
+    {
+      "event_name": "Respiratory failure",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Respiratory failure"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "hospitalization",
+        "life-threatening"
+      ],
+      "groups": [
+        {
+          "arm_id": "overall",
+          "events": 3,
+          "patients": 3,
+          "percentage": 0.23,
+          "total": 1317
+        }
+      ],
+      "period": "0-24 hours",
+      "management": "Required positive pressure ventilation",
+      "provenance": {
+        "pages": [
+          1046,
+          1048
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "Respiratory failure within 24 h 3 (0.23%)."
+      }
+    },
+    {
+      "event_name": "Hypoxia",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Hypoxia"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "hospitalization",
+        "other medically important condition"
+      ],
+      "groups": [
+        {
+          "arm_id": "overall",
+          "events": 4,
+          "patients": 4,
+          "percentage": 0.3,
+          "total": 1317
+        }
+      ],
+      "period": "0-24 hours",
+      "management": "Not detailed; defined as sustained saturation <90% for >1 min",
+      "provenance": {
+        "pages": [
+          1046,
+          1048
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "Sustained hypoxia 4 (0.3%)."
+      }
+    },
+    {
+      "event_name": "Airway injury",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Airway injury"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "hospitalization",
+        "other medically important condition"
+      ],
+      "groups": [
+        {
+          "arm_id": "overall",
+          "events": 1,
+          "patients": 1,
+          "percentage": 0.08,
+          "total": 1317
+        }
+      ],
+      "period": "0-24 hours",
+      "management": "Required escalation of care or additional intervention by definition",
+      "provenance": {
+        "pages": [
+          1046,
+          1048
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "Clinically significant airway injury 1 (0.1%)."
+      }
+    },
+    {
+      "event_name": "Hypotension",
+      "meddra": {
+        "soc": "Vascular disorders",
+        "pt": "Hypotension"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "overall",
+          "events": 1,
+          "patients": 1,
+          "percentage": 0.08,
+          "total": 1317
+        }
+      ],
+      "period": "0-24 hours",
+      "management": "Not detailed",
+      "provenance": {
+        "pages": [
+          1046,
+          1048
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "Hypotension 1 (0.1%)."
+      }
+    },
+    {
+      "event_name": "Death",
+      "meddra": {
+        "soc": "General disorders and administration site conditions",
+        "pt": "Death"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "death"
+      ],
+      "groups": [
+        {
+          "arm_id": "overall",
+          "events": 1,
+          "patients": 1,
+          "percentage": 0.08,
+          "total": 1317
+        }
+      ],
+      "period": "0-24 hours",
+      "management": "Fatal bleeding after endobronchial biopsy",
+      "provenance": {
+        "pages": [
+          1046,
+          1048
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "One death occurred in a patient who had bleeding after endobronchial biopsy."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "ROBINS-I",
+    "overall_judgment": "moderate",
+    "domains": [
+      {
+        "name": "Confounding",
+        "judgment": "moderate",
+        "support_for_judgment": "Multivariable logistic regression with backward elimination used; residual confounding possible in observational registry."
+      },
+      {
+        "name": "Selection of participants",
+        "judgment": "low",
+        "support_for_judgment": "Consecutive enrollment of all eligible procedures across six hospitals."
+      },
+      {
+        "name": "Classification of interventions",
+        "judgment": "low",
+        "support_for_judgment": "Procedural details including TBBx, anesthesia type, and ROSE use recorded prospectively."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "low",
+        "support_for_judgment": "Real-world practice captured; no protocolized interventions."
+      },
+      {
+        "name": "Missing data",
+        "judgment": "low",
+        "support_for_judgment": "Primary and key secondary outcomes reported for full cohort (N=1,317)."
+      },
+      {
+        "name": "Measurement of outcomes",
+        "judgment": "low",
+        "support_for_judgment": "Complications defined a priori with standardized registry definitions within 24 h."
+      },
+      {
+        "name": "Selection of reported results",
+        "judgment": "low",
+        "support_for_judgment": "Predefined outcomes reported with effect estimates and CIs."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "EBUS-TBNA",
+      "bronchoscopy complications",
+      "transbronchial lung biopsy",
+      "pneumothorax",
+      "AQuIRE registry",
+      "rapid onsite cytologic evaluation"
+    ],
+    "summary_tldr": "In a 1,317-patient multicenter registry, overall 24-h complication rate after EBUS-TBNA was 1.44%. TBBx increased risk of any complication (OR 2.85) and pneumothorax (OR 15.49). Escalation of care was associated with age >70, inpatient status, and deep/general anesthesia.",
+    "clinical_relevance": "Findings support EBUS-TBNA safety in routine practice and suggest minimizing TBBx when possible (aided by ROSE) to reduce complications."
+  }
+}

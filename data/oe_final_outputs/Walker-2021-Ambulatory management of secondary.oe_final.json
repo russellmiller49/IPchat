@@ -1,0 +1,545 @@
+{
+  "source": {
+    "document_id": "Walker-2021-Ambulatory management of secondary",
+    "ingest_date": "2025-08-08T16:53:07.688442+00:00",
+    "trial_registration_id": "ISRCTN79956557",
+    "pmid": "",
+    "doi": "10.1183/13993003.03375-2020"
+  },
+  "document": {
+    "metadata": {
+      "title": "Ambulatory management of secondary spontaneous pneumothorax: a randomised controlled trial",
+      "year": 2021,
+      "authors": [
+        "Steven P. Walker",
+        "Emma Keenan",
+        "Oliver Bintcliffe",
+        "Andrew E. Stanton",
+        "Mark Roberts",
+        "Justin Pepperell",
+        "Ian Fairbairn",
+        "Edward McKeown",
+        "James Goldring",
+        "Nadeem Maddekar",
+        "James Walters",
+        "Alex West",
+        "Amrithraj Bhatta",
+        "Matthew Knight",
+        "Rachel Mercer",
+        "Rob Hallifax",
+        "Paul White",
+        "Robert F. Miller",
+        "Najib M. Rahman",
+        "Nick A. Maskell"
+      ],
+      "journal": "European Respiratory Journal",
+      "doi": "10.1183/13993003.03375-2020",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Secondary spontaneous pneumothorax (SSP) is traditionally managed with an intercostal chest tube attached to an underwater seal. We investigated whether use of a one-way flutter valve shortened patients’ length of stay (LoS). This open-label randomised controlled trial enrolled patients presenting with SSP and randomised to either a chest tube and underwater seal (standard care: SC) or ambulatory care (AC) with a flutter valve. The type of flutter valve used depended on whether at randomisation the patient already had a chest tube in place: in those without a chest tube a pleural vent (PV) was used; in those with a chest tube in situ, an Atrium Pneumostat (AP) valve was attached. The primary end-point was LoS. Between March 2017 and March 2020, 41 patients underwent randomisation: 20 to SC and 21 to AC (13=PV, 8=AP). There was no difference in LoS in the first 30 days following treatment intervention: AC (median=6 days, IQR 14.5) and SC (median=6 days, IQR 13.3). In patients treated with PV there was a high rate of early treatment failure (6/13; 46%), compared to patients receiving SC (3/20; 15%) (p=0.11). Patients treated with AP had no (0/8; 0%) early treatment failures and a median LoS of 1.5 days (IQR 23.8). There was no difference in LoS between ambulatory and standard care. Pleural Vents had high rates of treatment failure and should not be used in SSP. Atrium Pneumostats are a safer alternative, with a trend towards lower LoS.",
+      "methods": "Multi-centre open-label randomised controlled trial in 13 UK centres. Adults with secondary spontaneous pneumothorax (SSP) requiring chest tube drainage per BTS 2010 guidelines were randomised 1:1 to ambulatory care with a one-way flutter valve or standard care (chest tube attached to underwater seal). Initially the ambulatory device was the Pleural Vent (PV). After an ethics amendment, patients with a chest tube in situ for ≤36 h could receive an Atrium Pneumostat (AP) valve attached to the tube. Discharge with ambulatory device was permitted if clinically stable and pneumothorax stable. Suction and surgical referral were allowed in both arms. Follow-up to 26 weeks. Primary outcome: total hospital bed days due to SSP within 30 days of randomisation, including readmissions. Non-parametric tests (Mann-Whitney) for continuous outcomes and Chi-squared tests for categorical outcomes; intention-to-treat analysis.",
+      "results": "Forty-one participants were randomised: 21 ambulatory (13 PV, 8 AP) and 20 standard care. Primary outcome: total hospitalisation in first 30 days median 6 days (IQR 1-15.5) ambulatory vs 6 days (IQR 2.25-15.5) standard care (p=0.77). Initial admission LoS: 1 day (IQR 1-14) ambulatory vs 3.5 days (IQR 2-7) standard (p=0.122). Time until medically fit for discharge: 1 day (IQR 1-1) ambulatory vs 2 days (IQR 2-6) standard (p=0.001). Time to chest tube removal: 3 days (IQR 1.5-9) ambulatory vs 2 days (IQR 1-6) standard (p=0.36). Failure of initial treatment within first week: 6/21 (28%) ambulatory vs 3/20 (15%) standard (p=0.29). Additional pleural procedure within 3 months: 8/21 (38%) ambulatory vs 6/20 (30%) standard (p=0.59). Thoracic surgery: 6/21 (29%) ambulatory vs 6/20 (30%) standard. Medical pleurodesis: 2/21 (10%) vs 2/20 (10%). Six-month ipsilateral recurrence: 4/21 (19%) vs 4/20 (20%). Subgroup within ambulatory: early treatment failure 0/8 (0%) AP vs 6/13 (46%) PV (p=0.046). An urgent safety review halted PV use due to high early failure."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with secondary spontaneous pneumothorax requiring chest tube drainage at 13 UK centres.",
+      "inclusion_criteria": [
+        "Diagnosis of secondary spontaneous pneumothorax confirmed by chest radiograph or CT",
+        "Chest tube drainage clinically indicated and technically possible per BTS 2010 guidelines",
+        "If chest tube already placed for SSP, within last 36 hours with evidence of ongoing air-leak"
+      ],
+      "exclusion_criteria": [
+        "Iatrogenic or traumatic pneumothorax",
+        "Chest tube in situ for >36 hours (after amendment; initially any chest tube in situ)",
+        "Current or past tension pneumothorax",
+        "Significant hydropneumothorax (≥25% lung field)",
+        "Bed-bound patients",
+        "Age <18 years",
+        "Contraindication to chest drain insertion",
+        "Pregnant or lactating",
+        "No access to a phone or unable to comply with trial requirements",
+        "Unable to provide informed consent"
+      ]
+    },
+    "intervention": {
+      "text": "Ambulatory care with a one-way flutter valve",
+      "details": "Pleural Vent (8F pigtail, integrated valve) if no prior chest tube; Atrium Pneumostat valve attached to existing 12F chest tube if tube in situ ≤36 hours. Discharge permitted when clinically and radiographically stable."
+    },
+    "comparison": {
+      "text": "Standard care",
+      "details": "12F Seldinger chest tube attached to an underwater seal; removal at earliest opportunity after confirming no ongoing air-leak."
+    },
+    "outcomes": [
+      {
+        "name": "Total hospital bed days due to SSP within 30 days from randomisation",
+        "type": "primary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "RCT",
+    "allocation": "randomized",
+    "blinding": "open-label",
+    "sites_count": 13,
+    "countries": [
+      "UK"
+    ],
+    "sample_size": {
+      "planned": 66,
+      "enrolled": 41,
+      "analyzed": 41
+    },
+    "analysis_populations": [
+      {
+        "name": "ITT",
+        "description": "All randomised participants with outcome data, analysed as assigned",
+        "n": 41
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "Ambulatory care (flutter valve)",
+      "n_randomized": 21,
+      "n_analyzed": 21,
+      "n_completed": 21
+    },
+    {
+      "arm_id": "control",
+      "name": "Standard care (underwater seal)",
+      "n_randomized": 20,
+      "n_analyzed": 20,
+      "n_completed": 20
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "los_total_days_30d",
+      "name": "Total hospital bed days within 30 days",
+      "type": "count",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P30D",
+      "timepoint_label": "30 days",
+      "unit": "days",
+      "unit_canonical": "day",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "median": 6,
+            "iqr_lower": 1,
+            "iqr_upper": 15.5,
+            "total": 21
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "median": 6,
+            "iqr_lower": 2.25,
+            "iqr_upper": 15.5,
+            "total": 20
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "distribution_difference",
+        "p_value": 0.77,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Mann-Whitney U",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT",
+        "missing_handling": "Complete case; all randomised included"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "Total hospitalisation in the first 30 days was 6 days (IQR 1-15.5) in ambulatory care and 6 days (IQR 2.25-15.5) in standard care (p=0.77)."
+      }
+    },
+    {
+      "concept_id": "treatment_failure_7d",
+      "name": "Failure of initial treatment within first week (additional pleural intervention)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P7D",
+      "timepoint_label": "7 days",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 6,
+            "total": 21
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 3,
+            "total": 20
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": 0.128,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.29,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Chi-squared test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT",
+        "missing_handling": "Complete case"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "Failure of initial treatment within the first week occurred in six (28%) of the 21 patients receiving ambulatory care versus three (15%) of the 20 patients receiving standard care (p=0.29)."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 1.905
+        },
+        "odds_ratio": {
+          "est": 2.267
+        },
+        "arr": 0.136,
+        "nnt": 7.4
+      }
+    },
+    {
+      "concept_id": "additional_pleural_procedure_3m",
+      "name": "Additional pleural procedure within 3 months",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P3M",
+      "timepoint_label": "3 months",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 8,
+            "total": 21
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 6,
+            "total": 20
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": 0.08,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.59,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Chi-squared test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "Eight (38%) in ambulatory arm required an additional pleural procedure within 3 months vs six (30%) in standard care (p=0.59)."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 1.27
+        },
+        "odds_ratio": {
+          "est": 1.436
+        },
+        "arr": 0.081,
+        "nnt": 12.4
+      }
+    },
+    {
+      "concept_id": "time_medically_fit_discharge",
+      "name": "Time until medically fit for discharge",
+      "type": "time_to_event",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "not_applicable",
+      "timepoint_label": "in-hospital course",
+      "unit": "days",
+      "unit_canonical": "day",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "median": 1,
+            "iqr_lower": 1,
+            "iqr_upper": 1,
+            "total": 21
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "median": 2,
+            "iqr_lower": 2,
+            "iqr_upper": 6,
+            "total": 20
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "distribution_difference",
+        "p_value": 0.001,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Mann-Whitney U",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "The median time until medically fit for hospital discharge was 1 day (IQR 1-1) ambulatory vs 2 days (IQR 2-6) standard care (p=0.001)."
+      }
+    },
+    {
+      "concept_id": "los_initial_admission",
+      "name": "Length of stay for initial admission",
+      "type": "count",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "not_applicable",
+      "timepoint_label": "initial admission",
+      "unit": "days",
+      "unit_canonical": "day",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "median": 1,
+            "iqr_lower": 1,
+            "iqr_upper": 14,
+            "total": 21
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "median": 3.5,
+            "iqr_lower": 2,
+            "iqr_upper": 7,
+            "total": 20
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "distribution_difference",
+        "p_value": 0.122,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Mann-Whitney U",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "The hospital LoS for the initial admission was 1 day (IQR 1-14) for ambulatory care versus 3.5 days (IQR 2-7) for standard care (p=0.122)."
+      }
+    },
+    {
+      "concept_id": "time_to_chest_tube_removal",
+      "name": "Time to chest tube removal",
+      "type": "time_to_event",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "not_applicable",
+      "timepoint_label": "in-hospital course",
+      "unit": "days",
+      "unit_canonical": "day",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "median": 3,
+            "iqr_lower": 1.5,
+            "iqr_upper": 9,
+            "total": 21
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "median": 2,
+            "iqr_lower": 1,
+            "iqr_upper": 6,
+            "total": 20
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "distribution_difference",
+        "p_value": 0.36,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Mann-Whitney U",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "Time to chest tube removal was 3 days (IQR 1.5-9) for ambulatory care versus 2 days (IQR 1-6) for standard care (p=0.36)."
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Device malfunction requiring additional pleural intervention within 7 days",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Device malfunction"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "hospitalization",
+        "other_medically_important"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 6,
+          "patients": 6,
+          "percentage": 28.6,
+          "total": 21
+        },
+        {
+          "arm_id": "control",
+          "events": 3,
+          "patients": 3,
+          "percentage": 15,
+          "total": 20
+        }
+      ],
+      "period": "0-7 days",
+      "management": "Additional pleural intervention (e.g., insertion of an additional chest tube). Pleural Vent subgroup had higher early failure (6/13) compared to Atrium Pneumostat (0/8).",
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "Failure of initial treatment within the first week occurred in six (28%) of the 21 patients receiving ambulatory care versus three (15%) of the 20 patients receiving standard care; within ambulatory, Pleural Vent 6/13 vs Pneumostat 0/8."
+      }
+    },
+    {
+      "event_name": "Ipsilateral pneumothorax recurrence within 6 months",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Pneumothorax"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "hospitalization",
+        "other_medically_important"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 4,
+          "patients": 4,
+          "percentage": 19,
+          "total": 21
+        },
+        {
+          "arm_id": "control",
+          "events": 4,
+          "patients": 4,
+          "percentage": 20,
+          "total": 20
+        }
+      ],
+      "period": "0-26 weeks",
+      "management": "Not specified in detail; recurrence defined after documented resolution.",
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "There was no difference in 6-month recurrence rates (ambulatory care: four (19%) out of 21, standard care four (20%) out of 20)."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "RoB 2",
+    "overall_judgment": "some concerns",
+    "domains": [
+      {
+        "name": "Randomization process",
+        "judgment": "low",
+        "support_for_judgment": "Centralised web-based randomisation in random permuted blocks; allocation concealment described."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "some concerns",
+        "support_for_judgment": "Open-label design; early safety-driven modification (stopping Pleural Vent) and clinician discretion for discharge and additional interventions could influence outcomes."
+      },
+      {
+        "name": "Missing outcome data",
+        "judgment": "low",
+        "support_for_judgment": "All randomised participants included in primary analysis; no exclusions for primary outcome."
+      },
+      {
+        "name": "Measurement of the outcome",
+        "judgment": "low",
+        "support_for_judgment": "Primary outcome (hospital bed days) is objective; assessed via records."
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "low",
+        "support_for_judgment": "Outcomes and analyses prespecified; results reported for primary and key secondary outcomes."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "secondary spontaneous pneumothorax",
+      "ambulatory care",
+      "flutter valve",
+      "Pleural Vent",
+      "Atrium Pneumostat",
+      "underwater seal",
+      "randomised controlled trial"
+    ],
+    "summary_tldr": "In SSP, ambulatory flutter valves did not reduce 30-day total hospital bed days vs standard underwater seal; Pleural Vent had high early failure, while Pneumostat had no early failures.",
+    "clinical_relevance": "Supports avoiding Pleural Vent for SSP due to high early failure; Pneumostat may be a safer ambulatory option but did not reduce overall 30-day hospitalisation."
+  }
+}

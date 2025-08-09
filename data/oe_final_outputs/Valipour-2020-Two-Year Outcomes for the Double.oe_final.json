@@ -1,0 +1,499 @@
+{
+  "source": {
+    "document_id": "Valipour-2020-Two-Year Outcomes for the Double",
+    "ingest_date": "2025-08-08T16:49:46.135566+00:00",
+    "trial_registration_id": "NCT02058459",
+    "pmid": null,
+    "doi": "10.2147/COPD.S267409"
+  },
+  "document": {
+    "metadata": {
+      "title": "Two-Year Outcomes for the Double-Blind, Randomized, Sham-Controlled Study of Targeted Lung Denervation in Patients with Moderate to Severe COPD: AIRFLOW-2",
+      "year": 2020,
+      "authors": [
+        "Arschang Valipour",
+        "Pallav L Shah",
+        "Felix J Herth",
+        "Christophe Pison",
+        "Christian Schumann",
+        "Ralf-Harto Hübner",
+        "Peter I Bonta",
+        "Romain Kessler",
+        "Wolfgang Gesierich",
+        "Kaid Darwiche",
+        "Bernd Lamprecht",
+        "Thierry Perez",
+        "Dirk Skowasch",
+        "Gaetan Deslee",
+        "Armelle Marceau",
+        "Frank C Sciurba",
+        "Reinoud Gosens",
+        "Jorine E Hartman",
+        "Francesca Conway",
+        "Marina Duller",
+        "Martin Mayse",
+        "Holly S Norman",
+        "Dirk-Jan Slebos"
+      ],
+      "journal": "International Journal of Chronic Obstructive Pulmonary Disease",
+      "doi": "10.2147/COPD.S267409",
+      "pmid": null
+    },
+    "sections": {
+      "abstract": "Purpose: COPD exacerbations are associated with worsening clinical outcomes and increased healthcare costs, despite use of optimal medical therapy. A novel bronchoscopic therapy, targeted lung denervation (TLD), which disrupts parasympathetic pulmonary innervation of the lung, has been developed to reduce clinical consequences of cholinergic hyperactivity and its impact on COPD exacerbations. The AIRFLOW-2 study assessed the durability of safety and efficacy of TLD additive to optimal drug therapy compared to sham bronchoscopy and optimal drug therapy alone in subjects with moderate-to-severe, symptomatic COPD two years post randomization. Patients and Methods: TLD was performed in COPD patients (FEV1 30-60% predicted, CAT≥10 or mMRC≥2) in a 1:1 randomized, sham-controlled, double-blinded multicenter study (AIRFLOW-2) using a novel lung denervation system (Nuvaira, Inc., USA). Subjects remained blinded until their 12.5-month follow-up visit when control subjects were offered the opportunity to undergo TLD. A time-to-first-event analysis on moderate and severe and severe exacerbations of COPD was performed. Results: Eighty-two subjects (FEV1 41.6±7.4% predicted, 50.0% male, age 63.7±6.8 yrs, 24% with prior year respiratory hospitalization) were randomized. Time-to-first severe COPD exacerbation was significantly lengthened in the TLD arm (p=0.04, HR=0.38) at 2 years post-TLD therapy and trended towards similar attenuation for moderate and severe COPD exacerbations (p=0.18, HR=0.71). No significant changes in lung function or SGRQ-C were found 2 years post randomization between groups. Conclusion: In a randomized trial, TLD demonstrated a durable effect of significantly lower risk of severe AECOPD over 2 years. Further, lung function and quality of life remained stable following TLD. Clinical Trial Registration: NCT02058459.",
+      "methods": "Randomized, sham-controlled, double-blind, multicenter trial (AIRFLOW-2; NCT02058459) in symptomatic moderate-to-severe COPD. Inclusion: age 40-75 years, post-bronchodilator FEV1/FVC <0.70, FEV1 30-60% predicted, mMRC≥2 or CAT≥10. Key exclusions: >2 respiratory-related hospitalizations in prior year, GCSI ≥18, previous lung/chest procedure. All subjects underwent inhaler washout, then were placed on tiotropium 18 μg/day and continued other maintenance medications as per treating physician. Subjects randomized 1:1 to TLD (Nuvaira dual-cooled RF system) or sham bronchoscopy. Blinding maintained to 12.5 months; thereafter, sham participants could elect cross-over to TLD; cross-over timing unrestricted. Outcomes collected at 6.5, 12.5 months and annually to 3 years. COPD exacerbations defined as moderate/severe if requiring systemic steroids and/or antibiotics, with severe defined as requiring hospitalization. Adverse events collected throughout. Statistical analyses: t-tests or non-parametric tests for continuous variables, Fisher’s exact test for categorical variables, negative binomial regression for annualized exacerbation rates, and log-rank test/Cox model for time-to-first exacerbation. P<0.05 considered significant.",
+      "results": "N=82 randomized (41 TLD, 41 control). At 2 years, retained: TLD n=36 (88%), control n=14 (after cross-over of 20 control subjects and 5 exits). Time-to-first severe COPD exacerbation requiring hospitalization was significantly lower with TLD vs control at 2 years (HR=0.38; 95% CI 0.15-0.99; p=0.04). No significant difference in time-to-first moderate or severe COPD exacerbation (HR=0.71; 95% CI 0.42-1.18; p=0.18). Annualized rate of moderate/severe exacerbations: control 0.81 vs TLD 0.64 (p=0.54). Annualized rate of severe exacerbations: control 0.15 vs TLD 0.11 (p=0.71). In year 2, respiratory-related hospitalization occurred in 11.1% of TLD subjects (4/36) vs 28.6% of control subjects (4/14). Lung function (FEV1, FVC, TLC, RV) and SGRQ-C remained stable with no significant between-group differences at 2 years."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults aged 40-75 years with symptomatic moderate-to-severe COPD (post-bronchodilator FEV1/FVC <0.70 and FEV1 30-60% predicted) on maintenance inhaled therapy.",
+      "inclusion_criteria": [
+        "Age 40 to 75 years",
+        "Post-bronchodilator FEV1/FVC < 0.70",
+        "Post-bronchodilator FEV1 30 to 60 percent of predicted",
+        "mMRC dyspnea grade ≥ 2 or CAT score ≥ 10"
+      ],
+      "exclusion_criteria": [
+        "More than 2 respiratory-related hospitalizations in the past year",
+        "Gastroparesis Cardinal Symptom Index (GCSI) ≥ 18",
+        "Previous lung or chest procedure"
+      ]
+    },
+    "intervention": {
+      "text": "Targeted lung denervation (TLD)",
+      "details": "Bronchoscopic radiofrequency ablation of bronchial branches of the vagus nerve using a dual-cooled catheter (Nuvaira lung denervation system), performed under bronchoscopy; background maintenance inhaler therapy including tiotropium 18 μg/day."
+    },
+    "comparison": {
+      "text": "Sham bronchoscopy plus optimal drug therapy",
+      "details": "Mock bronchoscopic procedure to maintain blinding; continued maintenance inhaler therapy including tiotropium 18 μg/day; option to cross-over to TLD after 12.5 months."
+    },
+    "outcomes": [
+      {
+        "name": "Time to first severe COPD exacerbation requiring hospitalization over 2 years",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Time to first moderate or severe COPD exacerbation over 2 years",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Annualized rate of moderate/severe COPD exacerbations at 2 years",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Lung function (FEV1, FVC, TLC, RV) at 2 years",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "SGRQ-C at 2 years",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "RCT",
+    "allocation": "randomized",
+    "blinding": "double-blind",
+    "sites_count": null,
+    "countries": [
+      "Austria",
+      "UK",
+      "Germany",
+      "France",
+      "Netherlands"
+    ],
+    "sample_size": {
+      "planned": null,
+      "enrolled": 82,
+      "analyzed": 50
+    },
+    "analysis_populations": [
+      {
+        "name": "ITT",
+        "description": "All randomized participants",
+        "n": 82
+      },
+      {
+        "name": "Year-2 evaluable",
+        "description": "Participants with 2-year follow-up available prior to cross-over censoring",
+        "n": 50
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "Targeted lung denervation (TLD)",
+      "n_randomized": 41,
+      "n_analyzed": 36,
+      "n_completed": 36
+    },
+    {
+      "arm_id": "control",
+      "name": "Sham bronchoscopy + optimal drug therapy",
+      "n_randomized": 41,
+      "n_analyzed": 14,
+      "n_completed": 14
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "severe_copd_exacerbation_time_to_first_2y",
+      "name": "Time to first severe COPD exacerbation requiring hospitalization",
+      "type": "time_to_event",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P24M",
+      "timepoint_label": "2 years",
+      "groups": [],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "hazard_ratio",
+        "est": 0.38,
+        "ci_lower": 0.15,
+        "ci_upper": 0.99,
+        "ci_level": 0.95,
+        "p_value": 0.04,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Cox proportional hazards with log-rank test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All randomized; control participants censored at cross-over; follow-up to 2 years",
+        "missing_handling": "Participants censored at date of cross-over or last contact"
+      },
+      "provenance": {
+        "pages": [
+          2809
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "The risk of a severe COPD exacerbation requiring hospitalization was significantly lower in the TLD group than the control group at 2 years post-randomization (p=0.04, HR=0.38; 95% CI 0.15-0.99)."
+      }
+    },
+    {
+      "concept_id": "mod_sev_copd_exacerbation_time_to_first_2y",
+      "name": "Time to first moderate or severe COPD exacerbation",
+      "type": "time_to_event",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P24M",
+      "timepoint_label": "2 years",
+      "groups": [],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "hazard_ratio",
+        "est": 0.71,
+        "ci_lower": 0.42,
+        "ci_upper": 1.18,
+        "ci_level": 0.95,
+        "p_value": 0.18,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Cox proportional hazards with log-rank test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All randomized; control participants censored at cross-over; follow-up to 2 years",
+        "missing_handling": "Participants censored at date of cross-over or last contact"
+      },
+      "provenance": {
+        "pages": [
+          2809
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "There was no statistical difference in risk of first moderate or severe COPD exacerbation from baseline to 2 years (p=0.18, HR=0.71, 95% CI 0.42-1.18)."
+      }
+    },
+    {
+      "concept_id": "annualized_rate_mod_sev_exac_2y",
+      "name": "Annualized rate of moderate and severe COPD exacerbations",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P24M",
+      "unit": "events_per_patient_year",
+      "unit_canonical": "events_per_patient_year",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": 0.64,
+            "sd": null,
+            "total": 36
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "mean": 0.81,
+            "sd": null,
+            "total": 14
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "difference_in_means",
+        "est": -0.17,
+        "ci_lower": null,
+        "ci_upper": null,
+        "p_value": 0.54,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Negative binomial regression",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Year-2 evaluable; control participants censored at cross-over",
+        "missing_handling": "Censoring at cross-over"
+      },
+      "provenance": {
+        "pages": [
+          2809
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "There was not a statistically significant difference between groups for the annualized rate of COPD moderate and severe exacerbations (Control=0.81 vs TLD=0.64; p=0.54, Table 2)."
+      }
+    },
+    {
+      "concept_id": "annualized_rate_severe_exac_2y",
+      "name": "Annualized rate of severe COPD exacerbations",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P24M",
+      "unit": "events_per_patient_year",
+      "unit_canonical": "events_per_patient_year",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": 0.11,
+            "sd": null,
+            "total": 36
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "mean": 0.15,
+            "sd": null,
+            "total": 14
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "difference_in_means",
+        "est": -0.04,
+        "ci_lower": null,
+        "ci_upper": null,
+        "p_value": 0.71,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Negative binomial regression",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Year-2 evaluable; control participants censored at cross-over",
+        "missing_handling": "Censoring at cross-over"
+      },
+      "provenance": {
+        "pages": [
+          2809
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "For the severe COPD AEs (Control=0.15 vs TLD=0.11; p=0.71, Table 2) annualized rate at 2 years."
+      }
+    },
+    {
+      "concept_id": "respiratory_related_hospitalization_year2",
+      "name": "Respiratory-related hospitalization in Year 2",
+      "type": "binary",
+      "outcome_type": "safety",
+      "timepoint_iso8601": "P12M",
+      "timepoint_label": "Year 2 only",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 4,
+            "total": 36
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 4,
+            "total": 14
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": -0.174,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive comparison",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Year-2 evaluable",
+        "missing_handling": "Not applicable"
+      },
+      "provenance": {
+        "pages": [
+          2809
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "In the second year of follow-up, 11.1% of TLD subjects (n=4) experienced a respiratory-related hospitalization, compared to 28.6% of control subjects (n=4)."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.389
+        },
+        "odds_ratio": {
+          "est": 0.312
+        },
+        "arr": -0.175,
+        "nnh": 5.7
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Respiratory serious adverse events (any)",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Respiratory disorder"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "hospitalization"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 4,
+          "patients": 4,
+          "percentage": null,
+          "total": 36
+        },
+        {
+          "arm_id": "control",
+          "events": 4,
+          "patients": 4,
+          "percentage": null,
+          "total": 14
+        }
+      ],
+      "period": "Year 2",
+      "management": null,
+      "provenance": {
+        "pages": [
+          2809
+        ],
+        "tables": [],
+        "quote": "In the TLD arm, respiratory (n=4) ... severe AEs were reported... Additionally, the control arm had respiratory (n=4) ... severe AEs."
+      }
+    },
+    {
+      "event_name": "Gastrointestinal serious adverse event (single event reported)",
+      "meddra": {
+        "soc": "Gastrointestinal disorders",
+        "pt": "Gastrointestinal disorder"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "other_medically_important_condition"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 1,
+          "patients": 1,
+          "percentage": null,
+          "total": 36
+        },
+        {
+          "arm_id": "control",
+          "events": 0,
+          "patients": 0,
+          "percentage": null,
+          "total": 14
+        }
+      ],
+      "period": "507 days post-procedure (within Year 2)",
+      "management": null,
+      "provenance": {
+        "pages": [
+          2809
+        ],
+        "tables": [],
+        "quote": "In the treatment arm, a single severe gastrointestinal AE was reported 507 days post-procedure in the treatment arm with an inconclusive relationship to the TLD procedure."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "RoB 2",
+    "overall_judgment": "some concerns",
+    "domains": [
+      {
+        "name": "Randomization process",
+        "judgment": "low",
+        "support_for_judgment": "Randomized, sham-controlled, double-blinded design; no baseline imbalances reported."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "some concerns",
+        "support_for_judgment": "Control arm allowed cross-over after 12.5 months; 2-year analyses censored at cross-over, which may introduce informative censoring."
+      },
+      {
+        "name": "Missing outcome data",
+        "judgment": "low",
+        "support_for_judgment": "High retention in TLD (88%); reduced control group due to cross-over; censoring applied."
+      },
+      {
+        "name": "Measurement of the outcome",
+        "judgment": "low",
+        "support_for_judgment": "Objective exacerbation outcomes; blinded until 12.5 months; subsequent follow-up open-label but outcomes are objective events."
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "low",
+        "support_for_judgment": "Pre-specified analyses reported with HRs and p-values; consistency with prior publication."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "COPD",
+      "targeted lung denervation",
+      "bronchoscopy",
+      "exacerbation",
+      "AIRFLOW-2"
+    ],
+    "summary_tldr": "In COPD, targeted lung denervation reduced risk of severe exacerbation over 2 years (HR 0.38; p=0.04) without changes in lung function or SGRQ-C.",
+    "clinical_relevance": "TLD may provide an additive intervention to reduce severe COPD exacerbations in patients with persistent exacerbations despite optimal inhaled therapy."
+  }
+}

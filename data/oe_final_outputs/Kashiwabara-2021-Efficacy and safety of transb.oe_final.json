@@ -1,0 +1,494 @@
+{
+  "source": {
+    "document_id": "Kashiwabara-2021-Efficacy and safety of transb",
+    "ingest_date": "2025-08-08T13:52:12.205013+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1007/s00432-021-03560-3"
+  },
+  "document": {
+    "metadata": {
+      "title": "Efficacy and safety of transbronchial microwave ablation therapy under moderate sedation in malignant central airway obstruction patients with respiratory failure: a single‑institution retrospective study",
+      "year": 2021,
+      "authors": [
+        "Kosuke Kashiwabara",
+        "Shinji Fujii",
+        "Shinsuke Tsumura",
+        "Kazuhiko Sakamoto",
+        "Hiroshi Semba"
+      ],
+      "journal": "Journal of Cancer Research and Clinical Oncology",
+      "doi": "10.1007/s00432-021-03560-3",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Background The safety and efficacy of transbronchial microwave ablation (TMA) therapy in patients with malignant central airway obstruction (CAO) with respiratory failure remains unclear. Methods A total of 38 patients with advanced non-small cell lung cancer (NSCLC) or lung metastases with malignant endoluminal obstruction received TMA therapy under moderate sedation and high fractions of inspired oxygen (FiO2). The success rate of airway patency restoration, complication rate, and overall survival time (OS) from the initiation of TMA therapy were compared in the following two groups of patients with malignant CAO patients: the group with respiratory failure (PaO2/FiO2 ≤ 300) (RF group, n = 10) and the group without respiratory failure (PaO2/FiO2 > 300) (non-RF group, n = 28) at the time of the TMA therapy. Results Both the RF group and non-RF group received a median of two sessions of TMA. There was no significant difference in the percentage of patients who showed restored airway patency after the first session of TMA (90% vs. 96%), in the complication rate of TMA therapy (10% vs. 11%), or in the OS (7.1 months vs. 9.1 months) between the RF group and the non-RF group. Multivariate analysis identified no significant association between TMA therapy and the risk of death in malignant CAO patients with respiratory failure (p = 0.196). Conclusion TMA therapy under moderate sedation was well tolerated and effective in patients with malignant CAO, including those with respiratory failure.",
+      "methods": "This retrospective, single-institution study retrieved data from October 1, 2013, to March 31, 2020, on patients with advanced NSCLC or lung metastases with symptomatic malignant CAO. Of 60 identified patients, 38 with endoluminal obstruction received TMA therapy and were analyzed; patients with extraluminal obstruction received stents. TMA was performed under moderate sedation (midazolam) and high FiO2 after topical lidocaine. Using a microwave tissue coagulator (Microtaze OT-110M or AFM-712) and a long-roller electrode (TE-24BL), tumor was coagulated at 50 watts until blanching; coagulated tissue was removed with biopsy forceps. Success was defined as ≥50% airway patency. Patients were stratified by respiratory failure at TMA (RF: PaO2/FiO2 ≤ 300; non-RF: > 300). Endpoints: airway patency restoration after first TMA session, TMA complication rate, and OS from TMA initiation. Statistics: Mann-Whitney U and Fisher’s exact tests for group comparisons; Kaplan-Meier and log-rank for OS; variables with p < 0.10 entered into Cox regression to estimate HRs and 95% CIs.",
+      "results": "Among 38 TMA-treated patients (10 RF; 28 non-RF), median age was 67 vs 73 years. PS 3-4 was more frequent in RF (60% vs 21%; p = 0.045). Airway patency after the first session was restored in 36/38 (95%) overall, specifically 9/10 (90%) RF vs 27/28 (96%) non-RF (p = 0.462). Symptom and/or PS improvement occurred in 8/10 (80%) RF vs 22/28 (79%) non-RF (p = 0.999). Any TMA complication occurred in 1/10 (10%) RF vs 3/28 (11%) non-RF (p = 0.999), including endobronchial bleeding in 1 RF (requiring tracheal intubation) and 1 non-RF (moderate, resolved after second TMA), and airway re-occlusion due to epithelial detachment in 2 non-RF (resolved after bronchoscopic removal). Over median follow-up of 6.0 months (range 0.6-88.0), deaths occurred in 8/10 RF vs 21/28 non-RF. Median OS: 7.1 vs 9.1 months (p = 0.059, log-rank). Post-TMA anticancer therapy improved OS vs best supportive care (31.0 vs 3.5 months; p < 0.0001). In multivariable Cox analysis, airway patency restoration after first TMA (HR 0.139; 95% CI 0.021-0.915; p = 0.040) and receipt of post-TMA anticancer therapy (HR 0.222; 95% CI 0.075-0.653; p = 0.006) were associated with reduced mortality; respiratory failure at TMA was not associated with increased risk of death (p = 0.196)."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with symptomatic malignant central airway obstruction due to advanced NSCLC or metastatic lung tumors, treated at a single Japanese center.",
+      "inclusion_criteria": [
+        "Symptomatic malignant central airway obstruction with endoluminal obstruction",
+        "Diagnosis of advanced non-small cell lung cancer or lung metastases",
+        "Received transbronchial microwave ablation therapy between 2013-10-01 and 2020-03-31",
+        "Moderate sedation with midazolam; topical lidocaine; high FiO2 support"
+      ],
+      "exclusion_criteria": [
+        "Extraluminal obstruction (managed with metallic stent placement)",
+        "Long-standing whole-lung atelectasis precluding TBI",
+        "Massive hemoptysis before any transbronchial intervention",
+        "Refusal of transbronchial interventions"
+      ]
+    },
+    "intervention": {
+      "text": "Transbronchial microwave ablation (TMA) therapy under moderate sedation",
+      "details": "Flexible bronchoscopy with long-roller microwave electrode (TE-24BL); 50 W coagulation until blanching; removal of coagulated tissue with biopsy forceps; care to avoid normal mucosa; success defined as ≥50% airway patency restoration. Sedation: midazolam 3-4 mg IV bolus with 1-2 mg increments as needed; topical 2% lidocaine; high FiO2 via oxygen mask 5-10 L/min."
+    },
+    "comparison": {
+      "text": "Patients with respiratory failure vs without respiratory failure at the time of TMA",
+      "details": "Respiratory failure defined as PaO2/FiO2 ≤ 300 (RF) versus PaO2/FiO2 > 300 (non-RF)"
+    },
+    "outcomes": [
+      {
+        "name": "Airway patency restoration after the first TMA session (≥50% patency within 1 hour)",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Any TMA-related complication (peri-procedural)",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Overall survival from initiation of TMA",
+        "type": "primary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Observational retrospective cohort",
+    "allocation": "non-randomized",
+    "blinding": "none",
+    "sites_count": 1,
+    "countries": [
+      "Japan"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 38,
+      "analyzed": 38
+    },
+    "analysis_populations": [
+      {
+        "name": "All TMA-treated",
+        "description": "All patients who received TMA",
+        "n": 38
+      },
+      {
+        "name": "RF",
+        "description": "Patients with PaO2/FiO2 ≤ 300 at TMA",
+        "n": 10
+      },
+      {
+        "name": "Non-RF",
+        "description": "Patients with PaO2/FiO2 > 300 at TMA",
+        "n": 28
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "rf",
+      "name": "Respiratory failure (PaO2/FiO2 ≤ 300)",
+      "n_randomized": 0,
+      "n_analyzed": 10,
+      "n_completed": 0
+    },
+    {
+      "arm_id": "non_rf",
+      "name": "No respiratory failure (PaO2/FiO2 > 300)",
+      "n_randomized": 0,
+      "n_analyzed": 28,
+      "n_completed": 0
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "airway_patency_restored_first_session",
+      "name": "Airway patency restoration after first TMA session",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "PT1H",
+      "timepoint_label": "Within 1 hour after first TMA session",
+      "groups": [
+        {
+          "arm_id": "rf",
+          "raw": {
+            "events": 9,
+            "total": 10
+          }
+        },
+        {
+          "arm_id": "non_rf",
+          "raw": {
+            "events": 27,
+            "total": 28
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "non_rf",
+        "measure": "risk_difference",
+        "est": -0.0643,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.462,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Fisher's exact test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All TMA-treated",
+        "missing_handling": "Complete case; no missing outcome reported"
+      },
+      "provenance": {
+        "pages": [
+          2754
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Airway patency restoration: RF 9 (90) vs non-RF 27 (96), p = 0.462"
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.933
+        },
+        "odds_ratio": {
+          "est": 0.333
+        },
+        "arr": -0.064,
+        "nnh": 15.6
+      }
+    },
+    {
+      "concept_id": "any_tma_complication",
+      "name": "Any TMA-related complication",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P1D",
+      "timepoint_label": "Peri-procedural (during/within 24 h)",
+      "groups": [
+        {
+          "arm_id": "rf",
+          "raw": {
+            "events": 1,
+            "total": 10
+          }
+        },
+        {
+          "arm_id": "non_rf",
+          "raw": {
+            "events": 3,
+            "total": 28
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "non_rf",
+        "measure": "risk_difference",
+        "est": -0.0107,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.999,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Fisher's exact test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All TMA-treated",
+        "missing_handling": "Complete case; no missing outcome reported"
+      },
+      "provenance": {
+        "pages": [
+          2754
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Complication of TMA therapy: RF 1 (10) vs non-RF 3 (11), p = 0.999"
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.933
+        },
+        "odds_ratio": {
+          "est": 0.926
+        },
+        "arr": -0.007,
+        "nnh": 140.0
+      }
+    },
+    {
+      "concept_id": "symptom_or_ps_improvement",
+      "name": "Improvement of symptoms or performance status after TMA",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Post-procedure during index hospitalization",
+      "groups": [
+        {
+          "arm_id": "rf",
+          "raw": {
+            "events": 8,
+            "total": 10
+          }
+        },
+        {
+          "arm_id": "non_rf",
+          "raw": {
+            "events": 22,
+            "total": 28
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "non_rf",
+        "measure": "risk_difference",
+        "est": 0.0071,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.999,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Fisher's exact test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All TMA-treated",
+        "missing_handling": "Complete case; no missing outcome reported"
+      },
+      "provenance": {
+        "pages": [
+          2754
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Improvement of symptoms or PS: RF 8 (80) vs non-RF 22 (79), p = 0.999"
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 1.018
+        },
+        "odds_ratio": {
+          "est": 1.091
+        },
+        "arr": 0.014,
+        "nnt": 70.0
+      }
+    },
+    {
+      "concept_id": "overall_survival_from_tma",
+      "name": "Overall survival from initiation of TMA",
+      "type": "time_to_event",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "From TMA initiation to death",
+      "groups": [
+        {
+          "arm_id": "rf",
+          "raw": {
+            "events": 8,
+            "total": 10,
+            "median": 7.1,
+            "unit": "months"
+          }
+        },
+        {
+          "arm_id": "non_rf",
+          "raw": {
+            "events": 21,
+            "total": 28,
+            "median": 9.1,
+            "unit": "months"
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "non_rf",
+        "measure": "log_rank",
+        "est": null,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.059,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Kaplan-Meier with log-rank test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All TMA-treated",
+        "missing_handling": "Censoring at last follow-up"
+      },
+      "provenance": {
+        "pages": [
+          2755
+        ],
+        "tables": [
+          "Figure 2a"
+        ],
+        "quote": "There was not a significant difference in the OS between the RF group and the non-RF group (7.1 months vs. 9.1 months, p = 0.059)."
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Endobronchial haemorrhage",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Endobronchial haemorrhage"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "life-threatening",
+        "hospitalization"
+      ],
+      "groups": [
+        {
+          "arm_id": "rf",
+          "events": 1,
+          "patients": 1,
+          "percentage": 10,
+          "total": 10
+        },
+        {
+          "arm_id": "non_rf",
+          "events": 1,
+          "patients": 1,
+          "percentage": 3.6,
+          "total": 28
+        }
+      ],
+      "period": "During procedure and immediate peri-procedural period",
+      "management": "Tracheal intubation and respiratory management in 1/2; one moderate bleed resolved after second TMA session",
+      "provenance": {
+        "pages": [
+          2754
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "Endobronchial bleeding: RF 1 (10) vs non-RF 1 (4). One RF patient required tracheal intubation."
+      }
+    },
+    {
+      "event_name": "Airway obstruction (re-occlusion due to epithelial detachment)",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Airway obstruction"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "other medically important condition",
+        "intervention required"
+      ],
+      "groups": [
+        {
+          "arm_id": "rf",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 10
+        },
+        {
+          "arm_id": "non_rf",
+          "events": 2,
+          "patients": 2,
+          "percentage": 7.1,
+          "total": 28
+        }
+      ],
+      "period": "Within 24 hours post-procedure",
+      "management": "Immediate bronchoscopic removal of detached epithelium; respiratory condition improved",
+      "provenance": {
+        "pages": [
+          2754
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "Reocclusion by epithelial detachment: non-RF 2 (11); both improved immediately after bronchoscopic removal."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "ROBINS-I",
+    "overall_judgment": "serious",
+    "domains": [
+      {
+        "name": "Confounding",
+        "judgment": "serious",
+        "support_for_judgment": "Non-randomized retrospective design with baseline PS differences between groups (PS 3-4: 60% vs 21%)."
+      },
+      {
+        "name": "Selection of participants",
+        "judgment": "moderate",
+        "support_for_judgment": "Single-center inclusion of consecutive symptomatic CAO patients; only endoluminal obstruction received TMA."
+      },
+      {
+        "name": "Classification of interventions",
+        "judgment": "low",
+        "support_for_judgment": "Clear group definition by PaO2/FiO2 threshold at time of TMA."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "low",
+        "support_for_judgment": "Procedure described and consistently performed under moderate sedation with defined protocol."
+      },
+      {
+        "name": "Missing data",
+        "judgment": "low",
+        "support_for_judgment": "All 38 TMA patients analyzed; outcomes reported for both groups."
+      },
+      {
+        "name": "Measurement of outcomes",
+        "judgment": "moderate",
+        "support_for_judgment": "Objective procedural outcomes; survival assessed routinely; complications may be subject to reporting bias."
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "moderate",
+        "support_for_judgment": "Pre-specified endpoints stated; subgroup OS analyses reported without protocol registration."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "transbronchial microwave ablation",
+      "central airway obstruction",
+      "respiratory failure",
+      "bronchoscopy",
+      "NSCLC"
+    ],
+    "summary_tldr": "In 38 patients with malignant central airway obstruction, transbronchial microwave ablation under moderate sedation restored airway patency in 95% overall with low complication rates and similar survival whether or not respiratory failure was present.",
+    "clinical_relevance": "Supports the feasibility of performing endoluminal tumor debulking with microwave ablation under moderate sedation and high FiO2 in life-threatening CAO, including in patients with respiratory failure."
+  }
+}

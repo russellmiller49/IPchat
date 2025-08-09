@@ -1,0 +1,879 @@
+{
+  "source": {
+    "document_id": "A Randomized Trial of 1% vs 2% Lignocaine by the Spray-as-You-Go Technique",
+    "ingest_date": "2025-08-08T09:23:16.446987+00:00",
+    "trial_registration_id": "NCT01955824",
+    "pmid": "",
+    "doi": "10.1378/chest.15-0022"
+  },
+  "document": {
+    "metadata": {
+      "title": "A Randomized Trial of 1% vs 2% Lignocaine by the Spray-as-You-Go Technique for Topical Anesthesia During Flexible Bronchoscopy",
+      "year": 2015,
+      "authors": [
+        "Harpreet Kaur",
+        "Sahajal Dhooria",
+        "Ashutosh N. Aggarwal",
+        "Dheeraj Gupta",
+        "Digambar Behera",
+        "Ritesh Agarwal"
+      ],
+      "journal": "CHEST",
+      "doi": "10.1378/chest.15-0022",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "BACKGROUND: The optimal concentration of lignocaine to be used during flexible bronchoscopy (FB) remains unknown. This randomized controlled trial compared the efficacy and safety of 1% and 2% lignocaine solution for topical anesthesia during FB. METHODS: Consecutive patients were randomized to receive either 1% or 2% lignocaine solution through the bronchoscope by the “spray-as-you-go” technique. The primary outcome of the study was the assessment of cough by the operator and the patient using the visual analog scale (VAS) and pain assessment using the faces pain rating scale. The secondary outcomes included total lignocaine dose, oxygenation status, adverse reactions related to lignocaine, and others. RESULTS: Five hundred patients were randomized (median age, 51 years; 71% men) 1:1 to either group. The median operator VAS score for cough was significantly higher (25 vs 21, P = .015) in the 1% group; however, the patient VAS score was not significantly different (32 vs 27, P = .065). The pain rating was similar between the two groups. The median cumulative dose of lignocaine was significantly higher in the 2% group (397 mg vs 312 mg, P = .0001; 7.1 mg/kg vs 5.7 mg/kg, P = .0001). About 28% of patients in the 2% group exceeded the maximum recommended dose (> 8.2 mg/kg) of lignocaine. No adverse event related to lignocaine overdose was seen in either group. CONCLUSIONS: One percent lignocaine was found to be as effective as 2% solution for topical anesthesia during FB, albeit at a significantly lower dose as the latter. Thus, 1% lignocaine should be the preferred concentration for topical anesthesia during FB.",
+      "methods": "Investigator-initiated, single-center, randomized double-blind trial conducted between May and November 2014 in a bronchoscopy suite in India. Adults and adolescents (12-90 years) undergoing flexible bronchoscopy for diagnostic procedures (eg, BAL, EBB, TBLB) without routine IV sedation were eligible if hemodynamically stable. Exclusions: pregnancy, hypoxemia (SpO2 <92% on FiO2 0.3), those undergoing TBNA or other interventions, and inability to consent. Randomization 1:1 to 1% vs 2% lignocaine solution (computer-generated, sealed opaque envelopes). All received standardized pre-procedure topical anesthesia: nebulized 2.5 mL of 4% lignocaine for 15 min; two puffs of 10% lignocaine spray; approximately 5 mL of 2% lignocaine gel intranasally. During bronchoscopy, 2-mL aliquots of assigned 1% or 2% lignocaine were delivered by spray-as-you-go: four standard aliquots (vocal cords, tracheal carina, right and left main bronchi) with additional rescue aliquots at operator discretion. Total lignocaine dose = standard plus rescue doses. Continuous monitoring of heart rate, respiratory rate, BP, and oxygen saturation. Outcomes: operator- and patient-rated cough VAS (0-100 mm) immediately post-procedure and patient faces pain rating scale (0-5). Secondary: total lignocaine dose (mg and mg/kg), physiologic changes, and adverse reactions (arrhythmia, involuntary movements, convulsions, anaphylaxis, bronchospasm). Statistical analysis used chi-square/Fisher’s exact tests for categorical variables and Mann-Whitney U tests for numerical variables; repeated measures ANOVA for serial physiologic variables; P < .05 significant.",
+      "results": "Five hundred patients were randomized, 250 per group (70.6% men), median age 51 years. Baseline demographics, physiologic parameters, and procedure types were similar between groups. Operator VAS for cough was higher with 1% vs 2% (median 25 vs 21, P = .015), but patient VAS for cough did not differ (32 vs 27, P = .065). Faces pain rating scale was similar (0 vs 0, P = .883). Total lignocaine dose and dose/kg were higher with 2% vs 1% (397 mg vs 312 mg, P = .0001; 7.1 vs 5.7 mg/kg, P = .0001). More patients exceeded 8.2 mg/kg in the 2% group (70/250 [28%] vs 12/250 [4.8%], P = .0001). Heart rate, respiratory rate, and BP increased after the procedure in both groups, without significant between-group differences. No lignocaine-related adverse events (bronchospasm, arrhythmias, involuntary movements, convulsions, anaphylaxis) occurred in either group."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Patients aged 12-90 years undergoing flexible bronchoscopy (BAL, EBB, TBLB) under topical anesthesia in a bronchoscopy suite in India, hemodynamically stable.",
+      "inclusion_criteria": [
+        "Indication for flexible bronchoscopy",
+        "Age 12 to 90 years",
+        "Hemodynamic stability (systolic BP >100 mm Hg and <180 mm Hg)"
+      ],
+      "exclusion_criteria": [
+        "Pregnancy",
+        "Hypoxemia (oxygen saturation <92% on FiO2 0.3)",
+        "Undergoing TBNA or other interventions requiring sedation",
+        "Failure to provide informed consent"
+      ]
+    },
+    "intervention": {
+      "text": "1% lignocaine solution via spray-as-you-go during flexible bronchoscopy",
+      "details": "Standard premedication: nebulized 2.5 mL 4% lignocaine for 15 min; two puffs of 10% lignocaine spray; ~5 mL 2% lignocaine gel intranasally. Intra-procedure: four 2-mL aliquots of 1% lignocaine at vocal cords, carina, right and left main bronchi; additional 2-mL rescue aliquots as needed."
+    },
+    "comparison": {
+      "text": "2% lignocaine solution via spray-as-you-go during flexible bronchoscopy",
+      "details": "Identical premedication and spray-as-you-go protocol with 2% lignocaine for standard and rescue aliquots."
+    },
+    "outcomes": [
+      {
+        "name": "Operator-rated cough VAS (0-100 mm) immediately post-procedure",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Patient-rated cough VAS (0-100 mm) immediately post-procedure",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Faces pain rating scale (0-5) immediately post-procedure",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Total lignocaine dose (mg) during procedure",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Total lignocaine dose (mg/kg) during procedure",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Proportion exceeding 8.2 mg/kg lignocaine",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Post-procedure heart rate (beats/min)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Post-procedure respiratory rate (breaths/min)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Post-procedure systolic blood pressure (mm Hg)",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "RCT",
+    "allocation": "randomized",
+    "blinding": "double-blind",
+    "sites_count": 1,
+    "countries": [
+      "India"
+    ],
+    "sample_size": {
+      "planned": 500,
+      "enrolled": 500,
+      "analyzed": 500
+    },
+    "analysis_populations": [
+      {
+        "name": "ITT",
+        "description": "All randomized patients",
+        "n": 500
+      },
+      {
+        "name": "Safety",
+        "description": "All treated patients",
+        "n": 500
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "1% lignocaine spray-as-you-go",
+      "n_randomized": 250,
+      "n_analyzed": 250,
+      "n_completed": 250
+    },
+    {
+      "arm_id": "control",
+      "name": "2% lignocaine spray-as-you-go",
+      "n_randomized": 250,
+      "n_analyzed": 250,
+      "n_completed": 250
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "operator_vas_cough_immediate",
+      "name": "Operator-rated cough VAS",
+      "type": "continuous",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "PT0H",
+      "timepoint_label": "Immediately post-procedure",
+      "unit": "mm",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "median": 25,
+            "iqr_lower": 12,
+            "iqr_upper": 51,
+            "total": 250
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "median": 21,
+            "iqr_lower": 9,
+            "iqr_upper": 38,
+            "total": 250
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "median_difference",
+        "est": 4,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.015,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Mann-Whitney U",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          743
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "VAS score (cough) for operator 25 (12-51) vs 21 (9-38), P = .015"
+      }
+    },
+    {
+      "concept_id": "patient_vas_cough_immediate",
+      "name": "Patient-rated cough VAS",
+      "type": "continuous",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "PT0H",
+      "timepoint_label": "Immediately post-procedure",
+      "unit": "mm",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "median": 32,
+            "iqr_lower": 11,
+            "iqr_upper": 60,
+            "total": 250
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "median": 27,
+            "iqr_lower": 10,
+            "iqr_upper": 50,
+            "total": 250
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "median_difference",
+        "est": 5,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.065,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Mann-Whitney U",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          743
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "VAS score (cough) for patient 32 (11-60) vs 27 (10-50), P = .065"
+      }
+    },
+    {
+      "concept_id": "faces_pain_immediate",
+      "name": "Faces pain rating scale",
+      "type": "continuous",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "PT0H",
+      "timepoint_label": "Immediately post-procedure",
+      "unit": "score_0_to_5",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "median": 0,
+            "iqr_lower": 0,
+            "iqr_upper": 2,
+            "total": 250
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "median": 0,
+            "iqr_lower": 0,
+            "iqr_upper": 2,
+            "total": 250
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "median_difference",
+        "est": 0,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.883,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Mann-Whitney U",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          743
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "Faces pain rating scale 0 (0-2) vs 0 (0-2), P = .883"
+      }
+    },
+    {
+      "concept_id": "total_lignocaine_mg",
+      "name": "Total lignocaine dose (mg)",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "PT0H",
+      "timepoint_label": "During procedure",
+      "unit": "mg",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "median": 312,
+            "iqr_lower": 312,
+            "iqr_upper": 312,
+            "total": 250
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "median": 397,
+            "iqr_lower": 397,
+            "iqr_upper": 397,
+            "total": 250
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "median_difference",
+        "est": -85,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.0001,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Mann-Whitney U",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          743
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "Total dose of lignocaine, mg 312 (312-312) vs 397 (397-397), P = .0001"
+      }
+    },
+    {
+      "concept_id": "total_lignocaine_mg_per_kg",
+      "name": "Total lignocaine dose (mg/kg)",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "PT0H",
+      "timepoint_label": "During procedure",
+      "unit": "mg_per_kg",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "median": 5.7,
+            "iqr_lower": 5.0,
+            "iqr_upper": 6.5,
+            "total": 250
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "median": 7.1,
+            "iqr_lower": 6.1,
+            "iqr_upper": 8.3,
+            "total": 250
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "median_difference",
+        "est": -1.4,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.0001,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Mann-Whitney U",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          743
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "Lignocaine dose, mg/kg 5.7 (5.0-6.5) vs 7.1 (6.1-8.3), P = .0001"
+      }
+    },
+    {
+      "concept_id": "dose_exceed_8_2_mg_per_kg",
+      "name": "Patients exceeding 8.2 mg/kg lignocaine",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "PT0H",
+      "timepoint_label": "During procedure",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 12,
+            "total": 250
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 70,
+            "total": 250
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": -0.232,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.0001,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Chi-square test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          743
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "No. of patients with dose > 8.2 mg/kg, No. (%) 12 (4.8) vs 70 (28), P = .0001"
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.171
+        },
+        "odds_ratio": {
+          "est": 0.13
+        },
+        "arr": -0.232,
+        "nnh": 4.3
+      }
+    },
+    {
+      "concept_id": "heart_rate_post_procedure",
+      "name": "Heart rate after procedure",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "PT0H",
+      "timepoint_label": "Immediately after procedure",
+      "unit": "beats_per_min",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "median": 111,
+            "iqr_lower": 98,
+            "iqr_upper": 123,
+            "total": 250
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "median": 108,
+            "iqr_lower": 96,
+            "iqr_upper": 118,
+            "total": 250
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "median_difference",
+        "est": 3,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.054,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Mann-Whitney U",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          743
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "Heart rate after procedure, beats/min 111 (98-123) vs 108 (96-118), P = .054"
+      }
+    },
+    {
+      "concept_id": "respiratory_rate_post_procedure",
+      "name": "Respiratory rate after procedure",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "PT0H",
+      "timepoint_label": "Immediately after procedure",
+      "unit": "breaths_per_min",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "median": 22,
+            "iqr_lower": 20,
+            "iqr_upper": 24,
+            "total": 250
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "median": 22,
+            "iqr_lower": 20,
+            "iqr_upper": 24,
+            "total": 250
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "median_difference",
+        "est": 0,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.493,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Mann-Whitney U",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          743
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "Respiratory rate after procedure, breaths/min 22 (20-24) vs 22 (20-24), P = .493"
+      }
+    },
+    {
+      "concept_id": "systolic_bp_post_procedure",
+      "name": "Systolic blood pressure after procedure",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "PT0H",
+      "timepoint_label": "Immediately after procedure",
+      "unit": "mm_Hg",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "median": 122,
+            "iqr_lower": 112,
+            "iqr_upper": 132,
+            "total": 250
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "median": 126,
+            "iqr_lower": 116,
+            "iqr_upper": 134,
+            "total": 250
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "median_difference",
+        "est": -4,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.075,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Mann-Whitney U",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          743
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "Systolic BP after procedure, mm Hg 122 (112-132) vs 126 (116-134), P = .075"
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Bronchospasm",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Bronchospasm"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 250
+        },
+        {
+          "arm_id": "control",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 250
+        }
+      ],
+      "period": "Day 0 (during/after procedure)",
+      "management": "",
+      "provenance": {
+        "pages": [
+          741
+        ],
+        "tables": [],
+        "quote": "No adverse events related to lignocaine such as bronchospasm, arrhythmias, involuntary movements, or convulsions were observed in any patient."
+      }
+    },
+    {
+      "event_name": "Arrhythmia",
+      "meddra": {
+        "soc": "Cardiac disorders",
+        "pt": "Cardiac arrhythmia"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 250
+        },
+        {
+          "arm_id": "control",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 250
+        }
+      ],
+      "period": "Day 0 (during/after procedure)",
+      "management": "",
+      "provenance": {
+        "pages": [
+          741
+        ],
+        "tables": [],
+        "quote": "No adverse events related to lignocaine such as bronchospasm, arrhythmias, involuntary movements, or convulsions were observed in any patient."
+      }
+    },
+    {
+      "event_name": "Involuntary movements",
+      "meddra": {
+        "soc": "Nervous system disorders",
+        "pt": "Involuntary movements"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 250
+        },
+        {
+          "arm_id": "control",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 250
+        }
+      ],
+      "period": "Day 0 (during/after procedure)",
+      "management": "",
+      "provenance": {
+        "pages": [
+          741
+        ],
+        "tables": [],
+        "quote": "No adverse events related to lignocaine such as bronchospasm, arrhythmias, involuntary movements, or convulsions were observed in any patient."
+      }
+    },
+    {
+      "event_name": "Convulsion",
+      "meddra": {
+        "soc": "Nervous system disorders",
+        "pt": "Seizure"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 250
+        },
+        {
+          "arm_id": "control",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 250
+        }
+      ],
+      "period": "Day 0 (during/after procedure)",
+      "management": "",
+      "provenance": {
+        "pages": [
+          741
+        ],
+        "tables": [],
+        "quote": "No adverse events related to lignocaine such as bronchospasm, arrhythmias, involuntary movements, or convulsions were observed in any patient."
+      }
+    },
+    {
+      "event_name": "Anaphylactic reaction",
+      "meddra": {
+        "soc": "Immune system disorders",
+        "pt": "Anaphylactic reaction"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 250
+        },
+        {
+          "arm_id": "control",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 250
+        }
+      ],
+      "period": "Day 0 (during/after procedure)",
+      "management": "",
+      "provenance": {
+        "pages": [
+          741
+        ],
+        "tables": [],
+        "quote": "No adverse events related to lignocaine such as bronchospasm, arrhythmias, involuntary movements, or convulsions were observed in any patient."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "RoB 2",
+    "overall_judgment": "low",
+    "domains": [
+      {
+        "name": "Randomization process",
+        "judgment": "low",
+        "support_for_judgment": "Computer-generated randomization with allocation concealment using sealed opaque envelopes"
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "low",
+        "support_for_judgment": "Double-blind design with identical procedures aside from lignocaine concentration"
+      },
+      {
+        "name": "Missing outcome data",
+        "judgment": "low",
+        "support_for_judgment": "All 500 randomized patients analyzed; no attrition reported"
+      },
+      {
+        "name": "Measurement of the outcome",
+        "judgment": "low",
+        "support_for_judgment": "Standardized VAS and faces pain scales; blinded assessor and patient"
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "low",
+        "support_for_judgment": "Outcomes prespecified; results reported for all primary and secondary outcomes"
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "lignocaine",
+      "lidocaine",
+      "topical anesthesia",
+      "flexible bronchoscopy",
+      "spray-as-you-go",
+      "randomized controlled trial"
+    ],
+    "summary_tldr": "In 500 patients undergoing flexible bronchoscopy, 1% lignocaine provided cough and pain control comparable to 2% with significantly lower total dose; 28% on 2% exceeded 8.2 mg/kg; no lignocaine-related adverse events.",
+    "clinical_relevance": "Supports using 1% lignocaine for topical anesthesia during bronchoscopy to minimize dose and potential toxicity without compromising patient comfort."
+  }
+}

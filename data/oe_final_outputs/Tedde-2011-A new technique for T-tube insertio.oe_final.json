@@ -1,0 +1,212 @@
+{
+  "source": {
+    "document_id": "Tedde-2011-A new technique for T-tube insertio",
+    "ingest_date": "2025-08-08T16:14:49.321972+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1016/j.ejcts.2010.05.014"
+  },
+  "document": {
+    "metadata": {
+      "title": "A new technique for T-tube insertion in patients with subglottic stenosis",
+      "year": 2011,
+      "authors": [
+        "Miguel Lia Tedde",
+        "Ascedio Rodrigues",
+        "Paulo Rogerio Scordamaglio",
+        "Jackellyne Santos Monteiro"
+      ],
+      "journal": "European Journal of Cardio-thoracic Surgery",
+      "doi": "10.1016/j.ejcts.2010.05.014",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "A silicone T tube is widely used for the management of airway problems. Montgomery described the way in which it is usually inserted, but this conventional insertion technique can fail in cases of subglottic stenosis due to the softness of the T tube, which kinks when forced against resistance. An adjunct to the traditional technique of Montgomery may help to insert a T tube in such patients.",
+      "methods": "Bronchoscopy for evaluation under topical anaesthesia and sedation, followed by general anaesthesia (usually spontaneous ventilation). Airway dilatation with suspension laryngoscopy or rigid bronchoscopy, then initiation of Montgomery T-tube insertion. When difficulty placing the proximal end occurred, the adjunct technique was used: a 10-F nasogastric tube (NT) was folded and inserted via the mouth and retrieved through the tracheostoma; passed through the proximal end of the T tube and exteriorised in the extraluminal limb. The folded NT was introduced through the distal perforation of a Foley catheter to create a loop around the T tube, then tractioned back to attach firmly to the Foley. The distal end of the T tube was grasped and inserted classically into the trachea. The NT/Foley set was stretched to aid entry of the proximal end into the trachea. Under bronchoscopic direct vision, the Foley cuff was insufflated as needed until the proximal end within the stenotic area was fully unfolded and adjusted.",
+      "results": "Using this technique in the last six ambulatory patients with conventional Montgomery technique failure, the authors achieved optimal location of the proximal end without requiring other auxiliary techniques (trachea re-dilatation, suspension laryngoscopy, or rigid bronchoscopy)."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Ambulatory patients with subglottic stenosis in whom conventional Montgomery T-tube insertion failed.",
+      "inclusion_criteria": [
+        "Subglottic stenosis",
+        "Ambulatory setting",
+        "Failed conventional Montgomery T-tube proximal-end placement"
+      ],
+      "exclusion_criteria": [
+        "Not reported"
+      ]
+    },
+    "intervention": {
+      "text": "Foley catheter-assisted nasogastric tube traction adjunct for Montgomery T-tube insertion",
+      "details": "10-F nasogastric tube folded and routed mouth-to-tracheostoma, passed through proximal end and extraluminal limb of T-tube; looped through Foley catheter distal perforation, secured to Foley; bronchoscopic guidance with repeated Foley cuff insufflation to unfold and seat the proximal end through subglottic stenosis."
+    },
+    "comparison": {
+      "text": "None (single-arm case series)",
+      "details": ""
+    },
+    "outcomes": [
+      {
+        "name": "Successful proximal T-tube placement",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Need for auxiliary techniques (re-dilatation, suspension laryngoscopy, rigid bronchoscopy)",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "case series",
+    "allocation": "non-randomized",
+    "blinding": "open-label",
+    "sites_count": 1,
+    "countries": [
+      "Brazil"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 6,
+      "analyzed": 6
+    },
+    "analysis_populations": [
+      {
+        "name": "treated",
+        "description": "All patients undergoing the adjunct insertion technique",
+        "n": 6
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "Foley catheter-assisted Montgomery T-tube insertion",
+      "n_randomized": 6,
+      "n_analyzed": 6,
+      "n_completed": 6
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "successful_ttube_proximal_placement",
+      "name": "Successful proximal T-tube placement",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Intraoperative",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 6,
+            "total": 6
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "treated",
+        "missing_handling": "not applicable"
+      },
+      "provenance": {
+        "pages": [
+          130,
+          131
+        ],
+        "tables": [],
+        "quote": "Using this technique in the last six ambulatory patients with conventional Montgomery technique failure, we succeeded optimal location of the proximal end without requiring other auxiliary techniques (i.e., trachea re-dilatation, suspension laryngoscopy or rigid bronchoscopy)."
+      }
+    },
+    {
+      "concept_id": "need_for_auxiliary_techniques",
+      "name": "Need for auxiliary techniques (re-dilatation, suspension laryngoscopy, rigid bronchoscopy)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Intraoperative",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 0,
+            "total": 6
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "treated",
+        "missing_handling": "not applicable"
+      },
+      "provenance": {
+        "pages": [
+          130,
+          131
+        ],
+        "tables": [],
+        "quote": "Using this technique in the last six ambulatory patients with conventional Montgomery technique failure, we succeeded optimal location of the proximal end without requiring other auxiliary techniques (i.e., trachea re-dilatation, suspension laryngoscopy or rigid bronchoscopy)."
+      }
+    }
+  ],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "ROBINS-I",
+    "overall_judgment": "serious",
+    "domains": [
+      {
+        "name": "Confounding",
+        "judgment": "serious",
+        "support_for_judgment": "Single-arm case series without comparator; outcomes assessed intraoperatively."
+      },
+      {
+        "name": "Selection of participants",
+        "judgment": "serious",
+        "support_for_judgment": "Convenience sample of six consecutive ambulatory patients with prior insertion failure; inclusion process not predefined."
+      },
+      {
+        "name": "Classification of interventions",
+        "judgment": "low",
+        "support_for_judgment": "Intervention clearly described and uniformly applied."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "low",
+        "support_for_judgment": "No deviations reported; technique steps under bronchoscopic guidance."
+      },
+      {
+        "name": "Missing data",
+        "judgment": "low",
+        "support_for_judgment": "All six patients reported with outcome data."
+      },
+      {
+        "name": "Measurement of outcomes",
+        "judgment": "moderate",
+        "support_for_judgment": "Procedural success assessed by operators; no blinding."
+      },
+      {
+        "name": "Selection of reported result",
+        "judgment": "moderate",
+        "support_for_judgment": "Descriptive report without protocol; limited outcomes reported."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "subglottic stenosis",
+      "Montgomery T-tube",
+      "Foley catheter",
+      "bronchoscopy",
+      "airway stenting",
+      "technique"
+    ],
+    "summary_tldr": "In 6 patients with failed conventional Montgomery T-tube insertion, a Foley catheter-assisted technique achieved successful proximal placement without additional procedures.",
+    "clinical_relevance": "Provides a simple, low-cost adjunct using ubiquitous equipment to facilitate T-tube placement across subglottic stenosis without rigid laryngoscopy or bronchoscopy."
+  }
+}

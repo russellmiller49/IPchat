@@ -1,0 +1,456 @@
+{
+  "source": {
+    "document_id": "Shape-Sensing Robotic vs Tomo ENB",
+    "ingest_date": "2025-08-08T15:51:08.447916+00:00",
+    "trial_registration_id": null,
+    "pmid": "",
+    "doi": "10.1016/j.chest.2022.10.019"
+  },
+  "document": {
+    "metadata": {
+      "title": "Shape-Sensing Robotic-Assisted Bronchoscopy vs Digital Tomosynthesis-Corrected Electromagnetic Navigation Bronchoscopy: A Comparative Cohort Study of Diagnostic Performance",
+      "year": 2023,
+      "authors": [
+        "See-Wei Low",
+        "Robert J. Lentz",
+        "Heidi Chen",
+        "James Katsis",
+        "Matthew C. Aboudara",
+        "Samuel Whatley",
+        "Rafael Paez",
+        "Otis B. Rickman",
+        "Fabien Maldonado"
+      ],
+      "journal": "CHEST",
+      "doi": "10.1016/j.chest.2022.10.019",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Background: Digital tomosynthesis-corrected electromagnetic navigation bronchoscopy (DT-ENB) enables near-real-time intraprocedural visualization of peripheral pulmonary lesions (PPLs). Shape-sensing robotic-assisted bronchoscopy (ssRAB) offers improved catheter stability and articulation but lacks real-time localization. Research question: Does the diagnostic yield of ssRAB differ from DT-ENB for PPL biopsy? Study design and methods: Retrospective comparative cohort study of prospectively collected consecutive procedures during the first 6 months after each platform's introduction at a single center. Diagnostic yield was defined as malignancy or specific benign histopathology explaining the PPL; nonspecific inflammation, normal lung/airway, and atypia not diagnostic of malignancy were nondiagnostic. Results: ssRAB biopsied 143 PPLs in 133 patients; DT-ENB biopsied 197 PPLs in 170 patients. Diagnostic yield was 77% (110/143) for ssRAB and 80% (158/197) for DT-ENB (OR 0.8, 95% CI 0.5-1.4; P = .4). Median lesion diameters were 17 mm (ssRAB) and 19 mm (DT-ENB). After adjustment for lesion size, bronchus sign, location (peripheral vs middle third), and sex, results were similar (OR 0.87, 95% CI 0.49-1.6; P = .6). Pneumothorax occurred in 1.5% (2/133) with ssRAB and 1.8% (3/170) with DT-ENB (P = .86). Interpretation: ssRAB and DT-ENB had comparable diagnostic performance and safety using a conservative diagnostic yield definition.",
+      "methods": "Design: Retrospective analysis of prospectively collected data for consecutive navigational bronchoscopies within the first 6 months after introduction of each platform at Vanderbilt University Medical Center. Platforms and windows: DT-ENB introduced April 25, 2018; ssRAB introduced November 3, 2021. Patients undergoing DT-ENB during the ssRAB window only due to enrollment in a randomized trial (VERITAS, NCT04250194) were excluded. Procedures: Board-certified interventional pulmonologists or fellows under supervision performed all cases under general anesthesia with neuromuscular blockade, 8.5-mm ETT, post-intubation recruitment maneuver (40 cm H2O for 40 s), PEEP 15 cm H2O, and minimized FiO2 to limit atelectasis. DT-ENB used superDimension (Medtronic) with digital tomosynthesis. ssRAB used the ION platform (Intuitive Surgical) with PlanPoint planning and shape-sensing catheter; registration by airway maneuvering; vision probe removed for biopsy. Radial endobronchial ultrasound was used in all patients, with fluoroscopic guidance. Initial sampling by transbronchial needle aspiration (21G Arcpoint needle for DT-ENB; 19/21/23G Flexision needles for ssRAB), with ROSE; additional forceps/brush/peripheral wash at operator discretion. Outcomes: Primary—difference in diagnostic yield (lesional histopathology: malignancy or specific benign pattern). Nondiagnostic included normal lung/airway, nonspecific inflammation, atypia not diagnostic. Secondary—factors associated with yield; complications per national QI definitions. Analysis: Wilcoxon rank-sum and chi-square tests for baseline comparisons; logistic regression for platform-yield association adjusted for nodule size, bronchus sign, location (peripheral vs middle third), and sex; robust sandwich estimator for within-patient correlation (multiple PPLs). Sensitivity analysis restricted to first PPL per patient.",
+      "results": "A total of 197 PPLs in 170 patients underwent DT-ENB and 143 PPLs in 133 patients underwent ssRAB within the defined 6-month periods. Median lesion sizes: 19 mm (IQR 14-28) for DT-ENB and 17 mm (IQR 12-27) for ssRAB. DT-ENB had more peripheral one-third lesions (80.7% vs 48.0%; P < .001) and more women (59.4% vs 45.1%; P = .013); bronchus sign prevalence and nodule density were similar. Primary outcome: Diagnostic yield was 80% (158/197) for DT-ENB vs 77% (110/143) for ssRAB (OR 0.8, 95% CI 0.5-1.4; P = .4). Pathology among DT-ENB cases: 54% malignant (107/197) and 26% specific benign (51/197); among ssRAB: 55% malignant (78/143) and 22% specific benign (32/143). Adjusted analysis (size, bronchus sign, location, sex): OR 0.87 (95% CI 0.49-1.6; P = .6). Sensitivity (first PPL per patient): 81% (138/170) DT-ENB vs 80% (106/133) ssRAB; OR 0.9 (95% CI 0.5-1.6; P = .7); adjusted OR 1.0 (95% CI 0.5-1.8; P = .9). Factors associated with diagnostic yield overall included larger nodule size, concentric radial EBUS view, and solid density. Platform-specific: DT-ENB—solid density (OR 4.4, 95% CI 1.9-9.9; P = .001); ssRAB—bronchus sign (OR 3.1, 95% CI 1.2-7.7; P = .015) and concentric radial EBUS (OR 3.5, 95% CI 1.4-8.4; P = .004). Complications: Pneumothorax in 1.5% (2/133) of ssRAB and 1.8% (3/170) of DT-ENB (P = .86); chest tube required in 2 ssRAB patients and 1 DT-ENB patient; no bleeding requiring intervention."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults undergoing navigational bronchoscopy for biopsy of peripheral pulmonary lesions at a single academic medical center within the first 6 months after platform introduction.",
+      "inclusion_criteria": [
+        "Consecutive navigational bronchoscopy procedures performed within 6 months of each platform’s introduction",
+        "Peripheral pulmonary lesion targeted for biopsy",
+        "Availability of preprocedure chest CT for planning"
+      ],
+      "exclusion_criteria": [
+        "Procedures during the ssRAB window performed with DT-ENB solely due to enrollment in an external randomized trial (VERITAS; NCT04250194)"
+      ]
+    },
+    "intervention": {
+      "text": "Shape-sensing robotic-assisted bronchoscopy (ssRAB; ION platform, Intuitive Surgical)",
+      "details": "PlanPoint-based preprocedure planning; shape-sensing catheter with vision probe; registration by maneuvering airways in all lobes; radial EBUS and fluoroscopic guidance; initial TBNA with 19/21/23G Flexision needles; ROSE; additional forceps/brush/peripheral wash per operator."
+    },
+    "comparison": {
+      "text": "Digital tomosynthesis-corrected electromagnetic navigation bronchoscopy (DT-ENB; superDimension, Medtronic)",
+      "details": "Near-real-time intraprocedural lesion localization via digital tomosynthesis; radial EBUS and fluoroscopic guidance; initial TBNA with 21G Arcpoint pulmonary needle; ROSE; additional sampling per operator."
+    },
+    "outcomes": [
+      {
+        "name": "Diagnostic yield (lesional histopathology: malignancy or specific benign features) at index procedure",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Complications (pneumothorax)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Factors associated with diagnostic yield (nodule size, bronchus sign, radial EBUS view, density)",
+        "type": "exploratory",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "retrospective comparative cohort",
+    "allocation": "non-randomized",
+    "blinding": "none",
+    "sites_count": 1,
+    "countries": [
+      "US"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 303,
+      "analyzed": 303
+    },
+    "analysis_populations": [
+      {
+        "name": "Patient-level",
+        "description": "All included patients across both platforms",
+        "n": 303
+      },
+      {
+        "name": "Lesion-level",
+        "description": "All peripheral pulmonary lesions (PPLs) biopsied",
+        "n": 340
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "ssRAB (shape-sensing robotic-assisted bronchoscopy; ION)",
+      "n_randomized": 0,
+      "n_analyzed": 143,
+      "n_completed": 143
+    },
+    {
+      "arm_id": "control",
+      "name": "DT-ENB (digital tomosynthesis-corrected electromagnetic navigation bronchoscopy; superDimension)",
+      "n_randomized": 0,
+      "n_analyzed": 197,
+      "n_completed": 197
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "diagnostic_yield_lesion_level_unadjusted",
+      "name": "Diagnostic yield (lesion-level, index procedure)",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Index procedure",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 110,
+            "total": 143
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 158,
+            "total": 197
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "odds_ratio",
+        "est": 0.8,
+        "ci_lower": 0.5,
+        "ci_upper": 1.4,
+        "ci_level": 0.95,
+        "p_value": 0.4,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "logistic regression",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All PPLs (lesion-level)",
+        "missing_handling": "Complete case (all biopsied lesions included)"
+      },
+      "provenance": {
+        "pages": [
+          978,
+          979
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "Diagnostic yield was 77% for ssRAB (110 of 143 PPLs) and 80% (158 of 197 PPLs) for DT-ENB (OR, 0.8; 95% CI, 0.5-1.4; P = .4)."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.959
+        },
+        "odds_ratio": {
+          "est": 0.823
+        },
+        "arr": -0.033,
+        "nnh": 30.5
+      }
+    },
+    {
+      "concept_id": "diagnostic_yield_lesion_level_adjusted",
+      "name": "Diagnostic yield (lesion-level, adjusted)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Index procedure (adjusted analysis)",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 110,
+            "total": 143
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 158,
+            "total": 197
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "odds_ratio",
+        "est": 0.87,
+        "ci_lower": 0.49,
+        "ci_upper": 1.6,
+        "ci_level": 0.95,
+        "p_value": 0.6,
+        "p_operator": "=",
+        "adjusted": true
+      },
+      "analysis": {
+        "model": "logistic regression with robust sandwich variance",
+        "adjusted": true,
+        "covariates": [
+          "nodule size",
+          "bronchus sign",
+          "location (peripheral vs middle third)",
+          "sex"
+        ],
+        "population": "All PPLs (lesion-level)",
+        "missing_handling": "Complete case"
+      },
+      "provenance": {
+        "pages": [
+          979
+        ],
+        "tables": [],
+        "quote": "A multivariate logistic regression analysis... (OR, 0.87; 95% CI, 0.49-1.6; P = .6)."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.959
+        },
+        "odds_ratio": {
+          "est": 0.823
+        },
+        "arr": -0.033,
+        "nnh": 30.5
+      }
+    },
+    {
+      "concept_id": "diagnostic_yield_first_nodule_unadjusted",
+      "name": "Diagnostic yield (first PPL per patient, unadjusted)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Index procedure (first PPL per patient)",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 106,
+            "total": 133
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 138,
+            "total": 170
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "odds_ratio",
+        "est": 0.9,
+        "ci_lower": 0.5,
+        "ci_upper": 1.6,
+        "ci_level": 0.95,
+        "p_value": 0.7,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "logistic regression",
+        "adjusted": false,
+        "covariates": [],
+        "population": "First PPL per patient",
+        "missing_handling": "Complete case"
+      },
+      "provenance": {
+        "pages": [
+          979
+        ],
+        "tables": [],
+        "quote": "In a post hoc sensitivity analysis including only the first nodule biopsied per patient, the diagnostic yield was similar with ssRAB (80% [106 of 133]) and DT-ENB (81% [138 of 170]; OR, 0.9; 95% CI, 0.5-1.6; P = .7)."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.982
+        },
+        "odds_ratio": {
+          "est": 0.91
+        },
+        "arr": -0.015,
+        "nnh": 67.7
+      }
+    },
+    {
+      "concept_id": "diagnostic_yield_first_nodule_adjusted",
+      "name": "Diagnostic yield (first PPL per patient, adjusted)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Index procedure (first PPL per patient, adjusted)",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 106,
+            "total": 133
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 138,
+            "total": 170
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "odds_ratio",
+        "est": 1.0,
+        "ci_lower": 0.5,
+        "ci_upper": 1.8,
+        "ci_level": 0.95,
+        "p_value": 0.9,
+        "p_operator": "=",
+        "adjusted": true
+      },
+      "analysis": {
+        "model": "logistic regression with robust sandwich variance",
+        "adjusted": true,
+        "covariates": [
+          "nodule size",
+          "bronchus sign",
+          "location (peripheral vs middle third)",
+          "sex"
+        ],
+        "population": "First PPL per patient",
+        "missing_handling": "Complete case"
+      },
+      "provenance": {
+        "pages": [
+          979
+        ],
+        "tables": [],
+        "quote": "Multivariate logistic regression adjusting for the same factors did not differ (OR, 1.0; 95% CI, 0.5-1.8; P = .9)."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.982
+        },
+        "odds_ratio": {
+          "est": 0.91
+        },
+        "arr": -0.015,
+        "nnh": 67.7
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Pneumothorax",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Pneumothorax"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "required intervention"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 2,
+          "patients": 2,
+          "percentage": 1.5,
+          "total": 133
+        },
+        {
+          "arm_id": "control",
+          "events": 3,
+          "patients": 3,
+          "percentage": 1.8,
+          "total": 170
+        }
+      ],
+      "period": "0-7 days",
+      "management": "Tube thoracostomy required in 2/2 ssRAB pneumothoraces and 1/3 DT-ENB pneumothoraces.",
+      "provenance": {
+        "pages": [
+          979
+        ],
+        "tables": [],
+        "quote": "Pneumothorax complicated 1.5% of ssRAB and 1.8% of DT-ENB procedures (P = .86). One patient (0.6%) in the DT-ENB group and 2 patients (1.5%) in the ssRAB group required tube thoracostomy."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "ROBINS-I",
+    "overall_judgment": "moderate",
+    "domains": [
+      {
+        "name": "Confounding",
+        "judgment": "moderate",
+        "support_for_judgment": "Nonrandomized comparative cohort; adjusted for key covariates (size, bronchus sign, location, sex) with robust variance, but residual confounding possible."
+      },
+      {
+        "name": "Selection of participants",
+        "judgment": "low",
+        "support_for_judgment": "Consecutive procedures within defined windows; clear exclusion of concurrent RCT-enrolled cases."
+      },
+      {
+        "name": "Classification of interventions",
+        "judgment": "low",
+        "support_for_judgment": "Interventions clearly defined by platform and time window."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "low",
+        "support_for_judgment": "Standardized anesthesia and procedural protocols; same operators."
+      },
+      {
+        "name": "Missing data",
+        "judgment": "low",
+        "support_for_judgment": "All biopsied lesions included; outcomes ascertained at 1 week."
+      },
+      {
+        "name": "Measurement of outcomes",
+        "judgment": "low",
+        "support_for_judgment": "Uniform, conservative diagnostic yield definition based on histopathology; blinded outcome assessment not applicable."
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "low",
+        "support_for_judgment": "Predefined primary outcome; adjusted and sensitivity analyses reported."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "robotic bronchoscopy",
+      "electromagnetic navigation bronchoscopy",
+      "digital tomosynthesis",
+      "peripheral pulmonary lesion",
+      "radial EBUS"
+    ],
+    "summary_tldr": "In 340 PPL biopsies, ssRAB 77% (110/143) vs DT-ENB 80% (158/197) diagnostic yield; adjusted OR 0.87 (95% CI 0.49-1.6), P = .6; pneumothorax ~1.5%-1.8% in both.",
+    "clinical_relevance": "ssRAB and DT-ENB demonstrate comparable diagnostic performance and low pneumothorax rates using a conservative histopathology-based yield definition."
+  }
+}

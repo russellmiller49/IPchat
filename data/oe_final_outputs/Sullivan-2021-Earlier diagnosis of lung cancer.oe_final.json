@@ -1,0 +1,348 @@
+{
+  "source": {
+    "document_id": "Sullivan-2021-Earlier diagnosis of lung cancer",
+    "ingest_date": "2025-08-08T16:03:26.654001+00:00",
+    "trial_registration_id": "NCT01925625",
+    "pmid": "",
+    "doi": "10.1183/13993003.00670-2020"
+  },
+  "document": {
+    "metadata": {
+      "title": "Earlier diagnosis of lung cancer in a randomised trial of an autoantibody blood test followed by imaging",
+      "year": 2021,
+      "authors": [
+        "Frank M. Sullivan",
+        "Frances S. Mair",
+        "William Anderson",
+        "Pauline Armory",
+        "Andrew Briggs",
+        "Cindy Chew",
+        "Alistair Dorward",
+        "John Haughney",
+        "Fiona Hogarth",
+        "Denise Kendrick",
+        "Roberta Littleford",
+        "Alex McConnachie",
+        "Colin McCowan",
+        "Nicola McMeekin",
+        "Manish Patel",
+        "Petra Rauchhaus",
+        "Lewis Ritchie",
+        "Chris Robertson",
+        "John Robertson",
+        "Jose Robles-Zurita",
+        "Joseph Sarvesvaran",
+        "Herbert Sewell",
+        "Michael Sproule",
+        "Thomas Taylor",
+        "Agnes Tello",
+        "Shaun Treweek",
+        "Kavita Vedhara",
+        "Stuart Schembri"
+      ],
+      "journal": "European Respiratory Journal",
+      "doi": "10.1183/13993003.00670-2020",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "The EarlyCDT-Lung test is a high-specificity blood-based autoantibody biomarker that could contribute to predicting lung cancer risk. We report on the results of a phase IV biomarker evaluation of whether using the EarlyCDT-Lung test and any subsequent computed tomography (CT) scanning to identify those at high risk of lung cancer reduces the incidence of patients with stage III/IV/unspecified lung cancer at diagnosis compared with the standard clinical practice at the time the study began. The Early Diagnosis of Lung Cancer Scotland (ECLS) trial was a randomised controlled trial of 12208 participants at risk of developing lung cancer in Scotland in the UK. The intervention arm received the EarlyCDT-Lung test and, if test-positive, low-dose CT scanning 6-monthly for up to 2 years. EarlyCDT-Lung test-negative and control arm participants received standard clinical care. Outcomes were assessed at 2 years post-randomisation using validated data on cancer occurrence, cancer staging, mortality and comorbidities. At 2 years, 127 lung cancers were detected in the study population (1.0%). In the intervention arm, 33 out of 56 (58.9%) lung cancers were diagnosed at stage III/IV compared with 52 out of 71 (73.2%) in the control arm. The hazard ratio for stage III/IV presentation was 0.64 (95% CI 0.41-0.99). There were nonsignificant differences in lung cancer and all-cause mortality after 2 years. ECLS compared EarlyCDT-Lung plus CT screening to standard clinical care (symptomatic presentation) and was not designed to assess the incremental contribution of the EarlyCDT-Lung test. The observation of a stage shift towards earlier-stage lung cancer diagnosis merits further investigations to evaluate whether the EarlyCDT-Lung test adds anything to the emerging standard of low-dose CT.",
+      "methods": "ECLS was a pragmatic randomised controlled trial involving 12208 participants recruited through general practices and community-based recruitment strategies in Scotland in the UK. Recruitment occurred between April 2013 and July 2016, and follow-up was undertaken for 24 months after randomisation for each participant. Adults age 50-75 years at increased risk of developing lung cancer compared with the general population were eligible to participate. These were defined as current or former cigarette or tobacco smokers with at least 20 pack-years, or with a history of <20 pack-years plus immediate family history of lung cancer. Participants had no symptoms suggestive of current malignancy, terminal illness or immunosuppressant therapy and had an ECOG performance status of 0-2. Participants were individually randomised, stratified by recruitment site, and minimised by age, sex and smoking status. The intervention arm received the EarlyCDT-Lung test and, if test-positive, a baseline chest radiograph and low-dose CT (LDCT) followed by 6‑monthly LDCT up to 24 months; test-negatives and the control arm received standard NHS care. Outcomes were ascertained via linkage to validated national datasets (Scottish Cancer Registry SMR06 and mortality data). The primary outcome was the rate of stage III/IV/unspecified lung cancer at diagnosis within 2 years. Cox proportional hazards models were used, adjusted for age, sex, smoking history, socioeconomic status and general practice.",
+      "results": "A total of 12215 participants were randomised; one withdrew consent and six were excluded post-randomisation due to ineligibility, leaving 12208 for analysis. Participant characteristics were balanced between arms. Over 2 years, 127 lung cancers were detected (1.0%). In the intervention arm, 56 lung cancers occurred with 33 stage III/IV (58.9%); in the control arm, 71 lung cancers occurred with 52 stage III/IV (73.2%). The hazard ratio for stage III/IV presentation was 0.64 (95% CI 0.41-0.99). Differences in lung cancer mortality and all-cause mortality at 2 years were not statistically significant."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults aged 50-75 years in Scotland at increased risk for lung cancer (current or former smokers) without symptoms suggestive of malignancy.",
+      "inclusion_criteria": [
+        "Age 50-75 years",
+        "Current or former cigarette/tobacco smoker with ≥20 pack-years",
+        "<20 pack-years plus immediate family history of lung cancer (parent, sibling, or child)"
+      ],
+      "exclusion_criteria": [
+        "Symptoms suggestive of current malignancy",
+        "Terminal illness",
+        "Immunosuppressant therapy",
+        "ECOG performance status >2"
+      ]
+    },
+    "intervention": {
+      "text": "EarlyCDT-Lung test with imaging pathway for positives",
+      "details": "EarlyCDT-Lung autoantibody blood test; if positive, baseline chest radiograph and low-dose CT followed by 6‑monthly LDCT to 24 months; imaging reviewed by thoracic radiologists/respiratory physicians and followed per Fleischner guidelines."
+    },
+    "comparison": {
+      "text": "Standard clinical care",
+      "details": "Usual NHS Scotland care with guideline-based evaluation of symptomatic presentations; no study-mandated testing or imaging for test-negatives or controls."
+    },
+    "outcomes": [
+      {
+        "name": "Incidence of stage III/IV or unspecified stage lung cancer at diagnosis within 2 years",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "All-cause mortality at 2 years",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Lung cancer-specific mortality at 2 years",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "RCT",
+    "allocation": "randomized",
+    "blinding": "open-label (blinded outcome assessors for staging)",
+    "sites_count": 3,
+    "countries": [
+      "UK"
+    ],
+    "sample_size": {
+      "planned": 12000,
+      "enrolled": 12215,
+      "analyzed": 12208
+    },
+    "analysis_populations": [
+      {
+        "name": "ITT",
+        "description": "All randomized participants with available linked outcomes; excludes one withdrawal and six post-randomization ineligibles",
+        "n": 12208
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "EarlyCDT-Lung testing with LDCT for positives",
+      "n_randomized": 6121,
+      "n_analyzed": 6121,
+      "n_completed": 6121
+    },
+    {
+      "arm_id": "control",
+      "name": "Standard clinical care",
+      "n_randomized": 6087,
+      "n_analyzed": 6087,
+      "n_completed": 6087
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "late_stage_lung_cancer_incidence_24m",
+      "name": "Stage III/IV or unspecified stage lung cancer at diagnosis",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P24M",
+      "timepoint_label": "24 months",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 33,
+            "total": 6121
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 52,
+            "total": 6087
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "hazard_ratio",
+        "est": 0.64,
+        "ci_lower": 0.41,
+        "ci_upper": 0.99,
+        "ci_level": 0.95,
+        "adjusted": true
+      },
+      "analysis": {
+        "model": "Cox proportional hazards",
+        "adjusted": true,
+        "covariates": [
+          "age",
+          "sex",
+          "smoking history",
+          "socioeconomic status",
+          "general practice"
+        ],
+        "population": "ITT",
+        "missing_handling": "Linked national datasets with 99.9% ascertainment"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "In the intervention arm, 33 out of 56 (58.9%) lung cancers were diagnosed at stage III/IV compared with 52 out of 71 (73.2%) in the control arm. The hazard ratio for stage III/IV presentation was 0.64 (95% CI 0.41-0.99)."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.631
+        },
+        "odds_ratio": {
+          "est": 0.629
+        },
+        "arr": -0.003,
+        "nnh": 317.3
+      }
+    },
+    {
+      "concept_id": "all_lung_cancer_incidence_24m",
+      "name": "All lung cancer diagnoses",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P24M",
+      "timepoint_label": "24 months",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 56,
+            "total": 6121
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 71,
+            "total": 6087
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": -0.0024,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": null,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive comparison",
+        "adjusted": false,
+        "population": "ITT"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "At 2 years, 127 lung cancers were detected in the study population (1.0%). In the intervention arm, 56 lung cancers were detected compared with 71 in the control arm."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.784
+        },
+        "odds_ratio": {
+          "est": 0.782
+        },
+        "arr": -0.003,
+        "nnh": 397.6
+      }
+    },
+    {
+      "concept_id": "early_stage_lung_cancer_incidence_24m",
+      "name": "Stage I/II lung cancer at diagnosis",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P24M",
+      "timepoint_label": "24 months",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 23,
+            "total": 6121
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 19,
+            "total": 6087
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": 0.0007,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": null,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive comparison",
+        "adjusted": false,
+        "population": "ITT"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "In the intervention arm, 33 out of 56 (58.9%) were stage III/IV, implying 23 were stage I/II; in the control arm, 52 out of 71 (73.2%) were stage III/IV, implying 19 were stage I/II."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 1.204
+        },
+        "odds_ratio": {
+          "est": 1.205
+        },
+        "arr": 0.001,
+        "nnt": 1572.0
+      }
+    }
+  ],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "RoB 2",
+    "overall_judgment": "low",
+    "domains": [
+      {
+        "name": "Randomization process",
+        "judgment": "low",
+        "support_for_judgment": "Participants were individually randomized with stratification and minimization; baseline characteristics were balanced."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "low",
+        "support_for_judgment": "Open-label pragmatic design; interventions followed predefined protocol; outcome assessors for staging were blinded."
+      },
+      {
+        "name": "Missing outcome data",
+        "judgment": "low",
+        "support_for_judgment": "Ascertainment through national linked datasets with 99.9% follow-up."
+      },
+      {
+        "name": "Measurement of the outcome",
+        "judgment": "low",
+        "support_for_judgment": "Cancer diagnoses and staging obtained from validated registries; pathology/staging reviewed by assessors blinded to allocation."
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "low",
+        "support_for_judgment": "Primary outcome and analysis prespecified in protocol and SAP."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "EarlyCDT-Lung",
+      "autoantibody",
+      "low-dose CT",
+      "lung cancer screening",
+      "Scotland",
+      "randomised controlled trial"
+    ],
+    "summary_tldr": "In high-risk adults, EarlyCDT-Lung testing with LDCT for positives reduced late-stage (III/IV) lung cancer presentation over 24 months (HR 0.64, 95% CI 0.41-0.99).",
+    "clinical_relevance": "Biomarker-guided targeting to LDCT may shift lung cancer diagnosis to earlier stages, informing strategies for cost-effective screening."
+  }
+}

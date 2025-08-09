@@ -1,0 +1,356 @@
+{
+  "source": {
+    "document_id": "endoscopic_treatment_of_bronchial_carcinoids_i",
+    "ingest_date": "2025-08-08T11:58:37.567917+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": ""
+  },
+  "document": {
+    "metadata": {
+      "title": "Endoscopic Treatment of Bronchial Carcinoids in Comparison to Surgical Resection: A Retrospective Study",
+      "year": 2012,
+      "authors": [
+        "Kirill Neyman",
+        "Arve Sundset",
+        "Anne Naalsund",
+        "Andreas Espinoza",
+        "Steinar Solberg",
+        "Johny Kongerud",
+        "Erik Fosse"
+      ],
+      "journal": "Journal of Bronchology & Interventional Pulmonology",
+      "doi": "",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Background: Surgery is the gold standard of lung carcinoid treatment. However, bronchoscopic treatment may provide a complete cure in selected patients. The aim of the study was to review the results of laser treatment of bronchial carcinoids and to compare the outcome after laser resection against the outcome after surgical resection. Methods: Seventy-three patients, 29 men and 44 women, median age 53 years (range, 23 to 78 y), with bronchial carcinoids were treated by surgical resection (n = 48) or endobronchial ablation (n = 25). Bronchoscopic treatment was also performed in 5 of 48 surgical patients as a part of the surgical treatment strategy. Results: Among 25 patients treated endoscopically, 16 were successfully treated with laser, whereas 9 were operated subsequently. One major complication was registered, as an inadvertent ventilation caused a nonfatal fire of the bronchoscope during Nd:YAG laser procedure. Forty-eight patients underwent surgical resection. Most of the patients underwent lobectomy and bilobectomy (30 and 5 patients, respectively). Four of the patients were dead by the end of the study, 1 was treated with laser, and 3 treated with surgical resection. The overall survival was 94.5% in the surgical group and 94.4% in the group treated with endoscopic ablation (P = 0.9). None of the 69 survivors had any sign of recurrence on computed tomographic scans and bronchoscopy by the end of the study. Conclusions: This is a retrospective study and no randomization has been performed. However, the results add evidence to the view that transbronchial laser treatment may be offered as a safe, stand-alone procedure in the treatment of typical carcinoid tumor in the central airways.",
+      "methods": "Between 2002 and 2010, 73 patients (29 men and 44 women), with a median age of 53 years (range, 23 to 78 y) and bronchial carcinoids, were treated by surgical resection (n = 48) or endobronchial ablation (n = 25) in our institution. The criteria for laser ablation with curative intent were (1) presumably a typical type of tumor histology; (2) polypoid growth of the tumor; and (3) the absence of obvious distal metastases. Tumors localized distally to the subsegmental level were not treated with laser ablation. Patients who did not fulfill the criteria were treated with surgical lung resection. Bronchoscopic treatment was also performed in 5 of 48 surgical resection patients as part of the surgical treatment strategy. Data on demographics, histology, TNM staging, and perioperative information were collected. Survival rates between the laser and surgical groups were compared. The end-of-study date was March 1, 2011. SPSS (version 16.0) was used; a P-value <0.05 was considered significant.",
+      "results": "Twenty-five patients were treated with Nd:YAG laser ablation (29 procedures; 21 single-procedure patients, 4 with multiple). Among 25 treated with curative-intent laser, 16 did not require surgery; 9 subsequently had surgery (5 lobectomies due to incomplete eradication). One major complication occurred: accidental ventilation with 100% oxygen caused a nonfatal fire in the flexible bronchoscope during Nd:YAG treatment. Postprocedural stenosis occurred in 2 patients and was treated with balloon dilatation. No significant bleeding and no perioperative mortality occurred. Forty-eight patients underwent surgical resection (wedge 7, segment 3, lobectomy 30, bilobectomy 5, pneumonectomy 3); in 3 patients operated after initial bronchoscopy, no tumor tissue was found in the resection specimen. Median follow-up was 3 years (range, 0.5 to 8). By study end, 4 patients had died (1 laser-only; 3 surgery-only). Overall survival was 94.5% in the surgical group and 94.4% in the laser group (P = 0.9). Survival in typical vs atypical carcinoids was 96.7% vs 81.8% (P = 0.05). None of the 69 survivors had recurrence on CT and bronchoscopy."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with bronchial carcinoid tumors treated at a single tertiary hospital (Oslo University Hospital) between 2002 and 2010.",
+      "inclusion_criteria": [
+        "Diagnosed bronchial carcinoid tumor",
+        "Treated with either endobronchial laser ablation or surgical resection at the study center"
+      ],
+      "exclusion_criteria": [
+        "For laser ablation specifically: tumor distal to subsegmental level",
+        "For laser ablation specifically: suspected atypical carcinoid histology",
+        "For laser ablation specifically: obvious distal metastases",
+        "Poor bronchoscopic accessibility (implicit for laser group)"
+      ]
+    },
+    "intervention": {
+      "text": "Endobronchial Nd:YAG laser ablation with curative intent",
+      "details": "Flexible bronchoscopy (rigid bronchoscope with forceps for debulking if needed); Nd:YAG laser 40-45 W with a second pulse after 1-second interval; balloon dilatation for postprocedural stenosis as needed; general anesthesia with propofol/remifentanil and cisatracurium; FiO2 ~0.35 during laser use."
+    },
+    "comparison": {
+      "text": "Surgical resection",
+      "details": "Open lateral thoracotomy with lobectomy, bilobectomy, wedge resection, segmentectomy, or pneumonectomy as indicated; histologic examination of all specimens."
+    },
+    "outcomes": [
+      {
+        "name": "Overall survival at end of study",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Tumor recurrence at end of follow-up",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Procedure-related complications",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "observational cohort",
+    "allocation": "non-randomized",
+    "blinding": "none",
+    "sites_count": 1,
+    "countries": [
+      "Norway"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 73,
+      "analyzed": 73
+    },
+    "analysis_populations": [
+      {
+        "name": "Full cohort",
+        "description": "All treated patients included in survival/recurrence analyses",
+        "n": 73
+      },
+      {
+        "name": "Laser cohort",
+        "description": "Patients treated with endobronchial laser ablation with curative intent",
+        "n": 25
+      },
+      {
+        "name": "Surgery cohort",
+        "description": "Patients treated with surgical resection",
+        "n": 48
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "Endobronchial Nd:YAG laser ablation (curative intent)",
+      "n_randomized": 0,
+      "n_analyzed": 25,
+      "n_completed": 25
+    },
+    {
+      "arm_id": "control",
+      "name": "Surgical resection",
+      "n_randomized": 0,
+      "n_analyzed": 48,
+      "n_completed": 48
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "all_cause_mortality_eos",
+      "name": "All-cause mortality at end of study",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P3Y",
+      "timepoint_label": "End of study (median 3 years; range 0.5-8 years)",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 1,
+            "total": 25
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 3,
+            "total": 48
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": -0.0225,
+        "p_value": 0.9,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Unadjusted comparison of proportions (chi-square/Fisher exact)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Full cohort",
+        "missing_handling": "Complete case (no losses reported)"
+      },
+      "provenance": {
+        "pages": [
+          31
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "At the end of the observation period, 4 of the patients had died, 1 had been treated with laser ablation alone, and 3 had been treated with surgical resection alone... Overall, survival by the end of the study was 94.5% in the surgical group and 94.4% in the group treated with endoscopic ablation (P = 0.9)."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.64
+        },
+        "odds_ratio": {
+          "est": 0.625
+        },
+        "arr": -0.022,
+        "nnh": 44.4
+      }
+    },
+    {
+      "concept_id": "recurrence_free_survival_eos",
+      "name": "Tumor recurrence at end of follow-up among survivors",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P3Y",
+      "timepoint_label": "End of study (median 3 years; range 0.5-8 years)",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 0,
+            "total": 24
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 0,
+            "total": 45
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": 0,
+        "p_value": 1,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive comparison (no events in either group)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Survivors at end of study",
+        "missing_handling": "Not applicable"
+      },
+      "provenance": {
+        "pages": [
+          31
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "None of the 69 survivors, either in the interventional bronchoscopy group or in the surgical treatment group, had any sign of recurrence on computed tomographic scans and bronchoscopy by the end of the study."
+      },
+      "derived": {
+        "arr": 0.0
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Airway burn due to bronchoscope fire",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Airway burn"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "life-threatening"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 1,
+          "patients": 1,
+          "percentage": 4,
+          "total": 25
+        },
+        {
+          "arm_id": "control",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 48
+        }
+      ],
+      "period": "Intra-procedural (during Nd:YAG laser use)",
+      "management": "Subsequent laser and balloon dilatation procedures for stenosis and scarring; clinical improvement over time.",
+      "provenance": {
+        "pages": [
+          31,
+          32
+        ],
+        "tables": [],
+        "quote": "Inadvertent ventilation with 100% oxygen caused a nonfatal fire in the flexible bronchoscope during Nd:YAG laser treatment... This patient later had repeated laser and balloon dilatation procedures to treat bronchial stenosis and scarring."
+      }
+    },
+    {
+      "event_name": "Bronchial stenosis",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Bronchial stenosis"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 2,
+          "patients": 2,
+          "percentage": 8,
+          "total": 25
+        },
+        {
+          "arm_id": "control",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 48
+        }
+      ],
+      "period": "Post-procedural",
+      "management": "Successfully treated with balloon dilatation.",
+      "provenance": {
+        "pages": [
+          31
+        ],
+        "tables": [],
+        "quote": "Postprocedural stenosis was registered in 2 patients and successfully treated with balloon dilatation."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "ROBINS-I",
+    "overall_judgment": "serious",
+    "domains": [
+      {
+        "name": "Confounding",
+        "judgment": "serious",
+        "support_for_judgment": "Non-randomized retrospective cohort; treatment selection based on tumor characteristics (e.g., location, histology)."
+      },
+      {
+        "name": "Selection of participants",
+        "judgment": "moderate",
+        "support_for_judgment": "All consecutive treated patients included; differing eligibility criteria for laser vs surgery."
+      },
+      {
+        "name": "Classification of interventions",
+        "judgment": "low",
+        "support_for_judgment": "Clear intervention categories (laser vs surgery)."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "low",
+        "support_for_judgment": "No crossover except planned subsequent surgery after incomplete laser in some patients."
+      },
+      {
+        "name": "Missing data",
+        "judgment": "low",
+        "support_for_judgment": "Follow-up reported for all; deaths and recurrences documented."
+      },
+      {
+        "name": "Measurement of outcomes",
+        "judgment": "low",
+        "support_for_judgment": "Objective outcomes (survival, recurrence with CT/bronchoscopy)."
+      },
+      {
+        "name": "Selection of reported results",
+        "judgment": "moderate",
+        "support_for_judgment": "P-values reported without detailed model specification; retrospective design."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "bronchial carcinoid",
+      "laser ablation",
+      "Nd:YAG",
+      "interventional bronchoscopy",
+      "surgical resection",
+      "lobectomy",
+      "recurrence",
+      "survival"
+    ],
+    "summary_tldr": "Retrospective single-center cohort: laser ablation (1/25 deaths) vs surgery (3/48 deaths) showed similar overall survival (P = 0.9) and no recurrences among 69 survivors.",
+    "clinical_relevance": "Supports offering endobronchial Nd:YAG laser ablation as a curative option in carefully selected patients with typical, centrally located bronchial carcinoids."
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "source": {
+    "document_id": "fistula Lazarus-2017-Persistent air leaks_ a review wi",
+    "ingest_date": "2025-08-08T12:30:08.672372+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.21037/jtd.2017.10.122"
+  },
+  "document": {
+    "metadata": {
+      "title": "Persistent air leaks: a review with an emphasis on bronchoscopic management",
+      "year": 2017,
+      "authors": [
+        "Donald R. Lazarus",
+        "Roberto F. Casal"
+      ],
+      "journal": "Journal of Thoracic Disease",
+      "doi": "10.21037/jtd.2017.10.122",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Persistent air leak (PAL) is a cause of significant morbidity in patients who have undergone lung surgery and those with significant parenchymal lung disease suffering from a pneumothorax. Its management can be complex and challenging. Although conservative treatment with chest drain and observation is usually effective, other invasive techniques are needed when conservative treatment fails. Surgical management and medical pleurodesis have long been the usual treatments for PAL. More recently numerous bronchoscopic procedures have been introduced to treat PAL in those patients who are poor candidates for surgery or who decline surgery. These techniques include bronchoscopic use of sealants, sclerosants, and various types of implanted devices. Recently, removable one-way valves have been developed that are able to be placed bronchoscopically in the affected airways, ameliorating air-leaks in patients who are not candidates for surgery. Future comparative trials are needed to refine our understanding of the indications, effectiveness, and complications of bronchoscopic techniques for treating PAL. The following article will review the basic principles of management of PAL particularly focusing on bronchoscopic techniques.",
+      "methods": "Narrative review of persistent air leak definitions, epidemiology, and management strategies, with emphasis on bronchoscopic techniques; no formal systematic search or meta-analysis described.",
+      "results": "Key points summarized: incidence of PAL after lung volume reduction surgery approximately 46; after lobectomy ranges from 5.6 to 26. Postoperative PAL increases complications and length of stay (e.g., LVRS patients with PAL had complications 57 vs 30 with p=0.004 and length of stay 11.8 vs 7.6 days with p=0.0005). Post-resection cohorts show increased pneumonia and length of stay (14.2 vs 7.1 days with p<0.001) with low mortality 1.2. In mechanically ventilated patients, PAL incidence reported as 2.2 with high mortality 67 overall and 92 in non-trauma. Conservative management with water seal versus suction shows mixed RCT data; some trials suggest earlier chest tube removal and shorter stay with water seal. Chemical pleurodesis with tetracycline reduces recurrence overall but not effective for PAL subgroup; talc data limited. Autologous blood pleurodesis shows dose-related efficacy in one randomized trial. Bronchoscopic localization and therapies, including one-way valves, are discussed as options for non-surgical candidates; comparative trials are needed."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with persistent air leak after thoracic surgery, spontaneous pneumothorax, chest trauma, pulmonary infection, biopsy, or mechanical ventilation.",
+      "inclusion_criteria": [],
+      "exclusion_criteria": []
+    },
+    "intervention": {
+      "text": "Bronchoscopic management techniques for persistent air leak",
+      "details": "Localization of air leak and bronchoscopic therapies including removable one-way valves, sealants, sclerosants, and implanted devices; also discusses chemical pleurodesis and blood pleurodesis."
+    },
+    "comparison": {
+      "text": "Conservative and surgical management",
+      "details": "Chest tube with water seal or suction, outpatient one-way flutter valve, surgical repair including VATS or thoracotomy with pleurodesis."
+    },
+    "outcomes": [
+      {
+        "name": "Resolution of persistent air leak",
+        "type": "primary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Review",
+    "allocation": "none",
+    "blinding": "none",
+    "sites_count": 0,
+    "countries": [],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": []
+  },
+  "arms": [],
+  "outcomes_normalized": [],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "Not applicable",
+    "overall_judgment": "na",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "persistent air leak",
+      "bronchopleural fistula",
+      "alveolar-pleural fistula",
+      "bronchoscopy",
+      "intrabronchial valves",
+      "pleurodesis"
+    ],
+    "summary_tldr": "Narrative review describing epidemiology and management of persistent air leaks; highlights emerging bronchoscopic options such as intrabronchial valves for non-surgical candidates.",
+    "clinical_relevance": "Provides practical overview and evidence summary to guide selection among conservative, surgical, pleurodesis, and bronchoscopic interventions for persistent air leaks."
+  }
+}

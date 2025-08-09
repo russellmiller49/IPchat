@@ -1,0 +1,89 @@
+{
+  "source": {
+    "document_id": "Bronchoscopes of the Twenty-First Century",
+    "ingest_date": "2025-08-08T10:29:30.696841+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1016/j.ccm.2009.11.002"
+  },
+  "document": {
+    "metadata": {
+      "title": "Bronchoscopes of the Twenty-First Century",
+      "year": 2010,
+      "authors": [
+        "Lonny Yarmus",
+        "David Feller-Kopman"
+      ],
+      "journal": "Clinics in Chest Medicine",
+      "doi": "10.1016/j.ccm.2009.11.002",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "This narrative review summarizes the evolution and current state of rigid and flexible bronchoscopy technologies. It details innovations in rigid bronchoscope design, ventilation and monitoring approaches during rigid bronchoscopy, and advances in flexible bronchoscopy including endobronchial ultrasound (EBUS) for real-time transbronchial needle aspiration (TBNA), electromagnetic and virtual navigation for peripheral lung lesions, and imaging modalities such as autofluorescence bronchoscopy, narrow-band imaging, and confocal fluorescence microendoscopy. Clinical applications span lung cancer diagnosis and staging, sarcoidosis, and peripheral nodule sampling.",
+      "methods": "Narrative, non-systematic review of bronchoscopic technologies and applications, drawing on historical development, device characteristics, and selected clinical studies to illustrate diagnostic and therapeutic implications.",
+      "results": "Key developments include modular rigid bronchoscopes with multiport operator heads, integrated optics, and monitoring capabilities; jet ventilation and pressure/gas monitoring during rigid bronchoscopy; convex-probe EBUS bronchoscopes with dedicated TBNA needles enabling real-time nodal sampling for lung cancer staging and other diseases; and navigation techniques using electromagnetic guidance or CT-based virtual bronchoscopy enabling access to small peripheral nodules. Enhanced imaging modalities (autofluorescence, narrow-band imaging, confocal endomicroscopy) aim to improve detection of preinvasive and early neoplastic lesions."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Patients undergoing bronchoscopic evaluation or intervention for central airway obstruction, lung cancer diagnosis/staging, sarcoidosis, pulmonary emboli, or peripheral pulmonary nodules.",
+      "inclusion_criteria": [],
+      "exclusion_criteria": []
+    },
+    "intervention": {
+      "text": "Advanced bronchoscopic technologies (EBUS-TBNA, electromagnetic navigation, CT-based virtual bronchoscopy, autofluorescence bronchoscopy, narrow-band imaging, confocal fluorescence microendoscopy, modern rigid and flexible bronchoscopes).",
+      "details": "Device designs, technical specifications (eg, EBUS convex-probe with 7.5-MHz transducer; working channel sizes; scope diameters and angulation), and procedural considerations for diagnosis and therapy."
+    },
+    "comparison": {
+      "text": "Conventional approaches",
+      "details": "Standard white-light bronchoscopy, standard TBNA without ultrasound guidance, fluoroscopy-based localization, mediastinoscopy."
+    },
+    "outcomes": [
+      {
+        "name": "Diagnostic yield of bronchoscopic techniques",
+        "type": "primary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "narrative_review",
+    "allocation": "none",
+    "blinding": "none",
+    "sites_count": 0,
+    "countries": [],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": []
+  },
+  "arms": [],
+  "outcomes_normalized": [],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "Not applicable",
+    "overall_judgment": "not_applicable",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "bronchoscopy",
+      "rigid bronchoscopy",
+      "flexible bronchoscopy",
+      "endobronchial ultrasound",
+      "EBUS-TBNA",
+      "electromagnetic navigation",
+      "virtual bronchoscopy",
+      "autofluorescence bronchoscopy",
+      "narrow-band imaging",
+      "confocal fluorescence microendoscopy",
+      "lung cancer staging",
+      "sarcoidosis",
+      "peripheral pulmonary nodules"
+    ],
+    "summary_tldr": "Narrative review detailing modern bronchoscopic technologies, with EBUS enabling real-time nodal sampling and navigation/imaging advances improving access and detection.",
+    "clinical_relevance": "Provides clinicians with an overview of contemporary bronchoscopic tools and applications that can improve diagnostic yield and safety in lung cancer staging and evaluation of peripheral nodules and granulomatous disease."
+  }
+}

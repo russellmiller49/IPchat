@@ -1,0 +1,198 @@
+{
+  "source": {
+    "document_id": "Percutaneous Dilational Tracheostomy 2018",
+    "ingest_date": "2025-08-08T14:46:42.110612+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1016/j.ccm.2017.11.009"
+  },
+  "document": {
+    "metadata": {
+      "title": "Percutaneous Dilational Tracheostomy",
+      "year": 2018,
+      "authors": [
+        "Andrew D. Lerner",
+        "Lonny Yarmus"
+      ],
+      "journal": "Clinics in Chest Medicine",
+      "doi": "10.1016/j.ccm.2017.11.009",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Narrative review of percutaneous dilational tracheostomy (PDT) covering history, indications, timing, contraindications, training, preparation, and adjuncts (bronchoscopy and ultrasound). Summarizes evidence comparing early vs late tracheostomy and guidance modalities (ultrasound vs bronchoscopy), noting limited trial data and generally similar safety with experienced operators.",
+      "methods": "Narrative review; the article summarizes prospective and retrospective studies, randomized trials, and meta-analyses relevant to PDT indications, timing, techniques, and outcomes. No original patient enrollment or primary data collection was performed in this review.",
+      "results": "Key points: No mortality benefit for early vs late tracheostomy in large RCTs; early placement associated with reduced sedation use but more procedures performed. Two prospective trials compared real-time ultrasound guidance with bronchoscopy for PDT: a small RCT (n=23) found higher rate of initial midline puncture with ultrasound; a larger RCT (n=177) reported longer procedural time and higher desaturation with bronchoscopy, with similar success and complication rates overall. Data on ultrasound remain limited."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Critically ill adult patients requiring tracheostomy, typically for prolonged mechanical ventilation or upper airway obstruction; subset undergoing bedside percutaneous dilational tracheostomy.",
+      "inclusion_criteria": [
+        "Adults requiring tracheostomy",
+        "Candidates for bedside percutaneous dilational tracheostomy"
+      ],
+      "exclusion_criteria": [
+        "Cellulitis or deep tissue infection at insertion site",
+        "Uncorrectable coagulopathy",
+        "Severe hemodynamic or respiratory instability",
+        "Recent neck or mediastinal surgery",
+        "Complex neck anatomy precluding safe PDT"
+      ]
+    },
+    "intervention": {
+      "text": "Real-time ultrasound-guided percutaneous dilational tracheostomy",
+      "details": "Preprocedural scanning to identify landmarks and vasculature and real-time ultrasound guidance during introducer needle insertion; performed at bedside."
+    },
+    "comparison": {
+      "text": "Bronchoscopy-guided percutaneous dilational tracheostomy",
+      "details": "Bedside PDT performed under bronchoscopic visualization from within the trachea; standard-of-care comparator."
+    },
+    "outcomes": [
+      {
+        "name": "Initial midline puncture success",
+        "type": "primary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "RCT",
+    "allocation": "randomized",
+    "blinding": "open-label",
+    "sites_count": 1,
+    "countries": [],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 23,
+      "analyzed": 23
+    },
+    "analysis_populations": [
+      {
+        "name": "Randomized",
+        "description": "All randomized participants",
+        "n": 23
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "Ultrasound-guided PDT",
+      "n_randomized": 11,
+      "n_analyzed": 11,
+      "n_completed": 11
+    },
+    {
+      "arm_id": "control",
+      "name": "Bronchoscopy-guided PDT",
+      "n_randomized": 12,
+      "n_analyzed": 12,
+      "n_completed": 12
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "initial_midline_puncture_success_intraop",
+      "name": "Initial midline puncture success",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "PT0M",
+      "timepoint_label": "Intra-procedure",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 8,
+            "total": 11
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 1,
+            "total": 12
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": 0.644,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.0028,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Fisher's exact test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Randomized",
+        "missing_handling": "None"
+      },
+      "provenance": {
+        "pages": [
+          214
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "An initial midline puncture was achieved with greater success in the ultrasound arm (72.7% vs 8.3%)."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 8.727
+        },
+        "odds_ratio": {
+          "est": 29.333
+        },
+        "arr": 0.644,
+        "nnt": 1.6
+      }
+    }
+  ],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "RoB 2",
+    "overall_judgment": "some concerns",
+    "domains": [
+      {
+        "name": "Randomization process",
+        "judgment": "some concerns",
+        "support_for_judgment": "Randomized design stated in review; allocation concealment and sequence generation not described."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "low",
+        "support_for_judgment": "Open-label procedural comparison; outcomes unlikely to be affected by deviations."
+      },
+      {
+        "name": "Missing outcome data",
+        "judgment": "low",
+        "support_for_judgment": "All 23 randomized cases reported in review summary."
+      },
+      {
+        "name": "Measurement of the outcome",
+        "judgment": "some concerns",
+        "support_for_judgment": "Outcome (midline puncture) may involve operator assessment; blinding not feasible."
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "some concerns",
+        "support_for_judgment": "Review provides limited endpoints from the RCT; full protocol not available."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "percutaneous dilational tracheostomy",
+      "ultrasound guidance",
+      "bronchoscopy",
+      "critical care",
+      "mechanical ventilation"
+    ],
+    "summary_tldr": "In a small RCT of PDT guidance, real-time ultrasound increased initial midline puncture success versus bronchoscopy (8/11 vs 1/12).",
+    "clinical_relevance": "Ultrasound guidance may improve landmark puncture success during PDT; broader clinical outcomes appear similar but evidence is limited."
+  }
+}

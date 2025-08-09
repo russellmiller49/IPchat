@@ -1,0 +1,346 @@
+{
+  "source": {
+    "document_id": "Audit of the autoantibody test, EarlyCDT",
+    "ingest_date": "2025-08-08T10:05:04.017778+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1016/j.lungcan.2013.10.008"
+  },
+  "document": {
+    "metadata": {
+      "title": "Audit of the autoantibody test, EarlyCDT-Lung, in 1600 patients: An evaluation of its performance in routine clinical practice",
+      "year": 2014,
+      "authors": [
+        "James R. Jett",
+        "Laura J. Peek",
+        "Lynn Fredericks",
+        "William Jewell",
+        "William W. Pingleton",
+        "John F.R. Robertson"
+      ],
+      "journal": "Lung Cancer",
+      "doi": "10.1016/j.lungcan.2013.10.008",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Objectives: EarlyCDT-Lung may enhance detection of early stage lung cancer by aiding physicians in assessing high-risk patients through measurement of biological markers (i.e., autoantibodies). The test’s performance characteristics in routine clinical practice were evaluated by auditing clinical outcomes of 1613 US patients deemed at high risk for lung cancer by their physician, who ordered the EarlyCDT-Lung test for their patient. Methods: Clinical outcomes for all 1613 patients who provided HIPAA authorization are reported. Clinical data were collected from each patient’s treating physician. Pathology reports when available were reviewed for diagnostic classification. Staging was assessed on histology, otherwise on imaging. Results: Six month follow-up for the positives/negatives was 99%/93%. Sixty-one patients (4%) were identified with lung cancer, 25 of whom tested positive by EarlyCDT-Lung (sensitivity = 41%). A positive EarlyCDT-Lung test on the current panel was associated with a 5.4-fold increase in lung cancer incidence versus a negative. Importantly, 57% (8/14) of non-small cell lung cancers detected as positive (where stage was known) were stage I or II. Conclusions: EarlyCDT-Lung has been extensively tested and validated in case-control settings and has now been shown in this audit to perform in routine clinical practice as predicted. EarlyCDT-Lung may be a complementary tool to CT for detection of early lung cancer.",
+      "methods": "Audit population: The first 1699 patients for whom US physicians ordered EarlyCDT-Lung are described. Of these, 1613 (95%) signed a HIPAA authorization permitting disclosure of health information and were followed for clinical outcomes. Tests were ordered by 810 unique physicians in 720 practices across 48 US states. The EarlyCDT-Lung panel was modified in November 2010 from a 6 autoantibody (6AAB) panel to a 7 autoantibody (7AAB) panel to improve specificity. EarlyCDT-Lung assay: Autoantibodies to a panel of lung cancer-associated antigens were measured using a semi-automated indirect ELISA in a CLIA-certified laboratory. A result was positive if any one or more autoantibody levels were above the clinical cut-off with a dose response on titration. Audit plan: Demographic data were collected at test requisition. Clinical follow-up was obtained from treating physicians for patients who provided HIPAA authorization. Physicians of patients with positive tests were contacted immediately after reporting and followed until diagnosis or follow-up plan. All patients (regardless of test result) were queried at 6 months for cancer diagnoses. One positive case diagnosed just outside 6 months was included as the patient was under active investigation within 6 months. Statistical analyses: Sensitivity, specificity, and positive predictive value (PPV) were calculated. Comparisons between 6AAB and 7AAB panels used chi-squared tests. Confidence intervals were computed using the Clopper-Pearson method.",
+      "results": "Of 1613 consented patients, 14 had invalid results. Among 1599 valid tests, 222 (14%) were positive and 1377 (86%) were negative. By panel, 6AAB had 139/752 (18%) positives and 613/752 (82%) negatives; 7AAB had 83/847 (10%) positives and 764/847 (90%) negatives. Within 6 months, 61 patients (4%) were diagnosed with lung cancer: 25 positive (true positives) and 36 negative (false negatives), giving an overall sensitivity of 25/61 (41%). There were 1341/1538 non-cancer patients testing negative (true negatives) and 197 false positives, yielding overall specificity of 1341/1538 (87%). By panel, specificity improved with 7AAB vs 6AAB: 742/812 (91%) vs 599/726 (83%), p < 0.0001. Sensitivity did not differ significantly: 13/35 (37%) for 7AAB vs 12/26 (46%) for 6AAB, p = 0.5. PPV improved with 7AAB vs 6AAB: 13/83 (16%) vs 12/139 (9%). Among NSCLC cases detected as positive with known stage, 8/14 (57%) were stage I-II. Cancer histology among 61 cases: 46 NSCLC (32 adenocarcinoma, 14 squamous), 4 SCLC, 1 mixed NSCLC+SCLC, and 10 unknown type."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults in the United States deemed at high risk for lung cancer by their physician and for whom EarlyCDT-Lung was ordered in routine practice.",
+      "inclusion_criteria": [
+        "Physician judged high risk for lung cancer",
+        "EarlyCDT-Lung test ordered in clinical practice",
+        "Provided HIPAA authorization for outcomes follow-up"
+      ],
+      "exclusion_criteria": [
+        "Did not provide HIPAA authorization",
+        "Invalid EarlyCDT-Lung test result per laboratory SOPs"
+      ]
+    },
+    "intervention": {
+      "text": "EarlyCDT-Lung autoantibody blood test",
+      "details": "Indirect ELISA measurement of autoantibodies to lung cancer-associated antigens; initial 6AAB panel transitioned to 7AAB panel in Nov 2010; positive if any antigen exceeded clinical cut-off with titration dose-response."
+    },
+    "comparison": {
+      "text": "Comparison of test performance between panel versions",
+      "details": "Performance metrics (specificity, sensitivity, PPV) compared between 6AAB and 7AAB panels using chi-squared tests."
+    },
+    "outcomes": [
+      {
+        "name": "Specificity at 6 months among non-cancer patients",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Sensitivity at 6 months among lung cancer patients",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Positive predictive value (PPV) at 6 months",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Prospective observational audit (diagnostic accuracy)",
+    "allocation": "non-randomized",
+    "blinding": "none",
+    "sites_count": 720,
+    "countries": [
+      "US"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 1613,
+      "analyzed": 1599
+    },
+    "analysis_populations": [
+      {
+        "name": "HIPAA-consented",
+        "description": "All patients providing HIPAA authorization",
+        "n": 1613
+      },
+      {
+        "name": "Valid test results",
+        "description": "All patients with a valid EarlyCDT-Lung result",
+        "n": 1599
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "7AAB",
+      "name": "7 autoantibody (7AAB) EarlyCDT-Lung panel",
+      "n_randomized": 847,
+      "n_analyzed": 847,
+      "n_completed": 847
+    },
+    {
+      "arm_id": "6AAB",
+      "name": "6 autoantibody (6AAB) EarlyCDT-Lung panel",
+      "n_randomized": 752,
+      "n_analyzed": 752,
+      "n_completed": 752
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "specificity_true_negative_non_cancer_6m",
+      "name": "Specificity (true negatives among non-cancer) at 6 months",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P6M",
+      "timepoint_label": "6 months",
+      "groups": [
+        {
+          "arm_id": "7AAB",
+          "raw": {
+            "events": 742,
+            "total": 812
+          }
+        },
+        {
+          "arm_id": "6AAB",
+          "raw": {
+            "events": 599,
+            "total": 726
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "6AAB",
+        "measure": "risk_difference",
+        "est": 0.088,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.0001,
+        "p_operator": "<",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Chi-squared test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Non-cancer patients with valid test results",
+        "missing_handling": "Excluded invalid test results"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [
+          "Table 3",
+          "Figure 1"
+        ],
+        "table_number": 3,
+        "quote": "The 7AAB panel shows a highly statistically significant improvement in specificity of EarlyCDT-Lung (p < 0.0001)... 91% specificity for the 7AAB panel (742 true negatives and 70 false positives) and 83% specificity for the 6AAB panel (599 true negatives and 127 false positives)."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 1.108
+        },
+        "odds_ratio": {
+          "est": 2.247
+        },
+        "arr": 0.089,
+        "nnt": 11.3
+      }
+    },
+    {
+      "concept_id": "sensitivity_true_positive_cancer_6m",
+      "name": "Sensitivity (true positives among lung cancers) at 6 months",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P6M",
+      "timepoint_label": "6 months",
+      "groups": [
+        {
+          "arm_id": "7AAB",
+          "raw": {
+            "events": 13,
+            "total": 35
+          }
+        },
+        {
+          "arm_id": "6AAB",
+          "raw": {
+            "events": 12,
+            "total": 26
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "6AAB",
+        "measure": "risk_difference",
+        "est": -0.085,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.5,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Chi-squared test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Patients diagnosed with lung cancer within 6 months with valid test results",
+        "missing_handling": "Excluded invalid test results"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [
+          "Table 3",
+          "Figure 1"
+        ],
+        "table_number": 3,
+        "quote": "The sensitivities of the 6AAB and 7AAB panels were not statistically different (p = 0.5): 46% (12 true positives and 14 false negatives) versus 37% (13 true positives and 22 false negatives), respectively."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.805
+        },
+        "odds_ratio": {
+          "est": 0.689
+        },
+        "arr": -0.09,
+        "nnh": 11.1
+      }
+    },
+    {
+      "concept_id": "ppv_lung_cancer_among_positives_6m",
+      "name": "Positive predictive value (lung cancer among positive tests) at 6 months",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P6M",
+      "timepoint_label": "6 months",
+      "groups": [
+        {
+          "arm_id": "7AAB",
+          "raw": {
+            "events": 13,
+            "total": 83
+          }
+        },
+        {
+          "arm_id": "6AAB",
+          "raw": {
+            "events": 12,
+            "total": 139
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "6AAB",
+        "measure": "risk_difference",
+        "est": 0.069,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive comparison",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Patients with positive EarlyCDT-Lung tests (by panel)",
+        "missing_handling": "Excluded invalid test results"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [
+          "Table 3",
+          "Figure 1"
+        ],
+        "quote": "The improvement in PPV offered by the 7AAB panel was nearly 2× better than the previous 6AAB panel: 16% (1 in 6.4) for the 7AAB panel versus 9% (1 in 11.6) for the 6AAB panel."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 1.814
+        },
+        "odds_ratio": {
+          "est": 1.965
+        },
+        "arr": 0.07,
+        "nnt": 14.2
+      }
+    }
+  ],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "ROBINS-I",
+    "overall_judgment": "unclear",
+    "domains": [
+      {
+        "name": "Confounding",
+        "judgment": "serious",
+        "support_for_judgment": "Observational audit without randomization; patient selection based on physician judgment of risk."
+      },
+      {
+        "name": "Selection of participants",
+        "judgment": "moderate",
+        "support_for_judgment": "Only patients whose physicians ordered the test and who provided HIPAA authorization were included."
+      },
+      {
+        "name": "Classification of interventions",
+        "judgment": "low",
+        "support_for_judgment": "Exposure (panel version) determined by calendar time; test performed in a single CLIA lab with predefined cut-offs."
+      },
+      {
+        "name": "Measurement of outcomes",
+        "judgment": "moderate",
+        "support_for_judgment": "Cancer diagnoses obtained from treating physicians; mixture of histology and imaging-based diagnoses."
+      },
+      {
+        "name": "Missing data",
+        "judgment": "low",
+        "support_for_judgment": "High follow-up at 6 months (positives 99%, negatives 93%); invalid tests excluded from performance analyses."
+      },
+      {
+        "name": "Selective reporting",
+        "judgment": "unclear",
+        "support_for_judgment": "Audit report focuses on predefined performance metrics, but no preregistration."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "EarlyCDT-Lung",
+      "autoantibodies",
+      "lung cancer",
+      "diagnostic accuracy",
+      "screening",
+      "ELISA",
+      "biomarkers"
+    ],
+    "summary_tldr": "In a 1,599-patient clinical audit, the updated 7AAB EarlyCDT-Lung panel improved specificity to 91% vs 83% for 6AAB (p<0.0001) with similar sensitivity (37% vs 46%, p=0.5), and higher PPV (16% vs 9%) for lung cancer within 6 months.",
+    "clinical_relevance": "EarlyCDT-Lung may complement CT by increasing post-test probability of lung cancer in high-risk patients, improving specificity while maintaining sensitivity in routine practice."
+  }
+}

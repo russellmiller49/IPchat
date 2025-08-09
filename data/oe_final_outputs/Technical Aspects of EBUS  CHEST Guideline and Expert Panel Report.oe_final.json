@@ -1,0 +1,124 @@
+{
+  "source": {
+    "document_id": "Technical Aspects of EBUS  CHEST Guideline and Expert Panel Report",
+    "ingest_date": "2025-08-08T16:11:13.984724+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1378/chest.15-1216"
+  },
+  "document": {
+    "metadata": {
+      "title": "Technical Aspects of Endobronchial Ultrasound-Guided Transbronchial Needle Aspiration: CHEST Guideline and Expert Panel Report",
+      "year": 2016,
+      "authors": [
+        "Momen M. Wahidi",
+        "Felix Herth",
+        "Kazuhiro Yasufuku",
+        "Ray Wesley Shepherd",
+        "Lonny Yarmus",
+        "Mohit Chawla",
+        "Carla Lamb",
+        "Kenneth R. Casey",
+        "Sheena Patel",
+        "Gerard A. Silvestri",
+        "David J. Feller-Kopman"
+      ],
+      "journal": "CHEST",
+      "doi": "10.1378/chest.15-1216",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "BACKGROUND: Endobronchial ultrasound (EBUS) was introduced in the last decade, enabling real-time guidance of transbronchial needle aspiration (TBNA) of mediastinal and hilar structures and parabronchial lung masses. The many publications produced about EBUS-TBNA have led to a better understanding of the performance characteristics of this procedure. The goal of this document was to examine the current literature on the technical aspects of EBUS-TBNA as they relate to patient, technology, and proceduralist factors to provide evidence-based and expert guidance to clinicians. METHODS: Rigorous methodology has been applied to provide a trustworthy evidence-based guideline and expert panel report. A group of approved panelists developed key clinical questions by using the PICO (population, intervention, comparator, and outcome) format that addressed specific topics on the technical aspects of EBUS-TBNA. MEDLINE (via PubMed) and the Cochrane Library were systematically searched for relevant literature, which was supplemented by manual searches. References were screened for inclusion, and well-recognized document evaluation tools were used to assess the quality of included studies, to extract meaningful data, and to grade the level of evidence to support each recommendation or suggestion. RESULTS: Our systematic review and critical analysis of the literature on 15 PICO questions related to the technical aspects of EBUS-TBNA resulted in 12 statements: 7 evidence-based graded recommendations and 5 ungraded consensus-based statements. Three questions did not have sufficient evidence to generate a statement. CONCLUSIONS: Evidence on the technical aspects of EBUS-TBNA varies in strength but is satisfactory in certain areas to guide clinicians on the best conditions to perform EBUS-guided tissue sampling. Additional research is needed to enhance our knowledge regarding the optimal performance of this effective procedure.",
+      "methods": "A multidisciplinary panel approved by the CHEST Guidelines Oversight Committee developed 15 key clinical questions in PICO format addressing technical aspects of linear EBUS-TBNA, including sedation, airway management, ultrasonographic features of lymph nodes, suction, needle size, number of needle passes, rapid on-site cytologic evaluation (ROSE), molecular marker testing, scope insertion route, balloon use, simulation training, performance metrics, and diagnostic accuracy in sarcoidosis, tuberculosis, and lymphoma. Systematic searches (MEDLINE via PubMed and the Cochrane Library) were conducted in July 2014 (KQ 1-12) and October 2014 (KQ 13-15) without restrictions on language, design, or date, supplemented by manual reference screening. Dual independent screening (title/abstract and full-text) and data extraction were performed with disagreements resolved by discussion. Risk of bias was assessed using the Cochrane Risk of Bias Tool for randomized trials, the Cochrane Bias Methods Group Tool for cohort studies, and the Documentation and Appraisal Review Tool for existing systematic reviews. When appropriate, meta-analyses were conducted using Review Manager (version 5.1). Heterogeneity was evaluated with chi-square tests and Higgins’ I2 (I2 ≥ 50% and P < 0.05 indicating significant heterogeneity). Evidence profiles were created using GRADEpro to rate certainty and inform recommendation strength.",
+      "results": "The review addressed 15 PICO questions and generated 12 statements: seven graded evidence-based recommendations and five ungraded consensus-based statements. Key recommendations included: either moderate or deep sedation is acceptable; ultrasonographic lymph node features can inform likelihood of malignancy but do not replace tissue sampling; suction use is optional; both 21- and 22-gauge needles are acceptable; in the absence of ROSE for suspected lung cancer diagnosis, a minimum of three passes per site is suggested; diagnostic sampling can be performed with or without ROSE; obtain additional samples for molecular analysis in suspected or known non-small cell lung cancer; incorporate simulation in training; use validated EBUS skills assessments; EBUS-TBNA is recommended for diagnosis in suspected sarcoidosis and tuberculosis with mediastinal/hilar adenopathy; EBUS-TBNA is acceptable as an initial minimally invasive test in suspected lymphoma. Prior CHEST lung cancer guidelines cited a median sensitivity of 89 and a median negative predictive value of 91 for mediastinal staging by EBUS-TBNA, supporting ultrasound-guided needle techniques over initial surgical staging."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults undergoing or being evaluated for endobronchial ultrasound-guided transbronchial needle aspiration (EBUS-TBNA) for mediastinal/hilar lymph node or parabronchial mass sampling; operators undergoing EBUS-TBNA training and assessment.",
+      "inclusion_criteria": [
+        "Studies of patients undergoing EBUS-TBNA procedures",
+        "Studies of EBUS-TBNA operators for training and performance metrics",
+        "Designs including RCTs, cohort, case-control, case series, prospective and retrospective studies"
+      ],
+      "exclusion_criteria": [
+        "None specified in searches; no limits on language, design, or publication date"
+      ]
+    },
+    "intervention": {
+      "text": "Technical and procedural aspects of linear EBUS-TBNA",
+      "details": "Deep or moderate sedation; use of artificial airways; assessment of ultrasonographic lymph node features; use or avoidance of suction; needle size 21-gauge vs 22-gauge; ≥3 vs <3 needle passes; use or avoidance of ROSE; obtaining additional samples for molecular testing; scope insertion via mouth vs nose; routine use vs no use of balloon; simulation-based training; use of validated performance metrics; use of EBUS-TBNA for diagnosis in sarcoidosis, tuberculosis, and suspected lymphoma."
+    },
+    "comparison": {
+      "text": "Alternative technical approaches or absence of specific techniques",
+      "details": "Moderate vs deep sedation; artificial airway vs none; presence vs absence of specific ultrasonographic features; suction vs no suction; 21-gauge vs 22-gauge needle; ≥3 vs <3 passes; ROSE vs no ROSE; surgical or radiographic specimens for molecular testing; oral vs nasal insertion; balloon use vs no balloon; conventional training vs simulation; performance testing vs none; other diagnostic approaches where applicable."
+    },
+    "outcomes": [
+      {
+        "name": "Diagnostic yield/accuracy of EBUS-TBNA",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Patient comfort",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Adequacy for molecular marker testing",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Operator performance/competency",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Systematic review and guideline",
+    "allocation": "not_applicable",
+    "blinding": "not_applicable",
+    "sites_count": 0,
+    "countries": [],
+    "sample_size": {
+      "planned": null,
+      "enrolled": null,
+      "analyzed": null
+    },
+    "analysis_populations": []
+  },
+  "arms": [],
+  "outcomes_normalized": [],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "Cochrane Risk of Bias (trials), Cochrane Bias Methods Group Tool (cohorts), DART for existing systematic reviews; GRADE for certainty of evidence",
+    "overall_judgment": "not_applicable",
+    "domains": [
+      {
+        "name": "Applicability to guideline context",
+        "judgment": "low_concern",
+        "support_for_judgment": "Standardized systematic methods with dual screening/extraction and predefined PICO questions; GRADE used for evidence certainty and recommendation grading."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "endobronchial ultrasound",
+      "EBUS-TBNA",
+      "transbronchial needle aspiration",
+      "ROSE",
+      "needle gauge",
+      "ultrasonographic features",
+      "sedation",
+      "molecular testing",
+      "simulation training",
+      "sarcoidosis",
+      "tuberculosis",
+      "lymphoma"
+    ],
+    "summary_tldr": "CHEST guideline synthesizes evidence on technical aspects of EBUS-TBNA and issues graded recommendations (e.g., 21- or 22-gauge needles acceptable; ROSE optional; ≥3 passes without ROSE; EBUS-TBNA recommended for sarcoidosis and TB diagnosis).",
+    "clinical_relevance": "Provides practical, evidence-backed guidance to optimize EBUS-TBNA diagnostic yield, training, and sample adequacy for contemporary lung cancer care and granulomatous diseases."
+  }
+}

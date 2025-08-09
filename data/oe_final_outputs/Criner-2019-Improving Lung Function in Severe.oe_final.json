@@ -1,0 +1,351 @@
+{
+  "source": {
+    "document_id": "Criner-2019-Improving Lung Function in Severe",
+    "ingest_date": "2025-08-08T11:09:53.513119+00:00",
+    "trial_registration_id": "NCT01812447",
+    "pmid": "",
+    "doi": "10.1164/rccm.201902-0383OC"
+  },
+  "document": {
+    "metadata": {
+      "title": "Improving Lung Function in Severe Heterogeneous Emphysema with the Spiration Valve System (EMPROVE): A Multicenter, Open-Label Randomized Controlled Clinical Trial",
+      "year": 2019,
+      "authors": [
+        "Gerard J. Criner",
+        "Antoine Delage",
+        "Kirk Voelker",
+        "D. Kyle Hogarth",
+        "Adnan Majid",
+        "Michael Zgoda",
+        "Donald R. Lazarus",
+        "Roberto Casal",
+        "Sadia B. Benzaquen",
+        "Robert C. Holladay",
+        "Adam Wellikoff",
+        "Karel Calero",
+        "Mark J. Rumbak",
+        "Paul R. Branca",
+        "Muhanned Abu-Hijleh",
+        "Jorge M. Mallea",
+        "Ravi Kalhan",
+        "Ashutosh Sachdeva",
+        "C. Matthew Kinsey",
+        "Carla R. Lamb",
+        "Michael F. Reed",
+        "Wissam B. Abouzgheib",
+        "Phillip V. Kaplan",
+        "Gregory X. Marrujo",
+        "David W. Johnstone",
+        "Mario G. Gasparri",
+        "Arturo A. Meade",
+        "Christopher A. Hergott",
+        "Chakravarthy Reddy",
+        "Richard A. Mularski",
+        "Amy Hajari Case",
+        "Samir S. Makani",
+        "Ray W. Shepherd",
+        "Benson Chen",
+        "Gregory E. Holt",
+        "Simon Martel"
+      ],
+      "journal": "American Journal of Respiratory and Critical Care Medicine",
+      "doi": "10.1164/rccm.201902-0383OC",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Rationale: Less invasive, nonsurgical approaches are needed to treat severe emphysema. Objectives: To evaluate the effectiveness and safety of the Spiration Valve System (SVS) versus optimal medical management. Methods: In this multicenter, open-label, randomized, controlled trial, subjects aged 40 years or older with severe, heterogeneous emphysema were randomized 2:1 to SVS with medical management (treatment) or medical management alone (control). Measurements and Main Results: The primary efficacy outcome was the difference in mean FEV1 from baseline to 6 months. Secondary effectiveness outcomes included: difference in FEV1 responder rates, target lobe volume reduction, hyperinflation, health status, dyspnea, and exercise capacity. The primary safety outcome was the incidence of composite thoracic serious adverse events. All analyses were conducted by determining the 95% Bayesian credible intervals (BCIs) for the difference between treatment and control arms. Between October 2013 and May 2017, 172 participants (53.5% male; mean age, 67.4 yr) were randomized to treatment (n = 113) or control (n = 59). Mean FEV1 showed statistically significant improvements between the treatment and control groups—between-group difference at 6 and 12 months, respectively, of 0.101 L (95% BCI, 0.060-0.141) and 0.099 L (95% BCI, 0.048-0.151). At 6 months, the treatment group had statistically significant improvements in all secondary endpoints except 6-minute-walk distance. Composite thoracic serious adverse event incidence through 6 months was greater in the treatment group (31.0% vs. 11.9%), primarily due to a 12.4% incidence of serious pneumothorax. Conclusions: In patients with severe heterogeneous emphysema, the SVS shows significant improvement in multiple efficacy outcomes, with an acceptable safety profile. Clinical trial registered with www.clinicaltrials.gov (NCT01812447).",
+      "methods": "The EMPROVE study was a prospective, open-label, randomized, controlled, multicenter trial to assess the safety and efficacy of the Spiration Valve System (SVS) in participants with severe heterogeneous emphysema. Participants aged 40 years or older with severe dyspnea (mMRC >2), post-bronchodilator FEV1 <45% predicted, hyperinflation (TLC >100% predicted and RV >150% predicted), and heterogeneous emphysema with >40% destruction in the target lobe and >10% severity difference versus the ipsilateral lobe were eligible. Target and ipsilateral lobes required an intact fissure visually >90% complete with no segmental vessels crossing (assessed by CT core lab). Participants were randomized 2:1 to SVS plus optimal medical management versus optimal medical management alone. Treatment entailed bronchoscopic unilobar total occlusion using SVS valves sized by an airway sizing system (5-9 mm) to occlude all segments of the selected lobe. Follow-up occurred at 2 weeks, 1, 3, and 6 months, and annually. The primary effectiveness endpoint was mean change in post-bronchodilator FEV1 from baseline to 6 months between groups; 12-month results were also evaluated. Secondary endpoints included FEV1 responder rate (≥15% improvement), target lobe volume reduction (QCT, treatment only), RV/TLC, SGRQ, mMRC, and 6MWT. The primary safety endpoint was the incidence of prespecified composite thoracic SAEs through 6 months. Analyses used Bayesian methods with 95% credible intervals; missing data handled by Bayesian multiple imputation.",
+      "results": "From October 8, 2013 to May 3, 2017, 172 participants were randomized at 31 clinical sites (113 treatment, 59 control). Enrollment was stopped early when the predictive probability of success exceeded 0.999. By 6 months, 6 treatment subjects had died and 107 had an evaluable visit; in the control group, 1 subject had died and 50 had an evaluable visit. At 12 months, evaluable visits included 96 treatment and 43 control subjects. The between-group difference in mean FEV1 change favored SVS at 6 months by 0.101 L (95% BCI, 0.060-0.141) and at 12 months by 0.099 L (95% BCI, 0.048-0.151). At 6 months, the treatment group showed significant improvements in all secondary endpoints except 6MWD. Composite thoracic SAE incidence through 6 months was higher with SVS (31.0% vs 11.9%), largely due to serious pneumothorax (12.4%)."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults ≥40 years with severe heterogeneous emphysema and hyperinflation eligible for bronchoscopic lung volume reduction based on HRCT fissure integrity.",
+      "inclusion_criteria": [
+        "Age ≥40 years",
+        "Stable COPD managed per ATS/ERS guidelines",
+        "6-minute-walk test distance >140 m",
+        "Severe dyspnea (mMRC >2)",
+        "Post-bronchodilator FEV1 <45% predicted",
+        "TLC >100% predicted",
+        "RV >150% predicted",
+        ">40% emphysema destruction in target lobe (at -920 HU threshold)",
+        ">10% emphysema severity difference vs ipsilateral lobe",
+        "Intact fissure(s) adjacent to target lobe >90% complete with no segmental vessels crossing (by CT core lab)"
+      ],
+      "exclusion_criteria": []
+    },
+    "intervention": {
+      "text": "Spiration Valve System (SVS) with optimal medical management",
+      "details": "Bronchoscopic unilobar total occlusion of a single target lobe using SVS one-way valves sized 5-9 mm to occlude lobar/segmental/subsegmental airways; target lobe selection guided by HRCT (and perfusion if needed); post-procedure hospitalization ≥1 day."
+    },
+    "comparison": {
+      "text": "Optimal medical management alone",
+      "details": "Guideline-based COPD care including inhaled therapies, pulmonary rehabilitation as indicated, and oxygen as prescribed."
+    },
+    "outcomes": [
+      {
+        "name": "Mean change in post-bronchodilator FEV1 from baseline to 6 months",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "FEV1 responder rate (≥15% improvement) at 6 months",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Target lobe volume reduction (QCT) at 6 months (treatment only)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Hyperinflation (RV/TLC) at 6 months",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "SGRQ total score at 6 months",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "mMRC dyspnea score at 6 months",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "6-minute walk distance at 6 months",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Composite thoracic serious adverse events through 6 months",
+        "type": "safety",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "RCT",
+    "allocation": "randomized",
+    "blinding": "open-label",
+    "sites_count": 31,
+    "countries": [
+      "US",
+      "Canada"
+    ],
+    "sample_size": {
+      "planned": 220,
+      "enrolled": 172,
+      "analyzed": 157
+    },
+    "analysis_populations": [
+      {
+        "name": "ITT",
+        "description": "All randomized",
+        "n": 172
+      },
+      {
+        "name": "Evaluable at 6 months",
+        "description": "Participants with evaluable 6-month visit",
+        "n": 157
+      },
+      {
+        "name": "Evaluable at 12 months",
+        "description": "Participants with evaluable 12-month visit",
+        "n": 139
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "Spiration Valve System plus optimal medical management",
+      "n_randomized": 113,
+      "n_analyzed": 107,
+      "n_completed": 96
+    },
+    {
+      "arm_id": "control",
+      "name": "Optimal medical management alone",
+      "n_randomized": 59,
+      "n_analyzed": 50,
+      "n_completed": 43
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "fev1_absolute_change_6m",
+      "name": "Absolute change in post-bronchodilator FEV1 from baseline",
+      "type": "continuous",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P6M",
+      "unit": "L",
+      "unit_canonical": "liter",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "total": 107
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "total": 50
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "mean_difference",
+        "est": 0.101,
+        "ci_lower": 0.06,
+        "ci_upper": 0.141,
+        "ci_level": 0.95,
+        "adjusted": true
+      },
+      "analysis": {
+        "model": "Bayesian model for between-group difference with multiple imputation for missing data",
+        "adjusted": true,
+        "covariates": [],
+        "population": "ITT with Bayesian multiple imputation",
+        "missing_handling": "Bayesian multiple imputation"
+      },
+      "provenance": {
+        "pages": [
+          1354
+        ],
+        "tables": [],
+        "quote": "Mean FEV1 showed statistically significant improvements between the treatment and control groups—between-group difference at 6 and 12 months, respectively, of 0.101 L (95% BCI, 0.060-0.141) and 0.099 L (95% BCI, 0.048-0.151)."
+      }
+    },
+    {
+      "concept_id": "fev1_absolute_change_12m",
+      "name": "Absolute change in post-bronchodilator FEV1 from baseline",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P12M",
+      "unit": "L",
+      "unit_canonical": "liter",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "total": 96
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "total": 43
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "mean_difference",
+        "est": 0.099,
+        "ci_lower": 0.048,
+        "ci_upper": 0.151,
+        "ci_level": 0.95,
+        "adjusted": true
+      },
+      "analysis": {
+        "model": "Bayesian model for between-group difference",
+        "adjusted": true,
+        "covariates": [],
+        "population": "ITT with Bayesian multiple imputation",
+        "missing_handling": "Bayesian multiple imputation"
+      },
+      "provenance": {
+        "pages": [
+          1354
+        ],
+        "tables": [],
+        "quote": "Between-group difference at 6 and 12 months, respectively, of 0.101 L (95% BCI, 0.060-0.141) and 0.099 L (95% BCI, 0.048-0.151)."
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Death",
+      "meddra": {
+        "soc": "General disorders and administration site conditions",
+        "pt": "Death"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "death"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 6,
+          "patients": 6,
+          "percentage": 5.3,
+          "total": 113
+        },
+        {
+          "arm_id": "control",
+          "events": 1,
+          "patients": 1,
+          "percentage": 1.7,
+          "total": 59
+        }
+      ],
+      "period": "0-6 months",
+      "management": "",
+      "provenance": {
+        "pages": [
+          1356
+        ],
+        "tables": [],
+        "quote": "By 6 months in the treatment group, 6 subjects had died... In the control group (n = 59), 8 participants withdrew and 1 died, leaving 50 evaluable subjects at 6 months."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "RoB 2",
+    "overall_judgment": "some concerns",
+    "domains": [
+      {
+        "name": "Randomization process",
+        "judgment": "low",
+        "support_for_judgment": "Central randomization with prespecified 2:1 allocation."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "high",
+        "support_for_judgment": "Open-label design could influence co-interventions and patient behavior."
+      },
+      {
+        "name": "Missing outcome data",
+        "judgment": "some concerns",
+        "support_for_judgment": "Deaths and withdrawals occurred; Bayesian multiple imputation used."
+      },
+      {
+        "name": "Measurement of the outcome",
+        "judgment": "low",
+        "support_for_judgment": "Spirometry is objective and standardized."
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "low",
+        "support_for_judgment": "Outcomes prespecified; trial registered (NCT01812447)."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "emphysema",
+      "Spiration Valve System",
+      "bronchoscopic lung volume reduction",
+      "endobronchial valve",
+      "randomized controlled trial"
+    ],
+    "summary_tldr": "In severe heterogeneous emphysema, the Spiration Valve System improved FEV1 versus medical management at 6 and 12 months with acceptable safety.",
+    "clinical_relevance": "Demonstrates clinically meaningful improvements in lung function and symptoms using bronchoscopic valve therapy guided by HRCT fissure integrity."
+  }
+}

@@ -1,0 +1,399 @@
+{
+  "source": {
+    "document_id": "Xie-2022-Microwave ablation via a flexible cat",
+    "ingest_date": "2025-08-08T16:56:08.180298+00:00",
+    "trial_registration_id": "NCT02972177",
+    "pmid": "",
+    "doi": "10.1111/1759-7714.14351"
+  },
+  "document": {
+    "metadata": {
+      "title": "Microwave ablation via a flexible catheter for the treatment of nonsurgical peripheral lung cancer: A pilot study",
+      "year": 2022,
+      "authors": [
+        "Fangfang Xie",
+        "Junxiang Chen",
+        "Yifeng Jiang",
+        "Jiayuan Sun",
+        "D. Kyle Hogarth",
+        "Felix J. F. Herth"
+      ],
+      "journal": "Thoracic Cancer",
+      "doi": "10.1111/1759-7714.14351",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Background: Endobronchial microwave ablation via flexible catheter offers the potential for local therapy for inoperable peripheral lung cancer. The study aimed to evaluate the feasibility and safety of navigation bronchoscopy-guided water-cooled microwave ablation catheter for nonsurgical peripheral lung cancer. Methods: This was a prospective single arm pilot study. Patients with early stage or multiple primary peripheral lung cancer who were nonsurgical candidates for surgery were enrolled in the study. Bronchoscopic microwave ablation was performed via a flexible water-cooled microwave ablation antenna under the guidance of navigation bronchoscopy. Radial probe endobronchial ultrasound combined with fluoroscopy was used to confirm the position. Treatment outcomes were evaluated based on follow-up chest CT and positron emission tomography scans. Primary endpoints were technical success and safety. Secondary endpoints were complete ablation rate, 2-year local control rate, and progression-free survival. Results: Thirteen patients were enrolled in the study from April 2018 to July 2019. A total of 19 sessions of microwave ablation were performed on 14 tumors under the guidance of navigation bronchoscopy. The technical success was 100%. Treatment-related complications occurred in two patients. The complete ablation rate was 78.6% (11/14). The 2-year local control rate was 71.4%. Median progression-free survival was 33 months for all patients. Conclusions: In this pilot study, bronchoscopic microwave ablation appears to be feasible with acceptable occurrence of complication in the treatment of peripheral lung cancer under the guidance of navigation bronchoscopy.",
+      "methods": "This prospective single arm pilot study was approved by the local ethics committee (KS1737) and registered at ClinicalTrials.gov (NCT02972177). Adults with pathologically confirmed peripheral lung cancers (clinical stage I per the 8th TNM) or multiple primary lung cancers (≤5 tumors, no nodal or distant metastases) who were ineligible for surgery or refused surgery were enrolled. Key exclusions were severe cardiopulmonary dysfunction or anesthesia contraindications, lack of bronchoscopic access to the lesion, or adjacency to large vessels/critical structures. Procedures were performed under general anesthesia via flexible bronchoscope with electromagnetic navigation bronchoscopy (ENB) or bronchoscopic transparenchymal nodule access (BTPNA) as needed. Radial probe endobronchial ultrasound (R-EBUS) and fluoroscopy confirmed lesion position. A flexible water-cooled microwave ablation (MWA) antenna was introduced through a peripheral catheter; power 50-80 W for 3-10 min per cycle, with additional cycles/paths for coverage. Post-procedure fluoroscopy screened for pneumothorax. Chest CT was obtained within 24-72 h. Follow-up contrast-enhanced CT occurred at 1 month and every 3 months for 2 years; PET-CT at 3 months assessed ablation efficacy. If inadequate at 3 months, repeat MWA was performed. Tumor response at 3 months was categorized as complete ablation, incomplete ablation, or local progression based on CT/PET-CT features by a multidisciplinary team. Primary endpoints: technical success (correct instrument placement and planned ablation completion) and safety (treatment-related complications within 30 days; CTCAE v4.0). Secondary endpoints: complete ablation rate (per lesion), 2-year local control rate, and progression-free survival (PFS). Survival and local control were estimated via Kaplan-Meier; median follow-up via reverse Kaplan-Meier.",
+      "results": "Thirteen patients (median age 72, range 58-83) with 14 tumors (11 adenocarcinomas, 2 squamous cell carcinomas, 1 small cell lung cancer; mean long-axis 20.4 ± 5.7 mm) underwent 19 MWA sessions. Technical success was 100% (19/19). Mean ablation time per session was 13.8 ± 5.9 min; operation time 46.9 ± 18.8 min. One patient received systemic therapy post-ablation; no others received additional treatment. No procedure-related deaths occurred. Treatment-related complications occurred in 2 patients (grade 2): hydropneumothorax 15 days post-ablation managed with chest tube and antibiotics, and pneumothorax 4 h post-ablation managed with chest tube; session-level complication rate 10.5% (2/19). Of 14 tumors, complete ablation occurred in 11, incomplete in 1, and local progression in 2; complete ablation rate 78.6% (11/14). The 2-year local control rate was 71.4% with median follow-up 33 months (95% CI 30.6-35.4). Median PFS was 33 months (95% CI 15.0-51.0)."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with peripherally located early-stage lung cancer or multiple primary lung cancers who were nonsurgical candidates or refused surgery, without nodal or distant metastases.",
+      "inclusion_criteria": [
+        "Age ≥18 years",
+        "Pathologically confirmed peripheral lung cancer, clinical stage I (8th TNM), or multiple primary lung cancer (synchronous or prior history) with ≤5 tumors",
+        "No lymph node or distant metastases",
+        "Largest lesion size ≥8 mm and ≤40 mm on chest CT",
+        "Ineligible for surgery or refusal of surgery and consented to ablation",
+        "Good medical adherence",
+        "Signed informed consent"
+      ],
+      "exclusion_criteria": [
+        "Severe cardiopulmonary dysfunction or other contraindication to bronchoscopy",
+        "Contraindication to anesthesia",
+        "Lack of bronchoscopic access to the peripheral tumor on CT/bronchoscopy",
+        "Presence of large blood vessels or important structures adjacent to the lesion"
+      ]
+    },
+    "intervention": {
+      "text": "Navigation bronchoscopy-guided endobronchial water-cooled microwave ablation via flexible catheter",
+      "details": "Under general anesthesia, ENB or BTPNA guidance to lesion; position confirmed by R-EBUS and fluoroscopy. Flexible water-cooled MWA antenna delivered through peripheral catheter. Power 50-80 W for 3-10 min per cycle; multiple cycles/paths as needed to cover tumor. Immediate fluoroscopy post-ablation to detect pneumothorax. Follow-up CT within 24-72 h, then serial CT and PET-CT at 3 months."
+    },
+    "comparison": {
+      "text": "None (single-arm study)",
+      "details": "No control or comparator arm"
+    },
+    "outcomes": [
+      {
+        "name": "Technical success per session",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Safety: treatment-related complications within 30 days",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Complete ablation rate per lesion at 3 months",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "2-year local control rate",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Progression-free survival",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Prospective single-arm pilot study",
+    "allocation": "nonrandomized",
+    "blinding": "open-label",
+    "sites_count": 1,
+    "countries": [
+      "China"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 13,
+      "analyzed": 13
+    },
+    "analysis_populations": [
+      {
+        "name": "All treated patients",
+        "description": "All patients who underwent MWA",
+        "n": 13
+      },
+      {
+        "name": "All sessions",
+        "description": "All MWA sessions performed",
+        "n": 19
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "Navigation bronchoscopy-guided bronchoscopic microwave ablation",
+      "n_randomized": 0,
+      "n_analyzed": 13,
+      "n_completed": 13
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "technical_success_session",
+      "name": "Technical success per ablation session",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Intra-procedural",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 19,
+            "total": 19
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Descriptive proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All sessions",
+        "missing_handling": "Not applicable"
+      },
+      "provenance": {
+        "pages": [
+          1016
+        ],
+        "tables": [],
+        "table_number": 0,
+        "quote": "There was a technical success rate of 100% (19/19) in all tumors."
+      }
+    },
+    {
+      "concept_id": "any_treatment_related_complication_30d",
+      "name": "Any treatment-related complication within 30 days (per patient)",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P30D",
+      "timepoint_label": "30 days",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 2,
+            "total": 13
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Descriptive proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated patients",
+        "missing_handling": "Not applicable"
+      },
+      "provenance": {
+        "pages": [
+          1016
+        ],
+        "tables": [],
+        "table_number": 0,
+        "quote": "Treatment-related complications occurred in two patients... The complication rate per ablation session was 10.5% (2/19)."
+      }
+    },
+    {
+      "concept_id": "complete_ablation_3m",
+      "name": "Complete ablation per lesion at 3 months",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P3M",
+      "timepoint_label": "3 months",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 11,
+            "total": 14
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Descriptive proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated lesions",
+        "missing_handling": "Not applicable"
+      },
+      "provenance": {
+        "pages": [
+          1017
+        ],
+        "tables": [],
+        "table_number": 0,
+        "quote": "Of the 14 tumors, 11 achieved complete ablation... The complete ablation rate was 78.6% (11/14)."
+      }
+    },
+    {
+      "concept_id": "local_control_probability_24m",
+      "name": "Local control probability at 2 years",
+      "type": "time_to_event",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P24M",
+      "timepoint_label": "24 months",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "km_estimate": 0.714,
+            "total": 14
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Kaplan-Meier",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated lesions",
+        "missing_handling": "Censored at last follow-up"
+      },
+      "provenance": {
+        "pages": [
+          1017
+        ],
+        "tables": [],
+        "table_number": 0,
+        "quote": "The 2-year local control rate was 71.4% for all tumors with a median follow-up of 33 months (95% CI: 30.6-35.4 months)."
+      }
+    },
+    {
+      "concept_id": "pfs_median_all_patients",
+      "name": "Progression-free survival (median)",
+      "type": "time_to_event",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P50Y",
+      "timepoint_label": "Median",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "median_months": 33,
+            "ci_lower_months": 15.0,
+            "ci_upper_months": 51.0,
+            "total": 13
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Kaplan-Meier",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated patients",
+        "missing_handling": "Censored at last follow-up"
+      },
+      "provenance": {
+        "pages": [
+          1017
+        ],
+        "tables": [],
+        "table_number": 0,
+        "quote": "The median PFS was 33 months (95% CI: 15.0-51.0 months) for all patients."
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Pneumothorax",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Pneumothorax"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "hospitalization"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 1,
+          "patients": 1,
+          "percentage": 7.7,
+          "total": 13
+        }
+      ],
+      "period": "0-30 days",
+      "management": "Chest tube insertion",
+      "provenance": {
+        "pages": [
+          1016
+        ],
+        "tables": [],
+        "quote": "Pneumothorax in case 10 occurred 4 h post-ablation and improved with chest tube insertion.",
+        "table_number": 0
+      }
+    },
+    {
+      "event_name": "Hydropneumothorax",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Hydropneumothorax"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "hospitalization"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 1,
+          "patients": 1,
+          "percentage": 7.7,
+          "total": 13
+        }
+      ],
+      "period": "0-30 days",
+      "management": "Chest tube insertion and anti-infectious therapy",
+      "provenance": {
+        "pages": [
+          1016
+        ],
+        "tables": [],
+        "quote": "Hydropneumothorax in case 9 occurred 15 days post-ablation and improved with chest tube insertion and anti-infectious therapy.",
+        "table_number": 0
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "ROBINS-I",
+    "overall_judgment": "serious",
+    "domains": [
+      {
+        "name": "Confounding",
+        "judgment": "serious",
+        "support_for_judgment": "Single-arm design without comparator; potential selection and confounding not controlled."
+      },
+      {
+        "name": "Selection of participants",
+        "judgment": "moderate",
+        "support_for_judgment": "Prospective enrollment with defined inclusion/exclusion criteria."
+      },
+      {
+        "name": "Classification of interventions",
+        "judgment": "low",
+        "support_for_judgment": "All participants received the same bronchoscopic MWA protocol."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "low",
+        "support_for_judgment": "Procedures performed by a single experienced operator; protocol-driven care."
+      },
+      {
+        "name": "Missing data",
+        "judgment": "low",
+        "support_for_judgment": "All patients followed through August 2021; outcomes reported for all."
+      },
+      {
+        "name": "Measurement of outcomes",
+        "judgment": "moderate",
+        "support_for_judgment": "Radiologic outcomes assessed by multidisciplinary team; open-label design may introduce assessment bias."
+      },
+      {
+        "name": "Selection of reported result",
+        "judgment": "low",
+        "support_for_judgment": "Outcomes prespecified and reported with counts and KM estimates."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "bronchoscopy",
+      "microwave ablation",
+      "navigation bronchoscopy",
+      "peripheral lung cancer",
+      "endobronchial"
+    ],
+    "summary_tldr": "Single-arm pilot: bronchoscopic microwave ablation achieved 78.6% complete ablation (11/14 lesions), 71.4% 2-year local control, and median PFS 33 months with 2/19 session complications.",
+    "clinical_relevance": "Demonstrates feasibility and acceptable safety of navigation bronchoscopy-guided endobronchial microwave ablation for nonsurgical peripheral lung cancer."
+  }
+}

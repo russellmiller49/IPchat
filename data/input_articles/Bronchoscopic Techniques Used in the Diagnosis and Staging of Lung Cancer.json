@@ -1,0 +1,4573 @@
+{
+  "version": {
+    "json_export": "203",
+    "page_segmentation": "5",
+    "schema": "1.1.0",
+    "structure": "1.1099.0",
+    "table_structure": "5"
+  },
+  "extended_metadata": {
+    "ID_instance": "D7 C4 13 CE 60 BA B2 11 0A 00 67 45 8B 6B C6 23 ",
+    "ID_permanent": "33 33 20 38 35 20 30 46 20 43 45 20 36 30 20 42 41 20 42 32 20 31 31 20 30 41 20 30 30 20 36 37 20 34 35 20 38 42 20 36 42 20 43 36 20 32 33 20 ",
+    "has_acroform": false,
+    "has_embedded_files": false,
+    "is_XFA": false,
+    "is_certified": false,
+    "is_encrypted": false,
+    "is_digitally_signed": false,
+    "language": "en-US",
+    "page_count": 8,
+    "pdf_version": "1.6",
+    "pdfa_compliance_level": "",
+    "pdfua_compliance_level": ""
+  },
+  "elements": [
+    {
+      "Bounds": [
+        53.75,
+        724.8040161132812,
+        173.64999389648438,
+        824.2760009765625
+      ],
+      "ObjectID": 823,
+      "Page": 0,
+      "Path": "//Document/Figure",
+      "attributes": {
+        "BBox": [
+          53.99779999999919,
+          724.801999999996,
+          173.63299999999435,
+          783.0
+        ],
+        "Placement": "Block"
+      }
+    },
+    {
+      "Bounds": [
+        53.75,
+        724.8040161132812,
+        173.64999389648438,
+        824.2760009765625
+      ],
+      "Font": {
+        "alt_family_name": "Frutiger LT Std",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Frutiger LT Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+FrutigerLTStd-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": true,
+      "ObjectID": 823,
+      "Page": 0,
+      "Path": "//Document/Figure",
+      "Text": "Review ",
+      "TextSize": 14.0,
+      "attributes": {
+        "BBox": [
+          53.99779999999919,
+          724.801999999996,
+          173.63299999999435,
+          783.0
+        ],
+        "Placement": "Block"
+      }
+    },
+    {
+      "Bounds": [
+        27.787506103515625,
+        636.7100982666016,
+        489.82928466796875,
+        689.4001007080078
+      ],
+      "Font": {
+        "alt_family_name": "Goudy Std",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Goudy Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "GQCWXZ+GoudyStd-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 824,
+      "Page": 0,
+      "Path": "//Document/Title",
+      "Text": "Bronchoscopic Techniques Used in the Diagnosis and Staging of Lung Cancer ",
+      "TextSize": 22.0,
+      "attributes": {
+        "LineHeight": 26.375,
+        "SpaceAfter": 18
+      }
+    },
+    {
+      "Bounds": [
+        27.787506103515625,
+        600.4600982666016,
+        278.53038024902344,
+        613.8471069335938
+      ],
+      "Font": {
+        "alt_family_name": "Goudy Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Goudy Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+GoudyStd",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 825,
+      "Page": 0,
+      "Path": "//Document/P",
+      "Text": "Andrew D. Lerner, MD, and David Feller-Kopman, MD ",
+      "TextSize": 11.0,
+      "attributes": {
+        "LineHeight": 13.25,
+        "SpaceAfter": 18
+      }
+    },
+    {
+      "Bounds": [
+        264.6240997314453,
+        533.5,
+        306.84410095214844,
+        545.3500061035156
+      ],
+      "Font": {
+        "alt_family_name": "Frutiger LT Std",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Frutiger LT Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+FrutigerLTStd-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 826,
+      "Page": 0,
+      "Path": "//Document/H1",
+      "Text": "Abstract ",
+      "TextSize": 10.0,
+      "attributes": {
+        "LineHeight": 12,
+        "TextAlign": "Center"
+      }
+    },
+    {
+      "Bounds": [
+        27.787506103515625,
+        468.0,
+        543.4752197265625,
+        532.4799957275391
+      ],
+      "Font": {
+        "alt_family_name": "Frutiger LT Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Frutiger LT Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+FrutigerLTStd-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 827,
+      "Page": 0,
+      "Path": "//Document/P[2]",
+      "Text": "With the greater use of chest CT, the incidental detection of lung nodules is expected to increase. However, because most lung nodules are benign, there is a high demand for minimally invasive procedures that provide valuable diagnostic information while minimizing complications. Recent advances in bronchoscopic technology meet this demand. These advanced technologies include navigational bronchoscopy and radial endobronchial ultrasound (EBUS) for the diagnosis of peripheral lung nodules, and linear EBUS, which has revolutionized the nonoperative nodal staging of lung cancer and provides a complementary option to surgical staging approaches. This article reviews these new bronchoscopic technologies. ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 11,
+        "SpaceAfter": 2.625,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        397.3520965576172,
+        457.25,
+        542.8471221923828,
+        465.50999450683594
+      ],
+      "Font": {
+        "alt_family_name": "Frutiger LT Std",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Frutiger LT Std",
+        "font_type": "Type1",
+        "italic": true,
+        "monospaced": false,
+        "name": "GQCWXZ+FrutigerLTStd-Italic",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 829,
+      "Page": 0,
+      "Path": "//Document/P[3]",
+      "Text": "J Natl Compr Canc Netw 2017;15(5):640–647 ",
+      "TextSize": 7.0,
+      "attributes": {
+        "LineHeight": 8.375,
+        "TextAlign": "End"
+      }
+    },
+    {
+      "Bounds": [
+        27.757003784179688,
+        276.7691955566406,
+        278.22251892089844,
+        437.9600067138672
+      ],
+      "Font": {
+        "alt_family_name": "Goudy Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Goudy Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+GoudyStd",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 830,
+      "Page": 0,
+      "Path": "//Document/P[4]",
+      "Text": "With the greater use of low-dose CT along with the adoption of lung cancer screening programs across the United States, the incidental detection of lung nodules is expected to increase.1,2 Although most incidentally detected nodules are benign,3,4 lung cancer currently constitutes 27% of all cancer-related deaths in the United States, the highest among all forms of cancer.5 Mortality is significantly affected by stage: overall 5-year survival rates are 55% for early-stage disease, 24% for those with regional spread, and only 4% for those with metastatic disease.5 Unfortunately, only a minority of lung cancer is diagnosed at an early stage.5 ",
+      "TextSize": 6.412994384765625,
+      "attributes": {
+        "LineHeight": 13,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        27.7550048828125,
+        120.22230529785156,
+        278.4885711669922,
+        277.11529541015625
+      ],
+      "Font": {
+        "alt_family_name": "Goudy Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Goudy Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+GoudyStd",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 837,
+      "Page": 0,
+      "Path": "//Document/P[5]",
+      "Text": "Once a nodule is discovered on imaging, the difficulty of definitively diagnosing malignancy compounded with the importance of making an early diagnosis has emphasized the need for accurate and safe diagnostic tools. Major technological advances in the field of bron-choscopy have provided minimally invasive and comprehensive techniques to diagnose parenchymal lesions and stage lung cancer. These bronchoscopic techniques offer an alternative to surgical diagnostic procedures, such as lung resection (for lung nodules) and medias-tinoscopy (for staging), and to CT-guided transthoracic needle aspiration (TTNA). ",
+      "TextSize": 11.0,
+      "attributes": {
+        "LineHeight": 13,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        294.6347961425781,
+        409.95599365234375,
+        498.44288635253906,
+        437.2200012207031
+      ],
+      "Font": {
+        "alt_family_name": "Frutiger LT Std",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Frutiger LT Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+FrutigerLTStd-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 841,
+      "Page": 0,
+      "Path": "//Document/H1[2]",
+      "Text": "Initial Approach to the Diagnosis of Solitary Pulmonary Nodules ",
+      "TextSize": 12.0,
+      "attributes": {
+        "LineHeight": 13.125,
+        "SpaceAfter": 2.875
+      }
+    },
+    {
+      "Bounds": [
+        294.6347961425781,
+        250.6822967529297,
+        546.4143829345703,
+        407.5500946044922
+      ],
+      "Font": {
+        "alt_family_name": "Goudy Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Goudy Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+GoudyStd",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 842,
+      "Page": 0,
+      "Path": "//Document/P[6]",
+      "Text": "Once a solitary pulmonary nodule (SPN) is discovered on chest imaging (Figure 1), a decision should be made whether to pursue a tissue diagnosis. This decision must factor in radiographic characteristics of the nodule, evidence of malignant spread, the condition of the patient, patient preferences, and available local expertise. A multidisciplinary approach to decision-making is ideal, often involving the primary referring physician, a pulm-onologist, a radiologist, and a surgeon. For intermediate or highly suspicious SPNs >8 mm, tissue sampling is often recommended,6 with options ranging from surgical resection to nonsurgical biopsies. ",
+      "TextSize": 11.0,
+      "attributes": {
+        "LineHeight": 13,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        294.6365051269531,
+        120.24490356445312,
+        548.7137756347656,
+        251.02330017089844
+      ],
+      "Font": {
+        "alt_family_name": "Goudy Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Goudy Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+GoudyStd",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 846,
+      "Page": 0,
+      "Path": "//Document/P[7]",
+      "Text": "Before the development of nonsurgical biopsy techniques, surgical resection was the only modality available to obtain a true pathologic diagnosis for an SPN. Surgery continues to remain the diagnostic gold standard and the definitive treatment for malignant lung nodules. The available techniques include video-assisted thoracoscopic surgery (VATS), thoracotomy, and mediastinoscopy,6 with VATS being less invasive than thoracotomy and having low absolute complication rates.7 Furthermore, unlike nonoperative biopsies, ",
+      "TextSize": 11.0,
+      "attributes": {
+        "LineHeight": 13,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        33.787506103515625,
+        89.06100463867188,
+        276.3788299560547,
+        106.29499816894531
+      ],
+      "Font": {
+        "alt_family_name": "Frutiger LT Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Frutiger LT Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+FrutigerLTStd-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 854,
+      "Page": 0,
+      "Path": "//Document/Aside/P",
+      "Text": "From Interventional Pulmonology, Division of Pulmonary and Critical Care Medicine, Johns Hopkins University Hospital, Baltimore, Maryland. ",
+      "TextSize": 7.0,
+      "attributes": {
+        "LineHeight": 8.875
+      }
+    },
+    {
+      "Bounds": [
+        33.787506103515625,
+        58.253997802734375,
+        276.2744598388672,
+        86.4219970703125
+      ],
+      "Font": {
+        "alt_family_name": "Frutiger LT Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Frutiger LT Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+FrutigerLTStd-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 855,
+      "Page": 0,
+      "Path": "//Document/Aside/P[2]",
+      "Text": "Submitted November 1, 2016; accepted for publication April 2, 2017. Dr. Lerner has disclosed that he have no financial interests, arrangements, affiliations, or commercial interests with the manufacturers of any ",
+      "TextSize": 7.0,
+      "attributes": {
+        "LineHeight": 10
+      }
+    },
+    {
+      "Bounds": [
+        290.34449768066406,
+        58.26100158691406,
+        533.1177673339844,
+        106.302001953125
+      ],
+      "Font": {
+        "alt_family_name": "Frutiger LT Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Frutiger LT Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+FrutigerLTStd-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 856,
+      "Page": 0,
+      "Path": "//Document/Aside/Footnote",
+      "Text": "products discussed in this article or their competitors. Dr. Feller-Kopman had disclosed that he is a consultant for Veran Medical and Olympus, Inc. Correspondence: David Feller-Kopman, MD, John Hopkins University Hospital, Sheikh Zayed Tower, Suite 7-125, 1800 Orleans Street, Baltimore, MD 21287. E-mail: dfk@jhmi.edu ",
+      "TextSize": 7.0,
+      "attributes": {
+        "LineHeight": 9.875,
+        "SpaceAfter": 18
+      }
+    },
+    {
+      "Bounds": [
+        44.100006103515625,
+        495.0000305175781,
+        275.68470764160156,
+        692.0400390625
+      ],
+      "ClipBounds": [
+        44.100006103515625,
+        495.0000305175781,
+        275.68470764160156,
+        692.0400390625
+      ],
+      "ObjectID": 1016,
+      "Page": 1,
+      "Path": "//Document/Figure[2]",
+      "attributes": {
+        "BBox": [
+          44.03819999999905,
+          495.0119999999879,
+          275.62899999998626,
+          692.0439999999944
+        ],
+        "Placement": "Block"
+      }
+    },
+    {
+      "Bounds": [
+        44.100006103515625,
+        481.0,
+        247.16293334960938,
+        490.47999572753906
+      ],
+      "Font": {
+        "alt_family_name": "Frutiger LT Std",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Frutiger LT Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+FrutigerLTStd-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1017,
+      "Page": 1,
+      "Path": "//Document/P[8]",
+      "Text": "Figure 1. Solitary pulmonary nodule on chest CT (red arrow). ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 9.625,
+        "SpaceAfter": 18
+      }
+    },
+    {
+      "Bounds": [
+        44.100006103515625,
+        395.16709899902344,
+        280.2481994628906,
+        461.4420928955078
+      ],
+      "Font": {
+        "alt_family_name": "Goudy Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Goudy Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+GoudyStd",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1018,
+      "Page": 1,
+      "Path": "//Document/P[9]",
+      "Text": "surgical resection is both diagnostic and potentially therapeutic. Diagnosis is often obtained on-site via frozen section analysis. If malignancy is confirmed, therapeutic lobectomy with mediastinal lymphad-enectomy is pursued.6 ",
+      "TextSize": 6.412994384765625,
+      "attributes": {
+        "LineHeight": 13.25,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        44.10400390625,
+        276.1448974609375,
+        281.12164306640625,
+        395.3079071044922
+      ],
+      "Font": {
+        "alt_family_name": "Goudy Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Goudy Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+GoudyStd",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1020,
+      "Page": 1,
+      "Path": "//Document/P[10]",
+      "Text": "Although surgery combines diagnosis and treatment into one procedure, this is best avoided for nonmalignant SPNs or nonoperable malignancies. As such, less invasive bronchoscopic and percutaneous biopsies can help confirm or rule out malignancies.  before resection. These modalities are especially important for factors that make surgery more challenging, such as poor surgical candidates or nodules that are small, centrally located, or subsolid.6 ",
+      "TextSize": 6.412994384765625,
+      "attributes": {
+        "LineHeight": 13.25,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        44.10400390625,
+        183.54739379882812,
+        282.50726318359375,
+        276.2664031982422
+      ],
+      "Font": {
+        "alt_family_name": "Goudy Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Goudy Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+GoudyStd",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1027,
+      "Page": 1,
+      "Path": "//Document/P[11]",
+      "Text": "Recent guidelines recommend that decision-making regarding the initial diagnostic modality (surgical vs nonsurgical) for SPNs should rely on the pretest probability of malignancy: surgical diagnosis when the clinical probability of malignancy is high (>65%) and nonsurgical biopsy when the clinical pretest probability is low to moderate (≈10%–60%).6 ",
+      "TextSize": 6.412994384765625,
+      "attributes": {
+        "LineHeight": 13.25,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        44.089202880859375,
+        51.25,
+        281.41778564453125,
+        183.67849731445312
+      ],
+      "Font": {
+        "alt_family_name": "Goudy Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Goudy Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+GoudyStd",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1029,
+      "Page": 1,
+      "Path": "//Document/P[12]/ParagraphSpan",
+      "Text": "Although this review focuses on the different bronchoscopic techniques in the nonoperative diagnosis and staging of lung cancer, percutaneous biopsy, by fluoroscopy, ultrasound, or CT guidance, is another nonsurgical option. A recent meta-analysis has demonstrated pooled sensitivity of CT-guided TTNA to be 90%, with individual study estimates ranging from 62% to 99%.8 Although sensitivity is high, TTNA carries a risk of iatrogenic pneumotho-rax, with rates ranging from 15% to 44%9,10; this is ",
+      "TextSize": 11.0
+    },
+    {
+      "Bounds": [
+        298.93479919433594,
+        603.1898956298828,
+        536.9291076660156,
+        695.4429931640625
+      ],
+      "Font": {
+        "alt_family_name": "Goudy Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Goudy Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+GoudyStd",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1034,
+      "Page": 1,
+      "Path": "//Document/P[12]/ParagraphSpan[2]",
+      "Text": "compared with a lower risk of pneumothoraces (2%– 8%) following bronchoscopic biopsies.10 Furthermore, as a point of comparison, staging of the medi-astinal lymph nodes and performing an airway evaluation requires a separate procedure when TTNA is performed, but is often performed concomitantly with peripheral bronchoscopic biopsies. ",
+      "TextSize": 11.0
+    },
+    {
+      "Bounds": [
+        298.9331970214844,
+        552.6842956542969,
+        496.0451965332031,
+        580.0442962646484
+      ],
+      "Font": {
+        "alt_family_name": "Frutiger LT Std",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Frutiger LT Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+FrutigerLTStd-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1038,
+      "Page": 1,
+      "Path": "//Document/H1[3]",
+      "Text": "Bronchoscopy for the Diagnosis of Lung Nodules ",
+      "TextSize": 12.0,
+      "attributes": {
+        "LineHeight": 13.125,
+        "SpaceAfter": 3.125
+      }
+    },
+    {
+      "Bounds": [
+        298.9331970214844,
+        497.3591003417969,
+        535.4885864257812,
+        550.1811065673828
+      ],
+      "Font": {
+        "alt_family_name": "Goudy Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Goudy Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+GoudyStd",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1039,
+      "Page": 1,
+      "Path": "//Document/P[13]",
+      "Text": "Recent technological advances within the past 15 years have allowed advanced bronchoscopy to play a prominent role in the diagnosis of early-stage lung cancer with low risk to the patient. ",
+      "TextSize": 11.0,
+      "attributes": {
+        "LineHeight": 13.125,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        298.9331970214844,
+        313.3291015625,
+        536.1044158935547,
+        497.6011047363281
+      ],
+      "Font": {
+        "alt_family_name": "Goudy Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Goudy Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+GoudyStd",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1040,
+      "Page": 1,
+      "Path": "//Document/P[14]",
+      "Text": "Because most SPNs cannot be directly visualized by basic flexible bronchoscopy, guidance techniques have been used to help guide biopsy tools to a target lesion. The earliest developed guidance technique was fluoroscopy, which provides real-time radiologic imaging of the lungs, bronchoscope, and biopsy tools during the procedure. Unfortunately, its major limitations include that it provides an image of the bronchi that is low resolution and allows a limited 2-dimensional (2D), rather than 3-dimensional (3D), view of the lungs. As a result, the sensitivity in the diagnosis of a SPN via conventional bronchoscopy with fluoroscopy has been low (≈33%), especially for smaller nodules <2 cm in diameter.11,12 ",
+      "TextSize": 6.412994384765625,
+      "attributes": {
+        "LineHeight": 13.125,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        298.9340057373047,
+        208.27659606933594,
+        535.2261962890625,
+        313.65899658203125
+      ],
+      "Font": {
+        "alt_family_name": "Goudy Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Goudy Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+GoudyStd",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1045,
+      "Page": 1,
+      "Path": "//Document/P[15]",
+      "Text": "Because 30% of early-stage lung cancers are in the peripheral one-third of the lung,8,13,14 a region beyond where more standard bronchoscopes can reach, ultrathin scopes were developed to help access these peripheral lesions.15,16 Nevertheless, yields remained low and nondiagnostic bronchoscopies often required confirmation via additional procedures, such as CT-guided TTNA and surgical resection. ",
+      "TextSize": 11.0,
+      "attributes": {
+        "LineHeight": 13.125,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        298.9342956542969,
+        142.55160522460938,
+        537.4496765136719,
+        208.5186004638672
+      ],
+      "Font": {
+        "alt_family_name": "Goudy Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Goudy Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+GoudyStd",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1049,
+      "Page": 1,
+      "Path": "//Document/P[16]",
+      "Text": "Two newer guidance techniques, navigational bronchoscopy (NB) and radial endobronchial ultrasound (r-EBUS), have been developed with hopes of significantly improving the diagnostic yield of bronchoscopy for SPNs. ",
+      "TextSize": 11.0,
+      "attributes": {
+        "LineHeight": 13.125,
+        "SpaceAfter": 13.5,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        298.9331970214844,
+        117.20060729980469,
+        429.87220764160156,
+        129.05059814453125
+      ],
+      "Font": {
+        "alt_family_name": "Frutiger LT Std",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Frutiger LT Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+FrutigerLTStd-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1051,
+      "Page": 1,
+      "Path": "//Document/H2",
+      "Text": "Navigational Bronchoscopy ",
+      "TextSize": 10.0,
+      "attributes": {
+        "LineHeight": 12
+      }
+    },
+    {
+      "Bounds": [
+        298.9331970214844,
+        51.23039245605469,
+        538.1199798583984,
+        117.19740295410156
+      ],
+      "Font": {
+        "alt_family_name": "Goudy Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Goudy Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+GoudyStd",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1154,
+      "Page": 1,
+      "Path": "//Document/P[17]/ParagraphSpan",
+      "Text": "NB was established in the mid-2000s to improve the accuracy of reaching small peripheral lesions under bronchoscopy. NB uses either virtual bronchoscopic navigation (VBN) or electromagnetic navigation (ENB). With VBN, a computer algorithm creates a ",
+      "TextSize": 11.0
+    },
+    {
+      "Bounds": [
+        53.996002197265625,
+        400.923095703125,
+        292.41644287109375,
+        695.4420928955078
+      ],
+      "Font": {
+        "alt_family_name": "Goudy Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Goudy Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+GoudyStd",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1119,
+      "Page": 2,
+      "Path": "//Document/P[17]/ParagraphSpan[2]",
+      "Text": "virtual airway map based on the patient’s CT scan. During bronchoscopy, at each airway bifurcation, the bronchoscopist is directed to the airway that will eventually lead to the lesion in question. With this technique, there is no real-time guidance of instruments. ENB, on the other hand, uses an electromagnetic (EM) field generator to create an EM field centered around the patient.17 This field generates current within sensor coils embedded in various locator instruments that are inserted through the working channel of the bronchoscope. The EM field tracks these microsensors, determining their real-time position in space within the field. Pixels from a prior 2D high-resolution CT scan can be merged together to construct 3D cubes, called voxels, which then recreate a 3D CT image (a “virtual CT”) of various body structures in the thorax (Figures 2 and 3). This digital 3D image is superimposed over the EM field. Sensed instruments can then be guided to a target lesion based on 2 factors: positioning information provided from the sensor within the EM field, and mapping information created by the superimposed 3D CT image.18 ",
+      "TextSize": 6.412994384765625
+    },
+    {
+      "Bounds": [
+        54.0,
+        375.27540588378906,
+        87.89999389648438,
+        387.1253967285156
+      ],
+      "Font": {
+        "alt_family_name": "Frutiger LT Std",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Frutiger LT Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+FrutigerLTStd-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1129,
+      "Page": 2,
+      "Path": "//Document/H2[2]",
+      "Text": "r-EBUS ",
+      "TextSize": 10.0,
+      "attributes": {
+        "LineHeight": 12
+      }
+    },
+    {
+      "Bounds": [
+        54.0,
+        348.2507019042969,
+        289.2059020996094,
+        375.0247039794922
+      ],
+      "Font": {
+        "alt_family_name": "Goudy Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Goudy Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+GoudyStd",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1130,
+      "Page": 2,
+      "Path": "//Document/P[18]",
+      "Text": "Although linear EBUS (for nodal staging) is an ultrasound transducer attached to the tip of a standard ",
+      "TextSize": 11.0,
+      "attributes": {
+        "LineHeight": 13.5,
+        "SpaceAfter": 18,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        53.99998474121094,
+        73.82980346679688,
+        286.06678771972656,
+        328.13633728027344
+      ],
+      "ObjectID": 1132,
+      "Page": 2,
+      "Path": "//Document/Figure[3]",
+      "attributes": {
+        "BBox": [
+          53.99779999999919,
+          75.02879999999641,
+          286.0679999999993,
+          327.0189999999857
+        ],
+        "Placement": "Block"
+      }
+    },
+    {
+      "Bounds": [
+        53.99989318847656,
+        52.248992919921875,
+        279.60284423828125,
+        69.47999572753906
+      ],
+      "Font": {
+        "alt_family_name": "Frutiger LT Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Frutiger LT Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+FrutigerLTStd-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1133,
+      "Page": 2,
+      "Path": "//Document/P[19]",
+      "Text": "Figure 2. Navigational bronchoscopy with 3-dimensional reconstructive views of the airways. ",
+      "TextSize": 7.0,
+      "attributes": {
+        "LineHeight": 8,
+        "SpaceAfter": 18
+      }
+    },
+    {
+      "Bounds": [
+        307.6199951171875,
+        506.9999694824219,
+        542.0999755859375,
+        693.9599609375
+      ],
+      "ObjectID": 1135,
+      "Page": 2,
+      "Path": "//Document/Figure[4]",
+      "attributes": {
+        "BBox": [
+          308.86699999999837,
+          507.0109999999986,
+          540.8179999999993,
+          693.0039999999863
+        ],
+        "Placement": "Block"
+      }
+    },
+    {
+      "Bounds": [
+        308.8330993652344,
+        481.2489929199219,
+        534.4360504150391,
+        498.47999572753906
+      ],
+      "Font": {
+        "alt_family_name": "Frutiger LT Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Frutiger LT Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+FrutigerLTStd-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1136,
+      "Page": 2,
+      "Path": "//Document/P[20]",
+      "Text": "Figure 3. Navigational bronchoscopy with 3-dimensional reconstructive views of the lung lesion. ",
+      "TextSize": 7.0,
+      "attributes": {
+        "LineHeight": 8,
+        "SpaceAfter": 18
+      }
+    },
+    {
+      "Bounds": [
+        308.8334045410156,
+        262.50990295410156,
+        546.0378723144531,
+        461.4407043457031
+      ],
+      "Font": {
+        "alt_family_name": "Goudy Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Goudy Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+GoudyStd",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1138,
+      "Page": 2,
+      "Path": "//Document/P[21]",
+      "Text": "bronchoscope, r-EBUS is an ultrasound transducer attached to the tip of a small catheter (that is inserted separately into the bronchoscope) (Figure 4). Linear EBUS provides a sonographic view that is parallel to the long axis of the bronchoscope and allows for real-time visualization for needle aspiration of lymph nodes, whereas r-EBUS provides a 360° ultrasound view (Figure 5) and is generally used to identify nodules and masses within the parenchyma.19 r-EBUS allows for visual confirmation that the target has actually been reached. This differs from ENB methods, which provide a “virtual” confirmation that depends on the calibration between the location within the EM field and the corresponding location within the virtual CT. ",
+      "TextSize": 11.0,
+      "attributes": {
+        "LineHeight": 13.25,
+        "SpaceAfter": 13.875,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        308.8332061767578,
+        237.02659606933594,
+        511.9011993408203,
+        248.87660217285156
+      ],
+      "Font": {
+        "alt_family_name": "Frutiger LT Std",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Frutiger LT Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+FrutigerLTStd-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1143,
+      "Page": 2,
+      "Path": "//Document/H2[3]",
+      "Text": "Yields of Guided Bronchoscopy Techniques ",
+      "TextSize": 10.0,
+      "attributes": {
+        "LineHeight": 12
+      }
+    },
+    {
+      "Bounds": [
+        308.82440185546875,
+        51.24070739746094,
+        545.0586090087891,
+        236.9116973876953
+      ],
+      "Font": {
+        "alt_family_name": "Goudy Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Goudy Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+GoudyStd",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1144,
+      "Page": 2,
+      "Path": "//Document/P[22]",
+      "Text": "Until recently, data have been scarce in comparing the diagnostic yields of these newer bronchoscopic technologies. In 2012, a large meta-analysis of >3,000 cases found that the weighted diagnostic yield of all advanced bronchoscopic techniques was reasonably high (70.0%; 95% CI, 67.1%–72.9%), with a significantly lower risk of pneumothorax compared with TTNA (1.5% vs 25%).10 Another study found that the combination of r-EBUS and NB performed during the same procedure increased the yield compared with either used alone.20 Overall higher yields from bronchoscopic transbronchial needle aspiration (TBNA) have been associated with larger lesion size (>2 cm), nonupper lobe location, tobacco ",
+      "TextSize": 11.0,
+      "attributes": {
+        "LineHeight": 13.25,
+        "SpaceAfter": 18,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        44.100006103515625,
+        383.5776062011719,
+        276.16680908203125,
+        693.0
+      ],
+      "ObjectID": 1244,
+      "Page": 3,
+      "Path": "//Document/Figure[5]",
+      "attributes": {
+        "BBox": [
+          44.03819999999905,
+          383.5359999999928,
+          276.10899999999674,
+          693.0039999999863
+        ],
+        "Placement": "Block"
+      }
+    },
+    {
+      "Bounds": [
+        44.09989929199219,
+        349.2480010986328,
+        275.91893005371094,
+        374.47999572753906
+      ],
+      "Font": {
+        "alt_family_name": "Frutiger LT Std",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Frutiger LT Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+FrutigerLTStd-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1245,
+      "Page": 3,
+      "Path": "//Document/P[23]",
+      "Text": "Figure 4. Radial endobronchial ultrasound probe which is inserted through the bronchoscope and extended into the airway to the target lesion. ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 8,
+        "SpaceAfter": 18
+      }
+    },
+    {
+      "Bounds": [
+        44.100006103515625,
+        274.2440948486328,
+        280.7318572998047,
+        329.4420928955078
+      ],
+      "Font": {
+        "alt_family_name": "Goudy Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Goudy Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+GoudyStd",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1246,
+      "Page": 3,
+      "Path": "//Document/P[24]",
+      "Text": "use, and more centrally located lesions.10,21 Use of rapid on-site cytopathology evaluation (ROSE) has also been shown to increase accuracy and diagnostic yield among bronchoscopic biopsies.22,23 ",
+      "TextSize": 6.412994384765625,
+      "attributes": {
+        "LineHeight": 14,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        44.099395751953125,
+        51.25090026855469,
+        282.1864471435547,
+        273.693603515625
+      ],
+      "Font": {
+        "alt_family_name": "Goudy Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Goudy Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+GoudyStd",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1249,
+      "Page": 3,
+      "Path": "//Document/P[25]",
+      "Text": "More recently, a large multicenter registry study reported disappointing lower overall yields for r-EBUS and NB of 53.7%.21 However, newer NB technologies have been developed with hopes of improving accuracy and yield.2,24 An example of one of these newer navigational technologies incorporate EM guidance tracking directly into sampling tools as well as into a specialized transthoracic needle.2 This allows for tracking of the sampling tools at time of biopsy without the need for a guide sheath, and also permits the performance of an EM-guided TTNA during the same procedure. The yield of a combined EM-guided bronchoscopic and TTNA biopsy in one pilot study of 24 patients was 87%, which increased to 92% when linear EBUS for nodal staging was also performed.2 ",
+      "TextSize": 6.412994384765625,
+      "attributes": {
+        "LineHeight": 13.875,
+        "SpaceAfter": 17,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        299.11065673828125,
+        518.9999237060547,
+        531.1106719970703,
+        692.9999389648438
+      ],
+      "ObjectID": 1255,
+      "Page": 3,
+      "Path": "//Document/Figure[6]",
+      "attributes": {
+        "BBox": [
+          299.1479999999865,
+          519.0109999999986,
+          531.0979999999981,
+          693.0039999999863
+        ],
+        "Placement": "Block"
+      }
+    },
+    {
+      "Bounds": [
+        298.93310546875,
+        493.2489929199219,
+        518.3270874023438,
+        510.47999572753906
+      ],
+      "Font": {
+        "alt_family_name": "Frutiger LT Std",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Frutiger LT Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+FrutigerLTStd-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1256,
+      "Page": 3,
+      "Path": "//Document/P[26]",
+      "Text": "Figure 5. Sonographic view from radial endobronchial ultrasound probe with borders of the target lesion delineated by red arrows. ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 8,
+        "SpaceAfter": 18
+      }
+    },
+    {
+      "Bounds": [
+        298.93719482421875,
+        288.88409423828125,
+        535.2421417236328,
+        473.4420928955078
+      ],
+      "Font": {
+        "alt_family_name": "Goudy Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Goudy Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+GoudyStd",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1257,
+      "Page": 3,
+      "Path": "//Document/P[27]",
+      "Text": "In summary, CT-guided TTNA carries a high diagnostic yield for the biopsy of peripheral lung nodules when compared with bronchoscopy, although at a significantly increased risk of pneumothorax. Of equal importance, because nodal staging plays an important role in the evaluation of malignant lung nodules, combining bronchoscopic staging and diagnosis into one procedure is more comprehensive and potentially more time-saving and cost-effective. On the other hand, small peripheral nodules (≤2cm) with a high pretest probability for malignancy that have no radiographic evidence of nodal spread can be evaluated for surgical resection as the initial diagnostic, staging, and definitive treatment of choice.25 ",
+      "TextSize": 6.412994384765625,
+      "attributes": {
+        "LineHeight": 13.125,
+        "SpaceAfter": 18,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        298.9331970214844,
+        238.32139587402344,
+        487.3932800292969,
+        265.7053985595703
+      ],
+      "Font": {
+        "alt_family_name": "Frutiger LT Std",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Frutiger LT Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+FrutigerLTStd-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1264,
+      "Page": 3,
+      "Path": "//Document/H1[4]",
+      "Text": "Bronchoscopy for Nodal Staging: Linear EBUS Bronchoscopy ",
+      "TextSize": 12.0,
+      "attributes": {
+        "LineHeight": 13.25,
+        "SpaceAfter": 3
+      }
+    },
+    {
+      "Bounds": [
+        298.9293975830078,
+        51.247406005859375,
+        536.4338073730469,
+        235.79100036621094
+      ],
+      "Font": {
+        "alt_family_name": "Goudy Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Goudy Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+GoudyStd",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1265,
+      "Page": 3,
+      "Path": "//Document/P[28]",
+      "Text": "Accurate nodal staging, especially for non–small cell lung cancer (NSCLC) without evidence of metastatic disease, is critical in guiding treatment options.8,25 Stage I–IIIa NSCLC represents potentially resectable disease.26 Historically, nodal involvement was inferred based on imaging findings with significant false-positive and false-negative rates (Figure 6).25 Surgical procedures were introduced to provide definitive tissue staging. Surgical approaches included thoracotomy, VATS, Chamberlain procedure (anterior mediastinoscopy), and cervical mediastinoscopy.13 Mediastinoscopy continues to play an important role and, as the original “gold standard” in cancer staging, remains a common modality of ",
+      "TextSize": 11.0,
+      "attributes": {
+        "LineHeight": 13.125,
+        "SpaceAfter": 18,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        53.99998474121094,
+        545.8033447265625,
+        286.06675720214844,
+        693.0
+      ],
+      "ObjectID": 1417,
+      "Page": 4,
+      "Path": "//Document/Figure[7]",
+      "attributes": {
+        "BBox": [
+          53.99779999999919,
+          545.7699999999895,
+          286.0679999999993,
+          693.0039999999863
+        ],
+        "Placement": "Block"
+      }
+    },
+    {
+      "Bounds": [
+        54.0,
+        529.25,
+        277.04649353027344,
+        538.7299957275391
+      ],
+      "Font": {
+        "alt_family_name": "Frutiger LT Std",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Frutiger LT Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+FrutigerLTStd-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1418,
+      "Page": 4,
+      "Path": "//Document/P[29]",
+      "Text": "Figure 6. Mediastinal adenopathy (red arrows) as seen on chest CT. ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 9.625,
+        "SpaceAfter": 18
+      }
+    },
+    {
+      "Bounds": [
+        53.999298095703125,
+        339.0966033935547,
+        291.49029541015625,
+        509.4420928955078
+      ],
+      "Font": {
+        "alt_family_name": "Goudy Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Goudy Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+GoudyStd",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1419,
+      "Page": 4,
+      "Path": "//Document/P[30]",
+      "Text": "choice against which the utility of other techniques is compared. Mediastinoscopy is a safe procedure with low complication rates, but it is more invasive than bronchoscopic staging.25 An in-depth discussion and comparison between EBUS bronchoscopy with various surgical staging techniques is beyond the scope of this review. However, because operator experience likely plays a large role on the performance of any given procedure, and some nodal stations are accessible by one approach but not by another, the differing surgical and nonsurgical staging modalities should be viewed as complimentary rather than competitive. ",
+      "TextSize": 11.0,
+      "attributes": {
+        "LineHeight": 13.125,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        53.999298095703125,
+        169.0030059814453,
+        290.2165985107422,
+        339.40460205078125
+      ],
+      "Font": {
+        "alt_family_name": "Goudy Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Goudy Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+GoudyStd",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1420,
+      "Page": 4,
+      "Path": "//Document/P[31]",
+      "Text": "Developed in the 1990s, linear EBUS bronchos-copy has revolutionized the nodal staging of lung cancer by providing a minimally invasive diagnostic alternative to surgery (Figures 7 and 8). Before EBUS technology, bronchoscopic biopsies of the mediasti-nal lymph nodes were performed using conventional (“blind”) TBNA. The needle insertion site was based on anatomic landmarks and review of prior imaging.27 Although there is wide variability, diagnostic yields for conventional TBNA have historically been low.25 EBUS-TBNA, which allows the real-time visualization of mediastinal lymph nodes (Figure 9), has shown significantly higher diagnostic yields.28 ",
+      "TextSize": 6.412994384765625,
+      "attributes": {
+        "LineHeight": 13.125,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        53.999603271484375,
+        51.25,
+        292.1694641113281,
+        169.2969970703125
+      ],
+      "Font": {
+        "alt_family_name": "Goudy Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Goudy Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+GoudyStd",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1538,
+      "Page": 4,
+      "Path": "//Document/P[32]/ParagraphSpan",
+      "Text": "The most common indication for EBUS bron-choscopy is for the nodal staging of NSCLC, when suspicious mediastinal and hilar lymph nodes are seen on imaging. EBUS is able to access lymph node stations 1, 2, 4, 7, 10, 11, and potentially 12 per the International Association for the Study of Lung Cancer lymph node map.29 EBUS-TBNA alone is often unable to sample nodal stations 5, 6, 8, and 9.30 The addition of esophageal ultrasound (EUS) ",
+      "TextSize": 11.0
+    },
+    {
+      "Bounds": [
+        308.8365936279297,
+        590.0561981201172,
+        544.9956970214844,
+        695.4429931640625
+      ],
+      "Font": {
+        "alt_family_name": "Goudy Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Goudy Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+GoudyStd",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1539,
+      "Page": 4,
+      "Path": "//Document/P[32]/ParagraphSpan[2]",
+      "Text": "during the same procedure allows sampling of stations 5, 8, and 9.30 Therefore, EBUS, with or without EUS, provides a very comprehensive evaluation of thoracic lymph nodes. Comparatively, cervical me-diastinoscopy can access nodal stations 1, 2, 3, 4, anterior 7, and potentially 10.30 When combined with a Chamberlain procedure or a left VATS, station 5 and 6 can be accessed.31 ",
+      "TextSize": 6.412994384765625
+    },
+    {
+      "Bounds": [
+        308.8280944824219,
+        432.3549041748047,
+        545.4036560058594,
+        590.3079071044922
+      ],
+      "Font": {
+        "alt_family_name": "Goudy Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Goudy Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+GoudyStd",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1422,
+      "Page": 4,
+      "Path": "//Document/P[33]",
+      "Text": "In a systematic approach by EBUS staging for suspected NSCLC, the highest N stage nodal station >5 mm should be sampled first to avoid contamination of a higher-stage node when using a single needle.32 If ROSE is available, further biopsies can be avoided once the highest stage nodal station confirms malignancy. If ROSE is unavailable, or if biopsy passes reveal no malignancy on-site, then evaluation and sampling from at least 4R, 7, and 4L nodal stations should be attempted.32 It has been recommended that a minimum of 3 passes be performed per nodal station.33 ",
+      "TextSize": 6.412994384765625,
+      "attributes": {
+        "LineHeight": 13.125,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        308.83079528808594,
+        248.35719299316406,
+        546.2758331298828,
+        432.6065979003906
+      ],
+      "Font": {
+        "alt_family_name": "Goudy Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Goudy Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+GoudyStd",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1423,
+      "Page": 4,
+      "Path": "//Document/P[34]",
+      "Text": "Several meta-analyses have reported a pooled sensitivity of 88% to 93% for EBUS-TBNA mediastinal staging of lung cancer, with results significantly dependent on prevalence of disease.34–36 This is compared with meta-analysis of cervical mediastinosco-py, with sensitivities ranging from 70% to 92%.37–39 In one prospective study, 153 patients underwent EBUS-TBNA followed by mediastinoscopy.40 There was excellent agreement among EBUS-TBNA results and mediastinoscopy for staging N2/N3 nodes. The sensitivity, negative predictive value (NPV), and diagnostic accuracy were similar between the groups (EBUS-TBNA: 81%, 91%, and 93%, respectively, vs mediastinoscopy: 79%, 90%, and 93%, respectively). ",
+      "TextSize": 11.0,
+      "attributes": {
+        "LineHeight": 13.125,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        308.83079528808594,
+        51.225494384765625,
+        547.3933258056641,
+        248.5991973876953
+      ],
+      "Font": {
+        "alt_family_name": "Goudy Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Goudy Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+GoudyStd",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1424,
+      "Page": 4,
+      "Path": "//Document/P[35]",
+      "Text": "One randomized controlled trial of 241 patients compared mediastinoscopy alone with EBUS/EUSFNA followed by mediastinoscopy if the needle approach was negative.41 All patients without identified mediastinal involvement subsequently underwent thoracotomy. There was no difference in sensitivity or NPV in either arm. The combination approach (endosonography followed by surgical staging) detected significantly more mediastinal nodal involvement than mediastinoscopy alone. However, in those undergoing EBUS/EUS, a reduction was seen in the need for mediastinoscopy. This study concluded that staging should start with endosonography and, if negative, move to surgical staging. Given the 0.12 to 0.13 negative likelihood ratio of EBUS-TBNA in ",
+      "TextSize": 11.0,
+      "attributes": {
+        "LineHeight": 13.125,
+        "SpaceAfter": 18,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        42.99562072753906,
+        561.0,
+        277.2711639404297,
+        693.0
+      ],
+      "ObjectID": 1425,
+      "Page": 5,
+      "Path": "//Document/Figure[8]",
+      "attributes": {
+        "BBox": [
+          44.03819999999905,
+          561.0089999999909,
+          276.10899999999674,
+          693.0039999999863
+        ],
+        "Placement": "Block"
+      }
+    },
+    {
+      "Bounds": [
+        44.100006103515625,
+        547.0,
+        210.6018829345703,
+        556.4799957275391
+      ],
+      "Font": {
+        "alt_family_name": "Frutiger LT Std",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Frutiger LT Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+FrutigerLTStd-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1426,
+      "Page": 5,
+      "Path": "//Document/P[36]",
+      "Text": "Figure 7. Linear endobronchial ultrasound probe. ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 9.625,
+        "SpaceAfter": 16.5
+      }
+    },
+    {
+      "Bounds": [
+        297.9268035888672,
+        559.7948150634766,
+        532.0092010498047,
+        694.0724945068359
+      ],
+      "ObjectID": 1427,
+      "Page": 5,
+      "Path": "//Document/Figure[9]",
+      "attributes": {
+        "BBox": [
+          298.9079999999958,
+          561.0089999999909,
+          530.9779999999737,
+          693.0039999999863
+        ],
+        "Placement": "Block"
+      }
+    },
+    {
+      "Bounds": [
+        298.93310546875,
+        538.9089965820312,
+        504.3341369628906,
+        556.1399993896484
+      ],
+      "Font": {
+        "alt_family_name": "Frutiger LT Std",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Frutiger LT Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+FrutigerLTStd-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1428,
+      "Page": 5,
+      "Path": "//Document/P[37]",
+      "Text": "Figure 8. Linear endobronchial ultrasound probe with needle extended. ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 8
+      }
+    },
+    {
+      "Bounds": [
+        44.100006103515625,
+        466.5081024169922,
+        280.4171905517578,
+        521.4420928955078
+      ],
+      "Font": {
+        "alt_family_name": "Goudy Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Goudy Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+GoudyStd",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1429,
+      "Page": 5,
+      "Path": "//Document/P[38]",
+      "Text": "2 large meta-analyses,35,36 a negative EBUS-TBNA should be confirmed with surgical staging in those with radiographically suspicious nodes or in a population with a high prevalence of disease. ",
+      "TextSize": 11.0,
+      "attributes": {
+        "LineHeight": 13.875,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        44.10420227050781,
+        300.2687072753906,
+        281.11277770996094,
+        466.0460968017578
+      ],
+      "Font": {
+        "alt_family_name": "Goudy Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Goudy Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+GoudyStd",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1430,
+      "Page": 5,
+      "Path": "//Document/P[39]",
+      "Text": "Although EBUS bronchoscopy is well established for the sampling of lymph nodes suspicious for nodal metastasis, the role for EBUS-TBNA sampling for clinical stage I lung cancer with normal-appearing mediastinal lymph nodes has been questioned. Recent guidelines have suggested that patients with a peripheral clinical stage IA tumor (≤2 cm) do not require invasive mediastinal staging.25 In 2008, Herth et al42 performed a prospective study of 97 patients with clinical stage I disease and normal lymph nodes on chest CT undergoing EBUS-TBNA. All patients subsequently underwent mediastinoscopy. Nine patients had nodal ",
+      "TextSize": 11.0,
+      "attributes": {
+        "LineHeight": 13.875,
+        "SpaceAfter": 18,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        43.759796142578125,
+        81.86799621582031,
+        277.3385772705078,
+        277.4283752441406
+      ],
+      "ObjectID": 1431,
+      "Page": 5,
+      "Path": "//Document/Figure[10]",
+      "attributes": {
+        "BBox": [
+          43.79819999999927,
+          83.18849999999657,
+          276.10899999999674,
+          276.38099999999395
+        ],
+        "Placement": "Block"
+      }
+    },
+    {
+      "Bounds": [
+        44.09989929199219,
+        52.68800354003906,
+        263.49388122558594,
+        77.91999816894531
+      ],
+      "Font": {
+        "alt_family_name": "Frutiger LT Std",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Frutiger LT Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+FrutigerLTStd-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1432,
+      "Page": 5,
+      "Path": "//Document/P[40]",
+      "Text": "Figure 9. Sonographic view from linear endobronchial ultrasound probe detailing a lymph node (red arrow) and blood vessel (blue arrow). ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 8
+      }
+    },
+    {
+      "Bounds": [
+        298.93190002441406,
+        168.6815948486328,
+        537.7813568115234,
+        521.4420928955078
+      ],
+      "Font": {
+        "alt_family_name": "Goudy Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Goudy Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+GoudyStd",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1433,
+      "Page": 5,
+      "Path": "//Document/P[41]",
+      "Text": "spread despite normal imaging. EBUS identified almost all (8 of 9) of these patients, some of whom had N2 and N3 disease. This study concluded that potentially operable patients with clinical stage I lung cancer may benefit from presurgical staging with EBUSTBNA and that clinical staging with imaging alone is not sufficiently reliable. Another study found similar performance characteristics between EBUS-TBNA (accuracy 91%, NPV 91%) and mediastinoscopy for radiographically normal lymph nodes,43 thus concluding that in those with benign results from EBUS-TBNA, diagnostic surgical staging may be omitted. The utility of EBUS-TBNA for restaging after induction therapy has also been evaluated. In contrast to remediastinoscopy, which may be technically more difficult due to mediastinal adhesions,44 EBUS-TBNA is an easily repeatable procedure. One study of 124 patients presenting for restaging after induction chemotherapy found EBUS-TBNA to be sensitive, specific, and diagnostically accurate (76%, 100%, 77%), although the NPV was low (20%).45 Therefore, it was concluded that tumor-negative findings should be confirmed with surgery prior to thoracotomy. Many centers now use EBUS as the initial staging modality, and if N2 disease is confirmed, proceed with neoadjuvant chemotherapy and radiation, saving mediastinoscopy for restaging. ",
+      "TextSize": 11.0,
+      "attributes": {
+        "LineHeight": 13
+      }
+    },
+    {
+      "Bounds": [
+        298.93299865722656,
+        51.16859436035156,
+        536.6321868896484,
+        169.0115966796875
+      ],
+      "Font": {
+        "alt_family_name": "Goudy Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Goudy Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+GoudyStd",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1434,
+      "Page": 5,
+      "Path": "//Document/P[42]",
+      "Text": "In addition to nodal staging, other uses for EBUS bronchoscopy in lung cancer are for the biopsy of tumors abutting large airways, tissue diagnosis of small cell lung cancer, assessment of tumor border and depth, and determining the relationship of the tumor with its surrounding mediastinal structures. With the advent of targeted therapy and immunothera-pies and the increasing need for mutational analysis of the tumor cells, EBUS has also been proven ",
+      "TextSize": 11.0,
+      "attributes": {
+        "LineHeight": 13.125,
+        "SpaceAfter": 18,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        54.0,
+        667.5131072998047,
+        290.9394226074219,
+        695.4420928955078
+      ],
+      "Font": {
+        "alt_family_name": "Goudy Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Goudy Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+GoudyStd",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1435,
+      "Page": 6,
+      "Path": "//Document/P[43]",
+      "Text": "to provide adequate tissue sampling for molecular markers.46–48 ",
+      "TextSize": 6.412994384765625,
+      "attributes": {
+        "LineHeight": 14.5
+      }
+    },
+    {
+      "Bounds": [
+        53.993804931640625,
+        463.89239501953125,
+        291.8907165527344,
+        666.3526000976562
+      ],
+      "Font": {
+        "alt_family_name": "Goudy Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Goudy Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+GoudyStd",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1436,
+      "Page": 6,
+      "Path": "//Document/P[44]",
+      "Text": "As a minimally invasive procedure, EBUS bron-choscopy has a strikingly high safety margin. Many studies using EBUS-TBNA reported no significant complications. In one large meta-analysis of 1,299 patients, there were 2 complications: 1 major (0.07%, a pneumothorax requiring a chest tube) and 1 minor (0.07%, transient hypoxemia that resolved after the procedure).34 Given the theoretical risk of bleeding with any biopsy, therapeutic anticoagulation and clopidogrel should ideally be held before the procedure. However, it is safe to continue aspirin.49 Although EBUS bronchoscopy can be performed under moderate sedation, general anesthesia is often used to allow complete staging of all nodes >5 mm. ",
+      "TextSize": 11.0,
+      "attributes": {
+        "LineHeight": 14.5,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        54.01060485839844,
+        420.2664031982422,
+        289.4434356689453,
+        462.7373962402344
+      ],
+      "Font": {
+        "alt_family_name": "Goudy Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Goudy Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+GoudyStd",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1437,
+      "Page": 6,
+      "Path": "//Document/P[45]",
+      "Text": "Overall, EBUS bronchoscopy provides a safe and cost-effective diagnostic tool for the staging of lung cancer. ",
+      "TextSize": 11.0,
+      "attributes": {
+        "LineHeight": 14.625,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        308.8332061767578,
+        681.0,
+        378.8172149658203,
+        695.2200012207031
+      ],
+      "Font": {
+        "alt_family_name": "Frutiger LT Std",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Frutiger LT Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+FrutigerLTStd-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1438,
+      "Page": 6,
+      "Path": "//Document/H1[5]",
+      "Text": "Conclusions ",
+      "TextSize": 12.0,
+      "attributes": {
+        "LineHeight": 14.375,
+        "SpaceAfter": 3
+      }
+    },
+    {
+      "Bounds": [
+        308.8332061767578,
+        420.33909606933594,
+        549.1058959960938,
+        678.05810546875
+      ],
+      "Font": {
+        "alt_family_name": "Goudy Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Goudy Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+GoudyStd",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1439,
+      "Page": 6,
+      "Path": "//Document/P[46]",
+      "Text": "Bronchoscopy in its multiple forms plays a central role in examining the airways, reaching suspicious lesions, and acquiring tissue for diagnosis. For lung cancer, it has important diagnostic and therapeutic applications. EBUS bronchoscopy provides a minimally invasive alternative to surgery for nodal staging with high diagnostic accuracy. Although conventional bronchoscopy allows for easy biopsy of central airway lesions, most lung nodules are in the periphery and not accessible using the standard bronchoscope. Adjunctive guidance tools, such as r-EBUS and NB, have been developed to aid in reaching these peripheral target lesions with significantly improved diagnostic yields. Combining these multiple techniques into one procedure (ie, nodal staging with linear EBUS followed by sampling of a nodule with r-EBUS and NB) may potentially offer a comprehensive evaluation for lung cancer and nodal staging with minimal complications. ",
+      "TextSize": 11.0,
+      "attributes": {
+        "LineHeight": 13.625,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        54.0,
+        386.75,
+        118.46409606933594,
+        400.9700012207031
+      ],
+      "Font": {
+        "alt_family_name": "Frutiger LT Std",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Frutiger LT Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+FrutigerLTStd-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1440,
+      "Page": 6,
+      "Path": "//Document/H1[6]",
+      "Text": "References ",
+      "TextSize": 12.0,
+      "attributes": {
+        "LineHeight": 14.375,
+        "SpaceAfter": 3
+      }
+    },
+    {
+      "Bounds": [
+        65.3280029296875,
+        376.57240295410156,
+        74.2239990234375,
+        386.0523986816406
+      ],
+      "Font": {
+        "alt_family_name": "Frutiger LT Std",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Frutiger LT Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+FrutigerLTStd-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "ObjectID": 1652,
+      "Page": 6,
+      "Path": "//Document/L/LI/Lbl",
+      "Text": "1. ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        76.5,
+        368.6463928222656,
+        289.65843200683594,
+        385.3414001464844
+      ],
+      "Font": {
+        "alt_family_name": "Goudy Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Goudy Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+GoudyStd",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1653,
+      "Page": 6,
+      "Path": "//Document/L/LI/LBody",
+      "Text": "Sim YT, Poon FW. Imaging of solitary pulmonary nodule—a clinical review. Quant Imaging Med Surg 2013;3:316–326. ",
+      "TextSize": 7.0
+    },
+    {
+      "Bounds": [
+        65.3280029296875,
+        358.21710205078125,
+        74.2239990234375,
+        367.6970977783203
+      ],
+      "Font": {
+        "alt_family_name": "Frutiger LT Std",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Frutiger LT Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+FrutigerLTStd-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "ObjectID": 1649,
+      "Page": 6,
+      "Path": "//Document/L/LI[2]/Lbl",
+      "Text": "2. ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        76.5,
+        342.11509704589844,
+        288.35467529296875,
+        366.98609924316406
+      ],
+      "Font": {
+        "alt_family_name": "Goudy Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Goudy Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+GoudyStd",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1650,
+      "Page": 6,
+      "Path": "//Document/L/LI[2]/LBody",
+      "Text": "Yarmus LB, Arias S, Feller-Kopman D, et al. Electromagnetic navigation transthoracic needle aspiration for the diagnosis of pulmonary nodules: a safety and feasibility pilot study. J Thorac Dis 2016;8:186–194. ",
+      "TextSize": 7.0
+    },
+    {
+      "Bounds": [
+        65.3280029296875,
+        331.6842041015625,
+        74.2239990234375,
+        341.16419982910156
+      ],
+      "Font": {
+        "alt_family_name": "Frutiger LT Std",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Frutiger LT Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+FrutigerLTStd-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "ObjectID": 1646,
+      "Page": 6,
+      "Path": "//Document/L/LI[3]/Lbl",
+      "Text": "3. ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        76.5,
+        315.5821990966797,
+        292.01588439941406,
+        340.4532012939453
+      ],
+      "Font": {
+        "alt_family_name": "Goudy Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Goudy Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+GoudyStd",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1647,
+      "Page": 6,
+      "Path": "//Document/L/LI[3]/LBody",
+      "Text": "Swensen SJ, Silverstein MD, Ilstrup DM, et al. The probability of malignancy in solitary pulmonary nodules. Application to small radiologically indeterminate nodules. Arch Intern Med 1997;157:849–855. ",
+      "TextSize": 7.0
+    },
+    {
+      "Bounds": [
+        65.3280029296875,
+        305.15130615234375,
+        74.2239990234375,
+        314.6313018798828
+      ],
+      "Font": {
+        "alt_family_name": "Frutiger LT Std",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Frutiger LT Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+FrutigerLTStd-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "ObjectID": 1643,
+      "Page": 6,
+      "Path": "//Document/L/LI[4]/Lbl",
+      "Text": "4. ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        76.5,
+        289.04930114746094,
+        288.52984619140625,
+        313.92030334472656
+      ],
+      "Font": {
+        "alt_family_name": "Goudy Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Goudy Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+GoudyStd",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1644,
+      "Page": 6,
+      "Path": "//Document/L/LI[4]/LBody",
+      "Text": "National Lung Screening Trial Research Team, Aberle DR, Adams AM, et al. Reduced lung-cancer mortality with low-dose computed tomographic screening. N Engl J Med 2011;365:395–409. ",
+      "TextSize": 7.0
+    },
+    {
+      "Bounds": [
+        65.3280029296875,
+        278.61839294433594,
+        74.2239990234375,
+        288.09840393066406
+      ],
+      "Font": {
+        "alt_family_name": "Frutiger LT Std",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Frutiger LT Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+FrutigerLTStd-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "ObjectID": 1640,
+      "Page": 6,
+      "Path": "//Document/L/LI[5]/Lbl",
+      "Text": "5. ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        76.5,
+        262.5164031982422,
+        288.3757629394531,
+        287.3874053955078
+      ],
+      "Font": {
+        "alt_family_name": "Goudy Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Goudy Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+GoudyStd",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1641,
+      "Page": 6,
+      "Path": "//Document/L/LI[5]/LBody",
+      "Text": "Howlader N, Noone AM, Krapcho M, et al, eds. SEER Cancer Statistics Review, 1975-2013, National Cancer Institute. Bethesda, MD. Available at: http://seer.cancer.gov/csr/1975_2013/. Accessed October 22, 2016. ",
+      "TextSize": 7.0
+    },
+    {
+      "Bounds": [
+        65.3280029296875,
+        252.0854949951172,
+        74.2239990234375,
+        261.5655059814453
+      ],
+      "Font": {
+        "alt_family_name": "Frutiger LT Std",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Frutiger LT Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+FrutigerLTStd-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "ObjectID": 1637,
+      "Page": 6,
+      "Path": "//Document/L/LI[6]/Lbl",
+      "Text": "6. ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        76.5,
+        227.8074951171875,
+        287.9488525390625,
+        260.85450744628906
+      ],
+      "Font": {
+        "alt_family_name": "Goudy Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Goudy Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+GoudyStd",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1638,
+      "Page": 6,
+      "Path": "//Document/L/LI[6]/LBody",
+      "Text": "Gould MK, Donington J, Lynch WR, et al. Evaluation of individuals with pulmonary nodules: when is it lung cancer? Diagnosis and management of lung cancer, 3rd ed: American College of Chest Physicians evidence-based clinical practice guidelines. Chest 2013;143(5 Suppl):e93S–120S. ",
+      "TextSize": 7.0
+    },
+    {
+      "Bounds": [
+        65.3280029296875,
+        217.375,
+        74.2239990234375,
+        226.85499572753906
+      ],
+      "Font": {
+        "alt_family_name": "Frutiger LT Std",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Frutiger LT Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+FrutigerLTStd-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "ObjectID": 1634,
+      "Page": 6,
+      "Path": "//Document/L/LI[7]/Lbl",
+      "Text": "7. ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        76.5,
+        201.2729949951172,
+        287.7735137939453,
+        226.1439971923828
+      ],
+      "Font": {
+        "alt_family_name": "Goudy Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Goudy Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+GoudyStd",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1635,
+      "Page": 6,
+      "Path": "//Document/L/LI[7]/LBody",
+      "Text": "Paul S, Altorki NK, Sheng S, et al. Thoracoscopic lobectomy is associated with lower morbidity than open lobectomy: a propensity-matched analysis from the STS database. J Thorac Cardiovasc Surg 2010;139:366–378. ",
+      "TextSize": 7.0
+    },
+    {
+      "Bounds": [
+        65.3280029296875,
+        190.84210205078125,
+        74.2239990234375,
+        200.3220977783203
+      ],
+      "Font": {
+        "alt_family_name": "Frutiger LT Std",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Frutiger LT Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+FrutigerLTStd-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "ObjectID": 1631,
+      "Page": 6,
+      "Path": "//Document/L/LI[8]/Lbl",
+      "Text": "8. ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        76.5,
+        166.56410217285156,
+        289.6492614746094,
+        199.61109924316406
+      ],
+      "Font": {
+        "alt_family_name": "Goudy Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Goudy Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+GoudyStd",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1632,
+      "Page": 6,
+      "Path": "//Document/L/LI[8]/LBody",
+      "Text": "Rivera MP, Mehta AC, Wahidi MM. Establishing the diagnosis of lung cancer: diagnosis and management of lung cancer, 3rd ed: American College of Chest Physicians evidence-based clinical practice guidelines. Chest 2013;143(Suppl 5):e142S–165S. ",
+      "TextSize": 7.0
+    },
+    {
+      "Bounds": [
+        65.3280029296875,
+        156.13160705566406,
+        74.2239990234375,
+        165.61160278320312
+      ],
+      "Font": {
+        "alt_family_name": "Frutiger LT Std",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Frutiger LT Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+FrutigerLTStd-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "ObjectID": 1628,
+      "Page": 6,
+      "Path": "//Document/L/LI[9]/Lbl",
+      "Text": "9. ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        76.5,
+        131.85360717773438,
+        288.76771545410156,
+        164.90060424804688
+      ],
+      "Font": {
+        "alt_family_name": "Goudy Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Goudy Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+GoudyStd",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1629,
+      "Page": 6,
+      "Path": "//Document/L/LI[9]/LBody",
+      "Text": "Wiener RS, Schwartz LM, Woloshin S, Welch HG. Population-based risk for complications after transthoracic needle lung biopsy of a pulmonary nodule: an analysis of discharge records. Ann Intern Med 2011;155:137– 144. ",
+      "TextSize": 7.0
+    },
+    {
+      "Bounds": [
+        60.8800048828125,
+        121.42109680175781,
+        74.2239990234375,
+        130.90109252929688
+      ],
+      "Font": {
+        "alt_family_name": "Frutiger LT Std",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Frutiger LT Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+FrutigerLTStd-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "ObjectID": 1625,
+      "Page": 6,
+      "Path": "//Document/L/LI[10]/Lbl",
+      "Text": "10. ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        76.5,
+        105.31910705566406,
+        291.07769775390625,
+        130.19009399414062
+      ],
+      "Font": {
+        "alt_family_name": "Goudy Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Goudy Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+GoudyStd",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1626,
+      "Page": 6,
+      "Path": "//Document/L/LI[10]/LBody",
+      "Text": "Wang Memoli JS, Nietert PJ, Silvestri GA. Meta-analysis of guided bronchoscopy for the evaluation of the pulmonary nodule. Chest 2012;142:385–393. ",
+      "TextSize": 7.0
+    },
+    {
+      "Bounds": [
+        60.8800048828125,
+        94.88819885253906,
+        74.2239990234375,
+        104.36819458007812
+      ],
+      "Font": {
+        "alt_family_name": "Frutiger LT Std",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Frutiger LT Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+FrutigerLTStd-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "ObjectID": 1622,
+      "Page": 6,
+      "Path": "//Document/L/LI[11]/Lbl",
+      "Text": "11. ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        76.5,
+        78.78619384765625,
+        290.62303161621094,
+        103.65719604492188
+      ],
+      "Font": {
+        "alt_family_name": "Goudy Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Goudy Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+GoudyStd",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1623,
+      "Page": 6,
+      "Path": "//Document/L/LI[11]/LBody",
+      "Text": "Schreiber G, McCrory DC. Performance characteristics of different modalities for diagnosis of suspected lung cancer: summary of published evidence. Chest 2003;123(Suppl):115S–128S. ",
+      "TextSize": 7.0
+    },
+    {
+      "Bounds": [
+        60.8800048828125,
+        68.35530090332031,
+        74.2239990234375,
+        77.83529663085938
+      ],
+      "Font": {
+        "alt_family_name": "Frutiger LT Std",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Frutiger LT Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+FrutigerLTStd-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "ObjectID": 1619,
+      "Page": 6,
+      "Path": "//Document/L/LI[12]/Lbl",
+      "Text": "12. ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        76.5,
+        52.2532958984375,
+        290.6299133300781,
+        77.12429809570312
+      ],
+      "Font": {
+        "alt_family_name": "Goudy Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Goudy Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+GoudyStd",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1620,
+      "Page": 6,
+      "Path": "//Document/L/LI[12]/LBody",
+      "Text": "Baaklini WA, Reinoso MA, Gorin AB, et al. Diagnostic yield of fiberoptic bronchoscopy in evaluating solitary pulmonary nodules. Chest 2000;117:1049–1054. ",
+      "TextSize": 7.0
+    },
+    {
+      "Bounds": [
+        50.97999572753906,
+        685.7850036621094,
+        64.32398986816406,
+        695.2649993896484
+      ],
+      "Font": {
+        "alt_family_name": "Frutiger LT Std",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Frutiger LT Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+FrutigerLTStd-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "ObjectID": 1291,
+      "Page": 7,
+      "Path": "//Document/L/LI[13]/Lbl",
+      "Text": "27. ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        66.60000610351562,
+        677.7050018310547,
+        277.97161865234375,
+        694.5540008544922
+      ],
+      "Font": {
+        "alt_family_name": "Goudy Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Goudy Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+GoudyStd",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1292,
+      "Page": 7,
+      "Path": "//Document/L/LI[13]/LBody",
+      "Text": "Wang KP, Terry PB. Transbronchial needle aspiration in the diagnosis and staging of bronchogenic carcinoma. Am Rev Respir Dis 1983;127:344–347. ",
+      "TextSize": 7.0
+    },
+    {
+      "Bounds": [
+        50.97999572753906,
+        667.12939453125,
+        64.32398986816406,
+        676.6094055175781
+      ],
+      "Font": {
+        "alt_family_name": "Frutiger LT Std",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Frutiger LT Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+FrutigerLTStd-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "ObjectID": 1293,
+      "Page": 7,
+      "Path": "//Document/L/LI[14]/Lbl",
+      "Text": "28. ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        66.60000610351562,
+        650.7194061279297,
+        279.0640411376953,
+        675.8984069824219
+      ],
+      "Font": {
+        "alt_family_name": "Goudy Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Goudy Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+GoudyStd",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1294,
+      "Page": 7,
+      "Path": "//Document/L/LI[14]/LBody",
+      "Text": "Yasufuku K, Chiyo M, Sekine Y, et al. Real-time endobronchial ultrasound-guided transbronchial needle aspiration of mediastinal and hilar lymph nodes. Chest 2004;126:122–128. ",
+      "TextSize": 7.0
+    },
+    {
+      "Bounds": [
+        50.97999572753906,
+        640.1459045410156,
+        64.32398986816406,
+        649.6259002685547
+      ],
+      "Font": {
+        "alt_family_name": "Frutiger LT Std",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Frutiger LT Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+FrutigerLTStd-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "ObjectID": 1295,
+      "Page": 7,
+      "Path": "//Document/L/LI[15]/Lbl",
+      "Text": "29. ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        66.60000610351562,
+        623.7359008789062,
+        279.55345153808594,
+        648.9149017333984
+      ],
+      "Font": {
+        "alt_family_name": "Goudy Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Goudy Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+GoudyStd",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1296,
+      "Page": 7,
+      "Path": "//Document/L/LI[15]/LBody",
+      "Text": "Lababede O, Meziane M, Rice T. Seventh edition of the cancer staging manual and stage grouping of lung cancer: quick reference chart and diagrams. Chest 2011;139:183–189. ",
+      "TextSize": 7.0
+    },
+    {
+      "Bounds": [
+        50.97999572753906,
+        613.1625061035156,
+        64.32398986816406,
+        622.6425018310547
+      ],
+      "Font": {
+        "alt_family_name": "Frutiger LT Std",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Frutiger LT Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+FrutigerLTStd-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "ObjectID": 1297,
+      "Page": 7,
+      "Path": "//Document/L/LI[16]/Lbl",
+      "Text": "30. ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        66.60000610351562,
+        605.0825042724609,
+        278.4757080078125,
+        621.9315032958984
+      ],
+      "Font": {
+        "alt_family_name": "Goudy Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Goudy Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+GoudyStd",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1298,
+      "Page": 7,
+      "Path": "//Document/L/LI[16]/LBody",
+      "Text": "Gomez M, Silvestri GA. Endobronchial ultrasound for the diagnosis and staging of lung cancer. Proc Am Thorac Soc 2009;6:180–186. ",
+      "TextSize": 7.0
+    },
+    {
+      "Bounds": [
+        50.97999572753906,
+        594.5068054199219,
+        64.32398986816406,
+        603.9868011474609
+      ],
+      "Font": {
+        "alt_family_name": "Frutiger LT Std",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Frutiger LT Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+FrutigerLTStd-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "ObjectID": 1299,
+      "Page": 7,
+      "Path": "//Document/L/LI[17]/Lbl",
+      "Text": "31. ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        66.60000610351562,
+        578.0968017578125,
+        279.22532653808594,
+        603.2758026123047
+      ],
+      "Font": {
+        "alt_family_name": "Goudy Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Goudy Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+GoudyStd",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1300,
+      "Page": 7,
+      "Path": "//Document/L/LI[17]/LBody",
+      "Text": "Cerfolio RJ, Bryant AS, Eloubeidi MA. Accessing the aortopulmonary window (#5) and the paraaortic (#6) lymph nodes in patients with non-small cell lung cancer. Ann Thorac Surg 2007;84:940–945. ",
+      "TextSize": 7.0
+    },
+    {
+      "Bounds": [
+        50.97999572753906,
+        567.5234069824219,
+        64.32398986816406,
+        577.0034027099609
+      ],
+      "Font": {
+        "alt_family_name": "Frutiger LT Std",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Frutiger LT Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+FrutigerLTStd-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "ObjectID": 1301,
+      "Page": 7,
+      "Path": "//Document/L/LI[18]/Lbl",
+      "Text": "32. ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        66.60000610351562,
+        551.1134033203125,
+        280.2812194824219,
+        576.2924041748047
+      ],
+      "Font": {
+        "alt_family_name": "Goudy Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Goudy Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+GoudyStd",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1302,
+      "Page": 7,
+      "Path": "//Document/L/LI[18]/LBody",
+      "Text": "De Leyn P, Dooms C, Kuzdzal J, et al. Revised ESTS guidelines for preoperative mediastinal lymph node staging for non-small-cell lung cancer. Eur J Cardiothorac Surg 2014;45:787–798. ",
+      "TextSize": 7.0
+    },
+    {
+      "Bounds": [
+        50.97999572753906,
+        540.5399017333984,
+        64.32398986816406,
+        550.0198974609375
+      ],
+      "Font": {
+        "alt_family_name": "Frutiger LT Std",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Frutiger LT Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+FrutigerLTStd-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "ObjectID": 1303,
+      "Page": 7,
+      "Path": "//Document/L/LI[19]/Lbl",
+      "Text": "33. ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        66.60000610351562,
+        515.7998962402344,
+        278.6019744873047,
+        549.3088989257812
+      ],
+      "Font": {
+        "alt_family_name": "Goudy Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Goudy Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+GoudyStd",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1304,
+      "Page": 7,
+      "Path": "//Document/L/LI[19]/LBody",
+      "Text": "Lee HS, Lee GK, Lee HS, et al. Real-time endobronchial ultrasound-guided transbronchial needle aspiration in mediastinal staging of non-small cell lung cancer: how many aspirations per target lymph node station? Chest 2008;134:368–374. ",
+      "TextSize": 7.0
+    },
+    {
+      "Bounds": [
+        50.97999572753906,
+        505.2286071777344,
+        64.32398986816406,
+        514.7086029052734
+      ],
+      "Font": {
+        "alt_family_name": "Frutiger LT Std",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Frutiger LT Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+FrutigerLTStd-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "ObjectID": 1305,
+      "Page": 7,
+      "Path": "//Document/L/LI[20]/Lbl",
+      "Text": "34. ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        66.60000610351562,
+        488.818603515625,
+        280.96826171875,
+        513.9976043701172
+      ],
+      "Font": {
+        "alt_family_name": "Goudy Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Goudy Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+GoudyStd",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1306,
+      "Page": 7,
+      "Path": "//Document/L/LI[20]/LBody",
+      "Text": "Gu P, Zhao YZ, Jiang LY, et al. Endobronchial ultrasound-guided transbronchial needle aspiration for staging of lung cancer: a systematic review and meta-analysis. Eur J Cancer 2009;45:1389–1396. ",
+      "TextSize": 7.0
+    },
+    {
+      "Bounds": [
+        50.97999572753906,
+        478.24510192871094,
+        64.32398986816406,
+        487.72509765625
+      ],
+      "Font": {
+        "alt_family_name": "Frutiger LT Std",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Frutiger LT Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+FrutigerLTStd-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "ObjectID": 1307,
+      "Page": 7,
+      "Path": "//Document/L/LI[21]/Lbl",
+      "Text": "35. ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        66.60000610351562,
+        453.5050964355469,
+        279.44215393066406,
+        487.01409912109375
+      ],
+      "Font": {
+        "alt_family_name": "Goudy Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Goudy Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+GoudyStd",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1308,
+      "Page": 7,
+      "Path": "//Document/L/LI[21]/LBody",
+      "Text": "Adams K, Shah PL, Edmonds L, Lim E. Test performance of endobronchial ultrasound and transbronchial needle aspiration biopsy for mediastinal staging in patients with lung cancer: systematic review and meta-analysis. Thorax 2009;64:757–762. ",
+      "TextSize": 7.0
+    },
+    {
+      "Bounds": [
+        50.97999572753906,
+        442.9338073730469,
+        64.32398986816406,
+        452.41380310058594
+      ],
+      "Font": {
+        "alt_family_name": "Frutiger LT Std",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Frutiger LT Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+FrutigerLTStd-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "ObjectID": 1309,
+      "Page": 7,
+      "Path": "//Document/L/LI[22]/Lbl",
+      "Text": "36. ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        66.60000610351562,
+        418.1938018798828,
+        280.8771667480469,
+        451.7028045654297
+      ],
+      "Font": {
+        "alt_family_name": "Goudy Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Goudy Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+GoudyStd",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1310,
+      "Page": 7,
+      "Path": "//Document/L/LI[22]/LBody",
+      "Text": "Chandra S, Nehra M, Agarwal D, Mohan A. Diagnostic accuracy of endobronchial ultrasound-guided transbronchial needle biopsy in mediastinal lymphadenopathy: a systematic review and meta-analysis. Respir Care 2012;57:384–391. ",
+      "TextSize": 7.0
+    },
+    {
+      "Bounds": [
+        50.97999572753906,
+        407.6226043701172,
+        64.32398986816406,
+        417.10260009765625
+      ],
+      "Font": {
+        "alt_family_name": "Frutiger LT Std",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Frutiger LT Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+FrutigerLTStd-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "ObjectID": 1311,
+      "Page": 7,
+      "Path": "//Document/L/LI[23]/Lbl",
+      "Text": "37. ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        66.60000610351562,
+        391.2126007080078,
+        279.5052490234375,
+        416.3916015625
+      ],
+      "Font": {
+        "alt_family_name": "Goudy Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Goudy Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+GoudyStd",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1312,
+      "Page": 7,
+      "Path": "//Document/L/LI[23]/LBody",
+      "Text": "Cho JH, Kim J, Kim K, et al. A comparative analysis of video-assisted mediastinoscopy and conventional mediastinoscopy. Ann Thorac Surg 2011;92:1007–1011. ",
+      "TextSize": 7.0
+    },
+    {
+      "Bounds": [
+        50.97999572753906,
+        380.63909912109375,
+        64.32398986816406,
+        390.1190948486328
+      ],
+      "Font": {
+        "alt_family_name": "Frutiger LT Std",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Frutiger LT Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+FrutigerLTStd-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "ObjectID": 1313,
+      "Page": 7,
+      "Path": "//Document/L/LI[24]/Lbl",
+      "Text": "38. ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        66.60000610351562,
+        364.2290954589844,
+        282.5071105957031,
+        389.40809631347656
+      ],
+      "Font": {
+        "alt_family_name": "Goudy Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Goudy Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+GoudyStd",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1314,
+      "Page": 7,
+      "Path": "//Document/L/LI[24]/LBody",
+      "Text": "Anraku M, Miyata R, Compeau C, Shargall Y. Video-assisted mediastinoscopy compared with conventional mediastinoscopy: are we doing better? Ann Thorac Surg 2010;89:1577–1581. ",
+      "TextSize": 7.0
+    },
+    {
+      "Bounds": [
+        50.97999572753906,
+        353.6555938720703,
+        64.32398986816406,
+        363.13560485839844
+      ],
+      "Font": {
+        "alt_family_name": "Frutiger LT Std",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Frutiger LT Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+FrutigerLTStd-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "ObjectID": 1315,
+      "Page": 7,
+      "Path": "//Document/L/LI[25]/Lbl",
+      "Text": "39. ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        66.60000610351562,
+        337.24560546875,
+        280.0584259033203,
+        362.4246063232422
+      ],
+      "Font": {
+        "alt_family_name": "Goudy Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Goudy Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+GoudyStd",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1316,
+      "Page": 7,
+      "Path": "//Document/L/LI[25]/LBody",
+      "Text": "Rami-Porta R, Call S. Invasive staging of mediastinal lymph nodes: mediastinoscopy and remediastinoscopy. Thorac Surg Clin 2012;22:177– 189. ",
+      "TextSize": 7.0
+    },
+    {
+      "Bounds": [
+        305.8132019042969,
+        685.7850036621094,
+        319.1571960449219,
+        695.2649993896484
+      ],
+      "Font": {
+        "alt_family_name": "Frutiger LT Std",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Frutiger LT Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+FrutigerLTStd-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "ObjectID": 1317,
+      "Page": 7,
+      "Path": "//Document/L/LI[26]/Lbl",
+      "Text": "40. ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        321.4331970214844,
+        659.2180023193359,
+        535.8233489990234,
+        694.5540008544922
+      ],
+      "Font": {
+        "alt_family_name": "Goudy Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Goudy Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+GoudyStd",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1318,
+      "Page": 7,
+      "Path": "//Document/L/LI[26]/LBody",
+      "Text": "Yasufuku K, Pierre A, Darling G, et al. A prospective controlled trial of endobronchial ultrasound-guided transbronchial needle aspiration compared with mediastinoscopy for mediastinal lymph node staging of lung cancer. J Thorac Cardiovasc Surg 2011;142:1393–1400. ",
+      "TextSize": 7.0
+    },
+    {
+      "Bounds": [
+        305.8132019042969,
+        648.0245056152344,
+        319.1571960449219,
+        657.5045013427734
+      ],
+      "Font": {
+        "alt_family_name": "Frutiger LT Std",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Frutiger LT Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+FrutigerLTStd-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "ObjectID": 1319,
+      "Page": 7,
+      "Path": "//Document/L/LI[27]/Lbl",
+      "Text": "41. ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        321.4331970214844,
+        630.3964996337891,
+        533.9186401367188,
+        656.7935028076172
+      ],
+      "Font": {
+        "alt_family_name": "Goudy Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Goudy Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+GoudyStd",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1320,
+      "Page": 7,
+      "Path": "//Document/L/LI[27]/LBody",
+      "Text": "Annema JT, van Meerbeeck JP, Rintoul RC, et al. Mediastinoscopy vs endosonography for mediastinal nodal staging of lung cancer: a randomized trial. JAMA 2010;304:2245–2252. ",
+      "TextSize": 7.0
+    },
+    {
+      "Bounds": [
+        305.8132019042969,
+        619.2041015625,
+        319.1571960449219,
+        628.6840972900391
+      ],
+      "Font": {
+        "alt_family_name": "Frutiger LT Std",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Frutiger LT Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+FrutigerLTStd-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "ObjectID": 1321,
+      "Page": 7,
+      "Path": "//Document/L/LI[28]/Lbl",
+      "Text": "42. ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        321.4331970214844,
+        592.6371002197266,
+        536.9907989501953,
+        627.9730987548828
+      ],
+      "Font": {
+        "alt_family_name": "Goudy Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Goudy Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+GoudyStd",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1322,
+      "Page": 7,
+      "Path": "//Document/L/LI[28]/LBody",
+      "Text": "Herth FJ, Eberhardt R, Krasnik M, Ernst A. Endobronchial ultrasound-guided transbronchial needle aspiration of lymph nodes in the radiologically and positron emission tomography-normal mediastinum in patients with lung cancer. Chest 2008;133:887–891. ",
+      "TextSize": 7.0
+    },
+    {
+      "Bounds": [
+        305.8132019042969,
+        581.4434967041016,
+        319.1571960449219,
+        590.9234924316406
+      ],
+      "Font": {
+        "alt_family_name": "Frutiger LT Std",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Frutiger LT Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+FrutigerLTStd-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "ObjectID": 1323,
+      "Page": 7,
+      "Path": "//Document/L/LI[29]/Lbl",
+      "Text": "43. ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        321.4331970214844,
+        554.8764953613281,
+        535.0737609863281,
+        590.2124938964844
+      ],
+      "Font": {
+        "alt_family_name": "Goudy Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Goudy Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+GoudyStd",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1324,
+      "Page": 7,
+      "Path": "//Document/L/LI[29]/LBody",
+      "Text": "Szlubowski A, Zielinski M, Soja J, et al. A combined approach of endobronchial and endoscopic ultrasound-guided needle aspiration in the radiologically normal mediastinum in non-small-cell lung cancer staging - a prospective trial. Eur J Cardiothorac Surg 2010;37:1175–1179. ",
+      "TextSize": 7.0
+    },
+    {
+      "Bounds": [
+        305.8132019042969,
+        543.6829986572266,
+        319.1571960449219,
+        553.1629943847656
+      ],
+      "Font": {
+        "alt_family_name": "Frutiger LT Std",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Frutiger LT Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+FrutigerLTStd-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "ObjectID": 1325,
+      "Page": 7,
+      "Path": "//Document/L/LI[30]/Lbl",
+      "Text": "44. ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        321.4331970214844,
+        499.2380065917969,
+        533.8658752441406,
+        552.4519958496094
+      ],
+      "Font": {
+        "alt_family_name": "Goudy Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Goudy Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+GoudyStd",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1326,
+      "Page": 7,
+      "Path": "//Document/L/LI[30]/LBody",
+      "Text": "De Leyn P, Stroobants S, De Wever W, et al. Prospective comparative study of integrated positron emission tomography-computed tomography scan compared with remediastinoscopy in the assessment of residual mediastinal lymph node disease after induction chemotherapy for mediastinoscopy-proven stage IIIA-N2 non–small-cell lung cancer: a Leuven Lung Cancer Group Study. J Clin Oncol 2006;24:3333–3339. ",
+      "TextSize": 7.0
+    },
+    {
+      "Bounds": [
+        305.8132019042969,
+        488.0422058105469,
+        319.1571960449219,
+        497.52220153808594
+      ],
+      "Font": {
+        "alt_family_name": "Frutiger LT Std",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Frutiger LT Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+FrutigerLTStd-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "ObjectID": 1327,
+      "Page": 7,
+      "Path": "//Document/L/LI[31]/Lbl",
+      "Text": "45. ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        321.4331970214844,
+        470.41419982910156,
+        534.0439910888672,
+        496.8112030029297
+      ],
+      "Font": {
+        "alt_family_name": "Goudy Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Goudy Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+GoudyStd",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1328,
+      "Page": 7,
+      "Path": "//Document/L/LI[31]/LBody",
+      "Text": "Herth FJ, Annema JT, Eberhardt R, et al. Endobronchial ultrasound with transbronchial needle aspiration for restaging the mediastinum in lung cancer. J Clin Oncol 2008;26:3346–3350. ",
+      "TextSize": 7.0
+    },
+    {
+      "Bounds": [
+        305.8132019042969,
+        459.2218017578125,
+        319.1571960449219,
+        468.70179748535156
+      ],
+      "Font": {
+        "alt_family_name": "Frutiger LT Std",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Frutiger LT Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+FrutigerLTStd-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "ObjectID": 1329,
+      "Page": 7,
+      "Path": "//Document/L/LI[32]/Lbl",
+      "Text": "46. ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        321.4331970214844,
+        423.71580505371094,
+        537.7264251708984,
+        467.9907989501953
+      ],
+      "Font": {
+        "alt_family_name": "Goudy Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Goudy Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+GoudyStd",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1330,
+      "Page": 7,
+      "Path": "//Document/L/LI[32]/LBody",
+      "Text": "van der Heijden EH, Casal RF, Trisolini R, et al. Guideline for the acquisition and preparation of conventional and endobronchial ultrasound-guided transbronchial needle aspiration specimens for the diagnosis and molecular testing of patients with known or suspected lung cancer. Respiration 2014;88:500–517. ",
+      "TextSize": 7.0
+    },
+    {
+      "Bounds": [
+        305.8132019042969,
+        412.52110290527344,
+        319.1571960449219,
+        422.0010986328125
+      ],
+      "Font": {
+        "alt_family_name": "Frutiger LT Std",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Frutiger LT Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+FrutigerLTStd-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "ObjectID": 1331,
+      "Page": 7,
+      "Path": "//Document/L/LI[33]/Lbl",
+      "Text": "47. ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        321.4331970214844,
+        394.8930969238281,
+        532.6652679443359,
+        421.29010009765625
+      ],
+      "Font": {
+        "alt_family_name": "Goudy Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Goudy Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+GoudyStd",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1332,
+      "Page": 7,
+      "Path": "//Document/L/LI[33]/LBody",
+      "Text": "Yarmus L, Akulian J, Gilbert C, et al. Optimizing endobronchial ultrasound for molecular analysis. How many passes are needed? Ann Am Thorac Soc 2013;10:636–643. ",
+      "TextSize": 7.0
+    },
+    {
+      "Bounds": [
+        305.8132019042969,
+        383.70069885253906,
+        319.1571960449219,
+        393.1806945800781
+      ],
+      "Font": {
+        "alt_family_name": "Frutiger LT Std",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Frutiger LT Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+FrutigerLTStd-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "ObjectID": 1333,
+      "Page": 7,
+      "Path": "//Document/L/LI[34]/Lbl",
+      "Text": "48. ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        321.4331970214844,
+        357.1336975097656,
+        536.6063842773438,
+        392.4696960449219
+      ],
+      "Font": {
+        "alt_family_name": "Goudy Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Goudy Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+GoudyStd",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1334,
+      "Page": 7,
+      "Path": "//Document/L/LI[34]/LBody",
+      "Text": "Sakairi Y, Nakajima T, Yasufuku K, et al. EML4-ALK fusion gene assessment using metastatic lymph node samples obtained by endobronchial ultrasound-guided transbronchial needle aspiration. Clin Cancer Res 2010;16:4938–4945. ",
+      "TextSize": 7.0
+    },
+    {
+      "Bounds": [
+        305.8132019042969,
+        345.9400939941406,
+        319.1571960449219,
+        355.42010498046875
+      ],
+      "Font": {
+        "alt_family_name": "Frutiger LT Std",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Frutiger LT Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+FrutigerLTStd-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "ObjectID": 1335,
+      "Page": 7,
+      "Path": "//Document/L/LI[35]/Lbl",
+      "Text": "49. ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        321.4331970214844,
+        337.2510986328125,
+        535.0313568115234,
+        354.7091064453125
+      ],
+      "Font": {
+        "alt_family_name": "Goudy Std",
+        "embedded": true,
+        "encoding": "Custom",
+        "family_name": "Goudy Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+GoudyStd",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1336,
+      "Page": 7,
+      "Path": "//Document/L/LI[35]/LBody",
+      "Text": "Herth FJ, Becker HD, Ernst A. Aspirin does not increase bleeding complications after transbronchial biopsy. Chest 2002;122:1461–1464. ",
+      "TextSize": 7.0
+    },
+    {
+      "Bounds": [
+        315.71319580078125,
+        383.7489929199219,
+        543.7828216552734,
+        401.01499938964844
+      ],
+      "Font": {
+        "alt_family_name": "Frutiger LT Std",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Frutiger LT Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+FrutigerLTStd-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1441,
+      "Page": 6,
+      "Path": "//Document/Footnote",
+      "Text": "13. Bauer TL, Berkheim DB. Bronchoscopy: diagnostic and therapeutic for non-small cell lung cancer. Surg Oncol Clin N Am 2016;25:481–491. ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 8,
+        "TextAlign": "Center"
+      }
+    },
+    {
+      "Bounds": [
+        315.71319580078125,
+        357.63429260253906,
+        542.5198669433594,
+        382.93629455566406
+      ],
+      "Font": {
+        "alt_family_name": "Frutiger LT Std",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Frutiger LT Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+FrutigerLTStd-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1442,
+      "Page": 6,
+      "Path": "//Document/Footnote[2]",
+      "Text": "14. Schwarz Y, Greif J, Becker HD, et al. Real-time electromagnetic navigation bronchoscopy to peripheral lung lesions using overlaid CT images: the first human study. Chest 2006;129:988–994. ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 8
+      }
+    },
+    {
+      "Bounds": [
+        315.71319580078125,
+        331.5162048339844,
+        544.4623565673828,
+        356.8182067871094
+      ],
+      "Font": {
+        "alt_family_name": "Frutiger LT Std",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Frutiger LT Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+FrutigerLTStd-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1443,
+      "Page": 6,
+      "Path": "//Document/Footnote[3]",
+      "Text": "15. Rooney CP, Wolf K, McLennan G. Ultrathin bronchoscopy as an adjunct to standard bronchoscopy in the diagnosis of peripheral lung lesions. Respiration 2002;69:63–68. ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 8
+      }
+    },
+    {
+      "Bounds": [
+        315.71319580078125,
+        305.398193359375,
+        544.2245330810547,
+        330.7001953125
+      ],
+      "Font": {
+        "alt_family_name": "Frutiger LT Std",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Frutiger LT Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+FrutigerLTStd-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1444,
+      "Page": 6,
+      "Path": "//Document/Footnote[4]",
+      "Text": "16. Schuurmans MM, Michaud GC, Diacon AH, Bolliger CT. Use of an ultrathin bronchoscope in the assessment of central airway obstruction. Chest 2003;124:735–739. ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 8
+      }
+    },
+    {
+      "Bounds": [
+        315.71319580078125,
+        279.2801055908203,
+        544.616455078125,
+        304.5821075439453
+      ],
+      "Font": {
+        "alt_family_name": "Frutiger LT Std",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Frutiger LT Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+FrutigerLTStd-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1445,
+      "Page": 6,
+      "Path": "//Document/Footnote[5]",
+      "Text": "17. Arias S, Yarmus L, Argento AC. Navigational transbronchial needle aspiration, percutaneous needle aspiration and its future. J Thorac Dis 2015;7(Suppl 4):S317–328. ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 8
+      }
+    },
+    {
+      "Bounds": [
+        315.71319580078125,
+        261.197998046875,
+        544.0633392333984,
+        278.46400451660156
+      ],
+      "Font": {
+        "alt_family_name": "Frutiger LT Std",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Frutiger LT Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+FrutigerLTStd-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1446,
+      "Page": 6,
+      "Path": "//Document/Footnote[6]",
+      "Text": "18. Asano F, Eberhardt R, Herth FJ. Virtual bronchoscopic navigation for peripheral pulmonary lesions. Respiration 2014;88:430–440. ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 8
+      }
+    },
+    {
+      "Bounds": [
+        315.71319580078125,
+        243.11929321289062,
+        543.0835723876953,
+        260.3852996826172
+      ],
+      "Font": {
+        "alt_family_name": "Frutiger LT Std",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Frutiger LT Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+FrutigerLTStd-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1447,
+      "Page": 6,
+      "Path": "//Document/Footnote[7]",
+      "Text": "19. Balamugesh T, Herth FJ. Endobronchial ultrasound: a new innovation in bronchoscopy. Lung India 2009;26:17–21. ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 8
+      }
+    },
+    {
+      "Bounds": [
+        315.71319580078125,
+        217.0045928955078,
+        543.9157257080078,
+        242.3065948486328
+      ],
+      "Font": {
+        "alt_family_name": "Frutiger LT Std",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Frutiger LT Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+FrutigerLTStd-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1448,
+      "Page": 6,
+      "Path": "//Document/Footnote[8]",
+      "Text": "20. Eberhardt R, Anantham D, Herth F, et al. Electromagnetic navigation diagnostic bronchoscopy in peripheral lung lesions. Chest 2007;131:1800– 1805. ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 8
+      }
+    },
+    {
+      "Bounds": [
+        315.71319580078125,
+        190.88650512695312,
+        544.2101745605469,
+        216.18850708007812
+      ],
+      "Font": {
+        "alt_family_name": "Frutiger LT Std",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Frutiger LT Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+FrutigerLTStd-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1449,
+      "Page": 6,
+      "Path": "//Document/Footnote[9]",
+      "Text": "21. Ost DE, Ernst A, Lei X, et al. Diagnostic yield and complications of bronchoscopy for peripheral lung lesions. Results of the AQuIRE registry. Am J Respir Crit Care Med 2016;193:68–77. ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 8
+      }
+    },
+    {
+      "Bounds": [
+        315.71319580078125,
+        164.76840209960938,
+        544.7100372314453,
+        190.07040405273438
+      ],
+      "Font": {
+        "alt_family_name": "Frutiger LT Std",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Frutiger LT Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+FrutigerLTStd-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1450,
+      "Page": 6,
+      "Path": "//Document/Footnote[10]",
+      "Text": "22. Diette GB, White P, Terry P, et al. Utility of on-site cytopathology assessment for bronchoscopic evaluation of lung masses and adenopathy. Chest 2000;117:1186–1190. ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 8
+      }
+    },
+    {
+      "Bounds": [
+        315.71319580078125,
+        138.65029907226562,
+        543.7902984619141,
+        163.95230102539062
+      ],
+      "Font": {
+        "alt_family_name": "Frutiger LT Std",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Frutiger LT Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+FrutigerLTStd-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1451,
+      "Page": 6,
+      "Path": "//Document/Footnote[11]",
+      "Text": "23. Diacon AH, Schuurmans MM, Theron J, et al. Utility of rapid on-site evaluation of transbronchial needle aspirates. Respiration 2005;72:182– 188. ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 8
+      }
+    },
+    {
+      "Bounds": [
+        315.71319580078125,
+        120.56820678710938,
+        542.7117614746094,
+        137.83419799804688
+      ],
+      "Font": {
+        "alt_family_name": "Frutiger LT Std",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Frutiger LT Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+FrutigerLTStd-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1452,
+      "Page": 6,
+      "Path": "//Document/Footnote[12]",
+      "Text": "24. Khan KA, Nardelli P, Jaeger A, et al. Navigational bronchoscopy for early lung cancer: a road to therapy. Adv Ther 2016;33:580–596. ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 8
+      }
+    },
+    {
+      "Bounds": [
+        315.71319580078125,
+        86.41749572753906,
+        543.9162292480469,
+        119.7554931640625
+      ],
+      "Font": {
+        "alt_family_name": "Frutiger LT Std",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Frutiger LT Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+FrutigerLTStd-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1453,
+      "Page": 6,
+      "Path": "//Document/Footnote[13]",
+      "Text": "25. Silvestri GA, Gonzalez AV, Jantz MA, et al. Methods for staging non-small cell lung cancer: diagnosis and management of lung cancer, 3rd ed: American College of Chest Physicians evidence-based clinical practice guidelines. Chest 2013;143(Suppl 5):e211S–250S. ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 8
+      }
+    },
+    {
+      "Bounds": [
+        315.71319580078125,
+        52.260101318359375,
+        543.9162292480469,
+        85.59809875488281
+      ],
+      "Font": {
+        "alt_family_name": "Frutiger LT Std",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Frutiger LT Std",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "QSYEHF+FrutigerLTStd-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1454,
+      "Page": 6,
+      "Path": "//Document/Footnote[14]",
+      "Text": "26. Ramnath N, Dilling TJ, Harris LJ, et al. Treatment of stage III non-small cell lung cancer: diagnosis and management of lung cancer, 3rd ed: American College of Chest Physicians evidence-based clinical practice guidelines. Chest 2013;143(Suppl 5):e314S–340S. ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 8,
+        "SpaceAfter": 18
+      }
+    }
+  ],
+  "pages": [
+    {
+      "boxes": {
+        "CropBox": [
+          0.0,
+          0.0,
+          585.0,
+          783.0
+        ],
+        "MediaBox": [
+          0.0,
+          0.0,
+          585.0,
+          783.0
+        ]
+      },
+      "height": 783.0,
+      "is_scanned": false,
+      "page_number": 0,
+      "rotation": 0,
+      "width": 585.0
+    },
+    {
+      "boxes": {
+        "CropBox": [
+          0.0,
+          0.0,
+          585.0,
+          783.0
+        ],
+        "MediaBox": [
+          0.0,
+          0.0,
+          585.0,
+          783.0
+        ]
+      },
+      "height": 783.0,
+      "is_scanned": false,
+      "page_number": 1,
+      "rotation": 0,
+      "width": 585.0
+    },
+    {
+      "boxes": {
+        "CropBox": [
+          0.0,
+          0.0,
+          585.0,
+          783.0
+        ],
+        "MediaBox": [
+          0.0,
+          0.0,
+          585.0,
+          783.0
+        ]
+      },
+      "height": 783.0,
+      "is_scanned": false,
+      "page_number": 2,
+      "rotation": 0,
+      "width": 585.0
+    },
+    {
+      "boxes": {
+        "CropBox": [
+          0.0,
+          0.0,
+          585.0,
+          783.0
+        ],
+        "MediaBox": [
+          0.0,
+          0.0,
+          585.0,
+          783.0
+        ]
+      },
+      "height": 783.0,
+      "is_scanned": false,
+      "page_number": 3,
+      "rotation": 0,
+      "width": 585.0
+    },
+    {
+      "boxes": {
+        "CropBox": [
+          0.0,
+          0.0,
+          585.0,
+          783.0
+        ],
+        "MediaBox": [
+          0.0,
+          0.0,
+          585.0,
+          783.0
+        ]
+      },
+      "height": 783.0,
+      "is_scanned": false,
+      "page_number": 4,
+      "rotation": 0,
+      "width": 585.0
+    },
+    {
+      "boxes": {
+        "CropBox": [
+          0.0,
+          0.0,
+          585.0,
+          783.0
+        ],
+        "MediaBox": [
+          0.0,
+          0.0,
+          585.0,
+          783.0
+        ]
+      },
+      "height": 783.0,
+      "is_scanned": false,
+      "page_number": 5,
+      "rotation": 0,
+      "width": 585.0
+    },
+    {
+      "boxes": {
+        "CropBox": [
+          0.0,
+          0.0,
+          585.0,
+          783.0
+        ],
+        "MediaBox": [
+          0.0,
+          0.0,
+          585.0,
+          783.0
+        ]
+      },
+      "height": 783.0,
+      "is_scanned": false,
+      "page_number": 6,
+      "rotation": 0,
+      "width": 585.0
+    },
+    {
+      "boxes": {
+        "CropBox": [
+          0.0,
+          0.0,
+          585.0,
+          783.0
+        ],
+        "MediaBox": [
+          0.0,
+          0.0,
+          585.0,
+          783.0
+        ]
+      },
+      "height": 783.0,
+      "is_scanned": false,
+      "page_number": 7,
+      "rotation": 0,
+      "width": 585.0
+    }
+  ]
+}

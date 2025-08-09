@@ -1,0 +1,193 @@
+{
+  "source": {
+    "document_id": "State of the Art IP",
+    "ingest_date": "2025-08-08T15:58:24.376032+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1016/j.chest.2019.10.013"
+  },
+  "document": {
+    "metadata": {
+      "title": "State of the Art Interventional Pulmonology",
+      "year": 2020,
+      "authors": [
+        "Momen M. Wahidi",
+        "Felix J. F. Herth",
+        "Alexander Chen",
+        "George Cheng",
+        "Lonny Yarmus"
+      ],
+      "journal": "CHEST",
+      "doi": "10.1016/j.chest.2019.10.013",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Interventional pulmonology (IP) has evolved over the past decade from an obscure subspecialty in pulmonary medicine to a recognized discipline offering advanced consultative and procedural services to patients with thoracic malignancy, anatomic airway disease, and pleural disease. Innovative interventions are now also available for diseases not traditionally treated procedurally, such as asthma and emphysema. The IP field has established certification examinations and training standards for IP training programs in an effort to enhance training quality and ensure competency. Validating new technology and proving its cost-effectiveness and effect on patient outcomes present the biggest challenge to IP as the health-care environment marches toward value-based health care. High-quality research is now thriving in IP and promises to elevate its practice into patient-centric evidence-based care.",
+      "methods": "This is a narrative state-of-the-art review summarizing key developments, technologies, techniques, and evidence across therapeutic and diagnostic interventional pulmonology. No single study protocol was applied; the authors synthesized guideline statements, meta-analyses, randomized trials, cohort studies, feasibility studies, and registries published up to 2020.",
+      "results": "Key advances include therapeutic bronchoscopy techniques (hot and cold ablation, mechanical debridement, bronchoplasty), expanding airway stent technologies, and the central role of EBUS-TBNA for mediastinal staging (pooled sensitivity roughly 90% and specificity 100% for NSCLC). In the periphery, ultrathin bronchoscopy, radial EBUS, and electromagnetic navigation bronchoscopy (ENB) have improved access and diagnostic yields, though variability remains. A randomized trial by Oki et al. reported higher diagnostic yield with 3-mm ultrathin bronchoscopy vs 4-mm thin bronchoscope (74% vs 59%; P = .044). EM-guided transthoracic needle aspiration (ETTNA) feasibility achieved diagnosis in 20 of 24 patients, with pneumothorax rate 21% and tube thoracostomy in 2 patients. Registries report ENB 12-month diagnostic yield of 73%."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults undergoing interventional pulmonology procedures for thoracic malignancy, airway disease, pleural disease, or peripheral pulmonary lesions.",
+      "inclusion_criteria": [],
+      "exclusion_criteria": []
+    },
+    "intervention": {
+      "text": "Electromagnetic guidance transthoracic needle aspiration (ETTNA) for peripheral pulmonary lesions",
+      "details": "Percutaneous transthoracic needle aspiration performed using electromagnetic guidance to target peripheral lung lesions."
+    },
+    "comparison": {
+      "text": "None (single-arm feasibility cohort)",
+      "details": ""
+    },
+    "outcomes": [
+      {
+        "name": "Diagnostic yield (successful diagnosis of peripheral lesion)",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Pneumothorax requiring chest tube",
+        "type": "safety",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "single-arm prospective feasibility",
+    "allocation": "NA",
+    "blinding": "NA",
+    "sites_count": 0,
+    "countries": [],
+    "sample_size": {
+      "planned": 24,
+      "enrolled": 24,
+      "analyzed": 24
+    },
+    "analysis_populations": [
+      {
+        "name": "Full analysis set",
+        "description": "All enrolled patients who underwent ETTNA",
+        "n": 24
+      },
+      {
+        "name": "Safety",
+        "description": "All patients who underwent the procedure and were assessed for adverse events",
+        "n": 24
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "EM-guided transthoracic needle aspiration (ETTNA)",
+      "n_randomized": 0,
+      "n_analyzed": 24,
+      "n_completed": 24
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "ettna_diagnostic_yield_immediate",
+      "name": "Diagnostic yield (successful diagnosis of peripheral lesion)",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Periprocedural",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 20,
+            "total": 24
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": null,
+        "est": null,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": null,
+        "p_operator": null,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "single-proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Full analysis set",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          729
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "A feasibility study in which EM guidance transthoracic needle aspiration (ETTNA) was performed using EM guidance for peripheral lesions in 24 patients achieved a diagnosis in 20 of the 24 (83%) patients, with a pneumothorax rate of 21%, and 2 patients (8%) required tube thoracostomy."
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Pneumothorax requiring chest tube",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Pneumothorax"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "hospitalization",
+        "medically_significant"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 2,
+          "patients": 2,
+          "percentage": 8,
+          "total": 24
+        }
+      ],
+      "period": "Periprocedural",
+      "management": "Tube thoracostomy performed",
+      "provenance": {
+        "pages": [
+          729
+        ],
+        "tables": [],
+        "quote": "…with a pneumothorax rate of 21%, and 2 patients (8%) required tube thoracostomy."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "Not applicable (single-arm feasibility within narrative review)",
+    "overall_judgment": "unclear",
+    "domains": [
+      {
+        "name": "Selection bias",
+        "judgment": "unclear",
+        "support_for_judgment": "Single-arm feasibility; enrollment and selection procedures not detailed in the review."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "interventional pulmonology",
+      "bronchoscopy",
+      "EBUS",
+      "ENB",
+      "ETTNA",
+      "airway stent",
+      "cryotherapy",
+      "electrocautery",
+      "argon plasma coagulation"
+    ],
+    "summary_tldr": "Narrative review of interventional pulmonology: EBUS established for mediastinal staging; peripheral access enhanced with ultrathin bronchoscopy, R-EBUS, and ENB; EM-guided transthoracic biopsy achieved diagnosis in 20/24 with 2 chest tubes.",
+    "clinical_relevance": "Summarizes contemporary IP techniques and evidence, informing diagnostic and therapeutic choices in thoracic disease."
+  }
+}

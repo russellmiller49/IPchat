@@ -1,0 +1,619 @@
+{
+  "source": {
+    "document_id": "Developing an IP Service in a Community Practice",
+    "ingest_date": "2025-08-08T11:26:21.801028+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1016/j.chest.2015.12.025"
+  },
+  "document": {
+    "metadata": {
+      "title": "Developing an Interventional Pulmonary Service in a Community-Based Private Practice: A Case Study",
+      "year": 2016,
+      "authors": [
+        "Kim D. French",
+        "Neeraj R. Desai",
+        "Edward Diamond",
+        "Kevin L. Kovitz"
+      ],
+      "journal": "Chest",
+      "doi": "10.1016/j.chest.2015.12.025",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Interventional pulmonology (IP) uses minimally invasive techniques to diagnose, treat, and palliate advanced lung disease. Technology, formal training, and reimbursement for IP procedures have lagged other interventional subspecialties, limiting IP integration in private practice. This case study describes key aspects and challenges of building an IP program in a community-based setting. Philosophical and financial buy-in by stakeholders and regionalization of services are crucial. Our experience demonstrates that launching an IP program increases overall visits and procedural volume without cannibalizing existing practice volume, and may encourage others to provide this service in their communities.",
+      "methods": "We outline a community-based model for IP program development. A comprehensive needs assessment included evaluation of regional lung cancer prevalence and related diagnoses, and identified structural and functional gaps in coordinated thoracic care. Market analysis addressed reimbursement barriers, credentialing challenges for advanced procedures, and the role of a dedicated IP service to improve access and throughput. Economic considerations emphasized stakeholder buy-in and downstream revenue from related service lines. Procedural gap analysis evaluated demographics, thoracic service breadth, baseline referrals and procedure volume, diagnostic scope, personnel, equipment, and access to state-of-the-art care to determine whether to offer local services or refer to regional centers. The model incorporated a dedicated IP team (fellowship-trained IP physician(s), APN, RN, and administrative staff), program branding and marketing, and process workflows to target a 7-day referral-to-diagnosis interval.",
+      "results": "A community-based IP program was initiated in 2007 through cooperation between a large pulmonary practice and partner hospitals, later expanding advanced diagnostics to additional sites. Key practice indicators (procedure volume, range, complexity, and diagnoses) were tracked for quality and fiscal performance. After IP implementation, procedure volumes increased across basic and advanced bronchoscopy and pleural procedures, and IP-related E/M visits increased. Representative changes (5-year annual averages) included: EBUS 14 to 366; TBNA 58 to 363; navigational bronchoscopy 0 to 56; BAL 119 to 437; indwelling pleural catheter placement 0 to 54; thoracoscopy with biopsy/pleurodesis 0 to 38; percutaneous tracheostomy 0 to 68; PEG placement 0 to 41; and IP-related E/M volume 6755 to 17805. The IP service was separately branded to facilitate external referrals, and workflow processes supported timely evaluation and coordination without reducing other practice volumes."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Patients within a large community-based pulmonary practice and regional hospitals requiring diagnostic and therapeutic interventional pulmonary procedures; referring clinicians and practice stakeholders in a community setting.",
+      "inclusion_criteria": [
+        "Patients with suspected or confirmed thoracic malignancies requiring diagnosis or staging",
+        "Patients with thoracic conditions appropriate for IP evaluation (eg, lung nodules, adenopathy, pleural effusions, airway abnormalities)",
+        "Referrals for IP-related evaluation and management services within the practice catchment area"
+      ],
+      "exclusion_criteria": [
+        "Not applicable (program implementation case study; no patient-level eligibility schema described)"
+      ]
+    },
+    "intervention": {
+      "text": "Implementation of a dedicated interventional pulmonology (IP) program in a community-based practice",
+      "details": "Program elements included recruitment of fellowship-trained IP physician(s), dedicated APN/RN/administrative staff, hospital support, standalone branding (Chicago Chest Center), streamlined referral triage, insurance preauthorization, preoperative evaluation, coordinated scheduling, targeted 7-day referral-to-diagnosis workflow, and expansion of advanced diagnostic and therapeutic bronchoscopy and pleural services."
+    },
+    "comparison": {
+      "text": "Pre-implementation baseline within the same practice",
+      "details": "5-year annual average procedure and IP-related E/M volumes before IP program implementation compared with 5-year annual averages after implementation."
+    },
+    "outcomes": [
+      {
+        "name": "Change in procedure volumes by CPT category (pre vs post IP implementation)",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Change in IP-related evaluation and management visit volumes (pre vs post)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Implementation feasibility metrics (branding, staffing model, 7-day referral-to-diagnosis target)",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "practice implementation case study",
+    "allocation": "non-randomized",
+    "blinding": "none",
+    "sites_count": 5,
+    "countries": [
+      "US"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": []
+  },
+  "arms": [
+    {
+      "arm_id": "pre_ip",
+      "name": "Pre-implementation period",
+      "n_randomized": 0,
+      "n_analyzed": 0,
+      "n_completed": 0
+    },
+    {
+      "arm_id": "post_ip",
+      "name": "Post-implementation period",
+      "n_randomized": 0,
+      "n_analyzed": 0,
+      "n_completed": 0
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "cpt_31620_ebus_volume",
+      "name": "Endobronchial ultrasound (EBUS) procedure count",
+      "type": "count",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "Pre vs Post IP implementation (5-year annual averages)",
+      "groups": [
+        {
+          "arm_id": "pre_ip",
+          "raw": {
+            "count": 14
+          }
+        },
+        {
+          "arm_id": "post_ip",
+          "raw": {
+            "count": 366
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "pre_ip",
+        "measure": "count_difference",
+        "est": 352,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Pre-post descriptive comparison",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All EBUS procedures performed within the practice",
+        "missing_handling": "Not applicable"
+      },
+      "provenance": {
+        "pages": [
+          1097
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "Endobronchial ultrasound 31620 14 366"
+      }
+    },
+    {
+      "concept_id": "cpt_31629_tbna_volume",
+      "name": "Transbronchial needle aspiration (TBNA) procedure count",
+      "type": "count",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "Pre vs Post IP implementation (5-year annual averages)",
+      "groups": [
+        {
+          "arm_id": "pre_ip",
+          "raw": {
+            "count": 58
+          }
+        },
+        {
+          "arm_id": "post_ip",
+          "raw": {
+            "count": 363
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "pre_ip",
+        "measure": "count_difference",
+        "est": 305,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Pre-post descriptive comparison",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All TBNA procedures performed within the practice",
+        "missing_handling": "Not applicable"
+      },
+      "provenance": {
+        "pages": [
+          1097
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "Transbronchial needle aspiration 31629 58 363"
+      }
+    },
+    {
+      "concept_id": "cpt_31627_navigation_volume",
+      "name": "Navigational bronchoscopy procedure count",
+      "type": "count",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "Pre vs Post IP implementation (5-year annual averages)",
+      "groups": [
+        {
+          "arm_id": "pre_ip",
+          "raw": {
+            "count": 0
+          }
+        },
+        {
+          "arm_id": "post_ip",
+          "raw": {
+            "count": 56
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "pre_ip",
+        "measure": "count_difference",
+        "est": 56,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Pre-post descriptive comparison",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All navigational bronchoscopies performed within the practice",
+        "missing_handling": "Not applicable"
+      },
+      "provenance": {
+        "pages": [
+          1097
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "Navigational bronchoscopy 31627 0 56"
+      }
+    },
+    {
+      "concept_id": "cpt_31624_bal_volume",
+      "name": "Bronchoalveolar lavage (BAL) procedure count",
+      "type": "count",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "Pre vs Post IP implementation (5-year annual averages)",
+      "groups": [
+        {
+          "arm_id": "pre_ip",
+          "raw": {
+            "count": 119
+          }
+        },
+        {
+          "arm_id": "post_ip",
+          "raw": {
+            "count": 437
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "pre_ip",
+        "measure": "count_difference",
+        "est": 318,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Pre-post descriptive comparison",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All BAL procedures performed within the practice",
+        "missing_handling": "Not applicable"
+      },
+      "provenance": {
+        "pages": [
+          1097
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "Bronchoalveolar lavage 31624 119 437"
+      }
+    },
+    {
+      "concept_id": "cpt_32550_ipc_volume",
+      "name": "Indwelling pleural catheter placement procedure count",
+      "type": "count",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "Pre vs Post IP implementation (5-year annual averages)",
+      "groups": [
+        {
+          "arm_id": "pre_ip",
+          "raw": {
+            "count": 0
+          }
+        },
+        {
+          "arm_id": "post_ip",
+          "raw": {
+            "count": 54
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "pre_ip",
+        "measure": "count_difference",
+        "est": 54,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Pre-post descriptive comparison",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All indwelling pleural catheter placements performed within the practice",
+        "missing_handling": "Not applicable"
+      },
+      "provenance": {
+        "pages": [
+          1097
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "Indwelling pleural catheter placement 32550 0 54"
+      }
+    },
+    {
+      "concept_id": "cpt_32609_32650_thoracoscopy_volume",
+      "name": "Thoracoscopy with biopsy or pleurodesis procedure count",
+      "type": "count",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "Pre vs Post IP implementation (5-year annual averages)",
+      "groups": [
+        {
+          "arm_id": "pre_ip",
+          "raw": {
+            "count": 0
+          }
+        },
+        {
+          "arm_id": "post_ip",
+          "raw": {
+            "count": 38
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "pre_ip",
+        "measure": "count_difference",
+        "est": 38,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Pre-post descriptive comparison",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All medical thoracoscopy procedures with biopsy or pleurodesis performed within the practice",
+        "missing_handling": "Not applicable"
+      },
+      "provenance": {
+        "pages": [
+          1097
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "Thoracoscopy with biopsy or pleurodesis 32609, 32650 0 38"
+      }
+    },
+    {
+      "concept_id": "cpt_31600_tracheostomy_volume",
+      "name": "Percutaneous tracheostomy procedure count",
+      "type": "count",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "Pre vs Post IP implementation (5-year annual averages)",
+      "groups": [
+        {
+          "arm_id": "pre_ip",
+          "raw": {
+            "count": 0
+          }
+        },
+        {
+          "arm_id": "post_ip",
+          "raw": {
+            "count": 68
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "pre_ip",
+        "measure": "count_difference",
+        "est": 68,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Pre-post descriptive comparison",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All percutaneous tracheostomies performed within the practice",
+        "missing_handling": "Not applicable"
+      },
+      "provenance": {
+        "pages": [
+          1097
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "Percutaneous tracheostomy 31600 0 68"
+      }
+    },
+    {
+      "concept_id": "cpt_43246_peg_volume",
+      "name": "Percutaneous endoscopic gastrostomy (PEG) placement procedure count",
+      "type": "count",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "Pre vs Post IP implementation (5-year annual averages)",
+      "groups": [
+        {
+          "arm_id": "pre_ip",
+          "raw": {
+            "count": 0
+          }
+        },
+        {
+          "arm_id": "post_ip",
+          "raw": {
+            "count": 41
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "pre_ip",
+        "measure": "count_difference",
+        "est": 41,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Pre-post descriptive comparison",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All PEG placements performed within the practice",
+        "missing_handling": "Not applicable"
+      },
+      "provenance": {
+        "pages": [
+          1097
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "PEG placement 43246 0 41"
+      }
+    },
+    {
+      "concept_id": "cpt_32555_thoracentesis_volume",
+      "name": "Thoracentesis with imaging guidance procedure count",
+      "type": "count",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "Pre vs Post IP implementation (5-year annual averages)",
+      "groups": [
+        {
+          "arm_id": "pre_ip",
+          "raw": {
+            "count": 286
+          }
+        },
+        {
+          "arm_id": "post_ip",
+          "raw": {
+            "count": 366
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "pre_ip",
+        "measure": "count_difference",
+        "est": 80,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Pre-post descriptive comparison",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All thoracenteses with imaging guidance performed within the practice",
+        "missing_handling": "Not applicable"
+      },
+      "provenance": {
+        "pages": [
+          1097
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "Thoracentesis with imaging guidance 32555 286 366"
+      }
+    },
+    {
+      "concept_id": "em_ip_related_volume",
+      "name": "IP-related evaluation and management (E/M) visits volume",
+      "type": "count",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "Pre vs Post IP implementation (5-year annual averages)",
+      "groups": [
+        {
+          "arm_id": "pre_ip",
+          "raw": {
+            "count": 6755
+          }
+        },
+        {
+          "arm_id": "post_ip",
+          "raw": {
+            "count": 17805
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "pre_ip",
+        "measure": "count_difference",
+        "est": 11050,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Pre-post descriptive comparison",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All IP-related E/M encounters within the practice using specified CPT ranges",
+        "missing_handling": "Not applicable"
+      },
+      "provenance": {
+        "pages": [
+          1097
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "E/M IP-related diagnosis 99201-99205, 99241-99245, 99211-99215, 99221-99223, 99251-99255 6,755 17,805"
+      }
+    }
+  ],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "Not applicable",
+    "overall_judgment": "not_applicable",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "interventional pulmonology",
+      "community-based practice",
+      "endobronchial ultrasound",
+      "EBUS-TBNA",
+      "procedural volume",
+      "practice management",
+      "pleural procedures"
+    ],
+    "summary_tldr": "Launching a dedicated interventional pulmonology program in a community practice markedly increased advanced bronchoscopy, pleural procedures, and IP-related E/M volumes without cannibalizing existing practice services.",
+    "clinical_relevance": "Demonstrates feasibility, operational model, and impact of community-based IP services on access and throughput, informing stakeholders on resource allocation and program design."
+  }
+}

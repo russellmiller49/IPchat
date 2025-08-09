@@ -1,0 +1,600 @@
+{
+  "source": {
+    "document_id": "Shojaee-2019-Indwelling Tunneled Pleural Cathe",
+    "ingest_date": "2025-08-08T15:54:58.810053+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1016/j.chest.2018.08.1034"
+  },
+  "document": {
+    "metadata": {
+      "title": "Indwelling Tunneled Pleural Catheters for Refractory Hepatic Hydrothorax in Patients With Cirrhosis: A Multicenter Study",
+      "year": 2019,
+      "authors": [
+        "Samira Shojaee",
+        "Najib Rahman",
+        "Kevin Haas",
+        "Ryan Kern",
+        "Michael Leise",
+        "Mohammed Alnijoumi",
+        "Carla Lamb",
+        "Adnan Majid",
+        "Jason Akulian",
+        "Fabien Maldonado",
+        "Hans Lee",
+        "Marwah Khalid",
+        "Todd Stravitz",
+        "Le Kang",
+        "Alexander Chen"
+      ],
+      "journal": "Chest",
+      "doi": "10.1016/j.chest.2018.08.1034",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "BACKGROUND: The outcome of indwelling pleural catheter (IPC) use in hepatic hydrothorax (HH) is unclear. This study aimed to review the safety and feasibility of the IPC in patients with refractory HH. METHODS: A retrospective multicenter study of patients with HH from January 2010 to December 2016 was performed. Inclusion criteria were refractory HH treated with an IPC and an underlying diagnosis of cirrhosis. Records were reviewed for patient demographics, operative reports, and laboratory values. The Kaplan-Meier method was used to estimate catheter time to removal. The Cox proportional hazard model was used to evaluate for independent predictors of pleurodesis and death. RESULTS: Seventy-nine patients were identified from eight institutions. Indication for IPC placement was palliation in 58 patients (73%) and bridge to transplant in 21 patients (27%). The median in situ dwell time of all catheters was 156 days (range, 16-1,978 days). Eight patients (10%) were found to have pleural space infection, five of whom also had catheter-site cellulitis. Two patients (2.5%) died secondary to catheter-related sepsis. Catheter removal secondary to spontaneous pleurodesis was achieved in 22 patients (28%). Median time from catheter insertion to pleurodesis was 55 days (range, 10-370 days). Older age was an independent predictor of mortality on multivariate analysis (hazard ratio, 1.05; P = .01). CONCLUSIONS: We present, to our knowledge, the first multicenter study examining outcomes related to IPC use in HH. Ten percent infection risk and 2.5% mortality were identified. IPC placement may be a reasonable clinical option for patients with refractory HH, but it is associated with significant adverse events in this morbid population.",
+      "methods": "A multi-institution retrospective study of all patients with cirrhosis with HH undergoing IPC placement was performed at eight medical centers from January 2010 to December 2016. Inclusion criteria were adult age (>18 years), diagnosis of cirrhosis, refractory HH not responding to maximized sodium restriction and diuresis requiring repeated thoracenteses, and partial/no response to TIPS or contraindication to TIPS per treating team. Data collected included demographics, hepatology and operative reports, pathology, cytology, microbiology, laboratory values at IPC insertion, complications, and outcomes. Pleural space physiology (expandable vs nonexpandable lung) was documented when available. Catheters were placed by interventional pulmonology teams and drained at home every other day, with a maximum of 1 L per drainage. Time-to-event analyses used Kaplan-Meier and Cox proportional hazards models. Catheter removal due to spontaneous pleurodesis was treated as the outcome of interest with infection, malfunction, and death as competing risks; competing risk time-to-event regression was applied. Variables with P < .25 in univariate models were entered into multivariate models. Statistical significance was P < .05.",
+      "results": "Seventy-nine patients were identified. Mean age was 60 ± 10.7 years; 43 (54%) were men. Prior failed TIPS was noted in 16 (20%). IPC indication was palliation in 58 (73%) and bridge to transplant in 21 (27%); 15 received liver transplant. IPC placement was right-sided in 70 (88%). Median prior thoracenteses was 5.1 (IQR 6.2), range 1-42. Pleural space physiology was reported in 65 (82%). Median catheter dwell time was 156 days (range, 15-1,978), totaling 15,025 catheter-days. The most common reason for IPC removal was death (n = 33). Spontaneous pleurodesis occurred in 22 (28%) with median time to removal 55 days (range, 10-370); 21/22 (96%) had expandable lung documented. Six IPCs were removed for pleural infection (median 61.5 days; range, 35-92); two were removed for catheter malfunction (median 62.5 days; range, 30-95). Pleural space infection occurred in 8 (10%); five also had catheter-site cellulitis. Six of eight infected IPCs were removed and converted to chest tubes; two were managed without removal. Two patients (2.5%) died from catheter-related sepsis. Renal failure occurred in 2, and severe electrolyte imbalance in 1. Among bridge-to-transplant patients (n = 21), seven experienced IPC-related complications; IPC-related sepsis prevented transplant in one patient due to death. Median survival from HH diagnosis (n = 73 with available dates) was 485 days (95% CI, 325-722), decreasing to 368 days (95% CI, 243-613) when excluding transplant recipients. In Cox models for time from IPC insertion to death, age (HR 1.051; P < .001), WBC count (HR 1.022; P = .06), and INR (HR 0.63; P = .24) were identified in univariate screening; in multivariate analysis, only age remained significant (HR 1.047; P = .01)."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with cirrhosis and refractory hepatic hydrothorax requiring repeated thoracenteses, with partial or no response to TIPS or contraindication to TIPS.",
+      "inclusion_criteria": [
+        "Age > 18 years",
+        "Diagnosis of cirrhosis",
+        "Refractory hepatic hydrothorax not responding to maximized sodium restriction and diuresis",
+        "Requires repeated thoracenteses for symptom management",
+        "Partial or no response to TIPS or contraindication to TIPS"
+      ],
+      "exclusion_criteria": []
+    },
+    "intervention": {
+      "text": "Indwelling tunneled pleural catheter (IPC) placement",
+      "details": "IPC placed by interventional pulmonology using standard technique; home drainage every other day with a maximum of 1 L per drainage."
+    },
+    "comparison": {
+      "text": "Single-arm cohort (no control group)",
+      "details": "Retrospective multicenter observational cohort without a comparator arm."
+    },
+    "outcomes": [
+      {
+        "name": "Spontaneous pleurodesis (catheter removal due to pleurodesis)",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Pleural space infection (empyema/parapneumonic effusion)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Catheter-related sepsis leading to death",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Overall survival from HH diagnosis",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "observational cohort",
+    "allocation": "nonrandomized",
+    "blinding": "none",
+    "sites_count": 8,
+    "countries": [
+      "US",
+      "UK"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 79,
+      "analyzed": 79
+    },
+    "analysis_populations": [
+      {
+        "name": "All treated",
+        "description": "All patients who underwent IPC placement",
+        "n": 79
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "Indwelling tunneled pleural catheter (IPC)",
+      "n_randomized": 0,
+      "n_analyzed": 79,
+      "n_completed": 0
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "ipc_spontaneous_pleurodesis",
+      "name": "Spontaneous pleurodesis achieved (catheter removal due to pleurodesis)",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Any time during follow-up",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 22,
+            "total": 79
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Competing risk time-to-event regression (cumulative incidence); descriptive incidence",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          548
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "Spontaneous pleurodesis occurred in 22 patients (28%) and was the second most common indication for IPC removal. In patients with spontaneous pleurodesis, median time to removal was 55 days (range, 10-370 days)."
+      }
+    },
+    {
+      "concept_id": "ipc_pleural_space_infection",
+      "name": "Pleural space infection (empyema/parapneumonic effusion)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "From IPC insertion to end of follow-up",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 8,
+            "total": 79
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Descriptive incidence",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          548,
+          549
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "Pleural space infection was noted in eight patients (10%) and was the most common complication."
+      }
+    },
+    {
+      "concept_id": "ipc_catheter_related_sepsis_death",
+      "name": "Catheter-related sepsis leading to death",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "From IPC insertion to end of follow-up",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 2,
+            "total": 79
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Descriptive incidence",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          548,
+          549
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "Two of eight patients (2.5%) died because of catheter-related infection resulting in septic shock."
+      }
+    },
+    {
+      "concept_id": "overall_survival_from_hh_diagnosis_median",
+      "name": "Overall survival from hepatic hydrothorax diagnosis (median)",
+      "type": "time_to_event",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "From HH diagnosis to death or censoring",
+      "unit": "days",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "median": 485,
+            "ci_lower": 325,
+            "ci_upper": 722,
+            "total": 73
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Kaplan-Meier",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated with available HH diagnosis date",
+        "missing_handling": "Censored at study end or last available records"
+      },
+      "provenance": {
+        "pages": [
+          549
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "Median survival from the time of HH diagnosis was 485 days (95% CI, 325-722) in 73 patients."
+      }
+    },
+    {
+      "concept_id": "cox_age_hr_for_mortality",
+      "name": "Effect of age on mortality from IPC insertion (Cox model)",
+      "type": "hazard_ratio",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "From IPC insertion to death",
+      "groups": [],
+      "comparison": {
+        "ref_arm_id": "intervention",
+        "measure": "hazard_ratio",
+        "est": 1.047,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.01,
+        "p_operator": "=",
+        "adjusted": true
+      },
+      "analysis": {
+        "model": "Cox proportional hazards",
+        "adjusted": true,
+        "covariates": [
+          "WBC count",
+          "international normalized ratio"
+        ],
+        "population": "All treated",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          548
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "On multivariate analysis, age was the only significant predictor with respect to time from catheter insertion to death... (hazard ratio, 1.047; P = .01)."
+      }
+    },
+    {
+      "concept_id": "all_cause_mortality_anytime",
+      "name": "All-cause mortality during follow-up",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Any time during follow-up",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 33,
+            "total": 79
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Descriptive incidence",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          548
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "The most common reason for IPC removal was patient death (n = 33)."
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Pleural space infection (empyema/parapneumonic effusion)",
+      "meddra": {
+        "soc": "Infections and infestations",
+        "pt": "Empyema"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 8,
+          "patients": 8,
+          "percentage": 10.1,
+          "total": 79
+        }
+      ],
+      "period": "From IPC insertion to end of follow-up",
+      "management": "Broad-spectrum antimicrobials; 6/8 had IPC removal and chest tube drainage; 2/8 managed without IPC removal.",
+      "provenance": {
+        "pages": [
+          548,
+          549
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "quote": "Pleural space infection was noted in eight patients (10%)... six of the eight catheters were removed... Two patients did not undergo IPC removal and were managed successfully with continuous fluid drainage and antibiotics."
+      }
+    },
+    {
+      "event_name": "Cellulitis at catheter site",
+      "meddra": {
+        "soc": "Infections and infestations",
+        "pt": "Cellulitis"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 5,
+          "patients": 5,
+          "percentage": 6.3,
+          "total": 79
+        }
+      ],
+      "period": "From IPC insertion to end of follow-up",
+      "management": "Systemic antibiotics.",
+      "provenance": {
+        "pages": [
+          548,
+          549
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "quote": "Among these patients, five also developed cellulitis at the site of catheter insertion."
+      }
+    },
+    {
+      "event_name": "Catheter-related sepsis leading to death",
+      "meddra": {
+        "soc": "Infections and infestations",
+        "pt": "Sepsis"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "death"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 2,
+          "patients": 2,
+          "percentage": 2.5,
+          "total": 79
+        }
+      ],
+      "period": "From IPC insertion to end of follow-up",
+      "management": "Not specified beyond antimicrobial therapy; resulted in septic shock and death.",
+      "provenance": {
+        "pages": [
+          548,
+          549
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "quote": "Two of eight patients (2.5%) died because of catheter-related infection resulting in septic shock."
+      }
+    },
+    {
+      "event_name": "Renal failure",
+      "meddra": {
+        "soc": "Renal and urinary disorders",
+        "pt": "Renal failure"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 2,
+          "patients": 2,
+          "percentage": 2.5,
+          "total": 79
+        }
+      ],
+      "period": "From IPC insertion to end of follow-up",
+      "management": "Not specified.",
+      "provenance": {
+        "pages": [
+          548,
+          549
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "quote": "Renal failure was noted in two patients."
+      }
+    },
+    {
+      "event_name": "Electrolyte imbalance",
+      "meddra": {
+        "soc": "Metabolism and nutrition disorders",
+        "pt": "Electrolyte imbalance"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 1,
+          "patients": 1,
+          "percentage": 1.3,
+          "total": 79
+        }
+      ],
+      "period": "From IPC insertion to end of follow-up",
+      "management": "Not specified.",
+      "provenance": {
+        "pages": [
+          549
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "quote": "One patient had severe electrolyte imbalance secondary to IPC drainage."
+      }
+    },
+    {
+      "event_name": "Seroma",
+      "meddra": {
+        "soc": "General disorders and administration site conditions",
+        "pt": "Seroma"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 3,
+          "patients": 3,
+          "percentage": 3.8,
+          "total": 79
+        }
+      ],
+      "period": "From IPC insertion to end of follow-up",
+      "management": "Not specified.",
+      "provenance": {
+        "pages": [
+          549
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "quote": "Subcutaneous fluid collection (seroma): 3"
+      }
+    },
+    {
+      "event_name": "Catheter site fluid leakage",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Catheter site discharge"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 4,
+          "patients": 4,
+          "percentage": 5.1,
+          "total": 79
+        }
+      ],
+      "period": "From IPC insertion to end of follow-up",
+      "management": "Not specified.",
+      "provenance": {
+        "pages": [
+          549
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "quote": "Catheter site fluid leakage: 4"
+      }
+    },
+    {
+      "event_name": "Catheter malfunction",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Device malfunction"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 2,
+          "patients": 2,
+          "percentage": 2.5,
+          "total": 79
+        }
+      ],
+      "period": "From IPC insertion to end of follow-up",
+      "management": "Catheter removal.",
+      "provenance": {
+        "pages": [
+          548
+        ],
+        "tables": [],
+        "quote": "Additionally, two IPCs were removed because of catheter malfunction (median time to removal, 62.5 days; range, 30-95 days)."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "ROBINS-I",
+    "overall_judgment": "serious",
+    "domains": [
+      {
+        "name": "Bias due to confounding",
+        "judgment": "serious",
+        "support_for_judgment": "Single-arm retrospective cohort without control; outcomes may be influenced by disease severity and comorbidities."
+      },
+      {
+        "name": "Bias in selection of participants",
+        "judgment": "moderate",
+        "support_for_judgment": "Included patients selected for IPC based on clinical judgment (palliation or bridge to transplant)."
+      },
+      {
+        "name": "Bias in measurement of outcomes",
+        "judgment": "low",
+        "support_for_judgment": "Outcomes such as infection and death were clinically defined and recorded in medical records."
+      },
+      {
+        "name": "Bias due to missing data",
+        "judgment": "moderate",
+        "support_for_judgment": "Survival analyses excluded 6 patients without HH diagnosis date; censoring when dates unavailable."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "hepatic hydrothorax",
+      "indwelling pleural catheter",
+      "IPC",
+      "cirrhosis",
+      "empyema",
+      "pleurodesis",
+      "complications"
+    ],
+    "summary_tldr": "In 79 cirrhotic patients with refractory hepatic hydrothorax treated with indwelling pleural catheters, pleural infection occurred in 8/79 (10%), spontaneous pleurodesis in 22/79 (28%), and catheter-related sepsis deaths in 2/79 (2.5%). Older age predicted mortality.",
+    "clinical_relevance": "IPC offers a palliative or bridge-to-transplant option for refractory hepatic hydrothorax but carries notable infection risk and rare sepsis-related mortality."
+  }
+}

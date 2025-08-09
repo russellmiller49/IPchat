@@ -1,0 +1,187 @@
+{
+  "source": {
+    "document_id": "surigicalLVR Rationale and design of The NETT Trial",
+    "ingest_date": "2025-08-08T16:08:50.541257+00:00",
+    "trial_registration_id": null,
+    "pmid": null,
+    "doi": null
+  },
+  "document": {
+    "metadata": {
+      "title": "Rationale and Design of the National Emphysema Treatment Trial: A Prospective Randomized Trial of Lung Volume Reduction Surgery",
+      "year": 1999,
+      "authors": [
+        "The National Emphysema Treatment Trial Research Group",
+        "Steven Piantadosi"
+      ],
+      "journal": "Chest",
+      "doi": null,
+      "pmid": null
+    },
+    "sections": {
+      "abstract": "The National Emphysema Treatment Trial (NETT) is a multicenter, randomized clinical trial comparing medical therapy vs medical therapy plus lung volume reduction surgery (LVRS) for patients with severe bilateral emphysema. LVRS will be performed as bilateral stapled excision via median sternotomy or video-assisted thoracoscopic surgery. All patients complete 6 to 10 weeks of pulmonary rehabilitation before randomization and continue in a maintenance program after randomization. The primary outcome is survival. Additional outcomes include maximum exercise capacity, pulmonary function, oxygen requirement, 6-minute walk distance, quality of life, respiratory symptoms, and health-care utilization and costs. Selected clinics will assess lung mechanics, respiratory muscle function, flow-volume curves, gas exchange during maximal exercise, and right heart function. Patients with severe emphysema without significant comorbidities will be randomized to one of the two groups. Study duration is 4.5 years with a 6-month close-out period.",
+      "methods": "Design: Multicenter randomized controlled trial at 17 clinical centers with a coordinating/statistical center. Population: Adults with severe bilateral emphysema, free of significant comorbid conditions, after completion of 6 to 10 weeks of standardized pulmonary rehabilitation pre-randomization and maintenance rehabilitation post-randomization. Interventions: (1) Medical therapy plus LVRS using bilateral stapled excision via median sternotomy or video-assisted thoracoscopic surgery; (2) Medical therapy alone. Primary outcomes: Survival and maximum exercise capacity measured by maximal, incremental, symptom-limited cycle ergometry. Secondary outcomes: Quality of life (SF-36, Quality of Well-Being Scale), disease-specific measures (SGRQ, UCSD Shortness of Breath Questionnaire, modified Borg dyspnea), pulmonary function and gas exchange (spirometry, plethysmography for functional residual capacity, single-breath diffusing capacity, arterial blood gases, maximal inspiratory and expiratory pressures), radiologic assessments (chest radiographs, volumetric and high-resolution CT scans, nuclear perfusion scans), oxygen requirements adjusted to maintain arterial oxygen saturation above 90% during treadmill walking at 1 mph, 6-minute walk distance, cardiovascular measures (echocardiography for all, right heart catheterization for suspected pulmonary hypertension; patients with pulmonary hypertension are excluded), and cognitive testing (Trail Making Test) annually. Cost-effectiveness will be assessed using incremental quality-adjusted life years and incremental costs from societal and Medicare perspectives.",
+      "results": "No clinical results are reported; this article describes the trial rationale, design, and planned outcomes."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with severe bilateral emphysema without significant comorbid conditions completing standardized pulmonary rehabilitation.",
+      "inclusion_criteria": [
+        "Severe bilateral emphysema confirmed by imaging",
+        "Completion of 6 to 10 weeks of pulmonary rehabilitation pre-randomization",
+        "Eligibility for ongoing maintenance pulmonary rehabilitation"
+      ],
+      "exclusion_criteria": [
+        "Significant comorbid conditions",
+        "Pulmonary hypertension (identified by echocardiography or right heart catheterization)",
+        "Inability to complete pre-randomization rehabilitation"
+      ]
+    },
+    "intervention": {
+      "text": "Lung volume reduction surgery plus medical therapy",
+      "details": "Bilateral stapled excision performed via median sternotomy or video-assisted thoracoscopic surgery with standardized perioperative care, alongside maintenance pulmonary rehabilitation."
+    },
+    "comparison": {
+      "text": "Medical therapy alone",
+      "details": "Optimized medical management per COPD guidelines with maintenance pulmonary rehabilitation."
+    },
+    "outcomes": [
+      {
+        "name": "Survival",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Maximum exercise capacity (symptom-limited cycle ergometry)",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Quality of life (SF-36, QWB) and disease-specific questionnaires (SGRQ, SOBQ, Borg)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Pulmonary function and gas exchange",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Oxygen requirement during standardized treadmill test",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "6-minute walk distance",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Health-care utilization and costs",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Cardiovascular assessments (echocardiography, right heart catheterization in substudies)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Attention and psychomotor function (Trail Making Test)",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "RCT",
+    "allocation": "randomized",
+    "blinding": "open-label",
+    "sites_count": 17,
+    "countries": [
+      "US"
+    ],
+    "sample_size": {
+      "planned": null,
+      "enrolled": null,
+      "analyzed": null
+    },
+    "analysis_populations": [
+      {
+        "name": "ITT",
+        "description": "All randomized participants",
+        "n": null
+      },
+      {
+        "name": "PP",
+        "description": "Participants compliant with protocol",
+        "n": null
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "LVRS plus medical therapy",
+      "n_randomized": null,
+      "n_analyzed": null,
+      "n_completed": null
+    },
+    {
+      "arm_id": "control",
+      "name": "Medical therapy alone",
+      "n_randomized": null,
+      "n_analyzed": null,
+      "n_completed": null
+    }
+  ],
+  "outcomes_normalized": [],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "RoB 2",
+    "overall_judgment": "unclear",
+    "domains": [
+      {
+        "name": "Randomization process",
+        "judgment": "low",
+        "support_for_judgment": "Planned central randomization within a multicenter trial."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "some concerns",
+        "support_for_judgment": "Open-label surgical vs medical management may introduce performance bias."
+      },
+      {
+        "name": "Missing outcome data",
+        "judgment": "unclear",
+        "support_for_judgment": "Design paper; no outcome data yet."
+      },
+      {
+        "name": "Measurement of the outcome",
+        "judgment": "some concerns",
+        "support_for_judgment": "Blinding not feasible for many outcomes; objective endpoints (survival) less susceptible."
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "unclear",
+        "support_for_judgment": "Pre-specified outcomes listed; no results reported."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "emphysema",
+      "lung volume reduction surgery",
+      "LVRS",
+      "median sternotomy",
+      "video-assisted thoracoscopic surgery",
+      "VATS",
+      "pulmonary rehabilitation",
+      "randomized clinical trial",
+      "NETT"
+    ],
+    "summary_tldr": "Design paper for a US multicenter randomized trial comparing medical therapy versus medical therapy plus LVRS in severe bilateral emphysema, with primary outcomes of survival and maximal exercise capacity.",
+    "clinical_relevance": "Establishes standardized methodology to evaluate efficacy, safety, and cost-effectiveness of LVRS and to identify patient subgroups most likely to benefit."
+  }
+}

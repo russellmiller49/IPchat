@@ -1,0 +1,281 @@
+{
+  "source": {
+    "document_id": "Survival in COPD patients treated with broncho",
+    "ingest_date": "2025-08-08T16:08:51.547390+00:00",
+    "trial_registration_id": "NCT04023409",
+    "pmid": "",
+    "doi": "10.1016/j.rmed.2022.106825"
+  },
+  "document": {
+    "metadata": {
+      "title": "Survival in COPD patients treated with bronchoscopic lung volume reduction",
+      "year": 2022,
+      "authors": [
+        "Jorine E. Hartman",
+        "Jorrit B.A. Welling",
+        "Karin Klooster",
+        "Orestes A. Carpaij",
+        "Sonja W.S. Augustijn",
+        "Dirk-Jan Slebos"
+      ],
+      "journal": "Respiratory Medicine",
+      "doi": "10.1016/j.rmed.2022.106825",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Background and objective: Severe COPD patients can significantly benefit from bronchoscopic lung volume reduction (BLVR) treatments with coils or endobronchial valves. However, the potential impact of BLVR on survival is less understood. Therefore, our aim was to investigate the survival rate in patients who are evaluated for BLVR treatment and whether there is a difference in survival rate between patients who undergo BLVR treatment and patients who do not. Methods: We included patients with COPD who visited our hospital for a consultation evaluating their eligibility for BLVR treatment and who performed pulmonary function tests during this visit. Furthermore, vital status was verified. Results: In total 1471 patients were included (63% female, mean age 61 years). A total of 531 patients (35%) died during follow-up and the median survival time of the total population was 2694 days (95% confidence interval (CI) 2462-2926) which is approximately 7.4 years. The median survival time of patients who were treated with BLVR was significantly longer compared to patients who were not treated with BLVR (3133 days versus 2503 days, p < 0.001), and BLVR was found to be an independent predictor of survival when adjusting for other survival-influencing factors such as age, gender or severity of disease. Conclusions: Our results suggest that bronchoscopically reducing lung volume in patients with severe hyperinflation may lead to a survival benefit for a population with a severely reduced life expectancy.",
+      "methods": "We included all patients with COPD who visited our hospital for a consultation evaluating their eligibility for BLVR treatment and who performed pulmonary function tests during this visit (spirometry and/or bodyplethysmography) between June 2006 and July 2019. Patients were referred to our hospital from physicians throughout the entire Netherlands. Vital status was verified with the Dutch government personal records database on April 3, 2021. During the consultation visit, patients performed post-bronchodilator spirometry and bodyplethysmography, diffusion capacity, bioelectrical impedance analysis and chest computed tomography (CT). Quantitative CT analysis was performed using LungQ software. Questionnaires included the St. Georges Respiratory Questionnaire (SGRQ), COPD Assessment Test (CAT) and a self-administered comorbidity questionnaire. For all patients, we verified in their medical chart whether they were treated with BLVR using coils or endobronchial valves (EBVs). Statistical analyses used t-tests, Mann-Whitney U tests, Chi-square tests, Kaplan-Meier survival with log-rank test, and Cox proportional-hazards regression. P-values < 0.05 were considered significant.",
+      "results": "A total of 1471 patients were included (63% female, mean age 61 years). Follow-up ranged from 633 to 5401 days. In total, 531 patients (35%) died during follow-up; median time to death was 1077 days (range 2-4185). Median survival of the total population was 2694 days (95% CI 2462-2926). BLVR was performed in 483 patients (33%; 353 EBV, 130 coils). In the BLVR group, 165 patients (34%) died. Median survival was longer with BLVR versus non-BLVR: 3133 days (95% CI 2777-3489) vs 2503 days (95% CI 2281-2725), log-rank p < 0.001. Univariate Cox regression showed higher mortality for non-BLVR vs BLVR (HR 1.413, 95% CI 1.174-1.701, p < 0.001). In a multivariable Cox model adjusting for gender, age, packyears, FEV1, RV/TLC, BMI, PaCO2, PaO2, emphysema score, airway wall thickness (Pi10), and history of myocardial infarction/percutaneous coronary intervention/stroke (n = 838; 212 deaths), not undergoing BLVR remained an independent predictor of mortality (HR 2.016, 95% CI 1.455-2.793, p < 0.001)."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with COPD referred nationwide to a tertiary center for consultation to evaluate eligibility for bronchoscopic lung volume reduction, who completed pulmonary function testing during that visit (June 2006-July 2019).",
+      "inclusion_criteria": [
+        "Diagnosis of COPD",
+        "Visited UMC Groningen for BLVR eligibility consultation",
+        "Performed spirometry and/or bodyplethysmography at the visit"
+      ],
+      "exclusion_criteria": [
+        "Not explicitly reported"
+      ]
+    },
+    "intervention": {
+      "text": "Bronchoscopic lung volume reduction (BLVR)",
+      "details": "Treatment with endobronchial valves (EBV) or lung volume reduction coils after evaluation; EBV n=353, coils n=130."
+    },
+    "comparison": {
+      "text": "No BLVR",
+      "details": "Patients evaluated for BLVR who did not undergo BLVR (ineligible or declined)."
+    },
+    "outcomes": [
+      {
+        "name": "All-cause mortality and survival time",
+        "type": "primary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "observational cohort",
+    "allocation": "nonrandomized",
+    "blinding": "none",
+    "sites_count": 1,
+    "countries": [
+      "Netherlands"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 1471,
+      "analyzed": 1471
+    },
+    "analysis_populations": [
+      {
+        "name": "Full cohort",
+        "description": "All included patients with known BLVR status and vital status",
+        "n": 1471
+      },
+      {
+        "name": "Multivariable model subset",
+        "description": "Patients with complete data for covariates in Cox model (Table 3)",
+        "n": 838
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "BLVR (endobronchial valves or coils)",
+      "n_randomized": 483,
+      "n_analyzed": 483,
+      "n_completed": 483
+    },
+    {
+      "arm_id": "control",
+      "name": "No BLVR",
+      "n_randomized": 988,
+      "n_analyzed": 988,
+      "n_completed": 988
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "all_cause_mortality_time_to_event_unadjusted",
+      "name": "All-cause mortality (time-to-event), BLVR vs no BLVR (unadjusted)",
+      "type": "time_to_event",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P5401D",
+      "timepoint_label": "End of follow-up (max 5401 days; min 633 days)",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 165,
+            "total": 483
+          },
+          "summary": {
+            "median_survival_days": 3133,
+            "ci_lower": 2777,
+            "ci_upper": 3489
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 366,
+            "total": 988
+          },
+          "summary": {
+            "median_survival_days": 2503,
+            "ci_lower": 2281,
+            "ci_upper": 2725
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "intervention",
+        "measure": "hazard_ratio",
+        "est": 1.413,
+        "ci_lower": 1.174,
+        "ci_upper": 1.701,
+        "ci_level": 0.95,
+        "p_value": 0.001,
+        "p_operator": "<",
+        "adjusted": false,
+        "test": "Cox proportional-hazards; log-rank p<0.001 for KM curves"
+      },
+      "analysis": {
+        "model": "Cox proportional hazards",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Full cohort",
+        "missing_handling": "Not stated"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [
+          "Table 2",
+          "Figure 1"
+        ],
+        "quote": "In the BLVR group 165 patients (34%) died during follow-up. The median survival time of patients who were treated with BLVR was significantly longer compared to patients who were not treated with BLVR (3133 days (95%CI 2777-3489) versus 2503 days (95%CI 2281-2725), p < 0.001). Treated with EBV or Coils?, no 1.413 (1.174-1.701), p < 0.001."
+      }
+    },
+    {
+      "concept_id": "all_cause_mortality_time_to_event_adjusted",
+      "name": "All-cause mortality (time-to-event), effect of not undergoing BLVR (adjusted)",
+      "type": "time_to_event",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P5401D",
+      "timepoint_label": "End of follow-up (max 5401 days; min 633 days)",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 165,
+            "total": 483
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 366,
+            "total": 988
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "intervention",
+        "measure": "hazard_ratio",
+        "est": 2.016,
+        "ci_lower": 1.455,
+        "ci_upper": 2.793,
+        "ci_level": 0.95,
+        "p_value": 0.001,
+        "p_operator": "<",
+        "adjusted": true
+      },
+      "analysis": {
+        "model": "Cox proportional hazards",
+        "adjusted": true,
+        "covariates": [
+          "gender",
+          "age",
+          "packyears",
+          "FEV1",
+          "RV/TLC",
+          "BMI",
+          "PaCO2",
+          "PaO2",
+          "emphysema score",
+          "Pi10 (airway wall thickness)",
+          "history of myocardial infarction/percutaneous coronary intervention/stroke"
+        ],
+        "population": "Multivariable model subset",
+        "missing_handling": "Listwise deletion",
+        "population_n": 838,
+        "events_total": 212
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [
+          "Table 3"
+        ],
+        "quote": "When adjusting for gender, age, packyears, FEV1, RV/TLC, BMI, PaCO2, PaO2, emphysema destruction score, airway wall thickness and the presence of myocardial infarction, a percutaneous coronary intervention or stroke in medical history, not undergoing the BLVR treatment was an independent predictor of mortality (Hazard Ratio: 2.016 (95%CI: 1.455-2.793, p < 0.001)."
+      }
+    }
+  ],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "ROBINS-I",
+    "overall_judgment": "serious",
+    "domains": [
+      {
+        "name": "Confounding",
+        "judgment": "serious",
+        "support_for_judgment": "Nonrandomized treatment selection; adjusted Cox model included key prognostic covariates but residual confounding likely."
+      },
+      {
+        "name": "Selection of participants",
+        "judgment": "serious",
+        "support_for_judgment": "Cohort limited to patients referred for BLVR consultation at a single center; non-BLVR group often ineligible which may influence mortality."
+      },
+      {
+        "name": "Classification of interventions",
+        "judgment": "low",
+        "support_for_judgment": "BLVR status ascertained from medical records."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "low",
+        "support_for_judgment": "Observational; no protocolized interventions beyond clinical care."
+      },
+      {
+        "name": "Missing data",
+        "judgment": "moderate",
+        "support_for_judgment": "Complete vital status; however, multivariable model limited to n=838 due to missing covariates."
+      },
+      {
+        "name": "Measurement of outcomes",
+        "judgment": "low",
+        "support_for_judgment": "Vital status verified via national records."
+      },
+      {
+        "name": "Selection of reported result",
+        "judgment": "low",
+        "support_for_judgment": "Pre-specified focus on survival; both univariate and multivariate results reported."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "COPD",
+      "bronchoscopic lung volume reduction",
+      "endobronchial valves",
+      "coils",
+      "survival",
+      "Cox regression"
+    ],
+    "summary_tldr": "In a cohort of 1471 COPD patients evaluated for BLVR, those treated with BLVR had longer median survival (3133 vs 2503 days) and lower adjusted mortality hazard; not undergoing BLVR was associated with higher mortality (HR 2.016, 95% CI 1.455-2.793, p<0.001).",
+    "clinical_relevance": "Findings suggest BLVR may confer a survival benefit in selected severe COPD patients with hyperinflation."
+  }
+}

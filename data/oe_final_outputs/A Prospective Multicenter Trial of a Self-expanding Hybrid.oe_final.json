@@ -1,0 +1,497 @@
+{
+  "source": {
+    "document_id": "A Prospective Multicenter Trial of a Self-expanding Hybrid",
+    "ingest_date": "2025-08-08T10:20:02.547615+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": ""
+  },
+  "document": {
+    "metadata": {
+      "title": "A Prospective Multicenter Trial of a Self-expanding Hybrid Stent in Malignant Airway Obstruction",
+      "year": 2008,
+      "authors": [
+        "Thomas R. Gildea",
+        "Gordon Downie",
+        "Georgie Eapen",
+        "Felix Herth",
+        "Michael Jantz",
+        "Lutz Freitag"
+      ],
+      "journal": "Journal of Bronchology",
+      "doi": "",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Introduction: There are 2 general classes of stents available for airway obstruction: self-expanding metal and silicone. Metal stents can be placed using flexible bronchoscopy under local anesthesia but may be difficult to remove. Silicone stents require rigid bronchoscopy and general anesthesia to place but they are relatively easy to remove. A new hybrid stent, the AERO stent (Alveolus Inc, Charlotte, NC), has a completely covered nitinol framework. The purpose of this study was to evaluate the efficacy and safety of this new hybrid stent for the treatment of malignant airway obstruction. Methods: This was a prospective multicenter intention to treat study. Eligible patients with malignant airway obstruction underwent self-expanding hybrid stent placement at 11 centers between June 2005 and December 2006. Patients were evaluated immediately postprocedure and at 7, 30, and 90 days postprocedure. Ease of deployment was assessed on a 4-point Likert scale. Luminal patency was visually assessed preimplant and postimplant by investigators and verified in blinded review of photographs taken during the procedure. Quality of life was measured using the Baseline Dyspnea Index and Transitional Dyspnea Index. Results: Fifty-six patients underwent stent placement. Physicians rated ease of deployment at 3.6 on a 1 to 4 scale. Eighty-eight percent of patients had a lumen patency improvement of >50% (P<0.05). Dyspnea indices demonstrated quality of life improvement postimplant as compared with baseline values (average improvement in Transitional Dyspnea Index of 2.9 at 7 days and 3.2 at 30 days, P<0.05). Complications included hemoptysis, infection, granulation tissue formation, stent migration, and pain at rates comparable with previously published studies. Stent removal, when clinically indicated, was accomplished without difficulty or complication in 7 patients. Conclusions: In patients with malignant airway obstruction, self-expanding hybrid stents were easy to deploy and remove and improved luminal patency and quality of life with an acceptable complication rate.",
+      "methods": "This was a multicenter prospective intention to treat trial at 11 centers in the United States and Europe. Inclusion criteria were patients >18 years with malignant airway obstruction of the major airways (extrinsic or intrinsic) and predicted life expectancy >90 days. Exclusion criteria included contraindication to bronchoscopy, benign disease, and inability to pass a guidewire across the obstruction. The device is a completely covered nitinol self-expanding stent (AERO) delivered with a preloaded dedicated delivery system. Data were collected before bronchoscopy, immediately postbronchoscopy, and at 7-day clinic visit; telephone interviews at 30 and 90 days. Lumen patency was visually assessed pre- and post-implant; success defined as ≥50% reduction in stenosis, with blinded verification of images. Quality of life was assessed using Baseline Dyspnea Index (BDI) and Transitional Dyspnea Index (TDI). Ease of use and deployment were rated on a 4-point Likert scale.",
+      "results": "Sixty-one stents were placed in 56 patients. Average pre-stent lumen occlusion was 82%. Improvement in luminal patency (increase in diameter ≥50%) was noted in 88% of patients (P<0.05). Dyspnea indices improved versus baseline with average TDI improvement of 2.9 at 7 days and 3.2 at 30 days (P<0.05). Improvement at 90 days was not clinically significant (P=0.05). Overall deployment satisfaction averaged 3.57/4 across six aspects. Migration occurred in 28% of patients; granulation tissue in 5% (n=3); infection in 4% (n=2). Complications not related to stent placement included pain in 7% (n=4) and hemoptysis in 4% (n=2). Tumor ingrowth was not observed. Survival after stent placement was 54/56 (96%) at 7 days, 46/56 (82%) at 30 days, and 38/56 (68%) at 90 days. Seven patients had stent removal without difficulty."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with malignant central airway obstruction (intrinsic or extrinsic) of major airways with predicted life expectancy >90 days.",
+      "inclusion_criteria": [
+        "Age >18 years",
+        "Malignant airway obstruction of major airways (intrinsic or extrinsic)",
+        "Predicted life expectancy >90 days"
+      ],
+      "exclusion_criteria": [
+        "Contraindication to bronchoscopy",
+        "Benign disease",
+        "Inability to pass a guidewire across the obstruction"
+      ]
+    },
+    "intervention": {
+      "text": "AERO self-expanding hybrid stent (completely covered nitinol stent)",
+      "details": "Stent deployed with a preloaded dedicated delivery system via bronchoscopy; assessments immediately post-procedure and at 7, 30, and 90 days. Lumen patency evaluated visually with blinded verification; dyspnea assessed via BDI/TDI."
+    },
+    "comparison": {
+      "text": "None (single-arm study)",
+      "details": "No parallel control group; outcomes compared to baseline or descriptive over time."
+    },
+    "outcomes": [
+      {
+        "name": "Lumen patency success (≥50% reduction in stenosis) immediately post-implant",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Transitional Dyspnea Index (TDI) improvement vs baseline at 7 days",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Transitional Dyspnea Index (TDI) improvement vs baseline at 30 days",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Transitional Dyspnea Index (TDI) improvement vs baseline at 90 days",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Survival at 7, 30, and 90 days",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Adverse events through 90 days",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Prospective single-arm interventional study",
+    "allocation": "nonrandomized",
+    "blinding": "open-label",
+    "sites_count": 11,
+    "countries": [
+      "US",
+      "France",
+      "Germany",
+      "Spain"
+    ],
+    "sample_size": {
+      "planned": 56,
+      "enrolled": 56,
+      "analyzed": 56
+    },
+    "analysis_populations": [
+      {
+        "name": "ITT",
+        "description": "All enrolled patients who underwent stent placement",
+        "n": 56
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "AERO self-expanding hybrid stent",
+      "n_randomized": 56,
+      "n_analyzed": 56,
+      "n_completed": 38
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "tdi_improved_7d",
+      "name": "TDI improvement (≥+1 vs baseline) at 7 days",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P7D",
+      "timepoint_label": "7 days",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 37,
+            "total": 45
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Chi-square goodness-of-fit (improved vs static vs worse)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Responders with TDI assessment at 7 days"
+      },
+      "provenance": {
+        "pages": [
+          223
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "TDI Scores—7 d postimplant: Observed Worse 5, Static 3, Improved 37, Total 45 ... χ2 = 48.5333; df = 2; P<0.05"
+      },
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": "goodness_of_fit",
+        "est": 48.5333,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": 0.05,
+        "p_operator": "<",
+        "adjusted": false
+      }
+    },
+    {
+      "concept_id": "tdi_improved_30d",
+      "name": "TDI improvement (≥+1 vs baseline) at 30 days",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P30D",
+      "timepoint_label": "30 days",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 22,
+            "total": 31
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Chi-square goodness-of-fit (improved vs static vs worse)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Responders with TDI assessment at 30 days"
+      },
+      "provenance": {
+        "pages": [
+          223
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "TDI scores—30 d postimplant: Observed Worse 7, Static 2, Improved 22, Total 31 ... χ2 = 20.9677; df = 2; P<0.05"
+      },
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": "goodness_of_fit",
+        "est": 20.9677,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": 0.05,
+        "p_operator": "<",
+        "adjusted": false
+      }
+    },
+    {
+      "concept_id": "tdi_improved_90d",
+      "name": "TDI improvement (≥+1 vs baseline) at 90 days",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P90D",
+      "timepoint_label": "90 days",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 9,
+            "total": 16
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Chi-square goodness-of-fit (improved vs static vs worse)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Responders with TDI assessment at 90 days"
+      },
+      "provenance": {
+        "pages": [
+          223
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "TDI scores—90 d postimplant: Observed Worse 5, Static 2, Improved 9, Total 16 ... χ2 = 4.625; df = 2; P=0.05 not significant"
+      },
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": "goodness_of_fit",
+        "est": 4.625,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": 0.05,
+        "p_operator": "=",
+        "adjusted": false
+      }
+    },
+    {
+      "concept_id": "survival_7d",
+      "name": "Survival at 7 days",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P7D",
+      "timepoint_label": "7 days",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 54,
+            "total": 56
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Descriptive proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT"
+      },
+      "provenance": {
+        "pages": [
+          223
+        ],
+        "tables": [],
+        "quote": "Survival after stent placement was 54 (96%) at 7, 46 (82%) at 30 and 38 (68%) at 90 days."
+      }
+    },
+    {
+      "concept_id": "survival_30d",
+      "name": "Survival at 30 days",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P30D",
+      "timepoint_label": "30 days",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 46,
+            "total": 56
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Descriptive proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT"
+      },
+      "provenance": {
+        "pages": [
+          223
+        ],
+        "tables": [],
+        "quote": "Survival after stent placement was 54 (96%) at 7, 46 (82%) at 30 and 38 (68%) at 90 days."
+      }
+    },
+    {
+      "concept_id": "survival_90d",
+      "name": "Survival at 90 days",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P90D",
+      "timepoint_label": "90 days",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 38,
+            "total": 56
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Descriptive proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT"
+      },
+      "provenance": {
+        "pages": [
+          223
+        ],
+        "tables": [],
+        "quote": "Survival after stent placement was 54 (96%) at 7, 46 (82%) at 30 and 38 (68%) at 90 days."
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Granulation tissue formation",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Granulation tissue"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 3,
+          "patients": 3,
+          "percentage": 5,
+          "total": 56
+        }
+      ],
+      "period": "0-90 days",
+      "management": "",
+      "provenance": {
+        "pages": [
+          223
+        ],
+        "tables": [],
+        "quote": "Other minor stent-related complications included minimal granulation tissue in 5% (n = 3)"
+      }
+    },
+    {
+      "event_name": "Infection",
+      "meddra": {
+        "soc": "Infections and infestations",
+        "pt": "Infection"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 2,
+          "patients": 2,
+          "percentage": 4,
+          "total": 56
+        }
+      ],
+      "period": "0-90 days",
+      "management": "",
+      "provenance": {
+        "pages": [
+          223
+        ],
+        "tables": [],
+        "quote": "Other minor stent-related complications included ... infection in 4% (n = 2)."
+      }
+    },
+    {
+      "event_name": "Pain",
+      "meddra": {
+        "soc": "General disorders and administration site conditions",
+        "pt": "Pain"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 4,
+          "patients": 4,
+          "percentage": 7,
+          "total": 56
+        }
+      ],
+      "period": "0-90 days",
+      "management": "",
+      "provenance": {
+        "pages": [
+          223
+        ],
+        "tables": [],
+        "quote": "Complications not related to the stent placement included pain in 7% (n = 4)"
+      }
+    },
+    {
+      "event_name": "Hemoptysis",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Haemoptysis"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 2,
+          "patients": 2,
+          "percentage": 4,
+          "total": 56
+        }
+      ],
+      "period": "0-90 days",
+      "management": "",
+      "provenance": {
+        "pages": [
+          223
+        ],
+        "tables": [],
+        "quote": "Complications not related to the stent placement included ... hemoptysis in 4% (n = 2)."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "ROBINS-I",
+    "overall_judgment": "serious",
+    "domains": [
+      {
+        "name": "Bias due to confounding",
+        "judgment": "serious",
+        "support_for_judgment": "Single-arm design without a control group limits causal inference."
+      },
+      {
+        "name": "Bias in selection of participants",
+        "judgment": "moderate",
+        "support_for_judgment": "Prospective inclusion with eligibility criteria; clinical judgment may influence enrollment."
+      },
+      {
+        "name": "Bias in measurement of outcomes",
+        "judgment": "moderate",
+        "support_for_judgment": "Lumen patency visually assessed with blinded image verification; patient-reported dyspnea scales used."
+      },
+      {
+        "name": "Bias due to missing data",
+        "judgment": "moderate",
+        "support_for_judgment": "Substantial attrition by 90 days with missing TDI data."
+      },
+      {
+        "name": "Bias in selection of the reported result",
+        "judgment": "low",
+        "support_for_judgment": "Predefined endpoints reported with tabulated results."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "malignant airway obstruction",
+      "bronchial stent",
+      "AERO stent",
+      "hybrid stent",
+      "nitinol",
+      "bronchoscopy",
+      "dyspnea index"
+    ],
+    "summary_tldr": "In a prospective multicenter single-arm study (n=56), a fully covered nitinol hybrid airway stent improved TDI at 7 and 30 days and achieved high rates of lumen patency, with manageable complications over 90 days.",
+    "clinical_relevance": "Supports use of a removable, easily deployed hybrid stent for palliative management of malignant central airway obstruction."
+  }
+}

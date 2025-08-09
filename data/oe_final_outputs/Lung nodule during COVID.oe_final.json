@@ -1,0 +1,127 @@
+{
+  "source": {
+    "document_id": "Lung nodule during COVID",
+    "ingest_date": "2025-08-08T14:05:54.826670+00:00",
+    "trial_registration_id": null,
+    "pmid": null,
+    "doi": "10.1016/j.chest.2020.04.020"
+  },
+  "document": {
+    "metadata": {
+      "title": "Management of Lung Nodules and Lung Cancer Screening During the COVID-19 Pandemic: CHEST Expert Panel Report",
+      "year": 2020,
+      "authors": [
+        "Peter J. Mazzone",
+        "Michael K. Gould",
+        "Douglas A. Arenberg",
+        "Alexander C. Chen",
+        "Humberto K. Choi",
+        "Frank C. Detterbeck",
+        "Farhood Farjah",
+        "Kwun M. Fong",
+        "Jonathan M. Iaccarino",
+        "Samuel M. Janes",
+        "Jeffrey P. Kanne",
+        "Ella A. Kazerooni",
+        "Heber MacMahon",
+        "David P. Naidich",
+        "Charles A. Powell",
+        "Suhail Raoof",
+        "M. Patricia Rivera",
+        "Nichole T. Tanner",
+        "Lynn K. Tanoue",
+        "Alain Tremblay",
+        "Anil Vachani",
+        "Charles S. White",
+        "Renda Soylemez Wiener",
+        "Gerard A. Silvestri"
+      ],
+      "journal": "CHEST",
+      "doi": "10.1016/j.chest.2020.04.020",
+      "pmid": null
+    },
+    "sections": {
+      "abstract": "Background: The risks from potential exposure to COVID-19 and pandemic-related resource reallocation altered the balance of benefits and harms underlying pre-COVID-19 recommendations for lung cancer screening and lung nodule evaluation. Objective: To develop consensus statements to guide clinicians managing lung cancer screening programs and patients with lung nodules during the COVID-19 pandemic. Methods: An expert panel of 24 members (pulmonology n=17, thoracic radiology n=5, thoracic surgery n=2) reviewed current guidelines and voted on statements for 12 common clinical scenarios using a predefined threshold of 70% agreement for consensus. Results: Twelve statements addressing baseline and annual screening, surveillance of previously detected nodules, evaluation of intermediate/high-risk nodules, and management of clinical stage I NSCLC were developed. All 12 achieved consensus. The statements advise delaying initiation and annual screening, deferring certain surveillance imaging, and minimizing nonurgent interventions during nodule evaluation and early-stage lung cancer management, with consideration of local COVID-19 burden, resources, and patient factors. Conclusions: During the COVID-19 pandemic, deferring enrollment in screening and modifying lung nodule evaluation is appropriate due to exposure risk and resource constraints; application should be individualized to local and patient contexts.",
+      "methods": "A multidisciplinary expert panel (24 members) was convened. Project leaders summarized current (pre-COVID-19) lung cancer screening and lung nodule management guidelines and distributed materials to panelists. Two video teleconferences were held for discussion and real-time, anonymous voting via a five-point Likert scale (1=strongly agree to 5=strongly disagree) on statements covering 12 clinical scenarios. A predefined threshold of greater than 70% of panelists voting agree or strongly agree was required for consensus. Minor wording clarifications were allowed between sessions without altering the statements' substance. Endorsements were obtained from the American College of Radiology and the American Thoracic Society.",
+      "results": "All 12 statements achieved consensus (greater than 70% agree or strongly agree). Voting examples: Scenario 1 (delay initiation of screening): 24 strongly agree (100%); Scenario 2 (delay annual screening when prior Lung-RADS 1 or 2): 23 strongly agree, 1 agree (100%); Scenario 3 (delay surveillance of solid nodule less than 8 mm): 18 strongly agree, 5 agree, 1 neutral (96% agree/strongly agree); Scenario 4 (delay surveillance of Lung-RADS category 3 nodule): 17 strongly agree, 5 agree, 1 neutral (96% agree/strongly agree). Statements emphasize deferring nonurgent imaging and procedures in alignment with CDC guidance, tailoring decisions to COVID-19 penetrance, testing availability, resources, and patient comorbidities and values."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults eligible for lung cancer screening and patients with incidentally or screen-detected pulmonary nodules, as managed by clinicians during the COVID-19 pandemic.",
+      "inclusion_criteria": [
+        "Individuals meeting established eligibility for low-dose CT lung cancer screening",
+        "Patients with incidentally or screen-detected solid or subsolid pulmonary nodules"
+      ],
+      "exclusion_criteria": [
+        "Not applicable (consensus guidance document)"
+      ]
+    },
+    "intervention": {
+      "text": "Pandemic-adapted management strategies",
+      "details": "Deferral of initiation and annual screening, delayed surveillance imaging for select nodules, and minimization of nonurgent diagnostic and therapeutic interventions for nodules and clinical stage I NSCLC during COVID-19 surges, considering local epidemiology, resource availability, and patient factors."
+    },
+    "comparison": {
+      "text": "Pre-COVID-19 standard guideline-concordant management",
+      "details": "Usual recommendations per CHEST, Fleischner Society, BTS, and Lung-RADS for screening and nodule evaluation without pandemic-related modifications."
+    },
+    "outcomes": [
+      {
+        "name": "Consensus achieved for each clinical scenario (≥70% agree/strongly agree)",
+        "type": "primary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Expert consensus panel",
+    "allocation": "not applicable",
+    "blinding": "none",
+    "sites_count": null,
+    "countries": [
+      "US",
+      "UK",
+      "Australia",
+      "Canada"
+    ],
+    "sample_size": {
+      "planned": 24,
+      "enrolled": 24,
+      "analyzed": 24
+    },
+    "analysis_populations": [
+      {
+        "name": "All panelists",
+        "description": "All invited expert panel members who voted",
+        "n": 24
+      }
+    ]
+  },
+  "arms": [],
+  "outcomes_normalized": [],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "Not applicable",
+    "overall_judgment": "not applicable",
+    "domains": [
+      {
+        "name": "Applicability to RCT bias domains",
+        "judgment": "not applicable",
+        "support_for_judgment": "Consensus guidance without randomization or patient-level outcomes."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "COVID-19",
+      "lung cancer screening",
+      "pulmonary nodules",
+      "CHEST guideline",
+      "Lung-RADS",
+      "Fleischner",
+      "consensus statement"
+    ],
+    "summary_tldr": "CHEST expert panel reached consensus to defer initiation and annual lung cancer screening and to delay select nodule surveillance and nonurgent procedures during COVID-19 surges, with all 12 statements meeting ≥70% agreement.",
+    "clinical_relevance": "Provides practical, consensus-based adaptations to lung nodule and screening workflows during pandemic conditions to balance cancer risk with infection exposure and resource constraints."
+  }
+}

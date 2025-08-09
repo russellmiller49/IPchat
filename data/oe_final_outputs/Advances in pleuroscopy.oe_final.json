@@ -1,0 +1,114 @@
+{
+  "source": {
+    "document_id": "Advances in pleuroscopy",
+    "ingest_date": "2025-08-08T09:33:01.567482+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1111/crj.12597"
+  },
+  "document": {
+    "metadata": {
+      "title": "Advances in pleuroscopy",
+      "year": 2018,
+      "authors": [
+        "Stavros Anevlavis",
+        "Marios E. Froudarakis"
+      ],
+      "journal": "Clinical Respiratory Journal",
+      "doi": "10.1111/crj.12597",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Objectives: To describe the technique of pleuroscopy, its clinical uses such as diagnosis of exudative pleural effusion, treatment of pleural infection, treatment of pneumothorax, and diagnosis and pleurodesis of malignant pleural mesothelioma. Also to describe the newer techniques developed such as minothoracoscopy, semi-rigid thoracoscopy, narrow band imaging pleuroscopy, infrared pleuroscopy, autofluorescence pleuroscopy. Data source: We searched the pubmed the last decade for publications with the key words pleuroscopy, medical thoracoscopy, pneumothorax and pleuroscopy, malignant pleural mesothelioma, minothoracoscopy, semirigid thoracoscopy, auto-fluorescence pleuroscopy. Conclusion: Medical thoracoscopy is the method of choice for investigation of the undiagnosed exudative pleural effusions. Newer techniques, such as narrow band imaging thoracoscopy, infrared thoracoscopy, autofluorescence thoracoscopy are offering a promising future for medical thoracoscopy.",
+      "methods": "Narrative review. PubMed was searched over the last decade using keywords: pleuroscopy, medical thoracoscopy, pneumothorax and pleuroscopy, malignant pleural mesothelioma, minithoracoscopy, semirigid thoracoscopy, autofluorescence pleuroscopy.",
+      "results": "The review summarizes technical aspects and diagnostic performance of medical thoracoscopy/pleuroscopy. Reported sensitivity for malignant pleural effusion is 92-97% and specificity 99-100%. Thoracoscopy offers high diagnostic yield in malignant pleural mesothelioma (>90%), outperforming fluid cytology and closed needle biopsy in historical series. In pleural infection, early medical thoracoscopy can achieve high success rates (e.g., 91% in a cohort of multiloculated effusions) with low complication rates, and may reduce the need for surgical intervention when coordinated with surgical teams. Talc poudrage via thoracoscopy is considered the gold-standard pleurodesis for malignant effusions (>90% efficacy) and is also effective for preventing recurrence in primary spontaneous pneumothorax compared with chest tube drainage alone in a European randomized study. Advances include semi-rigid pleuroscopy (comparable diagnostic accuracy to rigid), techniques to improve biopsy depth (insulated-tip knife, cryobiopsy), and mini-thoracoscopy for reduced pain and access to loculations. Emerging imaging modalities (narrow band, infrared, autofluorescence pleuroscopy) may enhance detection and characterization."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with pleural diseases evaluated or treated with medical thoracoscopy/pleuroscopy (exudative pleural effusions, malignant pleural mesothelioma, pleural infection/empyema, primary spontaneous pneumothorax, autonomic disorders requiring sympathectomy).",
+      "inclusion_criteria": [
+        "Undiagnosed exudative pleural effusion",
+        "Suspected malignant pleural disease including mesothelioma",
+        "Complicated parapneumonic effusion or empyema",
+        "Recurrent or persistent air leak in primary spontaneous pneumothorax",
+        "Indications for thoracoscopic sympathectomy (e.g., palmar hyperhidrosis)"
+      ],
+      "exclusion_criteria": [
+        "Not specified in this narrative review"
+      ]
+    },
+    "intervention": {
+      "text": "Medical thoracoscopy/pleuroscopy",
+      "details": "Rigid or semi-rigid pleuroscopy under local anesthesia and conscious sedation with cardiopulmonary monitoring; single or dual port access; procedures include directed pleural biopsies (parietal, visceral, diaphragmatic), adhesiolysis, evacuation of infected material, talc poudrage pleurodesis, and thoracoscopic sympathectomy."
+    },
+    "comparison": {
+      "text": "Non-thoracoscopic diagnostic and therapeutic approaches",
+      "details": "Comparators discussed include thoracentesis with cytology, closed needle pleural biopsy, chest tube drainage with or without intrapleural fibrinolytics, and video-assisted thoracoscopic surgery (VATS)."
+    },
+    "outcomes": [
+      {
+        "name": "Diagnostic yield for malignant pleural disease",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Treatment success in complicated parapneumonic effusion/empyema",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Pleurodesis success rate in malignant pleural effusion",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Recurrence of primary spontaneous pneumothorax",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Procedure-related complications",
+        "type": "safety",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Narrative review",
+    "allocation": "",
+    "blinding": "",
+    "sites_count": 0,
+    "countries": [],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": []
+  },
+  "arms": [],
+  "outcomes_normalized": [],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "ROBIS",
+    "overall_judgment": "unclear",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "pleuroscopy",
+      "medical thoracoscopy",
+      "pneumothorax",
+      "malignant pleural mesothelioma",
+      "minithoracoscopy",
+      "semirigid thoracoscopy",
+      "autofluorescence pleuroscopy",
+      "narrow band imaging",
+      "infrared pleuroscopy",
+      "talc poudrage"
+    ],
+    "summary_tldr": "Medical thoracoscopy is a gold-standard, minimally invasive approach for diagnosing undiagnosed exudative pleural effusions and managing pleural infection and pneumothorax; diagnostic yield for malignant disease approaches 95-98%, and talc poudrage achieves >90% pleurodesis success.",
+    "clinical_relevance": "Supports pleuroscopy as first-line for undiagnosed exudative pleural effusions and as an effective therapeutic tool for empyema and pneumothorax; highlights technique refinements and emerging imaging to further improve outcomes."
+  }
+}

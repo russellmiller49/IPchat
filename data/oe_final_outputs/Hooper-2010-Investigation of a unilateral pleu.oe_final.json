@@ -1,0 +1,118 @@
+{
+  "source": {
+    "document_id": "Hooper-2010-Investigation of a unilateral pleu",
+    "ingest_date": "2025-08-08T13:20:12.844757+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1136/thx.2010.136978"
+  },
+  "document": {
+    "metadata": {
+      "title": "Investigation of a unilateral pleural effusion in adults: British Thoracic Society pleural disease guideline 2010",
+      "year": 2010,
+      "authors": [
+        "Clare Hooper",
+        "Y C Gary Lee",
+        "Nick Maskell"
+      ],
+      "journal": "Thorax",
+      "doi": "10.1136/thx.2010.136978",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Pleural effusions have more than 50 causes and result from increased formation and/or reduced resorption of pleural fluid. Because the differential diagnosis for unilateral effusion is wide, the guideline recommends a systematic approach to establish diagnosis swiftly while minimizing unnecessary invasive procedures. Since 2003, new evidence has informed recommendations on image guidance of pleural procedures, optimal sampling and processing, and the role of thoracoscopic pleural biopsies, as well as the evaluation of biomarkers such as NT-proBNP and mesothelin.",
+      "methods": "Guideline based on literature published since 2003 relevant to the investigation of unilateral pleural effusion, incorporating studies on imaging, pleural fluid analysis, biomarkers, and biopsy techniques. Levels of evidence and strength of recommendations follow BTS processes; detailed methodology not provided in the excerpt.",
+      "results": "Key recommendations: do not aspirate bilateral effusions strongly suggestive of transudate unless atypical or non-responsive; ensure accurate drug and occupational history. Imaging: PA chest x-ray typically abnormal with about 200 ml pleural fluid; lateral x-ray detects posterior costophrenic angle blunting with about 50 ml. Ultrasound guidance significantly improves successful aspiration (reports up to 88% success after prior failed attempts) and reduces pneumothorax risk; the benefit is lost with an 'X marks the spot' approach. In a prospective study of 255 clinician assessments in 67 patients, clinical judgment versus ultrasound had sensitivity 76.6% and specificity 60.3% for site planning; ultrasound increased accurate sites by 26%, and 15% of clinically chosen sites risked organ puncture, with 60% of potential punctures occurring in radiologically large or moderate effusions. Ultrasound detects septations more sensitively than CT and can help distinguish malignant from benign effusions; one series reported overall sensitivity 79% (95% CI 61 to 91) and specificity 100% (95% CI 82 to 100) for malignancy using sonographic pleural features, with high specificity for parietal pleural thickening >1 cm, visceral pleural thickening, diaphragmatic thickening >7 mm, and diaphragmatic nodules. Pleural aspiration: use a 21G needle with a 50 ml syringe; send pleural fluid for protein, LDH, Gram stain, cytology, and culture; use heparinized blood gas syringe for pH when infection suspected; blood should be sent simultaneously for total protein and LDH. Appearance can be diagnostically helpful (e.g., putrid odor suggests anaerobic empyema, milky suggests chylothorax/pseudochylothorax). Distinguish exudate versus transudate using Light’s criteria; diuretics in heart failure may lead to misclassification as exudates. NT-proBNP in pleural fluid or blood (cut-offs in studies ranged 600 to 4000 pg/ml, commonly 1500 pg/ml) can identify cardiac failure effusions, including those misclassified by Light’s criteria."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with suspected unilateral pleural effusion evaluated in inpatient, outpatient, or critical care settings.",
+      "inclusion_criteria": [
+        "Adults with suspected or confirmed unilateral pleural effusion",
+        "Patients undergoing diagnostic imaging and/or pleural aspiration"
+      ],
+      "exclusion_criteria": [
+        "Bilateral effusions with strong clinical features of transudate responding to therapy",
+        "Pediatric populations"
+      ]
+    },
+    "intervention": {
+      "text": "Bedside thoracic ultrasound guidance for pleural procedures and diagnostic evaluation",
+      "details": "Real-time ultrasound to identify pleural fluid, select aspiration sites, detect septations, and characterize pleural features; direct ultrasound-guided aspiration or immediate pre-procedural scanning."
+    },
+    "comparison": {
+      "text": "Clinical judgment and plain radiography without ultrasound guidance",
+      "details": "Site selection based on physical examination and chest radiography, including 'X marks the spot' approaches."
+    },
+    "outcomes": [
+      {
+        "name": "Successful pleural fluid aspiration",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Iatrogenic pneumothorax after thoracentesis",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Accurate site selection for aspiration (diagnostic accuracy against ultrasound)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Differentiation of malignant versus benign effusions by ultrasound features",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Classification of effusions as transudate vs exudate (Light’s criteria)",
+        "type": "other",
+        "umls_cui": ""
+      },
+      {
+        "name": "Diagnostic utility of NT-proBNP for cardiac failure effusions",
+        "type": "other",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Guideline",
+    "allocation": "NA",
+    "blinding": "NA",
+    "sites_count": 0,
+    "countries": [
+      "UK"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": []
+  },
+  "arms": [],
+  "outcomes_normalized": [],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "NA",
+    "overall_judgment": "NA",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "pleural effusion",
+      "ultrasound",
+      "thoracentesis",
+      "Light's criteria",
+      "NT-proBNP",
+      "BTS guideline",
+      "pleural aspiration",
+      "diagnostic imaging"
+    ],
+    "summary_tldr": "BTS 2010 guideline recommends ultrasound-guided evaluation and aspiration for unilateral pleural effusions, use of Light’s criteria to classify exudates vs transudates, and NT-proBNP to identify cardiac effusions misclassified by Light’s criteria.",
+    "clinical_relevance": "Supports safer, more effective diagnosis of pleural effusions with ultrasound guidance and targeted biomarkers, reducing complications and unnecessary procedures."
+  }
+}

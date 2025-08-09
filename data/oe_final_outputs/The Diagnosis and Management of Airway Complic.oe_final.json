@@ -1,0 +1,94 @@
+{
+  "source": {
+    "document_id": "The Diagnosis and Management of Airway Complic",
+    "ingest_date": "2025-08-08T00:00:00+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1016/j.chest.2017.02.021"
+  },
+  "document": {
+    "metadata": {
+      "title": "The Diagnosis and Management of Airway Complications Following Lung Transplantation",
+      "year": 2017,
+      "authors": [
+        "Amit K. Mahajan",
+        "Erik Folch",
+        "Sandeep J. Khandhar",
+        "Colleen L. Channick",
+        "Jose F. Santacruz",
+        "Atul C. Mehta",
+        "Steven D. Nathan"
+      ],
+      "journal": "CHEST",
+      "doi": "10.1016/j.chest.2017.02.021",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Airway complications following lung transplantation result in considerable morbidity and are associated with a mortality of 2% to 4%. The incidence of lethal and nonlethal airway complications has decreased since the early experiences with double- and single-lung transplantation. The most common risk factor associated with post-lung transplantation airway complications is anastomotic ischemia. Airway complications include the development of exophytic granulation tissue, bronchial stenosis, bronchomalacia, airway fistula, endobronchial infection, and anastomotic dehiscence. The broadening array of bronchoscopic therapies has enhanced treatment options for lung transplant recipients with airway complications. This article reviews the risk factors, clinical manifestations, and treatments of airway complications following lung transplantation and provides our expert opinion when evidence is lacking.",
+      "methods": "A peer-reviewed literature search was conducted to obtain published literature for this review. The following bibliographic databases were searched: Ovid MEDLINE with in-process records and daily updates through Ovid (1963 to present), including clinical trials and reviews. Search results included 591 publications. If objective data were not available, expert opinion was used. Keywords included airway complications and lung transplantation.",
+      "results": "The overall incidence of anastomotic airway complications following lung transplantation varies between 2% and 33%. Mortality attributable to post-transplant airway complications remains between 2% and 4%, and overall survival is reduced at 30 days, 90 days, 1 year, 3 years, and 5 years in recipients experiencing airway complications. Risk factors include anastomotic ischemia due to absent bronchial arterial supply for up to 4 weeks post-transplant, surgical technique (telescoping anastomoses associated with 48% airway complications), donor bronchus length, preoperative infection (e.g., Pseudomonas cepacia), early postoperative fungal isolation (Aspergillus fumigatus), ischemia-reperfusion injury, and early rejection. Common complications include exophytic granulation tissue (up to 20%), bronchial stenosis (4% to 24%; typically 2 to 9 months post-transplant), bronchomalacia, airway fistula, anastomotic dehiscence, and infection. Management is primarily bronchoscopic: debridement for granulation tissue (flexible/rigid forceps for nonobstructive lesions; cryodebridement or cryotherapy for obstructive lesions), with hemostasis by thermal modalities as needed. Adjuncts such as topical mitomycin C and endobronchial brachytherapy may reduce granulation recurrence, though randomized evidence is lacking. For stenosis, balloon bronchoplasty (effective as sole therapy in up to 26%) is often combined with radial incisions and intralesional corticosteroids. Refractory cases may require airway stenting, with preference for silicone stents; self-expanding metallic stents can be used temporarily and removed within 4 to 6 weeks to avoid excessive granulation tissue."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults and pediatric recipients of single- or double-lung transplantation experiencing or at risk for airway complications.",
+      "inclusion_criteria": [
+        "Lung transplant recipients",
+        "Reports addressing anastomotic or airway complications (e.g., stenosis, malacia, fistula, dehiscence, infection, granulation tissue)"
+      ],
+      "exclusion_criteria": [
+        "Non-airway complications of lung transplantation",
+        "Non-transplant airway disease not directly related to transplantation"
+      ]
+    },
+    "intervention": {
+      "text": "Bronchoscopic management of airway complications",
+      "details": "Techniques include flexible/rigid forceps debridement, cryodebridement, cryotherapy, radial incisions with electrocautery or Nd:YAG laser, intralesional corticosteroid injection, balloon bronchoplasty, silicone stent placement (tubular, customized, Y-stents), temporary self-expanding metallic stents, and adjuncts such as topical mitomycin C or high-dose endobronchial brachytherapy."
+    },
+    "comparison": {
+      "text": "Not applicable (narrative review without a formal comparator arm)",
+      "details": "Where available, comparisons across techniques are described qualitatively from included studies."
+    },
+    "outcomes": [
+      {
+        "name": "Incidence and management outcomes of airway complications after lung transplantation",
+        "type": "primary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "narrative_review",
+    "allocation": "",
+    "blinding": "",
+    "sites_count": null,
+    "countries": [],
+    "sample_size": {
+      "planned": null,
+      "enrolled": null,
+      "analyzed": null
+    },
+    "analysis_populations": []
+  },
+  "arms": [],
+  "outcomes_normalized": [],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "Not applicable",
+    "overall_judgment": "not_applicable",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "airway complications",
+      "lung transplantation",
+      "bronchial stenosis",
+      "bronchoscopy",
+      "anastomotic ischemia",
+      "stent",
+      "cryotherapy"
+    ],
+    "summary_tldr": "Narrative review: Airway complications after lung transplantation occur in 2-33% with 2-4% mortality; bronchoscopic therapies (debridement, dilation, stenting) are central to management.",
+    "clinical_relevance": "Synthesizes risk factors, timing, and bronchoscopic management strategies to guide care of post-lung transplant airway complications."
+  }
+}

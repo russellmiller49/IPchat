@@ -1,0 +1,760 @@
+{
+  "source": {
+    "document_id": "Robot assisted bronchoscopy for pulmonary lesion diagnosis",
+    "ingest_date": "2025-08-08T15:21:37.166248+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1186/s12890-019-1010-8"
+  },
+  "document": {
+    "metadata": {
+      "title": "Robot-assisted bronchoscopy for pulmonary lesion diagnosis: results from the initial multicenter experience",
+      "year": 2019,
+      "authors": [
+        "Udit Chaddha",
+        "Stephen P. Kovacs",
+        "Christopher Manley",
+        "D. Kyle Hogarth",
+        "Gustavo Cumbo-Nacheli",
+        "Sivasubramanium V. Bhavani",
+        "Rohit Kumar",
+        "Manisha Shende",
+        "John P. Egan III",
+        "Septimiu Murgu"
+      ],
+      "journal": "BMC Pulmonary Medicine",
+      "doi": "10.1186/s12890-019-1010-8",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Background: The Robotic Endoscopic System (Auris Health, Inc., Redwood City, CA) has the potential to overcome several limitations of contemporary guided-bronchoscopic technologies for the diagnosis of lung lesions. Our objective is to report on the initial post-marketing feasibility, safety and diagnostic yield of this technology. Methods: We retrospectively reviewed data on consecutive cases in which robot-assisted bronchoscopy was used to sample lung lesions at four centers in the US (academic and community) from June 15th, 2018 to December 15th, 2018. Results: One hundred and sixty-seven lesions in 165 patients were included in the analysis, with an average follow-up of 185 ± 55 days. The average size of target lesions was 25.0 ± 15.0 mm. Seventy-one percent were located in the peripheral third of the lung. Pneumothorax and airway bleeding occurred in 3.6 and 2.4% cases, respectively. Navigation was successful in 88.6% of cases. Tissue samples were successfully obtained in 98.8%. The diagnostic yield estimates ranged from 69.1 to 77% assuming the cases of biopsy-proven inflammation without any follow-up information (N = 13) were non-diagnostic and diagnostic, respectively. The yield was 81.5, 71.7 and 26.9% for concentric, eccentric and absent r-EBUS views, respectively. Diagnostic yield was not affected by lesion size, density, lobar location or centrality. Conclusions: RAB implementation in community and academic centers is safe and feasible, with an initial diagnostic yield of 69.1-77% in patients with lung lesions that require diagnostic bronchoscopy. Comparative trials with the existing bronchoscopic technologies are needed to determine cost-effectiveness of this technology.",
+      "methods": "We retrospectively reviewed consecutive cases using robot-assisted bronchoscopy (RAB) with the Monarch Endoscopy Platform (Auris Health, Inc.) for diagnosis of lung lesions at four US centers from June 15, 2018 to December 15, 2018. Inclusion: adults ≥18 years, acceptable for elective bronchoscopy under general anesthesia, with pulmonary lesions requiring bronchoscopic biopsy (suspected primary lung cancer per guidelines, suspected recurrence/progression, lesions in patients with history of extrathoracic malignancy, or suspected mycobacterial/fungal infection requiring tissue diagnosis). Exclusion: obvious endobronchial lesion easily biopsied by conventional bronchoscopy. Endpoints: device/procedure-related complications (pneumothorax of any size, significant airway bleeding requiring management with conventional bronchoscope, respiratory failure within 24 h), successful navigation (eccentric or concentric r-EBUS view or diagnostic tissue), and diagnostic yield (final pathology diagnostic without subsequent discordant diagnosis/progression; cases treated for cancer without pathologic diagnosis considered non-diagnostic). General anesthesia with endotracheal tube; standard inspection bronchoscopy performed; EBUS-TBNA when indicated prior to RAB. The robotic bronchoscope comprises an outer sheath (6.0 mm) and inner scope (4.2 mm), with EM field generator; r-EBUS used for confirmation; no CBCT. Biopsy tools advanced through 2.1 mm working channel under fluoroscopy. Statistical analysis: chi-squared tests for associations; multivariable logistic regression adjusting for lesion location, centrality, density, size, bronchus sign, and r-EBUS view; two-tailed p<0.05 significant; Stata 14.1.",
+      "results": "A total of 167 lesions in 165 patients were biopsied; average follow-up 185 ± 55 days. Mean lesion size 25.0 ± 15.0 mm; 70.7% peripheral; bronchus sign present in 106/167 (63.5%); 125/167 (74.9%) solid. Navigation successful in 148/167 (88.6%). r-EBUS detected target in 141/167 (84.4%): concentric 81/141 (57.5%), eccentric 60/141 (42.5%). Tissue samples obtained in 161/165 (97.6%) patients; 4 (2.4%) cases without samples (1 software failure, 3 unsuccessful navigation). Overall diagnostic yield ranged 69.1-77%, depending on handling of 13 inflammation-only cases without follow-up. Diagnostic yield by r-EBUS view: concentric 66/81 (81.5%), eccentric 43/60 (71.7%), no view 7/26 (26.9%); p<0.001. Yield higher with bronchus sign 83/106 (78.3%) vs 54.1% without; p=0.001. Yield not different by lesion density (solid 86/125 [68.8%] vs ground glass 12/17 [70.6%]; p=0.74), central vs peripheral (73.5% vs 67.8%; p=0.47), or size (<10 mm 5/11 [45.5%], 10-30 mm 74/108 [68.5%], >30 mm 37/48 [77.1%]; p=0.11). Multivariable logistic regression: bronchus sign OR 2.3 (95% CI 1.0-5.3; p=0.04); r-EBUS view vs no view: eccentric OR 7.4 (95% CI 2.4-22.9; p<0.001), concentric OR 10.0 (95% CI 3.2-31.1; p<0.001). Complications: pneumothorax 6/167 (3.6%), chest tube in 4/167 (2.4%); significant airway bleeding 4/167 (2.4%), controlled with cold saline; no respiratory failure or deaths."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults undergoing robot-assisted bronchoscopy for diagnosis of pulmonary lesions at 4 US centers",
+      "inclusion_criteria": [
+        "Age ≥18 years",
+        "Acceptable candidate for elective bronchoscopy under general anesthesia",
+        "Pulmonary lesions suspected of primary lung cancer requiring bronchoscopic biopsy per guidelines",
+        "History of lung cancer with new or growing lung lesions requiring tissue diagnosis",
+        "Pulmonary lesions in patients with a history of extrathoracic malignancy requiring tissue diagnosis",
+        "Suspected mycobacterial or fungal pulmonary lesions requiring tissue diagnosis prior to therapy"
+      ],
+      "exclusion_criteria": [
+        "Obvious endobronchial lesion on inspection bronchoscopy that can be easily biopsied using conventional white light bronchoscopy"
+      ]
+    },
+    "intervention": {
+      "text": "Robot-assisted bronchoscopy (Monarch Endoscopy Platform, Auris Health, Inc.)",
+      "details": "General anesthesia with endotracheal tube; inspection bronchoscopy; EBUS-TBNA when indicated; robotic bronchoscope with 6.0 mm sheath and 4.2 mm inner scope advanced to peripheral airways using EM navigation; r-EBUS used for confirmation; biopsies performed via 2.1 mm working channel under fluoroscopy; no CBCT used."
+    },
+    "comparison": {
+      "text": "None (single-arm observational case series)",
+      "details": "No concurrent or randomized control group"
+    },
+    "outcomes": [
+      {
+        "name": "Diagnostic yield",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Navigation success",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Tissue acquisition success",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Procedure-related complications (pneumothorax, airway bleeding, respiratory failure within 24 h)",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Observational",
+    "allocation": "non-randomized",
+    "blinding": "none",
+    "sites_count": 4,
+    "countries": [
+      "US"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 165,
+      "analyzed": 165
+    },
+    "analysis_populations": [
+      {
+        "name": "All treated patients",
+        "description": "All patients undergoing RAB during the study period",
+        "n": 165
+      },
+      {
+        "name": "All lesions",
+        "description": "All lesions biopsied using RAB",
+        "n": 167
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "Robotic-assisted bronchoscopy (Monarch platform)",
+      "n_randomized": 0,
+      "n_analyzed": 165,
+      "n_completed": 164
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "diagnostic_yield_conservative_patient_level",
+      "name": "Diagnostic yield (conservative, counts inflammation without follow-up as non-diagnostic)",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Index procedure and follow-up adjudication",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 114,
+            "total": 165
+          }
+        }
+      ],
+      "comparison": {
+        "measure": "single_group_proportion",
+        "est": 0.691,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated patients",
+        "missing_handling": "Not applicable"
+      },
+      "provenance": {
+        "pages": [
+          3,
+          4
+        ],
+        "tables": [
+          "Table 5"
+        ],
+        "quote": "The overall diagnostic yield ranged from 69.1-77%... The pathological findings in the 114 diagnostic cases are presented in Table 5."
+      }
+    },
+    {
+      "concept_id": "diagnostic_yield_by_rebus_view",
+      "name": "Diagnostic yield by r-EBUS view",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Index procedure",
+      "groups": [
+        {
+          "arm_id": "no_view",
+          "raw": {
+            "events": 7,
+            "total": 26
+          }
+        },
+        {
+          "arm_id": "eccentric_view",
+          "raw": {
+            "events": 43,
+            "total": 60
+          }
+        },
+        {
+          "arm_id": "concentric_view",
+          "raw": {
+            "events": 66,
+            "total": 81
+          }
+        }
+      ],
+      "comparison": {
+        "measure": "chi_squared_association",
+        "p_value": 0.001,
+        "p_operator": "<",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Chi-squared test of association",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All lesions",
+        "missing_handling": "Not applicable"
+      },
+      "provenance": {
+        "pages": [
+          4
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "r-EBUS view: No view 7/26 (26.9%), Eccentric view 43/60 (71.7%), Concentric view 66/81 (81.5%); P < 0.001."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.376
+        },
+        "odds_ratio": {
+          "est": 0.146
+        },
+        "arr": -0.447,
+        "nnh": 2.2
+      }
+    },
+    {
+      "concept_id": "diagnostic_yield_by_bronchus_sign",
+      "name": "Diagnostic yield by bronchus sign on CT",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Index procedure",
+      "groups": [
+        {
+          "arm_id": "bronchus_sign_present",
+          "raw": {
+            "events": 83,
+            "total": 106
+          }
+        },
+        {
+          "arm_id": "bronchus_sign_absent",
+          "raw": {
+            "events": 33,
+            "total": 61
+          }
+        }
+      ],
+      "comparison": {
+        "measure": "chi_squared_association",
+        "p_value": 0.001,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Chi-squared test of association",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All lesions",
+        "missing_handling": "Not applicable"
+      },
+      "provenance": {
+        "pages": [
+          4
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "Diagnostic yield was higher for lesions with a “bronchus sign” (78.3% v 54.1%, P = 0.001). Bronchus sign 83/106 (78.3%)."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 1.447
+        },
+        "odds_ratio": {
+          "est": 3.062
+        },
+        "arr": 0.242,
+        "nnt": 4.1
+      }
+    },
+    {
+      "concept_id": "navigation_success",
+      "name": "Navigation success",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Intra-procedural",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 148,
+            "total": 167
+          }
+        }
+      ],
+      "comparison": {
+        "measure": "single_group_proportion",
+        "est": 0.888,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All lesions",
+        "missing_handling": "Not applicable"
+      },
+      "provenance": {
+        "pages": [
+          3
+        ],
+        "tables": [],
+        "quote": "Navigation was successful in 148 (88.6%) lesions."
+      }
+    },
+    {
+      "concept_id": "tissue_acquisition_success_patient_level",
+      "name": "Tissue acquisition success (patient-level)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Index procedure",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 161,
+            "total": 165
+          }
+        }
+      ],
+      "comparison": {
+        "measure": "single_group_proportion",
+        "est": 0.976,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated patients",
+        "missing_handling": "Not applicable"
+      },
+      "provenance": {
+        "pages": [
+          3
+        ],
+        "tables": [],
+        "quote": "Tissue samples were successfully obtained in 161 (97.6%) patients. Samples were not obtained in 4 (2.4%) cases."
+      }
+    },
+    {
+      "concept_id": "procedure_time_minutes",
+      "name": "Total procedure time",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "unit": "min",
+      "unit_canonical": "minute",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": 58.6,
+            "sd": 31.4,
+            "total": 121
+          }
+        }
+      ],
+      "comparison": {
+        "measure": "single_group_mean",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive statistics",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All lesions with available data",
+        "missing_handling": "Procedure time missing for 46 cases"
+      },
+      "provenance": {
+        "pages": [
+          3
+        ],
+        "tables": [],
+        "quote": "The average navigation and procedure time were 17.8 ± 19.1 min and 58.6 ± 31.4 min, respectively (this data was not available for 46 cases)."
+      }
+    },
+    {
+      "concept_id": "navigation_time_minutes",
+      "name": "Navigation time",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "unit": "min",
+      "unit_canonical": "minute",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": 17.8,
+            "sd": 19.1,
+            "total": 121
+          }
+        }
+      ],
+      "comparison": {
+        "measure": "single_group_mean",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive statistics",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All lesions with available data",
+        "missing_handling": "Navigation time missing for 46 cases"
+      },
+      "provenance": {
+        "pages": [
+          3
+        ],
+        "tables": [],
+        "quote": "The average navigation and procedure time were 17.8 ± 19.1 min and 58.6 ± 31.4 min, respectively (this data was not available for 46 cases)."
+      }
+    },
+    {
+      "concept_id": "diagnostic_yield_adj_or_eccentric_vs_no_view",
+      "name": "Adjusted odds of diagnostic yield: eccentric r-EBUS view vs no view",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "groups": [
+        {
+          "arm_id": "eccentric_view",
+          "raw": {
+            "events": 43,
+            "total": 60
+          }
+        },
+        {
+          "arm_id": "no_view",
+          "raw": {
+            "events": 7,
+            "total": 26
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "no_view",
+        "measure": "odds_ratio",
+        "est": 7.4,
+        "ci_lower": 2.4,
+        "ci_upper": 22.9,
+        "ci_level": 0.95,
+        "p_value": 0.001,
+        "p_operator": "<",
+        "adjusted": true
+      },
+      "analysis": {
+        "model": "Multivariable logistic regression",
+        "adjusted": true,
+        "covariates": [
+          "lesion location",
+          "centrality",
+          "endobronchial visibility",
+          "lesion appearance",
+          "lesion size",
+          "bronchus sign",
+          "r-EBUS view"
+        ],
+        "population": "All lesions",
+        "missing_handling": "Complete-case analysis"
+      },
+      "provenance": {
+        "pages": [
+          4
+        ],
+        "tables": [
+          "Table 4"
+        ],
+        "table_number": 4,
+        "quote": "Eccentric 7.4 (2.4-22.9), P < 0.001"
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 2.662
+        },
+        "odds_ratio": {
+          "est": 6.866
+        },
+        "arr": 0.447,
+        "nnt": 2.2
+      }
+    },
+    {
+      "concept_id": "diagnostic_yield_adj_or_concentric_vs_no_view",
+      "name": "Adjusted odds of diagnostic yield: concentric r-EBUS view vs no view",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "groups": [
+        {
+          "arm_id": "concentric_view",
+          "raw": {
+            "events": 66,
+            "total": 81
+          }
+        },
+        {
+          "arm_id": "no_view",
+          "raw": {
+            "events": 7,
+            "total": 26
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "no_view",
+        "measure": "odds_ratio",
+        "est": 10.0,
+        "ci_lower": 3.2,
+        "ci_upper": 31.1,
+        "ci_level": 0.95,
+        "p_value": 0.001,
+        "p_operator": "<",
+        "adjusted": true
+      },
+      "analysis": {
+        "model": "Multivariable logistic regression",
+        "adjusted": true,
+        "covariates": [
+          "lesion location",
+          "centrality",
+          "endobronchial visibility",
+          "lesion appearance",
+          "lesion size",
+          "bronchus sign",
+          "r-EBUS view"
+        ],
+        "population": "All lesions",
+        "missing_handling": "Complete-case analysis"
+      },
+      "provenance": {
+        "pages": [
+          4
+        ],
+        "tables": [
+          "Table 4"
+        ],
+        "table_number": 4,
+        "quote": "Concentric 10.0 (3.2-31.1), P < 0.001"
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 3.026
+        },
+        "odds_ratio": {
+          "est": 11.943
+        },
+        "arr": 0.546,
+        "nnt": 1.8
+      }
+    },
+    {
+      "concept_id": "diagnostic_yield_adj_or_bronchus_sign_present",
+      "name": "Adjusted odds of diagnostic yield: bronchus sign present vs absent",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "groups": [
+        {
+          "arm_id": "bronchus_sign_present",
+          "raw": {
+            "events": 83,
+            "total": 106
+          }
+        },
+        {
+          "arm_id": "bronchus_sign_absent",
+          "raw": {
+            "events": 33,
+            "total": 61
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "bronchus_sign_absent",
+        "measure": "odds_ratio",
+        "est": 2.3,
+        "ci_lower": 1.0,
+        "ci_upper": 5.3,
+        "ci_level": 0.95,
+        "p_value": 0.04,
+        "p_operator": "=",
+        "adjusted": true
+      },
+      "analysis": {
+        "model": "Multivariable logistic regression",
+        "adjusted": true,
+        "covariates": [
+          "lesion location",
+          "centrality",
+          "endobronchial visibility",
+          "lesion appearance",
+          "lesion size",
+          "bronchus sign",
+          "r-EBUS view"
+        ],
+        "population": "All lesions",
+        "missing_handling": "Complete-case analysis"
+      },
+      "provenance": {
+        "pages": [
+          4
+        ],
+        "tables": [
+          "Table 4"
+        ],
+        "table_number": 4,
+        "quote": "Bronchus sign 2.3 (1.0-5.3), P = 0.04"
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 1.447
+        },
+        "odds_ratio": {
+          "est": 3.062
+        },
+        "arr": 0.242,
+        "nnt": 4.1
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Pneumothorax",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Pneumothorax"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "hospitalization",
+        "required intervention"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 6,
+          "patients": 6,
+          "percentage": 3.6,
+          "total": 167
+        }
+      ],
+      "period": "0-24 hours",
+      "management": "Chest tube placement in 4/6 cases",
+      "provenance": {
+        "pages": [
+          4,
+          5
+        ],
+        "tables": [],
+        "quote": "Pneumothorax occurred in 6 (3.6%) cases, requiring chest tube placement in 4 (2.4%)."
+      }
+    },
+    {
+      "event_name": "Pulmonary haemorrhage",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Pulmonary haemorrhage"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 4,
+          "patients": 4,
+          "percentage": 2.4,
+          "total": 167
+        }
+      ],
+      "period": "Peri-procedural",
+      "management": "Controlled with cold saline via flexible bronchoscope; no transfusion, no endobronchial blockers, no thoracotomy",
+      "provenance": {
+        "pages": [
+          4,
+          5
+        ],
+        "tables": [],
+        "quote": "Significant bleeding post-biopsies was reported in 4 (2.4%) cases. There was no need for blood transfusion, open thoracotomy or use of endobronchial blockers in any case."
+      }
+    },
+    {
+      "event_name": "Respiratory failure",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Respiratory failure"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "life-threatening"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 167
+        }
+      ],
+      "period": "0-24 hours",
+      "management": "Not applicable",
+      "provenance": {
+        "pages": [
+          5
+        ],
+        "tables": [],
+        "quote": "There were no reports of respiratory failure, deaths or any other procedure-related complications."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "ROBINS-I",
+    "overall_judgment": "moderate",
+    "domains": [
+      {
+        "name": "Bias due to confounding",
+        "judgment": "moderate",
+        "support_for_judgment": "Single-arm retrospective design without comparator; multivariable adjustment used for some associations."
+      },
+      {
+        "name": "Bias in selection of participants",
+        "judgment": "low",
+        "support_for_judgment": "Consecutive cases across four centers."
+      },
+      {
+        "name": "Bias in measurement of outcomes",
+        "judgment": "moderate",
+        "support_for_judgment": "Diagnostic yield adjudicated by follow-up; potential misclassification for cases without follow-up."
+      },
+      {
+        "name": "Bias due to missing data",
+        "judgment": "low",
+        "support_for_judgment": "Limited missingness reported (e.g., time measures missing in 46 cases); primary binary outcomes largely complete."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "robot-assisted bronchoscopy",
+      "Monarch",
+      "r-EBUS",
+      "electromagnetic navigation",
+      "lung nodule",
+      "diagnostic yield",
+      "pneumothorax"
+    ],
+    "summary_tldr": "In 165 patients (167 lesions), robot-assisted bronchoscopy achieved 88.6% navigation success, 69.1-77% diagnostic yield, with pneumothorax in 3.6% (chest tube 2.4%) and significant bleeding in 2.4%.",
+    "clinical_relevance": "Early multicenter post-marketing experience suggests robot-assisted bronchoscopy is feasible and safe with diagnostic yield comparable to or higher than contemporary guided bronchoscopy; higher yield with bronchus sign and concentric r-EBUS view."
+  }
+}

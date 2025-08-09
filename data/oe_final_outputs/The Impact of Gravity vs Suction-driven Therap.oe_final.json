@@ -1,0 +1,393 @@
+{
+  "source": {
+    "document_id": "The Impact of Gravity vs Suction-driven Therap",
+    "ingest_date": "2025-08-08T16:22:39.574026+00:00",
+    "trial_registration_id": "NCT03591952",
+    "pmid": "",
+    "doi": "10.1016/j.chest.2019.10.025"
+  },
+  "document": {
+    "metadata": {
+      "title": "The Impact of Gravity vs Suction-driven Therapeutic Thoracentesis on Pressure-related Complications: The GRAVITAS Multicenter Randomized Controlled Trial",
+      "year": 2020,
+      "authors": [
+        "Robert J. Lentz",
+        "Samira Shojaee",
+        "Horiana B. Grosu",
+        "Otis B. Rickman",
+        "Lance Roller",
+        "Jasleen K. Pannu",
+        "Zachary S. DePew",
+        "Labib G. Debiane",
+        "Joseph C. Cicenia",
+        "Jason Akulian",
+        "Charla Walston",
+        "Trinidad M. Sanchez",
+        "Kevin R. Davidson",
+        "Nikhil Jagan",
+        "Sahar Ahmad",
+        "Christopher Gilbert",
+        "John T. Huggins",
+        "Heidi Chen",
+        "Richard W. Light",
+        "Lonny Yarmus",
+        "David Feller-Kopman",
+        "Hans Lee",
+        "Najib M. Rahman",
+        "Fabien Maldonado"
+      ],
+      "journal": "CHEST",
+      "doi": "10.1016/j.chest.2019.10.025",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "BACKGROUND: Thoracentesis can be accomplished by active aspiration or drainage with gravity. This trial investigated whether gravity drainage could protect against negative pressure-related complications such as chest discomfort, re-expansion pulmonary edema, or pneumothorax compared with active aspiration. METHODS: This prospective, multicenter, single-blind, randomized controlled trial allocated patients with large free-flowing effusions estimated ≥ 500 mL 1:1 to undergo active aspiration or gravity drainage. Patients rated chest discomfort on 100-mm visual analog scales prior to, during, and following drainage. Thoracentesis was halted at complete evacuation or for persistent chest discomfort, intractable cough, or other complication. The primary outcome was overall procedural chest discomfort scored 5 min following the procedure. Secondary outcomes included measures of discomfort and breathlessness through 48 h postprocedure. RESULTS: A total of 142 patients were randomized to undergo treatment, with 140 in the final analysis. Groups did not differ for the primary outcome (mean visual analog scale score difference, 5.3 mm; 95% CI, -2.4 to 13.0; P = .17). Secondary outcomes of discomfort and dyspnea did not differ between groups. Comparable volumes were drained in both groups, but the procedure duration was significantly longer in the gravity arm (mean difference, 7.4 min; 95% CI, 4.6 to 10.2; P < .001). There were no serious complications. CONCLUSIONS: Thoracentesis via active aspiration and gravity drainage are both safe and result in comparable levels of procedural comfort and dyspnea improvement. Active aspiration requires less total procedural time.",
+      "methods": "Randomized controlled, single-blind trial at 10 US academic medical centers. Adults ≥18 years with symptomatic, free-flowing pleural effusions estimated ≥500 mL were included based on radiograph occupying ≥1/3 hemithorax, CT depth ≥1/3 hemithorax AP dimension at the dome of the hemidiaphragm, or ultrasound spanning ≥3 interspaces with depth ≥3 cm in the upright position. Exclusions: non-free-flowing effusions (septations/loculations), inability to sit, or inability to consent. After ultrasound-guided placement of an 8-F over-needle catheter and local anesthesia, patients were randomized 1:1 to gravity drainage or manual syringe aspiration (60-mL syringe). Gravity drainage used straight tubing ~100 cm to a drainage bag positioned ~100 cm below insertion; tubing was primed with ~5 mL if needed. Goal was complete evacuation; procedures stopped early for persistent chest discomfort suggestive of excessive negative pressure, intractable cough, worsening dyspnea, vagal reaction, or other complications. Outcomes included 100-mm VAS chest discomfort at multiple timepoints and Modified Borg Dyspnea Scale preprocedure and at 5 min, 24 h, and 48 h. Postprocedure ultrasound assessed residual fluid; chest radiograph assessed lung re-expansion, pneumothorax, and REPE. Sample size: 128 (64/arm) to detect a 15-mm VAS difference (SD 30) with 80% power at alpha 0.05 using two-sample t test. Analyses were modified intention-to-treat; Student t tests for continuous variables and chi-square for categorical; post hoc multivariable linear regression adjusting for nonlinear preprocedure chest discomfort (restricted cubic spline) and per-protocol analysis excluding suction cases using continuous wall suction.",
+      "results": "201 screened; 142 randomized; 2 withdrawn pre-drainage in gravity (equipment unavailable; non-free-flowing effusion). Analyzed: gravity n=78; suction n=62. Baseline characteristics generally balanced; current chest discomfort prior to procedure start was higher in suction (mean VAS 22.9 ± 25.0 mm) vs gravity (12.3 ± 18.1 mm). Primary outcome (overall procedural chest discomfort at 5 min postprocedure) did not differ (mean difference 5.3 mm; 95% CI -2.4 to 13.0; P = .17). No differences in secondary patient-reported discomfort or dyspnea outcomes including intraprocedural/postprocedural VAS and Borg scores, or change scores. Post hoc adjusted and per-protocol analyses also showed no difference. Volume drained similar: suction 1,264 ± 724 mL vs gravity 1,165 ± 543 mL (mean difference 99 mL; 95% CI -113 to 310; P = .89). Procedure duration shorter with suction: 10.5 ± 6.1 min vs gravity 17.8 ± 9.7 min (mean difference 7.4 min; 95% CI 4.6 to 10.2; P < .001). More than 1,500 mL was drained in 31 procedures (17 gravity, 14 suction) with no complications. Approximately half of procedures stopped spontaneously and half for chest discomfort in both groups. No significant adverse events; one small apical pneumothorax in the suction group resolved within hours."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults undergoing therapeutic thoracentesis for large, symptomatic, free-flowing pleural effusions at 10 US academic centers.",
+      "inclusion_criteria": [
+        "Age ≥ 18 years",
+        "Symptomatic pleural effusion estimated ≥ 500 mL",
+        "Effusion occupying ≥ 1/3 hemithorax on chest radiograph OR",
+        "CT: AP effusion depth ≥ 1/3 hemithorax AP dimension at the dome of the hemidiaphragm OR",
+        "Ultrasound: effusion spanning ≥ 3 interspaces with depth ≥ 3 cm in upright position"
+      ],
+      "exclusion_criteria": [
+        "Non-free-flowing effusions (septations or loculations on imaging)",
+        "Unable to sit for the procedure",
+        "Unable to provide informed consent"
+      ]
+    },
+    "intervention": {
+      "text": "Gravity drainage thoracentesis",
+      "details": "8-F over-needle catheter; straight tubing ~100 cm to drainage bag positioned ~100 cm below insertion site; tubing primed with ~5 mL pleural fluid if needed; aim for complete evacuation; stop for persistent chest discomfort, intractable cough, worsening dyspnea, vagal reaction, or other complications."
+    },
+    "comparison": {
+      "text": "Active aspiration (manual syringe suction)",
+      "details": "8-F over-needle catheter; pleural fluid actively aspirated using a 60-mL syringe; same stopping rules and sterile technique."
+    },
+    "outcomes": [
+      {
+        "name": "Overall procedural chest discomfort (VAS) at 5 minutes postprocedure",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Intraprocedural and postprocedural discomfort (VAS) up to 48 hours",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Dyspnea (VAS and Modified Borg) up to 48 hours",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Volume drained (mL)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Procedure duration (minutes)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Postprocedure imaging: lung re-expansion, pneumothorax, REPE",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "RCT",
+    "allocation": "randomized",
+    "blinding": "single-blind",
+    "sites_count": 10,
+    "countries": [
+      "US"
+    ],
+    "sample_size": {
+      "planned": 128,
+      "enrolled": 142,
+      "analyzed": 140
+    },
+    "analysis_populations": [
+      {
+        "name": "mITT",
+        "description": "All randomized with any procedure or outcome data",
+        "n": 140
+      },
+      {
+        "name": "PP",
+        "description": "Per-protocol; excludes suction procedures performed with continuous wall suction",
+        "n": 129
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "gravity",
+      "name": "Gravity drainage",
+      "n_randomized": 80,
+      "n_analyzed": 78,
+      "n_completed": 78
+    },
+    {
+      "arm_id": "suction",
+      "name": "Active aspiration (manual syringe suction)",
+      "n_randomized": 62,
+      "n_analyzed": 62,
+      "n_completed": 62
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "procedural_chest_discomfort_vas_5min",
+      "name": "Overall procedural chest discomfort (VAS) at 5 minutes postprocedure",
+      "type": "continuous",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "PT5M",
+      "timepoint_label": "5 minutes postprocedure",
+      "unit": "mm",
+      "unit_canonical": "millimeter",
+      "groups": [
+        {
+          "arm_id": "suction",
+          "raw": {
+            "mean": null,
+            "sd": null,
+            "total": 62
+          }
+        },
+        {
+          "arm_id": "gravity",
+          "raw": {
+            "mean": null,
+            "sd": null,
+            "total": 78
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "suction",
+        "measure": "mean_difference",
+        "est": 5.3,
+        "ci_lower": -2.4,
+        "ci_upper": 13.0,
+        "ci_level": 0.95,
+        "p_value": 0.17,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "two-sample Student t test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "mITT",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          704
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "The primary outcome of overall procedural chest discomfort measured by VAS 5 min postprocedure did not differ... (mean difference in VAS scores, 5.3 mm; 95% CI, -2.4 to 13.0; P = .17)."
+      }
+    },
+    {
+      "concept_id": "volume_drained_ml_endproc",
+      "name": "Volume drained",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "PT0S",
+      "timepoint_label": "End of procedure",
+      "unit": "mL",
+      "unit_canonical": "milliliter",
+      "groups": [
+        {
+          "arm_id": "suction",
+          "raw": {
+            "mean": 1264,
+            "sd": 724,
+            "total": 62
+          }
+        },
+        {
+          "arm_id": "gravity",
+          "raw": {
+            "mean": 1165,
+            "sd": 543,
+            "total": 78
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "suction",
+        "measure": "mean_difference",
+        "est": 99,
+        "ci_lower": -113,
+        "ci_upper": 310,
+        "ci_level": 0.95,
+        "p_value": 0.89,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "two-sample Student t test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "mITT"
+      },
+      "provenance": {
+        "pages": [
+          705
+        ],
+        "tables": [
+          "Table 4"
+        ],
+        "quote": "The volume of fluid drained in each group was equivalent (mean, 1,264 ± 724 mL suction vs 1,165 ± 543 mL gravity; mean difference, 99 mL; 95% CI, -113 to 310; P = .89)."
+      }
+    },
+    {
+      "concept_id": "procedure_duration_minutes",
+      "name": "Procedure duration",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "PT0S",
+      "timepoint_label": "Procedure time",
+      "unit": "min",
+      "unit_canonical": "minute",
+      "groups": [
+        {
+          "arm_id": "suction",
+          "raw": {
+            "mean": 10.5,
+            "sd": 6.1,
+            "total": 62
+          }
+        },
+        {
+          "arm_id": "gravity",
+          "raw": {
+            "mean": 17.8,
+            "sd": 9.7,
+            "total": 78
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "suction",
+        "measure": "mean_difference",
+        "est": 7.4,
+        "ci_lower": 4.6,
+        "ci_upper": 10.2,
+        "ci_level": 0.95,
+        "p_value": 0.001,
+        "p_operator": "<",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "two-sample Student t test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "mITT"
+      },
+      "provenance": {
+        "pages": [
+          705
+        ],
+        "tables": [
+          "Table 4"
+        ],
+        "quote": "Procedure duration was significantly shorter in the suction group (mean duration, 10.5 ± 6.1 min vs 17.8 ± 9.7 min; mean difference, 7.4 min; 95% CI, 4.6 to 10.2; P < .001)."
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Pneumothorax",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Pneumothorax"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "gravity",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 78
+        },
+        {
+          "arm_id": "suction",
+          "events": 1,
+          "patients": 1,
+          "percentage": 1.6,
+          "total": 62
+        }
+      ],
+      "period": "0-48 hours",
+      "management": "Observation; resolved within several hours",
+      "provenance": {
+        "pages": [
+          705
+        ],
+        "tables": [],
+        "quote": "One pneumothorax was documented on a postprocedure chest radiograph in the suction group... the pneumothorax had resolved several hours later."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "RoB 2",
+    "overall_judgment": "low",
+    "domains": [
+      {
+        "name": "Randomization process",
+        "judgment": "low",
+        "support_for_judgment": "Computer-generated permuted blocks stratified by site; allocation concealment via sealed opaque envelopes opened after catheter placement."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "some concerns",
+        "support_for_judgment": "Eleven suction procedures used continuous wall suction contrary to protocol; addressed in per-protocol analysis."
+      },
+      {
+        "name": "Missing outcome data",
+        "judgment": "low",
+        "support_for_judgment": "Only 2 withdrawals prior to any data; mITT included 140/142."
+      },
+      {
+        "name": "Measurement of the outcome",
+        "judgment": "low",
+        "support_for_judgment": "Patient-reported VAS with participants blinded to assignment; standardized timing."
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "low",
+        "support_for_judgment": "Prespecified primary outcome and analysis; results consistent with statistical analysis plan."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "thoracentesis",
+      "pleural effusion",
+      "gravity drainage",
+      "suction",
+      "randomized controlled trial",
+      "patient-reported outcomes"
+    ],
+    "summary_tldr": "In 140 patients undergoing therapeutic thoracentesis, gravity drainage did not reduce procedural chest discomfort versus manual suction, while suction was faster by 7.4 minutes.",
+    "clinical_relevance": "Both gravity and manual suction thoracentesis are safe with similar comfort and dyspnea improvement; manual suction shortens procedure time."
+  }
+}

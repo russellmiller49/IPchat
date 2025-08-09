@@ -1,0 +1,444 @@
+{
+  "source": {
+    "document_id": "Prospective study to determine the volume of p",
+    "ingest_date": "2025-08-08T14:59:24.145433+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1378/chest.09-0641"
+  },
+  "document": {
+    "metadata": {
+      "title": "Prospective Study To Determine the Volume of Pleural Fluid Required To Diagnose Malignancy",
+      "year": 2010,
+      "authors": [
+        "Jennifer Swiderek",
+        "Samer Morcos",
+        "Vijayalakshmi Donthireddy",
+        "Rajesh Surapaneni",
+        "Vicki Jackson-Thompson",
+        "Lonni Schultz",
+        "Sudha Kini",
+        "Paul Kvale"
+      ],
+      "journal": "Chest",
+      "doi": "10.1378/chest.09-0641",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Background: The optimal volume of pleural fluid to diagnose a malignant effusion is unknown. Our study was designed to demonstrate if a minimum pleural fluid volume (10 mL) is equivalent to a large volume thoracentesis to make a cytopathologic diagnosis of malignancy. Methods: A total of 121 thoracentesis samples were obtained from 102 patients with suspected or known malignant effusions. Pleural fluid was collected in three aliquots for cytologic examination (10 mL, 60 mL, ≥150 mL). The pathologist was blinded to patient identifiers and aliquot volume. Sensitivity, specificity, negative predictive value (NPV), and positive predictive value (PPV) were calculated for each volume for the diagnosis of malignancy. Results: Pleural malignancy was diagnosed in 90 patient encounters (74.4%). For direct smear/cytospin, there was increased sensitivity and NPV for 60 mL (P = .0058 and P = .045, respectively) and for ≥150 mL (P < .001 and P = .009, respectively) compared with 10 mL. For combined direct smear/cytospin and cell block preparations, statistical significance for sensitivity and NPV existed only between the 10 mL and ≥150 mL specimens (P = .0099 and P = .033, respectively). No statistical difference existed for specificity or PPV for any aliquot volume. Conclusions: The sensitivity for diagnosis of pleural malignancy is dependent on the pleural fluid volume extracted during thoracentesis. Volumes of 10 mL do not perform as well as larger volumes. When both direct smear/cytospin and cell block preparations are used, we recommend ≥150 mL, whereas when only direct smear/cytospin is used, 60 mL is adequate for the diagnosis of a malignant pleural effusion.",
+      "methods": "Single-center prospective diagnostic accuracy study at Henry Ford Hospital, Detroit, MI (IRB #1452). Between September 1, 2001, and August 31, 2007, 102 patients (60 women, 42 men) undergoing diagnostic thoracentesis for suspected malignant pleural effusion (n=94) or known malignant effusion undergoing subsequent thoracentesis (n=8) were enrolled, yielding 121 pleural fluid samples. All patients had moderate to large effusions (≥ one-third hemithorax). After routine clinical studies, three aliquots were collected for cytology: 10 mL, 60 mL, and ≥150 mL, processed per institutional cytopathology protocol. Entire aliquots were centrifuged; direct smears were prepared from sediment or cytospins if clear. Cell blocks were prepared if clot or sufficient sediment was present. Papanicolaou stain was used for smears/cytospins and hematoxylin-eosin for cell blocks. A single attending cytopathologist, blinded to patient identifiers and aliquot volumes, reviewed all study slides. The reference standard was cytologic or histologic confirmation of malignant pleural effusion within 6 months of the initial thoracentesis or CT evidence of pleural thickening/nodularity in a patient with a pathologically confirmed underlying malignancy. Logistic regression models using generalized estimating equations (GEE) accounted for within-sample correlation of the three volume levels; pairwise comparisons were prespecified at alpha 0.05 without multiplicity adjustment. Analyses were conducted for direct smear/cytospin alone and for combined direct smear/cytospin plus cell block. Three encounters with missing slides for all volumes were excluded from analyses.",
+      "results": "Of 121 thoracentesis encounters, 90 (74.3%) had malignant pleural effusions by the reference standard. After excluding 3 encounters with missing slides, 118 encounters remained, with 87 (73.7%) malignant. For direct smear/cytospin-only analyses including encounters with results for all three volumes (n=107; 78 malignant), sensitivity increased with volume: 10 mL 48.7% (38/78), 60 mL 62.8% (49/78), ≥150 mL 69.2% (54/78). Pairwise sensitivity differences were significant for 10 vs 60 mL (P = .0058) and 10 vs ≥150 mL (P < .001); 60 vs ≥150 mL was not significant (P = .090). NPV also increased: 10 mL 41.2% (28/68), 60 mL 47.3% (26/55), ≥150 mL 51.0% (25/49), with significant differences for 10 vs 60 mL (P = .045) and 10 vs ≥150 mL (P = .009). Specificity and PPV did not differ significantly across volumes. For combined direct smear/cytospin plus cell block (n=71; 54 malignant), sensitivity was 75.9% (41/54) at 10 mL, 79.6% (43/54) at 60 mL, and 87.0% (47/54) at ≥150 mL; 10 vs ≥150 mL was significant (P = .0099). NPV was 55.2% (16/29), 59.3% (16/27), and 66.7% (17/21), respectively; 10 vs ≥150 mL was significant (P = .033). Specificity and PPV showed no significant differences. Cancer types among malignant effusions included lung adenocarcinoma (31/90), metastatic breast carcinoma (24/90), and others."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults undergoing diagnostic thoracentesis with suspected or known malignant pleural effusion and moderate-to-large effusions (≥ one-third hemithorax) at a single US tertiary center.",
+      "inclusion_criteria": [
+        "Suspected malignant pleural effusion by attending pulmonologist",
+        "Known malignant pleural effusion undergoing subsequent thoracentesis",
+        "Moderate to large pleural effusion (≥ one-third hemithorax)"
+      ],
+      "exclusion_criteria": [
+        "Clinical findings suggesting infection or congestive heart failure as the cause of effusion (per attending judgment)",
+        "Slides unavailable for all aliquot volumes (3 encounters; excluded from analyses)"
+      ]
+    },
+    "intervention": {
+      "text": "Pleural fluid cytology using specified aliquot volumes",
+      "details": "Cytologic examination of pleural fluid aliquots of 10 mL, 60 mL, and ≥150 mL from the same thoracentesis; samples centrifuged; direct smear/cytospin prepared; cell block prepared when clot or sufficient sediment present; Papanicolaou and H&E stains; slides read by a blinded attending cytopathologist."
+    },
+    "comparison": {
+      "text": "Within-sample volume comparison",
+      "details": "Diagnostic performance (sensitivity, specificity, PPV, NPV) compared across 10 mL, 60 mL, and ≥150 mL aliquots using GEE logistic regression with prespecified pairwise contrasts. Analyses conducted for direct smear/cytospin alone and for combined direct smear/cytospin plus cell block."
+    },
+    "outcomes": [
+      {
+        "name": "Sensitivity of cytology for malignant pleural effusion diagnosis across pleural fluid volumes",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Negative predictive value (NPV) of cytology across pleural fluid volumes",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Specificity and positive predictive value (PPV) across pleural fluid volumes",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "prospective diagnostic accuracy study",
+    "allocation": "non-randomized",
+    "blinding": "single-blind (blinded pathologist)",
+    "sites_count": 1,
+    "countries": [
+      "US"
+    ],
+    "sample_size": {
+      "planned": 130,
+      "enrolled": 121,
+      "analyzed": 118
+    },
+    "analysis_populations": [
+      {
+        "name": "All eligible encounters with any study slides",
+        "description": "Encounters with study slides available for at least one aliquot volume after excluding 3 with all slides missing",
+        "n": 118
+      },
+      {
+        "name": "Direct smear/cytospin complete-case set",
+        "description": "Encounters with direct smear/cytospin available for all three volumes (10, 60, ≥150 mL)",
+        "n": 107
+      },
+      {
+        "name": "Combined direct smear/cytospin + cell block complete-case set",
+        "description": "Encounters with combined result (either method positive counts as positive) available for all three volumes",
+        "n": 71
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "v10",
+      "name": "10 mL aliquot",
+      "n_randomized": 0,
+      "n_analyzed": 0,
+      "n_completed": 0
+    },
+    {
+      "arm_id": "v60",
+      "name": "60 mL aliquot",
+      "n_randomized": 0,
+      "n_analyzed": 0,
+      "n_completed": 0
+    },
+    {
+      "arm_id": "v150",
+      "name": "≥150 mL aliquot",
+      "n_randomized": 0,
+      "n_analyzed": 0,
+      "n_completed": 0
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "cytology_sensitivity_direct_smear_cytospin",
+      "name": "Sensitivity: cytology positive among reference-standard malignant (direct smear/cytospin only)",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Index thoracentesis",
+      "groups": [
+        {
+          "arm_id": "v10",
+          "raw": {
+            "events": 38,
+            "total": 78
+          }
+        },
+        {
+          "arm_id": "v60",
+          "raw": {
+            "events": 49,
+            "total": 78
+          }
+        },
+        {
+          "arm_id": "v150",
+          "raw": {
+            "events": 54,
+            "total": 78
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "v10",
+        "measure": "risk_difference",
+        "est": 0.205,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.001,
+        "p_operator": "<",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Logistic regression with generalized estimating equations; prespecified pairwise contrasts among volumes",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Direct smear/cytospin complete-case set (n=107); malignant n=78",
+        "missing_handling": "Complete-case across all three volumes"
+      },
+      "provenance": {
+        "pages": [
+          71
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "Sensitivity 10 mL 48.7% (38/78), 60 mL 62.8% (49/78), 150 mL 69.2% (54/78); P values: 10 vs 60 = .0058; 10 vs 150 < .001; 60 vs 150 = .090"
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.776
+        },
+        "odds_ratio": {
+          "est": 0.562
+        },
+        "arr": -0.141,
+        "nnh": 7.1
+      }
+    },
+    {
+      "concept_id": "cytology_npv_direct_smear_cytospin",
+      "name": "Negative predictive value: true negatives among negative test results (direct smear/cytospin only)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Index thoracentesis",
+      "groups": [
+        {
+          "arm_id": "v10",
+          "raw": {
+            "events": 28,
+            "total": 68
+          }
+        },
+        {
+          "arm_id": "v60",
+          "raw": {
+            "events": 26,
+            "total": 55
+          }
+        },
+        {
+          "arm_id": "v150",
+          "raw": {
+            "events": 25,
+            "total": 49
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "v10",
+        "measure": "risk_difference",
+        "est": 0.098,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.009,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Logistic regression with generalized estimating equations; prespecified pairwise contrasts among volumes",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Direct smear/cytospin complete-case set (n=107); negatives by test as NPV denominators per volume",
+        "missing_handling": "Complete-case across all three volumes"
+      },
+      "provenance": {
+        "pages": [
+          71
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "NPV 10 mL 41.2% (28/68), 60 mL 47.3% (26/55), 150 mL 51.0% (25/49); P values: 10 vs 60 = .045; 10 vs 150 = .009; 60 vs 150 = .304"
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.871
+        },
+        "odds_ratio": {
+          "est": 0.781
+        },
+        "arr": -0.061,
+        "nnh": 16.4
+      }
+    },
+    {
+      "concept_id": "cytology_sensitivity_combined",
+      "name": "Sensitivity: cytology positive among reference-standard malignant (direct smear/cytospin + cell block combined)",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Index thoracentesis",
+      "groups": [
+        {
+          "arm_id": "v10",
+          "raw": {
+            "events": 41,
+            "total": 54
+          }
+        },
+        {
+          "arm_id": "v60",
+          "raw": {
+            "events": 43,
+            "total": 54
+          }
+        },
+        {
+          "arm_id": "v150",
+          "raw": {
+            "events": 47,
+            "total": 54
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "v10",
+        "measure": "risk_difference",
+        "est": 0.111,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.0099,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Logistic regression with generalized estimating equations; prespecified pairwise contrasts among volumes",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Combined method complete-case set (n=71); malignant n=54",
+        "missing_handling": "Complete-case across all three volumes"
+      },
+      "provenance": {
+        "pages": [
+          71
+        ],
+        "tables": [
+          "Table 4"
+        ],
+        "table_number": 4,
+        "quote": "Sensitivity 10 mL 75.9% (41/54), 60 mL 79.6% (43/54), 150 mL 87.0% (47/54); P values: 10 vs 150 = .0099; 10 vs 60 = .090; 60 vs 150 = .181"
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.953
+        },
+        "odds_ratio": {
+          "est": 0.807
+        },
+        "arr": -0.037,
+        "nnh": 27.0
+      }
+    },
+    {
+      "concept_id": "cytology_npv_combined",
+      "name": "Negative predictive value: true negatives among negative test results (direct smear/cytospin + cell block combined)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Index thoracentesis",
+      "groups": [
+        {
+          "arm_id": "v10",
+          "raw": {
+            "events": 16,
+            "total": 29
+          }
+        },
+        {
+          "arm_id": "v60",
+          "raw": {
+            "events": 16,
+            "total": 27
+          }
+        },
+        {
+          "arm_id": "v150",
+          "raw": {
+            "events": 17,
+            "total": 21
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "v10",
+        "measure": "risk_difference",
+        "est": 0.115,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.033,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Logistic regression with generalized estimating equations; prespecified pairwise contrasts among volumes",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Combined method complete-case set (n=71); negatives by test as NPV denominators per volume",
+        "missing_handling": "Complete-case across all three volumes"
+      },
+      "provenance": {
+        "pages": [
+          71
+        ],
+        "tables": [
+          "Table 4"
+        ],
+        "table_number": 4,
+        "quote": "NPV 10 mL 55.2% (16/29), 60 mL 59.3% (16/27), 150 mL 66.7% (17/21); P values: 10 vs 150 = .033; 10 vs 60 = .478; 60 vs 150 = .117"
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.931
+        },
+        "odds_ratio": {
+          "est": 0.846
+        },
+        "arr": -0.041,
+        "nnh": 24.5
+      }
+    }
+  ],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "QUADAS-2",
+    "overall_judgment": "some concerns",
+    "domains": [
+      {
+        "name": "Patient selection",
+        "judgment": "some concerns",
+        "support_for_judgment": "Convenience sample based on clinician suspicion; single center; potential selection bias."
+      },
+      {
+        "name": "Index test (cytology at different volumes)",
+        "judgment": "low",
+        "support_for_judgment": "Blinded cytopathologist; prespecified processing; same patient served as own control."
+      },
+      {
+        "name": "Reference standard",
+        "judgment": "low",
+        "support_for_judgment": "Cytologic/histologic confirmation within 6 months or CT evidence in patients with known malignancy."
+      },
+      {
+        "name": "Flow and timing",
+        "judgment": "low",
+        "support_for_judgment": "All three volumes collected at same thoracentesis; 3 encounters excluded due to missing slides; analyses used complete cases."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "pleural effusion",
+      "cytology",
+      "thoracentesis",
+      "malignancy",
+      "cell block",
+      "cytospin",
+      "sample volume"
+    ],
+    "summary_tldr": "In a prospective within-sample comparison, larger pleural fluid volumes improved cytology sensitivity; ≥150 mL is recommended when using smear/cytospin plus cell block, while 60 mL is adequate when using smear/cytospin alone.",
+    "clinical_relevance": "Guides the minimum pleural fluid volume to submit for cytology to optimize detection of malignant pleural effusions."
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "source": {
+    "document_id": "Percutaneous endoscopic gastrostomy. Indicatio",
+    "ingest_date": "2025-08-08T14:50:29.514522+00:00",
+    "trial_registration_id": null,
+    "pmid": null,
+    "doi": null
+  },
+  "document": {
+    "metadata": {
+      "title": "Percutaneous endoscopic gastrostomy. Indications, care and complications",
+      "year": 2019,
+      "authors": [
+        "Carmen Molina Villalba",
+        "Juan Antonio Vázquez Rodríguez",
+        "Francisco Gallardo Sánchez"
+      ],
+      "journal": "Medicina Clínica (Barc)",
+      "doi": null,
+      "pmid": null
+    },
+    "sections": {
+      "abstract": "Percutaneous endoscopic gastrostomy (PEG) is an effective and safe method for nutritional support in patients with malnutrition and impossibility of oral intake with an estimated survival higher than the months that require enteral nutrition beyond four weeks. The main indications include neoplasms of the upper air-digestive tract and neurological diseases, with dementia currently considered a controversial indication. Anatomical alterations and infectious diseases are the most frequent contraindications. There are different endoscopic techniques; the most widely used being the “pull” method, with a low mortality. Complications are more frequent in patients with multiple pathologies and the elderly. Wound infection, extraction of the tube, tube blockage and bronchoaspiratory pneumonia are the most prevalent complications. Adequate prior preparation of the patient and exhaustive maintenance of the tube can reduce the appearance of these.",
+      "methods": "Narrative review summarizing indications, contraindications, procedural techniques (pull, push, introducer/gastropexy), periprocedural management (anticoagulant/antiplatelet handling, antibiotic prophylaxis), and post-insertion care for PEG.",
+      "results": "PEG is favored over parenteral nutrition when the GI tract is functional and enteral nutrition is needed >4 weeks with life expectancy >2 months. Advanced dementia is generally not recommended as an indication. Absolute and relative contraindications are listed. The pull method is most used; gastropexy is preferred in selected cases (e.g., head-and-neck/oesophageal stenoses). Early feeding at 3-6 hours is safe. Complication rates overall range 13-43%, with major complications not exceeding 22%; most frequent are stoma infection, tube dislodgement/obstruction, and aspiration pneumonia. Antibiotic prophylaxis reduces stoma infection; careful antithrombotic management is required."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Patients requiring enteral nutrition for more than 4 weeks with functional gastrointestinal tract and estimated life expectancy greater than 2 months, typically with obstructive head/neck or oesophageal neoplasms or neurological diseases.",
+      "inclusion_criteria": [
+        "Need for enteral nutrition >4 weeks",
+        "Functional gastrointestinal tract",
+        "Estimated life expectancy >2 months",
+        "Preserved mental state"
+      ],
+      "exclusion_criteria": [
+        "Stomach inaccessible percutaneously",
+        "Total gastrectomy",
+        "Haemodynamic instability",
+        "Interposition of organs",
+        "Very short life expectancy",
+        "Active gastric disease",
+        "Sepsis",
+        "Peritonitis",
+        "Infection of the abdominal wall at intended site",
+        "Coagulopathy",
+        "Gastric varices",
+        "Morbid obesity",
+        "Peritoneal carcinomatosis",
+        "Relative: difficulty inserting endoscope through mouth",
+        "Relative: neoplasms of the oropharynx or oesophagus (risk of tumor seeding)",
+        "Relative: anatomical alterations after surgery (partial gastrectomy)",
+        "Relative: pregnancy",
+        "Relative: non-morbid obesity (BMI < 40)",
+        "Relative: ascites"
+      ]
+    },
+    "intervention": {
+      "text": "Percutaneous endoscopic gastrostomy (PEG) placement",
+      "details": "Endoscopic placement using pull (Ponsky-Gauderer), push (Sacks-Vine), or introducer/gastropexy (Russell) techniques under sedation and aseptic conditions; pre-procedure fasting 6-8 h; manage antiplatelet/anticoagulants per thrombotic risk; single-dose antibiotic prophylaxis (e.g., amoxicillin-clavulanate 1 g IV or cephalosporin equivalents; alternatives: ciprofloxacin 400 mg or clindamycin 900 mg if penicillin allergy); post-procedure early feeding at 3-6 h; standardized stoma and tube care."
+    },
+    "comparison": {
+      "text": "Alternative feeding access methods",
+      "details": "Nasogastric intubation for short-term enteral nutrition (<30 days) when airway protective reflexes are intact; radiologic or surgical gastrostomy when endoscopic PEG is contraindicated or fails."
+    },
+    "outcomes": [
+      {
+        "name": "Any PEG-related complication",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Stoma infection",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Tube dislodgement or obstruction",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Aspiration pneumonia",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Narrative review",
+    "allocation": "NA",
+    "blinding": "NA",
+    "sites_count": null,
+    "countries": [],
+    "sample_size": {
+      "planned": null,
+      "enrolled": null,
+      "analyzed": null
+    },
+    "analysis_populations": []
+  },
+  "arms": [],
+  "outcomes_normalized": [],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "NA",
+    "overall_judgment": "unclear",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "percutaneous endoscopic gastrostomy",
+      "PEG",
+      "enteral nutrition",
+      "dementia",
+      "gastropexy",
+      "antibiotic prophylaxis",
+      "nasogastric tube",
+      "complications"
+    ],
+    "summary_tldr": "Narrative review: PEG is generally safe and effective for long-term enteral nutrition; dementia is a controversial indication; most common complications are stoma infection, tube dislodgement/obstruction, and aspiration pneumonia.",
+    "clinical_relevance": "Supports best practices for PEG selection, preparation, technique choice, and post-care to reduce complications; advises against PEG in advanced dementia in favor of careful oral feeding."
+  }
+}

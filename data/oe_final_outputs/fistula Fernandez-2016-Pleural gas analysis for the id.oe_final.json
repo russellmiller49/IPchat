@@ -1,0 +1,532 @@
+{
+  "source": {
+    "document_id": "fistula Fernandez-2016-Pleural gas analysis for the id",
+    "ingest_date": "2025-08-08T12:18:39.488166+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1097/MCP.0000000000000282"
+  },
+  "document": {
+    "metadata": {
+      "title": "Pleural gas analysis for the identification of alveolopleural fistulae",
+      "year": 2016,
+      "authors": [
+        "Ramiro Fernandez",
+        "Ankit Bharat"
+      ],
+      "journal": "Current Opinion in Pulmonary Medicine",
+      "doi": "10.1097/MCP.0000000000000282",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Purpose of review—The method for identification of alveolopleural fistulae (APF) by visual inspection of air bubbles in the chest drainage system has several limitations and suffers from poor accuracy. Here we discuss the use of a novel technique of pleural gas analysis in the identification and management of APF. Recent findings—We found that pleural gas analysis has higher sensitivity and specificity than visual identification in identifying APF. Additionally, we demonstrated that intrapleural gas milieu impacts lung healing and reduction of intrapleural carbon dioxide can promote resolution of APF. Summary—Pleural gas analysis is a novel technique to identify and manage APF. Integration of gas analysis in chest drainage systems would provide a more objective method for managing chest tubes and providing a favorable pleural gas environment for lung healing.",
+      "methods": "Narrative review summarizing current analogue and digital chest drainage systems, limitations in visual inspection for air leaks, and clinical validation studies of pleural gas analysis (GA). Described a prospective diagnostic accuracy comparison of GA vs visual inspection (VI) in 50 lobectomy patients and a prospective cohort of 116 consecutive lung resections assessing associations between intrapleural gas milieu and healing, including a pragmatic intervention (increased suction and supplemental oxygen) for patients with intrapleural CO2 >6%. Pleural gas measurements used a Datex analyzer connected to the drainage system sampling port. APF definition by GA: CO2 >1% and increase in O2 of ≥2% with 5 L/min supplemental O2.",
+      "results": "In APF-negative vs APF-positive groups, mean pleural CO2 was 0.9% vs 4.9%. Supplemental O2 5 L/min increased pleural O2 by ≥2% in APF-positive but not APF-negative patients (even with up to 10 L/min). In 50 lobectomy patients, GA vs VI showed concordance in 36/50 (19 positive, 17 negative). Twelve patients were VI-positive but GA-negative; chest tubes were removed without pneumothorax. Two patients were VI-negative but GA-positive; chest tube removal led to large pneumothorax. Of 29 GA-negative patients, 1 developed pneumothorax after tube removal; on tube replacement GA was positive. Overall APF incidence was 44%. Table 1 reported GA vs VI: sensitivity 95.5% vs 86.4%, specificity 100% vs 57.1%, PPV 100% vs 61.3%, NPV 96.6% vs 84.2%. In 116 resections, each 1% increase in intrapleural CO2 was associated with 9-hour delay in healing (p<0.001) and 10-fold higher odds of prolonged air leak (p=0.003). In patients with intrapleural CO2 >6%, an intervention (suction to -40 cm H2O plus O2 up to 8 L/min) reduced intrapleural CO2 from 6.6±0.7% to 3.1±0.5% and increased O2 from 15.4±2.0% to 27.1±3.2%, with shorter air leak duration vs standard management: 3.4±1.1 vs 6.0±1.2 days."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults undergoing lung surgery with chest tubes; cohorts included lobectomy patients and mixed anatomic and sublobar resections.",
+      "inclusion_criteria": [
+        "Adults undergoing lung resection with chest tube in place",
+        "For diagnostic comparison: patients undergoing surgical lobectomy",
+        "For gas milieu cohort: consecutive lung resections with pleural gas sampling on postoperative day 1"
+      ],
+      "exclusion_criteria": [
+        "Not explicitly stated in the review"
+      ]
+    },
+    "intervention": {
+      "text": "Pleural gas analysis (GA)",
+      "details": "Measurement of pleural CO2 and O2 via Datex analyzer connected to drainage system sampling port; APF defined as CO2 >1% and increase in O2 ≥2% with 5 L/min supplemental O2. Therapeutic intervention in high CO2 subgroup: pleural suction up to -40 cm H2O and supplemental O2 up to 8 L/min to target intrapleural CO2 <5%."
+    },
+    "comparison": {
+      "text": "Visual inspection (VI) of air bubbles in chest drainage system",
+      "details": "Standard analogue/digital drainage monitoring by observation of bubbling with cough/valsava or spontaneous leak; clinical decisions traditionally based on VI."
+    },
+    "outcomes": [
+      {
+        "name": "Accuracy of APF detection",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Pneumothorax after chest tube removal",
+        "type": "secondary",
+        "umls_cui": "C0032227"
+      },
+      {
+        "name": "Air leak duration (days)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Prolonged air leak (>5 days)",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "prospective observational (diagnostic accuracy and cohort), narrative review",
+    "allocation": "non-randomized",
+    "blinding": "none",
+    "sites_count": 1,
+    "countries": [
+      "US"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 50,
+      "analyzed": 50
+    },
+    "analysis_populations": [
+      {
+        "name": "Diagnostic cohort",
+        "description": "Lobectomy patients with paired GA and VI assessments",
+        "n": 50
+      },
+      {
+        "name": "Gas milieu cohort",
+        "description": "Consecutive lung resections with pleural GA on POD1",
+        "n": 116
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "ga",
+      "name": "Pleural gas analysis",
+      "n_randomized": 0,
+      "n_analyzed": 50,
+      "n_completed": 50
+    },
+    {
+      "arm_id": "vi",
+      "name": "Visual inspection of air bubbles",
+      "n_randomized": 0,
+      "n_analyzed": 50,
+      "n_completed": 50
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "apf_correct_classification_overall",
+      "name": "Correct APF classification vs reference (composite clinical standard)",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Postoperative in-hospital assessment",
+      "groups": [
+        {
+          "arm_id": "ga",
+          "raw": {
+            "events": 49,
+            "total": 50
+          }
+        },
+        {
+          "arm_id": "vi",
+          "raw": {
+            "events": 35,
+            "total": 50
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "vi",
+        "measure": "risk_difference",
+        "est": 0.28,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "diagnostic accuracy (paired within-patient)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Diagnostic cohort (n=50)",
+        "missing_handling": "Complete-case (all 50 assessed)"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "table_number": null,
+        "quote": "Concordance in 36/50 (19 positive, 17 negative). Twelve VI-positive were GA-negative and had tube removal without pneumothorax. Two VI-negative were GA-positive; removal led to large pneumothorax. Of 29 GA-negative, only 1 pneumothorax occurred after removal. Sensitivity 95.5% vs 86.4%; specificity 100% vs 57.1% for GA vs VI."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 1.4
+        },
+        "odds_ratio": {
+          "est": 21.0
+        },
+        "arr": 0.28,
+        "nnt": 3.6
+      }
+    },
+    {
+      "concept_id": "apf_sensitivity",
+      "name": "Sensitivity for APF detection",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Postoperative in-hospital assessment",
+      "groups": [
+        {
+          "arm_id": "ga",
+          "raw": {
+            "events": 21,
+            "total": 22
+          }
+        },
+        {
+          "arm_id": "vi",
+          "raw": {
+            "events": 19,
+            "total": 22
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "vi",
+        "measure": "risk_difference",
+        "est": 0.091,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "diagnostic accuracy vs reference standard",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Diagnostic cohort positives (n=22)",
+        "missing_handling": "Complete-case"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "table_number": null,
+        "quote": "Sensitivity (GA vs VI): 95.5% vs 86.4%."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 1.105
+        },
+        "odds_ratio": {
+          "est": 3.316
+        },
+        "arr": 0.091,
+        "nnt": 11.0
+      }
+    },
+    {
+      "concept_id": "apf_specificity",
+      "name": "Specificity for APF detection",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Postoperative in-hospital assessment",
+      "groups": [
+        {
+          "arm_id": "ga",
+          "raw": {
+            "events": 28,
+            "total": 28
+          }
+        },
+        {
+          "arm_id": "vi",
+          "raw": {
+            "events": 16,
+            "total": 28
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "vi",
+        "measure": "risk_difference",
+        "est": 0.5,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "diagnostic accuracy vs reference standard",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Diagnostic cohort negatives (n=28)",
+        "missing_handling": "Complete-case"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "table_number": null,
+        "quote": "Specificity (GA vs VI): 100% vs 57.1%."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 1.75
+        },
+        "arr": 0.429,
+        "nnt": 2.3
+      }
+    },
+    {
+      "concept_id": "pneumothorax_after_tube_removal",
+      "name": "Pneumothorax after chest tube removal",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Post-removal index hospitalization",
+      "groups": [
+        {
+          "arm_id": "ga",
+          "raw": {
+            "events": 1,
+            "total": 29
+          }
+        },
+        {
+          "arm_id": "vi",
+          "raw": {
+            "events": 2,
+            "total": 2
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "vi",
+        "measure": "risk_difference",
+        "est": -0.931,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "unadjusted risk comparison in subgroups determined by test-guided removal",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Patients whose tubes were removed contrary to the alternative test recommendation (discordant subsets)",
+        "missing_handling": "Complete-case"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "table_number": null,
+        "quote": "Twelve VI-positive but GA-negative had tubes removed without pneumothorax. Two VI-negative but GA-positive had removal resulting in pneumothorax. Of 29 GA-negative, only one pneumothorax after tube removal."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.034
+        },
+        "arr": -0.966,
+        "nnh": 1.0
+      }
+    },
+    {
+      "concept_id": "healing_delay_per_unit_co2",
+      "name": "Delay in lung healing per 1% increase in intrapleural CO2",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P1D",
+      "unit": "hours",
+      "unit_canonical": "hour",
+      "groups": [],
+      "comparison": {
+        "ref_arm_id": "",
+        "measure": "regression_coefficient",
+        "est": 9,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.001,
+        "p_operator": "<",
+        "adjusted": true
+      },
+      "analysis": {
+        "model": "Poisson regression",
+        "adjusted": true,
+        "covariates": [],
+        "population": "Gas milieu cohort (n=116)",
+        "missing_handling": "Not stated"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "table_number": null,
+        "quote": "Every one-unit increase in CO2 was associated with delay in lung healing by 9 hours (p<0.001)."
+      }
+    },
+    {
+      "concept_id": "pal_odds_per_unit_co2",
+      "name": "Odds of prolonged air leak per 1% increase in intrapleural CO2",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P5D",
+      "timepoint_label": "Prolonged air leak >5 days",
+      "groups": [],
+      "comparison": {
+        "ref_arm_id": "",
+        "measure": "odds_ratio_per_unit_increase",
+        "est": 10,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.003,
+        "p_operator": "=",
+        "adjusted": true
+      },
+      "analysis": {
+        "model": "Logistic regression",
+        "adjusted": true,
+        "covariates": [],
+        "population": "Gas milieu cohort (n=116)",
+        "missing_handling": "Not stated"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "table_number": null,
+        "quote": "Every one-unit increase in CO2 level was associated with a 10 times greater odds of PAL (p=0.003)."
+      }
+    },
+    {
+      "concept_id": "air_leak_duration_days",
+      "name": "Air leak duration (days) under GA-guided intervention vs standard",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "unit": "days",
+      "unit_canonical": "day",
+      "groups": [
+        {
+          "arm_id": "ga",
+          "raw": {
+            "mean": 3.4,
+            "sd": 1.1,
+            "total": null
+          }
+        },
+        {
+          "arm_id": "vi",
+          "raw": {
+            "mean": 6.0,
+            "sd": 1.2,
+            "total": null
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "vi",
+        "measure": "mean_difference",
+        "est": -2.6,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "unadjusted comparison in high-CO2 subgroup",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Patients with intrapleural CO2 >6% on POD1",
+        "missing_handling": "Not stated"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "table_number": null,
+        "quote": "Intervention group had significantly shorter AL duration: 3.4±1.1 vs 6.0±1.2 days."
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Pneumothorax",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Pneumothorax"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "hospitalization"
+      ],
+      "groups": [
+        {
+          "arm_id": "ga",
+          "events": 1,
+          "patients": 1,
+          "percentage": 3.4,
+          "total": 29
+        },
+        {
+          "arm_id": "vi",
+          "events": 2,
+          "patients": 2,
+          "percentage": 100,
+          "total": 2
+        }
+      ],
+      "period": "Post chest tube removal during index hospitalization",
+      "management": "Chest tube replacement required in pneumothorax cases",
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "Two VI-negative but GA-positive patients had pneumothorax after tube removal; of 29 GA-negative, only one pneumothorax occurred after removal."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "QUADAS-2",
+    "overall_judgment": "some concerns",
+    "domains": [
+      {
+        "name": "Patient selection",
+        "judgment": "some concerns",
+        "support_for_judgment": "Convenience sample of lobectomy patients; single center; no randomization."
+      },
+      {
+        "name": "Index test",
+        "judgment": "low",
+        "support_for_judgment": "Pre-specified GA thresholds (CO2 >1% and O2 increase ≥2% with 5 L/min O2)."
+      },
+      {
+        "name": "Reference standard",
+        "judgment": "some concerns",
+        "support_for_judgment": "Composite clinical reference inferred from outcomes; not an independent gold standard."
+      },
+      {
+        "name": "Flow and timing",
+        "judgment": "low",
+        "support_for_judgment": "All 50 patients received both tests; decisions and outcomes reported."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "alveolopleural fistula",
+      "pleural gas analysis",
+      "pleural hypercarbia",
+      "chest tube",
+      "air leak",
+      "visual inspection"
+    ],
+    "summary_tldr": "Pleural gas analysis outperformed visual inspection for detecting APF (sensitivity 95.5% vs 86.4%; specificity 100% vs 57.1%) and targeting a lower pleural CO2 shortened air leak duration.",
+    "clinical_relevance": "GA can guide safer chest tube removal and therapeutic modulation of pleural gases to promote lung healing, potentially reducing complications and length of stay."
+  }
+}

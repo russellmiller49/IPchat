@@ -1,0 +1,558 @@
+{
+  "source": {
+    "document_id": "fistula Debourdeau-2019-Endoscopic treatment of nonmal",
+    "ingest_date": "2025-08-08T12:17:24.147166+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1007/s00464-018-6330-x"
+  },
+  "document": {
+    "metadata": {
+      "title": "Endoscopic treatment of nonmalignant tracheoesophageal and bronchoesophageal fistula: results and prognostic factors for its success",
+      "year": 2019,
+      "authors": [
+        "Antoine Debourdeau",
+        "Jean‑Michel Gonzalez",
+        "Hervé Dutau",
+        "Alban Benezech",
+        "Marc Barthet"
+      ],
+      "journal": "Surgical Endoscopy",
+      "doi": "10.1007/s00464-018-6330-x",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Background Nonmalignant esophago-respiratory fistulas (ERF) are frightening clinical situations, involving surgery with high morbi-mortality rate. We described the endoscopic management of benign ERF. The aim of the study was to describe outcomes of endoscopic treatment of nonmalignant ERF and to analyze factors associated with its success. Methods This is a retrospective study involving patients managed for benign ERF in our center between 2012 and 2016. The ERFs were classified into three groups of sizes: (I) punctiform, (II) medium, and (III) large. The primary aim was to document the endoscopic success (= fistula’s healing after 6 months). The secondary objectives were characteristics of endoscopic treatment, the functional success and death, and identifying factors associated with success and death. Results 22 patients were included. The etiologies of ERF were surgery in 12 patients, esophageal dilatation in 3, invasive ventilation in 3, radiation therapy in 2, and tracheostomy in 2. Ninety-three procedures were performed (mean of number: 4.2 ± 4.5/patient). Twenty-one patients had stent placement, eight over-the-scope clips (OTSC), and seven a combined therapy. The endoscopic success rate was 45.5% (n= 10; 67% in punctiform, 50% in medium, and 14% in large ERF), and the functional success was 55% (n= 12). Serious adverse events occurred in 9 patients (40.9%). Six patients died (27%). The persistence of the orifice after 6 months of endoscopic treatment was associated with failure (OR 44; IC95: 3.38-573.4; p= 0.004 multivariate analysis). The orifice’s size was associated with mortality [71% of death if large fistulas (p= 0.001) univariate analysis]. Conclusion Endoscopic treatment of ERF leads to 45.5% of successful endoscopic closure and 55.5% of functional success, depending on fistula’s orifice size. After 6 months without healing, the chances for success dramatically decrease.",
+      "methods": "Retrospective analysis of consecutive adults with benign esophago-respiratory fistulas (ERF) treated endoscopically at a single tertiary-care center (Hospital North, Marseille, France) from July 2012 to December 2016. Inclusion: age ≥18, benign ERF with fluoroscopic confirmation during endoscopy, treated by endoscopy. Exclusion: age <18, malignant ERF, esophago-pleural fistula, treatment before July 2012, incomplete data. ERF orifice size classified endoscopically: I punctiform (< closed biopsy forceps diameter), II medium (larger without bronchial visibility), III large (direct bronchial visibility). Management strategy: attempt OTSC for recent, small, nonfibrotic orifices; if not feasible/satisfactory or large/fibrotic (>10-15 mm), place fully covered self-expandable metallic esophageal stent (FC‑SEMS). Adjuncts included monopolar coagulation and through-the-scope clips; combined approaches allowed. Contrast injection under fluoroscopy at procedure end to check leakage. Planned stent removal at 6 weeks for reassessment/re-treatment. Primary endpoint: successful endoscopic closure (closure on X‑ray contrast after stent removal and no recurrence at 6 months with oral diet). Secondary endpoints: functional success (normal oral intake without ERF symptoms with or without persistent orifice) and overall mortality; identification of factors associated with success and death. Statistics: descriptive; categorical comparisons with Chi-square or Fisher’s exact; continuous with t-test/ANOVA; survival by Kaplan-Meier with log-rank. Variables with p<0.20 or clinical relevance entered into multivariate logistic regression. Significance p<0.05.",
+      "results": "Thirty-nine ERF patients identified; 17 excluded (malignancy 12, age <18 1, missing data 1, before July 2012 2, esophago-pleural fistula 1). Twenty-two benign ERF patients analyzed (13 men, 9 women; mean age 58 years). Etiologies: post-surgery 12 (54.5%), repeated dilatation 3 (13.6%), invasive ventilation 3 (13.6%), radiation therapy 2 (9.1%), post-tracheostomy 2 (9.1%); prior thoracic radiation in 11 (50%). Locations: trachea 17 (77.3%), right bronchus 3 (13.6%), left bronchus 2 (9.1%). Orifice size: stage I 9, stage II 6, stage III 7. Ninety-three endoscopic procedures (median 2 per patient); 20/22 (90.9%) had at least one FC‑SEMS (mean 3.9 ± 3.4 per patient), 17 OTSC placed across 8 patients. Serious adverse events linked to esophageal stents in 9 patients (40.9%): GI bleeding due to mucosal erosion 4 (18.2%), stent migration 4 (18.2%), thoracic spondylodiscitis 2 (9.1%), food impaction 1 (4.5%), stent mucosal impaction 1 (4.5%), major chest pain 1 (4.5%). Six patients (27.3%) died of pulmonary complications. Successful endoscopic closure achieved in 10/22 (45.5%) in mean 3 ± 3.9 months; functional success in 12/22 (55%). OTSC attempted in 8 patients with success in 2 (25%). Predictors: in univariate analysis, tracheotomy at diagnosis associated with failure (p=0.027). Multivariate: absence of closure at 6 months associated with final failure (OR 44; 95% CI 3.38-573.4; p=0.004). Mortality associated with orifice size: 0/9 deaths in punctiform (p=0.017); 5/7 (71.4%) deaths in large orifices (p=0.001). Mean follow-up 13.8 ± 14 months."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with acquired nonmalignant esophago-respiratory fistulas (tracheoesophageal or bronchoesophageal) managed at a tertiary center.",
+      "inclusion_criteria": [
+        "Age ≥ 18 years",
+        "Benign etiology of esophago-respiratory fistula",
+        "Fistula confirmed by fluoroscopy during endoscopy",
+        "Treated by endoscopy at the study center"
+      ],
+      "exclusion_criteria": [
+        "Age < 18 years",
+        "Malignant esophago-respiratory fistula",
+        "Esophago-pleural fistula",
+        "Treatment before July 2012",
+        "Incomplete medical file data"
+      ]
+    },
+    "intervention": {
+      "text": "Endoscopic management of benign esophago-respiratory fistulas",
+      "details": "Algorithm-based approach: OTSC attempted for small, recent, nonfibrotic orifices; FC‑SEMS used when OTSC not feasible/satisfactory or orifice large/fibrotic (>10-15 mm). Adjunctive coagulation or endoclips permitted; combined therapies allowed. Fluoroscopic contrast check at end of procedure. Planned stent removal at 6 weeks for reassessment and additional treatment as needed."
+    },
+    "comparison": {
+      "text": "Single-arm cohort (no comparator)",
+      "details": "Retrospective observational study without control group."
+    },
+    "outcomes": [
+      {
+        "name": "Successful endoscopic closure at 6 months",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Functional success (oral intake without ERF symptoms)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "All-cause mortality during follow-up",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Serious adverse events related to endoscopic treatment",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Observational retrospective cohort",
+    "allocation": "non-randomized",
+    "blinding": "none",
+    "sites_count": 1,
+    "countries": [
+      "FR"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 22,
+      "analyzed": 22
+    },
+    "analysis_populations": [
+      {
+        "name": "All treated",
+        "description": "All included patients treated endoscopically",
+        "n": 22
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "cohort",
+      "name": "Endoscopic management (FC‑SEMS, OTSC, adjuncts)",
+      "n_randomized": 0,
+      "n_analyzed": 22,
+      "n_completed": 22
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "erf_endoscopic_success_6m",
+      "name": "Successful endoscopic closure at 6 months",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P6M",
+      "timepoint_label": "6 months",
+      "groups": [
+        {
+          "arm_id": "cohort",
+          "raw": {
+            "events": 10,
+            "total": 22
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Descriptive proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated",
+        "missing_handling": "None"
+      },
+      "provenance": {
+        "pages": [
+          554
+        ],
+        "tables": [],
+        "quote": "Successful endoscopic closure ... was reached in 45.5% of the cases (n = 10)."
+      }
+    },
+    {
+      "concept_id": "erf_functional_success",
+      "name": "Functional success (oral intake without ERF symptoms)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P14M",
+      "timepoint_label": "End of follow-up (mean 13.8 months)",
+      "groups": [
+        {
+          "arm_id": "cohort",
+          "raw": {
+            "events": 12,
+            "total": 22
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Descriptive proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated",
+        "missing_handling": "None"
+      },
+      "provenance": {
+        "pages": [
+          554
+        ],
+        "tables": [],
+        "quote": "Twelve patients (55%) had a functional success as defined."
+      }
+    },
+    {
+      "concept_id": "all_cause_mortality_followup",
+      "name": "All-cause mortality during follow-up",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P14M",
+      "timepoint_label": "During follow-up (mean 13.8 months)",
+      "groups": [
+        {
+          "arm_id": "cohort",
+          "raw": {
+            "events": 6,
+            "total": 22
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Descriptive proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated",
+        "missing_handling": "None"
+      },
+      "provenance": {
+        "pages": [
+          554
+        ],
+        "tables": [],
+        "quote": "During the follow-up, six (27.3%) patients died of pulmonary complications from the fistula."
+      }
+    },
+    {
+      "concept_id": "sae_any_stent_related",
+      "name": "Serious adverse events (stent-related): any",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P14M",
+      "timepoint_label": "During follow-up",
+      "groups": [
+        {
+          "arm_id": "cohort",
+          "raw": {
+            "events": 9,
+            "total": 22
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Descriptive proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated",
+        "missing_handling": "None"
+      },
+      "provenance": {
+        "pages": [
+          554
+        ],
+        "tables": [],
+        "quote": "Overall, serious adverse events linked to esophageal stents occurred in 9 patients (40.9%)."
+      }
+    },
+    {
+      "concept_id": "predictor_failure_no_healing_6m",
+      "name": "Predictor of final failure: no fistula resolution at 6 months",
+      "type": "association",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P6M",
+      "timepoint_label": "6 months status predicting final outcome",
+      "comparison": {
+        "ref_arm_id": "cohort",
+        "measure": "odds_ratio",
+        "est": 44,
+        "ci_lower": 3.38,
+        "ci_upper": 573.4,
+        "ci_level": 0.95,
+        "p_value": 0.004,
+        "p_operator": "=",
+        "adjusted": true
+      },
+      "analysis": {
+        "model": "Logistic regression",
+        "adjusted": true,
+        "covariates": [
+          "Variables with p<0.20 in univariate analysis",
+          "Clinically relevant variables (not all specified)"
+        ],
+        "population": "All treated",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          555
+        ],
+        "tables": [],
+        "quote": "In multivariate analysis, the absence of fistula closure after 6 months of endoscopic treatment was associated with final failure (OR 44; IC95: 3.38-573.4; p = 0.004)."
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Any serious adverse event related to esophageal stent",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Device related adverse event"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "other medically important condition"
+      ],
+      "groups": [
+        {
+          "arm_id": "cohort",
+          "events": 9,
+          "patients": 9,
+          "percentage": 40.9,
+          "total": 22
+        }
+      ],
+      "period": "during follow-up",
+      "management": "",
+      "provenance": {
+        "pages": [
+          554
+        ],
+        "tables": [],
+        "quote": "Overall, serious adverse events linked to esophageal stents occurred in 9 patients (40.9%)."
+      }
+    },
+    {
+      "event_name": "Gastrointestinal haemorrhage (mucosal erosion)",
+      "meddra": {
+        "soc": "Gastrointestinal disorders",
+        "pt": "Upper gastrointestinal haemorrhage"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "hospitalization"
+      ],
+      "groups": [
+        {
+          "arm_id": "cohort",
+          "events": 4,
+          "patients": 4,
+          "percentage": 18.2,
+          "total": 22
+        }
+      ],
+      "period": "during follow-up",
+      "management": "Supportive care, endoscopic management as required (not detailed).",
+      "provenance": {
+        "pages": [
+          554
+        ],
+        "tables": [],
+        "quote": "gastrointestinal bleeding due to mucosal erosion (4 patients, 18.2%)"
+      }
+    },
+    {
+      "event_name": "Device migration (esophageal stent)",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Device migration"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "intervention required"
+      ],
+      "groups": [
+        {
+          "arm_id": "cohort",
+          "events": 4,
+          "patients": 4,
+          "percentage": 18.2,
+          "total": 22
+        }
+      ],
+      "period": "during follow-up",
+      "management": "Endoscopic repositioning or replacement (not detailed).",
+      "provenance": {
+        "pages": [
+          554
+        ],
+        "tables": [],
+        "quote": "stent migration (4 patients, 18.2%)"
+      }
+    },
+    {
+      "event_name": "Spondylodiscitis",
+      "meddra": {
+        "soc": "Infections and infestations",
+        "pt": "Spondylodiscitis"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "hospitalization"
+      ],
+      "groups": [
+        {
+          "arm_id": "cohort",
+          "events": 2,
+          "patients": 2,
+          "percentage": 9.1,
+          "total": 22
+        }
+      ],
+      "period": "during follow-up",
+      "management": "Antibiotics and supportive care (not detailed).",
+      "provenance": {
+        "pages": [
+          554
+        ],
+        "tables": [],
+        "quote": "thoracic spondylodiscitis (2 patients, 9.1%)"
+      }
+    },
+    {
+      "event_name": "Food impaction",
+      "meddra": {
+        "soc": "Gastrointestinal disorders",
+        "pt": "Food impaction"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "intervention required"
+      ],
+      "groups": [
+        {
+          "arm_id": "cohort",
+          "events": 1,
+          "patients": 1,
+          "percentage": 4.5,
+          "total": 22
+        }
+      ],
+      "period": "during follow-up",
+      "management": "Endoscopic removal (not detailed).",
+      "provenance": {
+        "pages": [
+          554
+        ],
+        "tables": [],
+        "quote": "food impaction (1 patient, 4.5%)"
+      }
+    },
+    {
+      "event_name": "Device impaction (stent mucosal impaction)",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Device impaction"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "intervention required"
+      ],
+      "groups": [
+        {
+          "arm_id": "cohort",
+          "events": 1,
+          "patients": 1,
+          "percentage": 4.5,
+          "total": 22
+        }
+      ],
+      "period": "during follow-up",
+      "management": "Endoscopic management (not detailed).",
+      "provenance": {
+        "pages": [
+          554
+        ],
+        "tables": [],
+        "quote": "stent mucosal impaction (1 patient, 4.5%)"
+      }
+    },
+    {
+      "event_name": "Chest pain",
+      "meddra": {
+        "soc": "General disorders and administration site conditions",
+        "pt": "Chest pain"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "other medically important condition"
+      ],
+      "groups": [
+        {
+          "arm_id": "cohort",
+          "events": 1,
+          "patients": 1,
+          "percentage": 4.5,
+          "total": 22
+        }
+      ],
+      "period": "during follow-up",
+      "management": "Symptomatic management (not detailed).",
+      "provenance": {
+        "pages": [
+          554
+        ],
+        "tables": [],
+        "quote": "major chest pain (1 patient, 4.5%)"
+      }
+    },
+    {
+      "event_name": "Death",
+      "meddra": {
+        "soc": "General disorders and administration site conditions",
+        "pt": "Death"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "death"
+      ],
+      "groups": [
+        {
+          "arm_id": "cohort",
+          "events": 6,
+          "patients": 6,
+          "percentage": 27.3,
+          "total": 22
+        }
+      ],
+      "period": "during follow-up",
+      "management": "",
+      "provenance": {
+        "pages": [
+          554
+        ],
+        "tables": [],
+        "quote": "During the follow-up, six (27.3%) patients died of pulmonary complications from the fistula."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "ROBINS-I",
+    "overall_judgment": "serious",
+    "domains": [
+      {
+        "name": "Bias due to confounding",
+        "judgment": "serious",
+        "support_for_judgment": "Single-arm retrospective cohort without control; prognostic factors not controlled except in limited multivariate analyses."
+      },
+      {
+        "name": "Bias in selection of participants into the study",
+        "judgment": "moderate",
+        "support_for_judgment": "Consecutive patients from a single tertiary center; exclusions applied retrospectively."
+      },
+      {
+        "name": "Bias in classification of interventions",
+        "judgment": "low",
+        "support_for_judgment": "All participants received endoscopic management per defined algorithm."
+      },
+      {
+        "name": "Bias due to deviations from intended interventions",
+        "judgment": "moderate",
+        "support_for_judgment": "Treatment modalities varied (OTSC, FC‑SEMS, combinations) at operator discretion."
+      },
+      {
+        "name": "Bias due to missing data",
+        "judgment": "low",
+        "support_for_judgment": "No indication of substantial missing outcome data among included patients."
+      },
+      {
+        "name": "Bias in measurement of outcomes",
+        "judgment": "low",
+        "support_for_judgment": "Objective definitions (fluoroscopic closure at 6 months, mortality)."
+      },
+      {
+        "name": "Bias in selection of the reported result",
+        "judgment": "moderate",
+        "support_for_judgment": "Retrospective design; outcomes and analyses not pre-registered."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "tracheoesophageal fistula",
+      "bronchoesophageal fistula",
+      "benign esophago-respiratory fistula",
+      "endoscopic stent",
+      "OTSC",
+      "SEMS",
+      "surgical endoscopy 2019"
+    ],
+    "summary_tldr": "In a single-center retrospective cohort of 22 patients with benign esophago-respiratory fistulas, endoscopic management achieved 10/22 (45.5%) confirmed closures at 6 months and 12/22 (55%) functional success; serious stent-related adverse events occurred in 9/22 (40.9%) and 6/22 (27.3%) died.",
+    "clinical_relevance": "Endoscopic therapy is a viable option for selected benign esophago-respiratory fistulas, with success influenced by orifice size; lack of closure by 6 months strongly predicts failure."
+  }
+}

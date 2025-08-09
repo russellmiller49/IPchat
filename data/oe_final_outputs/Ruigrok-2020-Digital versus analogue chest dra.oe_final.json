@@ -1,0 +1,413 @@
+{
+  "source": {
+    "document_id": "Ruigrok-2020-Digital versus analogue chest dra",
+    "ingest_date": "2025-08-08T15:33:22.208204+00:00",
+    "trial_registration_id": "NL4022 (NTR4195)",
+    "pmid": "",
+    "doi": "10.1186/s12890-020-1173-3"
+  },
+  "document": {
+    "metadata": {
+      "title": "Digital versus analogue chest drainage system in patients with primary spontaneous pneumothorax: a randomized controlled trial",
+      "year": 2020,
+      "authors": [
+        "Dieuwertje Ruigrok",
+        "Peter W. A. Kunst",
+        "Marielle M. J. Blacha",
+        "Ben Tomlow",
+        "Jacobine W. Herbrink",
+        "Eva J. Japenga",
+        "Wim Boersma",
+        "Paul Bresser",
+        "Ivo van der Lee",
+        "Kris Mooren"
+      ],
+      "journal": "BMC Pulmonary Medicine",
+      "doi": "10.1186/s12890-020-1173-3",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Background: Patients with a primary spontaneous pneumothorax (PSP) who are treated with chest tube drainage are traditionally connected to an analogue chest drainage system, containing a water seal and using a visual method of monitoring air leakage. Electronic systems with continuous digital monitoring of air leakage provide better insight into actual air leakage and changes in leakage over time, which may lead to a shorter length of hospital stay. Methods: We performed a randomized controlled trial comparing the digital with analogue system, with the aim of demonstrating that use of a digital drainage system in PSP leads to a shorter hospital stay. Results: In 102 patients enrolled with PSP we found no differences in total duration of chest tube drainage and hospital stay between the groups. However, in a post-hoc analysis, excluding 19 patients needing surgery due to prolonged air leakage, hospital stay was significantly shorter in the digital group (median 1 days, IQR 1-5 days) compared to the analogue group (median 3 days, IQR 2-5 days) (p 0.014). Treatment failure occurred in 3 patients in both groups; the rate of recurrence within 12 weeks was not significantly different between groups (16% in the digital group versus 8% in the analogue group, p 0.339). Conclusion: Length of hospital stay was not shorter in patients with PSP when applying a digital drainage system compared to an analogue drainage system. However, in the large subgroup of uncomplicated PSP, a significant reduction in duration of drainage and hospital stay was demonstrated with digital drainage. These findings suggest that digital drainage may be a practical alternative to manual aspiration in the management of PSP.",
+      "methods": "The Dutch Pneumothorax Study was a multicentre, randomized controlled trial in five Dutch hospitals (2012-2017) comparing digital (Thopaz, Medela) versus locally available analogue water-seal drainage systems in adults (≥18 years) with primary spontaneous pneumothorax (PSP) requiring chest tube drainage. Randomization was centralized via a web-based system. Exclusions: recurrent pneumothorax (referred directly to surgery), respiratory failure, ICU admission, uncontrolled bleeding tendency. Management algorithm: both groups on water seal; air leak assessed three times daily. Removal criteria: analogue—no visible bubbling; digital—air leak <15 mL/min; plus chest X-ray longest distance <2 cm. If pneumothorax >2 cm, clamping for 4 h with repeat X-ray; if stable, remove; if increase, unclamp and continue water seal. Persistent air leak >72 h triggered thoracic surgery consult; subsequent management (including suction) per clinician. Follow-up: clinic visit with chest X-ray at 4 weeks; telephone at 12 weeks for recurrence. Primary outcome: length of hospital stay (LOS). Secondary: treatment failure (clinically relevant recurrence within 1 week after discharge), recurrence within 12 weeks requiring intervention (aspiration, drainage, thoracoscopy or surgery), duration of chest tube drainage, number of chest X-rays, and number undergoing surgery. Analyses followed intention-to-treat with allowance for crossover; nonparametric tests and Fisher’s exact/Chi-square used as appropriate; p<0.05 considered significant.",
+      "results": "A total of 102 patients were randomized: analogue n=50; digital n=52. Baseline characteristics were similar except for BMI. Crossover from analogue to digital occurred in 4 patients; crossover from digital to analogue occurred once post-surgery. In the full cohort, total duration of chest tube drainage and LOS did not differ: LOS median 3 (IQR 2-6) days in analogue vs 2.5 (IQR 1-14) days in digital (p=0.640). Nineteen patients underwent surgery for prolonged air leak (analogue 6, digital 13; p=0.127). In a post-hoc subgroup excluding those with prolonged air leak (analogue n=44, digital n=39), LOS was shorter with digital: median 1 (IQR 1-5) vs 3 (IQR 2-5) days (p=0.014); chest tube duration also shorter: median 1 (IQR 1-3) vs 3 (IQR 2-5) days (p=0.024). Treatment failure within 1 week after discharge occurred in 3/50 (6%) analogue vs 3/52 (6%) digital (p>0.999). Recurrence within 12 weeks (excluding those with treatment failure and with 3 missing follow-ups in the digital group) occurred in 7/47 (16%) analogue vs 4/46 (8%) digital (p=0.339)."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with primary spontaneous pneumothorax requiring chest tube drainage, treated in Dutch hospitals.",
+      "inclusion_criteria": [
+        "Age ≥18 years",
+        "Primary spontaneous pneumothorax requiring chest tube drainage"
+      ],
+      "exclusion_criteria": [
+        "Recurrent pneumothorax (referred directly to surgery)",
+        "Respiratory failure",
+        "ICU admission",
+        "Uncontrolled bleeding tendency"
+      ]
+    },
+    "intervention": {
+      "text": "Digital chest drainage system (Thopaz, Medela)",
+      "details": "Water-seal mode; air leak quantitatively monitored. Removal considered when air leak <15 mL/min and chest X-ray shows longest distance lung-to-chest wall <2 cm; algorithm included clamping for 4 h if pneumothorax >2 cm and repeat imaging."
+    },
+    "comparison": {
+      "text": "Analogue chest drainage system (water-seal)",
+      "details": "Water-seal mode; air leak assessed visually (bubbling). Removal considered when no visible bubbling and chest X-ray shows longest distance lung-to-chest wall <2 cm; same clamping algorithm."
+    },
+    "outcomes": [
+      {
+        "name": "Length of hospital stay",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Treatment failure within 1 week after discharge (clinically relevant recurrence)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Recurrence within 12 weeks requiring intervention",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Underwent surgery during index admission",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "RCT",
+    "allocation": "randomized",
+    "blinding": "none",
+    "sites_count": 5,
+    "countries": [
+      "Netherlands"
+    ],
+    "sample_size": {
+      "planned": 190,
+      "enrolled": 102,
+      "analyzed": 102
+    },
+    "analysis_populations": [
+      {
+        "name": "ITT",
+        "description": "All randomized participants",
+        "n": 102
+      },
+      {
+        "name": "Uncomplicated PSP subgroup",
+        "description": "Patients without prolonged air leak undergoing surgery/pleurodesis/thoracoscopy",
+        "n": 83
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "Digital drainage (Thopaz)",
+      "n_randomized": 52,
+      "n_analyzed": 52,
+      "n_completed": 52
+    },
+    {
+      "arm_id": "control",
+      "name": "Analogue water-seal drainage",
+      "n_randomized": 50,
+      "n_analyzed": 50,
+      "n_completed": 50
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "los_index_hospitalization",
+      "name": "Length of hospital stay (days)",
+      "type": "continuous",
+      "outcome_type": "primary",
+      "timepoint_label": "Index hospitalization",
+      "unit": "days",
+      "unit_canonical": "day",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "median": 2.5,
+            "iqr_lower": 1,
+            "iqr_upper": 14,
+            "total": 52
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "median": 3,
+            "iqr_lower": 2,
+            "iqr_upper": 6,
+            "total": 50
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "mann_whitney_u",
+        "p_value": 0.64,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Mann-Whitney U test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT",
+        "missing_handling": "Complete-case; all randomized included"
+      },
+      "provenance": {
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "LOS (days) 3 (2-6) vs 2.5 (1-14), p 0.640"
+      }
+    },
+    {
+      "concept_id": "treatment_failure_1w",
+      "name": "Treatment failure within 1 week after discharge (clinically relevant recurrence)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P1W",
+      "timepoint_label": "1 week post-discharge",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 3,
+            "total": 52
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 3,
+            "total": 50
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "p_value": 0.999,
+        "p_operator": ">",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Fisher's exact test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT",
+        "missing_handling": "Complete-case; all randomized included"
+      },
+      "provenance": {
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "Treatment failure (recurrence within one week) (n, %) 3 (6%) vs 3 (6%), p > 0.999"
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.962
+        },
+        "odds_ratio": {
+          "est": 0.959
+        },
+        "arr": -0.002,
+        "nnh": 433.3
+      }
+    },
+    {
+      "concept_id": "recurrence_12w",
+      "name": "Recurrence within 12 weeks requiring intervention (excluding early failures)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P12W",
+      "timepoint_label": "12 weeks",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 4,
+            "total": 46
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 7,
+            "total": 47
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "p_value": 0.339,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Chi-square or Fisher's exact test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Modified ITT (excluding those with treatment failure within 1 week and accounting for 3 missing follow-ups in digital arm)",
+        "missing_handling": "Excluded 3 with missing 12-week follow-up in digital arm"
+      },
+      "provenance": {
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "Recurrence within 12 weeks follow-up (n, %) (excluding those with treatment failure) 7 (16%) vs 4 (8%), p 0.339 (missing follow-up in n = 3)"
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.584
+        },
+        "odds_ratio": {
+          "est": 0.544
+        },
+        "arr": -0.062,
+        "nnh": 16.1
+      }
+    },
+    {
+      "concept_id": "surgery_index_admission",
+      "name": "Underwent surgery during index admission (prolonged air leak)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_label": "Index admission",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 13,
+            "total": 52
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 6,
+            "total": 50
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "p_value": 0.127,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Chi-square test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT",
+        "missing_handling": "Complete-case; all randomized included"
+      },
+      "provenance": {
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "Number of patients undergoing surgery (n, %) 6 (12%) vs 13 (25%), p 0.127"
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 2.083
+        },
+        "odds_ratio": {
+          "est": 2.444
+        },
+        "arr": 0.13,
+        "nnt": 7.7
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Recurrent pneumothorax within 1 week after discharge",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Pneumothorax"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "other medically important condition"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 3,
+          "patients": 3,
+          "percentage": 5.8,
+          "total": 52
+        },
+        {
+          "arm_id": "control",
+          "events": 3,
+          "patients": 3,
+          "percentage": 6,
+          "total": 50
+        }
+      ],
+      "period": "Discharge to 7 days",
+      "management": "Medical intervention such as manual aspiration, drainage, thoracoscopy or surgery as clinically indicated",
+      "provenance": {
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "Treatment failure (recurrence within one week) (n, %) 3 (6%) vs 3 (6%), p > 0.999"
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "RoB 2",
+    "overall_judgment": "some concerns",
+    "domains": [
+      {
+        "name": "Randomization process",
+        "judgment": "low",
+        "support_for_judgment": "Central web-based randomization with allocation concealment"
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "some concerns",
+        "support_for_judgment": "Open-label design with some crossover allowed"
+      },
+      {
+        "name": "Missing outcome data",
+        "judgment": "some concerns",
+        "support_for_judgment": "Missing 12-week follow-up in 3 participants in the digital arm"
+      },
+      {
+        "name": "Measurement of the outcome",
+        "judgment": "low",
+        "support_for_judgment": "Objective outcomes (LOS, surgery, recurrence requiring intervention) assessed using clinical records and imaging"
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "low",
+        "support_for_judgment": "Outcomes and analyses align with protocol-defined endpoints"
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "primary spontaneous pneumothorax",
+      "digital chest drainage",
+      "Thopaz",
+      "analogue water-seal",
+      "randomized controlled trial"
+    ],
+    "summary_tldr": "In PSP requiring chest tube drainage, digital drainage did not reduce LOS overall versus analogue, but in the uncomplicated subgroup LOS decreased from median 3 to 1 day.",
+    "clinical_relevance": "Digital drainage may be a practical alternative to manual aspiration for uncomplicated PSP, potentially shortening hospitalization."
+  }
+}

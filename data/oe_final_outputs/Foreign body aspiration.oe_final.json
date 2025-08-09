@@ -1,0 +1,135 @@
+{
+  "source": {
+    "document_id": "Foreign body aspiration",
+    "ingest_date": "2025-08-08T12:44:22.487566+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.21037/jtd.2020.03.94"
+  },
+  "document": {
+    "metadata": {
+      "title": "Foreign body aspiration",
+      "year": 2021,
+      "authors": [
+        "Divyansh Bajaj",
+        "Ashutosh Sachdeva",
+        "Desh Deepak"
+      ],
+      "journal": "Journal of Thoracic Disease",
+      "doi": "10.21037/jtd.2020.03.94",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "The clinical manifestations of foreign body (FB) aspiration can range from an asymptomatic presentation to a life-threatening emergency. Patients may present with acute onset cough, chest pain, breathlessness or sub-acutely with unexplained hemoptysis, non-resolving pneumonia and at times, as an incidental finding on imaging. Patients with iatrogenic FB such as an aspirated broken tooth during difficult intubation or a broken instrument are more common scenarios in the intensive care unit (ICU). Patients with post-obstructive pneumonia with or without sepsis, or variable degree of hemoptysis often require ICU level of care and bronchoscopic interventions. Rigid bronchoscopy has traditionally been the modality of choice; however, with the innovation in instrumentation and wider availability of flexible bronchoscopes, most of the FB removal is now successfully performed using flexible bronchoscopy. Proceduralists choose instruments in accordance with their training and expertise. We describe the use of most common instruments including forceps, balloon catheters, and baskets. Role of cryoprobe and LASER in FB removal is reviewed as well. In general, larger working channel bronchoscopes are preferred; however, smaller working channel bronchoscopes may be used in situations when the patients are intubated with a smaller diameter endotracheal or tracheostomy tubes. Large size FB are removed en bloc with the grasping tool, bronchoscope, and endotracheal or tracheostomy tube, requiring preparation to safely re-establish the airway. After FB removal, bronchoscopy is re-performed to identify any residual FB, assess any injury to the airway, suction post-obstructive secretions or pus, control any active bleeding and remove granulation tissue that may be obstructing the airway. Additional interventions like balloon dilatation may be required to dislodge an impacted FB or to maintain patency of bronchial lumen. If bronchoscopic methods fail, surgery may be required for retrieval of FB in symptomatic patients or to resect suppurative or necrotizing lung process. Multidisciplinary approach involving intensivists, surgeons, and anesthesiologists is the key to optimal patient outcomes.",
+      "methods": "Narrative review of foreign body aspiration diagnosis and bronchoscopic management in adults and ICU settings; summarizes case series and prior systematic reviews. No formal data collection, extraction, or statistical synthesis was performed by the authors.",
+      "results": "Flexible bronchoscopy is now the preferred approach for airway foreign body removal in most adults, with success rates reported from prior studies and a pooled estimate from a published systematic review. Rigid bronchoscopy remains essential in selected adult scenarios and is the mainstay in children. Imaging findings and instrument selection strategies are reviewed; illustrative cases highlight management of organic, inorganic, and iatrogenic foreign bodies."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Patients (adults and children) with suspected or confirmed tracheobronchial foreign body aspiration, including ICU patients with airway obstruction, hemoptysis, or post-obstructive pneumonia/respiratory failure.",
+      "inclusion_criteria": [],
+      "exclusion_criteria": []
+    },
+    "intervention": {
+      "text": "Flexible bronchoscopy for foreign body removal",
+      "details": "Removal using forceps (rat tooth, shark tooth, alligator), balloon catheters, baskets; adjuncts include cryoprobe for organic/moist FBs and LASER for select cases; larger working channel scopes preferred; en bloc removal techniques with ETT/tracheostomy tube when needed."
+    },
+    "comparison": {
+      "text": "Rigid bronchoscopy",
+      "details": "Preferred in children and select adults (hard, impacted FBs, failed flexible attempts, need for larger suction/airway control)."
+    },
+    "outcomes": [
+      {
+        "name": "Successful foreign body removal with flexible bronchoscopy",
+        "type": "primary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Narrative review",
+    "allocation": "not_applicable",
+    "blinding": "not_applicable",
+    "sites_count": 0,
+    "countries": [],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": []
+  },
+  "arms": [
+    {
+      "arm_id": "flexible_bronchoscopy",
+      "name": "Flexible bronchoscopy (case series: Sehgal et al.)",
+      "n_randomized": 0,
+      "n_analyzed": 49,
+      "n_completed": 0
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "fb_removal_success_flexible_bronchoscopy_procedure",
+      "name": "Successful foreign body removal with flexible bronchoscopy",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Peri-procedural",
+      "groups": [
+        {
+          "arm_id": "flexible_bronchoscopy",
+          "raw": {
+            "events": 45,
+            "total": 49
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "",
+        "measure": "single_arm_proportion",
+        "est": 0.918,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "descriptive proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Case series",
+        "missing_handling": "not_reported"
+      },
+      "provenance": {
+        "pages": [
+          5163
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "Sehgal et al. ... 25,998 flexible bronchoscopies, of which 65 were done for FB removal. ... a FB was encountered in 49 cases, of which 45 were successfully removed with flexible bronchoscopy, an overall success rate of 92%."
+      }
+    }
+  ],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "not_applicable",
+    "overall_judgment": "unclear",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "foreign body aspiration",
+      "bronchoscopy",
+      "rigid bronchoscopy",
+      "flexible bronchoscopy",
+      "intensive care unit",
+      "cryoprobe"
+    ],
+    "summary_tldr": "Narrative review: Flexible bronchoscopy is the preferred modality for adult airway foreign body removal with high success in case series; rigid bronchoscopy remains essential in select scenarios and in children.",
+    "clinical_relevance": "Guides ICU and interventional pulmonology teams on tool selection, procedural planning, and management strategies for aspirated foreign bodies, including iatrogenic cases."
+  }
+}

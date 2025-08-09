@@ -1,0 +1,364 @@
+{
+  "source": {
+    "document_id": "fistula Schweigert-2019-[Interventional treatment of t",
+    "ingest_date": "2025-08-08T12:31:29.026504+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1007/s00104-019-0988-z"
+  },
+  "document": {
+    "metadata": {
+      "title": "Interventionelle Versorgung tracheo-/bronchoösophagealer Fisteln",
+      "year": 2019,
+      "authors": [
+        "M. Schweigert"
+      ],
+      "journal": "Der Chirurg",
+      "doi": "10.1007/s00104-019-0988-z",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "A tracheoesophageal fistula is the formation of an abnormal communication between the airway and the esophagus. Acquired tracheoesophageal fistulas can be benign or malignant. The management is either surgical or endoscopic depending on the etiology, size and anatomy of the fistula as well as on the patient’s performance status. The interventional treatment of choice is endoscopic stent implantation. In general, tracheoesophageal fistulas in patients with benign conditions are managed surgically. If the patient is unfit for surgery silicone stents should be used because they can be more easily removed after a longer indwelling time compared to metal stents. Malignant fistulas are associated with very limited life expectancy of only a few weeks or months. In this situation fully covered self-expandable metal stents (FC-SEMS) are recommended, whereas surgical treatment approaches can only be considered in individual cases. Depending on the location of the fistula and the presence of an airway stenosis, tracheal stenting, esophageal stenting or parallel stenting of the trachea and the esophagus is carried out. Successful stent placement leads to immediate palliation of symptoms, such as cough or aspiration and results in a higher quality of life. Potential complications are stent migration, bleeding of the upper gastrointestinal tract, arrosion of neighboring organs and vessels with esophageal stents as well as secretion retention and obstruction with displacement of the airway with tracheobronchial stents.",
+      "methods": "Narrative review of epidemiology, presentation, prognosis, and interventional management strategies for acquired tracheo-/bronchoesophageal fistulas. The article summarizes institutional case series and observational cohorts from prior publications, discusses diagnostic workup (esophagoscopy, bronchoscopy, and thoracic CT), and outlines endoscopic options (tissue adhesives, clips/OTSC, ASD occluders, endoscopic vacuum therapy, and stent implantation) with indications by anatomy and etiology.",
+      "results": "Key observational data summarized include: prevalence of malignant fistulas among esophageal cancer cohorts (up to 12.5%); symptom frequencies in large series (e.g., 186/207 symptomatic; common symptoms cough, aspiration, pneumonia); prognosis markedly improved when aspiration is controlled and fistula sealed; in a Budapest cohort of malignant fistulas due to esophageal cancer, mean survival was 3.4 months with successful endoscopic management versus 1.3 months with best supportive care (p<0.001). For benign fistulas, long-term survival is achievable if definitive closure is obtained. The review recommends stent implantation as first-line endoscopic therapy (silicone for benign if nonoperative; fully covered SEMS predominantly for malignant) with selection of tracheal, esophageal, or parallel stenting based on fistula location and presence of airway stenosis."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with acquired tracheo-/bronchoesophageal fistulas (benign or malignant), presenting with aspiration, cough, pneumonia, dysphagia, and related symptoms.",
+      "inclusion_criteria": [
+        "Acquired fistula between esophagus and airway (trachea or bronchi)",
+        "Benign etiologies (iatrogenic airway injury, anastomotic leak, trauma, caustic injury, infection) or malignant etiologies (esophageal, bronchial, tracheal cancers, lymphoma, mediastinal metastases)"
+      ],
+      "exclusion_criteria": [
+        "Congenital tracheoesophageal fistula",
+        "Pediatric surgical cases of esophageal atresia-associated fistula (outside scope of article)"
+      ]
+    },
+    "intervention": {
+      "text": "Endoscopic stent implantation",
+      "details": "Selection among tracheobronchial, esophageal, or parallel stenting based on fistula location/anatomy and airway stenosis; silicone stents preferred for benign nonoperative candidates due to removability; fully covered self-expandable metal stents favored in malignant fistulas for palliation."
+    },
+    "comparison": {
+      "text": "Alternative management strategies",
+      "details": "Surgical repair (primarily for benign fistulas in operable patients), other endoscopic techniques (tissue adhesives, OTSC clips, ASD occluders, endoscopic vacuum therapy), or best supportive care in end-stage malignant disease."
+    },
+    "outcomes": [
+      {
+        "name": "Fistula closure/occlusion",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Symptom palliation (aspiration, cough, dysphagia)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Overall survival",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Procedure-related complications (stent migration, bleeding, secretion retention/airway obstruction, erosion)",
+        "type": "safety",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "narrative_review",
+    "allocation": "none",
+    "blinding": "none",
+    "sites_count": 0,
+    "countries": [
+      "DE"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": []
+  },
+  "arms": [
+    {
+      "arm_id": "nyc_malignant_tof_cohort",
+      "name": "New York malignant tracheoesophageal fistula cohort",
+      "n_randomized": 0,
+      "n_analyzed": 207,
+      "n_completed": 0
+    },
+    {
+      "arm_id": "marseille_benign_tof_cohort",
+      "name": "Marseille benign tracheoesophageal fistula cohort",
+      "n_randomized": 0,
+      "n_analyzed": 22,
+      "n_completed": 0
+    },
+    {
+      "arm_id": "budapest_malignant_ec_tof_cohort",
+      "name": "Budapest malignant TOF due to esophageal cancer cohort",
+      "n_randomized": 0,
+      "n_analyzed": 264,
+      "n_completed": 0
+    },
+    {
+      "arm_id": "budapest_endoscopic_mgmt",
+      "name": "Endoscopic management (successful) in malignant TOF (Budapest cohort)",
+      "n_randomized": 0,
+      "n_analyzed": 0,
+      "n_completed": 0
+    },
+    {
+      "arm_id": "budapest_bsc",
+      "name": "Best supportive care in malignant TOF (Budapest cohort)",
+      "n_randomized": 0,
+      "n_analyzed": 0,
+      "n_completed": 0
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "survival_months_endoscopic_vs_bsc_malignant_tof",
+      "name": "Overall survival (months): endoscopic management vs best supportive care in malignant tracheoesophageal fistula due to esophageal cancer",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "unit": "months",
+      "unit_canonical": "month",
+      "groups": [
+        {
+          "arm_id": "budapest_endoscopic_mgmt",
+          "raw": {
+            "mean": 3.4,
+            "total": 0
+          }
+        },
+        {
+          "arm_id": "budapest_bsc",
+          "raw": {
+            "mean": 1.3,
+            "total": 0
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "budapest_bsc",
+        "measure": "mean_difference",
+        "est": 2.1,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.001,
+        "p_operator": "<",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Unadjusted comparison from retrospective cohort (referenced study)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Patients with malignant TOF due to esophageal cancer in Budapest cohort (1984-2004)",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          710
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "In der Studie wiesen Patienten mit erfolgreichem endoskopischem Management ein Überleben von 3,4 Monaten auf, während das mittlere Überleben im Fall von „best supportive care“ nur 1,3 Monate betrug (p< 0,001; [8])."
+      }
+    },
+    {
+      "concept_id": "any_clinical_symptom_present_nyc_malignant_tof",
+      "name": "Any clinical symptoms present (New York malignant TOF cohort)",
+      "type": "binary",
+      "outcome_type": "descriptive",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "At presentation",
+      "groups": [
+        {
+          "arm_id": "nyc_malignant_tof_cohort",
+          "raw": {
+            "events": 186,
+            "total": 207
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "nyc_malignant_tof_cohort",
+        "measure": "proportion",
+        "est": 0.898,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Patients with malignant tracheoesophageal fistula (New York cohort, 1926-1988)",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          710
+        ],
+        "tables": [],
+        "quote": "Klinische Symptome traten bei 186 der 207 New Yorker Patienten auf (90%; [2])."
+      }
+    },
+    {
+      "concept_id": "aspiration_pneumonia_benign_tof_marseille",
+      "name": "Aspiration pneumonia (Marseille benign TOF cohort)",
+      "type": "binary",
+      "outcome_type": "descriptive",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "At presentation",
+      "groups": [
+        {
+          "arm_id": "marseille_benign_tof_cohort",
+          "raw": {
+            "events": 10,
+            "total": 22
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "marseille_benign_tof_cohort",
+        "measure": "proportion",
+        "est": 0.455,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Patients with benign tracheoesophageal fistula (Marseille cohort, 2012-2016)",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          710
+        ],
+        "tables": [],
+        "quote": "In der Marseiller Studie wurden Aspirationspneumonie (10/22) ... als häufigste Symptome festgestellt [6]."
+      }
+    },
+    {
+      "concept_id": "postprandial_cough_benign_tof_marseille",
+      "name": "Postprandial coughing attacks (Marseille benign TOF cohort)",
+      "type": "binary",
+      "outcome_type": "descriptive",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "At presentation",
+      "groups": [
+        {
+          "arm_id": "marseille_benign_tof_cohort",
+          "raw": {
+            "events": 5,
+            "total": 22
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "marseille_benign_tof_cohort",
+        "measure": "proportion",
+        "est": 0.227,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Patients with benign tracheoesophageal fistula (Marseille cohort, 2012-2016)",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          710
+        ],
+        "tables": [],
+        "quote": "postprandiale Hustenattacken (5/22) ... [6]."
+      }
+    },
+    {
+      "concept_id": "dysphagia_benign_tof_marseille",
+      "name": "Dysphagia (Marseille benign TOF cohort)",
+      "type": "binary",
+      "outcome_type": "descriptive",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "At presentation",
+      "groups": [
+        {
+          "arm_id": "marseille_benign_tof_cohort",
+          "raw": {
+            "events": 4,
+            "total": 22
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "marseille_benign_tof_cohort",
+        "measure": "proportion",
+        "est": 0.182,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Patients with benign tracheoesophageal fistula (Marseille cohort, 2012-2016)",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          710
+        ],
+        "tables": [],
+        "quote": "Dysphagie (4/22) ... [6]."
+      }
+    }
+  ],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "Not applicable",
+    "overall_judgment": "not_applicable",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "tracheoesophageal fistula",
+      "bronchoesophageal fistula",
+      "stent",
+      "silicone stent",
+      "self-expanding metal stent",
+      "bronchoscopy",
+      "esophagoscopy",
+      "endoscopic vacuum therapy",
+      "OTSC clip",
+      "ASD occluder"
+    ],
+    "summary_tldr": "Narrative review: Endoscopic stent implantation is the treatment of choice for acquired tracheo-/bronchoesophageal fistulas; in a referenced cohort of malignant fistulas, endoscopic management achieved mean survival 3.4 months vs 1.3 months with best supportive care (p<0.001).",
+    "clinical_relevance": "Provides practical guidance on diagnostics and selection of endoscopic versus surgical management, recommending silicone stents for benign nonoperative candidates and fully covered SEMS for malignant fistulas, with approach tailored to fistula anatomy."
+  }
+}

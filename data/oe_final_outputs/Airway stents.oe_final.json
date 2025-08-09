@@ -1,0 +1,118 @@
+{
+  "source": {
+    "document_id": "Airway stents",
+    "ingest_date": "2025-08-08T09:39:43.417818+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.21037/acs.2018.03.08"
+  },
+  "document": {
+    "metadata": {
+      "title": "Airway stents",
+      "year": 2018,
+      "authors": [
+        "Erik Folch",
+        "Colleen Keyes"
+      ],
+      "journal": "Annals of Cardiothoracic Surgery",
+      "doi": "10.21037/acs.2018.03.08",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Stents and tubes to maintain the patency of the airways are commonly used for malignant obstruction and are occasionally employed in benign disease. Malignant airway obstruction usually results from direct involvement of bronchogenic carcinoma, or by extension of carcinomas occurring in the esophagus or the thyroid. External compression from lymph nodes or metastatic disease from other organs can also cause central airway obstruction. Most malignant airway lesions are surgically inoperable due to advanced disease stage and require multimodality palliation, including stent placement. As with any other medical device, stents have significantly evolved over the last 50 years and deserve an in-depth understanding of their true capabilities and complications. Not every silicone stent is created equal and the same holds for metallic stents. Herein, we present an overview of the topic as well as some of the more practical and controversial issues surrounding airway stents. We also try to dispel the myths surrounding stent removal and their supposed use only in central airways. At the end, we come to the long-held conclusion that stents should not be used as first line treatment of choice, but after ruling out the possibility of curative surgical resection or repair.",
+      "methods": "Perspective narrative review of airway stents. The article synthesizes prior literature and expert experience on indications, materials, types, placement techniques, and complications of airway stents. No systematic search strategy, randomization, or formal quantitative meta-analysis was performed.",
+      "results": "Airway stenting is indicated for malignant central airway obstruction (extrinsic compression, residual obstruction after debulking, mixed lesions, loss of cartilage support), malignant tracheoesophageal fistula, and select benign conditions (complex strictures >4 cm, inoperable strictures, post-transplant airway stenosis, tracheobronchomalacia trialing before tracheoplasty, benign tracheoesophageal fistula). Metallic stents are generally discouraged as first-line in benign disease per a 2005 FDA warning. Stent options include silicone (tubular, T-tube, Y-stents), metallic (self-expanding nitinol, balloon-expandable), and hybrid covered stents. Advantages of silicone stents include ease of removal and customization; common complications include migration (9.5%) and obstruction from secretions (3.6%). Metallic stents offer easier deployment with flexible bronchoscopy and lower migration but risk tissue ingrowth and difficult removal; uncovered designs are now limited to select indications (e.g., post-transplant anastomotic dehiscence). Hybrid covered metallic stents reduce ingrowth but may increase sputum retention; externally covered stents have migration rates of 18-22%, while an internally silicone-covered design reported a 4% migration rate in a recent study. Device-specific characteristics, sizes, and placement techniques are summarized, emphasizing individualized selection based on disease, anatomy, and clinician expertise."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with malignant or benign central airway obstruction, tracheoesophageal fistula, post-lung transplant airway stenosis, or tracheobronchomalacia considered for airway stenting.",
+      "inclusion_criteria": [
+        "Malignant central airway obstruction due to intrinsic tumor, extrinsic compression, or mixed lesions",
+        "Malignant or benign tracheoesophageal fistula",
+        "Complex benign tracheal/bronchial strictures or stenosis >4 cm",
+        "Inoperable benign airway stricture/stenosis",
+        "Post-transplant airway stenosis",
+        "Tracheobronchomalacia requiring therapeutic trial before tracheoplasty"
+      ],
+      "exclusion_criteria": [
+        "Surgically curable airway disease",
+        "No viable distal lung beyond stenosis",
+        "Very limited survival expectancy",
+        "Severe functional impairment precluding benefit",
+        "Inability to tolerate anesthesia or moderate sedation"
+      ]
+    },
+    "intervention": {
+      "text": "Airway stenting",
+      "details": "Placement of silicone, metallic (self-expanding or balloon-expandable), or hybrid covered airway stents (e.g., tubular silicone, Montgomery T-tube, silicone Y-stent, nitinol stents with or without polyurethane/silicone/PTFE covering) via rigid or flexible bronchoscopy depending on device and anatomy."
+    },
+    "comparison": {
+      "text": "Not applicable",
+      "details": "Narrative review; no specific control group."
+    },
+    "outcomes": [
+      {
+        "name": "Stent migration",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Airway obstruction due to secretions",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Granulation tissue formation",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Tumor/tissue ingrowth",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Procedure-related complications (e.g., perforation)",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "narrative_review",
+    "allocation": "none",
+    "blinding": "none",
+    "sites_count": 0,
+    "countries": [],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": []
+  },
+  "arms": [],
+  "outcomes_normalized": [],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "",
+    "overall_judgment": "not_applicable",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "airway stents",
+      "bronchial stent",
+      "silicone stent",
+      "metallic stent",
+      "hybrid stent",
+      "tracheal stenosis",
+      "central airway obstruction",
+      "tracheobronchomalacia",
+      "tracheoesophageal fistula"
+    ],
+    "summary_tldr": "Narrative review detailing indications, stent types (silicone, metallic, hybrid), placement techniques, and complication profiles; silicone preferred in benign disease, metallic reserved due to higher long-term complications.",
+    "clinical_relevance": "Guides device selection and cautions against metallic stents as first-line therapy for benign airway obstruction per FDA warning, emphasizing individualized, evidence-based stent choice."
+  }
+}

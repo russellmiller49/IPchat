@@ -1,0 +1,129 @@
+{
+  "source": {
+    "document_id": "management-of-incidental-pulmonary-nodule-fleischner",
+    "ingest_date": "2025-08-08T14:16:43.040354+00:00",
+    "trial_registration_id": "",
+    "pmid": "28240562",
+    "doi": "10.1148/radiol.2017161659"
+  },
+  "document": {
+    "metadata": {
+      "title": "Guidelines for Management of Incidental Pulmonary Nodules Detected on CT Images: From the Fleischner Society 2017",
+      "year": 2017,
+      "authors": [
+        "Heber MacMahon",
+        "David P. Naidich",
+        "Jin Mo Goo",
+        "Kyung Soo Lee",
+        "Ann N. C. Leung",
+        "John R. Mayo",
+        "Atul C. Mehta",
+        "Yoshiharu Ohno",
+        "Charles A. Powell",
+        "Mathias Prokop",
+        "Geoffrey D. Rubin",
+        "Cornelia M. Schaefer-Prokop",
+        "William D. Travis",
+        "Paul E. Van Schil",
+        "Alexander A. Bankier"
+      ],
+      "journal": "Radiology",
+      "doi": "10.1148/radiol.2017161659",
+      "pmid": "28240562"
+    },
+    "sections": {
+      "abstract": "The Fleischner Society updated its recommendations for the management of incidentally detected pulmonary nodules on CT in adults. The 2017 guidance raises the minimum threshold size for routine follow-up of solid nodules, provides ranges rather than fixed intervals for follow-up timing to allow individualized decision-making based on risk factors and patient preferences, combines solid and subsolid guidance into a single framework with specific advice for multiple nodules, and extends surveillance for subsolid nodules to 5 years. These consensus recommendations, informed by evidence from screening trials (NLST, NELSON, I-ELCAP, PanCan, BCCA) and expert opinion, aim to reduce unnecessary imaging while maintaining patient safety. The document also provides technical recommendations for CT acquisition (thin sections, low-dose protocols) and measurement practices.",
+      "methods": "Consensus guideline developed by a multidisciplinary international panel (thoracic radiologists, pulmonologists, surgeons, pathologists) from the Fleischner Society. The group conducted a systematic review of the literature and considered data from major lung cancer screening trials (NLST, NELSON, I-ELCAP, PanCan, BCCA), observational studies, and accumulated clinical experience. Recommendations were graded using the American College of Chest Physicians (ACCP) evidence grading approach. Technical guidance for CT acquisition (thin-section reconstructions ≤1.5 mm, low-dose protocols targeting CTDIvol ≤3 mGy in a standard-size patient, consistent reconstruction parameters) and measurement methods (average of long- and short-axis diameters, rounded to the nearest millimeter; optional volumetry with 100 mm3 and 250 mm3 thresholds) were specified.",
+      "results": "Key management recommendations: (1) Solid single nodules <6 mm: no routine follow-up in low-risk patients; optional 12-month CT in selected high-risk patients with suspicious morphology or upper lobe location. Solid 6-8 mm: CT at 6-12 months; consider 18-24 months (low risk) or perform CT at 6-12 months then 18-24 months (high risk). Solid >8 mm: consider CT at 3 months, PET/CT, or tissue sampling. (2) Multiple solid nodules: for <6 mm, no routine follow-up (low risk) or optional 12-month CT (high risk); for 6-8 mm and >8 mm, CT at 3-6 months then consider or perform CT at 18-24 months; manage by the most suspicious nodule. (3) Single subsolid nodules: pure ground-glass ≥6 mm: CT at 6-12 months to confirm persistence, then every 2 years until 5 years; part-solid ≥6 mm: CT at 3-6 months to confirm persistence; if unchanged and solid component remains <6 mm, annual CT for 5 years; persistent part-solid nodules with solid component ≥6 mm are highly suspicious. Subsolid <6 mm: generally no routine follow-up; consider follow-up at 2 and 4 years for selected suspicious ground-glass nodules. (4) Multiple subsolid nodules: CT at 3-6 months; if stable, consider CT at 2 and 4 years; subsequent management guided by the most suspicious nodule(s); multiple <6 mm pure ground-glass nodules are usually benign, but consider follow-up in selected high-risk patients at 2 and 4 years. General technical recommendations include use of thin-section reconstructions ≤1.5 mm, low-dose follow-up CT with CTDIvol ≤3 mGy in a standard-size patient, and consistent acquisition/reconstruction parameters. Prior imaging should be reviewed to assess stability. Measurements should use the average of long and short axes on the plane showing the greatest dimensions, rounded to the nearest millimeter; volumetry may be used with consistent software."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with incidentally detected pulmonary nodules on CT, age ≥35 years, immunocompetent, and without known primary cancer.",
+      "inclusion_criteria": [
+        "Age ≥35 years",
+        "Incidentally detected pulmonary nodule on CT (non-screening context)",
+        "Immunocompetent adult",
+        "Nodule measurable on thin-section CT (≤1.5 mm recommended)"
+      ],
+      "exclusion_criteria": [
+        "Age <35 years",
+        "Known primary cancer with risk of metastases",
+        "Immunocompromised status",
+        "CT performed for lung cancer screening (use Lung-RADS instead)"
+      ]
+    },
+    "intervention": {
+      "text": "Fleischner Society 2017 management recommendations for incidentally detected pulmonary nodules",
+      "details": "Risk- and size-based follow-up strategy differing by nodule type (solid, ground-glass, part-solid) and by single versus multiple nodules; increased size threshold for routine follow-up of solid nodules to 6 mm; extended follow-up for subsolid nodules to 5 years; CT technical standards including thin sections ≤1.5 mm and low-dose follow-up (CTDIvol ≤3 mGy)."
+    },
+    "comparison": {
+      "text": "Prior standard practices or earlier Fleischner 2005 (solid) and 2013 (subsolid) guidelines",
+      "details": "Earlier guidance generally recommended more aggressive or fixed-interval follow-up; 2017 guideline adopts higher thresholds and flexible ranges informed by risk and patient preference."
+    },
+    "outcomes": [
+      {
+        "name": "Guideline-specified follow-up recommendations by nodule type and size",
+        "type": "primary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Guideline/Consensus",
+    "allocation": "none",
+    "blinding": "none",
+    "sites_count": 0,
+    "countries": [
+      "US",
+      "CA",
+      "KR",
+      "NL",
+      "JP",
+      "BE"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": []
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "Fleischner 2017 guideline-recommended management",
+      "n_randomized": 0,
+      "n_analyzed": 0,
+      "n_completed": 0
+    },
+    {
+      "arm_id": "control",
+      "name": "Not applicable",
+      "n_randomized": 0,
+      "n_analyzed": 0,
+      "n_completed": 0
+    }
+  ],
+  "outcomes_normalized": [],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "Not applicable",
+    "overall_judgment": "not_applicable",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "incidental pulmonary nodule",
+      "Fleischner Society 2017",
+      "CT",
+      "ground-glass nodule",
+      "part-solid nodule",
+      "solid nodule",
+      "low-dose CT",
+      "thin-section CT"
+    ],
+    "summary_tldr": "2017 Fleischner guidelines raise the size threshold for routine follow-up of small solid nodules, provide flexible follow-up intervals based on risk, and extend surveillance of subsolid nodules to 5 years with technical CT standards.",
+    "clinical_relevance": "Provides practical, risk-based follow-up algorithms to reduce unnecessary CT scans for incidental nodules while maintaining vigilance for malignancy."
+  }
+}

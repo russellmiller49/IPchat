@@ -1,0 +1,297 @@
+{
+  "source": {
+    "document_id": "Bibby-2018-ERS_EACTS statement on the manageme",
+    "ingest_date": "2025-08-08T10:08:58.446076+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1183/13993003.00349-2018"
+  },
+  "document": {
+    "metadata": {
+      "title": "ERS/EACTS statement on the management of malignant pleural effusions",
+      "year": 2018,
+      "authors": [
+        "Anna C. Bibby",
+        "Patrick Dorn",
+        "Ioannis Psallidas",
+        "Jose M. Porcel",
+        "Julius Janssen",
+        "Marios Froudarakis",
+        "Dragan Subotic",
+        "Phillippe Astoul",
+        "Peter Licht",
+        "Ralph Schmid",
+        "Arnaud Scherpereel",
+        "Najib M. Rahman",
+        "Giuseppe Cardillo",
+        "Nick A. Maskell"
+      ],
+      "journal": "European Respiratory Journal",
+      "doi": "10.1183/13993003.00349-2018",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Malignant pleural effusions (MPE) are a common pathology, treated by respiratory physicians and thoracic surgeons alike. In recent years, several well-designed randomised clinical trials have been published that have changed the landscape of MPE management. The European Respiratory Society (ERS) and the European Association for Cardio-Thoracic Surgery (EACTS) established a multidisciplinary collaboration of clinicians with expertise in the management of MPE with the aim of producing a comprehensive review of the scientific literature. Six areas of interest were identified, including the optimum management of symptomatic MPE, management of trapped lung in MPE, management of loculated MPE, prognostic factors in MPE, whether there is a role for oncological therapies prior to intervention for MPE and whether a histological diagnosis is always required in MPE. The literature revealed that talc pleurodesis and indwelling pleural catheters effectively manage the symptoms of MPE. There was limited evidence regarding the management of trapped lung or loculated MPE. The LENT score was identified as a validated tool for predicting survival in MPE, with Brims’ prognostic score demonstrating utility in mesothelioma prognostication. There was no evidence to support the use of oncological therapies as an alternative to MPE drainage, and the literature supported the use of tissue biopsy as the gold standard for diagnosis and treatment planning. The article has been co-published with permission in the European Respiratory Journal and the European Journal of Cardio-Thoracic Surgery. All rights reserved in respect of European Respiratory Journal, © European Respiratory Society 2018 and European Journal of Cardio-Thoracic Surgery, © European Association for Cardio-Thoracic Surgery 2018. The articles are identical except for minor stylistic and spelling differences in keeping with each journal’s style. Either citation can be used when citing this article.",
+      "methods": "The task force was assembled at the European Respiratory Society (ERS) Annual Congress in London 2016 with the goal of producing an expert statement on the management of MPE. The task force was created based on the recommendations of the ERS Scientific Committee and the European Association for Cardio-Thoracic Surgery (EACTS) Guidelines Committee and included nine respiratory physicians and five thoracic surgeons from nine different European countries. Topics were selected and structured using PICO (except the prognosis question). Systematic searches were conducted in January 2017 (updated January 2018) in Medline/PUBMED, EMBASE and Cochrane Library, limited to English and adult patients. Abstracts were screened independently by two members with predefined eligibility criteria; disagreements were resolved by discussion. Subgroups reviewed full texts and prepared drafts, which were iteratively reviewed by the task force and writing committee to produce a consensus statement. The statement describes current practice and evidence; it does not issue practice recommendations.",
+      "results": "The statement synthesizes evidence across six clinical questions. Key findings include: talc pleurodesis and indwelling pleural catheters effectively manage symptoms of MPE; talc poudrage may rank highest for fluid control in network meta-analyses but with heterogeneity and bias; bedside talc slurry shows similar pleurodesis success to poudrage in RCTs, with one large RCT reporting higher respiratory complications and respiratory failure with poudrage compared to slurry; small-bore chest tubes did not meet non-inferiority for pleurodesis success compared to large-bore tubes in one factorial RCT; NSAIDs appear non-inferior to opiates for analgesia during pleurodesis without reducing success; graded (large-particle) talc is preferred to reduce ARDS risk; evidence is limited for trapped lung and loculated MPE; LENT score is validated for survival prediction and Brims’ score for mesothelioma; no evidence supports oncologic therapy as an alternative to drainage; tissue biopsy remains gold standard for diagnosis."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with malignant pleural effusions (any primary malignancy), predominantly symptomatic with dyspnoea; advanced/metastatic disease with median survival 3-12 months.",
+      "inclusion_criteria": [
+        "Adults with malignant pleural effusion",
+        "Studies in English (for literature review)",
+        "Symptomatic or requiring definitive intervention (per individual study criteria)"
+      ],
+      "exclusion_criteria": [
+        "Non-malignant pleural effusions",
+        "Paediatric populations",
+        "Non-English language publications (for literature search limits)"
+      ]
+    },
+    "intervention": {
+      "text": "Definitive pleural interventions for MPE",
+      "details": "Talc pleurodesis via thoracoscopy (poudrage) or via chest tube (slurry); chemical pleurodesis with agents (talc, doxycycline, bleomycin, silver nitrate); indwelling pleural catheters; surgical options including mechanical pleurodesis and pleurectomy."
+    },
+    "comparison": {
+      "text": "Alternative definitive pleural interventions",
+      "details": "Comparisons included poudrage vs slurry, small-bore vs large-bore chest tubes, NSAID vs opiate analgesia during pleurodesis, and different pleurodesis agents."
+    },
+    "outcomes": [
+      {
+        "name": "Respiratory failure within 30 days",
+        "type": "safety",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Expert statement with systematic literature searches",
+    "allocation": "",
+    "blinding": "",
+    "sites_count": 0,
+    "countries": [
+      "UK",
+      "Switzerland",
+      "Spain",
+      "Netherlands",
+      "Greece",
+      "Serbia",
+      "France",
+      "Denmark"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": []
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "Talc poudrage (thoracoscopic)",
+      "n_randomized": 250,
+      "n_analyzed": 250,
+      "n_completed": 0
+    },
+    {
+      "arm_id": "control",
+      "name": "Talc slurry (bedside via chest tube)",
+      "n_randomized": 251,
+      "n_analyzed": 251,
+      "n_completed": 0
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "resp_complications_any_30d",
+      "name": "Respiratory complications (any) within 30 days",
+      "type": "binary",
+      "outcome_type": "safety",
+      "timepoint_iso8601": "P30D",
+      "timepoint_label": "30 days",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 35,
+            "total": 250
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 15,
+            "total": 251
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": 0.0802,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive (no formal hypothesis test reported)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All randomized in Dresler et al. trial as summarized",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          3
+        ],
+        "quote": "(14% versus 6% for respiratory complications, and 8% versus 4% for respiratory failure), including 11 deaths."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 2.343
+        },
+        "odds_ratio": {
+          "est": 2.561
+        },
+        "arr": 0.08,
+        "nnt": 12.5
+      }
+    },
+    {
+      "concept_id": "respiratory_failure_30d",
+      "name": "Respiratory failure within 30 days",
+      "type": "binary",
+      "outcome_type": "safety",
+      "timepoint_iso8601": "P30D",
+      "timepoint_label": "30 days",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 20,
+            "total": 250
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 10,
+            "total": 251
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": 0.0402,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive (no formal hypothesis test reported)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All randomized in Dresler et al. trial as summarized",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          3
+        ],
+        "quote": "(14% versus 6% for respiratory complications, and 8% versus 4% for respiratory failure), including 11 deaths."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 2.008
+        },
+        "odds_ratio": {
+          "est": 2.096
+        },
+        "arr": 0.04,
+        "nnt": 24.9
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Respiratory failure",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Respiratory failure"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "life-threatening"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 20,
+          "patients": 20,
+          "percentage": 8,
+          "total": 250
+        },
+        {
+          "arm_id": "control",
+          "events": 10,
+          "patients": 10,
+          "percentage": 4,
+          "total": 251
+        }
+      ],
+      "period": "30 days",
+      "management": "",
+      "provenance": {
+        "pages": [
+          3
+        ],
+        "quote": "(14% versus 6% for respiratory complications, and 8% versus 4% for respiratory failure), including 11 deaths."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "RoB 2",
+    "overall_judgment": "some concerns",
+    "domains": [
+      {
+        "name": "Randomization process",
+        "judgment": "low",
+        "support_for_judgment": "Described as randomized in the summarized trial."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "some concerns",
+        "support_for_judgment": "Limited details available in the statement; non-graded talc was used which may affect harms."
+      },
+      {
+        "name": "Missing outcome data",
+        "judgment": "some concerns",
+        "support_for_judgment": "Primary outcome restricted to survivors with >90% initial lung expansion; denominators for safety not explicitly detailed."
+      },
+      {
+        "name": "Measurement of the outcome",
+        "judgment": "low",
+        "support_for_judgment": "Objective safety outcomes."
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "some concerns",
+        "support_for_judgment": "Summary reporting in a guideline limits assessment of selective reporting."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "malignant pleural effusion",
+      "talc pleurodesis",
+      "talc poudrage",
+      "talc slurry",
+      "indwelling pleural catheter",
+      "chest tube size",
+      "NSAID analgesia",
+      "respiratory failure"
+    ],
+    "summary_tldr": "ERS/EACTS statement: talc pleurodesis and indwelling pleural catheters are effective for MPE; in a large RCT, talc poudrage had higher respiratory complications and respiratory failure than slurry.",
+    "clinical_relevance": "Provides contemporary, multidisciplinary synthesis to guide selection between pleural interventions for malignant effusions."
+  }
+}

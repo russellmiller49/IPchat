@@ -1,0 +1,191 @@
+{
+  "source": {
+    "document_id": "surigicalLVR Decker-2014-Lung volume reduction surgery sinc",
+    "ingest_date": "2025-08-08T16:05:49.758198+00:00",
+    "trial_registration_id": null,
+    "pmid": null,
+    "doi": "10.1016/j.jtcvs.2014.02.005"
+  },
+  "document": {
+    "metadata": {
+      "title": "Lung Volume Reduction Surgery Since the National Emphysema Treatment Trial: Study of Society of Thoracic Surgeons Database",
+      "year": 2014,
+      "authors": [
+        "Marquita R. Decker",
+        "Glen E. Leverson",
+        "Wassim Abi Jaoude",
+        "James D. Maloney"
+      ],
+      "journal": "Journal of Thoracic and Cardiovascular Surgery",
+      "doi": "10.1016/j.jtcvs.2014.02.005",
+      "pmid": null
+    },
+    "sections": {
+      "abstract": "Background: The National Emphysema Treatment Trial (NETT) demonstrated that lung volume reduction surgery (LVRS) is an effective treatment for emphysema in select patients. With chronic lower respiratory disease being the third leading cause of death in the US, this study sought to assess practice patterns and outcomes for LVRS on a national level since the NETT. Methods: Aggregate statistics on LVRS reported in the Society of Thoracic Surgeons (STS) Database from January 2003 to June 2011 were analyzed to assess procedure volume, preoperative and operative characteristics, and outcomes. Comparisons to published data from the NETT were made using chi-squared and two sided t-tests. Results: In 8.5 years, 538 patients underwent LVRS, with 20 to 118 cases reported in the STS database per year. When compared to NETT subjects, STS patients were younger (p<0.001), a larger proportion underwent the procedure thoracoscopically (p<0.001), and FEV1 was 31% vs. 28% of predicted (p<0.001). When mortality was compared between STS patients and all NETT subjects randomized to surgery, there were no significant differences. However, mortality was 3% higher in STS patients when compared to the non-high risk NETT subset (p=0.005). Conclusions: This study demonstrates the importance of patient selection and the need to develop consensus on appropriate benchmarks for mortality rates after lung volume reduction surgery. It underscores the need for dedicated centers to increasingly address the heavy burden of chronic lower respiratory disease in the US in a multi-disciplinary fashion, particularly for preoperative evaluation and postoperative management of emphysema.",
+      "methods": "This retrospective study analyzed de-identified aggregate statistics for patients who underwent lung volume reduction surgery (LVRS) captured in the Society of Thoracic Surgeons (STS) General Thoracic Surgery Database from January 2003 to June 2011. Inclusion was based on LVRS-specific procedure codes across database versions, encompassing bilateral and unilateral resection approaches. Published National Emphysema Treatment Trial (NETT) data were used for statistical comparison. Yearly LVRS volumes, preoperative demographics and pulmonary function (FEV1% predicted, DLCO% predicted), operative approach, and 30-day outcomes were summarized. Comparisons to NETT used chi-squared tests for proportions and two-sided t-tests for means. Confidence intervals for differences were estimated using Z statistics with alpha=0.05. Outcomes compared included ICU readmission, sepsis, arrhythmia requiring treatment, myocardial infarction, ventilator dependence >48 hours, re-intubation, and 30-day mortality. Missing STS observations were excluded from denominators; sensitivity analyses assumed all missing patients alive or all deceased for mortality. Statistical analyses were performed in STATA 12.",
+      "results": "From January 2003 to June 2011, 585 LVRS cases were reported in STS. Comparators included 608 NETT subjects randomized to surgery, of whom 538 were non-high risk and 139 had upper lobe predominant disease with low exercise tolerance. STS patients were younger than NETT surgical subjects (p<0.001), more frequently underwent thoracoscopic LVRS (p<0.001), and had higher mean FEV1% predicted (31% vs 28%, p<0.001). No STS patients had FEV1 or DLCO below 20% predicted. Approximately 10% of STS patients had prior cardiothoracic surgery and 1.5% had lung cancer. Most had ASA III-IV and ECOG/Zubrod scores 1-2. Mortality within 30 days did not differ significantly between STS and all NETT surgical patients. However, 30-day mortality was higher in STS than in the NETT non-high risk subset by approximately 3% (p=0.005) and also higher compared to the NETT subset with upper lobe predominant disease and low exercise tolerance (difference 3-4%, statistically significant). As context, mortality at 1.7 months in NETT was 4.8% in non-high risk and 2.9% in the upper lobe/low exercise subset versus a 30-day STS mortality of 5.6%. Other perioperative outcomes (ICU readmission, sepsis, arrhythmia, myocardial infarction) were similar between STS and NETT non-high risk, while STS had lower rates of ventilator dependence >48 hours and re-intubation. Mortality data were missing for 83/585 (14%) STS patients; other outcome variables had 36-37% missingness. Sensitivity analyses assuming all missing alive found no significant mortality differences between STS and NETT; assuming all missing deceased yielded significantly higher mortality in STS."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with emphysema undergoing lung volume reduction surgery (LVRS) reported to the STS General Thoracic Surgery Database (US), January 2003-June 2011; comparisons made to NETT surgical cohorts.",
+      "inclusion_criteria": [
+        "STS-recorded LVRS procedures identified by LVRS-specific procedural codes across database versions (e.g., 32491, 32672; or 'Lung volume reduction')",
+        "Adults with emphysema undergoing unilateral or bilateral LVRS",
+        "For NETT comparators: subjects randomized to surgery; non-high risk subset; subset with upper lobe predominant disease and low exercise tolerance"
+      ],
+      "exclusion_criteria": [
+        "Not applicable for STS beyond absence of qualifying LVRS procedure codes",
+        "NETT exclusions included high risk criteria: FEV1 ≤20% predicted combined with either homogeneous emphysema or DLCO ≤20% predicted; prior sternotomy or lobectomy; pulmonary nodules or neoplasia likely to interfere with trial (for NETT enrollment)"
+      ]
+    },
+    "intervention": {
+      "text": "Lung Volume Reduction Surgery (LVRS)",
+      "details": "Unilateral or bilateral stapled wedge resection for lung volume reduction performed via median sternotomy, video-assisted thoracoscopic surgery (VATS), or other approaches (cervical, subxiphoid, thoracotomy, transverse sternotomy)."
+    },
+    "comparison": {
+      "text": "Published NETT surgical cohorts",
+      "details": "Comparisons made to NETT subjects randomized to surgery (all), the non-high risk subset, and the subset with upper lobe predominant disease and low exercise tolerance."
+    },
+    "outcomes": [
+      {
+        "name": "30-day mortality",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Perioperative complications within 30 days (ICU readmission, sepsis, arrhythmia requiring treatment, myocardial infarction, ventilator dependence >48h, re-intubation)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Preoperative characteristics and operative approach comparisons",
+        "type": "other",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "observational",
+    "allocation": "non-randomized",
+    "blinding": "none",
+    "sites_count": null,
+    "countries": [
+      "US"
+    ],
+    "sample_size": {
+      "planned": null,
+      "enrolled": 585,
+      "analyzed": 585
+    },
+    "analysis_populations": [
+      {
+        "name": "STS LVRS cohort",
+        "description": "All LVRS cases reported in the STS database from 2003 to mid-2011",
+        "n": 585
+      },
+      {
+        "name": "NETT surgery arm (all randomized to surgery)",
+        "description": "NETT subjects randomized to surgery used for external comparison",
+        "n": 608
+      },
+      {
+        "name": "NETT non-high risk surgical subset",
+        "description": "NETT surgical subjects meeting non-high risk criteria",
+        "n": 538
+      },
+      {
+        "name": "NETT upper lobe predominant with low exercise tolerance",
+        "description": "NETT surgical subset with upper lobe predominant emphysema and low exercise capacity",
+        "n": 139
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "sts_lvrs",
+      "name": "STS LVRS cohort",
+      "n_randomized": 0,
+      "n_analyzed": 585,
+      "n_completed": null
+    },
+    {
+      "arm_id": "nett_all_surgery",
+      "name": "NETT surgery arm (all randomized to surgery)",
+      "n_randomized": 608,
+      "n_analyzed": 608,
+      "n_completed": null
+    },
+    {
+      "arm_id": "nett_non_high_risk",
+      "name": "NETT non-high risk surgical subset",
+      "n_randomized": 538,
+      "n_analyzed": 538,
+      "n_completed": null
+    },
+    {
+      "arm_id": "nett_ul_low_exercise",
+      "name": "NETT upper lobe predominant, low exercise surgical subset",
+      "n_randomized": 139,
+      "n_analyzed": 139,
+      "n_completed": null
+    }
+  ],
+  "outcomes_normalized": [],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "ROBINS-I",
+    "overall_judgment": "serious",
+    "domains": [
+      {
+        "name": "Confounding",
+        "judgment": "serious",
+        "support_for_judgment": "Nonrandomized, cross-cohort comparisons to NETT with potential differences in patient selection, surgical approach, and perioperative care."
+      },
+      {
+        "name": "Selection of participants",
+        "judgment": "moderate",
+        "support_for_judgment": "Inclusion based on STS procedural coding; potential selection bias due to participating centers and CMS coverage constraints."
+      },
+      {
+        "name": "Classification of interventions",
+        "judgment": "low",
+        "support_for_judgment": "Procedures identified via specific LVRS codes; approaches (VATS vs sternotomy) documented."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "low",
+        "support_for_judgment": "Not applicable; observational database without protocolized interventions."
+      },
+      {
+        "name": "Missing data",
+        "judgment": "serious",
+        "support_for_judgment": "14% missing for mortality and 36-37% missing for other outcomes; outcomes analyzed with missing excluded and via sensitivity analyses."
+      },
+      {
+        "name": "Measurement of outcomes",
+        "judgment": "moderate",
+        "support_for_judgment": "30-day outcomes based on STS definitions; minor timing differences vs NETT (0.7-0.8 months) for outcome capture."
+      },
+      {
+        "name": "Selection of reported result",
+        "judgment": "moderate",
+        "support_for_judgment": "Aggregate comparisons reported; limited ability to adjust for covariates due to aggregate data."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "lung volume reduction surgery",
+      "LVRS",
+      "emphysema",
+      "COPD",
+      "Society of Thoracic Surgeons",
+      "STS database",
+      "NETT",
+      "perioperative mortality"
+    ],
+    "summary_tldr": "In US STS data (2003-2011), LVRS patients were younger and more often treated thoracoscopically vs NETT. Thirty-day mortality was about 3% higher than the NETT non-high risk surgical subset (p=0.005), while other perioperative complications were similar or lower.",
+    "clinical_relevance": "Findings underscore the importance of patient selection and benchmarking for LVRS outcomes, suggesting potential underutilization and highlighting access and center expertise considerations."
+  }
+}

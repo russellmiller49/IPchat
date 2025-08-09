@@ -1,0 +1,292 @@
+{
+  "source": {
+    "document_id": "Foreign body inhalation in the adult population",
+    "ingest_date": "2025-08-08T12:46:44.806743+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.4187/respcare.03976"
+  },
+  "document": {
+    "metadata": {
+      "title": "Foreign Body Inhalation in the Adult Population: Experience of 25,998 Bronchoscopies and Systematic Review of the Literature",
+      "year": 2015,
+      "authors": [
+        "Inderpaul Singh Sehgal",
+        "Sahajal Dhooria",
+        "Babu Ram",
+        "Navneet Singh",
+        "Ashutosh N Aggarwal",
+        "Dheeraj Gupta",
+        "Digambar Behera",
+        "Ritesh Agarwal"
+      ],
+      "journal": "Respiratory Care",
+      "doi": "10.4187/respcare.03976",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "BACKGROUND: Foreign body aspiration is an uncommon entity in adults. Herein, we describe our experience with flexible bronchoscopy in the removal of tracheobronchial foreign bodies in adults. We also conducted a systematic review of the literature on the topic of foreign body inhalation in adults managed with flexible bronchoscopy. METHODS: The bronchoscopy database (from 1979 to 2014) was reviewed for subjects > 12 y of age with a history of foreign body aspiration managed with flexible bronchoscopy. Demographic, clinical, and bronchoscopy data were collected and analyzed. PubMed was reviewed for studies describing the use of flexible bronchoscopy for foreign body extraction in adults. RESULTS: During the study period, a total of 25,998 flexible bronchoscopies were performed. Of these, 65 subjects (mean age of 32.8 y, 49 males) were identified who had undergone bronchoscopy for foreign body aspiration. Nonresolving pneumonia (30.6%), direct foreign body visualization (24.6%), and segmental collapse (18.4%) were the most common radiological abnormalities. Foreign bodies were identified in 49 cases during bronchoscopy and successfully removed in 45 (91.8%) subjects with no major complications. Metallic (41%) and organic (25.6%) foreign bodies were the most common. Shark-tooth (44.9%) and alligator (32.6%) were the most commonly used forceps in retrieving the foreign bodies. The systematic review yielded 18 studies (1,554 subjects with foreign body inhalation). In adults, the proportion of flexible bronchoscopy (6 studies, 354/159,074 procedures) performed for the indication of foreign bodies among the total flexible bronchoscopies was 0.24% (95% CI 0.18-0.31). The overall success of flexible bronchoscopy (18 studies, 1,185 subjects) for foreign body extraction was 89.6% (95% CI 86.1-93.2). CONCLUSIONS: Foreign body aspiration is a rare indication for flexible bronchoscopy in adults. Flexible bronchoscopy has a high success rate in removal of inhaled foreign body and can be considered the preferred initial procedure for management of airway foreign bodies in adults.",
+      "methods": "Retrospective analysis of all flexible bronchoscopies performed between September 1979 and April 2014 at a single tertiary care center in Chandigarh, India. Adults (≥ 12 years) with foreign body aspiration managed with flexible bronchoscopy were identified from a bronchoscopy database. Data extracted included demographics, presenting symptoms, radiology, bronchoscopic findings, foreign body type and location, forceps used, outcomes, and complications. Flexible bronchoscopy was performed without sedation using nebulized and topical lidocaine. A systematic PubMed review (English language, ≥ 10 subjects, flexible bronchoscopy management) identified studies for meta-analysis of indication prevalence and extraction success using random-effects pooling of proportions with heterogeneity and publication bias assessments.",
+      "results": "Among 25,998 flexible bronchoscopies, 65 (0.25%) were for suspected foreign body inhalation (mean age 32.8 ± 17.9 years; 49 males). Radiological abnormalities were present in 56/65 (86.2%); chest radiograph directly visualized a foreign body in 16/65 (24.6%) and was normal in 9/65. A foreign body was encountered during bronchoscopy in 49/65 (75.3%). Types (n=39 recorded): metallic 16 (41.0%), organic 10 (25.6%), tooth 8 (20.5%), plastic 4 (10.3%), tablet 1 (2.6%). Locations (n=49): right lower-lobe bronchus 15 (30.6%), right intermediate bronchus 8 (16.3%), left main bronchus 10 (20.4%), left lower-lobe bronchus 7 (14.3%), others less frequent. Flexible bronchoscopy successfully removed the foreign body in 45/49 (91.8%); 4 required repeat procedure; 2 failures were removed by rigid bronchoscopy; 2 were lost to follow-up. Forceps used (n=49): shark-tooth 22 (44.9%), alligator 16 (32.6%), others less frequent. Complications occurred in 4/65 (6.2%): mucosal abrasion (n=1) and three instances where the foreign body slipped into the digestive tract after airway extraction; no major complications reported. Systematic review: 18 studies (1,554 adult subjects with foreign body inhalation). Pooled proportion of flexible bronchoscopies performed for foreign body indication among total procedures (6 studies) was 0.24% (354/159,074; 95% CI 0.18-0.31). Pooled success of flexible bronchoscopy for extraction (18 studies, 1,185 subjects) was 89.6% (95% CI 86.1-93.2)."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults (≥ 12 years) undergoing flexible bronchoscopy for suspected tracheobronchial foreign body aspiration at a single tertiary care center.",
+      "inclusion_criteria": [
+        "Age ≥ 12 years",
+        "History or clinical suspicion of foreign body aspiration",
+        "Managed with flexible bronchoscopy"
+      ],
+      "exclusion_criteria": [
+        "Not managed with flexible bronchoscopy",
+        "Pediatric age < 12 years",
+        "Insufficient data (for systematic review: case reports, studies with < 10 subjects, non-English, abstract-only)"
+      ]
+    },
+    "intervention": {
+      "text": "Flexible bronchoscopy for foreign body extraction",
+      "details": "Oral-route flexible bronchoscopy (Olympus BF-P20, BF-1T20, BF-1T150, or BF-XT40; outer diameter 4.9-6.2 mm) performed without sedation using nebulized 4% lidocaine and topical 10% and 2% lidocaine; grasping of foreign body with appropriate forceps (shark-tooth, alligator, etc.) and removal of the bronchoscope-forceps-foreign body assembly as a unit."
+    },
+    "comparison": {
+      "text": "None (observational single-arm case series); rigid bronchoscopy used as rescue in failures.",
+      "details": "Rigid bronchoscopy attempted for cases where flexible bronchoscopy failed to retrieve the foreign body."
+    },
+    "outcomes": [
+      {
+        "name": "Successful foreign body extraction by flexible bronchoscopy (procedure success)",
+        "type": "primary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "retrospective_case_series_and_systematic_review",
+    "allocation": "non-randomized",
+    "blinding": "none",
+    "sites_count": 1,
+    "countries": [
+      "India"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 65,
+      "analyzed": 49
+    },
+    "analysis_populations": [
+      {
+        "name": "All_suspected_FBA",
+        "description": "All adults with suspected foreign body aspiration undergoing flexible bronchoscopy",
+        "n": 65
+      },
+      {
+        "name": "Cohort_with_Foreign_Body_Visualized",
+        "description": "Subset with foreign body encountered during bronchoscopy",
+        "n": 49
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "Flexible bronchoscopy for extraction",
+      "n_randomized": 0,
+      "n_analyzed": 49,
+      "n_completed": 49
+    },
+    {
+      "arm_id": "control",
+      "name": "Rescue rigid bronchoscopy after flexible bronchoscopy failure",
+      "n_randomized": 0,
+      "n_analyzed": 2,
+      "n_completed": 2
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "fb_extraction_success",
+      "name": "Successful foreign body extraction (procedure success)",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "PT0H",
+      "timepoint_label": "Index procedure",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 45,
+            "total": 49
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 2,
+            "total": 2
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": -0.082,
+        "ci_lower": -0.082,
+        "ci_upper": -0.082,
+        "ci_level": 0.95,
+        "p_value": 1,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Cohort_with_Foreign_Body_Visualized",
+        "missing_handling": "Not applicable (complete-case per-procedure)"
+      },
+      "provenance": {
+        "pages": [
+          1440
+        ],
+        "tables": [
+          "Table 1"
+        ],
+        "table_number": 1,
+        "quote": "Successful foreign body extraction, n (%) 45/49 (91.8)"
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.918
+        },
+        "arr": -0.082,
+        "nnh": 12.3
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Airway mucosal abrasion",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Mucosal injury"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 1,
+          "patients": 1,
+          "percentage": 1.5,
+          "total": 65
+        },
+        {
+          "arm_id": "control",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 2
+        }
+      ],
+      "period": "Peri-procedural",
+      "management": "Conservative; no major complications reported.",
+      "provenance": {
+        "pages": [
+          1441
+        ],
+        "tables": [
+          "Table 1"
+        ],
+        "quote": "Complications were encountered in 4 (6.1%) subjects, including mucosal abrasion in one subject."
+      }
+    },
+    {
+      "event_name": "Foreign body passage into gastrointestinal tract",
+      "meddra": {
+        "soc": "Gastrointestinal disorders",
+        "pt": "Foreign body in gastrointestinal tract"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 3,
+          "patients": 3,
+          "percentage": 4.6,
+          "total": 65
+        },
+        {
+          "arm_id": "control",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 2
+        }
+      ],
+      "period": "Peri-procedural",
+      "management": "Observation; no major complications reported.",
+      "provenance": {
+        "pages": [
+          1441
+        ],
+        "tables": [],
+        "quote": "In 3 subjects, the foreign body was extracted from the airway but slipped into the digestive tract."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "ROBINS-I",
+    "overall_judgment": "serious",
+    "domains": [
+      {
+        "name": "Bias due to confounding",
+        "judgment": "serious",
+        "support_for_judgment": "Single-arm retrospective series without control; outcomes influenced by case selection and timing."
+      },
+      {
+        "name": "Selection of participants",
+        "judgment": "moderate",
+        "support_for_judgment": "Inclusion based on clinical suspicion and database indication; potential selection bias."
+      },
+      {
+        "name": "Classification of interventions",
+        "judgment": "low",
+        "support_for_judgment": "Intervention clearly defined as flexible bronchoscopy for extraction."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "low",
+        "support_for_judgment": "Standardized bronchoscopy protocol; rescue rigid bronchoscopy for failures."
+      },
+      {
+        "name": "Missing data",
+        "judgment": "moderate",
+        "support_for_judgment": "Type of foreign body not recorded in 10/49; 2 patients lost to follow-up after failed extraction."
+      },
+      {
+        "name": "Measurement of outcomes",
+        "judgment": "low",
+        "support_for_judgment": "Objective procedural success determined during bronchoscopy."
+      },
+      {
+        "name": "Selection of reported result",
+        "judgment": "low",
+        "support_for_judgment": "Predefined outcomes (success, complications) reported."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "foreign body aspiration",
+      "flexible bronchoscopy",
+      "adult",
+      "tracheobronchial foreign body",
+      "rigid bronchoscopy",
+      "procedure success",
+      "complications"
+    ],
+    "summary_tldr": "In a 35-year single-center series, flexible bronchoscopy removed adult airway foreign bodies in 45/49 (91.8%) with minor complications; systematic review shows pooled success 89.6%.",
+    "clinical_relevance": "Supports flexible bronchoscopy as the preferred initial approach for adult airway foreign bodies, with high success and low complication rates."
+  }
+}

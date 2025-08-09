@@ -1,0 +1,379 @@
+{
+  "source": {
+    "document_id": "Variable Learning Curve of Basic",
+    "ingest_date": "2025-08-08T00:00:00+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1159/000514627"
+  },
+  "document": {
+    "metadata": {
+      "title": "Variable Learning Curve of Basic Rigid Bronchoscopy in Trainees",
+      "year": 2021,
+      "authors": [
+        "Kamran Mahmood",
+        "Momen M. Wahidi",
+        "Ray Wes Shepherd",
+        "A. Christine Argento",
+        "Lonny B. Yarmus",
+        "Hans Lee",
+        "Samira Shojaee",
+        "David M. Berkowitz",
+        "Keriann Van Nostrand",
+        "Carla R. Lamb",
+        "Scott L. Shofer",
+        "Junheng Gao",
+        "Mohsen Davoudi"
+      ],
+      "journal": "Respiration",
+      "doi": "10.1159/000514627",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Background: Despite increased use of rigid bronchoscopy (RB) for therapeutic indications and recommendations from professional societies to use performance-based competency, an assessment tool has not been utilized to measure the competency of trainees to perform RB in clinical settings. Objectives: The aim of the study was to evaluate a previously developed assessment tool - Rigid Bronchoscopy Tool for Assessment of Skills and Competence (RIGID-TASC) - for determining the RB learning curve of interventional pulmonary (IP) trainees in the clinical setting and explore the variability of learning curve of trainees. Methods: IP fellows at 4 institutions were enrolled. After preclinical simulation training, all RBs performed in patients were scored by faculty using RIGID-TASC until competency threshold was achieved. Competency threshold was defined as unassisted RB intubation and navigation through the central airways on 3 consecutive patients at the first attempt with a minimum score of 89. A regression-based model was devised to construct and compare the learning curves. Results: Twelve IP fellows performed 178 RBs. Trainees reached the competency threshold between 5 and 24 RBs, with a median of 15 RBs (95% CI, 6-21). There were differences among trainees in learning curve parameters including starting point, slope, and inflection point, as demonstrated by the curve-fitting model. Subtasks that required the highest number of procedures (median = 10) to gain competency included ability to intubate at the first attempt and intubation time of <60 s. Conclusions: Trainees acquire RB skills at a variable pace, and RIGID-TASC can be used to assess learning curve of IP trainees in clinical settings.",
+      "methods": "In this prospective, multicenter study, twelve novice interventional pulmonology (IP) fellows at 4 US training programs were recruited and scored using the RIGID-TASC while performing rigid bronchoscopy (RB) as part of their clinical training. All RBs performed by the trainees were supervised and scored by a faculty interventional pulmonologist starting with their initial procedure at the beginning of training, until the criteria for basic competency threshold were achieved. The competency threshold was defined as successful RB intubation and central airway navigation at the first attempt, without a supervisor’s help, with a minimum RIGID-TASC score of 89 out of 100 on 3 consecutive procedures. Since not all patients required every RIGID-TASC element, the score percentage was calculated from the clinically necessary, completed subtasks. Preclinical training included didactic lecture, low-fidelity manikin practice, and cadaver practice at an IP Boot Camp. Statistical analysis summarized data by medians and IQRs or percentages, used one minus Kaplan-Meier estimates to derive cumulative incidence of competency over procedure counts, and fit individual learning curves using a regression-based estimating equation via the Gauss-Newton method. Analyses were performed in SAS 9.4 and R 3.4.1.",
+      "results": "Twelve participants contributed 178 RB procedures. Indications were malignant central airway obstruction (38%), nonmalignant central airway obstruction (53%), and other (9%). Trainees achieved the competency threshold (3 consecutive scores ≥89 on first attempt) between 5 and 24 RB procedures (median 15; 95% CI, 6-21). Cumulative incidence showed 25% competent at 9 procedures (95% CI, 5-15), 50% at 15 (95% CI, 6-21), 75% at 20 (95% CI, 15-24), and 100% at 24. Learning curves varied across trainees in starting point, slope, and inflection point. Subtasks requiring the most attempts to reach subtask competency included first-attempt intubation (median 10, IQR 8-16) and completing intubation within 60 s (median 9.5, IQR 7-18.2). Reported complications across all procedures included 1 loose tooth, 2 upper airway mucosal injuries, 2 lower airway mucosal injuries, and 2 hypoxemia events with oxygen saturation ≤88%."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Novice interventional pulmonology fellows at 4 US training programs performing clinical rigid bronchoscopy under supervision.",
+      "inclusion_criteria": [
+        "Novice IP fellows beginning fellowship training",
+        "Participation at 1 of 4 US IP training programs",
+        "Underwent preclinical RB training (lecture, manikin, cadaver)"
+      ],
+      "exclusion_criteria": [
+        "Not reported"
+      ]
+    },
+    "intervention": {
+      "text": "Rigid bronchoscopy training and assessment using RIGID-TASC in clinical cases",
+      "details": "After preclinical didactics and simulation, all clinical RBs were supervised and scored with RIGID-TASC until trainees achieved 3 consecutive unassisted first-attempt intubations with central airway navigation and minimum score of 89."
+    },
+    "comparison": {
+      "text": "None",
+      "details": "Single-arm prospective cohort without a comparator group."
+    },
+    "outcomes": [
+      {
+        "name": "Number of RB procedures required to achieve basic competency threshold",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Proportion achieving competency by specified procedure counts (9, 15, 20, 24)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Complications during RB procedures (loose tooth, mucosal injury, hypoxemia ≤88%)",
+        "type": "safety",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "prospective multicenter observational cohort",
+    "allocation": "non-randomized",
+    "blinding": "open-label",
+    "sites_count": 4,
+    "countries": [
+      "US"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 12,
+      "analyzed": 12
+    },
+    "analysis_populations": [
+      {
+        "name": "All trainees",
+        "description": "All enrolled IP fellows contributing RB procedures until competency",
+        "n": 12
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "cohort",
+      "name": "IP trainee cohort undergoing RB with RIGID-TASC assessment",
+      "n_randomized": 0,
+      "n_analyzed": 12,
+      "n_completed": 12
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "competency_within_9_procedures",
+      "name": "Reached competency threshold by 9 RB procedures",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "By 9 procedures",
+      "groups": [
+        {
+          "arm_id": "cohort",
+          "raw": {
+            "events": 3,
+            "total": 12
+          }
+        }
+      ],
+      "analysis": {
+        "model": "One minus Kaplan-Meier (cumulative incidence across procedure counts)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All trainees",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "Trainees achieved the threshold of 3 consecutive scores of 89 at first attempt at different procedure volumes with 25% competent at 9 RBs (95% CI, 5-15); 50% at 15 procedures (95% CI, 6-21); 75% at 20 RB (95% CI, 15-24); and 100% trainees at 24 RB."
+      }
+    },
+    {
+      "concept_id": "competency_within_15_procedures",
+      "name": "Reached competency threshold by 15 RB procedures",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "By 15 procedures",
+      "groups": [
+        {
+          "arm_id": "cohort",
+          "raw": {
+            "events": 6,
+            "total": 12
+          }
+        }
+      ],
+      "analysis": {
+        "model": "One minus Kaplan-Meier (cumulative incidence across procedure counts)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All trainees",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "Trainees achieved the threshold of 3 consecutive scores of 89 at first attempt at different procedure volumes with 25% competent at 9 RBs (95% CI, 5-15); 50% at 15 procedures (95% CI, 6-21); 75% at 20 RB (95% CI, 15-24); and 100% trainees at 24 RB."
+      }
+    },
+    {
+      "concept_id": "competency_within_20_procedures",
+      "name": "Reached competency threshold by 20 RB procedures",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "By 20 procedures",
+      "groups": [
+        {
+          "arm_id": "cohort",
+          "raw": {
+            "events": 9,
+            "total": 12
+          }
+        }
+      ],
+      "analysis": {
+        "model": "One minus Kaplan-Meier (cumulative incidence across procedure counts)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All trainees",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "Trainees achieved the threshold of 3 consecutive scores of 89 at first attempt at different procedure volumes with 25% competent at 9 RBs (95% CI, 5-15); 50% at 15 procedures (95% CI, 6-21); 75% at 20 RB (95% CI, 15-24); and 100% trainees at 24 RB."
+      }
+    },
+    {
+      "concept_id": "competency_within_24_procedures",
+      "name": "Reached competency threshold by 24 RB procedures",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "By 24 procedures",
+      "groups": [
+        {
+          "arm_id": "cohort",
+          "raw": {
+            "events": 12,
+            "total": 12
+          }
+        }
+      ],
+      "analysis": {
+        "model": "One minus Kaplan-Meier (cumulative incidence across procedure counts)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All trainees",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "Trainees achieved the threshold of 3 consecutive scores of 89 at first attempt at different procedure volumes with 25% competent at 9 RBs (95% CI, 5-15); 50% at 15 procedures (95% CI, 6-21); 75% at 20 RB (95% CI, 15-24); and 100% trainees at 24 RB."
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Loose tooth",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Tooth injury"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "cohort",
+          "events": 1,
+          "patients": 1,
+          "percentage": 0.6,
+          "total": 178
+        }
+      ],
+      "period": "peri-procedural",
+      "management": "",
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "There were a few complications associated with RB, including 1 loose tooth, 2 upper airway mucosal injuries, 2 lower airway mucosal injuries, and 2 incidents of hypoxemia with oxygen saturation of ≤88%."
+      }
+    },
+    {
+      "event_name": "Upper airway mucosal injury",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Mucosal injury"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "cohort",
+          "events": 2,
+          "patients": 2,
+          "percentage": 1.1,
+          "total": 178
+        }
+      ],
+      "period": "peri-procedural",
+      "management": "",
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "There were a few complications associated with RB, including 1 loose tooth, 2 upper airway mucosal injuries, 2 lower airway mucosal injuries, and 2 incidents of hypoxemia with oxygen saturation of ≤88%."
+      }
+    },
+    {
+      "event_name": "Lower airway mucosal injury",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Airway injury"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "cohort",
+          "events": 2,
+          "patients": 2,
+          "percentage": 1.1,
+          "total": 178
+        }
+      ],
+      "period": "peri-procedural",
+      "management": "",
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "There were a few complications associated with RB, including 1 loose tooth, 2 upper airway mucosal injuries, 2 lower airway mucosal injuries, and 2 incidents of hypoxemia with oxygen saturation of ≤88%."
+      }
+    },
+    {
+      "event_name": "Hypoxemia (SpO2 ≤88%)",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Hypoxia"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "cohort",
+          "events": 2,
+          "patients": 2,
+          "percentage": 1.1,
+          "total": 178
+        }
+      ],
+      "period": "peri-procedural",
+      "management": "",
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "There were a few complications associated with RB, including 1 loose tooth, 2 upper airway mucosal injuries, 2 lower airway mucosal injuries, and 2 incidents of hypoxemia with oxygen saturation of ≤88%."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "ROBINS-I",
+    "overall_judgment": "moderate",
+    "domains": [
+      {
+        "name": "Confounding",
+        "judgment": "moderate",
+        "support_for_judgment": "Variability in case mix and patient anatomy over time; no covariate adjustment reported."
+      },
+      {
+        "name": "Selection of participants",
+        "judgment": "low",
+        "support_for_judgment": "All novice fellows at participating centers were enrolled at training start."
+      },
+      {
+        "name": "Classification of interventions",
+        "judgment": "low",
+        "support_for_judgment": "Single cohort with standardized RIGID-TASC assessment."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "low",
+        "support_for_judgment": "Supervised procedures with consistent feedback; no protocol deviations reported."
+      },
+      {
+        "name": "Missing data",
+        "judgment": "low",
+        "support_for_judgment": "All 12 trainees contributed procedures until competency; no missing outcome data reported."
+      },
+      {
+        "name": "Measurement of outcomes",
+        "judgment": "moderate",
+        "support_for_judgment": "Assessors were supervising faculty and not blinded; potential measurement bias."
+      },
+      {
+        "name": "Selection of reported results",
+        "judgment": "low",
+        "support_for_judgment": "Predefined primary threshold and standardized reporting; complications transparently listed."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "rigid bronchoscopy",
+      "learning curve",
+      "competency",
+      "trainees",
+      "RIGID-TASC",
+      "interventional pulmonology"
+    ],
+    "summary_tldr": "In a 4-center prospective cohort of 12 IP fellows (178 RBs), basic RB competency (RIGID-TASC ≥89 on 3 consecutive first-attempt intubations) was achieved after a median 15 procedures (range 5-24); by 24 procedures, 100% were competent.",
+    "clinical_relevance": "Supports competency-based assessment for RB training; suggests many trainees require approximately 15-24 procedures to reach basic competency, with substantial inter-individual variability."
+  }
+}

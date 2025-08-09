@@ -1,0 +1,98 @@
+{
+  "source": {
+    "document_id": "Coping with airway emergencies_",
+    "ingest_date": "2025-08-08T11:08:36.922557+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.4103/ija.IJA_591_20"
+  },
+  "document": {
+    "metadata": {
+      "title": "Coping with airway emergencies: Get, Set, Go!",
+      "year": 2020,
+      "authors": [
+        "Raveendra US",
+        "Anju Gupta",
+        "Swagata Biswas",
+        "Nishkarsh Gupta"
+      ],
+      "journal": "Indian Journal of Anaesthesia",
+      "doi": "10.4103/ija.IJA_591_20",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Airway emergencies are among the life‑threatening events that are encountered in the operating room, emergency department or intensive care unit. They are important causes of preventable morbidity and mortality where time is the essence. It can be extremely challenging to rapidly assess the airway for early diagnosis and perform appropriate interventions simultaneously. Outcome depends on the implementation of an optimal strategy to establish a patent airway. Equally important is the overall stabilisation of the patient and management of the primary clinical condition as appropriate. Key components of management include early recognition of threatened airway, appropriate and timely airway intervention, and maintaining oxygenation. In this review, we describe aetiology, evaluation and management of airway emergencies.",
+      "methods": "Literature search using keywords ‘airway’, ‘emergencies’, ‘oxygenation’, ‘intubation’, and ‘management’ was performed in PubMed, Medline, and Embase for the last 10 years. A total of 659 articles were identified, screened, and 150 relevant articles were shortlisted. References of these articles were also searched for inclusion in the review.",
+      "results": "This narrative review synthesizes causes, recognition, and management strategies for airway emergencies across pre-hospital, ED, ICU, and perioperative settings. Key themes include: early recognition of threatened airway using red flags (e.g., stridor, hypoxemia, paradoxical breathing), preparation with a difficult airway response team and equipment, and prioritization of oxygenation (preoxygenation, high-flow nasal oxygen, PEEP, jet ventilation, heliox in select obstructive scenarios). Definitive airway options include endotracheal intubation and tracheostomy, with rescue strategies such as supraglottic airway devices and cricothyrotomy; rigid bronchoscopy is highlighted for distal obstruction. For specific scenarios: acute airway obstruction requires planning in an equipped environment, consideration of awake tracheostomy and early surgical options; airway trauma favors awake oral fibreoptic intubation with cervical spine protection and distal surgical airway for extensive injuries; soiled airway management emphasizes positioning, aggressive suction, minimizing positive pressure, and techniques like SALAD; and airway fire prevention focuses on minimizing oxidizers and using laser-safe strategies with immediate extinguishment steps if fire occurs."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Patients with actual or threatened airway emergencies encountered in pre-hospital care, emergency department, intensive care unit, or perioperative settings.",
+      "inclusion_criteria": [
+        "Airway obstruction (medical, mechanical, iatrogenic, trauma)",
+        "Traumatized airway",
+        "Failed airway or complete ventilation failure during emergent management"
+      ],
+      "exclusion_criteria": [
+        "Elective non-emergent airway management",
+        "Stable patients without features of airway compromise"
+      ]
+    },
+    "intervention": {
+      "text": "Airway emergency management strategies",
+      "details": "Early recognition of red flags; preparation with difficult airway response team and equipment; oxygenation strategies including preoxygenation, high-flow nasal oxygen, PEEP, jet ventilation, heliox; airway access options including endotracheal intubation, supraglottic airway devices, cricothyrotomy, tracheostomy; use of rigid bronchoscopy for distal obstruction; consideration of CPB/ECMO when conventional methods fail."
+    },
+    "comparison": {
+      "text": "Not applicable for narrative review",
+      "details": ""
+    },
+    "outcomes": [
+      {
+        "name": "Timely recognition and maintenance of oxygenation with successful definitive airway establishment",
+        "type": "primary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Narrative review",
+    "allocation": "NA",
+    "blinding": "NA",
+    "sites_count": 0,
+    "countries": [
+      "IN",
+      "BN"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": []
+  },
+  "arms": [],
+  "outcomes_normalized": [],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "Not applicable",
+    "overall_judgment": "unclear",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "airway emergencies",
+      "difficult airway",
+      "oxygenation",
+      "intubation",
+      "supraglottic airway",
+      "cricothyrotomy",
+      "rigid bronchoscopy",
+      "ECMO",
+      "SALAD technique",
+      "airway fire"
+    ],
+    "summary_tldr": "Narrative review outlining recognition and management strategies for airway emergencies, emphasizing oxygenation-first approaches and early definitive airway planning.",
+    "clinical_relevance": "Provides practical, stepwise guidance for managing diverse airway emergencies across ED, ICU, and perioperative settings."
+  }
+}

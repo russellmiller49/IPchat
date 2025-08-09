@@ -1,0 +1,443 @@
+{
+  "source": {
+    "document_id": "Tranexamic acid vs adrenaline for controlling iatrogenic bleeding during flexible bronchoscopy",
+    "ingest_date": "2025-08-08T12:00:00+00:00",
+    "trial_registration_id": "NCT04771923",
+    "pmid": null,
+    "doi": "10.1016/j.chest.2022.10.013"
+  },
+  "document": {
+    "metadata": {
+      "title": "Tranexamic Acid vs Adrenaline for Controlling Iatrogenic Bleeding During Flexible Bronchoscopy: A Double-Blind Randomized Controlled Trial",
+      "year": 2023,
+      "authors": [
+        "Sonja Badovinac",
+        "Goran Glodic",
+        "Ivan Sabol",
+        "Feca Dzubur",
+        "Mateja Jankovic Makek",
+        "Denis Baricevic",
+        "Marta Korsic",
+        "Filip Popovic",
+        "Drazena Srdic",
+        "Miroslav Samarzija"
+      ],
+      "journal": "CHEST",
+      "doi": "10.1016/j.chest.2022.10.013",
+      "pmid": null
+    },
+    "sections": {
+      "abstract": "BACKGROUND: The most commonly used topical hemostatic agents during flexible bronchoscopy (FB) are cold saline and adrenaline. Data on use of other agents such as tranexamic acid (TXA) for this purpose are limited. RESEARCH QUESTION: Is TXA effective and safe in controlling iatrogenic bleeding during FB compared with adrenaline? STUDY DESIGN AND METHODS: We conducted a cluster-randomized, double-blind, single-center trial in a tertiary teaching hospital. Patients were randomized in weekly clusters to receive up to three applications of TXA (100 mg, 2 mL) or adrenaline (0.2 mg, 2 mL, 1:10000) after hemostasis failure after three applications of cold saline (4°C, 5 mL). Crossover was allowed (for up to three further applications) before proceeding with other interventions. Bleeding severity was graded by the bronchoscopist using a visual analog scale (VAS; 1 = very mild, 10 = severe). RESULTS: A total of 2,033 FBs were performed and 130 patients were randomized successfully to adrenaline (n = 65) or TXA (n = 65), whereas 12 patients had to be excluded for protocol violations (two patients from the adrenaline arm and 10 patients from TXA arm). Bleeding was stopped in 83.1% of patients (54/65) in both groups (P = 1). The severity of bleeding and number of applications needed for bleeding control were similar in both groups (adrenaline: mean VAS score, 4.9 ± 1.3 [n = 1.8 ± 0.8]; TXA: mean VAS score, 5.3 ± 1.4 [n = 1.8 ± 0.8]). Both adrenaline and TXA were more successful in controlling moderate bleeding (86.7% and 88.7%, respectively) than severe bleeding (40% and 58.3%, respectively; P = .008 and P = .012, respectively) and required more applications for severe bleeding (3.0 ± 0 and 2.4 ± 0.5, respectively) than moderate bleeding (1.7 ± 0.8 and 1.7 ± 0.8, respectively) control (P = .006 and P = .002, respectively). We observed no drug-related adverse events in either group. INTERPRETATION: We found no significant difference between adrenaline and TXA for controlling noncatastrophic iatrogenic endobronchial bleeding after cold saline failure, adding to the body of evidence that TXA can be used safely and effectively during FB.",
+      "methods": "Pragmatic, cluster-randomized, double-blind, single-center trial at a tertiary teaching hospital (February 22, 2021-February 4, 2022). All patients undergoing diagnostic flexible bronchoscopy (including mediastinal staging with convex probe EBUS and peripheral bronchoscopy with radial probe EBUS) were screened and consented. Standard initial hemostasis was three applications of 5 mL cold (4°C) saline. Patients with persistent bleeding were randomized by weekly clusters to receive up to three applications of TXA (2 mL of 50 mg/mL; 100 mg per application) or adrenaline (2 mL of 1:10,000; 0.2 mg per application), with at least 60 s between applications. If bleeding persisted, crossover to the other agent was allowed (up to three further applications 60 s apart) before escalation to other measures. Drug syringes were identical and labeled 1 or 2 per weekly allocation. Bronchoscopists, nurses, patients, and outcome assessors were blinded; allocation was known only to a supervising doctor and nurse not involved in care. The primary outcome was the proportion with successfully controlled bleeding (visual confirmation of clot formation). Secondary outcomes included mean number of applications to achieve hemostasis, recurrent bleeding episodes, success by severity (VAS 1-10), indications, sampling methods, and adverse events. Statistics used chi-square, t tests, and Mann-Whitney U tests; two-sided P < 0.05 significant.",
+      "results": "Among 2,033 FBs, 575 bleeding episodes occurred (mean VAS 3.6 ± 1.3). Bleeding stopped with cold saline in 432 (75.1%). One patient declined further treatment. Of 142 randomized (TXA 75; adrenaline 67), 12 were excluded for protocol violations/unmasking, yielding 130 analyzed (65 per arm). Primary outcome: hemostasis success 54/65 (83.1%) in both arms (P = 1). Mean VAS and number of applications to control bleeding were similar (adrenaline VAS 4.9 ± 1.3; TXA VAS 5.3 ± 1.4; both 1.8 ± 0.8 applications). More severe bleeding episodes occurred in TXA (12/65, 18.5%) vs adrenaline (5/65, 7.7%; P = 0.069). Success by severity showed higher success in moderate vs severe bleeding for both agents; required applications were higher for severe vs moderate. No drug-related adverse events were observed. Across the study period (2,033 FBs), nine SAEs occurred; in randomized patients, adrenaline arm had three SAEs (acute respiratory failure, transient ischemic attack, recurrent bleeding after early termination), and TXA arm had two SAEs (hospitalization for recurrent bleeding) but those two were excluded per protocol."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults undergoing diagnostic flexible bronchoscopy in a tertiary teaching hospital with iatrogenic airway bleeding not controlled after three applications of cold saline.",
+      "inclusion_criteria": [
+        "Patients undergoing diagnostic flexible bronchoscopy (including convex probe EBUS or radial probe EBUS procedures)",
+        "Persistent endobronchial bleeding after three applications of 5 mL cold (4°C) saline",
+        "Provided informed consent"
+      ],
+      "exclusion_criteria": [
+        "Absolute or relative contraindications to flexible bronchoscopy",
+        "Contraindications to topical adrenaline use",
+        "Operator decision to break blinding and deviate from protocol due to safety concerns (excluded from analysis)"
+      ]
+    },
+    "intervention": {
+      "text": "Topical tranexamic acid (TXA)",
+      "details": "Up to three applications of TXA 100 mg (2 mL of 50 mg/mL) instilled endobronchially, ≥60 s between applications, after failure of cold saline hemostasis; weekly cluster determines first-line agent; crossover allowed if persistent bleeding."
+    },
+    "comparison": {
+      "text": "Topical adrenaline (epinephrine)",
+      "details": "Up to three applications of adrenaline 0.2 mg (2 mL of 1:10,000) instilled endobronchially, ≥60 s between applications, after failure of cold saline hemostasis; weekly cluster determines first-line agent; crossover allowed if persistent bleeding."
+    },
+    "outcomes": [
+      {
+        "name": "Proportion with successfully controlled bleeding (visual confirmation of hemostasis)",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Number of applications required to achieve hemostasis",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Bleeding severity (VAS 1-10)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Serious adverse events",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "RCT",
+    "allocation": "randomized (cluster by week)",
+    "blinding": "double-blind",
+    "sites_count": 1,
+    "countries": [
+      "Croatia"
+    ],
+    "sample_size": {
+      "planned": 122,
+      "enrolled": 142,
+      "analyzed": 130
+    },
+    "analysis_populations": [
+      {
+        "name": "ITT",
+        "description": "All randomized patients (weekly cluster allocation) regardless of protocol deviations",
+        "n": 142
+      },
+      {
+        "name": "PP",
+        "description": "Protocol-compliant, not unblinded; final analyzed population",
+        "n": 130
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "Topical tranexamic acid (TXA)",
+      "n_randomized": 75,
+      "n_analyzed": 65,
+      "n_completed": 65
+    },
+    {
+      "arm_id": "control",
+      "name": "Topical adrenaline (epinephrine)",
+      "n_randomized": 67,
+      "n_analyzed": 65,
+      "n_completed": 65
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "hemostasis_success_intra_procedure",
+      "name": "Successful hemostasis (visual confirmation of clot formation)",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "PT0H",
+      "timepoint_label": "Intra-procedural (end of drug applications)",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 54,
+            "total": 65
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 54,
+            "total": 65
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": 0,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 1,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Chi-square test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "PP",
+        "missing_handling": "Excluded protocol violations and unblinded case"
+      },
+      "provenance": {
+        "pages": [
+          987
+        ],
+        "tables": [
+          "Figure 2"
+        ],
+        "table_number": null,
+        "quote": "Bleeding was stopped successfully in 54 of 65 patients (83.1%) in both groups (P = 1)."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 1.0
+        },
+        "odds_ratio": {
+          "est": 1.0
+        },
+        "arr": 0.0
+      }
+    },
+    {
+      "concept_id": "applications_needed_for_hemostasis",
+      "name": "Number of applications required to control bleeding",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "PT0H",
+      "unit": "applications",
+      "unit_canonical": "count",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": 1.8,
+            "sd": 0.8,
+            "total": 65
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "mean": 1.8,
+            "sd": 0.8,
+            "total": 65
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "mean_difference",
+        "est": 0,
+        "ci_lower": null,
+        "ci_upper": null,
+        "p_value": null,
+        "p_operator": null,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "t test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "PP"
+      },
+      "provenance": {
+        "pages": [
+          987
+        ],
+        "tables": [
+          "Figure 3"
+        ],
+        "quote": "The number of applications needed for bleeding control were similar in both groups ... [1.8 ± 0.8 in each group]."
+      }
+    },
+    {
+      "concept_id": "bleeding_severity_vas",
+      "name": "Bleeding severity (VAS 1-10)",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "PT0H",
+      "unit": "VAS",
+      "unit_canonical": "score",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": 5.3,
+            "sd": 1.4,
+            "total": 65
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "mean": 4.9,
+            "sd": 1.3,
+            "total": 65
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "mean_difference",
+        "est": 0.4,
+        "ci_lower": null,
+        "ci_upper": null,
+        "p_value": null,
+        "p_operator": null,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "t test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "PP"
+      },
+      "provenance": {
+        "pages": [
+          986
+        ],
+        "tables": [
+          "Figure 3"
+        ],
+        "quote": "The severity of bleeding ... were similar in both groups (adrenaline: mean VAS score, 4.9 ± 1.3; TXA: mean VAS score, 5.3 ± 1.4)."
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Respiratory failure",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Respiratory failure"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "life_threatening"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 75
+        },
+        {
+          "arm_id": "control",
+          "events": 1,
+          "patients": 1,
+          "percentage": 1.5,
+          "total": 67
+        }
+      ],
+      "period": "Peri-procedural",
+      "management": null,
+      "provenance": {
+        "pages": [
+          988
+        ],
+        "tables": [],
+        "quote": "Patients randomized to adrenaline experienced a total of three SAEs: the first patient experienced acute respiratory failure..."
+      }
+    },
+    {
+      "event_name": "Transient ischaemic attack",
+      "meddra": {
+        "soc": "Nervous system disorders",
+        "pt": "Transient ischaemic attack"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "hospitalization"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 75
+        },
+        {
+          "arm_id": "control",
+          "events": 1,
+          "patients": 1,
+          "percentage": 1.5,
+          "total": 67
+        }
+      ],
+      "period": "Peri-procedural",
+      "management": null,
+      "provenance": {
+        "pages": [
+          988
+        ],
+        "tables": [],
+        "quote": "...the second experienced a transitory ischemic attack..."
+      }
+    },
+    {
+      "event_name": "Haemoptysis (recurrent bleeding)",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Haemoptysis"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "medically_significant"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 2,
+          "patients": 2,
+          "percentage": 2.7,
+          "total": 75
+        },
+        {
+          "arm_id": "control",
+          "events": 1,
+          "patients": 1,
+          "percentage": 1.5,
+          "total": 67
+        }
+      ],
+      "period": "Peri-procedural",
+      "management": "Hospitalization required for 2 TXA-assigned patients",
+      "provenance": {
+        "pages": [
+          988
+        ],
+        "tables": [],
+        "quote": "Patients randomized to TXA experienced two SAEs; both required hospitalization because of recurrent bleeding... the third [adrenaline] patient demonstrated recurrent bleeding after early termination of the procedure..."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "RoB 2",
+    "overall_judgment": "some concerns",
+    "domains": [
+      {
+        "name": "Randomization process",
+        "judgment": "some concerns",
+        "support_for_judgment": "Cluster randomization by week; imbalance noted with more severe bleeding in TXA arm (18.5% vs 7.7%)."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "some concerns",
+        "support_for_judgment": "Crossover allowed; analysis excluded protocol violations and one unblinded case (per-protocol)."
+      },
+      {
+        "name": "Missing outcome data",
+        "judgment": "low",
+        "support_for_judgment": "Per-protocol analysis included 130/142 randomized; exclusions were documented prior to unblinding."
+      },
+      {
+        "name": "Measurement of the outcome",
+        "judgment": "low",
+        "support_for_judgment": "Outcome assessed intra-procedurally with blinding; objective visual confirmation of hemostasis."
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "low",
+        "support_for_judgment": "Primary outcome and key secondary outcomes prespecified and reported."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "tranexamic acid",
+      "adrenaline",
+      "epinephrine",
+      "flexible bronchoscopy",
+      "endobronchial bleeding",
+      "hemostasis",
+      "randomized controlled trial"
+    ],
+    "summary_tldr": "In a double-blind, cluster-RCT of 130 analyzed patients with bleeding during bronchoscopy after cold saline failure, TXA and adrenaline achieved identical hemostasis rates (54/65, 83.1% each; P = 1) with similar applications needed and no drug-related adverse events.",
+    "clinical_relevance": "Supports TXA as an effective, safe alternative to adrenaline for noncatastrophic iatrogenic endobronchial bleeding control during flexible bronchoscopy."
+  }
+}

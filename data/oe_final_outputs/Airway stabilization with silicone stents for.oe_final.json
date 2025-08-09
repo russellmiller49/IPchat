@@ -1,0 +1,618 @@
+{
+  "source": {
+    "document_id": "Airway stabilization with silicone stents for",
+    "ingest_date": "2025-08-08T09:36:25.213950+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1378/chest.06-2708"
+  },
+  "document": {
+    "metadata": {
+      "title": "Airway Stabilization With Silicone Stents for Treating Adult Tracheobronchomalacia: A Prospective Observational Study",
+      "year": 2007,
+      "authors": [
+        "Armin Ernst",
+        "Adnan Majid",
+        "David Feller-Kopman",
+        "Jorge Guerrero",
+        "Phillip Boiselle",
+        "Stephen H. Loring",
+        "Carl O’Donnell",
+        "Malcolm DeCamp",
+        "Felix J. F. Herth",
+        "Sidhu Gangadharan",
+        "Simon Ashiku"
+      ],
+      "journal": "Chest",
+      "doi": "10.1378/chest.06-2708",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Rationale: In patients with severe tracheobronchomalacia (TBM), airway stabilization with stents may relieve symptoms. Objectives: To evaluate the effect of silicone stents (tracheal, mainstem bronchus, or both) on symptoms, quality of life, lung function, and exercise capacity. Methods: Prospective observational study comparing baseline measurements to those obtained 10-14 days after stent placement. Measurements and main results: Of 75 patients referred, 58 had severe TBM and underwent rigid bronchoscopy with silicone stent placement. Mean age was 69 years (range 39-91); 34 were men; 33 had COPD; 13 had asthma. Almost all (n=57) had dyspnea; four required mechanical ventilation. Symptomatic improvement was reported in 45/58 patients; quality of life (SGRQ) improved in 19/27 (p=0.002); dyspnea (BDI/TDI) improved in 22/24 (p=0.001); ATS dyspnea improved in 21/29 (p<0.001); Karnofsky performance improved in 18/26 (p=0.002); mean exercise capacity improved but not significantly. There were 49 complications, mainly 21 partial stent obstructions, 14 infections, and 10 stent migrations. Most patients with COPD improved on most measures. Conclusions: Short-term airway stabilization with silicone stents in severe TBM can improve respiratory symptoms, quality of life, and functional status; COPD is not an absolute contraindication. Stenting is associated with numerous but generally reversible complications.",
+      "methods": "Prospective, single-center observational study (Beth Israel Deaconess Medical Center) from January 2002 to September 2006. Adults referred for respiratory symptoms presumed due to TBM underwent dynamic airway CT and functional bronchoscopy. Severe TBM was defined as near-total or total airway collapse (approximation of posterior and anterior luminal surfaces) on bronchoscopy while on maximal medical therapy. Silicone stents (tracheal, bronchial, or Y-shaped) were placed under general anesthesia with rigid bronchoscopy and jet ventilation. Baseline assessments included symptoms, SGRQ (modified to 2-week recall), BDI/TDI, ATS dyspnea score, KPS, spirometry (ATS standards), and 6MWT (ATS standards). Follow-up occurred 10-14 days post-procedure with repetition of baseline measures and inquiry regarding symptomatic improvement. Clinically important thresholds: FEV1 change ≥0.2 L; 6MWT improvement ≥230 ft. Statistical analysis used Wilcoxon signed-rank tests (two-tailed, alpha=0.05).",
+      "results": "Of 75 referred, 58 had severe TBM and underwent stenting. Comorbidities included COPD (n=33), asthma (n=13), OSA (n=16), GERD (n=16), and Mounier-Kuhn syndrome (n=3). Nearly all (n=57) had dyspnea; four required mechanical ventilation and were weaned after stenting. Most (n=46) had diffuse TBM and received either combined tracheal and left main stent (n=19) or Y-stent (n=27); six received bronchial-only and six tracheal-only stents. Follow-up cohort sizes: SGRQ (n=27), BDI/TDI (n=24), ATS dyspnea (n=29), KPS (n=26), 6MWT (n=17), FEV1 (n=10). Improvements: SGRQ improved in 19/27 (p=0.002); BDI/TDI improved in 22/24 (p=0.001); ATS dyspnea improved in 21/29 (p<0.001); KPS improved in 18/26 (p=0.002); 6MWT improved in 10/17 (p=0.28); FEV1 improved in 4/10 (p=0.79). Self-reported symptomatic improvement occurred in 45/58 overall (25/33 COPD; 20/25 non-COPD). Complications (median onset 26 days; range 3-865) totaled 49: stent-related (n=44) including partial stent obstruction from mucus plugging (n=21), infection (n=14), stent migration (n=10); bronchoscopy-related (n=5); none anesthesia-related."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with severe tracheobronchomalacia undergoing evaluation and treatment at a tertiary airway center.",
+      "inclusion_criteria": [
+        "Severe TBM defined by near-total or total airway collapse on functional bronchoscopy",
+        "On maximal medical therapy for comorbid obstructive airway disease",
+        "Able to undergo general anesthesia and rigid bronchoscopy"
+      ],
+      "exclusion_criteria": [
+        "TBM not meeting severe criteria on bronchoscopy",
+        "Inability to undergo general anesthesia or rigid bronchoscopy",
+        "Declined informed consent"
+      ]
+    },
+    "intervention": {
+      "text": "Silicone airway stenting",
+      "details": "Placement of tracheal, mainstem bronchial, or Y-shaped silicone stents under general anesthesia via rigid bronchoscopy with jet ventilation; stent sizing based on bronchoscopic measurements; follow-up at 10-14 days."
+    },
+    "comparison": {
+      "text": "Pre-post within-subject comparison",
+      "details": "Baseline assessments prior to stent placement compared to follow-up 10-14 days after stenting."
+    },
+    "outcomes": [
+      {
+        "name": "SGRQ change at 10-14 days",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Dyspnea change (BDI/TDI) at 10-14 days",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "ATS dyspnea score change at 10-14 days",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Karnofsky Performance Scale change at 10-14 days",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "6-minute walk distance change at 10-14 days",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "FEV1 change at 10-14 days",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Self-reported symptomatic improvement at 10-14 days",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Stent- and procedure-related complications",
+        "type": "safety",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Prospective observational (single-arm pre-post)",
+    "allocation": "nonrandomized",
+    "blinding": "open-label",
+    "sites_count": 1,
+    "countries": [
+      "US"
+    ],
+    "sample_size": {
+      "planned": 58,
+      "enrolled": 58,
+      "analyzed": 58
+    },
+    "analysis_populations": [
+      {
+        "name": "All stented",
+        "description": "All patients who underwent silicone stent placement",
+        "n": 58
+      },
+      {
+        "name": "SGRQ follow-up cohort",
+        "description": "Patients with both baseline and 10-14 day SGRQ",
+        "n": 27
+      },
+      {
+        "name": "BDI/TDI follow-up cohort",
+        "description": "Patients with both baseline and 10-14 day BDI/TDI",
+        "n": 24
+      },
+      {
+        "name": "ATS dyspnea follow-up cohort",
+        "description": "Patients with both baseline and 10-14 day ATS dyspnea score",
+        "n": 29
+      },
+      {
+        "name": "KPS follow-up cohort",
+        "description": "Patients with both baseline and 10-14 day KPS",
+        "n": 26
+      },
+      {
+        "name": "6MWT follow-up cohort",
+        "description": "Patients with both baseline and 10-14 day 6MWT",
+        "n": 17
+      },
+      {
+        "name": "FEV1 follow-up cohort",
+        "description": "Patients with both baseline and 10-14 day spirometry",
+        "n": 10
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "stent",
+      "name": "Silicone airway stenting",
+      "n_randomized": 58,
+      "n_analyzed": 58,
+      "n_completed": 58
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "self_report_symptom_improvement_2w",
+      "name": "Self-reported symptomatic improvement",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P14D",
+      "timepoint_label": "10-14 days",
+      "groups": [
+        {
+          "arm_id": "stent",
+          "raw": {
+            "events": 45,
+            "total": 58
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Descriptive (single proportion)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All stented with self-report at 10-14 days",
+        "missing_handling": "Complete case"
+      },
+      "provenance": {
+        "pages": [
+          613
+        ],
+        "tables": [],
+        "quote": "On self-reported symptoms ... after stent placement in 45 patients ... unchanged or worsened in 10 ... equivocal in 3."
+      }
+    },
+    {
+      "concept_id": "sgrq_improved_2w",
+      "name": "SGRQ improvement (any improvement from baseline)",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P14D",
+      "timepoint_label": "10-14 days",
+      "groups": [
+        {
+          "arm_id": "stent",
+          "raw": {
+            "events": 19,
+            "total": 27
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "stent",
+        "measure": "within_group_change_test",
+        "est": 0,
+        "ci_lower": 0,
+        "ci_upper": 0,
+        "ci_level": 0.95,
+        "p_value": 0.002,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Wilcoxon signed-rank test (paired pre-post SGRQ scores)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Patients with baseline and 10-14 day SGRQ",
+        "missing_handling": "Complete case"
+      },
+      "provenance": {
+        "pages": [
+          612
+        ],
+        "tables": [
+          "Table 1"
+        ],
+        "table_number": 1,
+        "quote": "SGRQ ... Improved, 19/27; p=0.002"
+      }
+    },
+    {
+      "concept_id": "bdi_tdi_improved_2w",
+      "name": "Dyspnea improvement (BDI/TDI change indicating improvement)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P14D",
+      "timepoint_label": "10-14 days",
+      "groups": [
+        {
+          "arm_id": "stent",
+          "raw": {
+            "events": 22,
+            "total": 24
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "stent",
+        "measure": "within_group_change_test",
+        "est": 0,
+        "ci_lower": 0,
+        "ci_upper": 0,
+        "ci_level": 0.95,
+        "p_value": 0.001,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Wilcoxon signed-rank test (paired pre-post BDI/TDI)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Patients with baseline and 10-14 day BDI/TDI",
+        "missing_handling": "Complete case"
+      },
+      "provenance": {
+        "pages": [
+          612
+        ],
+        "tables": [
+          "Table 1"
+        ],
+        "table_number": 1,
+        "quote": "BDI/TDI ... Improved, 22/24; p=0.001"
+      }
+    },
+    {
+      "concept_id": "ats_dyspnea_improved_2w",
+      "name": "ATS dyspnea score improvement",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P14D",
+      "timepoint_label": "10-14 days",
+      "groups": [
+        {
+          "arm_id": "stent",
+          "raw": {
+            "events": 21,
+            "total": 29
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "stent",
+        "measure": "within_group_change_test",
+        "est": 0,
+        "ci_lower": 0,
+        "ci_upper": 0,
+        "ci_level": 0.95,
+        "p_value": 0.001,
+        "p_operator": "<=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Wilcoxon signed-rank test (paired pre-post ATS dyspnea)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Patients with baseline and 10-14 day ATS dyspnea score",
+        "missing_handling": "Complete case"
+      },
+      "provenance": {
+        "pages": [
+          612
+        ],
+        "tables": [
+          "Table 1"
+        ],
+        "table_number": 1,
+        "quote": "ATS dyspnea score ... Improved, 21/29; p ≤ 0.001"
+      }
+    },
+    {
+      "concept_id": "kps_improved_2w",
+      "name": "Karnofsky Performance Scale improvement",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P14D",
+      "timepoint_label": "10-14 days",
+      "groups": [
+        {
+          "arm_id": "stent",
+          "raw": {
+            "events": 18,
+            "total": 26
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "stent",
+        "measure": "within_group_change_test",
+        "est": 0,
+        "ci_lower": 0,
+        "ci_upper": 0,
+        "ci_level": 0.95,
+        "p_value": 0.002,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Wilcoxon signed-rank test (paired pre-post KPS)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Patients with baseline and 10-14 day KPS",
+        "missing_handling": "Complete case"
+      },
+      "provenance": {
+        "pages": [
+          612
+        ],
+        "tables": [
+          "Table 1"
+        ],
+        "table_number": 1,
+        "quote": "KPS ... Improved, 18/26; p=0.002"
+      }
+    },
+    {
+      "concept_id": "sixmwt_improved_2w",
+      "name": "6-minute walk test improvement (≥ any increase from baseline)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P14D",
+      "timepoint_label": "10-14 days",
+      "groups": [
+        {
+          "arm_id": "stent",
+          "raw": {
+            "events": 10,
+            "total": 17
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "stent",
+        "measure": "within_group_change_test",
+        "est": 0,
+        "ci_lower": 0,
+        "ci_upper": 0,
+        "ci_level": 0.95,
+        "p_value": 0.28,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Wilcoxon signed-rank test (paired pre-post 6MWT distance)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Patients with baseline and 10-14 day 6MWT",
+        "missing_handling": "Complete case"
+      },
+      "provenance": {
+        "pages": [
+          612
+        ],
+        "tables": [
+          "Table 1"
+        ],
+        "table_number": 1,
+        "quote": "6-min walk distance ... Improved, 10/17; p=0.28"
+      }
+    },
+    {
+      "concept_id": "fev1_improved_2w",
+      "name": "Clinically important FEV1 improvement (≥0.2 L increase)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P14D",
+      "timepoint_label": "10-14 days",
+      "groups": [
+        {
+          "arm_id": "stent",
+          "raw": {
+            "events": 4,
+            "total": 10
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "stent",
+        "measure": "within_group_change_test",
+        "est": 0,
+        "ci_lower": 0,
+        "ci_upper": 0,
+        "ci_level": 0.95,
+        "p_value": 0.79,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Wilcoxon signed-rank test (paired pre-post FEV1)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Patients with baseline and 10-14 day spirometry",
+        "missing_handling": "Complete case"
+      },
+      "provenance": {
+        "pages": [
+          612
+        ],
+        "tables": [
+          "Table 1"
+        ],
+        "table_number": 1,
+        "quote": "FEV1 ... Improved, 4/10; p=0.79"
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Mucus plugging",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Mucous membrane secretion increased"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "stent",
+          "events": 21,
+          "patients": 21,
+          "percentage": 36.2,
+          "total": 58
+        }
+      ],
+      "period": "3-865 days (median onset 26 days)",
+      "management": "",
+      "provenance": {
+        "pages": [
+          613
+        ],
+        "tables": [],
+        "quote": "The 49 complications included mainly 21 partial stent obstructions, 14 infections, and 10 stent migrations."
+      }
+    },
+    {
+      "event_name": "Respiratory tract infection",
+      "meddra": {
+        "soc": "Infections and infestations",
+        "pt": "Respiratory tract infection"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "stent",
+          "events": 14,
+          "patients": 14,
+          "percentage": 24.1,
+          "total": 58
+        }
+      ],
+      "period": "3-865 days (median onset 26 days)",
+      "management": "",
+      "provenance": {
+        "pages": [
+          613
+        ],
+        "tables": [],
+        "quote": "The 49 complications included mainly 21 partial stent obstructions, 14 infections, and 10 stent migrations."
+      }
+    },
+    {
+      "event_name": "Device migration",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Device migration"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "stent",
+          "events": 10,
+          "patients": 10,
+          "percentage": 17.2,
+          "total": 58
+        }
+      ],
+      "period": "3-865 days (median onset 26 days)",
+      "management": "",
+      "provenance": {
+        "pages": [
+          613
+        ],
+        "tables": [],
+        "quote": "The 49 complications included mainly 21 partial stent obstructions, 14 infections, and 10 stent migrations."
+      }
+    },
+    {
+      "event_name": "Therapeutic procedure complication",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Therapeutic procedure complication"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "stent",
+          "events": 5,
+          "patients": 5,
+          "percentage": 8.6,
+          "total": 58
+        }
+      ],
+      "period": "Intra-procedural",
+      "management": "",
+      "provenance": {
+        "pages": [
+          613
+        ],
+        "tables": [],
+        "quote": "Of these complications, 44 were related to the stent, 5 to bronchoscopy, and none to anesthesia."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "RoB 2",
+    "overall_judgment": "high",
+    "domains": [
+      {
+        "name": "Randomization process",
+        "judgment": "high",
+        "support_for_judgment": "Nonrandomized single-arm pre-post design"
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "some concerns",
+        "support_for_judgment": "No blinding; potential performance bias"
+      },
+      {
+        "name": "Missing outcome data",
+        "judgment": "some concerns",
+        "support_for_judgment": "Incomplete follow-up for several outcomes (e.g., SGRQ n=27/58)"
+      },
+      {
+        "name": "Measurement of the outcome",
+        "judgment": "low",
+        "support_for_judgment": "Validated instruments (SGRQ, BDI/TDI, KPS, 6MWT) and standardized testing"
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "some concerns",
+        "support_for_judgment": "Multiple outcomes reported; no prespecified primary endpoint stated"
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "tracheobronchomalacia",
+      "silicone stent",
+      "airway stent",
+      "rigid bronchoscopy",
+      "quality of life",
+      "dyspnea",
+      "St George's Respiratory Questionnaire"
+    ],
+    "summary_tldr": "In severe TBM, silicone airway stenting led to short-term improvements in symptoms, QOL, and functional status, with a high but manageable complication rate.",
+    "clinical_relevance": "Supports short-term stenting trials for severe TBM, including in patients with COPD, recognizing frequent but generally reversible complications."
+  }
+}

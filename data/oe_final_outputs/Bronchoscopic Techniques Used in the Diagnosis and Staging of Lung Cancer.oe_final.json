@@ -1,0 +1,167 @@
+{
+  "source": {
+    "document_id": "Bronchoscopic Techniques Used in the Diagnosis and Staging of Lung Cancer",
+    "ingest_date": "2025-08-08T10:29:40.025036+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": ""
+  },
+  "document": {
+    "metadata": {
+      "title": "Bronchoscopic Techniques Used in the Diagnosis and Staging of Lung Cancer",
+      "year": 2017,
+      "authors": [
+        "Andrew D. Lerner",
+        "David Feller-Kopman"
+      ],
+      "journal": "Journal of the National Comprehensive Cancer Network",
+      "doi": "",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "With the greater use of chest CT, the incidental detection of lung nodules is expected to increase. However, because most lung nodules are benign, there is a high demand for minimally invasive procedures that provide valuable diagnostic information while minimizing complications. Recent advances in bronchoscopic technology meet this demand. These advanced technologies include navigational bronchoscopy and radial endobronchial ultrasound (EBUS) for the diagnosis of peripheral lung nodules, and linear EBUS, which has revolutionized the nonoperative nodal staging of lung cancer and provides a complementary option to surgical staging approaches. This article reviews these new bronchoscopic technologies.",
+      "methods": "Narrative review of bronchoscopic diagnostic and staging techniques for lung cancer, including navigational bronchoscopy (virtual and electromagnetic), radial EBUS for peripheral lesions, and linear EBUS for mediastinal staging. The review summarizes data from meta-analyses, registries, prospective studies, and a randomized trial comparing endosonography-first versus mediastinoscopy-first staging strategies.",
+      "results": "Key findings summarized: CT-guided transthoracic needle aspiration (TTNA) shows pooled sensitivity around 90% with individual studies 62%-99, with pneumothorax rates 15%-44. Advanced guided bronchoscopy techniques (navigational bronchoscopy and radial EBUS) demonstrate weighted diagnostic yield about 70.0 with significantly lower pneumothorax risk around 1.5 compared with TTNA. A large multicenter registry reported overall yields of 53.7 for r-EBUS and navigational bronchoscopy in real-world settings. EBUS-TBNA for mediastinal staging shows pooled sensitivity between 88 and 93, comparable to cervical mediastinoscopy (70-92) with similar diagnostic accuracy in a prospective head-to-head cohort (EBUS-TBNA sensitivity 81, NPV 91, accuracy 93; mediastinoscopy sensitivity 79, NPV 90, accuracy 93). In clinical stage I NSCLC with normal mediastinal imaging, occult nodal metastases were present in 9 of 97 patients; EBUS-TBNA detected 8 of these 9 cases. For restaging after induction therapy, EBUS-TBNA showed sensitivity 76, specificity 100, accuracy 77, and low NPV 20, suggesting negative results should be confirmed surgically."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with suspected or confirmed lung cancer or solitary pulmonary nodules undergoing diagnostic evaluation and/or mediastinal staging",
+      "inclusion_criteria": [
+        "Patients with solitary pulmonary nodules on chest imaging",
+        "Patients with suspected or confirmed NSCLC requiring mediastinal staging",
+        "Patients undergoing bronchoscopic or percutaneous diagnostic procedures"
+      ],
+      "exclusion_criteria": [
+        "Not specified in narrative review"
+      ]
+    },
+    "intervention": {
+      "text": "Advanced bronchoscopic techniques",
+      "details": "Navigational bronchoscopy (virtual bronchoscopic navigation and electromagnetic navigation), radial endobronchial ultrasound for peripheral lung nodules, and linear EBUS-TBNA for mediastinal and hilar lymph node staging; with optional addition of EUS-FNA for stations 5, 8, and 9"
+    },
+    "comparison": {
+      "text": "Conventional approaches",
+      "details": "CT-guided transthoracic needle aspiration, conventional (blind) TBNA, cervical mediastinoscopy and other surgical staging procedures"
+    },
+    "outcomes": [
+      {
+        "name": "Diagnostic yield of bronchoscopic techniques for peripheral nodules",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Sensitivity and accuracy of EBUS-TBNA for mediastinal staging",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Procedure-related complications (e.g., pneumothorax)",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Narrative review",
+    "allocation": "",
+    "blinding": "",
+    "sites_count": 0,
+    "countries": [],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": []
+  },
+  "arms": [],
+  "outcomes_normalized": [
+    {
+      "concept_id": "occult_nodal_metastasis_prevalence_stageI_normal_imaging",
+      "name": "Occult mediastinal nodal metastasis prevalence in clinical stage I NSCLC with normal mediastinal imaging",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "At presurgical staging",
+      "groups": [
+        {
+          "arm_id": "cohort",
+          "raw": {
+            "events": 9,
+            "total": 97
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Binomial proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All enrolled",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          646
+        ],
+        "tables": [],
+        "quote": "In 2008, Herth et al performed a prospective study of 97 patients with clinical stage I disease and normal lymph nodes on chest CT undergoing EBUS-TBNA. All patients subsequently underwent mediastinoscopy. Nine patients had nodal spread despite normal imaging."
+      }
+    },
+    {
+      "concept_id": "ebus_detection_of_occult_nodal_metastasis_stageI",
+      "name": "EBUS-TBNA detection of occult nodal metastasis among those with pathologic nodal spread (clinical stage I, normal imaging)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "During EBUS-TBNA",
+      "groups": [
+        {
+          "arm_id": "ebus_tbna",
+          "raw": {
+            "events": 8,
+            "total": 9
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Binomial proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Patients with occult nodal spread on definitive surgical staging",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          646
+        ],
+        "tables": [],
+        "quote": "EBUS identified almost all (8 of 9) of these patients, some of whom had N2 and N3 disease."
+      }
+    }
+  ],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "Not applicable",
+    "overall_judgment": "unclear",
+    "domains": [
+      {
+        "name": "Study design",
+        "judgment": "unclear",
+        "support_for_judgment": "Narrative review; no formal risk of bias assessment reported"
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "bronchoscopy",
+      "endobronchial ultrasound",
+      "mediastinal staging",
+      "navigational bronchoscopy",
+      "lung cancer",
+      "transthoracic needle aspiration"
+    ],
+    "summary_tldr": "Advanced bronchoscopy (navigational bronchoscopy, radial and linear EBUS) offers minimally invasive diagnosis and staging with lower pneumothorax risk than TTNA and high accuracy for mediastinal staging; in stage I patients with normal imaging, EBUS detected 8/9 occult nodal metastases.",
+    "clinical_relevance": "Supports endosonography-first strategies for mediastinal staging and highlights the role of guided bronchoscopy in diagnosing peripheral nodules while minimizing complications."
+  }
+}

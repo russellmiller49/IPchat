@@ -1,0 +1,875 @@
+{
+  "source": {
+    "document_id": "BLVR with endobronchial valves for patients wi",
+    "ingest_date": "2025-08-08T10:21:14.423869+00:00",
+    "trial_registration_id": "ISRCTN04761234",
+    "pmid": "",
+    "doi": "10.1016/S0140-6736(15)60001-0"
+  },
+  "document": {
+    "metadata": {
+      "title": "Bronchoscopic lung volume reduction with endobronchial valves for patients with heterogeneous emphysema and intact interlobar fissures (the BeLieVeR-HIFi study): a randomised controlled trial",
+      "year": 2015,
+      "authors": [
+        "Claire Davey",
+        "Zaid Zoumot",
+        "Simon Jordan",
+        "William H McNulty",
+        "Dennis H Carr",
+        "Matthew D Hind",
+        "David M Hansell",
+        "Michael B Rubens",
+        "Winston Banya",
+        "Michael I Polkey",
+        "Pallav L Shah",
+        "Nicholas S Hopkinson"
+      ],
+      "journal": "The Lancet",
+      "doi": "10.1016/S0140-6736(15)60001-0",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Background: Lung volume reduction surgery improves survival in selected patients with emphysema and has led to interest in bronchoscopic approaches that might achieve similar effects with less morbidity. Prior endobronchial valve trials showed modest benefits due to collateral ventilation preventing lobar atelectasis. Methods: Single-centre, double-blind, sham-controlled RCT in COPD patients with heterogeneous emphysema and intact interlobar fissures on CT. Stable outpatients with FEV1 <50% predicted, hyperinflation (TLC >100% and RV >150%), 6-min walk <450 m, and MRC dyspnoea ≥3 were randomized 1:1 to bronchoscopic lung volume reduction (BLVR) with endobronchial valves versus sham bronchoscopy. Primary endpoint was percentage change in FEV1 at 3 months. Intention-to-treat analysis. Findings: 50 patients were randomized (BLVR n=25; control n=25). Median FEV1 increased 8.77% (IQR 2.27-35.85) in BLVR vs 2.88% (0-8.51) in control (Mann-Whitney p=0.0326). Two deaths occurred in the BLVR group; one control patient was unable to attend follow-up due to prolonged pneumothorax. Interpretation: In patients with heterogeneous emphysema and intact fissures, unilateral lobar occlusion with endobronchial valves yielded significant lung function improvements but with risk of significant complications. Further trials versus lung volume reduction surgery are warranted.",
+      "methods": "Design: Randomised, parallel-group, double-blind, sham bronchoscopy-controlled trial conducted at a single UK centre. Participants: Ex-smokers with COPD, heterogeneous emphysema on CT with a target lobe and ≥90% intact adjacent fissures, FEV1 <50% predicted, TLC >100%, RV >150%, 6MWD <450 m, MRC dyspnoea ≥3; on optimal medical therapy. Exclusions included substantial comorbidity limiting exercise/prognosis, substantial sputum production, or hypoxia (PaO2 <6.5 kPa on air). Randomisation: 1:1 block randomisation (block size 10) via telephone to a central trials unit after sedation; allocation concealed. Masking: Patients and outcome assessors masked; separate procedural and assessment teams. Procedures: BLVR group received Zephyr endobronchial valves aiming for unilateral lobar occlusion; control underwent bronchoscopy with sham valve placement. Chartis collateral ventilation measurements were performed but targeting was based on CT; valves placed irrespective of Chartis result. Post-procedure chest radiograph for pneumothorax. Outcomes at baseline and 3 months: spirometry, gas transfer, body plethysmography lung volumes, endurance cycle ergometry at 70% peak workload with inspiratory capacity maneuvers, 6MWD, SGRQc, CAT. Primary endpoint: between-group difference in percentage change in FEV1. Secondary endpoints: TLIM and dynamic hyperinflation (end-expiratory lung volume at isotime), 6MWD, SGRQc, CAT. Statistics: Intention-to-treat; non-normally distributed changes summarized as median (IQR) and compared via Mann-Whitney; categorical via chi-squared. Missing data imputed using Markov chain Monte Carlo multiple imputation. Significance threshold p<0.05. Sample size: 21 per group for 80% power to detect 15% absolute difference in FEV1 change; 50 recruited to allow 20% drop-out.",
+      "results": "Fifty patients were randomized between March 1, 2012, and Sept 30, 2013 (BLVR n=25; control n=25). Baseline mean FEV1 % predicted was 31.7% (SD 10.2). Primary outcome: median percentage change in FEV1 at 3 months was 8.77% (IQR 2.27-35.85) in BLVR versus 2.88% (0-8.51) in control (Mann-Whitney p=0.0326). Absolute FEV1 change: 0.06 L (0.02-0.38) vs 0.03 L (0-0.06), p=0.0273. Significant improvements were also observed for ΔFRC (p=0.0119), Δ6MWD (median +25 m vs +3 m; p=0.0119), ΔTLCO (p=0.0029), and ΔKCO (p=0.0130). Other lung volume changes trended in favor of BLVR. There were two deaths in the BLVR group. One control patient could not attend follow-up due to a prolonged pneumothorax. ITT analysis included all 50 randomized; 24/25 BLVR and 23/25 control had baseline and follow-up data; imputation was applied as per protocol."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Stable outpatients with COPD and heterogeneous emphysema with an intact target lobe fissure on CT, hyperinflation, exercise limitation, and dyspnoea.",
+      "inclusion_criteria": [
+        "COPD with heterogeneous emphysema and a defined target lobe with >90% intact adjacent interlobar fissures on CT",
+        "FEV1 <50% predicted",
+        "Total lung capacity (TLC) >100% predicted",
+        "Residual volume (RV) >150% predicted",
+        "6-minute walk distance <450 m",
+        "MRC dyspnoea score ≥3",
+        "Ex-smoker",
+        "On optimal medical therapy"
+      ],
+      "exclusion_criteria": [
+        "Substantial comorbidity restricting exercise capacity or prognosis",
+        "Substantial daily sputum production",
+        "Hypoxia: PaO2 <6.5 kPa on room air",
+        "Clinically judged too restricted/frail for bronchoscopy or to tolerate a pneumothorax"
+      ]
+    },
+    "intervention": {
+      "text": "Bronchoscopic lung volume reduction with Zephyr endobronchial valves",
+      "details": "Unilateral lobar occlusion with Zephyr endobronchial valves placed to occlude segmental bronchi of the CT-selected target lobe, irrespective of Chartis result; moderate sedation; post-procedure chest radiograph to assess for pneumothorax."
+    },
+    "comparison": {
+      "text": "Sham bronchoscopy",
+      "details": "Bronchoscopy with sham valve placement performed under identical conditions; post-procedure chest radiograph; identical post-procedure counselling."
+    },
+    "outcomes": [
+      {
+        "name": "Percentage change in FEV1 at 3 months",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Changes in exercise capacity (TLIM, 6MWD) and health status (SGRQc, CAT) at 3 months",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Changes in lung volumes and gas transfer (TLC, RV, FRC, TLCO, KCO) at 3 months",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "RCT",
+    "allocation": "randomized",
+    "blinding": "double-blind",
+    "sites_count": 1,
+    "countries": [
+      "UK"
+    ],
+    "sample_size": {
+      "planned": 50,
+      "enrolled": 50,
+      "analyzed": 50
+    },
+    "analysis_populations": [
+      {
+        "name": "ITT",
+        "description": "All randomized participants; missing data imputed using MCMC multiple imputation",
+        "n": 50
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "Bronchoscopic lung volume reduction with endobronchial valves",
+      "n_randomized": 25,
+      "n_analyzed": 25,
+      "n_completed": 24
+    },
+    {
+      "arm_id": "control",
+      "name": "Sham bronchoscopy (control)",
+      "n_randomized": 25,
+      "n_analyzed": 25,
+      "n_completed": 23
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "fev1_percent_change_3m",
+      "name": "FEV1 percent change from baseline",
+      "type": "continuous",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P3M",
+      "unit": "%",
+      "unit_canonical": "percent",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "median": 8.77,
+            "iqr_lower": 2.27,
+            "iqr_upper": 35.85,
+            "total": 25
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "median": 2.88,
+            "iqr_lower": 0,
+            "iqr_upper": 8.51,
+            "total": 25
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "median_difference",
+        "est": 5.89,
+        "p_value": 0.0326,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Mann-Whitney U test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT",
+        "missing_handling": "Multiple imputation by Markov chain Monte Carlo"
+      },
+      "provenance": {
+        "pages": [
+          1069
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "ΔFEV1 (%) 8.77% (2.27 to 35.85) vs 2.88% (0 to 8.51); p=0.0326"
+      }
+    },
+    {
+      "concept_id": "fev1_absolute_change_3m",
+      "name": "FEV1 absolute change from baseline",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P3M",
+      "unit": "L",
+      "unit_canonical": "liter",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "median": 0.06,
+            "iqr_lower": 0.02,
+            "iqr_upper": 0.38,
+            "total": 25
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "median": 0.03,
+            "iqr_lower": 0,
+            "iqr_upper": 0.06,
+            "total": 25
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "median_difference",
+        "est": 0.03,
+        "p_value": 0.0273,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Mann-Whitney U test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT",
+        "missing_handling": "Multiple imputation by Markov chain Monte Carlo"
+      },
+      "provenance": {
+        "pages": [
+          1069
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "ΔFEV1 (L) 0.06 (0.02 to 0.38) vs 0.03 (0 to 0.06); p=0.0273"
+      }
+    },
+    {
+      "concept_id": "sixmwd_change_3m",
+      "name": "6-minute walk distance change from baseline",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P3M",
+      "unit": "m",
+      "unit_canonical": "meter",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "median": 25,
+            "iqr_lower": 7,
+            "iqr_upper": 64,
+            "total": 25
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "median": 3,
+            "iqr_lower": -14,
+            "iqr_upper": 20,
+            "total": 25
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "median_difference",
+        "est": 22,
+        "p_value": 0.0119,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Mann-Whitney U test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT",
+        "missing_handling": "Multiple imputation by Markov chain Monte Carlo"
+      },
+      "provenance": {
+        "pages": [
+          1070
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "Δ6MWD (m) 25 (7 to 64) vs 3 (-14 to 20); p=0.0119"
+      }
+    },
+    {
+      "concept_id": "tlc_change_l_3m",
+      "name": "Total lung capacity absolute change from baseline",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P3M",
+      "unit": "L",
+      "unit_canonical": "liter",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "median": -0.32,
+            "iqr_lower": -0.7,
+            "iqr_upper": -0.06,
+            "total": 25
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "median": -0.1,
+            "iqr_lower": -0.24,
+            "iqr_upper": 0,
+            "total": 25
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "median_difference",
+        "est": -0.22,
+        "p_value": 0.0603,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Mann-Whitney U test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT",
+        "missing_handling": "Multiple imputation by Markov chain Monte Carlo"
+      },
+      "provenance": {
+        "pages": [
+          1069
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "ΔTLC (L) -0.32 (-0.70 to -0.06) vs -0.10 (-0.24 to 0.00); p=0.0603"
+      }
+    },
+    {
+      "concept_id": "rv_change_l_3m",
+      "name": "Residual volume absolute change from baseline",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P3M",
+      "unit": "L",
+      "unit_canonical": "liter",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "median": -0.26,
+            "iqr_lower": -1.07,
+            "iqr_upper": -0.16,
+            "total": 25
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "median": -0.08,
+            "iqr_lower": -0.39,
+            "iqr_upper": -0.08,
+            "total": 25
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "median_difference",
+        "est": -0.18,
+        "p_value": 0.0798,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Mann-Whitney U test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT",
+        "missing_handling": "Multiple imputation by Markov chain Monte Carlo"
+      },
+      "provenance": {
+        "pages": [
+          1069
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "ΔRV (L) -0.26 (-1.07 to -0.16) vs -0.08 (-0.39 to -0.08); p=0.0798"
+      }
+    },
+    {
+      "concept_id": "frc_change_l_3m",
+      "name": "Functional residual capacity absolute change from baseline",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P3M",
+      "unit": "L",
+      "unit_canonical": "liter",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "median": -0.24,
+            "iqr_lower": -1.14,
+            "iqr_upper": 0.06,
+            "total": 25
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "median": 0.07,
+            "iqr_lower": -0.15,
+            "iqr_upper": 0.2,
+            "total": 25
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "median_difference",
+        "est": -0.31,
+        "p_value": 0.0213,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Mann-Whitney U test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT",
+        "missing_handling": "Multiple imputation by Markov chain Monte Carlo"
+      },
+      "provenance": {
+        "pages": [
+          1069
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "ΔFRC (L) -0.24 (-1.14 to 0.06) vs 0.07 (-0.15 to 0.20); p=0.0213"
+      }
+    },
+    {
+      "concept_id": "tlco_change_3m",
+      "name": "TLCO change from baseline",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P3M",
+      "unit": "mmol/min/kPa",
+      "unit_canonical": "mmol/min/kPa",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "median": 0.3,
+            "iqr_lower": 0.03,
+            "iqr_upper": 0.43,
+            "total": 25
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "median": 0,
+            "iqr_lower": -0.19,
+            "iqr_upper": 0.13,
+            "total": 25
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "median_difference",
+        "est": 0.3,
+        "p_value": 0.0029,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Mann-Whitney U test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT",
+        "missing_handling": "Multiple imputation by Markov chain Monte Carlo"
+      },
+      "provenance": {
+        "pages": [
+          1070
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "ΔTLCO (mmol/min per kPa) 0.30 (0.03 to 0.43) vs 0 (-0.19 to 0.13); p=0.0029"
+      }
+    },
+    {
+      "concept_id": "kco_change_3m",
+      "name": "KCO change from baseline",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P3M",
+      "unit": "mmol/min/kPa/L",
+      "unit_canonical": "mmol/min/kPa/L",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "median": 0.05,
+            "iqr_lower": 0.01,
+            "iqr_upper": 0.11,
+            "total": 25
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "median": 0.01,
+            "iqr_lower": -0.03,
+            "iqr_upper": 0.06,
+            "total": 25
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "median_difference",
+        "est": 0.04,
+        "p_value": 0.013,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Mann-Whitney U test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT",
+        "missing_handling": "Multiple imputation by Markov chain Monte Carlo"
+      },
+      "provenance": {
+        "pages": [
+          1070
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "ΔKCO (mmol/min per kPa per L) 0.05 (0.01 to 0.11) vs 0.01 (-0.03 to 0.06); p=0.0130"
+      }
+    },
+    {
+      "concept_id": "sgrq_total_change_3m",
+      "name": "SGRQc total score change from baseline",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P3M",
+      "unit": "points",
+      "unit_canonical": "points",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "median": -4.4,
+            "iqr_lower": -16.93,
+            "iqr_upper": 6.76,
+            "total": 25
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "median": -3.57,
+            "iqr_lower": -7.67,
+            "iqr_upper": 2.55,
+            "total": 25
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "median_difference",
+        "est": -0.83,
+        "p_value": 0.3454,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Mann-Whitney U test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT",
+        "missing_handling": "Multiple imputation by Markov chain Monte Carlo"
+      },
+      "provenance": {
+        "pages": [
+          1070
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "ΔSGRQc total (points) -4.40 (-16.93 to 6.76) vs -3.57 (-7.67 to 2.55); p=0.3454"
+      }
+    },
+    {
+      "concept_id": "cat_change_3m",
+      "name": "CAT score change from baseline",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P3M",
+      "unit": "points",
+      "unit_canonical": "points",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "median": -2,
+            "iqr_lower": -7,
+            "iqr_upper": 3,
+            "total": 25
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "median": 0,
+            "iqr_lower": -2,
+            "iqr_upper": 2,
+            "total": 25
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "median_difference",
+        "est": -2,
+        "p_value": 0.2269,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Mann-Whitney U test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT",
+        "missing_handling": "Multiple imputation by Markov chain Monte Carlo"
+      },
+      "provenance": {
+        "pages": [
+          1070
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "ΔCAT (points) -2 (-7 to 3) vs 0 (-2 to 2); p=0.2269"
+      }
+    },
+    {
+      "concept_id": "mrc_dyspnoea_change_3m",
+      "name": "MRC dyspnoea score change from baseline",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P3M",
+      "unit": "points",
+      "unit_canonical": "points",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "median": 0,
+            "iqr_lower": -1,
+            "iqr_upper": 0,
+            "total": 25
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "median": 0,
+            "iqr_lower": -1,
+            "iqr_upper": 0,
+            "total": 25
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "median_difference",
+        "est": 0,
+        "p_value": 0.4037,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Mann-Whitney U test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT",
+        "missing_handling": "Multiple imputation by Markov chain Monte Carlo"
+      },
+      "provenance": {
+        "pages": [
+          1070
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "ΔMRC dyspnoea score 0 (-1 to 0) vs 0 (-1 to 0); p=0.4037"
+      }
+    },
+    {
+      "concept_id": "fev1_vc_ratio_change_3m",
+      "name": "FEV1/VC change from baseline",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P3M",
+      "unit": "",
+      "unit_canonical": "ratio",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "median": 6.6,
+            "iqr_lower": 2.61,
+            "iqr_upper": 23.04,
+            "total": 25
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "median": 0.75,
+            "iqr_lower": -4.96,
+            "iqr_upper": 9.52,
+            "total": 25
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "median_difference",
+        "est": 5.85,
+        "p_value": 0.0293,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Mann-Whitney U test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT",
+        "missing_handling": "Multiple imputation by Markov chain Monte Carlo"
+      },
+      "provenance": {
+        "pages": [
+          1069
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "ΔFEV1/VC 6.60 (2.61 to 23.04) vs 0.75 (-4.96 to 9.52); p=0.0293"
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Death",
+      "meddra": {
+        "soc": "General disorders and administration site conditions",
+        "pt": "Death"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "death"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 2,
+          "patients": 2,
+          "percentage": 8,
+          "total": 25
+        },
+        {
+          "arm_id": "control",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 25
+        }
+      ],
+      "period": "Baseline to 3 months",
+      "management": "",
+      "provenance": {
+        "pages": [
+          1068
+        ],
+        "tables": [],
+        "quote": "There were two deaths in the bronchoscopic lung volume reduction group."
+      }
+    },
+    {
+      "event_name": "Pneumothorax",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Pneumothorax"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "hospitalization",
+        "other medically important condition"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 25
+        },
+        {
+          "arm_id": "control",
+          "events": 1,
+          "patients": 1,
+          "percentage": 4,
+          "total": 25
+        }
+      ],
+      "period": "Baseline to 3 months",
+      "management": "",
+      "provenance": {
+        "pages": [
+          1068
+        ],
+        "tables": [],
+        "quote": "One control patient was unable to attend for follow-up assessment because of a prolonged pneumothorax."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "RoB 2",
+    "overall_judgment": "low",
+    "domains": [
+      {
+        "name": "Randomization process",
+        "judgment": "low",
+        "support_for_judgment": "Predetermined block randomization with central allocation via telephone; allocation concealment maintained."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "low",
+        "support_for_judgment": "Double-blind with separate procedural and assessment teams; sham control used."
+      },
+      {
+        "name": "Missing outcome data",
+        "judgment": "low",
+        "support_for_judgment": "Intention-to-treat analysis with prespecified multiple imputation for missing data."
+      },
+      {
+        "name": "Measurement of the outcome",
+        "judgment": "low",
+        "support_for_judgment": "Objective spirometry and standardized tests; assessors masked."
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "low",
+        "support_for_judgment": "Primary and secondary outcomes prespecified in protocol; results reported accordingly."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "emphysema",
+      "endobronchial valve",
+      "bronchoscopic lung volume reduction",
+      "Zephyr",
+      "randomised controlled trial"
+    ],
+    "summary_tldr": "In COPD patients with heterogeneous emphysema and intact fissures, endobronchial valves improved FEV1 and 6MWD at 3 months versus sham but carried risks including two deaths.",
+    "clinical_relevance": "Supports patient selection (heterogeneous emphysema with intact fissures) for valve therapy; demonstrates clinically relevant functional gains with acknowledged procedural risks."
+  }
+}

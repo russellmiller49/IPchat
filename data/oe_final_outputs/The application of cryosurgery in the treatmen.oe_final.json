@@ -1,0 +1,579 @@
+{
+  "source": {
+    "document_id": "The application of cryosurgery in the treatmen",
+    "ingest_date": "2025-08-08T16:14:50.335105+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1016/j.cryobiol.2003.12.003"
+  },
+  "document": {
+    "metadata": {
+      "title": "The application of cryosurgery in the treatment of lung cancer",
+      "year": 2004,
+      "authors": [
+        "Maiwand MO",
+        "Evans JM",
+        "Beeson JE"
+      ],
+      "journal": "Cryobiology",
+      "doi": "10.1016/j.cryobiol.2003.12.003",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Lung cancer is the commonest cause of cancer death, with a very poor survival rate. By the time of diagnosis, most cases are at an advanced stage and about 30% present with symptoms caused by central endobronchial obstruction. Endobronchial cryosurgery is an effective technique to relieve tracheobronchial obstruction caused by lung cancer. Using a nitrous oxide-cooled cryoprobe inserted through a bronchoscope, obstruction is removed to reopen the airway. In this prospective study, 476 consecutive patients (mean age 68.3 years; male:female ratio 1.9:1) with obstructive tracheobronchial tumours underwent a mean of 2.4 cryosurgical treatments. TNM staging: stage II 6.7%, IIIa 21.0%, IIIb 23.9%, IV 48.4%. Symptom improvement among symptomatic patients was observed for haemoptysis 76.4%, cough 69.0%, dyspnoea 59.2%, and chest pain 42.6%. Mean respiratory function improved: FEV1 from 1.38 to 1.47 L (p ≤ 0.0001) and FVC from 1.91 to 2.04 L (p ≤ 0.0001). Mean performance status improved (Karnofsky 59.6 to 75.2; WHO 3.04 to 2.20). Complication rate was 3.5% of treatments. Kaplan-Meier median survival was 8.2 months; 1- and 2-year survival were 38.4% and 15.9%, respectively. Endobronchial cryosurgery provides a safe and effective palliative method for otherwise inoperable lung cancer.",
+      "methods": "Prospective single-institution series (January 1995-June 2002) of 476 inoperable patients with obstructive malignant endobronchial tumours. All patients had confirmed pathology (97.2% histology, 2.8% sputum cytology). Data collected included symptoms (dyspnoea, cough, haemoptysis, chest pain, dysphagia, anorexia, stridor, depression), respiratory function tests (FEV1, FVC), and performance status (WHO and Karnofsky). Diagnostics included chest X-ray and bronchoscopy in all, CT in 38%, mediastinoscopy in 14%. Endobronchial cryosurgery under short-acting IV general anaesthesia used rigid (9.2 mm) or flexible bronchoscope (2.4 mm). A nitrous oxide Joule-Thomson cryoprobe (5 mm or 2.2 mm) was applied to tumour, freezing for 3 minutes per application with 1-2 freeze-thaw cycles depending on depth; multiple applications were performed as needed. Necrotic tumour was removed with rigid biopsy forceps when present. Temperatures at the probe tip were around -70°C; local tissue temperature measurements in prior work showed mean minimum -30°C (SD 5.6) approximately 2 mm from the tip. Bleeding was controlled with topical epinephrine 1:1000. Repeat treatment was typically done at 2 weeks; procedures were repeated upon symptom recurrence.",
+      "results": "Among 476 treated patients (mean age 68.3 years, range 22-88; median 70.0; male:female 1.9:1), histologies included squamous cell 68.3%, adenocarcinoma 15.2%, large cell 2.6%, unclassified NSCLC 5.2%, and small cell 8.7%. NSCLC staging at treatment: II 6.7%, IIIa 21.0%, IIIb 23.9%, IV 48.4%. Prior therapy: radiotherapy 39%, chemotherapy 9%. All patients were symptomatic pre-cryosurgery. Mean FEV1 increased from 1.38 to 1.47 L (p ≤ 0.0001); mean FVC from 1.91 to 2.04 L (p ≤ 0.0001). Mean performance status improved (Karnofsky 59.6 to 75.2; WHO 3.04 to 2.20). Proportions of symptomatic patients improving post-cryosurgery: cough 69.0%, dyspnoea 59.2%, haemoptysis 76.4%, chest pain 42.6%, dysphagia 28.6%, anorexia 47.8%, stridor 37.5%, depression 53.9%. Complications per treatment: bleeding 0.7%, pneumothorax 0.1%, respiratory distress 0.9%, anaesthetic-related 0.2%, cardiac 1.6%; overall 3.5% of treatments. Kaplan-Meier median survival was 8.2 months; 1-year survival 38.4%; 2-year survival 15.9%. Median survival by stage (months; 95% CI): II 15.1 (9.1-22.7), IIIa 8.5 (5.6-11.7), IIIb 9.0 (6.4-11.4), IV 6.6 (5.4-7.7)."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with inoperable malignant endobronchial obstruction due to lung cancer treated at a single UK thoracic surgery center.",
+      "inclusion_criteria": [
+        "Obstructive malignant endobronchial tumour",
+        "Inoperable by conventional surgical resection",
+        "Advanced disease and/or poor lung function or poor general health",
+        "Pathology confirmed (histology or sputum cytology)"
+      ],
+      "exclusion_criteria": [
+        "Not reported"
+      ]
+    },
+    "intervention": {
+      "text": "Endobronchial cryosurgery",
+      "details": "Nitrous oxide Joule-Thomson cryoprobe via rigid or flexible bronchoscope; 3-minute freeze per application; 1 freeze-thaw for superficial lesions, 2 cycles for >3 mm depth; multiple applications as needed; necrotic tumour debulked; repeat session at 2 weeks; repeated as symptoms recur."
+    },
+    "comparison": {
+      "text": "None (single-arm study)",
+      "details": "No concurrent control group; outcomes compared pre- vs post-treatment within patients."
+    },
+    "outcomes": [
+      {
+        "name": "Change in FEV1",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Change in FVC",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Change in performance status (Karnofsky, WHO)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Symptom improvement among symptomatic patients",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Complication rate per treatment",
+        "type": "safety",
+        "umls_cui": ""
+      },
+      {
+        "name": "Overall survival (median, 1-year, 2-year)",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Prospective single-arm cohort",
+    "allocation": "non-randomized",
+    "blinding": "open-label",
+    "sites_count": 1,
+    "countries": [
+      "UK"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 476,
+      "analyzed": 476
+    },
+    "analysis_populations": [
+      {
+        "name": "All treated",
+        "description": "All patients who underwent at least one cryosurgery session",
+        "n": 476
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "Endobronchial cryosurgery",
+      "n_randomized": 0,
+      "n_analyzed": 476,
+      "n_completed": 0
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "fev1_absolute_change_post",
+      "name": "Absolute change in FEV1 from pre- to post-cryosurgery",
+      "type": "continuous",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P0M",
+      "timepoint_label": "Post-procedure (early follow-up)",
+      "unit": "L",
+      "unit_canonical": "liter",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean_pre": 1.38,
+            "mean_post": 1.47,
+            "mean_change": 0.09,
+            "total": 476
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "",
+        "measure": "within_group_change",
+        "est": 0.09,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.0001,
+        "p_operator": "<=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "paired t-test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated",
+        "missing_handling": "not reported"
+      },
+      "provenance": {
+        "pages": [
+          57
+        ],
+        "tables": [
+          "Table 1"
+        ],
+        "table_number": 1,
+        "quote": "Fixed expiry volume in 1 s/litres 1.38 1.47 (p ≤ 0.0001)"
+      }
+    },
+    {
+      "concept_id": "fvc_absolute_change_post",
+      "name": "Absolute change in FVC from pre- to post-cryosurgery",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0M",
+      "timepoint_label": "Post-procedure (early follow-up)",
+      "unit": "L",
+      "unit_canonical": "liter",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean_pre": 1.91,
+            "mean_post": 2.04,
+            "mean_change": 0.13,
+            "total": 476
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "",
+        "measure": "within_group_change",
+        "est": 0.13,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.0001,
+        "p_operator": "<=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "paired t-test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated",
+        "missing_handling": "not reported"
+      },
+      "provenance": {
+        "pages": [
+          57
+        ],
+        "tables": [
+          "Table 1"
+        ],
+        "table_number": 1,
+        "quote": "Forced vital capacity/litres 1.91 2.04 (p ≤ 0.0001)"
+      }
+    },
+    {
+      "concept_id": "karnofsky_change_post",
+      "name": "Change in Karnofsky performance status",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0M",
+      "timepoint_label": "Post-procedure (early follow-up)",
+      "unit": "score",
+      "unit_canonical": "score",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean_pre": 59.6,
+            "mean_post": 75.2,
+            "mean_change": 15.6,
+            "total": 476
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "",
+        "measure": "within_group_change",
+        "est": 15.6,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "pre-post comparison",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated",
+        "missing_handling": "not reported"
+      },
+      "provenance": {
+        "pages": [
+          57
+        ],
+        "tables": [
+          "Table 1"
+        ],
+        "table_number": 1,
+        "quote": "Karnofsky performance status 59.6 75.2"
+      }
+    },
+    {
+      "concept_id": "who_ps_change_post",
+      "name": "Change in WHO performance status",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0M",
+      "timepoint_label": "Post-procedure (early follow-up)",
+      "unit": "score",
+      "unit_canonical": "score",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean_pre": 3.04,
+            "mean_post": 2.2,
+            "mean_change": -0.84,
+            "total": 476
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "",
+        "measure": "within_group_change",
+        "est": -0.84,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "pre-post comparison",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated",
+        "missing_handling": "not reported"
+      },
+      "provenance": {
+        "pages": [
+          57
+        ],
+        "tables": [
+          "Table 1"
+        ],
+        "table_number": 1,
+        "quote": "WHO performance status 3.04 2.20"
+      }
+    },
+    {
+      "concept_id": "overall_survival",
+      "name": "Overall survival",
+      "type": "time_to_event",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "Follow-up",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "median_months": 8.2,
+            "survival_1y_percent": 38.4,
+            "survival_2y_percent": 15.9,
+            "total": 476
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "",
+        "measure": "single_group_summary",
+        "est": 8.2,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Kaplan-Meier",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated",
+        "missing_handling": "not reported"
+      },
+      "provenance": {
+        "pages": [
+          57
+        ],
+        "tables": [],
+        "quote": "The Kaplan-Meier median survival was 8.2 months ... 1-year survival 38.4% and 2-year survival 15.9%."
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Procedural haemorrhage",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Procedural haemorrhage"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": null,
+          "patients": null,
+          "percentage": 0.7,
+          "total": null
+        }
+      ],
+      "period": "Peri-procedural",
+      "management": "Moderate bleeding contained by local application of epinephrine 1:1000.",
+      "provenance": {
+        "pages": [
+          57
+        ],
+        "tables": [],
+        "quote": "Complications were bleeding 0.7% ... and the overall rate was 3.5% of treatments."
+      }
+    },
+    {
+      "event_name": "Pneumothorax",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Pneumothorax"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "hospitalization"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": null,
+          "patients": null,
+          "percentage": 0.1,
+          "total": null
+        }
+      ],
+      "period": "Peri-procedural",
+      "management": "",
+      "provenance": {
+        "pages": [
+          57
+        ],
+        "tables": [],
+        "quote": "Complications were ... pneumothorax 0.1% ..."
+      }
+    },
+    {
+      "event_name": "Respiratory distress",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Respiratory distress"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "other medically important"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": null,
+          "patients": null,
+          "percentage": 0.9,
+          "total": null
+        }
+      ],
+      "period": "Peri-procedural",
+      "management": "",
+      "provenance": {
+        "pages": [
+          57
+        ],
+        "tables": [],
+        "quote": "Complications were ... respiratory distress 0.9% ..."
+      }
+    },
+    {
+      "event_name": "Complication of anaesthesia",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Complication of anaesthesia"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "other medically important"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": null,
+          "patients": null,
+          "percentage": 0.2,
+          "total": null
+        }
+      ],
+      "period": "Peri-procedural",
+      "management": "",
+      "provenance": {
+        "pages": [
+          57
+        ],
+        "tables": [],
+        "quote": "Complications were ... anaesthetic related 0.2% ..."
+      }
+    },
+    {
+      "event_name": "Cardiac disorder",
+      "meddra": {
+        "soc": "Cardiac disorders",
+        "pt": "Cardiac disorder"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "hospitalization"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": null,
+          "patients": null,
+          "percentage": 1.6,
+          "total": null
+        }
+      ],
+      "period": "Peri-procedural",
+      "management": "",
+      "provenance": {
+        "pages": [
+          57
+        ],
+        "tables": [],
+        "quote": "Complications were ... cardiac 1.6% ..."
+      }
+    },
+    {
+      "event_name": "Any complication",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Procedural complication"
+      },
+      "serious": null,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": null,
+          "patients": null,
+          "percentage": 3.5,
+          "total": null
+        }
+      ],
+      "period": "Peri-procedural",
+      "management": "",
+      "provenance": {
+        "pages": [
+          57
+        ],
+        "tables": [],
+        "quote": "the overall rate was 3.5% of treatments."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "ROBINS-I",
+    "overall_judgment": "serious",
+    "domains": [
+      {
+        "name": "Confounding",
+        "judgment": "serious",
+        "support_for_judgment": "Single-arm pre-post design without control group; potential temporal and co-intervention confounding."
+      },
+      {
+        "name": "Selection of participants",
+        "judgment": "moderate",
+        "support_for_judgment": "Consecutive inoperable patients at a single institution; selection may favor those eligible for bronchoscopy."
+      },
+      {
+        "name": "Classification of interventions",
+        "judgment": "low",
+        "support_for_judgment": "Intervention well described and consistently applied."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "low",
+        "support_for_judgment": "Procedural details standardized; repeat sessions per protocol."
+      },
+      {
+        "name": "Missing data",
+        "judgment": "unclear",
+        "support_for_judgment": "No explicit reporting of missing outcome data or follow-up completeness."
+      },
+      {
+        "name": "Measurement of outcomes",
+        "judgment": "moderate",
+        "support_for_judgment": "Outcomes include objective spirometry but symptom improvement based on clinical assessment without blinding."
+      },
+      {
+        "name": "Selection of reported result",
+        "judgment": "unclear",
+        "support_for_judgment": "No protocol available; selective reporting cannot be excluded."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "cryosurgery",
+      "endobronchial",
+      "lung cancer",
+      "bronchoscopy",
+      "airway obstruction",
+      "palliation"
+    ],
+    "summary_tldr": "In a prospective single-arm cohort of 476 inoperable lung cancer patients with endobronchial obstruction, cryosurgery improved FEV1 (+0.09 L, p ≤ 0.0001), FVC (+0.13 L, p ≤ 0.0001), and performance status, with a 3.5% procedural complication rate and median survival of 8.2 months.",
+    "clinical_relevance": "Supports endobronchial cryosurgery as a palliative option to rapidly recanalize obstructed airways, improve symptoms and function, and enable further oncologic therapy in inoperable lung cancer."
+  }
+}

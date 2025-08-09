@@ -1,0 +1,364 @@
+{
+  "source": {
+    "document_id": "Intrapleural use of tissue plasminogen activat",
+    "ingest_date": "2025-08-08T13:33:16.339965+00:00",
+    "trial_registration_id": "ISRCTN57454527",
+    "pmid": "21830966",
+    "doi": "10.1056/NEJMoa1012740"
+  },
+  "document": {
+    "metadata": {
+      "title": "Intrapleural Use of Tissue Plasminogen Activator and DNase in Pleural Infection",
+      "year": 2011,
+      "authors": [
+        "Najib M. Rahman",
+        "Nicholas A. Maskell",
+        "Alex West",
+        "Richard Teoh",
+        "Anthony Arnold",
+        "Carolyn Mackinlay",
+        "Daniel Peckham",
+        "Chris W.H. Davies",
+        "Nabeel Ali",
+        "William Kinnear",
+        "Andrew Bentley",
+        "Brennan C. Kahan",
+        "John M. Wrightson",
+        "Helen E. Davies",
+        "Clare E. Hooper",
+        "Y.C. Gary Lee",
+        "Emma L. Hedley",
+        "Nicky Crosthwaite",
+        "Louise Choo",
+        "Emma J. Helm",
+        "Fergus V. Gleeson",
+        "Andrew J. Nunn",
+        "Robert J.O. Davies"
+      ],
+      "journal": "New England Journal of Medicine",
+      "doi": "10.1056/NEJMoa1012740",
+      "pmid": "21830966"
+    },
+    "sections": {
+      "abstract": "Background: More than 30% of patients with pleural infection either die or require surgery. Drainage of infected fluid is key to successful treatment, but intrapleural fibrinolytic therapy did not improve outcomes in an earlier, large, randomized trial. Methods: We conducted a blinded, 2-by-2 factorial trial in which 210 patients with pleural infection were randomly assigned to receive one of four study treatments for 3 days: double placebo, intrapleural tissue plasminogen activator (t-PA) and DNase, t-PA and placebo, or DNase and placebo. The primary outcome was the change in pleural opacity, measured as the percentage of the hemithorax occupied by effusion, on chest radiography on day 7 as compared with day 1. Secondary outcomes included referral for surgery, duration of hospital stay, and adverse events. Results: The mean (±SD) change in pleural opacity was greater in the t-PA-DNase group than in the placebo group (-29.5±23.3% vs. -17.2±19.6%; difference, -7.9%; 95% confidence interval [CI], -13.4 to -2.4; P=0.005); the change observed with t-PA alone and with DNase alone (-17.2±24.3 and -14.7±16.4%, respectively) was not significantly different from that observed with placebo. The frequency of surgical referral at 3 months was lower in the t-PA-DNase group than in the placebo group (2 of 48 patients [4%] vs. 8 of 51 patients [16%]; odds ratio for surgical referral, 0.17; 95% CI, 0.03 to 0.87; P=0.03) but was greater in the DNase group (18 of 46 patients [39%]) than in the placebo group (odds ratio, 3.56; 95% CI, 1.30 to 9.75; P=0.01). Combined t-PA-DNase therapy was associated with a reduction in the hospital stay, as compared with placebo (difference, -6.7 days; 95% CI, -12.0 to -1.9; P=0.006); the hospital stay with either agent alone was not significantly different from that with placebo. The frequency of adverse events did not differ significantly among the groups. Conclusions: Intrapleural t-PA-DNase therapy improved fluid drainage in patients with pleural infection and reduced the frequency of surgical referral and the duration of the hospital stay. Treatment with DNase alone or t-PA alone was ineffective.",
+      "methods": "This double-blind, double-dummy, 2×2 factorial randomized trial (MIST2) was conducted at 11 UK centers from December 2005 to November 2008. Adults with pleural infection were randomized centrally by minimization to one of four treatment groups: t-PA plus DNase, t-PA plus placebo, DNase plus placebo, or double placebo. Doses: intrapleural DNase 5 mg and t-PA 10 mg, each given twice daily for 3 days; chest drains were clamped for 1 hour post-administration. The primary endpoint was the change in the percentage of ipsilateral hemithorax occupied by pleural effusion on chest radiograph from day 1 to day 7, measured digitally by two independent assessors. Secondary endpoints included relative change in opacity, referral for thoracic surgery at 3 and 12 months, hospital length of stay, drained fluid volume to day 7, changes in inflammatory markers to day 7, mortality at 3 and 12 months, and adverse events. Analyses followed a modified intention-to-treat approach excluding patients who received no study medication or had <5% baseline opacity. Continuous outcomes used linear regression; binary outcomes used logistic regression; longitudinal markers used mixed-effects models. All models adjusted for baseline effusion area and minimization factors. A test for interaction between t-PA and DNase preceded factorial analysis; significant interaction led to comparisons of each active group vs double placebo.",
+      "results": "A total of 210 participants were randomized: 55 to double placebo, 52 to t-PA only, 51 to DNase only, and 52 to t-PA plus DNase. Six received no study medication and 11 had <5% baseline opacity, leaving 193 in the primary analysis (51 placebo, 48 t-PA, 46 DNase, 48 t-PA-DNase). There was a significant interaction between t-PA and DNase for the primary outcome (P=0.002). The mean change in pleural opacity from day 1 to day 7 was -29.5±23.3% with t-PA-DNase vs -17.2±19.6% with placebo; adjusted difference -7.9% (95% CI, -13.4 to -2.4; P=0.005). t-PA alone (-17.2±24.3%) and DNase alone (-14.7±16.4%) did not differ from placebo. Surgical referral by 3 months occurred in 2/48 (4%) with t-PA-DNase vs 8/51 (16%) with placebo (adjusted OR 0.17; 95% CI, 0.03-0.87; P=0.03). DNase alone increased referrals (18/46 [39%]; OR 3.56; 95% CI, 1.30-9.75; P=0.01), while t-PA alone was not significantly different (3/48 [6%]; OR 0.29; 95% CI, 0.07-1.25; P=0.10). Actual surgery within 90 days occurred in 2/48 (4%) with t-PA-DNase vs 6/51 (12%) with placebo (post hoc OR 0.23; 95% CI, 0.04-1.29; P=0.10). Hospital stay was reduced with t-PA-DNase vs placebo (adjusted mean difference -6.7 days; 95% CI, -12.0 to -1.9; P=0.006). Adverse event frequencies did not differ significantly among groups."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with pleural infection requiring chest tube drainage across 11 centers in the UK.",
+      "inclusion_criteria": [
+        "Clinical evidence of infection (e.g., fever, elevated C-reactive protein, or elevated white-cell count)",
+        "Pleural fluid macroscopically purulent OR positive bacterial culture OR positive Gram stain OR pleural fluid pH < 7.2 measured by blood-gas analyzer"
+      ],
+      "exclusion_criteria": [
+        "Age < 18 years",
+        "Previous intrapleural fibrinolytic or DNase treatment for empyema",
+        "Known sensitivity to DNase or t-PA",
+        "Coincidental stroke",
+        "Major hemorrhage or major trauma",
+        "Major surgery within previous 5 days",
+        "Previous pneumonectomy on infected side",
+        "Pregnancy or lactation",
+        "Expected survival < 3 months from conditions unrelated to pleural disease"
+      ]
+    },
+    "intervention": {
+      "text": "Intrapleural t-PA plus DNase",
+      "details": "t-PA 10 mg and DNase 5 mg, each administered intrapleurally twice daily for 3 days; chest drain clamped for 1 hour after each instillation (double-dummy)."
+    },
+    "comparison": {
+      "text": "Double placebo",
+      "details": "Placebo instillations matching t-PA and DNase, administered intrapleurally twice daily for 3 days with 1-hour drain clamping; background standard care with antibiotics and chest-tube drainage."
+    },
+    "outcomes": [
+      {
+        "name": "Change in pleural opacity (% hemithorax) from day 1 to day 7 on chest radiography",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Referral for thoracic surgery by 3 months",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Hospital length of stay from randomization to discharge",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "RCT",
+    "allocation": "randomized",
+    "blinding": "double-blind",
+    "sites_count": 11,
+    "countries": [
+      "UK"
+    ],
+    "sample_size": {
+      "planned": 210,
+      "enrolled": 210,
+      "analyzed": 193
+    },
+    "analysis_populations": [
+      {
+        "name": "mITT",
+        "description": "Modified intention-to-treat: received ≥1 dose and baseline opacity ≥5%",
+        "n": 193
+      },
+      {
+        "name": "ITT",
+        "description": "All randomized participants",
+        "n": 210
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "t-PA + DNase intrapleural therapy",
+      "n_randomized": 52,
+      "n_analyzed": 48,
+      "n_completed": 48
+    },
+    {
+      "arm_id": "control",
+      "name": "Double placebo intrapleural therapy",
+      "n_randomized": 55,
+      "n_analyzed": 51,
+      "n_completed": 51
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "change_pleural_opacity_day7",
+      "name": "Change in pleural opacity from day 1 to day 7",
+      "type": "continuous",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P7D",
+      "timepoint_label": "Day 7",
+      "unit": "% hemithorax area",
+      "unit_canonical": "percent",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": -29.5,
+            "sd": 23.3,
+            "total": 48
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "mean": -17.2,
+            "sd": 19.6,
+            "total": 51
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "mean_difference",
+        "est": -7.9,
+        "ci_lower": -13.4,
+        "ci_upper": -2.4,
+        "ci_level": 0.95,
+        "p_value": 0.005,
+        "p_operator": "=",
+        "adjusted": true
+      },
+      "analysis": {
+        "model": "Linear regression (ANCOVA-style)",
+        "adjusted": true,
+        "covariates": [
+          "baseline effusion area (% hemithorax)",
+          "purulent pleural fluid (yes/no)",
+          "infection acquisition (community vs hospital)",
+          "initial collection ≤30% hemithorax (yes/no)"
+        ],
+        "population": "mITT",
+        "missing_handling": "Last available post-baseline radiograph carried forward for deaths/surgery prior to day 7",
+        "interaction_test_p_value": 0.002
+      },
+      "provenance": {
+        "pages": [
+          521,
+          522
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "The mean (±SD) change in pleural opacity was greater in the t-PA-DNase group than in the placebo group (-29.5±23.3% vs. -17.2±19.6%; difference, -7.9%; 95% CI, -13.4 to -2.4; P=0.005)."
+      }
+    },
+    {
+      "concept_id": "surgical_referral_3m",
+      "name": "Referral for thoracic surgery",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P3M",
+      "timepoint_label": "3 months",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 2,
+            "total": 48
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 8,
+            "total": 51
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "odds_ratio",
+        "est": 0.17,
+        "ci_lower": 0.03,
+        "ci_upper": 0.87,
+        "ci_level": 0.95,
+        "p_value": 0.03,
+        "p_operator": "=",
+        "adjusted": true
+      },
+      "analysis": {
+        "model": "Logistic regression",
+        "adjusted": true,
+        "covariates": [
+          "baseline effusion area (% hemithorax)",
+          "purulent pleural fluid (yes/no)",
+          "infection acquisition (community vs hospital)",
+          "initial collection ≤30% hemithorax (yes/no)"
+        ],
+        "population": "mITT"
+      },
+      "provenance": {
+        "pages": [
+          522
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "The frequency of surgical referral at 3 months was lower in the t-PA-DNase group than in the placebo group (2 of 48 patients [4%] vs. 8 of 51 patients [16%]; odds ratio for surgical referral, 0.17; 95% CI, 0.03 to 0.87; P=0.03)."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.266
+        },
+        "odds_ratio": {
+          "est": 0.234
+        },
+        "arr": -0.115,
+        "nnh": 8.7
+      }
+    },
+    {
+      "concept_id": "length_of_stay_days",
+      "name": "Hospital length of stay",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "Index hospitalization",
+      "unit": "days",
+      "unit_canonical": "day",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "total": 48
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "total": 51
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "mean_difference",
+        "est": -6.7,
+        "ci_lower": -12.0,
+        "ci_upper": -1.9,
+        "ci_level": 0.95,
+        "p_value": 0.006,
+        "p_operator": "=",
+        "adjusted": true
+      },
+      "analysis": {
+        "model": "Linear regression",
+        "adjusted": true,
+        "covariates": [
+          "baseline effusion area (% hemithorax)",
+          "purulent pleural fluid (yes/no)",
+          "infection acquisition (community vs hospital)",
+          "initial collection ≤30% hemithorax (yes/no)"
+        ],
+        "population": "mITT"
+      },
+      "provenance": {
+        "pages": [
+          519,
+          522
+        ],
+        "tables": []
+      }
+    }
+  ],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "RoB 2",
+    "overall_judgment": "low",
+    "domains": [
+      {
+        "name": "Randomization process",
+        "judgment": "low",
+        "support_for_judgment": "Central randomization by minimization with a random component; baseline characteristics balanced."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "low",
+        "support_for_judgment": "Double-blind, double-dummy design; identical placebos; dosing protocolized."
+      },
+      {
+        "name": "Missing outcome data",
+        "judgment": "low",
+        "support_for_judgment": "Primary outcome available for all randomized; last available radiograph used for those who died/underwent surgery before day 7."
+      },
+      {
+        "name": "Measurement of the outcome",
+        "judgment": "low",
+        "support_for_judgment": "Digital chest radiograph measurements by two assessors; blinded; validated against CT."
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "low",
+        "support_for_judgment": "Pre-specified statistical analysis plan; reported primary and secondary outcomes as planned."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "pleural infection",
+      "empyema",
+      "intrapleural therapy",
+      "tissue plasminogen activator",
+      "DNase",
+      "fibrinolytic",
+      "MIST2"
+    ],
+    "summary_tldr": "In adults with pleural infection, intrapleural t-PA + DNase improved radiographic clearance at day 7 and reduced 3-month surgical referrals and hospital stay versus placebo.",
+    "clinical_relevance": "Provides high-quality evidence supporting combined t-PA and DNase intrapleural therapy to enhance drainage and reduce escalation to surgery in pleural infection."
+  }
+}

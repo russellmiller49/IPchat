@@ -1,0 +1,242 @@
+{
+  "source": {
+    "document_id": "Reichle-2000-[Argon plasma coagulation in bron",
+    "ingest_date": "2025-08-08T15:08:33.333896+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": ""
+  },
+  "document": {
+    "metadata": {
+      "title": "Argonplasmakoagulation (APC) in der Bronchologie",
+      "year": 2000,
+      "authors": [
+        "Reichle"
+      ],
+      "journal": "",
+      "doi": "",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Die Argonplasmakoagulation (APC) ist ein bronchoskopisches Verfahren zur kontaktfreien Koagulation mittels ionisiertem Argon und hochfrequentem Strom. In einer monozentrischen Erfahrung über vier Jahre (Einführung 06/1994) wurde APC zur Rekanalisation maligner Tumorstenosen, zur Blutstillung (Hämoptoe), zur Rekanalisation von Stent-In- und Overgrowth sowie zur Fistel-Konditionierung eingesetzt. Ergebnisse zeigen hohe Erfolgsraten bei der Rekanalisation und eine sehr hohe sofortige Blutstillungsrate.",
+      "methods": "APC wurde mit einer Argon-Gasquelle, einem HF-Generator (max. 5000 V, Leistungsbegrenzung 40-80 W) und flexiblen bzw. starren Applikationssonden über flexible oder starre Bronchoskope angewandt. Empfohlener Argonfluss 0.3-2 L/min (je nach Sondendurchmesser). Arbeitsabstand bis 10 mm; Koagulationstiefe ca. 2 mm nach 2 s, 3 mm nach 5 s, 4 mm bei längerer Applikation. Monopolare Technik mit Neutralelektrode am Oberarm. Kombinationen mit mechanischer Tumorabtragung, Laser, Chemo-/Radiotherapie und Stents wurden nach Bedarf eingesetzt.",
+      "results": "Bei 186 Patienten mit malignen Tumorstenosen wurde das Behandlungsziel in 67% (Teil- oder Vollrekanalisation, 111 Teil, 13 voll) erreicht; eine geringe Wiedereröffnung gelang in 29% (n=55); kein Effekt bei 7 Patienten (4%). Die akute Blutstillung einer Hämoptoe gelang bei 118 von 119 Patienten; 1 benötigte eine sofortige Operation. Die Rekanalisation komplett oder teilverlegter Stents gelang bei 36 Patienten in 49 Anwendungen komplikationslos; weder Stents noch umgebendes Gewebe wurden geschädigt. Die Anzahl der Eingriffe pro Patient betrug im Mittel 1.36 (Spanne 1-7)."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Erwachsene Patienten mit zentralen Atemwegsproblemen, insbesondere maligne Tumorstenosen, Hämoptoe, Stent-In-/Overgrowth oder bronchopleurale Fisteln, behandelt in einer bronchoskopischen Interventionsklinik.",
+      "inclusion_criteria": [
+        "Zentrale bronchoskopisch zugängliche Läsionen",
+        "Maligne Tumorstenose der Trachea/Bronchien",
+        "Klinisch relevante Hämoptoe",
+        "Teil- oder komplett verlegte Atemwegsstents",
+        "Bronchopleurale Fistel"
+      ],
+      "exclusion_criteria": [
+        "Kein funktionsfähiges nachgeschaltetes Lungenareal",
+        "Nicht bronchoskopisch zugängliche Läsionen"
+      ]
+    },
+    "intervention": {
+      "text": "Argonplasmakoagulation (APC)",
+      "details": "Monopolare APC mit Argonfluss 0.3-2 L/min, Leistung 40-80 W, Arbeitsabstand bis 10 mm, flexible/starrer Zugang; ggf. Kombination mit mechanischer Debulking, Laser, Radiochemotherapie oder Stent."
+    },
+    "comparison": {
+      "text": "Kein Vergleichsarm (einarmige, beobachtende Serie)",
+      "details": ""
+    },
+    "outcomes": [
+      {
+        "name": "Erfolg der Rekanalisation bei malignen Tumorstenosen (Teil- oder Vollrekanalisation)",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Sofortige Blutstillung (Hämoptoe)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Erfolg der Rekanalisation von Stent-In-/Overgrowth",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "observational",
+    "allocation": "nonrandomized",
+    "blinding": "none",
+    "sites_count": 1,
+    "countries": [
+      "DE"
+    ],
+    "sample_size": {
+      "planned": null,
+      "enrolled": null,
+      "analyzed": 186
+    },
+    "analysis_populations": [
+      {
+        "name": "Maligne Stenosen",
+        "description": "Alle Patienten mit malignen Tumorstenosen",
+        "n": 186
+      },
+      {
+        "name": "Hämoptoe",
+        "description": "Patienten mit akuter Blutung behandelt mit APC",
+        "n": 119
+      },
+      {
+        "name": "Stent-In/Overgrowth",
+        "description": "Patienten mit teilweise/komplett verlegten Stents",
+        "n": 36
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "apc",
+      "name": "Argonplasmakoagulation (APC)",
+      "n_randomized": 0,
+      "n_analyzed": 186,
+      "n_completed": 186
+    },
+    {
+      "arm_id": "control",
+      "name": "Kein Kontrollarm",
+      "n_randomized": 0,
+      "n_analyzed": 0,
+      "n_completed": 0
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "recanalization_success_malignant_stenosis_immediate",
+      "name": "Rekanalisationserfolg (Teil- oder Vollrekanalisation) bei malignen Tumorstenosen",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "unmittelbar",
+      "groups": [
+        {
+          "arm_id": "apc",
+          "raw": {
+            "events": 124,
+            "total": 186
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Maligne Stenosen",
+        "missing_handling": "Complete case"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [
+          "Table 4"
+        ],
+        "table_number": 4,
+        "quote": "Tab. 4: Rekanalisierung bei 186 Patienten: nein 7 (4%), gering 55 (29%), Teil 111 (60%), voll 13 (7%)."
+      }
+    },
+    {
+      "concept_id": "hemostasis_success_hemoptysis_immediate",
+      "name": "Sofortige Blutstillung (Hämoptoe)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "unmittelbar",
+      "groups": [
+        {
+          "arm_id": "apc",
+          "raw": {
+            "events": 118,
+            "total": 119
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Hämoptoe",
+        "missing_handling": "Complete case"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [
+          "Table 5"
+        ],
+        "quote": "Die akute Blutstillung einer Hämoptoe erfolgte bei 119 Patienten ... Das Therapieziel wurde bei 118 Patienten erreicht."
+      }
+    },
+    {
+      "concept_id": "stent_recanalization_success_immediate",
+      "name": "Erfolg der Stent-Rekanalisation (Stent-In-/Overgrowth)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "unmittelbar",
+      "groups": [
+        {
+          "arm_id": "apc",
+          "raw": {
+            "events": 36,
+            "total": 36
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Stent-In/Overgrowth",
+        "missing_handling": "Complete case"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "Die Rekanalisierung komplett- oder teilverlegter Stents gelang bei 36 Patienten in 49 Applikationen komplikationslos."
+      }
+    }
+  ],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "ROBINS-I",
+    "overall_judgment": "serious",
+    "domains": [
+      {
+        "name": "Bias due to confounding",
+        "judgment": "serious",
+        "support_for_judgment": "Einarmige, beobachtende Serie ohne Kontrollgruppe; mögliche Selektion und zeitliche Trends."
+      },
+      {
+        "name": "Bias in selection of participants",
+        "judgment": "moderate",
+        "support_for_judgment": "Klinikbasierte Kohorte; Einschluss nach Indikation."
+      },
+      {
+        "name": "Bias in measurement of outcomes",
+        "judgment": "moderate",
+        "support_for_judgment": "Ergebnisse unmittelbar nach Intervention, nicht verblindet."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "Argonplasmakoagulation",
+      "APC",
+      "Bronchoskopie",
+      "maligne Tumorstenose",
+      "Hämoptoe",
+      "Stent Overgrowth"
+    ],
+    "summary_tldr": "In einer monozentrischen Serie erreichte APC eine Teil-/Vollrekanalisation bei 124/186 (66.7%) malignen Stenosen und eine sofortige Blutstillung bei 118/119 (99.2%) Hämoptoe-Fällen; Stent-Rekanalisation gelang bei 36/36 komplikationslos.",
+    "clinical_relevance": "APC ist eine praktikable Alternative/Ergänzung zur Lasertherapie zur sofortigen Rekanalisation und Blutstillung in der Bronchologie."
+  }
+}

@@ -1,0 +1,571 @@
+{
+  "source": {
+    "document_id": "Koshy-2021-Safety of delivering bronchial ther",
+    "ingest_date": "2025-08-08T13:59:18.697276+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1186/s12931-021-01901-x"
+  },
+  "document": {
+    "metadata": {
+      "title": "Safety of delivering bronchial thermoplasty in two treatment sessions",
+      "year": 2021,
+      "authors": [
+        "Kavya Koshy",
+        "Joy Sha",
+        "Kim Bennetts",
+        "David Langton"
+      ],
+      "journal": "Respiratory Research",
+      "doi": "10.1186/s12931-021-01901-x",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Background: Bronchial thermoplasty (BT) is a novel endoscopic therapy for severe asthma. Traditionally it is performed in three separate treatment sessions, targeting different portions of the lung, and each requires an anaesthetic and hospital admission. Compression of treatment into 2 sessions would present a more convenient alternative for patients. In this prospective observational study, the safety of compressing BT into two treatment sessions was compared with the traditional 3 treatment approach. Methods: Sixteen patients meeting ERS/ATS criteria for severe asthma consented to participate in an accelerated treatment schedule (ABT), which treated the whole left lung followed by the right lung four weeks later. The short-term outcomes of these patients were compared with 37 patients treated with conventional BT scheduling (CBT). The outcome measures used to assess safety were (1) the requirement to remain in hospital beyond the electively planned 24-h admission and (2) the need for re-admission for any cause within of 30 days of treatment. Results: The total number of radiofrequency activations delivered in the ABT group was similar to CBT (187 ±21 vs 176 ±40, p =0.326). With ABT, 11 in 31 admissions (37.9%) required prolonged admission due to wheezing, compared to 5.4% with CBT (p =0.0025). The mean hospital length of stay with ABT was 1.8 ±1.3 days, compared to 1.1 ±0.4 days (p < 0.001). ICU monitoring was required on 5 occasions with ABT (16.1%), compared to 0.9% with CBT (p =0.002). Subgroup analysis demonstrated that females were more likely to require prolonged admission (OR 11.6, p =0.0025). The 30-day hospital readmission rate was similar for both groups (6.4% vs 5.4%, p =0.67). All patients made a complete recovery after treatment with similar outcomes at the 6-month follow-up reassessment. Conclusion: This study demonstrates that ABT results in greater short-term deterioration in lung function associated with a greater risk of prolonged hospital and ICU stay, predominantly affecting females. Therefore, in females, these risks need to be balanced against the convenience of fewer treatment sessions. In males, it may be an advantage to compress treatment.",
+      "methods": "Single-centre, prospective, observational study at a tertiary referral centre. Sixteen patients with severe asthma (ERS/ATS definition) underwent an accelerated, two-session BT schedule (whole left lung then whole right lung 4 weeks later). Outcomes were compared with a historical cohort of 37 patients treated with conventional three-session BT prior to January 2019. All patients received standard peri-procedural steroids (prednisolone 50 mg daily for 3 days pre- and post-procedure), inhaled bronchodilators pre-procedure, and intraoperative dexamethasone and glycopyrrolate. Primary safety outcomes: (1) admission >24 h (prolonged hospital stay) and (2) readmission within 30 days for any cause. Post-bronchodilator FEV1 was measured immediately preoperatively and again at 24 h post-procedure for quantifying short-term change (available for all 16 accelerated patients and for 20 conventional patients). Secondary outcomes at baseline and 6 months post-completion included ACQ-5, exacerbation frequency, medication use, and spirometry. Statistical tests: t-test for normally distributed data, Wilcoxon tests for non-normal data, and Fisher’s exact test for categorical comparisons. Two-tailed significance set at p < 0.05.",
+      "results": "In the accelerated group, 15/16 patients completed both sessions (one declined second session). Conventional BT patients (n=37) completed all 111 treatments. Total radiofrequency activations were similar (accelerated 187 ±21 vs conventional 176 ±40, p=0.326). Prolonged stay >24 h occurred in 11/31 accelerated admissions (37.9%) vs 6/111 conventional admissions (5.4%) (p<0.001). Mean hospital length of stay was higher with accelerated BT (1.8 ±1.3 days) vs conventional (1.1 ±0.4 days) (p<0.001). ICU monitoring occurred on 5/31 accelerated admissions (16.1%) vs 1/111 conventional (0.9%) (p=0.002). Two accelerated admissions (6.4%) were readmitted within 30 days (one pneumonia, one non-ischaemic chest pain); readmission rate in conventional group was 5.4% (p=0.670). The mean 24 h fall in FEV1 with accelerated treatment was 403 ±352 ml (22.6 ±16.4%), significantly greater than conventional lower lobe sessions (114 ±243 ml, 5.0 ±15.0%, p=0.001). Subgroup findings indicated a higher risk of prolonged admission among females (pooled OR 11.6, p=0.0025)."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with severe asthma treated at a tertiary referral centre, meeting ERS/ATS criteria for severe asthma and optimized on high-dose inhaled corticosteroids and dual long-acting bronchodilators, with comorbidities addressed and biologics initiated where indicated.",
+      "inclusion_criteria": [
+        "Severe asthma per ERS/ATS definition",
+        "Evaluation confirming comorbidities addressed",
+        "Biological therapy initiated where indicated",
+        "Adherence to optimized asthma therapy (high-dose inhaled corticosteroids and dual long-acting bronchodilators)"
+      ],
+      "exclusion_criteria": []
+    },
+    "intervention": {
+      "text": "Accelerated bronchial thermoplasty (ABT) in two sessions",
+      "details": "Whole left lung treated in the first session and whole right lung in the second session 4 weeks later; right middle lobe not treated; prednisolone 50 mg daily for 3 days pre- and post-procedure; intraoperative dexamethasone and glycopyrrolate; overnight observation."
+    },
+    "comparison": {
+      "text": "Conventional bronchial thermoplasty (CBT) in three sessions",
+      "details": "Left lower lobe, right lower lobe, and both upper lobes treated in three separate sessions 3-4 weeks apart; right middle lobe not treated; same peri-procedural medication protocol; overnight observation."
+    },
+    "outcomes": [
+      {
+        "name": "Prolonged hospital stay (>24 h) after BT procedure",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "All-cause readmission within 30 days of BT procedure",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "ICU monitoring required after BT procedure",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Hospital length of stay for index admission",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Total radiofrequency activations delivered",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "prospective observational cohort",
+    "allocation": "non-randomized",
+    "blinding": "none",
+    "sites_count": 1,
+    "countries": [
+      "Australia"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 53,
+      "analyzed": 53
+    },
+    "analysis_populations": [
+      {
+        "name": "All treated patients",
+        "description": "All patients who underwent BT at the centre during the study periods",
+        "n": 53
+      },
+      {
+        "name": "All procedures",
+        "description": "All BT treatment sessions (admissions) included for per-procedure analyses",
+        "n": 142
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "Accelerated bronchial thermoplasty (2 sessions)",
+      "n_randomized": 16,
+      "n_analyzed": 16,
+      "n_completed": 15
+    },
+    {
+      "arm_id": "control",
+      "name": "Conventional bronchial thermoplasty (3 sessions)",
+      "n_randomized": 37,
+      "n_analyzed": 37,
+      "n_completed": 37
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "prolonged_hospital_stay_gt24h",
+      "name": "Prolonged hospital stay >24 h after BT procedure",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P1D",
+      "timepoint_label": "Index hospitalization beyond 24 hours",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 11,
+            "total": 31
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 6,
+            "total": 111
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": 0.301,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.001,
+        "p_operator": "<",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Fisher's exact test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All admissions (per-procedure analysis)",
+        "missing_handling": "Complete-case (all admissions with available disposition)"
+      },
+      "provenance": {
+        "pages": [
+          4
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "with standard treatment, this occurred in 6 instances of 111 admissions (5.4%). By comparison, with accelerated treatment, there were 11 occurrences in 31 admissions (37.9%) when patients remained in hospital after 24 h (p < 0.001)."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 6.565
+        },
+        "odds_ratio": {
+          "est": 9.625
+        },
+        "arr": 0.301,
+        "nnt": 3.3
+      }
+    },
+    {
+      "concept_id": "icu_monitoring_required",
+      "name": "ICU monitoring required after BT procedure",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P1D",
+      "timepoint_label": "Index hospitalization",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 5,
+            "total": 31
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 1,
+            "total": 111
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": 0.152,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.002,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Fisher's exact test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All admissions (per-procedure analysis)",
+        "missing_handling": "Complete-case"
+      },
+      "provenance": {
+        "pages": [
+          4
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "there were 5 occasions in the accelerated treatment group (16.1%) when patients required monitoring in the Intensive Care Unit, compared to 1 occasion (0.9%) in the standard treatment group (p = 0.002)."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 17.903
+        },
+        "odds_ratio": {
+          "est": 21.154
+        },
+        "arr": 0.152,
+        "nnt": 6.6
+      }
+    },
+    {
+      "concept_id": "readmission_30d_allcause",
+      "name": "All-cause hospital readmission within 30 days of BT procedure",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P30D",
+      "timepoint_label": "30 days post-procedure",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 2,
+            "total": 31
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 6,
+            "total": 111
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": 0.01,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.67,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Fisher's exact test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All admissions (per-procedure analysis)",
+        "missing_handling": "Complete-case"
+      },
+      "provenance": {
+        "pages": [
+          4
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "Two patients (6.4%) in the accelerated treatment group were readmitted within 30 days of a BT procedure... This readmission rate was similar in the standard treatment group (5.4%, p = 0.670)."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 1.194
+        },
+        "odds_ratio": {
+          "est": 1.207
+        },
+        "arr": 0.01,
+        "nnt": 95.6
+      }
+    },
+    {
+      "concept_id": "los_index_admission_days",
+      "name": "Hospital length of stay for index admission (days)",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P1D",
+      "unit": "days",
+      "unit_canonical": "day",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": 1.8,
+            "sd": 1.3,
+            "total": 31
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "mean": 1.1,
+            "sd": 0.4,
+            "total": 111
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "mean_difference",
+        "est": 0.7,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.001,
+        "p_operator": "<",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "t-test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All admissions (per-procedure analysis)",
+        "missing_handling": "Complete-case"
+      },
+      "provenance": {
+        "pages": [
+          4
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "The mean hospital length of stay for patients receiving accelerated treatment was 1.8 ±1.3 days, compared to 1.1 ±0.4 days in the standard group (p < 0.001)."
+      }
+    },
+    {
+      "concept_id": "total_rf_activations",
+      "name": "Total radiofrequency activations delivered",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "unit": "count",
+      "unit_canonical": "count",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": 187,
+            "sd": 21,
+            "total": 16
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "mean": 176,
+            "sd": 40,
+            "total": 37
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "mean_difference",
+        "est": 11,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.326,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "t-test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated patients (per-patient analysis)",
+        "missing_handling": "Complete-case"
+      },
+      "provenance": {
+        "pages": [
+          3
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "The total number of radiofrequency activations delivered was similar in both patient groups - 187 ±21 in the accelerated treatment group, compared to 176 ±40 in the conventional treatment approach (p =0.326)."
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Wheezing leading to prolonged hospitalization (>24 h)",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Wheezing"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "hospitalization",
+        "prolonged_hospitalization"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 11,
+          "patients": 11,
+          "percentage": 35.5,
+          "total": 31
+        },
+        {
+          "arm_id": "control",
+          "events": 6,
+          "patients": 6,
+          "percentage": 5.4,
+          "total": 111
+        }
+      ],
+      "period": "index hospitalization",
+      "management": "Supportive care for post-procedural bronchospasm; no endotracheal intubation reported.",
+      "provenance": {
+        "pages": [
+          4
+        ],
+        "tables": [],
+        "quote": "The medical notes recorded that in each case this was due to wheezing."
+      }
+    },
+    {
+      "event_name": "Pneumonia",
+      "meddra": {
+        "soc": "Infections and infestations",
+        "pt": "Pneumonia"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "hospitalization"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 1,
+          "patients": 1,
+          "percentage": 3.2,
+          "total": 31
+        },
+        {
+          "arm_id": "control",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 111
+        }
+      ],
+      "period": "0-30 days post-procedure",
+      "management": "Hospital readmission; complete recovery reported.",
+      "provenance": {
+        "pages": [
+          4
+        ],
+        "tables": [],
+        "quote": "Two patients (6.4%) in the accelerated treatment group were readmitted within 30 days of a BT procedure, one for pneumonia..."
+      }
+    },
+    {
+      "event_name": "Chest pain",
+      "meddra": {
+        "soc": "Cardiac disorders",
+        "pt": "Chest pain"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "hospitalization"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 1,
+          "patients": 1,
+          "percentage": 3.2,
+          "total": 31
+        },
+        {
+          "arm_id": "control",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 111
+        }
+      ],
+      "period": "0-30 days post-procedure",
+      "management": "Hospital readmission for non-ischaemic chest pain; complete recovery reported.",
+      "provenance": {
+        "pages": [
+          4
+        ],
+        "tables": [],
+        "quote": "...and one for non-ischaemic chest pain. Both made a full recovery."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "ROBINS-I",
+    "overall_judgment": "serious",
+    "domains": [
+      {
+        "name": "Bias due to confounding",
+        "judgment": "serious",
+        "support_for_judgment": "Non-randomized comparison of accelerated vs historical conventional cohorts with baseline differences (e.g., higher use of biologics and SABA in accelerated group)."
+      },
+      {
+        "name": "Bias in selection of participants",
+        "judgment": "moderate",
+        "support_for_judgment": "Single-centre cohort including all BT patients during specified periods; one patient did not complete both accelerated sessions."
+      },
+      {
+        "name": "Bias in classification of interventions",
+        "judgment": "low",
+        "support_for_judgment": "Intervention scheduling clearly defined by protocol."
+      },
+      {
+        "name": "Bias due to deviations from intended interventions",
+        "judgment": "low",
+        "support_for_judgment": "Peri-procedural management standardized across groups."
+      },
+      {
+        "name": "Bias due to missing data",
+        "judgment": "moderate",
+        "support_for_judgment": "FEV1 24 h data unavailable for a proportion of conventional cases (available in 20/37)."
+      },
+      {
+        "name": "Bias in measurement of outcomes",
+        "judgment": "low",
+        "support_for_judgment": "Hospital stay, readmissions, and ICU monitoring obtained from records; outcome assessors not blinded but outcomes objective."
+      },
+      {
+        "name": "Bias in selection of the reported result",
+        "judgment": "low",
+        "support_for_judgment": "Primary outcomes prespecified; standard statistical tests reported."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "bronchial thermoplasty",
+      "severe asthma",
+      "accelerated schedule",
+      "hospitalization",
+      "ICU",
+      "readmission",
+      "respiratory bronchoscopy"
+    ],
+    "summary_tldr": "Compressing bronchial thermoplasty into two whole-lung sessions increased prolonged hospitalization and ICU monitoring per procedure versus conventional three-session scheduling, with similar 30-day readmission rates.",
+    "clinical_relevance": "Fewer BT sessions may improve convenience but carry higher short-term respiratory morbidity, particularly in females; risk-benefit should be individualized."
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "source": {
+    "document_id": "Ghattas-2021-State of the art_ percutaneous tr",
+    "ingest_date": "2025-08-08T12:46:46.826524+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.21037/jtd-19-4121"
+  },
+  "document": {
+    "metadata": {
+      "title": "State of the art: percutaneous tracheostomy in the intensive care unit",
+      "year": 2021,
+      "authors": [
+        "Christian Ghattas",
+        "Sammar Alsunaid",
+        "Edward M. Pickering",
+        "Van K. Holden"
+      ],
+      "journal": "Journal of Thoracic Disease",
+      "doi": "10.21037/jtd-19-4121",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Percutaneous tracheostomy is a commonly performed procedure for patients in the intensive care unit (ICU) and offers many benefits, including decreasing ICU length of stay and need for sedation while improving patient comfort, effective communication, and airway clearance. However, there is no consensus on the optimal timing of tracheostomy in ICU patients. Ultrasound (US) and bronchoscopy are useful adjunct tools to optimize procedural performance. US can be used pre-procedurally to identify vascular structures and to select the optimal puncture site, intra-procedurally to assist with accurate placement of the introducer needle, and post-procedurally to evaluate for a pneumothorax. Bronchoscopy provides real-time visual guidance from within the tracheal lumen and can reduce complications, such as paratracheal puncture and injury to the posterior tracheal wall. A step-by-step detailed procedural guide, including preparation and procedural technique, is provided with a team-based approach. Technical aspects, such as recommended equipment and selection of appropriate tracheostomy tube type and size, are discussed. Certain procedural considerations to minimize the risk of complications should be given in circumstances of patient obesity, coagulopathy, or neurologic illness. Herein, we provide a practical state of the art review of percutaneous tracheostomy in ICU patients. Specifically, we will address pre-procedural preparation, procedural technique, and post-tracheostomy management.",
+      "methods": "Narrative, state-of-the-art review of percutaneous dilatational tracheostomy (PDT) in ICU patients. Sources referenced include randomized trials, meta-analyses, observational studies, and procedural guidance describing timing, technique, and adjunctive use of ultrasound and bronchoscopy.",
+      "results": "Across cited evidence, PDT demonstrates comparable safety to surgical tracheostomy with potential advantages in wound infection, procedure time, and cost. Early versus late tracheostomy shows mixed mortality and VAP outcomes in meta-analyses. Ultrasound as a peri-procedural adjunct improves puncture accuracy and first-pass success over anatomical landmarks, and in a randomized 80-patient study of US-guided vs bronchoscopy-guided PDT, US guidance reduced hemorrhage events and procedure time. Bronchoscopy guidance reduces certain malposition complications but can transiently worsen hypercarbia."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Critically ill adults undergoing percutaneous tracheostomy in the ICU",
+      "inclusion_criteria": [
+        "Adult ICU patients requiring tracheostomy"
+      ],
+      "exclusion_criteria": [
+        "Not reported"
+      ]
+    },
+    "intervention": {
+      "text": "Ultrasound-guided percutaneous dilatational tracheostomy",
+      "details": "Pre- and intra-procedural neck ultrasound guidance to select puncture site and guide introducer needle; no bronchoscopy used for guidance in the compared trial"
+    },
+    "comparison": {
+      "text": "Bronchoscopy-guided percutaneous dilatational tracheostomy",
+      "details": "Flexible bronchoscopy guidance from within the tracheal lumen; no pre-procedure ultrasound performed in the compared trial"
+    },
+    "outcomes": [
+      {
+        "name": "Peri-procedural hemorrhage (any, minor or major)",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Procedure time (minutes)",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "RCT",
+    "allocation": "randomized",
+    "blinding": "open-label",
+    "sites_count": 1,
+    "countries": [],
+    "sample_size": {
+      "planned": 80,
+      "enrolled": 80,
+      "analyzed": 80
+    },
+    "analysis_populations": [
+      {
+        "name": "ITT",
+        "description": "All randomized",
+        "n": 80
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "Ultrasound-guided PDT",
+      "n_randomized": 40,
+      "n_analyzed": 40,
+      "n_completed": 40
+    },
+    {
+      "arm_id": "control",
+      "name": "Bronchoscopy-guided PDT",
+      "n_randomized": 40,
+      "n_analyzed": 40,
+      "n_completed": 40
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "peri_procedural_hemorrhage_any",
+      "name": "Peri-procedural hemorrhage (any severity)",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "PT0H",
+      "timepoint_label": "Intra-procedural/peri-procedural",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 1,
+            "total": 40
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 8,
+            "total": 40
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": -0.175,
+        "ci_lower": -0.308,
+        "ci_upper": -0.042,
+        "ci_level": 0.95,
+        "p_value": 0.014,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Fisher's exact test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT",
+        "missing_handling": "Complete-case; no missing outcomes reported"
+      },
+      "provenance": {
+        "pages": [
+          5263
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "A randomized prospective study of 80 patients compared the use of bronchoscopy- versus US-guided PDT. The bronchoscopy group did not have a pre-procedure US. The entry location was changed in 15% of patients in the US-guided PDT group. This group also had lower rates of hemorrhage (2.5% vs. 20%, P=0.014) and significantly shorter procedure time (7.92±1.00 vs. 10.0±1.41 min, P=0.001)."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.125
+        },
+        "odds_ratio": {
+          "est": 0.103
+        },
+        "arr": -0.175,
+        "nnh": 5.7
+      }
+    },
+    {
+      "concept_id": "procedure_time_minutes",
+      "name": "Procedure time",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "PT0H",
+      "timepoint_label": "Intra-procedural",
+      "unit": "min",
+      "unit_canonical": "minute",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": 7.92,
+            "sd": 1,
+            "total": 40
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "mean": 10,
+            "sd": 1.41,
+            "total": 40
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "mean_difference",
+        "est": -2.08,
+        "ci_lower": -2.616,
+        "ci_upper": -1.544,
+        "p_value": 0.001,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Two-sample t-test (Welch)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT",
+        "missing_handling": "Complete-case; no missing outcomes reported"
+      },
+      "provenance": {
+        "pages": [
+          5263
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "This group also had lower rates of hemorrhage (2.5% vs. 20%, P=0.014) and significantly shorter procedure time (7.92±1.00 vs. 10.0±1.41 min, P=0.001)."
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Procedural haemorrhage",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Procedural haemorrhage"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 1,
+          "patients": 1,
+          "percentage": 2.5,
+          "total": 40
+        },
+        {
+          "arm_id": "control",
+          "events": 8,
+          "patients": 8,
+          "percentage": 20,
+          "total": 40
+        }
+      ],
+      "period": "Peri-procedural",
+      "management": "Minor hemorrhage resolved with pressure; major hemorrhage required transfusion or surgical intervention",
+      "provenance": {
+        "pages": [
+          5263
+        ],
+        "tables": [],
+        "quote": "Hemorrhage included minor (resolved with pressure) and major events (bleeding despite compression, requiring transfusions or surgical intervention)."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "RoB 2",
+    "overall_judgment": "some concerns",
+    "domains": [
+      {
+        "name": "Randomization process",
+        "judgment": "some concerns",
+        "support_for_judgment": "Randomized prospective study; allocation concealment and sequence generation not described."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "low",
+        "support_for_judgment": "Open-label procedural comparison; outcomes unlikely influenced by lack of blinding."
+      },
+      {
+        "name": "Missing outcome data",
+        "judgment": "low",
+        "support_for_judgment": "All randomized patients reported for analyzed outcomes."
+      },
+      {
+        "name": "Measurement of the outcome",
+        "judgment": "low",
+        "support_for_judgment": "Objective outcomes (procedure time, occurrence of hemorrhage)."
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "some concerns",
+        "support_for_judgment": "Trial registration and pre-specified outcomes not reported in the review."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "percutaneous dilatational tracheostomy",
+      "ultrasound-guided",
+      "bronchoscopy-guided",
+      "intensive care unit",
+      "hemorrhage",
+      "procedure time"
+    ],
+    "summary_tldr": "In a randomized 80-patient study, ultrasound-guided PDT reduced hemorrhage (1/40 vs 8/40; p=0.014) and procedure time (7.92 vs 10.0 min; p=0.001) compared with bronchoscopy-guided PDT.",
+    "clinical_relevance": "Supports incorporating ultrasound guidance to improve safety and efficiency of percutaneous tracheostomy in ICU patients."
+  }
+}

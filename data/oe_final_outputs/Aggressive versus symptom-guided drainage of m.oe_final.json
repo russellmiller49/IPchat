@@ -1,0 +1,468 @@
+{
+  "source": {
+    "document_id": "Aggressive versus symptom-guided drainage of m",
+    "ingest_date": "2025-08-08T09:36:23.229104+00:00",
+    "trial_registration_id": "ACTRN12615000963527",
+    "pmid": null,
+    "doi": "10.1016/S2213-2600(18)30288-1"
+  },
+  "document": {
+    "metadata": {
+      "title": "Aggressive versus symptom-guided drainage of malignant pleural effusion via indwelling pleural catheters (AMPLE-2): an open-label randomised trial",
+      "year": 2018,
+      "authors": [
+        "Sanjeevan Muruganandan",
+        "Maree Azzopardi",
+        "Deirdre B Fitzgerald",
+        "Ranjan Shrestha",
+        "Benjamin C H Kwan",
+        "David C L Lam",
+        "Christian C De Chaneet",
+        "Muhammad Redzwan S Rashid Ali",
+        "Elaine Yap",
+        "Claire L Tobin",
+        "Luke A Garske",
+        "Phan T Nguyen",
+        "Christopher Stanley",
+        "Natalia D Popowicz",
+        "Christopher Kosky",
+        "Rajesh Thomas",
+        "Catherine A Read",
+        "Charley A Budgeon",
+        "David Feller-Kopman",
+        "Nick A Maskell",
+        "Kevin Murray",
+        "Y C Gary Lee"
+      ],
+      "journal": "The Lancet Respiratory Medicine",
+      "doi": "10.1016/S2213-2600(18)30288-1",
+      "pmid": null
+    },
+    "sections": {
+      "abstract": "Background: Indwelling pleural catheters are an established management option for malignant pleural effusion and have advantages over talc slurry pleurodesis. The optimal regimen of drainage after indwelling pleural catheter insertion is debated and ranges from aggressive (daily) drainage to drainage only when symptomatic. Methods: AMPLE-2 was an open-label randomised trial involving 11 centres in Australia, New Zealand, Hong Kong, and Malaysia. Patients with symptomatic malignant pleural effusions were randomly assigned (1:1) to the aggressive (daily) or symptom-guided drainage groups for 60 days and minimised by cancer type (mesothelioma vs others), performance status (ECOG 0-1 vs ≥2), presence of trapped lung, and prior pleurodesis. Patients were followed up for 6 months. The primary outcome was mean daily breathlessness score, measured by a 100 mm visual analogue scale during the first 60 days. Secondary outcomes included rates of spontaneous pleurodesis and self-reported quality-of-life measures. Analyses were intention-to-treat. Findings: 87 patients were randomised to aggressive (n=43) or symptom-guided (n=44) drainage. Mean daily breathlessness scores did not differ significantly (geometric means 13.1 mm [95% CI 9.8-17.4] vs 17.3 mm [13.0-22.0]; ratio of geometric means 1.32 [95% CI 0.88-1.97]; p=0.18). More patients in the aggressive group developed spontaneous pleurodesis than in the symptom-guided group in the first 60 days (16/43 [37.2%] vs 5/44 [11.4%], p=0.0049) and at 6 months (19/43 [44.2%] vs 7/44 [15.9%], p=0.004; hazard ratio 3.287 [95% CI 1.396-7.740]; p=0.0065). EQ-5D-5L index values were higher with aggressive drainage (estimated means 0.713 [95% CI 0.647-0.779] vs 0.601 [0.536-0.667]; difference 0.112 [95% CI 0.0198-0.204]; p=0.0174). Pain scores, total days in hospital, and mortality did not differ significantly. Serious adverse events occurred in 11/43 (25.6%) vs 12/44 (27.3%), including 11 episodes of pleural infection in nine patients (five episodes in the aggressive group and six in the symptom-guided group). Interpretation: No difference between daily and symptom-guided regimens in breathlessness control; daily drainage increased spontaneous pleurodesis and might improve quality of life.",
+      "methods": "Randomised, multicentre, open-label trial at 11 centres in Australia, New Zealand, Hong Kong, and Malaysia. Adults with symptomatic malignant pleural effusions requiring indwelling pleural catheter (IPC) were randomised 1:1 within 72 h of IPC insertion to aggressive (daily) drainage or symptom-guided drainage for 60 days. Randomisation used a central automated voice-response system with minimisation by cancer type (mesothelioma vs non-mesothelioma), ECOG performance status (0-1 vs ≥2), presence of trapped lung, and prior pleurodesis; an imbalance window ensured allocation concealment. Primary outcome was mean daily breathlessness VAS (0-100 mm) during days 1-60 post-randomisation. Secondary outcomes: spontaneous pleurodesis, EQ-5D-5L and VAS QoL, pain VAS, hospitalisations, adverse events, survival. Pleurodesis was defined as <50 mL drained at three consecutive drainages (aggressive arm) or at two attempts 2 weeks apart (symptom-guided arm) with no substantial residual fluid on imaging. Follow-up to 6 months or death. Analyses were intention-to-treat.",
+      "results": "87 patients were randomised: aggressive daily drainage n=43; symptom-guided n=44. Mean daily breathlessness geometric means during days 1-60: 13.1 mm (95% CI 9.8-17.4) vs 17.3 mm (13.0-22.0); ratio 1.32 (95% CI 0.88-1.97); p=0.18. Spontaneous pleurodesis by 60 days: 16/43 (37.2%) vs 5/44 (11.4%), p=0.0049. By 6 months: 19/43 (44.2%) vs 7/44 (15.9%), p=0.004; HR 3.287 (95% CI 1.396-7.740); p=0.0065. EQ-5D-5L estimated means: 0.713 (95% CI 0.647-0.779) vs 0.601 (0.536-0.667); difference 0.112 (95% CI 0.0198-0.204); p=0.0174. Pain scores, total hospital days, and mortality: no significant between-group differences. Serious adverse events: 11/43 (25.6%) vs 12/44 (27.3%); pleural infection episodes: 5 vs 6 (11 total episodes in nine patients)."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with symptomatic malignant pleural effusion requiring indwelling pleural catheter insertion across 11 centres in Australia, New Zealand, Hong Kong, and Malaysia.",
+      "inclusion_criteria": [
+        "Age ≥18 years",
+        "Malignant pleural effusion requiring indwelling pleural catheter",
+        "Malignant cells in pleural fluid or pleural biopsy tissue OR large exudative effusion without other cause in a patient with disseminated extrapleural malignancy"
+      ],
+      "exclusion_criteria": [
+        "Expected survival <3 months",
+        "Pleural infection",
+        "Chylothorax",
+        "Pregnancy or lactation",
+        "Uncorrectable bleeding diathesis",
+        "Previous ipsilateral lobectomy or pneumonectomy",
+        "Significant loculations likely to preclude effective drainage",
+        "Significant visual impairment",
+        "Inability to consent or comply with the protocol",
+        "Age <18 years"
+      ]
+    },
+    "intervention": {
+      "text": "Aggressive daily drainage via indwelling pleural catheter",
+      "details": "Patients drained pleural fluid daily using 600 mL vacuum bottles for the first 60 days unless clinically contraindicated or spontaneous pleurodesis occurred; IPC accessed at least fortnightly to ensure patency."
+    },
+    "comparison": {
+      "text": "Symptom-guided drainage via indwelling pleural catheter",
+      "details": "Patients drained pleural fluid when experiencing effusion-related symptoms (breathlessness, cough, or chest tightness); IPC accessed at least fortnightly to ensure patency."
+    },
+    "outcomes": [
+      {
+        "name": "Mean daily breathlessness (VAS 0-100 mm) during days 1-60 after randomisation",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Spontaneous pleurodesis by 60 days",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Spontaneous pleurodesis by 6 months",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "EQ-5D-5L index",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Pain VAS",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Hospitalisations (episodes and duration)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Adverse events and serious adverse events",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Survival",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "RCT",
+    "allocation": "randomized",
+    "blinding": "open-label",
+    "sites_count": 11,
+    "countries": [
+      "Australia",
+      "New Zealand",
+      "Hong Kong",
+      "Malaysia"
+    ],
+    "sample_size": {
+      "planned": null,
+      "enrolled": 87,
+      "analyzed": 87
+    },
+    "analysis_populations": [
+      {
+        "name": "ITT",
+        "description": "All randomized patients",
+        "n": 87
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "Aggressive daily drainage",
+      "n_randomized": 43,
+      "n_analyzed": 43,
+      "n_completed": null
+    },
+    {
+      "arm_id": "control",
+      "name": "Symptom-guided drainage",
+      "n_randomized": 44,
+      "n_analyzed": 44,
+      "n_completed": null
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "mean_breathlessness_vas_daily_0_60d",
+      "name": "Mean daily breathlessness VAS (0-100 mm) during first 60 days",
+      "type": "continuous",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P60D",
+      "timepoint_label": "0-60 days",
+      "unit": "mm",
+      "unit_canonical": "millimeter",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": 13.1,
+            "sd": null,
+            "total": 43
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "mean": 17.3,
+            "sd": null,
+            "total": 44
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "ratio_of_geometric_means",
+        "est": 1.32,
+        "ci_lower": 0.88,
+        "ci_upper": 1.97,
+        "ci_level": 0.95,
+        "p_value": 0.18,
+        "p_operator": "=",
+        "adjusted": true
+      },
+      "analysis": {
+        "model": "Linear mixed-effects model on log-transformed daily VAS scores",
+        "adjusted": true,
+        "covariates": [
+          "cancer type (mesothelioma vs non-mesothelioma)",
+          "ECOG performance status (0-1 vs ≥2)",
+          "trapped lung (yes/no)",
+          "prior pleurodesis (yes/no)"
+        ],
+        "population": "ITT",
+        "missing_handling": "Model-based handling under missing at random"
+      },
+      "provenance": {
+        "pages": [
+          671
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "The mean daily breathlessness scores did not differ significantly ... (geometric means 13.1 mm [95% CI 9.8-17.4] vs 17.3 mm [13.0-22.0]; ratio of geometric means 1.32 [95% CI 0.88-1.97]; p=0.18)."
+      }
+    },
+    {
+      "concept_id": "spontaneous_pleurodesis_60d",
+      "name": "Spontaneous pleurodesis by 60 days",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P60D",
+      "timepoint_label": "60 days",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 16,
+            "total": 43
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 5,
+            "total": 44
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": 0.2585,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.0049,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Fisher's exact test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT"
+      },
+      "provenance": {
+        "pages": [
+          671
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "More patients in the aggressive group developed spontaneous pleurodesis ... in the first 60 days (16 [37.2%] of 43 vs five [11.4%] of 44, p=0.0049)."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 3.274
+        },
+        "odds_ratio": {
+          "est": 4.622
+        },
+        "arr": 0.258,
+        "nnt": 3.9
+      }
+    },
+    {
+      "concept_id": "spontaneous_pleurodesis_6m",
+      "name": "Spontaneous pleurodesis by 6 months",
+      "type": "time_to_event",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P6M",
+      "timepoint_label": "6 months",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 19,
+            "total": 43
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 7,
+            "total": 44
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "hazard_ratio",
+        "est": 3.287,
+        "ci_lower": 1.396,
+        "ci_upper": 7.74,
+        "ci_level": 0.95,
+        "p_value": 0.0065,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Cox proportional hazards",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT"
+      },
+      "provenance": {
+        "pages": [
+          671
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "at 6 months (19 [44.2%] vs seven [15.9%], p=0.004; hazard ratio 3.287 [95% CI 1.396-7.740]; p=0.0065)."
+      }
+    },
+    {
+      "concept_id": "eq5d5l_index_6m",
+      "name": "EQ-5D-5L index (higher is better)",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P6M",
+      "timepoint_label": "Up to 6 months",
+      "unit": "index",
+      "unit_canonical": "index",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": 0.713,
+            "sd": null,
+            "total": 43
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "mean": 0.601,
+            "sd": null,
+            "total": 44
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "mean_difference",
+        "est": 0.112,
+        "ci_lower": 0.0198,
+        "ci_upper": 0.204,
+        "ci_level": 0.95,
+        "p_value": 0.0174,
+        "p_operator": "=",
+        "adjusted": true
+      },
+      "analysis": {
+        "model": "Linear mixed-effects model",
+        "adjusted": true,
+        "covariates": [
+          "cancer type (mesothelioma vs non-mesothelioma)",
+          "ECOG performance status (0-1 vs ≥2)",
+          "trapped lung (yes/no)",
+          "prior pleurodesis (yes/no)"
+        ],
+        "population": "ITT"
+      },
+      "provenance": {
+        "pages": [
+          671
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "EQ-5D-5L ... (estimated means 0.713 [95% CI 0.647-0.779] vs 0.601 [0.536-0.667]). The estimated difference in means was 0.112 (95% CI 0.0198-0.204; p=0.0174)."
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Pleural infection",
+      "meddra": {
+        "soc": "Infections and infestations",
+        "pt": "Pleural infection"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "hospitalization"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 5,
+          "patients": null,
+          "percentage": null,
+          "total": 43
+        },
+        {
+          "arm_id": "control",
+          "events": 6,
+          "patients": null,
+          "percentage": null,
+          "total": 44
+        }
+      ],
+      "period": "0-6 months",
+      "management": null,
+      "provenance": {
+        "pages": [
+          671
+        ],
+        "tables": [],
+        "quote": "Serious adverse events occurred in 11 (25.6%) of 43 patients ... including 11 episodes of pleural infection in nine patients (five in the aggressive group and six in the symptom-guided drainage group)."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "RoB 2",
+    "overall_judgment": "some concerns",
+    "domains": [
+      {
+        "name": "Randomization process",
+        "judgment": "low",
+        "support_for_judgment": "Central randomization with allocation concealment; minimisation with imbalance window."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "some concerns",
+        "support_for_judgment": "Open-label design with behavioural interventions (drainage frequency) may influence co-interventions or adherence."
+      },
+      {
+        "name": "Missing outcome data",
+        "judgment": "some concerns",
+        "support_for_judgment": "Daily VAS diaries over 60 days may have incomplete entries; handling not fully detailed in summary."
+      },
+      {
+        "name": "Measurement of the outcome",
+        "judgment": "low",
+        "support_for_judgment": "VAS readings measured by two independent assessors with predefined reconciliation."
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "low",
+        "support_for_judgment": "Pre-registered primary outcome and key secondary outcomes reported as specified."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "malignant pleural effusion",
+      "indwelling pleural catheter",
+      "daily drainage",
+      "symptom-guided drainage",
+      "randomised trial",
+      "pleurodesis",
+      "EQ-5D-5L"
+    ],
+    "summary_tldr": "In malignant pleural effusion managed with IPCs, daily drainage did not improve breathlessness over 60 days but increased spontaneous pleurodesis and improved EQ-5D-5L versus symptom-guided drainage.",
+    "clinical_relevance": "Supports tailoring IPC drainage to patient goals: daily drainage if early pleurodesis/catheter removal is desired; symptom-guided for palliation without daily burden."
+  }
+}

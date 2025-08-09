@@ -1,0 +1,387 @@
+{
+  "source": {
+    "document_id": "Inhaled GM-CSF for Pulmonary Alveolar Proteino",
+    "ingest_date": "2025-08-08T13:27:09.846026+00:00",
+    "trial_registration_id": "NCT02835742",
+    "pmid": "",
+    "doi": "10.1056/NEJMoa1816216"
+  },
+  "document": {
+    "metadata": {
+      "title": "Inhaled GM-CSF for Pulmonary Alveolar Proteinosis",
+      "year": 2019,
+      "authors": [
+        "R. Tazawa",
+        "T. Ueda",
+        "M. Abe",
+        "K. Tatsumi",
+        "R. Eda",
+        "S. Kondoh",
+        "K. Morimoto",
+        "Takeshi Tanaka",
+        "E. Yamaguchi",
+        "A. Takahashi",
+        "M. Oda",
+        "H. Ishii",
+        "S. Izumi",
+        "H. Sugiyama",
+        "A. Nakagawa",
+        "K. Tomii",
+        "M. Suzuki",
+        "S. Konno",
+        "S. Ohkouchi",
+        "N. Tode",
+        "T. Handa",
+        "T. Hirai",
+        "Y. Inoue",
+        "T. Arai",
+        "K. Asakawa",
+        "T. Sakagami",
+        "A. Hashimoto",
+        "Takahiro Tanaka",
+        "T. Takada",
+        "A. Mikami",
+        "N. Kitamura",
+        "K. Nakata"
+      ],
+      "journal": "The New England Journal of Medicine",
+      "doi": "10.1056/NEJMoa1816216",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "BACKGROUND Pulmonary alveolar proteinosis is a disease characterized by abnormal accumulation of surfactant in the alveoli. Most cases are autoimmune and are associated with an autoantibody against granulocyte-macrophage colony-stimulating factor (GM-CSF) that prevents clearing of pulmonary surfactant by alveolar macrophages. An open-label, phase 2 study showed some therapeutic efficacy of inhaled recombinant human GM-CSF in patients with severe pulmonary alveolar proteinosis; however, the efficacy in patients with mild-to-moderate disease remains unclear. METHODS We conducted a double-blind, placebo-controlled trial of daily inhaled recombinant human GM-CSF (sargramostim), at a dose of 125 μg twice daily for 7 days, every other week for 24 weeks, or placebo in 64 patients with autoimmune pulmonary alveolar proteinosis who had a partial pressure of arterial oxygen (Pao2) while breathing ambient air of less than 70 mm Hg (or <75 mm Hg in symptomatic patients). Patients with severe pulmonary alveolar proteinosis (Pao2 <50 mm Hg) were excluded to avoid possible exacerbation of the disease in patients who were assigned to receive placebo. The primary end point was the change in the alveolar-arterial oxygen gradient between baseline and week 25. RESULTS The change in the mean (±SD) alveolar-arterial oxygen gradient was significantly better in the GM-CSF group (33 patients) than in the placebo group (30 patients) (mean change from baseline, -4.50±9.03 mm Hg vs. 0.17±10.50 mm Hg; P=0.02). The change between baseline and week 25 in the density of the lung field on computed tomography was also better in the GM-CSF group (between-group difference, -36.08 Hounsfield units; 95% confidence interval, -61.58 to -6.99, calculated with the use of the Mann-Whitney U test and the Hodges-Lehmann estimate of confidence intervals for pseudo-medians). Serious adverse events developed in 6 patients in the GM-CSF group and in 3 patients in the placebo group. CONCLUSIONS In this randomized, controlled trial, inhaled recombinant human GM-CSF was associated with a modest salutary effect on the laboratory outcome of arterial oxygen tension, and no clinical benefits were noted.",
+      "methods": "Multicenter, randomized, double-blind, placebo-controlled trial across Niigata University Medical and Dental Hospital and 11 other hospitals in Japan. Adults aged 16-80 years with autoimmune pulmonary alveolar proteinosis (HRCT and/or biopsy/bronchoalveolar lavage confirmation), positive anti-GM-CSF antibody (>1.0 μg/mL), and impaired oxygenation (Pao2 <70 mm Hg on room air supine for 5 minutes, or <75 mm Hg with symptoms) were eligible. Exclusions included whole-lung lavage in the prior 6 months, prior GM-CSF or cytokine therapy, pregnancy, and severe hypoxemia (Pao2 <50 mm Hg). Participants were randomized 1:1 to inhaled sargramostim 125 μg twice daily on days 1-7 of each 14-day cycle for 12 cycles (24 weeks) or matched placebo. Assessments included arterial blood gases, pulmonary function, 6-minute walk, HRCT densitometry, and serum biomarkers at baseline and weeks 7, 13, 19, 25, 31, 37, and 43. The primary endpoint was change in alveolar-arterial oxygen gradient from baseline to week 25. Analyses were intention-to-treat; between-group comparisons mainly used Mann-Whitney U tests; within-group changes used sign tests. Longitudinal effects were assessed via linear mixed-effects models including time, treatment, and their interaction, with Kenward-Roger adjustment, without imputation.",
+      "results": "Seventy-eight patients were screened; 64 were randomized (33 GM-CSF, 31 placebo). One placebo patient withdrew; 63 completed 24 weeks. Primary endpoint: mean (±SD) change in alveolar-arterial oxygen gradient from baseline to week 25 was -4.50±9.03 mm Hg (GM-CSF) vs 0.17±10.50 mm Hg (placebo); P=0.02. The improvement was driven by higher Pao2 in the GM-CSF group: mean change 4.77±9.43 mm Hg vs -0.05±9.48 mm Hg; model-based difference vs placebo 5.40 mm Hg (95% CI, 1.00 to 9.90). HRCT densitometry change from baseline to week 25 was -22.4 Hounsfield units (GM-CSF) vs -2.5 (placebo); Hodges-Lehmann between-group difference -36.08 (95% CI, -61.58 to -6.99), Mann-Whitney U. No substantial differences were observed in COPD Assessment Test scores; mixed-effects modeling showed a small difference in modified MRC dyspnea scale slope (interaction per month 0.07; 95% CI, 0.01 to 0.13). Serious adverse events occurred in 6/33 GM-CSF patients and 3/31 placebo patients."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Patients aged 16-80 years with mild-to-moderate autoimmune pulmonary alveolar proteinosis and impaired oxygenation while breathing ambient air.",
+      "inclusion_criteria": [
+        "Age 16 to 80 years",
+        "Diagnosis of autoimmune pulmonary alveolar proteinosis by HRCT and/or biopsy/bronchoalveolar lavage",
+        "Positive serum anti-GM-CSF antibody >1.0 μg/mL",
+        "Pao2 <70 mm Hg after 5 minutes supine on room air or Pao2 <75 mm Hg with cough, sputum, or exertional dyspnea"
+      ],
+      "exclusion_criteria": [
+        "Whole-lung lavage within previous 6 months",
+        "Previous GM-CSF or other cytokine therapy",
+        "Current or planned pregnancy",
+        "Pao2 <50 mm Hg on room air"
+      ]
+    },
+    "intervention": {
+      "text": "Inhaled recombinant human GM-CSF (sargramostim)",
+      "details": "125 μg twice daily by inhalation on days 1-7 of each 14-day cycle, no dosing on days 8-14; 12 cycles over 24 weeks"
+    },
+    "comparison": {
+      "text": "Placebo",
+      "details": "Matched placebo inhalation on the same schedule as the active treatment"
+    },
+    "outcomes": [
+      {
+        "name": "Change in alveolar-arterial oxygen gradient from baseline to week 25",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Change in Pao2 from baseline to week 25",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Change in HRCT lung field density from baseline to week 25",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "RCT",
+    "allocation": "randomized",
+    "blinding": "double-blind",
+    "sites_count": 12,
+    "countries": [
+      "Japan"
+    ],
+    "sample_size": {
+      "planned": 60,
+      "enrolled": 64,
+      "analyzed": 63
+    },
+    "analysis_populations": [
+      {
+        "name": "ITT",
+        "description": "All randomized participants; mixed-effects models without imputation",
+        "n": 64
+      },
+      {
+        "name": "Completers at week 25",
+        "description": "Participants with baseline and week 25 data for primary change analysis",
+        "n": 63
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "Inhaled sargramostim (GM-CSF)",
+      "n_randomized": 33,
+      "n_analyzed": 33,
+      "n_completed": 33
+    },
+    {
+      "arm_id": "control",
+      "name": "Placebo",
+      "n_randomized": 31,
+      "n_analyzed": 30,
+      "n_completed": 30
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "aado2_change_25w",
+      "name": "Change in alveolar-arterial oxygen gradient from baseline to week 25",
+      "type": "continuous",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P25W",
+      "unit": "mm Hg",
+      "unit_canonical": "mmHg",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": -4.5,
+            "sd": 9.03,
+            "total": 33
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "mean": 0.17,
+            "sd": 10.5,
+            "total": 30
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "mean_difference",
+        "est": -4.67,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.02,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Mann-Whitney U test (between-group change); sign test (within-group change)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Completers at week 25 (intention-to-treat framework; no imputation)",
+        "missing_handling": "Complete case for baseline-to-week 25 change"
+      },
+      "provenance": {
+        "pages": [
+          928
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "The change in the mean (±SD) alveolar-arterial oxygen gradient was -4.50±9.03 mm Hg vs. 0.17±10.50 mm Hg; P=0.02."
+      }
+    },
+    {
+      "concept_id": "pao2_change_25w",
+      "name": "Change in Pao2 from baseline to week 25",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P25W",
+      "unit": "mm Hg",
+      "unit_canonical": "mmHg",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": 4.77,
+            "sd": 9.43,
+            "total": 33
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "mean": -0.05,
+            "sd": 9.48,
+            "total": 30
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "mean_difference",
+        "est": 5.4,
+        "ci_lower": 1.0,
+        "ci_upper": 9.9,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": null,
+        "adjusted": true
+      },
+      "analysis": {
+        "model": "Linear mixed-effects model with Kenward-Roger adjustment",
+        "adjusted": true,
+        "covariates": [
+          "time since enrollment (months)",
+          "treatment assignment",
+          "time × treatment interaction"
+        ],
+        "population": "ITT",
+        "missing_handling": "Mixed-effects model without imputation"
+      },
+      "provenance": {
+        "pages": [
+          928
+        ],
+        "tables": [],
+        "quote": "The greater decrease in the alveolar-arterial oxygen gradient in the GM-CSF group was driven by the higher Pao2 ... (difference vs. placebo, 5.40; 95% CI, 1.00 to 9.90)."
+      }
+    },
+    {
+      "concept_id": "hrct_density_change_25w",
+      "name": "Change in HRCT lung field density from baseline to week 25",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P25W",
+      "unit": "Hounsfield unit",
+      "unit_canonical": "Hounsfield unit",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "median": -22.4,
+            "total": 31
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "median": -2.5,
+            "total": 28
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "median_difference_hodges_lehmann",
+        "est": -36.08,
+        "ci_lower": -61.58,
+        "ci_upper": -6.99,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": null,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Mann-Whitney U test with Hodges-Lehmann estimator",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Completers with CT data",
+        "missing_handling": "Complete case for CT densitometry"
+      },
+      "provenance": {
+        "pages": [
+          928
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "The change between baseline and week 25 in the density of the lung field on computed tomography ... between-group difference, -36.08 Hounsfield units; 95% CI, -61.58 to -6.99."
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Any serious adverse event",
+      "meddra": {
+        "soc": "General disorders and administration site conditions",
+        "pt": "Adverse event"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "other medically important condition"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 6,
+          "patients": 6,
+          "percentage": 18.2,
+          "total": 33
+        },
+        {
+          "arm_id": "control",
+          "events": 3,
+          "patients": 3,
+          "percentage": 9.7,
+          "total": 31
+        }
+      ],
+      "period": "0-24 weeks",
+      "management": "",
+      "provenance": {
+        "pages": [
+          923
+        ],
+        "tables": [],
+        "quote": "Serious adverse events developed in 6 patients in the GM-CSF group and in 3 patients in the placebo group."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "RoB 2",
+    "overall_judgment": "low",
+    "domains": [
+      {
+        "name": "Randomization process",
+        "judgment": "low",
+        "support_for_judgment": "Patients randomly assigned by computer in a 1:1 ratio with allocation concealment; double-blind."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "low",
+        "support_for_judgment": "Double-blind design with matched placebo; protocolized dosing schedule."
+      },
+      {
+        "name": "Missing outcome data",
+        "judgment": "low",
+        "support_for_judgment": "Only 1/64 withdrew; primary analysis used available cases; mixed-effects models used without imputation."
+      },
+      {
+        "name": "Measurement of the outcome",
+        "judgment": "low",
+        "support_for_judgment": "Objective physiological outcomes (arterial blood gases, CT densitometry) with standardized methods."
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "low",
+        "support_for_judgment": "Primary endpoint prespecified; statistical methods described; results reported for primary and key secondary outcomes."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "pulmonary alveolar proteinosis",
+      "GM-CSF",
+      "sargramostim",
+      "inhalation",
+      "randomized controlled trial",
+      "arterial oxygen",
+      "computed tomography densitometry"
+    ],
+    "summary_tldr": "Inhaled sargramostim modestly improved the alveolar-arterial oxygen gradient and HRCT density at 25 weeks versus placebo in autoimmune pulmonary alveolar proteinosis, without clinical benefit.",
+    "clinical_relevance": "Provides randomized evidence for inhaled GM-CSF in mild-to-moderate autoimmune PAP; may be considered where whole-lung lavage is undesirable, though clinical symptom benefits were not demonstrated."
+  }
+}

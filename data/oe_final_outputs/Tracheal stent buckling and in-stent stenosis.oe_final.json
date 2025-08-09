@@ -1,0 +1,472 @@
+{
+  "source": {
+    "document_id": "Tracheal stent buckling and in-stent stenosis",
+    "ingest_date": "2025-08-08T16:29:56.792017+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1053/j.jvca.2022.01.028"
+  },
+  "document": {
+    "metadata": {
+      "title": "Tracheal Stent Buckling and In-stent Stenosis: A Proposed Airway Management Algorithm for Airway Obstruction for Patients With Tracheal Stents",
+      "year": 2022,
+      "authors": [
+        "Laurence Weinberg",
+        "Jon Graham",
+        "Joshua Meyerov",
+        "James Adam Moshinsky",
+        "Sarah Aishah Azlina Aitken",
+        "Manfred Spanger",
+        "Simon Knight"
+      ],
+      "journal": "Journal of Cardiothoracic and Vascular Anesthesia",
+      "doi": "10.1053/j.jvca.2022.01.028",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Emergency airway management strategies for complications due to tracheobronchial stents are of growing interest. Tracheal stenting is used to manage tracheobronchial stenosis of benign and malignant conditions, but official perioperative airway management guidelines for patients with stents in situ are lacking. The authors describe a patient with acute airway obstruction due to a protruding tracheal stent strut and in-stent stenosis in the setting of a self-expanding nitinol tracheal stent, outline the airway management strategy, and propose a pragmatic algorithm for patients with tracheal stents presenting with airway obstruction.",
+      "methods": "Single-patient case management. In the emergency department, after respiratory arrest, ketamine 40 mg IV was given and a ketamine infusion 2 mg/kg/h commenced to maintain spontaneous breathing. Direct laryngoscopy showed a Grade 2a view, but 7.0-mm and 8.0-mm ETTs could not pass below the laryngeal inlet due to fixed resistance. An 8.0-mm ETT was positioned just below the laryngeal inlet and pressure-support ventilation initiated. Bronchoscopy identified a protruding tracheal stent strut occluding the airway. A bougie was advanced, and the 8.0-mm ETT was exchanged for a 6.0-mm cuffed ETT positioned 2 cm above the carina. Rocuronium 100 mg was administered; ventilation switched to volume control. CT imaging confirmed severe in-stent stenosis with obstructing metalware. At the tertiary center with ECMO backup available, a rigid bronchoscope (7.5 mm then 8.5 mm) was used to dilate the stent, and circumferential granulation tissue at the proximal stent was removed using flexible electrocautery, restoring patency. An 8.0-mm ETT was then placed through the stent. IV dexamethasone was given and the patient was nursed head-up to minimize airway edema.",
+      "results": "Post-intubation arterial blood gases improved from PaCO2 125 mmHg, PaO2 65 mmHg, pH 7.04 to PaCO2 75 mmHg, PaO2 155 mmHg, pH 7.22. The patient had a positive cuff-leak test on postoperative day 2, was extubated 24 hours later, and discharged home on postoperative day 14. He remained asymptomatic at 6 weeks and 3 months follow-up."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adult male (57 years) with long-standing tracheal stents presenting with acute airway obstruction and hypercapnic respiratory failure.",
+      "inclusion_criteria": [
+        "Adult with tracheal stent in situ",
+        "Acute airway obstruction/respiratory failure"
+      ],
+      "exclusion_criteria": [
+        "Not applicable (single-patient case report)"
+      ]
+    },
+    "intervention": {
+      "text": "Emergency airway management with bronchoscopic stent dilation and granulation tissue removal",
+      "details": "Ketamine-facilitated airway, fiberoptic-guided bougie-assisted ETT exchange to 6.0-mm ETT past stent; rigid bronchoscopy dilation (7.5 mm to 8.5 mm), electrocautery removal of circumferential granulation tissue, subsequent placement of 8.0-mm ETT through stent; perioperative steroids and head-up nursing."
+    },
+    "comparison": {
+      "text": "None",
+      "details": "Single-arm clinical management without comparator."
+    },
+    "outcomes": [
+      {
+        "name": "Resolution of airway obstruction and successful extubation within 48 hours",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Survival to hospital discharge",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Asymptomatic status at 3 months",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Arterial blood gas improvement post-intubation (PaCO2, PaO2, pH)",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "case report",
+    "allocation": "NA",
+    "blinding": "NA",
+    "sites_count": 1,
+    "countries": [
+      "Australia"
+    ],
+    "sample_size": {
+      "planned": 1,
+      "enrolled": 1,
+      "analyzed": 1
+    },
+    "analysis_populations": [
+      {
+        "name": "Case",
+        "description": "Single patient analyzed",
+        "n": 1
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "case_management",
+      "name": "Emergency airway management with rigid bronchoscopy dilation and electrocautery",
+      "n_randomized": 1,
+      "n_analyzed": 1,
+      "n_completed": 1
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "extubation_within_48h",
+      "name": "Extubation within 48 hours",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P2D",
+      "timepoint_label": "Postoperative day 2",
+      "groups": [
+        {
+          "arm_id": "case_management",
+          "raw": {
+            "events": 1,
+            "total": 1
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "case_management",
+        "measure": "single_group_proportion",
+        "est": 1,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Case",
+        "missing_handling": "Not applicable"
+      },
+      "provenance": {
+        "pages": [
+          3141
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "A positive cuff-leak test was present on postoperative day 2, and the patient was extubated 24 hours later..."
+      }
+    },
+    {
+      "concept_id": "survival_to_discharge",
+      "name": "Survival to hospital discharge",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P14D",
+      "timepoint_label": "Postoperative day 14",
+      "groups": [
+        {
+          "arm_id": "case_management",
+          "raw": {
+            "events": 1,
+            "total": 1
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "case_management",
+        "measure": "single_group_proportion",
+        "est": 1,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Case",
+        "missing_handling": "Not applicable"
+      },
+      "provenance": {
+        "pages": [
+          3141
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "...and subsequently discharged home on postoperative day 14."
+      }
+    },
+    {
+      "concept_id": "asymptomatic_3m",
+      "name": "Asymptomatic at 3 months",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P3M",
+      "timepoint_label": "3 months postdischarge",
+      "groups": [
+        {
+          "arm_id": "case_management",
+          "raw": {
+            "events": 1,
+            "total": 1
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "case_management",
+        "measure": "single_group_proportion",
+        "est": 1,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Case",
+        "missing_handling": "Not applicable"
+      },
+      "provenance": {
+        "pages": [
+          3141
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "The patient remained asymptomatic at 6 weeks and 3 months postdischarge follow-ups."
+      }
+    },
+    {
+      "concept_id": "paco2_post_intubation",
+      "name": "PaCO2 post-intubation",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "PT1H",
+      "unit": "mmHg",
+      "unit_canonical": "mm[Hg]",
+      "groups": [
+        {
+          "arm_id": "case_management",
+          "raw": {
+            "mean": 75,
+            "sd": null,
+            "total": 1
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "case_management",
+        "measure": "single_group_mean",
+        "est": 75,
+        "ci_lower": null,
+        "ci_upper": null,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Case"
+      },
+      "provenance": {
+        "pages": [
+          3140
+        ],
+        "tables": [],
+        "quote": "Arterial blood gases were significantly improved and revealed a PaCO2 of 75 mmHg..."
+      }
+    },
+    {
+      "concept_id": "pao2_post_intubation",
+      "name": "PaO2 post-intubation",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "PT1H",
+      "unit": "mmHg",
+      "unit_canonical": "mm[Hg]",
+      "groups": [
+        {
+          "arm_id": "case_management",
+          "raw": {
+            "mean": 155,
+            "sd": null,
+            "total": 1
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "case_management",
+        "measure": "single_group_mean",
+        "est": 155,
+        "ci_lower": null,
+        "ci_upper": null,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Case"
+      },
+      "provenance": {
+        "pages": [
+          3140
+        ],
+        "tables": [],
+        "quote": "...and a PaO2 of 155 mmHg..."
+      }
+    },
+    {
+      "concept_id": "ph_post_intubation",
+      "name": "Arterial pH post-intubation",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "PT1H",
+      "unit": "",
+      "unit_canonical": "",
+      "groups": [
+        {
+          "arm_id": "case_management",
+          "raw": {
+            "mean": 7.22,
+            "sd": null,
+            "total": 1
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "case_management",
+        "measure": "single_group_mean",
+        "est": 7.22,
+        "ci_lower": null,
+        "ci_upper": null,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Case"
+      },
+      "provenance": {
+        "pages": [
+          3140
+        ],
+        "tables": [],
+        "quote": "...with a pH of 7.22."
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Respiratory arrest",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Respiratory arrest"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "life-threatening",
+        "hospitalization"
+      ],
+      "groups": [
+        {
+          "arm_id": "case_management",
+          "events": 1,
+          "patients": 1,
+          "percentage": 100,
+          "total": 1
+        }
+      ],
+      "period": "ED presentation",
+      "management": "Urgent tracheal intubation with ketamine-facilitated airway, bronchoscopy-guided tube exchange",
+      "provenance": {
+        "pages": [
+          3140
+        ],
+        "tables": [],
+        "quote": "...the patient rapidly deteriorated, with an acute respiratory arrest that required urgent tracheal intubation."
+      }
+    },
+    {
+      "event_name": "Hypotension",
+      "meddra": {
+        "soc": "Vascular disorders",
+        "pt": "Hypotension"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "hospitalization",
+        "other medically important condition"
+      ],
+      "groups": [
+        {
+          "arm_id": "case_management",
+          "events": 1,
+          "patients": 1,
+          "percentage": 100,
+          "total": 1
+        }
+      ],
+      "period": "ED presentation",
+      "management": "Intermittent IV metaraminol boluses",
+      "provenance": {
+        "pages": [
+          3140
+        ],
+        "tables": [],
+        "quote": "He was hypotensive (blood pressure 80/40 mmHg)... Blood pressure was supported with intermittent boluses of metaraminol."
+      }
+    },
+    {
+      "event_name": "Airway obstruction",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Airway obstruction"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "life-threatening",
+        "hospitalization",
+        "other medically important condition"
+      ],
+      "groups": [
+        {
+          "arm_id": "case_management",
+          "events": 1,
+          "patients": 1,
+          "percentage": 100,
+          "total": 1
+        }
+      ],
+      "period": "Presentation",
+      "management": "Rigid bronchoscopy dilation and electrocautery removal of granulation tissue to restore stent patency",
+      "provenance": {
+        "pages": [
+          3140,
+          3141
+        ],
+        "tables": [],
+        "quote": "The cause of the obstruction was a protruding strut of the tracheal stent... The tracheal stent was dilated... granulation tissue... removed... resulting in airway stent patency."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "Not applicable",
+    "overall_judgment": "not applicable",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "tracheal stent",
+      "airway obstruction",
+      "bronchoscopy",
+      "stent buckling",
+      "in-stent stenosis",
+      "granulation tissue"
+    ],
+    "summary_tldr": "Single-patient case: urgent bronchoscopy-guided airway management with stent dilation and granulation removal restored patency, enabling extubation within 48 hours and discharge by day 14; patient asymptomatic at 3 months.",
+    "clinical_relevance": "Highlights emergency management and proposes an algorithm for airway obstruction in patients with tracheal stents."
+  }
+}

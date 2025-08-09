@@ -1,0 +1,590 @@
+{
+  "source": {
+    "document_id": "Clinical Success Stenting Distal Bronchi",
+    "ingest_date": "2025-08-08T11:18:38.924122+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1097/LBR.0000000000000422"
+  },
+  "document": {
+    "metadata": {
+      "title": "Clinical Success Stenting Distal Bronchi for “Lobar Salvage” in Bronchial Stenosis",
+      "year": 2018,
+      "authors": [
+        "Sonali Sethi",
+        "Thomas R. Gildea",
+        "Francisco A. Almeida",
+        "Joseph C. Cicenia",
+        "Michael S. Machuzak"
+      ],
+      "journal": "J Bronchol Intervent Pulmonol",
+      "doi": "10.1097/LBR.0000000000000422",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Background: Airway stents are traditionally used in central airway obstructions to maintain airway patency. Historically, distal bronchial stenting within lobar and segmental bronchi has not been amenable to stenting. In addition, there are questionable benefits to stenting small airways. The Atrium iCast stent is a polytetrafluoroethylene covered stainless steel balloon deployed stent which can be deployed through a flexible bronchoscope under direct visualization. The purpose of this study was to assess the feasibility, complications, and long-term impact of using this stent in patients with lobar bronchial stenosis either secondary to malignancy or benign etiologies. Methods: All records of patients who had the placement of an iCast stent were reviewed over 3.5 years. For each patient the age, sex, location, histology, stent size, duration of stent placement, radiographic improvement, and complications were collected. Results: A total of 122 iCast stents were deployed in 38 patients with lobar bronchial stenosis. The average age was 58 years with 50% male. The etiology included 45% malignant and 55% due to benign conditions. In total, 18.5% patients had stents placed in >1 segment. There was an average of 4 procedures per patient with a mean time to stent revision or removal of 85 days. All patients had symptomatic or radiographic improvement. Common complications included migration (10%), granulation tissue formation (5%), deployment malfunction (2%), stent dislodgement immediately after deployment (2%), mucous plugging (1%), and tumor occlusion (1%). Conclusion: Stenting small airways with lobar salvage is feasible and improves symptoms and radiographic outcomes.",
+      "methods": "We retrospectively analyzed medical charts of patients who underwent an iCAST balloon-expandable stent placement at our institution (January 2012 to June 2015). All patients had inoperable lobar bronchial stenosis confirmed by flexible bronchoscopy. Patients initially had balloon bronchoplasty during bronchoscopy to assess for symptomatic improvement and to avoid stent placement; stenting was considered only if they had symptomatic improvement postbronchoplasty and recurrence of bronchial stricture. Patients were classified into 4 groups by etiology (radiotherapy complication, extrinsic compression from primary/metastatic lung carcinoma, lung transplantation complication, and miscellaneous benign conditions). Data collected included demographics, primary diagnosis, location of stenosis, stent size, radiographic findings pre/post stent, procedure or stent-related complications, number of bronchoscopic procedures since stent placement, duration of stent therapy and follow-up. Stenotic airways were dilated with CRE balloon, stent length measured bronchoscopically, and stent diameter chosen 10-15% larger than estimated airway diameter. Stents were deployed under direct visualization through a flexible bronchoscope under general anesthesia, followed by balloon bronchoplasty to attain largest diameter; stent modification performed as needed. Surveillance bronchoscopy occurred 6-12 weeks after the procedure. Outcome was judged successful if the patient experienced symptomatic improvement along with radiographic improvement and/or pulmonary function improvement at first follow-up.",
+      "results": "Thirty-eight patients (mean age 58 y; 50% female) underwent placement of 122 iCAST stents. Indications: malignancy 18.5%, radiotherapy-related stenosis 26%, lung transplantation 37%, other benign etiologies 18.5%. Seven patients (18.5%) had stents in >1 segment. There were 148 procedures (average 4 per patient). Most common stent sizes: 7x16 mm (48%), 7x22 mm (32%). Symptomatic improvement was observed in 36/38 (95%). Radiographic evaluation was available for 34/38 (89%); 26/34 (76%) had radiographic improvement. PFT data were available for 16 patients (14 lung transplant recipients); 15/16 (93%) improved with an average FEV1 improvement of 12.3% (range 4%-23%). Overall, 25 complications occurred among 122 stents (20%). Complications: migration 12 (10%), granulation tissue 6 (5%), stent dislodgement postdeployment 3 (2%), deployment malfunction 2 (2%), mucous plugging 1 (1%), tumor occlusion 1 (1%). No deaths were related to stenting. Twenty-two patients had no recorded complications; 16 patients died due to their underlying disease after initial follow-up. Mean time to stent revision/removal was 85 days (range 5-525)."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with inoperable lobar bronchial stenosis undergoing distal bronchial stenting at a single tertiary center.",
+      "inclusion_criteria": [
+        "Inoperable lobar bronchial stenosis confirmed by flexible bronchoscopy",
+        "Prior balloon bronchoplasty with symptomatic improvement",
+        "Recurrence of bronchial stricture after initial balloon bronchoplasty"
+      ],
+      "exclusion_criteria": [
+        "No symptomatic improvement after initial balloon bronchoplasty",
+        "Operable bronchial stenosis"
+      ]
+    },
+    "intervention": {
+      "text": "Atrium iCAST balloon-expandable covered stainless steel stent placement in lobar/segmental bronchi",
+      "details": "Pre-dilation with CRE balloon; stent diameter selected 10-15% larger than airway; deployment via flexible bronchoscope under general anesthesia; post-deployment ballooning with 8-9-10 mm CRE balloon; surveillance bronchoscopy at 6-12 weeks; stent modification/removal as needed"
+    },
+    "comparison": {
+      "text": "None (single-arm retrospective cohort)",
+      "details": "No concurrent comparator group"
+    },
+    "outcomes": [
+      {
+        "name": "Symptomatic improvement at first follow-up",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Radiographic improvement at first follow-up",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "PFT improvement at first follow-up",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Retrospective cohort",
+    "allocation": "non-randomized",
+    "blinding": "none",
+    "sites_count": 1,
+    "countries": [
+      "US"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 38,
+      "analyzed": 38
+    },
+    "analysis_populations": [
+      {
+        "name": "All treated",
+        "description": "All patients receiving at least one iCAST stent",
+        "n": 38
+      },
+      {
+        "name": "Radiographic-evaluable",
+        "description": "Patients with evaluable pre/post radiographs at first follow-up",
+        "n": 34
+      },
+      {
+        "name": "PFT-evaluable",
+        "description": "Patients with pre/post pulmonary function tests",
+        "n": 16
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "iCAST stent placement",
+      "n_randomized": 0,
+      "n_analyzed": 38,
+      "n_completed": 38
+    },
+    {
+      "arm_id": "control",
+      "name": "No control arm (single-arm study)",
+      "n_randomized": 0,
+      "n_analyzed": 0,
+      "n_completed": 0
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "symptomatic_improvement_first_followup",
+      "name": "Symptomatic improvement at first follow-up",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P2M",
+      "timepoint_label": "First follow-up (6-12 weeks)",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 36,
+            "total": 38
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "",
+        "measure": "single_arm",
+        "est": 0,
+        "ci_lower": 0,
+        "ci_upper": 0,
+        "ci_level": 0.95,
+        "p_value": 1,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive only",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated",
+        "missing_handling": "Not applicable (complete for this outcome)"
+      },
+      "provenance": {
+        "pages": [
+          12
+        ],
+        "tables": [],
+        "table_number": 0,
+        "quote": "Symptomatic improvement was observed in 95% of patients (36/38) when they were questioned at their follow-up visit."
+      }
+    },
+    {
+      "concept_id": "radiographic_improvement_first_followup",
+      "name": "Radiographic improvement at first follow-up",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P2M",
+      "timepoint_label": "First follow-up (6-12 weeks)",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 26,
+            "total": 34
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "",
+        "measure": "single_arm",
+        "est": 0,
+        "ci_lower": 0,
+        "ci_upper": 0,
+        "ci_level": 0.95,
+        "p_value": 1,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive only",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Radiographic-evaluable",
+        "missing_handling": "Excluded 4/38 without evaluable radiographs"
+      },
+      "provenance": {
+        "pages": [
+          12
+        ],
+        "tables": [],
+        "table_number": 0,
+        "quote": "Radiographic evaluation was available for 89% of patients (34/38)... Of the 34 evaluable patients, 76% had radiographic improvement... Of the 8 patients without radiographic improvement..."
+      }
+    },
+    {
+      "concept_id": "pft_improvement_first_followup",
+      "name": "Pulmonary function test (PFT) improvement at first follow-up",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P2M",
+      "timepoint_label": "First follow-up (6-12 weeks)",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 15,
+            "total": 16
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "",
+        "measure": "single_arm",
+        "est": 0,
+        "ci_lower": 0,
+        "ci_upper": 0,
+        "ci_level": 0.95,
+        "p_value": 1,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive only",
+        "adjusted": false,
+        "covariates": [],
+        "population": "PFT-evaluable",
+        "missing_handling": "Excluded patients without pre/post PFTs"
+      },
+      "provenance": {
+        "pages": [
+          12
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "Prestent and poststent placement pulmonary function testing (PFT) were available in 16 patients... 93% (15/16) of these patients showed improvements in their PFT’s, with an average improvement in forced expiratory volume (FEV1) of 12.3% (range, 4% to 23%)."
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Any complication (patient-level)",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Complication associated with device"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 16,
+          "patients": 16,
+          "percentage": 42.1,
+          "total": 38
+        },
+        {
+          "arm_id": "control",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 0
+        }
+      ],
+      "period": "Up to first follow-up and during stent maintenance",
+      "management": "Managed with bronchoscopic removal/revision, antibiotics as indicated",
+      "provenance": {
+        "pages": [
+          12
+        ],
+        "tables": [],
+        "quote": "The overall complication rate was 20% (25 complications in 122 stents placed)... In total, 22 patients did not have any recorded complications related to stent placement."
+      }
+    },
+    {
+      "event_name": "Device migration",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Device migration"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 12,
+          "patients": 12,
+          "percentage": 9.8,
+          "total": 122
+        },
+        {
+          "arm_id": "control",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 0
+        }
+      ],
+      "period": "During follow-up",
+      "management": "Proximal migrations: 4 removed bronchoscopically, 1 expectorated; distal migrations: all recovered; some required stent removal due to granulation tissue; one case treated with oral antibiotics for tracheobronchitis",
+      "provenance": {
+        "pages": [
+          12
+        ],
+        "tables": [
+          "Table 4"
+        ],
+        "quote": "A total of 12 stents migrated (10%). Five stents migrated proximally... Seven stents migrated distally..."
+      }
+    },
+    {
+      "event_name": "Granulation tissue",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Granulation tissue"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 6,
+          "patients": 6,
+          "percentage": 4.9,
+          "total": 122
+        },
+        {
+          "arm_id": "control",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 0
+        }
+      ],
+      "period": "During follow-up",
+      "management": "Bronchoscopic management; fluoroscopy required in 2 cases to locate/assist removal",
+      "provenance": {
+        "pages": [
+          12
+        ],
+        "tables": [
+          "Table 4"
+        ],
+        "quote": "Granulation tissue formation either proximal or distal to the stent was the second most frequently observed complication, occurring in 6 instances (5%)."
+      }
+    },
+    {
+      "event_name": "Device dislocation (immediate postdeployment dislodgement)",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Device dislocation"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 3,
+          "patients": 3,
+          "percentage": 2.5,
+          "total": 122
+        },
+        {
+          "arm_id": "control",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 0
+        }
+      ],
+      "period": "Peri-procedural",
+      "management": "Managed bronchoscopically",
+      "provenance": {
+        "pages": [
+          12
+        ],
+        "tables": [
+          "Table 4"
+        ],
+        "quote": "Three stents became dislodged immediately after deployment when they adhered to the outside of the bronchoscope..."
+      }
+    },
+    {
+      "event_name": "Device malfunction (deployment malfunction)",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Device malfunction"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 2,
+          "patients": 2,
+          "percentage": 1.6,
+          "total": 122
+        },
+        {
+          "arm_id": "control",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 0
+        }
+      ],
+      "period": "Peri-procedural",
+      "management": "One stent dislodged inside bronchoscope; one balloon rupture",
+      "provenance": {
+        "pages": [
+          12
+        ],
+        "tables": [
+          "Table 4"
+        ],
+        "quote": "One stent did not deploy and was found to be dislodged inside the bronchoscope; 1 stent did not deploy secondary to balloon rupture."
+      }
+    },
+    {
+      "event_name": "Airway obstruction due to mucus plug",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Airway obstruction"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 1,
+          "patients": 1,
+          "percentage": 0.8,
+          "total": 122
+        },
+        {
+          "arm_id": "control",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 0
+        }
+      ],
+      "period": "During follow-up",
+      "management": "Stent replaced",
+      "provenance": {
+        "pages": [
+          12
+        ],
+        "tables": [
+          "Table 4"
+        ],
+        "quote": "One stent was 95% occluded with a mucous plug and needed to be replaced."
+      }
+    },
+    {
+      "event_name": "Device occlusion (tumor occlusion of stent)",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Device occlusion"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 1,
+          "patients": 1,
+          "percentage": 0.8,
+          "total": 122
+        },
+        {
+          "arm_id": "control",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 0
+        }
+      ],
+      "period": "During follow-up",
+      "management": "Stent removed",
+      "provenance": {
+        "pages": [
+          12
+        ],
+        "tables": [
+          "Table 4"
+        ],
+        "quote": "The second stent was occluded with tumor and was removed."
+      }
+    },
+    {
+      "event_name": "Death (all-cause during follow-up, unrelated to stent)",
+      "meddra": {
+        "soc": "General disorders and administration site conditions",
+        "pt": "Death"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "death"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 16,
+          "patients": 16,
+          "percentage": 42.1,
+          "total": 38
+        },
+        {
+          "arm_id": "control",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 0
+        }
+      ],
+      "period": "Post initial follow-up (duration variable)",
+      "management": "Not applicable",
+      "provenance": {
+        "pages": [
+          12
+        ],
+        "tables": [],
+        "quote": "Sixteen patients died secondary to their underlying disease process after the initial follow-up evaluation. No death was related to airway stenting complications."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "ROBINS-I",
+    "overall_judgment": "serious",
+    "domains": [
+      {
+        "name": "Confounding",
+        "judgment": "serious",
+        "support_for_judgment": "Single-arm retrospective design without comparator; heterogeneous etiologies (malignant, post-transplant, radiotherapy, benign)."
+      },
+      {
+        "name": "Selection of participants",
+        "judgment": "moderate",
+        "support_for_judgment": "Included only patients with symptomatic improvement after prior balloon bronchoplasty and recurrent stenosis; potential selection bias."
+      },
+      {
+        "name": "Classification of interventions",
+        "judgment": "low",
+        "support_for_judgment": "All participants received the same stent type with a consistent procedural protocol."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "low",
+        "support_for_judgment": "Protocol-driven surveillance and management; modifications documented."
+      },
+      {
+        "name": "Missing data",
+        "judgment": "moderate",
+        "support_for_judgment": "Radiographic outcomes evaluable in 34/38; PFTs in 16/38."
+      },
+      {
+        "name": "Measurement of outcomes",
+        "judgment": "moderate",
+        "support_for_judgment": "Symptomatic improvement based on patient report; radiographic/PFT objective for subsets."
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "low",
+        "support_for_judgment": "Predefined departmental protocol and outcomes reported with counts."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "iCAST stent",
+      "lobar bronchial stenosis",
+      "distal airway stent",
+      "bronchoscopy",
+      "lung transplant",
+      "radiation bronchial stenosis"
+    ],
+    "summary_tldr": "In a single-center retrospective cohort (n=38), distal lobar iCAST stenting was feasible with symptomatic improvement in 36/38 and radiographic improvement in 26/34 at 6-12 weeks; 25 complications occurred among 122 stents (migration most common).",
+    "clinical_relevance": "Provides real-world evidence that balloon-expandable covered vascular stents can palliate distal lobar stenoses with acceptable complication rates, supporting 'lobar salvage' in selected patients."
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "source": {
+    "document_id": "State-of-the-Art Modalities for Peripheral Lung Nodule Biopsy",
+    "ingest_date": "2025-08-08T16:00:01.296536+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1016/j.ccm.2017.11.007"
+  },
+  "document": {
+    "metadata": {
+      "title": "State-of-the-Art Modalities for Peripheral Lung Nodule Biopsy",
+      "year": 2018,
+      "authors": [
+        "Satish Kalanjeri",
+        "Robert C. Holladay",
+        "Thomas R. Gildea"
+      ],
+      "journal": "Clinics in Chest Medicine",
+      "doi": "10.1016/j.ccm.2017.11.007",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Narrative review of contemporary modalities for obtaining tissue diagnosis from peripheral pulmonary nodules (PPN). The article summarizes conventional bronchoscopy limitations; image-guided bronchoscopic tools such as radial probe endobronchial ultrasound (RP-EBUS), virtual bronchoscopic navigation (VBN), and electromagnetic navigational bronchoscopy (ENB); adjunctive technologies like confocal laser endomicroscopy (CLE); and percutaneous approaches. It reports diagnostic yields from meta-analyses and trials (e.g., RP-EBUS ~70%, VBN ~72-74%) and discusses safety profiles, including higher complication rates with transthoracic needle aspiration (TTNA).",
+      "methods": "Narrative, non-systematic review synthesizing published studies, meta-analyses, and selected clinical trials on peripheral lung nodule biopsy technologies. No predefined protocol, randomization, or statistical meta-analysis conducted by the authors of this review.",
+      "results": "Key quantitative summaries include: conventional bronchoscopy diagnostic yield for PPN 43-65% overall, lower (14-31%) for small (<20 mm) nodules; RP-EBUS overall diagnostic yield about 69-73%, with higher yield when a guide sheath is used (84% vs 48%) and when the probe is within the lesion (84% vs 48%); a systematic review across 57 studies and 7872 lesions reported RP-EBUS diagnostic yield 70.6%; pooled VBN yield ~72-74% (lower for lesions ≤20 mm ~67%); one trial showed improved yield with VBN+RP-EBUS for lesions ≤30 mm (80% vs 67%), while another showed no significant improvement with VBN-assisted ultrathin bronchoscopy (67% vs 60%); BTPNA in a 12-patient human trial created a transparenchymal track in 10 patients with 100% diagnostic yield in those 10. TTNA sensitivity up to 90% for malignancy but with complications up to 24% in some studies."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with peripheral pulmonary nodules undergoing diagnostic evaluation/biopsy.",
+      "inclusion_criteria": [
+        "Peripheral pulmonary nodule requiring tissue diagnosis"
+      ],
+      "exclusion_criteria": [
+        "Not specified (narrative review)"
+      ]
+    },
+    "intervention": {
+      "text": "Bronchoscopic image-guided modalities",
+      "details": "Radial probe endobronchial ultrasound (with/without guide sheath), virtual bronchoscopic navigation, electromagnetic navigational bronchoscopy, confocal laser endomicroscopy, bronchoscopic transparenchymal nodule access."
+    },
+    "comparison": {
+      "text": "Alternative diagnostic approaches",
+      "details": "Conventional bronchoscopy, CT-guided transthoracic needle aspiration/biopsy, surgical approaches."
+    },
+    "outcomes": [
+      {
+        "name": "Diagnostic yield of biopsy modality",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Complications (e.g., pneumothorax)",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "narrative_review",
+    "allocation": "",
+    "blinding": "",
+    "sites_count": 0,
+    "countries": [],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": []
+  },
+  "arms": [],
+  "outcomes_normalized": [
+    {
+      "concept_id": "btpna_diagnostic_yield_single_arm",
+      "name": "Diagnostic yield among patients with successful BTPNA track creation",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "",
+      "groups": [
+        {
+          "arm_id": "single_arm",
+          "raw": {
+            "events": 10,
+            "total": 10
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "",
+        "measure": "proportion",
+        "est": 1,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Patients with transparenchymal track created",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "In a human trial in 12 patients, this technique was successfully applied to 10 patients (track could not be created in 2 patients), and in all 10 cases where a transparenchymal track could be created, the diagnostic yield for BTPNA was 100%."
+      }
+    }
+  ],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "N/A",
+    "overall_judgment": "unclear",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "peripheral pulmonary nodule",
+      "bronchoscopy",
+      "radial EBUS",
+      "virtual bronchoscopy",
+      "electromagnetic navigation",
+      "confocal endomicroscopy",
+      "transbronchial biopsy",
+      "transthoracic needle aspiration"
+    ],
+    "summary_tldr": "Narrative review: RP-EBUS and navigational bronchoscopy achieve ~70-74% diagnostic yield for PPN with favorable safety vs TTNA, which has higher sensitivity but higher complication rates.",
+    "clinical_relevance": "Guides selection of biopsy modality for peripheral lung nodules balancing yield and safety."
+  }
+}

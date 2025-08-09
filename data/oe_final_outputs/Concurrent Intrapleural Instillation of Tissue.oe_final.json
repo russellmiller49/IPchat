@@ -1,0 +1,560 @@
+{
+  "source": {
+    "document_id": "Concurrent Intrapleural Instillation of Tissue",
+    "ingest_date": "2025-08-08T10:55:03.599067+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1513/AnnalsATS.201602-127OC"
+  },
+  "document": {
+    "metadata": {
+      "title": "Concurrent Intrapleural Instillation of Tissue Plasminogen Activator and DNase for Pleural Infection: A Single-Center Experience",
+      "year": 2016,
+      "authors": [
+        "Adnan Majid",
+        "Fayez Kheir",
+        "Alejandro Folch",
+        "Sebastian Fernandez-Bussy",
+        "Sumit Chatterji",
+        "Ashish Maskey",
+        "Meghan Fashjian",
+        "George Cheng",
+        "Sebastian Ochoa",
+        "Daniel Alape",
+        "Erik Folch"
+      ],
+      "journal": "Annals of the American Thoracic Society",
+      "doi": "10.1513/AnnalsATS.201602-127OC",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Rationale: Treatment of pleural infection with intrapleural tissue plasminogen activator (tPA) and human recombinant DNase (DNase) decreases length of stay, surgical referral, and improves drainage. Optimal dosing and whether drugs can be given immediately one after the other (concurrent) are unclear. Objectives: Assess safety and efficacy of concurrent intrapleural tPA/DNase guided by clinical and radiographic response in pleural infection. Methods: Retrospective cohort of consecutive patients receiving concurrent tPA/DNase. Initiation and number of doses were based on drainage, clinical response, and imaging. Results: Seventy-three patients received concurrent tPA/DNase; treatment was successful in 90.4%. Most (80.8%) were effectively treated with fewer than six doses (median 2; IQR 1-3.5). First dose within 24 hours of chest tube insertion in 71.2%. Median hospital stay from first dose to discharge was 7 days (IQR 5-11). Pleural fluid drained increased from median 295 ml (IQR 97.5-520) 24 hours before treatment to 1,102 ml (IQR 627-2,200) at 72 hours after therapy (P<0.001). Nonfatal pleural bleeding occurred in 5.4%, chest pain in 15.1%, and mortality due to pleural infection was 2.7%. Conclusions: Early concurrent tPA/DNase appears relatively safe and effective; therapy can be guided by clinical and radiographic response.",
+      "methods": "Retrospective cohort at a single center (Beth Israel Deaconess Medical Center). Consecutive patients with pleural infection (complicated parapneumonic effusion [CPPE] or empyema) receiving concurrent intrapleural tPA/DNase between January 2010 and October 2015 were included. CPPE defined by clinical infection and pleural fluid pH ≤7.2, glucose <60 mg/dl, LDH >1,000 IU/L, and/or loculations. Empyema defined as pus and/or positive Gram stain/culture. Chest tubes placed under ultrasound guidance. tPA 10 mg and DNase 5 mg, each in 50 ml 0.9% NaCl, administered intrapleurally one after the other (not mixed), followed by 60-ml saline flush, tube clamped for 120 minutes, then suction. Dosed twice daily up to six doses. Initiation and dosing guided by drainage (<200 ml/24 h), ultrasound/CT evidence of septations, and clinical response. Outcomes included treatment success (clinical/radiographic improvement without surgery), adverse events (pleural bleeding requiring transfusion or causing hemodynamic instability; significant pain requiring escalation of analgesia), change in CT effusion volume, need for surgery, mortality due to pleural infection, pleural fluid drainage volumes, length of stay, chest tube duration, number of fibrinolytic doses, and chest tube characteristics. Statistics: nonparametric summaries; Wilcoxon signed-rank test for paired pre/post comparisons; significance at P<0.05.",
+      "results": "Seventy-three patients (mean age 59.3 years; 70% male) received concurrent tPA/DNase. Small-bore chest tubes were used in 91.8%. Ultrasound showed loculations in 76.7%. Purulent fluid in 30.1%; positive Gram stain/culture in 26.0%. Treatment success without surgery in 66/73 (90.4%); 7/73 (9.6%) required surgery. Most patients (59/73; 80.8%) responded with fewer than six doses (median doses 2; IQR 1-3.5). First dose within 24 hours of tube insertion in 52/73 (71.2%). Pleural fluid drained increased from median 295 ml (IQR 97.5-520) 24 hours before therapy to 1,102 ml (IQR 627-2,200) 72 hours after therapy (P<0.001). CT effusion volume reduced from median 361 ml (IQR 239-677) to 80 ml (IQR 37.2-154.3) (P<0.001). In-hospital mortality due to pleural infection was 2/73 (2.7%). Pleural bleeding requiring transfusion occurred in 4/73 (5.4%); chest pain requiring opioid escalation in 11/73 (15.1%). Median chest tube duration 5 days (IQR 4-8); time from insertion to first tPA/DNase dose 1 day (IQR 0-2). Median total hospital stay 11 days (IQR 7-15); from first dose to discharge 7 days (IQR 5-11)."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with pleural infection (complicated parapneumonic effusion or empyema) requiring chest tube drainage at a single tertiary center.",
+      "inclusion_criteria": [
+        "Pleural infection (CPPE or empyema) with clinical evidence of infection",
+        "CPPE defined by pleural fluid pH ≤7.2 and/or glucose <60 mg/dl and/or LDH >1,000 IU/L and/or radiographic loculations",
+        "Empyema defined by pus and/or positive Gram stain or culture",
+        "Chest tube placed; consideration of intrapleural therapy based on poor drainage (<200 ml/24 h) and imaging evidence of septations"
+      ],
+      "exclusion_criteria": [
+        "Not reported"
+      ]
+    },
+    "intervention": {
+      "text": "Concurrent intrapleural tPA and DNase",
+      "details": "tPA 10 mg and DNase 5 mg, each diluted in 50 ml 0.9% NaCl, administered intrapleurally sequentially one immediately after the other (not mixed), followed by 60-ml saline flush; chest tube clamped for 120 minutes, then placed to wall suction; given twice daily up to a maximum of 6 doses; initiation and total doses guided by drainage, clinical response, and ultrasound/CT findings."
+    },
+    "comparison": {
+      "text": "No concurrent control group (single-arm retrospective cohort)",
+      "details": "No randomized comparator; pre/post within-patient assessments for drainage and CT volumes."
+    },
+    "outcomes": [
+      {
+        "name": "Treatment success without need for surgical intervention",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Change in pleural fluid drainage volume (pre vs post therapy)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Change in CT-quantified pleural effusion volume (pre vs post therapy)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Adverse events (pleural bleeding; chest pain requiring escalation of analgesia)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Mortality related to pleural infection (in-hospital)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Need for surgical intervention",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "retrospective cohort",
+    "allocation": "non-randomized",
+    "blinding": "none",
+    "sites_count": 1,
+    "countries": [
+      "US"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 73,
+      "analyzed": 73
+    },
+    "analysis_populations": [
+      {
+        "name": "All treated",
+        "description": "All patients who received concurrent intrapleural tPA/DNase",
+        "n": 73
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "Concurrent intrapleural tPA 10 mg + DNase 5 mg",
+      "n_randomized": 0,
+      "n_analyzed": 73,
+      "n_completed": 73
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "treatment_success_no_surgery_inhospital",
+      "name": "Treatment success without surgical intervention (in-hospital)",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "At hospital discharge",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 66,
+            "total": 73
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": "single_arm_proportion",
+        "est": 0.904,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          1514
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "tPA/DNase therapy was successful in 90.4% (66 of 73) of the patients."
+      }
+    },
+    {
+      "concept_id": "surgical_intervention_required_inhospital",
+      "name": "Required surgical intervention (treatment failure)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "During index hospitalization",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 7,
+            "total": 73
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": "single_arm_proportion",
+        "est": 0.096,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          1514
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "Seven patients (9.6%) had no clinical or radiographic response and required surgical intervention."
+      }
+    },
+    {
+      "concept_id": "mortality_pleural_infection_inhospital",
+      "name": "Mortality due to pleural infection (in-hospital)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "In-hospital",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 2,
+            "total": 73
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": "single_arm_proportion",
+        "est": 0.027,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          1515
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "Two patients (2.7%) died ... after intrapleural therapy."
+      }
+    },
+    {
+      "concept_id": "pleural_bleeding_treatment_related",
+      "name": "Pleural bleeding requiring transfusion",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "In-hospital",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 4,
+            "total": 73
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": "single_arm_proportion",
+        "est": 0.055,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          1515
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "Four patients (5.4%) had treatment-related pleural bleeding without hemodynamic instability requiring blood transfusion."
+      }
+    },
+    {
+      "concept_id": "chest_pain_escalation_analgesia",
+      "name": "Chest pain requiring escalation of opioid analgesia",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "In-hospital",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 11,
+            "total": 73
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": "single_arm_proportion",
+        "est": 0.151,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          1515
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "Chest pain requiring escalation of opioid analgesia occurred in 11 patients (15.1%)."
+      }
+    },
+    {
+      "concept_id": "pleural_fluid_drained_change_72h",
+      "name": "Change in cumulative pleural fluid drained (24 h pre vs 72 h post therapy)",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P3D",
+      "unit": "ml",
+      "unit_canonical": "milliliter",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "median_pre": 295,
+            "iqr_low_pre": 97.5,
+            "iqr_high_pre": 520,
+            "median_post": 1102,
+            "iqr_low_post": 627,
+            "iqr_high_post": 2200,
+            "total": 73
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": "within_group_change",
+        "est": null,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": 0.001,
+        "p_operator": "<",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Wilcoxon signed-rank test (paired)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          1514
+        ],
+        "tables": [],
+        "quote": "The volume of pleural fluid drained increased from a median of 295 ml (IQR, 97.5-520) 24 hours before treatment to a median of 1,102 ml (IQR, 627-2,200) 72 hours following therapy (P < 0.001)."
+      }
+    },
+    {
+      "concept_id": "ct_effusion_volume_change",
+      "name": "Change in CT-quantified pleural effusion volume (pre vs post therapy)",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "unit": "ml",
+      "unit_canonical": "milliliter",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "median_pre": 361,
+            "iqr_low_pre": 239,
+            "iqr_high_pre": 677,
+            "median_post": 80,
+            "iqr_low_post": 37.2,
+            "iqr_high_post": 154.3,
+            "total": 73
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": "within_group_change",
+        "est": null,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": 0.001,
+        "p_operator": "<",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Wilcoxon signed-rank test (paired)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          1514
+        ],
+        "tables": [],
+        "quote": "tPA/DNase reduced pleural fluid volume determined by chest CT from a median of 361 ml (IQR, 239-677) to a median of 80 ml (IQR, 37.2-154.3) (P < 0.001)."
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Pleural bleeding (haemothorax)",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Haemothorax"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "medically_significant",
+        "intervention_required"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 4,
+          "patients": 4,
+          "percentage": 5.4,
+          "total": 73
+        }
+      ],
+      "period": "In-hospital",
+      "management": "Interruption of intrapleural therapy and blood transfusion; no surgery required.",
+      "provenance": {
+        "pages": [
+          1515
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "quote": "Four patients (5.4%) had treatment-related pleural bleeding without hemodynamic instability requiring blood transfusion."
+      }
+    },
+    {
+      "event_name": "Chest pain",
+      "meddra": {
+        "soc": "Cardiac disorders",
+        "pt": "Chest pain"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 11,
+          "patients": 11,
+          "percentage": 15.1,
+          "total": 73
+        }
+      ],
+      "period": "In-hospital",
+      "management": "Escalation of opioid analgesia; intrapleural therapy continued.",
+      "provenance": {
+        "pages": [
+          1515
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "quote": "Chest pain requiring escalation of opioid analgesia occurred in 11 patients (15.1%) and did not require termination of intrapleural therapy."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "ROBINS-I",
+    "overall_judgment": "serious",
+    "domains": [
+      {
+        "name": "Confounding",
+        "judgment": "serious",
+        "support_for_judgment": "Single-arm retrospective cohort without control; outcomes may be influenced by disease severity and concurrent treatments."
+      },
+      {
+        "name": "Selection of participants",
+        "judgment": "moderate",
+        "support_for_judgment": "Consecutive patients at a single center; inclusion based on clinical judgment for intrapleural therapy."
+      },
+      {
+        "name": "Classification of interventions",
+        "judgment": "low",
+        "support_for_judgment": "Intervention protocol clearly described (tPA 10 mg + DNase 5 mg, concurrent)."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "moderate",
+        "support_for_judgment": "Number of doses individualized based on response; potential performance bias."
+      },
+      {
+        "name": "Missing data",
+        "judgment": "low",
+        "support_for_judgment": "All 73 treated patients reported in outcomes."
+      },
+      {
+        "name": "Measurement of outcomes",
+        "judgment": "moderate",
+        "support_for_judgment": "Objective measures (drainage volumes, CT volumes) with standardized imaging; treatment success includes clinical components."
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "moderate",
+        "support_for_judgment": "Pre/post analyses reported; no protocol available to verify outcome selection."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "pleural infection",
+      "empyema",
+      "complicated parapneumonic effusion",
+      "tissue plasminogen activator",
+      "DNase",
+      "intrapleural fibrinolytic therapy",
+      "concurrent administration"
+    ],
+    "summary_tldr": "In a single-center retrospective cohort (n=73), concurrent intrapleural tPA 10 mg + DNase 5 mg achieved 90.4% treatment success, increased drainage from 295 ml to 1,102 ml at 72 h (P<0.001), and reduced CT effusion volume from 361 ml to 80 ml (P<0.001); pleural bleeding occurred in 4/73 and chest pain in 11/73.",
+    "clinical_relevance": "Supports feasibility and safety of early, response-guided concurrent tPA/DNase for pleural infection, potentially reducing need for surgery."
+  }
+}

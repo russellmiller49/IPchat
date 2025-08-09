@@ -1,0 +1,509 @@
+{
+  "source": {
+    "document_id": "Bronchoscopic transparenchymal nodule access (BTPNA)",
+    "ingest_date": "2025-08-08T10:32:07.588098+00:00",
+    "trial_registration_id": "NCT02130115",
+    "pmid": "25742467",
+    "doi": "10.1136/thoraxjnl-2014-206211"
+  },
+  "document": {
+    "metadata": {
+      "title": "Bronchoscopic transparenchymal nodule access (BTPNA): first in human trial of a novel procedure for sampling solitary pulmonary nodules",
+      "year": 2015,
+      "authors": [
+        "Herth FJF",
+        "Eberhardt R",
+        "Sterman D",
+        "Silvestri GA",
+        "Hoffmann H",
+        "Shah PL"
+      ],
+      "journal": "Thorax",
+      "doi": "10.1136/thoraxjnl-2014-206211",
+      "pmid": "25742467"
+    },
+    "sections": {
+      "abstract": "Introduction The promise of benefits from lung cancer screening is tempered by the false positive rate and the need to perform diagnostic procedures to determine the aetiology of the solitary pulmonary nodules (SPN) identified. We have developed a novel procedure which allows sampling of SPNs via a transparenchymal approach, and report the results from this as a first in human trial. Methods This study was a prospective single-arm interventional study. We recruited patients with a SPN detected on CT imaging, which was suspicious for lung cancer, who were suitable for surgical resection. Using the subject’s CT, an optimal airway wall point of entry (POE), and an avascular path through lung tissue from the POE to the SPN was calculated. A tunnel tract was created from the POE to the nodule using a set of catheter-based tools under fused fluoroscopy guidance. The patients proceeded to surgical resection immediately after the biopsy. The participants were followed-up for 6 months after the procedure. The primary endpoint of the study was to evaluate the feasibility to access and biopsy the nodule. Results Twelve patients were recruited, and a tunnel pathway created in 10 patients. There were no adverse events during the procedures. Adequate biopsies were obtained from 10 patients (83%), which correlated with the histological findings from the surgical resection. Inspection of the resected lobes did not raise any safety concerns and indicated appropriately tunnelled pathways to the nodule. Conclusions This first in human study demonstrates that bronchoscopic transparenchymal access of SPNs is feasible. Trial registration number NCT02130115.",
+      "methods": "This study was a prospective single-arm interventional study. Patients with a CT-detected solitary pulmonary nodule (SPN) suspicious for lung cancer or metastatic disease, suitable for surgical resection, and with the SPN located ≥10 mm from pleura were enrolled after consent. Planning used the Archimedes Virtual Bronchoscopy Navigation (VBN) System to compute a vessel-free straight path from an airway point of entry (POE) to the SPN and to guide bronchoscopy to the POE. Under general anaesthesia, a coring needle was used to penetrate the airway wall at the POE, the tract was dilated with a balloon, and a blunt stylet-sheathed catheter was advanced under fused CT-fluoroscopy guidance to create a parenchymal tunnel to the SPN for forceps biopsy. A balloon blocker was positioned prophylactically in the lobar bronchus. Immediate post-procedure chest radiograph was performed, followed by surgical resection of the SPN. Intraoperative and ex vivo inspection verified tunnel trajectory. Follow-up at 90 and 180 days assessed adverse events.",
+      "results": "Twelve patients (6 men, 6 women; median age 62 years, range 40-72) were enrolled. The BTPNA tunnel pathway was created in 10/12 patients (83%). Adequate histological sampling sufficient for diagnosis was obtained in all 10/10 cases where a tunnel was created, and biopsy histology correlated with surgical pathology in all cases. There were no significant intraprocedural adverse events; post-procedure fluoroscopy showed no pneumothorax. Surgical inspection and specimen examination revealed no localized haemorrhage, bronchial or pulmonary lacerations. One patient had a transient rise in troponin levels post-BTPNA and surgical resection. Outpatient follow-up at 90 and 180 days found no adverse events attributable to the procedure. In 7/12 patients, nodules were not visible on fluoroscopy; the procedure was successfully completed in 6/7 of these cases. The two unsuccessful BTPNA cases involved apical left upper lobe nodules where bronchoscope orientation and vascular proximity precluded a safe straight-line tunnel."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults (21-75 years) with CT-detected solitary pulmonary nodules suspicious for lung cancer or metastasis, suitable for surgical resection, with nodules ≥10 mm and ≤40 mm located ≥10 mm from pleura, without endobronchial tumor, and airway-accessible POE on planning CT.",
+      "inclusion_criteria": [
+        "Age 21-75 years",
+        "Suitable for surgery",
+        "Nodule due to suspected lung cancer or metastatic disease",
+        "Nodule >10 mm and ≤40 mm in largest dimension",
+        "No known endobronchial tumour",
+        "Nodule located in parenchymal tissue >10 mm from pleura",
+        "Nodule accessible bronchoscopically through a point of entry on planning CT reconstruction",
+        "Able to understand study requirements",
+        "Able to provide signed consent"
+      ],
+      "exclusion_criteria": [
+        "Inability to tolerate bronchoscopy under heavy sedation or general anaesthesia",
+        "Long-term use of anticoagulants or antiplatelet agents that cannot be discontinued",
+        "Uncorrectable coagulopathy",
+        "Platelet dysfunction or platelet count <100×10",
+        "History of major bleeding with bronchoscopy",
+        "Pulmonary hypertension with mean pulmonary arterial pressure >25 mmHg",
+        "Moderate-to-severe pulmonary fibrosis",
+        "Moderate-to-severe emphysema or COPD with FEV1 <60% predicted or RV >200% predicted",
+        "Bullae >50 mm located in vicinity of target SPN tunnel",
+        "Any severe or life-threatening comorbidity increasing risk of bronchoscopic tunnelling (ASA class >3, >stage 3 heart failure, severe cachexia, severe respiratory insufficiency or hypoxia)",
+        "Ongoing systemic infection",
+        "Contraindication to general anaesthesia",
+        "Participation in any other study in last 30 days",
+        "Prior thoracic surgery on the same side of the lung as the SPN",
+        "Pregnant or lactating",
+        "Known intrapulmonary metastases of extrapulmonary cancer/tumors"
+      ]
+    },
+    "intervention": {
+      "text": "Bronchoscopic Trans-Parenchymal Nodule Access (BTPNA) using Archimedes VBN with fused CT-fluoroscopy guidance",
+      "details": "Under general anaesthesia, virtual bronchoscopy navigation to an airway POE; airway wall puncture with coring needle, balloon dilation, blunt stylet-sheathed catheter advanced to create an avascular, straight parenchymal tunnel to the SPN under fused fluoroscopy; forceps biopsies obtained; prophylactic lobar balloon blocker in place; immediate chest radiograph; surgical resection performed thereafter."
+    },
+    "comparison": {
+      "text": "None",
+      "details": "Single-arm feasibility study without a control group"
+    },
+    "outcomes": [
+      {
+        "name": "Feasibility to access and biopsy the nodule (successful tunnel creation with ≥1 adequate biopsy)",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Biopsy yield (diagnostic adequacy among sampled nodules)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Safety (intraprocedural and post-procedure complications)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Concordance of BTPNA biopsy histology with surgical pathology",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "single-arm interventional feasibility study",
+    "allocation": "nonrandomized",
+    "blinding": "open-label",
+    "sites_count": 1,
+    "countries": [
+      "Germany"
+    ],
+    "sample_size": {
+      "planned": 12,
+      "enrolled": 12,
+      "analyzed": 12
+    },
+    "analysis_populations": [
+      {
+        "name": "All attempted BTPNA",
+        "description": "All enrolled patients in whom at least one attempt for BTPNA was made",
+        "n": 12
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "single_arm",
+      "name": "BTPNA with Archimedes VBN and fused fluoroscopy guidance",
+      "n_randomized": 0,
+      "n_analyzed": 12,
+      "n_completed": 12
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "btpna_feasibility_access_biopsy",
+      "name": "Feasibility to access and biopsy the nodule",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "PT0M",
+      "timepoint_label": "Intra-procedure",
+      "groups": [
+        {
+          "arm_id": "single_arm",
+          "raw": {
+            "events": 10,
+            "total": 12
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": "one_sample_proportion",
+        "est": 0.833,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": null,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Exact binomial proportion (descriptive)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All attempted BTPNA",
+        "missing_handling": "Not applicable (complete case)"
+      },
+      "provenance": {
+        "pages": [
+          329
+        ],
+        "tables": [],
+        "quote": "Twelve patients were enrolled... The BTPNA procedure was successfully completed in 10 patients (83%), and a positive biopsy was successfully obtained in all 10 cases in which a tunnel was successfully created from the POE to the SPN."
+      }
+    },
+    {
+      "concept_id": "btpna_biopsy_yield_diagnostic",
+      "name": "Biopsy yield among sampled nodules (diagnostic adequacy)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "PT0M",
+      "timepoint_label": "Intra-procedure",
+      "groups": [
+        {
+          "arm_id": "single_arm",
+          "raw": {
+            "events": 10,
+            "total": 10
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": "one_sample_proportion",
+        "est": 1,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": null,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Exact binomial proportion (descriptive)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Sampled nodules (tunnel created)"
+      },
+      "provenance": {
+        "pages": [
+          329
+        ],
+        "tables": [],
+        "quote": "Adequate histological sampling sufficient for a histological diagnosis was successfully achieved in 10 of the patients."
+      }
+    },
+    {
+      "concept_id": "btpna_concordance_biopsy_vs_surgery",
+      "name": "Concordance of BTPNA biopsy histology with surgical pathology",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Immediate postoperative comparison",
+      "groups": [
+        {
+          "arm_id": "single_arm",
+          "raw": {
+            "events": 10,
+            "total": 10
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": "one_sample_proportion",
+        "est": 1,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": null,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Exact binomial proportion (descriptive)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Sampled nodules (tunnel created)"
+      },
+      "provenance": {
+        "pages": [
+          329
+        ],
+        "tables": [],
+        "quote": "The histological findings from the biopsies obtained by BTPNA correlated with the final pathology in all the surgically resected nodules."
+      }
+    },
+    {
+      "concept_id": "btpna_success_in_fluoro_invisible_nodules",
+      "name": "BTPNA success when nodule not visible on fluoroscopy",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "PT0M",
+      "timepoint_label": "Intra-procedure",
+      "groups": [
+        {
+          "arm_id": "single_arm",
+          "raw": {
+            "events": 6,
+            "total": 7
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": "one_sample_proportion",
+        "est": 0.857,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": null,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Exact binomial proportion (descriptive)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Subgroup with fluoroscopy-invisible nodules"
+      },
+      "provenance": {
+        "pages": [
+          329
+        ],
+        "tables": [],
+        "quote": "In seven of the 12 patients, the nodules were not visible at fluoroscopy. Despite this... the procedure was successfully completed in six of these seven patients."
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Pneumothorax",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Pneumothorax"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "single_arm",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 12
+        }
+      ],
+      "period": "Intra-procedural and immediate post-procedure (post-procedure radiograph)",
+      "management": "Not applicable",
+      "provenance": {
+        "pages": [
+          329
+        ],
+        "tables": [],
+        "quote": "Fluoroscopy, after completion of the procedure, did not reveal any occurrence of adverse events, such as pneumothorax."
+      }
+    },
+    {
+      "event_name": "Pulmonary haemorrhage",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Pulmonary haemorrhage"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "single_arm",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 12
+        }
+      ],
+      "period": "Intraoperative and specimen inspection",
+      "management": "Not applicable",
+      "provenance": {
+        "pages": [
+          329
+        ],
+        "tables": [],
+        "quote": "Inspection during surgical resection and of the resected lobe did not reveal any evidence of localised haemorrhage..."
+      }
+    },
+    {
+      "event_name": "Pneumomediastinum",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Pneumomediastinum"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "single_arm",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 12
+        }
+      ],
+      "period": "Intra-procedural",
+      "management": "Not applicable",
+      "provenance": {
+        "pages": [
+          329
+        ],
+        "tables": [],
+        "quote": "There were no significant intraprocedural adverse events."
+      }
+    },
+    {
+      "event_name": "Bronchial injury",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Bronchial injury"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "single_arm",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 12
+        }
+      ],
+      "period": "Intraoperative and specimen inspection",
+      "management": "Not applicable",
+      "provenance": {
+        "pages": [
+          329
+        ],
+        "tables": [],
+        "quote": "Inspection... did not reveal any evidence of ... bronchial or pulmonary lacerations."
+      }
+    },
+    {
+      "event_name": "Pulmonary laceration",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Lung injury"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "single_arm",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 12
+        }
+      ],
+      "period": "Intraoperative and specimen inspection",
+      "management": "Not applicable",
+      "provenance": {
+        "pages": [
+          329
+        ],
+        "tables": [],
+        "quote": "Inspection... did not reveal any evidence of ... bronchial or pulmonary lacerations."
+      }
+    },
+    {
+      "event_name": "Troponin increased",
+      "meddra": {
+        "soc": "Investigations",
+        "pt": "Troponin increased"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "single_arm",
+          "events": 1,
+          "patients": 1,
+          "percentage": 8.3,
+          "total": 12
+        }
+      ],
+      "period": "Post-procedure during index hospitalization",
+      "management": "Not specified; transient laboratory abnormality",
+      "provenance": {
+        "pages": [
+          329
+        ],
+        "tables": [],
+        "quote": "The only adverse event observed was a transient rise in troponin levels in one patient post-BTPNA and surgical resection."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "ROBINS-I",
+    "overall_judgment": "serious",
+    "domains": [
+      {
+        "name": "Bias due to confounding",
+        "judgment": "serious",
+        "support_for_judgment": "Single-arm feasibility study with no control group; outcomes are descriptive proportions without adjustment."
+      },
+      {
+        "name": "Bias in selection of participants into the study",
+        "judgment": "moderate",
+        "support_for_judgment": "Highly selected surgical candidates; inclusion/exclusion criteria restrict generalizability."
+      },
+      {
+        "name": "Bias in classification of interventions",
+        "judgment": "low",
+        "support_for_judgment": "All participants received the same procedural intervention."
+      },
+      {
+        "name": "Bias due to deviations from intended interventions",
+        "judgment": "low",
+        "support_for_judgment": "Procedure performed as planned under protocol with immediate surgery thereafter."
+      },
+      {
+        "name": "Bias due to missing data",
+        "judgment": "low",
+        "support_for_judgment": "All 12 enrolled had outcome data; follow-up to 180 days reported for AEs."
+      },
+      {
+        "name": "Bias in measurement of outcomes",
+        "judgment": "moderate",
+        "support_for_judgment": "Operator and assessors were not blinded; feasibility assessed intra-procedurally."
+      },
+      {
+        "name": "Bias in selection of the reported result",
+        "judgment": "moderate",
+        "support_for_judgment": "Feasibility endpoints predefined; limited statistical reporting."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "bronchoscopic transparenchymal nodule access",
+      "BTPNA",
+      "solitary pulmonary nodule",
+      "virtual bronchoscopy",
+      "Archimedes system",
+      "fused fluoroscopy"
+    ],
+    "summary_tldr": "In a single-arm first-in-human study (n=12), BTPNA enabled successful tunnel creation and diagnostic biopsy in 10/12 patients (10/10 yield among sampled) with no intraprocedural complications.",
+    "clinical_relevance": "Demonstrates feasibility of an airway-independent bronchoscopic approach for peripheral pulmonary nodules, potentially reducing reliance on transthoracic or surgical diagnostics."
+  }
+}

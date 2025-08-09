@@ -1,0 +1,111 @@
+{
+  "source": {
+    "document_id": "Hu-2018-Application of the Montgomery T-tube i",
+    "ingest_date": "2025-08-08T13:21:21.294796+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.21037/jtd.2018.05.140"
+  },
+  "document": {
+    "metadata": {
+      "title": "Application of the Montgomery T-tube in subglottic tracheal benign stenosis",
+      "year": 2018,
+      "authors": [
+        "Huihui Hu",
+        "Jisong Zhang",
+        "Fengjie Wu",
+        "Enguo Chen"
+      ],
+      "journal": "Journal of Thoracic Disease",
+      "doi": "10.21037/jtd.2018.05.140",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "This surgical technique article reviews indications, contraindications, preoperative planning, insertion approaches, and postoperative management for the Montgomery T-tube in subglottic tracheal benign stenosis (STBS). It outlines device features, imaging and endoscopic assessments to size and position the tube, operative anesthesia and ventilation strategies, common insertion techniques (classical, pull-through with umbilical string, and modified ventilated methods), and management of early and long-term complications including granulation tissue, occlusion by secretions, and infection. The article also discusses considerations for timing of extubation and follow-up. No comparative effectiveness data or quantitative outcomes are presented.",
+      "methods": "Narrative surgical technique description based on clinical experience and prior literature. Preoperative assessment includes CT of neck and thorax with 3D reconstruction when available, bronchoscopy, and laryngoscopy to define stenosis extent, distance from glottis and carina, and airway diameter for T-tube sizing. Contraindications include those to rigid bronchoscopy (restricted neck motion, restricted mouth opening) and general anesthesia. Typical T-tube diameters range 11-14 mm; upper end should remain 0.5-1 cm below the glottis; stenosis <2 cm from the glottis is unsuitable. Procedures performed under general anesthesia with initial tracheostomy tube for ventilation; high-frequency jet ventilation may be used via rigid bronchoscope. Pre-insertion airway interventions (balloon dilation, mechanical dilation, granulation resection, recanalization for complete obstruction) are performed to achieve a 10-15 mm lumen. Insertion approaches include: (1) classical Montgomery technique using hemostats (ventilation temporarily interrupted); (2) pull-through using an umbilical string to guide proximal branch under bronchoscopic visualization; (3) modified techniques maintaining ventilation with a small tracheal catheter or coupled cuffed catheters during insertion. Postoperative care emphasizes humidification, secretion management, and monitoring for complications.",
+      "results": "No prospective cohort, randomized data, or quantitative outcome analyses are reported. The article qualitatively describes early complications (fever, bleeding, increased secretions, cough, transient dyspnea) and long-term complications (granulation tissue hyperplasia at T-tube edge, tube blockage from secretions, infection), along with preventive and therapeutic measures (humidification, hydration, periodic cleaning, granulation resection). Suggested indwelling times from cited literature range from 6-18 months with reassessment at 9-12 months, acknowledging that some patients tolerate longer-term indwelling without complications. Extubation methods and the need for temporary tracheostomy if edema or secretions are present are described."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Patients with subglottic tracheal benign stenosis involving the upper trachea below the glottis, often post-intubation or post-tracheostomy, with symptoms such as cough, sputum, and dyspnea.",
+      "inclusion_criteria": [
+        "Diagnosed subglottic tracheal benign stenosis requiring airway remodeling",
+        "Anatomy suitable for rigid bronchoscopy-guided T-tube placement after dilation/recanalization if needed",
+        "Ability to undergo general anesthesia"
+      ],
+      "exclusion_criteria": [
+        "Contraindications to rigid bronchoscopy (restricted head/neck movement; restricted mouth opening)",
+        "Contraindications to general anesthesia",
+        "Stenotic segment <2 cm from the glottis",
+        "Airway diameter incompatible with safe T-tube sizing (too tight or too loose)",
+        "High aspiration risk where upper branch proximity to glottis would cause dysfunction"
+      ]
+    },
+    "intervention": {
+      "text": "Montgomery T-tube insertion via rigid bronchoscopy under general anesthesia",
+      "details": "Preoperative CT with 3D reconstruction and bronchoscopy for sizing; typical diameter 11-14 mm; upper end 0.5-1 cm below glottis. Ventilation via tracheostomy and high-frequency jet ventilator as needed. Pre-insertion interventions include dilation, granulation resection, or recanalization. Insertion by classical hemostat method, pull-through with umbilical string, or modified ventilated techniques. Postoperative humidification, secretion management, and monitoring for granulation or obstruction."
+    },
+    "comparison": {
+      "text": "",
+      "details": ""
+    },
+    "outcomes": [
+      {
+        "name": "Technical success of T-tube placement",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Postoperative complications (early and long-term)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Extubation feasibility and timing",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Surgical technique/narrative review",
+    "allocation": "NA",
+    "blinding": "NA",
+    "sites_count": 0,
+    "countries": [
+      "CN"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": []
+  },
+  "arms": [],
+  "outcomes_normalized": [],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "NA",
+    "overall_judgment": "not_applicable",
+    "domains": [
+      {
+        "name": "Randomization process",
+        "judgment": "not_applicable",
+        "support_for_judgment": "No comparative allocation; surgical technique article without enrolled participants."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "Montgomery T-tube",
+      "subglottic tracheal stenosis",
+      "rigid bronchoscopy",
+      "tracheostomy",
+      "airway stent"
+    ],
+    "summary_tldr": "Narrative surgical technique detailing safe selection, placement, and management of Montgomery T-tubes for subglottic benign tracheal stenosis, including insertion approaches and complication prevention.",
+    "clinical_relevance": "Provides practical guidance for bronchoscopic T-tube use in patients with STBS who are poor candidates for reconstructive surgery or require a bridge to surgery."
+  }
+}

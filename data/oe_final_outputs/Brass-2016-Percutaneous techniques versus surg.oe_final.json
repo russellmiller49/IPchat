@@ -1,0 +1,404 @@
+{
+  "source": {
+    "document_id": "Brass-2016-Percutaneous techniques versus surg",
+    "ingest_date": "2025-08-08T10:23:09.271511+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1002/14651858.CD008045.pub2"
+  },
+  "document": {
+    "metadata": {
+      "title": "Percutaneous techniques versus surgical techniques for tracheostomy",
+      "year": 2018,
+      "authors": [
+        "Brass P",
+        "Hellmich M",
+        "Ladra A",
+        "Ladra J",
+        "Wrzosek A"
+      ],
+      "journal": "Cochrane Database of Systematic Reviews",
+      "doi": "10.1002/14651858.CD008045.pub2",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Background: Tracheostomy formation is one of the most commonly performed surgical procedures in critically ill intensive care participants requiring long-term mechanical ventilation. Both surgical tracheostomies (STs) and percutaneous tracheostomies (PTs) are used in current surgical practice; but until now, the optimal method of performing tracheostomies in critically ill participants remains unclear. Objectives: We evaluated the effectiveness and safety of percutaneous techniques compared to surgical techniques commonly used for elective tracheostomy in critically ill participants (adults and children) to assess whether there was a difference in complication rates between the procedures. We also assessed whether the effect varied between different groups of participants or settings (ICU, operating room), different levels of operator experience, different percutaneous techniques, or whether the percutaneous techniques were carried out with or without bronchoscopic guidance. Search methods: We searched CENTRAL, MEDLINE, EMBASE, and CINAHL to 28 May 2015; handsearched journals and proceedings; contacted manufacturers/experts; and searched trial registers. Selection criteria: Randomized and quasi-randomized controlled trials comparing percutaneous versus surgical techniques for elective tracheostomy in critically ill participants. Data collection and analysis: Three authors independently screened, extracted, and quality-assessed trials; data were entered into Review Manager 5 with double entry. Main results: Twenty trials (1990-2011) enrolling 1652 participants met inclusion. Most trials were at low or unclear risk of bias across domains; four had elements of high risk; no study was overall low risk. Evidence quality was low for five of seven outcomes (very low N=1, moderate N=1) with heterogeneity present. No evidence of a difference in mortality directly related to the procedure (Peto OR 0.52, 95% CI 0.10 to 2.60, I2=44%, P=0.42; 4 studies, 257 participants) or serious, life-threatening adverse events intraoperatively (RR 0.93, 95% CI 0.57 to 1.53, I2=27%, P=0.78; 12 studies, 1211 participants) and immediate postoperatively (RR 0.72, 95% CI 0.41 to 1.25, I2=24%, P=0.24; 10 studies, 984 participants). PTs reduced wound infection/stomatitis by 76% (RR 0.24, 95% CI 0.15 to 0.37, I2=0%, P<0.00001; 12 studies, 936 participants; moderate quality) and unfavourable scarring by 75% (RR 0.25, 95% CI 0.07 to 0.91, I2=86%, P=0.04; 6 studies, 789 participants; low quality). No evidence of a difference for major bleeding (RR 0.70, 95% CI 0.45 to 1.09, I2=47%, P=0.12; 10 studies, 984 participants; very low quality) or tube occlusion/obstruction, accidental decannulation, difficult tube change (RR 1.36, 95% CI 0.65 to 2.82, I2=22%, P=0.42; 6 studies, 538 participants; low quality). Authors’ conclusions: Compared with STs, PTs significantly reduce wound infection/stomatitis and unfavourable scarring. For mortality and serious adverse events the evidence suggests non-significant benefits; for major bleeding very low-quality evidence suggests non-significant benefits. Generalizability is limited due to excluded populations, limited sample size, lack of long-term outcomes, and sparse participant-relevant outcomes.",
+      "methods": "Design: Systematic review and meta-analysis of randomized and quasi-randomized controlled trials. Databases: CENTRAL, MEDLINE, EMBASE, CINAHL to 28 May 2015; additional handsearching of ICU/anaesthesia journals and conference proceedings; contact with manufacturers/experts; trial registers. Eligibility: RCTs or quasi-RCTs comparing percutaneous versus surgical techniques for elective tracheostomy in critically ill participants (adults or children). Interventions: Percutaneous tracheostomy techniques (e.g., Ciaglia, Griggs), with or without bronchoscopic guidance, performed in ICU or operating room. Comparators: Surgical tracheostomy. Outcomes: Mortality directly related to procedure; serious, life-threatening adverse events (intraoperative and immediate postoperative); non-life-threatening events; total peri- and postoperative complications; duration of procedure; wound infection/stomatitis; unfavourable scarring; major bleeding; tracheostomy tube occlusion/obstruction, accidental decannulation, difficult tube change. Data handling: Triplicate independent screening and extraction; risk of bias assessed across six domains; data entry in RevMan 5 with double entry. Statistical analysis: Effect measures included Peto odds ratio for rare mortality and risk ratios for other binary outcomes; heterogeneity quantified with I2; significance assessed with P values.",
+      "results": "Twenty trials (1990-2011) with 1652 participants were included. Risk of bias was generally low/unclear; four studies had high-risk elements; no study overall low risk. Primary outcomes: Mortality directly related to the procedure showed no evidence of difference (Peto OR 0.52, 95% CI 0.10 to 2.60; I2=44%; P=0.42; 4 studies; 257 participants). Serious life-threatening adverse events showed no evidence of difference intraoperatively (RR 0.93, 95% CI 0.57 to 1.53; I2=27%; P=0.78; 12 studies; 1211 participants) or immediate postoperatively (RR 0.72, 95% CI 0.41 to 1.25; I2=24%; P=0.24; 10 studies; 984 participants). Secondary outcomes: PT reduced wound infection/stomatitis (RR 0.24, 95% CI 0.15 to 0.37; I2=0%; P<0.00001; 12 studies; 936 participants; moderate-quality evidence) and unfavourable scarring (RR 0.25, 95% CI 0.07 to 0.91; I2=86%; P=0.04; 6 studies; 789 participants; low-quality evidence). No evidence of difference for major bleeding (RR 0.70, 95% CI 0.45 to 1.09; I2=47%; P=0.12; 10 studies; 984 participants; very low-quality evidence) or tracheostomy tube occlusion/obstruction, accidental decannulation, difficult tube change (RR 1.36, 95% CI 0.65 to 2.82; I2=22%; P=0.42; 6 studies; 538 participants; low-quality evidence)."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Critically ill intensive care unit patients scheduled for elective tracheostomy (primarily adults).",
+      "inclusion_criteria": [
+        "Randomized or quasi-randomized controlled trials",
+        "Elective tracheostomy in critically ill patients",
+        "Comparison of percutaneous versus surgical techniques",
+        "ICU or operating room setting"
+      ],
+      "exclusion_criteria": [
+        "Emergency tracheostomy situations",
+        "Unfavourable neck anatomy",
+        "Bleeding disorders",
+        "Populations not critically ill or not requiring elective tracheostomy"
+      ]
+    },
+    "intervention": {
+      "text": "Percutaneous tracheostomy techniques",
+      "details": "Techniques including Ciaglia and Griggs, performed in ICU or OR, with or without bronchoscopic guidance."
+    },
+    "comparison": {
+      "text": "Surgical tracheostomy",
+      "details": "Conventional open surgical tracheostomy performed by surgeons, typically in the operating room."
+    },
+    "outcomes": [
+      {
+        "name": "Mortality directly related to the procedure",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Serious, life-threatening adverse events (intraoperative)",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Serious, life-threatening adverse events (immediate postoperative)",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Wound infection/stomatitis",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Unfavourable scarring",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Major bleeding",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Tracheostomy tube occlusion/obstruction, accidental decannulation, difficult tube change",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Systematic review and meta-analysis of RCTs",
+    "allocation": "randomized",
+    "blinding": "none",
+    "sites_count": 0,
+    "countries": [],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 1652,
+      "analyzed": 1652
+    },
+    "analysis_populations": [
+      {
+        "name": "All included participants",
+        "description": "Participants from all included randomized and quasi-randomized trials contributing to each meta-analysis",
+        "n": 1652
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "Percutaneous tracheostomy",
+      "n_randomized": 0,
+      "n_analyzed": 0,
+      "n_completed": 0
+    },
+    {
+      "arm_id": "control",
+      "name": "Surgical tracheostomy",
+      "n_randomized": 0,
+      "n_analyzed": 0,
+      "n_completed": 0
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "mortality_procedure_related_21d",
+      "name": "Mortality directly related to the procedure",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P21D",
+      "timepoint_label": "up to 21 days",
+      "groups": [],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "peto_odds_ratio",
+        "est": 0.52,
+        "ci_lower": 0.1,
+        "ci_upper": 2.6,
+        "ci_level": 0.95,
+        "p_value": 0.42,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Peto fixed-effect meta-analysis",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All included participants",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "table_number": null,
+        "quote": "Mortality directly related to the procedure (Peto odds ratio (POR) 0.52, 95% CI 0.10 to 2.60, I2 = 44%, P = 0.42, 4 studies, 257 participants)."
+      }
+    },
+    {
+      "concept_id": "serious_ae_intraop",
+      "name": "Serious, life-threatening adverse events (intraoperative)",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "intraoperative",
+      "groups": [],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_ratio",
+        "est": 0.93,
+        "ci_lower": 0.57,
+        "ci_upper": 1.53,
+        "ci_level": 0.95,
+        "p_value": 0.78,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Meta-analysis (method not specified)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All included participants (12 studies; 1211 participants)",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "table_number": null,
+        "quote": "Serious, life-threatening adverse events - intraoperatively: risk ratio (RR) 0.93, 95% CI 0.57 to 1.53, I2 = 27%, P = 0.78, 12 studies, 1211 participants."
+      }
+    },
+    {
+      "concept_id": "serious_ae_immediate_postop",
+      "name": "Serious, life-threatening adverse events (immediate postoperative)",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "immediate postoperative",
+      "groups": [],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_ratio",
+        "est": 0.72,
+        "ci_lower": 0.41,
+        "ci_upper": 1.25,
+        "ci_level": 0.95,
+        "p_value": 0.24,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Meta-analysis (method not specified)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All included participants (10 studies; 984 participants)",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "table_number": null,
+        "quote": "Direct postoperatively: RR 0.72, 95% CI 0.41 to 1.25, I2 = 24%, P = 0.24, 10 studies, 984 participants."
+      }
+    },
+    {
+      "concept_id": "wound_infection_stomatitis",
+      "name": "Wound infection/stomatitis",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "peri/postoperative",
+      "groups": [],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_ratio",
+        "est": 0.24,
+        "ci_lower": 0.15,
+        "ci_upper": 0.37,
+        "ci_level": 0.95,
+        "p_value": 1e-05,
+        "p_operator": "<",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Meta-analysis (method not specified)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All included participants (12 studies; 936 participants)",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "table_number": null,
+        "quote": "Wound infection/stomatitis: RR 0.24, 95% CI 0.15 to 0.37, I2 = 0%, P < 0.00001, 12 studies, 936 participants."
+      }
+    },
+    {
+      "concept_id": "unfavourable_scarring",
+      "name": "Unfavourable scarring",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "postoperative follow-up",
+      "groups": [],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_ratio",
+        "est": 0.25,
+        "ci_lower": 0.07,
+        "ci_upper": 0.91,
+        "ci_level": 0.95,
+        "p_value": 0.04,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Meta-analysis (method not specified)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All included participants (6 studies; 789 participants)",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "table_number": null,
+        "quote": "Unfavourable scarring: RR 0.25, 95% CI 0.07 to 0.91, I2 = 86%, P = 0.04, 6 studies, 789 participants."
+      }
+    },
+    {
+      "concept_id": "major_bleeding",
+      "name": "Major bleeding",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "peri/postoperative",
+      "groups": [],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_ratio",
+        "est": 0.7,
+        "ci_lower": 0.45,
+        "ci_upper": 1.09,
+        "ci_level": 0.95,
+        "p_value": 0.12,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Meta-analysis (method not specified)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All included participants (10 studies; 984 participants)",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "table_number": null,
+        "quote": "Major bleeding: RR 0.70, 95% CI 0.45 to 1.09, I2 = 47%, P = 0.12, 10 studies, 984 participants."
+      }
+    },
+    {
+      "concept_id": "tube_issues_composite",
+      "name": "Tracheostomy tube occlusion/obstruction, accidental decannulation, difficult tube change",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "postoperative",
+      "groups": [],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_ratio",
+        "est": 1.36,
+        "ci_lower": 0.65,
+        "ci_upper": 2.82,
+        "ci_level": 0.95,
+        "p_value": 0.42,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Meta-analysis (method not specified)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All included participants (6 studies; 538 participants)",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "table_number": null,
+        "quote": "Tracheostomy tube occlusion/obstruction, accidental decannulation, difficult tube change: RR 1.36, 95% CI 0.65 to 2.82, I2 = 22%, P = 0.42, 6 studies, 538 participants."
+      }
+    }
+  ],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "Cochrane Risk of Bias (original)",
+    "overall_judgment": "some concerns",
+    "domains": [
+      {
+        "name": "Randomization process",
+        "judgment": "some concerns",
+        "support_for_judgment": "Most trials low/unclear risk; four studies had elements of high risk; no study overall low risk."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "unclear",
+        "support_for_judgment": "Variable operator experience and settings across trials."
+      },
+      {
+        "name": "Missing outcome data",
+        "judgment": "unclear",
+        "support_for_judgment": "Outcome reporting varied; participant-relevant outcomes sparse in some studies."
+      },
+      {
+        "name": "Measurement of the outcome",
+        "judgment": "low",
+        "support_for_judgment": "Objective perioperative outcomes; definitions generally consistent."
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "some concerns",
+        "support_for_judgment": "Heterogeneity and limited reporting; not all predefined outcomes available in each study."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "tracheostomy",
+      "percutaneous tracheostomy",
+      "surgical tracheostomy",
+      "ICU",
+      "wound infection",
+      "major bleeding"
+    ],
+    "summary_tldr": "Across 20 RCTs (n=1652), percutaneous tracheostomy reduced wound infection (RR 0.24) and scarring (RR 0.25) versus surgical tracheostomy, with no significant differences in mortality or serious adverse events.",
+    "clinical_relevance": "Supports percutaneous tracheostomy as a preferred approach for elective ICU tracheostomy to reduce wound infection and scarring, without increased serious complications."
+  }
+}

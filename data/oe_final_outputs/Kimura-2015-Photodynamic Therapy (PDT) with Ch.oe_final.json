@@ -1,0 +1,658 @@
+{
+  "source": {
+    "document_id": "Kimura-2015-Photodynamic Therapy (PDT) with Ch",
+    "ingest_date": "2025-08-08T13:52:14.194535+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.3390/ijms161025466"
+  },
+  "document": {
+    "metadata": {
+      "title": "Photodynamic Therapy (PDT) with Chemotherapy for Advanced Lung Cancer with Airway Stenosis",
+      "year": 2015,
+      "authors": [
+        "Masakazu Kimura",
+        "Kuniharu Miyajima",
+        "Masakazu Kojika",
+        "Takafumi Kono",
+        "Harubumi Kato"
+      ],
+      "journal": "International Journal of Molecular Sciences",
+      "doi": "10.3390/ijms161025466",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Intractable advanced lung cancer can be treated palliatively with photodynamic therapy (PDT) combined with chemotherapy to remove central and peripheral (lobar or segmental bronchi) bronchial stenosis and obstruction. We present data for 12 (eight men, four women) consecutive patients with 13 advanced non-small cell lung carcinomas in whom curative operations were contraindicated, who underwent PDT combined with chemotherapy for local control of the intraluminal lesions. The mean age was 73.3 years (range, 58-80 years), and the stages of cancer were IIA-IV. The median stenosis rates before treatment, one week post-treatment, and one month post-treatment were 60% (range, 30%-100%), 15% (range, 15%-99%), and 15% (range 15%-60%), respectively. The mean and median survival times were 9.3 and 5.9 months, respectively. The overall 1-year survival rate was 30.0%. No PDT-related morbidity or mortality occurred. In this single-institution study, all patients experienced improved symptoms and quality of life at one week after treatment; furthermore, an objective response was evidenced by the substantial increase in the openings of the bronchial lumen and prevention of obstructive pneumonia. Therefore, PDT with chemotherapy was useful and safe for the treatment of bronchial obstruction.",
+      "methods": "Data were retrospectively collected for 13 lesions of the 12 patients with complicated (e.g., interstitial lung disease) advanced non-small cell lung cancer or endoluminal malignant obstructive lesions who underwent PDT combined with chemotherapy at Niizashiki Central General Hospital between December 2010 and September 2014. Diagnosis was made by bronchoscopy with histopathological confirmation. Photosensitizer: talaporfin sodium (NPe6, Laserphyrin) 40 mg/m2 IV; 4 h later, lesions were irradiated endoscopically at 664 nm using a diode laser. Straight tip: power density 150 mW/cm2, energy 100 J/cm2; radial tip: power density 90-120 mW/cm2, energy 100 J/cm2. The tip was positioned 1-2 cm from the lesion (surface irradiation) or inserted into the tumor (interstitial irradiation). Chemotherapy (platinum-doublet or TS-1) was administered on the day of or the day after PDT. One week and one month after PDT, bronchi and tumor necrosis were evaluated, and combined PDT plus chemotherapy was repeated as indicated. Effectiveness was assessed by symptom relief, bronchoscopic estimation of luminal obstruction (% stenosis), removal of necrotic tumor, CT response per RECIST 1.1 after two cycles, pulmonary function tests in three patients, and Karnofsky score before and one month after treatment. Statistical analyses used paired t-tests for comparisons; Kaplan-Meier for survival; significance p < 0.01.",
+      "results": "The median airway stenosis rate improved from 60% (range 30%-100%) before PDT to 15% (range 15%-99%) at 1 week (p = 0.0003) and 15% (range 15%-60%) at 1 month (p = 0.0016). Median Karnofsky score increased from 85 (range 20-100) to 100 (range 90-100) at 1 month. In three patients with pulmonary function tests, median vital capacity increased from 1.93 L to 2.58 L and median FEV1 increased from 1.28 L to 1.67 L two months after PDT. CT responses after two cycles: partial response in 6 patients, stable disease in 3, progressive disease in 3. Mean survival time was 177.5 days (5.9 months); the overall 1-year survival rate was 30.0%. Chemotherapy-related adverse events by CTCAE v4.02 were Grade 1 in 8 patients, Grade 3 in 3 patients, and Grade 4 in 1 patient. No PDT-related morbidity or mortality occurred. All patients had improved symptoms and quality of life at 1 month, with substantial increases in bronchial lumen opening and prevention of obstructive pneumonia."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with advanced non-small cell lung cancer and central or peripheral (lobar/segmental) airway stenosis with intraluminal obstructive lesions, not candidates for curative surgery, treated at a single Japanese hospital.",
+      "inclusion_criteria": [
+        "Histopathologically confirmed non-small cell lung cancer",
+        "Presence of endoluminal malignant obstructive lesions causing airway stenosis",
+        "Ineligible for surgical resection",
+        "Received PDT combined with chemotherapy between 2010-12 and 2014-09"
+      ],
+      "exclusion_criteria": [
+        "Not explicitly stated; curative operation contraindicated; patients often had comorbidities including interstitial lung disease"
+      ]
+    },
+    "intervention": {
+      "text": "Photodynamic therapy (PDT) with talaporfin sodium plus systemic chemotherapy",
+      "details": "Talaporfin sodium (NPe6) 40 mg/m2 IV; 4 h later bronchoscopy-guided laser at 664 nm. Straight tip: 150 mW/cm2, 100 J/cm2; radial tip: 90-120 mW/cm2, 100 J/cm2; surface and/or interstitial irradiation based on tumor size/extent. Systemic chemotherapy (platinum-doublet or TS-1) administered the same day or next day. Re-evaluations at 1 week and 1 month; PDT+chemotherapy repeated as indicated."
+    },
+    "comparison": {
+      "text": "None",
+      "details": "Single-arm retrospective case series without a control group."
+    },
+    "outcomes": [
+      {
+        "name": "Airway stenosis rate change at 1 week and 1 month",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Karnofsky performance score change at 1 month",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "RECIST response after two cycles",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Pulmonary function (VC, FEV1) change",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Overall survival (MST and 1-year survival rate)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Safety: PDT-related morbidity/mortality; chemotherapy adverse events",
+        "type": "safety",
+        "umls_cui": ""
+      },
+      {
+        "name": "Symptom and QOL improvement at 1 month",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Retrospective single-arm case series",
+    "allocation": "nonrandomized",
+    "blinding": "open-label",
+    "sites_count": 1,
+    "countries": [
+      "JP"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 12,
+      "analyzed": 12
+    },
+    "analysis_populations": [
+      {
+        "name": "All treated patients",
+        "description": "All patients who received PDT plus chemotherapy",
+        "n": 12
+      },
+      {
+        "name": "All treated lesions",
+        "description": "All bronchial lesions assessed for stenosis",
+        "n": 13
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "PDT (talaporfin sodium) plus systemic chemotherapy",
+      "n_randomized": 0,
+      "n_analyzed": 12,
+      "n_completed": 12
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "airway_stenosis_change_1w",
+      "name": "Airway stenosis rate change from baseline at 1 week",
+      "type": "continuous",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P7D",
+      "timepoint_label": "1 week",
+      "unit": "%",
+      "unit_canonical": "percent",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "median_baseline": 60,
+            "median_followup": 15,
+            "median_change": -45,
+            "total": 13
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "intervention",
+        "measure": "within_group_change",
+        "est": -45,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": 0.0003,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "paired t-test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated lesions",
+        "missing_handling": "complete case"
+      },
+      "provenance": {
+        "pages": [
+          25468,
+          25469
+        ],
+        "tables": [],
+        "quote": "The median stenosis rates before PDT, one week after PDT, and one month after PDT were 60% (range 30%-100%), 15% (range, 15%-99%), and 15% (range, 15%-60%), respectively (p = 0.0003, before PDT compared with one week after PDT; p = 0.0016, before PDT compared with one month after PDT)."
+      }
+    },
+    {
+      "concept_id": "airway_stenosis_change_1m",
+      "name": "Airway stenosis rate change from baseline at 1 month",
+      "type": "continuous",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P1M",
+      "timepoint_label": "1 month",
+      "unit": "%",
+      "unit_canonical": "percent",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "median_baseline": 60,
+            "median_followup": 15,
+            "median_change": -45,
+            "total": 13
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "intervention",
+        "measure": "within_group_change",
+        "est": -45,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": 0.0016,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "paired t-test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated lesions",
+        "missing_handling": "complete case"
+      },
+      "provenance": {
+        "pages": [
+          25468,
+          25469
+        ],
+        "tables": [],
+        "quote": "The median stenosis rates before PDT, one week after PDT, and one month after PDT were 60% (range 30%-100%), 15% (range, 15%-99%), and 15% (range, 15%-60%), respectively (p = 0.0003, before PDT compared with one week after PDT; p = 0.0016, before PDT compared with one month after PDT)."
+      }
+    },
+    {
+      "concept_id": "recist_orr_after_two_cycles",
+      "name": "Objective response rate (PR or better) after two cycles by RECIST 1.1",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": null,
+      "timepoint_label": "After two cycles",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 6,
+            "total": 12
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "intervention",
+        "measure": "proportion",
+        "est": 0.5,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated patients",
+        "missing_handling": "complete case"
+      },
+      "provenance": {
+        "pages": [
+          25471
+        ],
+        "tables": [],
+        "quote": "Six patients experienced a partial response, three patients had stable disease, and three patients had progressive disease."
+      }
+    },
+    {
+      "concept_id": "kps_change_1m",
+      "name": "Karnofsky performance score change at 1 month",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P1M",
+      "timepoint_label": "1 month",
+      "unit": "KPS points",
+      "unit_canonical": "Karnofsky_points",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "median_baseline": 85,
+            "median_followup": 100,
+            "median_change": 15,
+            "total": 12
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "intervention",
+        "measure": "within_group_change",
+        "est": 15,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated patients",
+        "missing_handling": "complete case"
+      },
+      "provenance": {
+        "pages": [
+          25469
+        ],
+        "tables": [
+          "Table 1"
+        ],
+        "quote": "The median Karnofsky scores (KS) before and one month after PDT were 85 (range, 20-100) and 100 (range, 90-100), respectively."
+      }
+    },
+    {
+      "concept_id": "fev1_change_2m",
+      "name": "FEV1 absolute change at 2 months (subset with PFT)",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P2M",
+      "timepoint_label": "2 months",
+      "unit": "L",
+      "unit_canonical": "liter",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "median_baseline": 1.28,
+            "median_followup": 1.67,
+            "median_change": 0.39,
+            "total": 3
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "intervention",
+        "measure": "within_group_change",
+        "est": 0.39,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Subset with pulmonary function tests",
+        "missing_handling": "complete case"
+      },
+      "provenance": {
+        "pages": [
+          25469
+        ],
+        "tables": [],
+        "quote": "The median vital capacity and forced expiratory volume in 1 s in the three patients who underwent pulmonary function tests were 1.93 and 1.28 L, respectively, before PDT; and 2.58 and 1.67 L, respectively, two months after PDT."
+      }
+    },
+    {
+      "concept_id": "vc_change_2m",
+      "name": "Vital capacity absolute change at 2 months (subset with PFT)",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P2M",
+      "timepoint_label": "2 months",
+      "unit": "L",
+      "unit_canonical": "liter",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "median_baseline": 1.93,
+            "median_followup": 2.58,
+            "median_change": 0.65,
+            "total": 3
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "intervention",
+        "measure": "within_group_change",
+        "est": 0.65,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Subset with pulmonary function tests",
+        "missing_handling": "complete case"
+      },
+      "provenance": {
+        "pages": [
+          25469
+        ],
+        "tables": [],
+        "quote": "The median vital capacity and forced expiratory volume in 1 s in the three patients who underwent pulmonary function tests were 1.93 and 1.28 L, respectively, before PDT; and 2.58 and 1.67 L, respectively, two months after PDT."
+      }
+    },
+    {
+      "concept_id": "os_1y_and_mst",
+      "name": "Overall survival: mean survival time and 1-year survival rate",
+      "type": "time_to_event",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P12M",
+      "timepoint_label": "12 months",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "km_rate_12m": 0.3,
+            "mean_survival_time_days": 177.5,
+            "total": 12
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "intervention",
+        "measure": "KM_rate",
+        "est": 0.3,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Kaplan-Meier",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated patients",
+        "missing_handling": "censored at last follow-up"
+      },
+      "provenance": {
+        "pages": [
+          25471
+        ],
+        "tables": [],
+        "quote": "Six patients experienced a partial response, three patients had stable disease, and three patients had progressive disease. The mean survival time was 5.9 months. The overall one-year survival rate was 30.0%."
+      }
+    },
+    {
+      "concept_id": "symptom_qol_improved_1m",
+      "name": "Symptom and QOL improvement at 1 month",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P1M",
+      "timepoint_label": "1 month",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 12,
+            "total": 12
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "intervention",
+        "measure": "proportion",
+        "est": 1,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated patients",
+        "missing_handling": "complete case"
+      },
+      "provenance": {
+        "pages": [
+          25469
+        ],
+        "tables": [],
+        "quote": "At one month after PDT, symptoms and QOL were improved in all of the patients."
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "PDT-related morbidity (any)",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Therapeutic procedure complication"
+      },
+      "serious": true,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 12
+        }
+      ],
+      "period": "during study treatment",
+      "management": "",
+      "provenance": {
+        "pages": [
+          25469
+        ],
+        "tables": [],
+        "quote": "There was no PDT-related morbidity or mortality."
+      }
+    },
+    {
+      "event_name": "Treatment-related mortality",
+      "meddra": {
+        "soc": "General disorders and administration site conditions",
+        "pt": "Death"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "death"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 12
+        }
+      ],
+      "period": "during study treatment",
+      "management": "",
+      "provenance": {
+        "pages": [
+          25469
+        ],
+        "tables": [],
+        "quote": "There was no PDT-related morbidity or mortality."
+      }
+    },
+    {
+      "event_name": "Adverse drug reaction (Grade 3)",
+      "meddra": {
+        "soc": "General disorders and administration site conditions",
+        "pt": "Adverse drug reaction"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "medically important"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 3,
+          "patients": 3,
+          "percentage": 25,
+          "total": 12
+        }
+      ],
+      "period": "during study treatment",
+      "management": "Not reported",
+      "provenance": {
+        "pages": [
+          25469
+        ],
+        "tables": [],
+        "quote": "The following grades (CTCAE v4.02) of chemotherapy side effects were experienced: Grade 1 in eight patients, Grade 3 in three patients, and Grade 4 in one patient."
+      }
+    },
+    {
+      "event_name": "Adverse drug reaction (Grade 4)",
+      "meddra": {
+        "soc": "General disorders and administration site conditions",
+        "pt": "Adverse drug reaction"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "life-threatening"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 1,
+          "patients": 1,
+          "percentage": 8.3,
+          "total": 12
+        }
+      ],
+      "period": "during study treatment",
+      "management": "Not reported",
+      "provenance": {
+        "pages": [
+          25469
+        ],
+        "tables": [],
+        "quote": "The following grades (CTCAE v4.02) of chemotherapy side effects were experienced: Grade 1 in eight patients, Grade 3 in three patients, and Grade 4 in one patient."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "ROBINS-I",
+    "overall_judgment": "serious",
+    "domains": [
+      {
+        "name": "Confounding",
+        "judgment": "serious",
+        "support_for_judgment": "Single-arm retrospective design without control group; no adjustment for prognostic factors."
+      },
+      {
+        "name": "Selection of participants",
+        "judgment": "moderate",
+        "support_for_judgment": "Consecutive patients at a single institution; inclusion limited to those ineligible for surgery."
+      },
+      {
+        "name": "Classification of interventions",
+        "judgment": "low",
+        "support_for_judgment": "Intervention (PDT plus chemotherapy) clearly described."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "moderate",
+        "support_for_judgment": "Repeat PDT and chemotherapy were tailored; potential variability in exposure."
+      },
+      {
+        "name": "Missing data",
+        "judgment": "low",
+        "support_for_judgment": "Outcomes reported for all 12 patients; stenosis assessed for 13 lesions."
+      },
+      {
+        "name": "Measurement of outcomes",
+        "judgment": "moderate",
+        "support_for_judgment": "Bronchoscopic stenosis assessment may be subjective; RECIST assessed but blinding not stated."
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "moderate",
+        "support_for_judgment": "Multiple outcomes reported; statistical details limited; no protocol available."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "photodynamic therapy",
+      "talaporfin sodium",
+      "Laserphyrin",
+      "airway stenosis",
+      "non-small cell lung cancer",
+      "bronchial obstruction",
+      "bronchoscopy",
+      "Japan"
+    ],
+    "summary_tldr": "In a 12-patient retrospective series (13 lesions), PDT plus chemotherapy reduced median airway stenosis from 60% to 15% at 1 week (p = 0.0003) and 1 month (p = 0.0016), achieved partial responses in 6/12, and had no PDT-related morbidity or mortality.",
+    "clinical_relevance": "Suggests PDT with talaporfin sodium combined with chemotherapy can safely palliate airway obstruction and improve symptoms in advanced NSCLC patients ineligible for surgery."
+  }
+}

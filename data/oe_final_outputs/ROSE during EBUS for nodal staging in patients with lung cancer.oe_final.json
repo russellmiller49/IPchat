@@ -1,0 +1,402 @@
+{
+  "source": {
+    "document_id": "ROSE during EBUS for nodal staging in patients with lung cancer",
+    "ingest_date": "2025-08-08T15:29:47.539930+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1016/j.athoracsur.2012.09.074"
+  },
+  "document": {
+    "metadata": {
+      "title": "Rapid On-Site Cytologic Evaluation During Endobronchial Ultrasound-Guided Transbronchial Needle Aspiration for Nodal Staging in Patients With Lung Cancer",
+      "year": 2013,
+      "authors": [
+        "Takahiro Nakajima",
+        "Kazuhiro Yasufuku",
+        "Fumie Saegusa",
+        "Taiki Fujiwara",
+        "Yuichi Sakairi",
+        "Kenzo Hiroshima",
+        "Yukio Nakatani",
+        "Ichiro Yoshino"
+      ],
+      "journal": "The Annals of Thoracic Surgery",
+      "doi": "10.1016/j.athoracsur.2012.09.074",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Background. The utility of rapid on-site evaluation (ROSE) during endobronchial ultrasound-guided transbronchial needle aspiration (EBUS-TBNA) for lymph node staging in lung cancer is still controversial. The aim of this study was to assess the role of ROSE during EBUS-TBNA and the interpretation of its results. Methods. We performed a retrospective chart review of patients with suspected or diagnosed lung cancer who underwent EBUS-TBNA for lymph node staging. The slides were air-dried and Diff-Quik staining was used for ROSE. Additional smears were prepared for Papanicolaou staining and any remaining sample was placed in 10% formalin for histologic evaluation. The results of ROSE were compared with the results of the final pathologic diagnosis. Results. EBUS-TBNA was performed in 438 patients on 965 lymph nodes. Eighty-four lymph nodes (8.7%) were determined insufficient for definitive diagnosis by final cytologic evaluation. However 45 of the 84 lymph nodes were able to be diagnosed by histologic examination. The non-diagnostic sampling rate was 4.0%. There were no false-positive results on ROSE; however 25 cases (5.7%) were falsely evaluated as negative on ROSE. The concordance rate for staging between ROSE and final pathologic diagnosis was 94.3%. The sensitivity, specificity, negative predictive value, and diagnostic accuracy rate of EBUS-TBNA for correct lymph node staging was 96.5%, 100%, 89.8%, and 98.2%, respectively. Conclusions. ROSE during EBUS-TBNA for material adequacy showed a low rate of non-diagnostic sampling. There was a high agreement between the on-site and final pathologic evaluation during EBUS-TBNA; however immediate diagnosis should be approached with caution.",
+      "methods": "Retrospective chart review of 438 consecutive patients with suspected or diagnosed lung cancer who underwent EBUS-TBNA for lymph node staging at Chiba University (April 2005-March 2008). Chest and upper abdominal CT with contrast was performed; EBUS-TBNA targeted radiologically defined mediastinal and/or hilar lymph nodes with short-axis ≥5 mm. Procedures used a convex probe EBUS bronchoscope (BF-UC260F-OL8, Olympus) and a 22-gauge needle (NA-201SX-4022, Olympus) under conscious sedation and local anesthesia with lidocaine. Multiple passes were performed until ROSE indicated diagnostic material or adequate lymphoid content (≥40 lymphocytes per high-power field or clusters of anthracotic pigment-laden macrophages). Aspirates were smeared; air-dried slides were Diff-Quik stained for ROSE; ethanol-fixed smears underwent Papanicolaou staining; remaining material was formalin-fixed for histology (H&E). Final pathologic diagnosis was based on Papanicolaou cytology plus H&E histology. Diagnostic performance metrics were calculated by standard definitions.",
+      "results": "EBUS-TBNA sampled 965 lymph nodes (707 mediastinal, 258 hilar) in 438 patients (331 men, 107 women; mean age 70 years, range 28-87). Median EBUS short-axis nodal size was 8.7 mm (range 2.1-42.7). Compared with final cytology, 84/965 (8.7%) nodes were cytologically insufficient; histology established diagnoses in 45/84, leaving 39/965 non-diagnostic overall (non-diagnostic sampling rate 4.0%). ROSE versus Papanicolaou cytology showed 22 discrepancies (concordance 95.0%). Four ROSE-positive/Papanicolaou-negative cases were confirmed malignant on histology. ROSE versus final Papanicolaou/H&E: no false positives; 25/438 false negatives (5.7%); sensitivity 88.6%, specificity 100%, negative predictive value 89.8%, concordance 94.3%. EBUS-TBNA nodal staging versus final diagnosis: true positives 219, false negatives 8, true negatives 211, false positives 0; sensitivity 96.5%, specificity 100%, negative predictive value 89.8%, diagnostic accuracy 97.9%-98.2% (as reported). No complications related to EBUS-TBNA were observed."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with suspected or diagnosed lung cancer undergoing EBUS-TBNA for mediastinal/hilar lymph node staging",
+      "inclusion_criteria": [
+        "Radiologically defined mediastinal and/or hilar lymph nodes with short axis ≥5 mm on contrast-enhanced chest CT",
+        "Underwent EBUS-TBNA at Chiba University (April 2005-March 2008)"
+      ],
+      "exclusion_criteria": [
+        "Not stated"
+      ]
+    },
+    "intervention": {
+      "text": "Rapid on-site cytologic evaluation (ROSE) during EBUS-TBNA",
+      "details": "Air-dried smears stained with Diff-Quik after each pass; multiple passes until diagnostic or adequate lymphoid material (≥40 lymphocytes per high-power field or clusters of anthracotic pigment-laden macrophages) was observed"
+    },
+    "comparison": {
+      "text": "Final pathologic diagnosis",
+      "details": "Papanicolaou cytology plus histology (H&E) from formalin-fixed paraffin-embedded tissue; nodal staging confirmed by surgery or clinical follow-up ≥6 months"
+    },
+    "outcomes": [
+      {
+        "name": "Diagnostic performance of ROSE for malignancy vs final pathology",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Diagnostic performance of EBUS-TBNA for nodal staging vs final diagnosis",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Non-diagnostic sampling rate",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Concordance between ROSE and Papanicolaou cytology",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Retrospective observational diagnostic accuracy study",
+    "allocation": "non-randomized",
+    "blinding": "none",
+    "sites_count": 1,
+    "countries": [
+      "Japan"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 438,
+      "analyzed": 438
+    },
+    "analysis_populations": [
+      {
+        "name": "Patients",
+        "description": "All patients who underwent EBUS-TBNA",
+        "n": 438
+      },
+      {
+        "name": "Lymph nodes",
+        "description": "All lymph nodes sampled by EBUS-TBNA",
+        "n": 965
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "cohort",
+      "name": "Cohort undergoing EBUS-TBNA with ROSE",
+      "n_randomized": 0,
+      "n_analyzed": 438,
+      "n_completed": 438
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "rose_diag_accuracy_malignancy",
+      "name": "ROSE detection of malignant lymph nodes vs final pathology",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "During procedure",
+      "groups": [
+        {
+          "arm_id": "cohort",
+          "label": "Final malignant nodes (reference standard)",
+          "raw": {
+            "events": 194,
+            "total": 219
+          }
+        },
+        {
+          "arm_id": "cohort",
+          "label": "Final benign nodes (reference standard)",
+          "raw": {
+            "events": 0,
+            "total": 219
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "cohort",
+        "measure": "diagnostic_accuracy",
+        "est": 0.943,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "2x2 diagnostic accuracy (index test = ROSE, reference standard = final Papanicolaou/H&E)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Patients (n=438)",
+        "metrics": {
+          "sensitivity": 0.886,
+          "specificity": 1,
+          "ppv": 1,
+          "npv": 0.898,
+          "accuracy": 0.943,
+          "false_negatives": 25,
+          "false_positives": 0,
+          "true_positives": 194,
+          "true_negatives": 219
+        }
+      },
+      "provenance": {
+        "pages": [
+          1697
+        ],
+        "tables": [
+          "Table 4"
+        ],
+        "table_number": 4,
+        "quote": "Concordance = 94.3%, sensitivity = 88.6%, specificity = 100%, negative predictive value = 89.8%."
+      },
+      "derived": {
+        "arr": 0.886,
+        "nnt": 1.1
+      }
+    },
+    {
+      "concept_id": "ebus_tbna_diag_accuracy_nodal_staging",
+      "name": "EBUS-TBNA detection of malignant lymph nodes vs final diagnosis",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "At EBUS-TBNA",
+      "groups": [
+        {
+          "arm_id": "cohort",
+          "label": "Final malignant",
+          "raw": {
+            "events": 219,
+            "total": 227
+          }
+        },
+        {
+          "arm_id": "cohort",
+          "label": "Final benign",
+          "raw": {
+            "events": 0,
+            "total": 211
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "cohort",
+        "measure": "diagnostic_accuracy",
+        "est": 0.982,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "2x2 diagnostic accuracy (index test = EBUS-TBNA result, reference = final diagnosis)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Patients (n=438)",
+        "metrics": {
+          "sensitivity": 0.965,
+          "specificity": 1,
+          "ppv": 1,
+          "npv": 0.898,
+          "accuracy": 0.982,
+          "false_negatives": 8,
+          "false_positives": 0,
+          "true_positives": 219,
+          "true_negatives": 211
+        }
+      },
+      "provenance": {
+        "pages": [
+          1697
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "Sensitivity = 96.5% (219/227), specificity = 100% (211/211), diagnostic accuracy = 98.2% (430/438)."
+      },
+      "derived": {
+        "arr": 0.965,
+        "nnt": 1.0
+      }
+    },
+    {
+      "concept_id": "non_diagnostic_sampling_rate_nodes",
+      "name": "Non-diagnostic sampling rate per lymph node",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "At procedure",
+      "groups": [
+        {
+          "arm_id": "cohort",
+          "label": "All sampled lymph nodes",
+          "raw": {
+            "events": 39,
+            "total": 965
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "cohort",
+        "measure": "proportion",
+        "est": 0.04,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Single proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Lymph nodes (n=965)"
+      },
+      "provenance": {
+        "pages": [
+          1696
+        ],
+        "tables": [],
+        "quote": "The non-diagnostic sampling rate of EBUS-TBNA with ROSE in this study was 4.0%."
+      }
+    },
+    {
+      "concept_id": "concordance_rose_vs_papanicolaou",
+      "name": "Concordance between ROSE and Papanicolaou cytology",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "At procedure",
+      "groups": [
+        {
+          "arm_id": "cohort",
+          "label": "Patient-level concordance",
+          "raw": {
+            "events": 416,
+            "total": 438
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "cohort",
+        "measure": "proportion",
+        "est": 0.95,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Agreement proportion (concordant cases / total)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Patients (n=438)"
+      },
+      "provenance": {
+        "pages": [
+          1696
+        ],
+        "tables": [
+          "Table 1"
+        ],
+        "table_number": 1,
+        "quote": "The concordance rate between ROSE and final cytologic diagnosis based on Papanicolaou staining was 95.0%."
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Any procedure-related complication",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Procedural complication"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "cohort",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 438
+        }
+      ],
+      "period": "Peri-procedural",
+      "management": "",
+      "provenance": {
+        "pages": [
+          1696
+        ],
+        "tables": [],
+        "quote": "There were no complications related to the EBUS-TBNA procedure."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "QUADAS-2",
+    "overall_judgment": "unclear",
+    "domains": [
+      {
+        "name": "Patient selection",
+        "judgment": "high",
+        "support_for_judgment": "Retrospective single-center cohort of patients who underwent EBUS-TBNA; selection process not clearly consecutive or randomized."
+      },
+      {
+        "name": "Index test (ROSE) conduct and interpretation",
+        "judgment": "unclear",
+        "support_for_judgment": "ROSE performed during the procedure; blinding to reference standard not stated."
+      },
+      {
+        "name": "Reference standard",
+        "judgment": "low",
+        "support_for_judgment": "Final diagnosis based on Papanicolaou cytology and histology with surgical confirmation or clinical follow-up."
+      },
+      {
+        "name": "Flow and timing",
+        "judgment": "low",
+        "support_for_judgment": "All 438 patients analyzed; verification by surgery or follow-up described; node-level non-diagnostic cases accounted for."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "EBUS-TBNA",
+      "rapid on-site evaluation",
+      "ROSE",
+      "lung cancer",
+      "mediastinal staging",
+      "Diff-Quik"
+    ],
+    "summary_tldr": "ROSE during EBUS-TBNA showed high specificity (100%) and overall accuracy (94.3%) with a low non-diagnostic sampling rate (4%), but had 5.7% false negatives.",
+    "clinical_relevance": "Supports using ROSE to confirm malignancy and guide intra-procedural sampling; negative ROSE should not preclude further cytology and histology."
+  }
+}

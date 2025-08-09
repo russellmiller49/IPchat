@@ -1,0 +1,88 @@
+{
+  "source": {
+    "document_id": "Update on tracheobronchial anatomy and flexible fiberoptic bronchoscopy in thoracic anesthesia",
+    "ingest_date": "2025-08-08T16:43:59.565901+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1097/ACO.0b013e32831a43ab"
+  },
+  "document": {
+    "metadata": {
+      "title": "Update on tracheobronchial anatomy and flexible fiberoptic bronchoscopy in thoracic anesthesia",
+      "year": 2009,
+      "authors": [
+        "Javier H. Campos"
+      ],
+      "journal": "Current Opinion in Anaesthesiology",
+      "doi": "10.1097/ACO.0b013e32831a43ab",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Purpose of review: To review tracheobronchial anatomy and the use of flexible fiberoptic bronchoscopy in thoracic anesthesia. Recent findings: Mastery of tracheobronchial anatomy is essential for correct placement of lung isolation devices (double-lumen endotracheal tubes and bronchial blockers). Anatomical changes occur with aging and in COPD, affecting tracheal position and diameters, and must be recognized to optimize device placement. Flexible fiberoptic bronchoscopy is emphasized as a key skill for confirming and optimizing placement of lung isolation devices and for interventional procedures. Summary: Familiarity with airway anatomy and fiberoptic techniques is fundamental to safe and effective management of patients undergoing thoracic anesthesia.",
+      "methods": "Narrative review of tracheobronchial anatomy, age/COPD-related anatomical changes, and flexible fiberoptic bronchoscopy techniques relevant to thoracic anesthesia, including illustrative imaging examples and practical guidance for positioning double-lumen tubes and bronchial blockers. No new clinical trial or primary data collection was conducted.",
+      "results": "Key anatomical parameters summarized include tracheal length (~15 cm), tracheal diameter averages (men ~22 mm, women ~19 mm), cricoid as the narrowest portion (men ~17 mm, women ~13 mm), and key bronchial distances (carina to right upper lobe take-off ~2.0 cm in men, ~1.5 cm in women; carina to left upper/lower bifurcation ~5.0 cm in men, ~4.5 cm in women). Age and COPD can shift the trachea (often rightward) and alter tracheal dimensions. A systematic bronchoscopy exam is described, including recognition of the right upper lobe trifurcation as a landmark distinguishing right from left bronchus. Evidence cited indicates auscultation/clamping alone can yield a high malposition rate for DLTs (reported up to 35%), whereas fiberoptic confirmation allows correction of malpositions. Practical steps and optimal positions for right- and left-sided DLTs and bronchial blockers are detailed, including cuff positioning relative to the carina and considerations when the right upper lobe take-off is close to the carina. Additional uses include guidance for endobronchial stent placement and post-airway-exchange catheter examinations."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults undergoing thoracic anesthesia/surgery requiring lung isolation and patients undergoing interventional bronchoscopy; anesthesiologists performing airway management.",
+      "inclusion_criteria": [
+        "Thoracic surgical procedures requiring one-lung ventilation",
+        "Airway anatomy visualization or interventional bronchoscopy needs"
+      ],
+      "exclusion_criteria": [
+        "Not applicable (narrative review)"
+      ]
+    },
+    "intervention": {
+      "text": "Flexible fiberoptic bronchoscopy",
+      "details": "Use for systematic airway examination, confirmation and optimization of double-lumen endotracheal tube or bronchial blocker position, and guidance for interventional procedures (e.g., stent placement)."
+    },
+    "comparison": {
+      "text": "Auscultation and clamping maneuvers alone to confirm lung isolation device placement (as discussed in cited studies)",
+      "details": "Non-bronchoscopic confirmation techniques reported to have higher malposition rates; fiberoptic reconfirmation corrects malpositions."
+    },
+    "outcomes": [
+      {
+        "name": "Correct placement of lung isolation devices",
+        "type": "primary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "narrative_review",
+    "allocation": "none",
+    "blinding": "none",
+    "sites_count": 0,
+    "countries": [
+      "US"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": []
+  },
+  "arms": [],
+  "outcomes_normalized": [],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "Not applicable",
+    "overall_judgment": "not_applicable",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "tracheobronchial anatomy",
+      "flexible fiberoptic bronchoscopy",
+      "double-lumen tube",
+      "bronchial blocker",
+      "thoracic anesthesia",
+      "one-lung ventilation"
+    ],
+    "summary_tldr": "Narrative review: Mastery of airway anatomy and routine flexible bronchoscopy supports safe, accurate placement of lung isolation devices; anatomy varies with age and COPD.",
+    "clinical_relevance": "Supports routine fiberoptic confirmation of double-lumen tube/bronchial blocker positioning and provides practical anatomical benchmarks for thoracic anesthesia."
+  }
+}

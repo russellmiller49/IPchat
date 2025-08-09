@@ -1,0 +1,391 @@
+{
+  "source": {
+    "document_id": "Bhora-2016-Treatment of Benign Tracheal Stenos",
+    "ingest_date": "2025-08-08T10:08:57.394876+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1001/jamaoto.2016.2018"
+  },
+  "document": {
+    "metadata": {
+      "title": "Treatment of Benign Tracheal Stenosis Using Endoluminal Spray Cryotherapy",
+      "year": 2016,
+      "authors": [
+        "Faiz Y. Bhora",
+        "Adil Ayub",
+        "Craig M. Forleiter",
+        "Chyun-Yin Huang",
+        "Khalid Alshehri",
+        "Sadiq Rehmani",
+        "Adnan M. Al-Ayoubi",
+        "Wissam Raad",
+        "Robert S. Lebovics"
+      ],
+      "journal": "JAMA Otolaryngology-Head & Neck Surgery",
+      "doi": "10.1001/jamaoto.2016.2018",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "IMPORTANCE Tracheal stenosis is a debilitating disorder with heterogeneity in terms of disease characteristics and management. Repeated recurrences substantially alter patients’ quality of life. There is limited evidence for the use of spray cryotherapy (SCT) in the management of benign airway disease. OBJECTIVE To report our early results for the use of SCT in patients with benign tracheal stenosis. DESIGN, SETTING, AND PARTICIPANTS Data were extracted from the medical records of a consecutive series of patients with benign airway stenosis secondary to granulomatosis with polyangiitis (GPA) (n = 13), prior tracheotomy or tracheal intubation (n = 8), and idiopathic strictures (n = 5) treated from September 1, 2013, to September 30, 2015, at a tertiary care hospital. MAIN OUTCOMES AND MEASURES Airway narrowing was quantified on a standard quartile grading scale. Response to treatment was assessed by improvement in airway caliber and the time interval for reintervention. EXPOSURES Delivery of 4 5-second SCT cycles and 2 balloon dilatations. RESULTS Twenty-six patients (median [range] age, 53 [16-83] years; 20 [77%] female) underwent 48 SCT sessions. Spray cryotherapy was successfully used without any substantial intraoperative or postoperative complications in all patients. In a median (range) follow-up of 11 (1-26) months, all patients had improvement in symptoms. Before the institution of SCT, 23 patients (88%) had grade III or IV stenosis. At the last evaluation after induction of SCT, 4 (15%) had grade III or IV stenosis, with a mean (SD) change of 1.39 (0.51) (P < .001). Patients with GPA required significantly fewer SCT procedures (mean [SD], 1.38 [0.96] vs 2.31 [1.18]; P = .03) during the study period. CONCLUSIONS AND RELEVANCE Spray cryotherapy was a safe adjunct modality to accomplish airway patency in patients with benign tracheal stenosis. Although efficacy evidence is limited for SCT, it may be useful for patients who have experienced treatment failure with conventional modalities.",
+      "methods": "This was a retrospective study of a consecutive series of patients with benign tracheal stenosis treated with spray cryotherapy between September 1, 2013, and September 30, 2015, at a single tertiary care institution. The extent of airway stenosis was graded on a quartile scale (1 = <25%, 2 = 25%-50%, 3 = 51%-75%, 4 = >75%) from endoscopic evaluation before and after therapy, adjudicated by a panel of 4 reviewers. Frequency and time to reintervention between subsequent SCT sessions were recorded and compared with prior modalities. Statistical analyses used paired-sample t tests; P < .05 was considered significant. Procedures were performed under general anesthesia. For upper/mid-tracheal lesions, laryngeal suspension with a Dedo laryngoscope and intermittent apneic oxygenation were used; for distal lesions, endotracheal intubation with at least an 8.5F tube was used. The truFreeze System applied liquid nitrogen spray through a flexible catheter via a therapeutic bronchoscope. Each session used two initial 5-second sprays followed by balloon dilation, then a second identical cycle (total 4 sprays and 2 balloon dilations). Nitrogen gas egress was ensured via passive venting.",
+      "results": "Twenty-six patients (median age 53 years; range 16-83; 77% female) underwent 48 SCT sessions. Etiologies included GPA (n = 13), post-tracheotomy or post-intubation (n = 8), and idiopathic strictures (n = 5). Most (96%) had undergone prior endoscopic treatments. Over a median follow-up of 11 months (range 1-26), all patients reported subjective improvement in breathing. Before SCT, 23/26 (88%) had grade III/IV stenosis; after SCT at last follow-up, 4/26 (15%) had grade III/IV stenosis. The mean (SD) change in stenosis grade was 1.39 (0.51) (P < .001). Among 20 patients with ≥6 months follow-up, the mean (SD) intervention rate decreased from 3.78 (3.43) per year before SCT to 1.64 (0.76) per year after SCT (P = .004). Patients with GPA required fewer SCT sessions during the study period than those with traumatic or idiopathic strictures (mean [SD], 1.38 [0.96] vs 2.31 [1.18]; P = .03). There were no substantial intraoperative or postoperative complications; one patient experienced transient intraoperative hypotension."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults and adolescents with benign tracheal stenosis (GPA-related, post-intubation/tracheotomy, or idiopathic) treated at a single tertiary care center.",
+      "inclusion_criteria": [
+        "Benign tracheal stenosis",
+        "Underwent spray cryotherapy between 2013-09-01 and 2015-09-30",
+        "Provided informed consent"
+      ],
+      "exclusion_criteria": [
+        "Not reported"
+      ]
+    },
+    "intervention": {
+      "text": "Endoluminal spray cryotherapy (SCT) as adjunct to balloon dilation",
+      "details": "truFreeze liquid nitrogen spray via bronchoscope; per session: four 5-second spray cycles and two balloon dilations; general anesthesia with passive nitrogen venting; outpatient discharge within 24 hours"
+    },
+    "comparison": {
+      "text": "Within-patient before-after comparison",
+      "details": "Pre-SCT baseline vs post-SCT at last available follow-up; historical rate of interventions per year before SCT vs after SCT"
+    },
+    "outcomes": [
+      {
+        "name": "Change in airway caliber (stenosis grade)",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Intervention rate per year (time between reinterventions)",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Proportion with high-grade (III/IV) stenosis at follow-up",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Subjective improvement in breathing",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Observational (Retrospective case series)",
+    "allocation": "non-randomized",
+    "blinding": "none",
+    "sites_count": 1,
+    "countries": [
+      "US"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 26,
+      "analyzed": 26
+    },
+    "analysis_populations": [
+      {
+        "name": "All treated",
+        "description": "All patients who underwent at least one SCT session",
+        "n": 26
+      },
+      {
+        "name": "≥6 months follow-up subgroup",
+        "description": "Patients with at least 6 months follow-up for intervention rate analysis",
+        "n": 20
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention_overall",
+      "name": "SCT + balloon dilation (overall cohort)",
+      "n_randomized": 26,
+      "n_analyzed": 26,
+      "n_completed": 26
+    },
+    {
+      "arm_id": "pre_overall",
+      "name": "Pre-SCT baseline (overall cohort)",
+      "n_randomized": 26,
+      "n_analyzed": 26,
+      "n_completed": 26
+    },
+    {
+      "arm_id": "post_overall",
+      "name": "Post-SCT last follow-up (overall cohort)",
+      "n_randomized": 26,
+      "n_analyzed": 26,
+      "n_completed": 26
+    },
+    {
+      "arm_id": "pre_sct_6m",
+      "name": "Pre-SCT intervention rate (≥6 months subgroup)",
+      "n_randomized": 20,
+      "n_analyzed": 20,
+      "n_completed": 20
+    },
+    {
+      "arm_id": "post_sct_6m",
+      "name": "Post-SCT intervention rate (≥6 months subgroup)",
+      "n_randomized": 20,
+      "n_analyzed": 20,
+      "n_completed": 20
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "stenosis_grade_change",
+      "name": "Change in stenosis grade from pre- to post-SCT",
+      "type": "continuous",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P11M",
+      "timepoint_label": "Median 11 months (range 1-26)",
+      "groups": [
+        {
+          "arm_id": "intervention_overall",
+          "raw": {
+            "mean": 1.39,
+            "sd": 0.51,
+            "total": 26
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "intervention_overall",
+        "measure": "one_sample_t",
+        "est": 1.39,
+        "p_value": 0.001,
+        "p_operator": "<",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Paired-sample t test on pre vs post grades; summarized as mean change",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated (n=26)",
+        "missing_handling": "Complete-case; all treated patients had post-procedure grading at last follow-up"
+      },
+      "provenance": {
+        "pages": [
+          1085
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "At the last evaluation after induction of SCT, 4 (15%) had grade III or IV stenosis, with a mean (SD) change of 1.39 (0.51) (P < .001)."
+      }
+    },
+    {
+      "concept_id": "high_grade_stenosis_pre_post",
+      "name": "High-grade (III/IV) stenosis prevalence pre- vs post-SCT",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P11M",
+      "timepoint_label": "Baseline vs last available follow-up (median 11 months)",
+      "groups": [
+        {
+          "arm_id": "pre_overall",
+          "raw": {
+            "events": 23,
+            "total": 26
+          }
+        },
+        {
+          "arm_id": "post_overall",
+          "raw": {
+            "events": 4,
+            "total": 26
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Descriptive paired pre-post comparison; no formal categorical test reported",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated (n=26)"
+      },
+      "provenance": {
+        "pages": [
+          1085
+        ],
+        "tables": [],
+        "quote": "Before the institution of SCT, 23 patients (88%) had grade III or IV stenosis. At the last evaluation after induction of SCT, 4 patients (15%) had grade III or IV stenosis."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 5.75
+        },
+        "odds_ratio": {
+          "est": 42.167
+        },
+        "arr": 0.731,
+        "nnt": 1.4
+      }
+    },
+    {
+      "concept_id": "subjective_breathing_improvement",
+      "name": "Subjective improvement in breathing",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P11M",
+      "timepoint_label": "Last available follow-up (median 11 months)",
+      "groups": [
+        {
+          "arm_id": "post_overall",
+          "raw": {
+            "events": 26,
+            "total": 26
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Descriptive proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated (n=26)"
+      },
+      "provenance": {
+        "pages": [
+          1084
+        ],
+        "tables": [],
+        "quote": "In a median follow-up of 11 months (range, 1-26 months), all patients reported an overall subjective improvement in breathing."
+      }
+    },
+    {
+      "concept_id": "interventions_per_year_change_6m",
+      "name": "Interventions per year before vs after SCT (≥6 months subgroup)",
+      "type": "continuous",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P6M",
+      "timepoint_label": "Patients with ≥6 months follow-up",
+      "groups": [
+        {
+          "arm_id": "pre_sct_6m",
+          "raw": {
+            "mean": 3.78,
+            "sd": 3.43,
+            "total": 20
+          }
+        },
+        {
+          "arm_id": "post_sct_6m",
+          "raw": {
+            "mean": 1.64,
+            "sd": 0.76,
+            "total": 20
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "pre_sct_6m",
+        "measure": "paired_mean_difference",
+        "est": -2.14,
+        "p_value": 0.004,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Paired-sample t test comparing annualized intervention rates pre- vs post-SCT",
+        "adjusted": false,
+        "covariates": [],
+        "population": "≥6 months follow-up subgroup (n=20)"
+      },
+      "provenance": {
+        "pages": [
+          1085
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "The mean (SD) intervention rate decreased from 3.8 (3.4) per year prior to induction of SCT to 1.6 (0.8) per year after the institution of SCT (P = .004)."
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Hypotension",
+      "meddra": {
+        "soc": "Vascular disorders",
+        "pt": "Hypotension"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention_overall",
+          "events": 1,
+          "patients": 1,
+          "percentage": 3.8,
+          "total": 26
+        }
+      ],
+      "period": "Intraoperative",
+      "management": "",
+      "provenance": {
+        "pages": [
+          1085
+        ],
+        "tables": [],
+        "quote": "There was no substantial morbidity or mortality associated with the procedure except for 1 patient who had transient hypotension during the procedure."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "ROBINS-I",
+    "overall_judgment": "serious",
+    "domains": [
+      {
+        "name": "Bias due to confounding",
+        "judgment": "serious",
+        "support_for_judgment": "No control group; before-after design with potential secular and regression-to-the-mean effects"
+      },
+      {
+        "name": "Bias in selection of participants",
+        "judgment": "moderate",
+        "support_for_judgment": "Consecutive series, but inclusion dependent on treatment decision and consent"
+      },
+      {
+        "name": "Bias in classification of interventions",
+        "judgment": "low",
+        "support_for_judgment": "Single defined SCT protocol with standardized application"
+      },
+      {
+        "name": "Bias due to deviations from intended interventions",
+        "judgment": "low",
+        "support_for_judgment": "Procedures described consistently; adjunct balloon dilation applied per protocol"
+      },
+      {
+        "name": "Bias due to missing data",
+        "judgment": "low",
+        "support_for_judgment": "Post-SCT outcomes reported for all 26; subgroup analyses restricted to n=20 with ≥6 months follow-up"
+      },
+      {
+        "name": "Bias in measurement of outcomes",
+        "judgment": "moderate",
+        "support_for_judgment": "Outcome grading by panel of reviewers; subjective improvement self-reported"
+      },
+      {
+        "name": "Bias in selection of the reported result",
+        "judgment": "moderate",
+        "support_for_judgment": "Retrospective design; no pre-registered analysis plan"
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "spray cryotherapy",
+      "benign tracheal stenosis",
+      "airway stenosis",
+      "balloon dilatation",
+      "truFreeze"
+    ],
+    "summary_tldr": "Single-center retrospective case series (n=26) found SCT plus balloon dilatation improved stenosis grade (mean change 1.39; p<0.001) and reduced annual intervention rate from 3.8 to 1.6 (p=0.004), with no major complications (1 transient hypotension).",
+    "clinical_relevance": "Spray cryotherapy appears to be a safe adjunct for benign tracheal stenosis refractory to conventional endoluminal therapies, potentially prolonging intervention-free intervals."
+  }
+}

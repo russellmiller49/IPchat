@@ -1,0 +1,433 @@
+{
+  "source": {
+    "document_id": "Chan-2021-Transbronchial microwave ablation of",
+    "ingest_date": "2025-08-08T10:33:20.325792+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.21037/tlcr-20-1231"
+  },
+  "document": {
+    "metadata": {
+      "title": "Transbronchial microwave ablation of lung nodules with electromagnetic navigation bronchoscopy guidance—a novel technique and initial experience with 30 cases",
+      "year": 2021,
+      "authors": [
+        "Joyce W. Y. Chan",
+        "Rainbow W. H. Lau",
+        "Jenny C. L. Ngai",
+        "Carita Tsoi",
+        "Cheuk Man Chu",
+        "Tony S. K. Mok",
+        "Calvin S. H. Ng"
+      ],
+      "journal": "Translational Lung Cancer Research",
+      "doi": "10.21037/tlcr-20-1231",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Background: Microwave ablation of lung nodules may provide a faster, larger and more predictable ablation zone than other energy sources, while bronchoscopic transbronchial ablation has theoretical advantage of fewer pleural-based complications than percutaneous approach. Our study aims to determine whether the novel combination of bronchoscopic approach and microwave ablation in management of lung nodules is technically feasible, safe and effective. Methods: This is a retrospective analysis of a single center experience in electromagnetic navigation bronchoscopy microwave ablation in a hybrid operating room. Patients had high surgical risks while lung nodules were either proven malignant or radiologically suspicious. Primary endpoints include technical feasibility and safety. Results: A total of 30 lung nodules from 25 patients were treated. Mean nodule size was 15.1 mm, and bronchus sign was present in 50%. Technical success was 100%, with some nodules requiring double ablation. Mean minimal ablation margin was 5.51 mm. The mean actual ablation zone volume was -21.4% compared to predicted, likely due to tissue contraction ranging 0-43%. No significant heat sink effect was observed. Mean hospital stay was 1.73 days, and only 1 patient stayed >3 days. Complications included pain (13.3%), pneumothorax requiring drainage (6.67%), post-ablation reaction/fever (6.67%), pleural effusion infection (3.33%) and hemoptysis (3.33%). After median follow-up of 12 months, none of the nodules had evidence of progression. Conclusions: Bronchoscopic transbronchial microwave ablation is safe and feasible for malignant lung nodules; prospective studies are warranted.",
+      "methods": "Single-centre retrospective analysis of consecutive patients undergoing electromagnetic navigation bronchoscopy (ENB)-guided transbronchial microwave ablation (MWA) of malignant or radiologically suspicious lung nodules (March 2019-June 2020). Inclusion considered bronchus sign, peripheral location, tumour size <30 mm, and ≥5 mm from large vessels/mediastinum. Patients had biopsy-proven cancer/metastasis or radiologically suspicious nodules if biopsy not feasible/refused. Staging imaging performed; nodal disease ruled out with EBUS if indicated. Procedures were performed in a hybrid OR with cone-beam CT (CBCT) and fluoroscopy. ENB (SuperDimension) guided navigation; CrossCountry tool used for transbronchial access when needed; Emprint microwave catheter used for ablation. Predicted ablation margins were planned (minimum 5 mm). Post-ablation CBCT assessed actual margins; double ablation performed as needed. Follow-up with CT at 1, 3, 6, 9, and 12 months; local control assessed by radiologists using mRECIST. Statistical analyses: descriptive statistics; Student’s t test and chi-square tests as appropriate; significance threshold ≤0.05.",
+      "results": "Twenty-five patients (median Charlson comorbidity index 6) with 30 nodules were treated; mean maximal nodule diameter 15.1 mm (range 7-29). Bronchus sign present in 15/30 (50%). Mean procedural time (excluding concomitant biopsy) 126.3 minutes; median CBCT scans per case 7. Double ablation required in 4/30 (13.3%). Technical success was 100% (lesion included in ablation zone with adequate margin). Predicted minimal margin mean 6.63 mm (SD 2.89); actual minimal margin mean 5.51 mm (SD 2.48); no significant difference (P=0.086). Tissue contraction ranged 0-43%; actual ablation zone volume averaged -21.4% (SD 38.9%) vs predicted. Complications (per lesion): pain 4/30 (13.3%, CTCAE 1), pneumothorax requiring chest drain 2/30 (6.67%, CTCAE 3), post-ablation reaction/fever 2/30 (6.67%, CTCAE 1), hemoptysis 1/30 (3.33%, CTCAE 1), infected effusion 1/30 (3.33%, CTCAE 1). No abscess, BPF, hemothorax, arrhythmia, pneumonia, pulmonary edema, airway injury, unintended microwave burn, or procedure-related mortality. Mean hospital stay 1.73 days; one patient stayed 16 days due to pneumothorax with subsequent infected effusion. After median 12 months follow-up, no nodules progressed by mRECIST."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with malignant or radiologically suspicious lung nodules at high surgical risk treated at a single tertiary center.",
+      "inclusion_criteria": [
+        "Radiologically suspicious lung nodule on CT",
+        "High surgical risk or refusal of surgery",
+        "Preferably bronchus sign present, peripheral location, tumor size <30 mm",
+        "At least 5 mm from large vessels or mediastinal structures",
+        "Biopsy-proven lung cancer or metastasis OR radiologically suspicious if biopsy not feasible/refused and serial imaging supportive",
+        "T1N0M0 for primary lung cancers after staging"
+      ],
+      "exclusion_criteria": [
+        "Distant metastases on CT/PET-CT for primary lung cancer",
+        "Nodal involvement not excluded (if enlarged/hypermetabolic and not sampled)",
+        "Lesions near critical structures where thermal injury risk unacceptable (e.g., brachial plexus, phrenic nerve)"
+      ]
+    },
+    "intervention": {
+      "text": "Electromagnetic navigation bronchoscopy-guided transbronchial microwave ablation",
+      "details": "ENB navigation (SuperDimension) in a hybrid OR with CBCT/fluoroscopy. Transbronchial access created with CrossCountry when bronchus sign absent; biopsy performed when indicated. Microwave ablation with Emprint catheter (Thermosphere). Predicted ablation planning targeting ≥5 mm margins using PURE software. Post-ablation CBCT verification; repeat ablation (same position, pull-back, or bracket) as needed."
+    },
+    "comparison": {
+      "text": "None (single-arm retrospective case series)",
+      "details": "No concurrent control group."
+    },
+    "outcomes": [
+      {
+        "name": "Technical feasibility (technical success rate: lesion included in ablation zone with adequate margin)",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Safety (procedure-related complications within index hospitalization and early postoperative period)",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Local tumor control by mRECIST at follow-up",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Observational (retrospective single-arm case series)",
+    "allocation": "nonrandomized",
+    "blinding": "none",
+    "sites_count": 1,
+    "countries": [
+      "Hong Kong"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 25,
+      "analyzed": 25
+    },
+    "analysis_populations": [
+      {
+        "name": "All treated patients",
+        "description": "All patients who underwent ENB-guided transbronchial microwave ablation",
+        "n": 25
+      },
+      {
+        "name": "All treated lesions",
+        "description": "All lung nodules that underwent ablation",
+        "n": 30
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "ENB-guided transbronchial microwave ablation",
+      "n_randomized": 25,
+      "n_analyzed": 25,
+      "n_completed": 25
+    },
+    {
+      "arm_id": "control",
+      "name": "No control arm",
+      "n_randomized": 0,
+      "n_analyzed": 0,
+      "n_completed": 0
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "technical_success_immediate",
+      "name": "Technical success (lesion included in ablation zone with adequate margin)",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Immediate (intraoperative/post-procedure imaging)",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 30,
+            "total": 30
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Descriptive proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated lesions",
+        "missing_handling": "Not applicable"
+      },
+      "provenance": {
+        "pages": [
+          1611
+        ],
+        "tables": [],
+        "quote": "Technical success rate, defined as inclusion of lesion into ablation zone with adequate margin, was 100%."
+      }
+    },
+    {
+      "concept_id": "local_progression_12m",
+      "name": "Local tumor progression by mRECIST",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P12M",
+      "timepoint_label": "12 months (median follow-up)",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 0,
+            "total": 30
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Descriptive proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated lesions",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          1609
+        ],
+        "tables": [],
+        "quote": "After median follow up of 12 months, none of the nodules had evidence of progression."
+      }
+    },
+    {
+      "concept_id": "minimal_ablation_margin_actual",
+      "name": "Minimal ablation margin (actual, mm)",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Immediate post-ablation",
+      "unit": "mm",
+      "unit_canonical": "millimeter",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": 5.51,
+            "sd": 2.48,
+            "total": 30
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "none",
+        "est": 0,
+        "ci_lower": 0,
+        "ci_upper": 0,
+        "ci_level": 0.95,
+        "p_value": 0.086,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Paired t-test vs predicted minimal margin",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated lesions",
+        "missing_handling": "Not applicable"
+      },
+      "provenance": {
+        "pages": [
+          1611
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "quote": "The mean (±SD) minimal actual margin after ablation was 5.51 (±2.48) mm (Table 3), and there was no significant difference between the predicted and actual minimal margin (P=0.086)."
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Pneumothorax requiring chest tube",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Pneumothorax"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "hospitalization",
+        "required intervention (chest tube)"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 2,
+          "patients": 2,
+          "percentage": 6.67,
+          "total": 30
+        }
+      ],
+      "period": "Peri-procedural (index admission)",
+      "management": "Chest drain insertion in both cases; one patient had prolonged stay due to subsequent infected effusion.",
+      "provenance": {
+        "pages": [
+          1613
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "Pneumothorax requiring chest drain insertion 2 (6.67%)"
+      }
+    },
+    {
+      "event_name": "Pain",
+      "meddra": {
+        "soc": "General disorders and administration site conditions",
+        "pt": "Pain"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 4,
+          "patients": 4,
+          "percentage": 13.3,
+          "total": 30
+        }
+      ],
+      "period": "Peri-procedural (index admission)",
+      "management": "Symptomatic management",
+      "provenance": {
+        "pages": [
+          1613
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "Pain 4 (13.3%), CTCAE grade 1"
+      }
+    },
+    {
+      "event_name": "Pyrexia (post-ablation reaction/fever)",
+      "meddra": {
+        "soc": "General disorders and administration site conditions",
+        "pt": "Pyrexia"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 2,
+          "patients": 2,
+          "percentage": 6.67,
+          "total": 30
+        }
+      ],
+      "period": "Peri-procedural (index admission)",
+      "management": "Supportive care",
+      "provenance": {
+        "pages": [
+          1613
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "Post-ablation reaction/fever 2 (6.67%), CTCAE grade 1"
+      }
+    },
+    {
+      "event_name": "Hemoptysis",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Hemoptysis"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 1,
+          "patients": 1,
+          "percentage": 3.33,
+          "total": 30
+        }
+      ],
+      "period": "Peri-procedural (index admission)",
+      "management": "Conservative management",
+      "provenance": {
+        "pages": [
+          1613
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "Hemoptysis 1 (3.33%), CTCAE grade 1"
+      }
+    },
+    {
+      "event_name": "Pleural effusion (infected)",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Pleural effusion"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "hospitalization",
+        "medically significant"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 1,
+          "patients": 1,
+          "percentage": 3.33,
+          "total": 30
+        }
+      ],
+      "period": "Peri-procedural (index admission)",
+      "management": "Intravenous antibiotics; prolonged hospital stay",
+      "provenance": {
+        "pages": [
+          1613
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "Infected effusion 1 (3.33%), CTCAE grade 1"
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "ROBINS-I",
+    "overall_judgment": "serious",
+    "domains": [
+      {
+        "name": "Confounding",
+        "judgment": "serious",
+        "support_for_judgment": "Single-arm retrospective design without control; high comorbidity burden may influence outcomes."
+      },
+      {
+        "name": "Selection of participants",
+        "judgment": "moderate",
+        "support_for_judgment": "Patients selected via multidisciplinary review; inclusion based on feasibility and surgical risk."
+      },
+      {
+        "name": "Classification of interventions",
+        "judgment": "low",
+        "support_for_judgment": "Intervention clearly defined (ENB-guided MWA)."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "low",
+        "support_for_judgment": "Standardized protocol; bracket/double ablation pre-specified for inadequate margins."
+      },
+      {
+        "name": "Missing data",
+        "judgment": "moderate",
+        "support_for_judgment": "Follow-up CT schedule planned but not always completed due to defaults/resource limits."
+      },
+      {
+        "name": "Measurement of outcomes",
+        "judgment": "low",
+        "support_for_judgment": "Objective imaging-based outcomes (CBCT/CT, mRECIST)."
+      },
+      {
+        "name": "Selection of reported result",
+        "judgment": "moderate",
+        "support_for_judgment": "Retrospective analysis; pre-specification of all endpoints unclear."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "electromagnetic navigation bronchoscopy",
+      "microwave ablation",
+      "transbronchial",
+      "lung nodules",
+      "hybrid operating room"
+    ],
+    "summary_tldr": "In 30 lung nodules treated with ENB-guided transbronchial microwave ablation, technical success was 100% with low complication rates and no local progression at a median 12 months.",
+    "clinical_relevance": "Demonstrates feasibility and safety of a non-transpleural bronchoscopic microwave ablation approach that may reduce pleural complications versus percutaneous methods in high-risk patients."
+  }
+}

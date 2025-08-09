@@ -1,0 +1,419 @@
+{
+  "source": {
+    "document_id": "Ambulatory management of primary spontaneous p",
+    "ingest_date": "2025-08-08T09:42:58.842219+00:00",
+    "trial_registration_id": "ISRCTN79151659",
+    "pmid": null,
+    "doi": null
+  },
+  "document": {
+    "metadata": {
+      "title": "Ambulatory management of primary spontaneous pneumothorax: an open-label, randomised controlled trial",
+      "year": 2020,
+      "authors": [
+        "Rob J Hallifax",
+        "Edward McKeown",
+        "Parthipan Sivakumar",
+        "Ian Fairbairn",
+        "Christy Peter",
+        "Andrew Leitch",
+        "Matthew Knight",
+        "Andrew Stanton",
+        "Asim Ijaz",
+        "Stefan Marciniak",
+        "James Cameron",
+        "Amrithraj Bhatta",
+        "Kevin G Blyth",
+        "Raja Reddy",
+        "Marie-Clare Harris",
+        "Nadeem Maddekar",
+        "Steven Walker",
+        "Alex West",
+        "Magda Laskawiec-Szkonter",
+        "John P Corcoran",
+        "Stephen Gerry",
+        "Corran Roberts",
+        "John E Harvey",
+        "Nick Maskell",
+        "Robert F Miller",
+        "Najib M Rahman"
+      ],
+      "journal": "The Lancet",
+      "doi": null,
+      "pmid": null
+    },
+    "sections": {
+      "abstract": "Background: Primary spontaneous pneumothorax occurs in otherwise healthy young patients. Optimal management is not defined and often results in prolonged hospitalisation. Data on efficacy of ambulatory options are poor. We aimed to describe the duration of hospitalisation and safety of ambulatory management compared with standard care. Methods: In this open-label, randomised controlled trial, adults (aged 16-55 years) with symptomatic primary spontaneous pneumothorax were recruited from 24 UK hospitals during a period of 3 years. Patients were randomly assigned (1:1) to treatment with either an ambulatory device or standard guideline-based management (aspiration, standard chest tube insertion, or both). The primary outcome was total length of hospital stay including re-admission up to 30 days after randomisation. Patients with available data were included in the primary analysis and all assigned patients were included in the safety analysis. Findings: Of 776 patients screened between July, 2015, and March, 2019, 236 were randomly assigned to ambulatory care (n=117) and standard care (n=119). At day 30, the median hospitalisation was significantly shorter in those who received ambulatory treatment (0 days [IQR 0-3]) than in those who received standard care (4 days [IQR 0-8]; p<0.0001; median difference 2 days [95% CI 1-3]). 110 of 236 patients had adverse events, including 64 of 117 in the ambulatory care arm and 46 of 119 in the standard care arm. All 14 serious adverse events occurred in patients who received ambulatory care, eight of which were related to the intervention. Interpretation: Ambulatory management of primary spontaneous pneumothorax significantly reduced the duration of hospitalisation including re-admissions in the first 30 days, but at the expense of increased adverse events.",
+      "methods": "Multicentre, open-label, randomised controlled trial across 24 UK hospitals comparing an ambulatory device (Rocket Pleural Vent) to standard British Thoracic Society guideline-based management (aspiration, small-bore chest tube, or both). Adults aged 16-55 years with symptomatic primary spontaneous pneumothorax requiring intervention (large pneumothorax ≥2 cm at hilum and/or significant symptoms) were eligible. Exclusions included underlying lung disease (including >20 pack-years smoking history, excluding well-controlled asthma), tension pneumothorax, contraindication to thoracic procedures, pregnancy or lactation. Randomisation 1:1 via central web-based minimisation by centre and pneumothorax size (≥4 cm vs <4 cm). Primary outcome: total hospital days through day 30 including re-admissions. Secondary outcomes included need for further pleural procedures, adverse events, pain and breathlessness VAS, recurrence, and time off work. Ambulatory arm: 8F catheter with Heimlich valve; discharge criteria included clinical stability and support at home with frequent outpatient review. Control arm: aspiration recommended then small-bore chest tube if needed per BTS guidelines; discharge per standard criteria. Follow-up at 1 week post-treatment, 30 days, 6 and 12 months. Primary analysis included patients with available day-30 hospitalisation data; all randomised included for safety.",
+      "results": "236 patients were randomised (ambulatory n=117; standard care n=119). Primary outcome (available-case): median total hospital days to day 30 were 0 (IQR 0-3) in ambulatory (n=114) vs 4 (IQR 0-8) in standard care (n=113), with a median difference of 2 days (95% CI 1-3), p<0.0001. Adverse events occurred in 64/117 (55%) ambulatory vs 46/119 (39%) standard care. All 14 serious adverse events occurred in the ambulatory arm; 8 were intervention-related (including enlarging pneumothorax, asymptomatic pulmonary oedema, and device malfunction/leak/dislodgement)."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults aged 16-55 years with symptomatic primary spontaneous pneumothorax requiring intervention (large pneumothorax and/or significant symptoms) presenting to UK hospitals.",
+      "inclusion_criteria": [
+        "Age 16-55 years",
+        "Symptomatic primary spontaneous pneumothorax confirmed on chest radiograph or CT",
+        "Large pneumothorax (≥2 cm interpleural distance at the level of the hilum) or significant symptoms, or both",
+        "Decision to intervene per BTS guidelines"
+      ],
+      "exclusion_criteria": [
+        "Known or suspected underlying lung disease",
+        ">20 pack-year tobacco smoking history (excluding well-controlled asthma)",
+        "Tension pneumothorax requiring urgent decompression",
+        "Contraindication to thoracic procedures",
+        "Pregnant or lactating"
+      ]
+    },
+    "intervention": {
+      "text": "Ambulatory device (Rocket Pleural Vent)",
+      "details": "8F catheter with self-contained one-way Heimlich valve and collection chamber inserted under local anaesthetic; brief observation, chest radiograph, and discharge if stable; frequent outpatient reviews (every 1-2 days) until resolution or consideration of surgery after day 4."
+    },
+    "comparison": {
+      "text": "Standard guideline-based care",
+      "details": "Initial pleural aspiration under local anaesthesia with observation and repeat chest radiograph; if insufficient re-expansion, small-bore chest tube (≤14F) to underwater seal; suction per clinician discretion; discharge when no air leak and radiographic re-expansion."
+    },
+    "outcomes": [
+      {
+        "name": "Total length of hospital stay to 30 days including re-admissions",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Patients with ≥1 adverse event by day 30",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Patients with ≥1 serious adverse event by day 30",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "RCT",
+    "allocation": "randomized",
+    "blinding": "open-label",
+    "sites_count": 24,
+    "countries": [
+      "UK"
+    ],
+    "sample_size": {
+      "planned": null,
+      "enrolled": 236,
+      "analyzed": 227
+    },
+    "analysis_populations": [
+      {
+        "name": "Safety",
+        "description": "All randomized (as-treated equivalent)",
+        "n": 236
+      },
+      {
+        "name": "Available-case primary",
+        "description": "Patients with available day-30 hospitalisation data",
+        "n": 227
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "Ambulatory device (Rocket Pleural Vent)",
+      "n_randomized": 117,
+      "n_analyzed": 114,
+      "n_completed": 102
+    },
+    {
+      "arm_id": "control",
+      "name": "Standard care (aspiration and/or small-bore chest tube)",
+      "n_randomized": 119,
+      "n_analyzed": 113,
+      "n_completed": 101
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "hospital_days_total_30d",
+      "name": "Total hospital days including re-admissions by day 30",
+      "type": "continuous",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P30D",
+      "timepoint_label": "30 days",
+      "unit": "days",
+      "unit_canonical": "day",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "median": 0,
+            "iqr_low": 0,
+            "iqr_high": 3,
+            "total": 114
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "median": 4,
+            "iqr_low": 0,
+            "iqr_high": 8,
+            "total": 113
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "median_difference",
+        "est": 2,
+        "ci_lower": 1,
+        "ci_upper": 3,
+        "ci_level": 0.95,
+        "p_value": 0.0001,
+        "p_operator": "<",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Mann-Whitney U test with Hodges-Lehmann median difference",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Available-case primary",
+        "missing_handling": "Patients with missing day-30 data assumed no re-admissions for primary endpoint calculation as per protocol; analysis population reflects available hospitalization data"
+      },
+      "provenance": {
+        "pages": [
+          39
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "At day 30, the median hospitalisation was ... 0 days [IQR 0-3] ... vs 4 days [IQR 0-8]; p<0·0001; median difference 2 days [95% CI 1-3]."
+      }
+    },
+    {
+      "concept_id": "any_adverse_event_30d",
+      "name": "Patients with ≥1 adverse event by day 30",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P30D",
+      "timepoint_label": "30 days",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 64,
+            "total": 117
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 46,
+            "total": 119
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": 0.16,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Chi-square test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Safety",
+        "missing_handling": "All randomized included in safety"
+      },
+      "provenance": {
+        "pages": [
+          39
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "110 (47%) of 236 patients had adverse events, including 64 (55%) of 117 patients in the ambulatory care arm and 46 (39%) of 119 in the standard care arm."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 1.415
+        },
+        "odds_ratio": {
+          "est": 1.916
+        },
+        "arr": 0.16,
+        "nnt": 6.2
+      }
+    },
+    {
+      "concept_id": "serious_adverse_event_30d",
+      "name": "Patients with ≥1 serious adverse event by day 30",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P30D",
+      "timepoint_label": "30 days",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 14,
+            "total": 117
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 0,
+            "total": 119
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": 0.12,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Fisher's exact test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Safety",
+        "missing_handling": "All randomized included in safety"
+      },
+      "provenance": {
+        "pages": [
+          39
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "All 14 serious adverse events occurred in patients who received ambulatory care, eight (57%) of which were related to the intervention."
+      },
+      "derived": {
+        "arr": 0.12,
+        "nnt": 8.4
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Patients with ≥1 adverse event (any severity)",
+      "meddra": {
+        "soc": "General disorders and administration site conditions",
+        "pt": "Adverse event"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 64,
+          "percentage": 54.7,
+          "total": 117
+        },
+        {
+          "arm_id": "control",
+          "events": 46,
+          "percentage": 38.7,
+          "total": 119
+        }
+      ],
+      "period": "0-30 days",
+      "management": null,
+      "provenance": {
+        "pages": [
+          39
+        ],
+        "tables": [],
+        "quote": "110 (47%) of 236 patients had adverse events, including 64 (55%) of 117 patients in the ambulatory care arm and 46 (39%) of 119 in the standard care arm."
+      }
+    },
+    {
+      "event_name": "Serious adverse event (any)",
+      "meddra": {
+        "soc": "General disorders and administration site conditions",
+        "pt": "Serious adverse event"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "hospitalization"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 14,
+          "percentage": 12.0,
+          "total": 117
+        },
+        {
+          "arm_id": "control",
+          "events": 0,
+          "percentage": 0,
+          "total": 119
+        }
+      ],
+      "period": "0-30 days",
+      "management": "Events included enlarging pneumothorax, asymptomatic pulmonary oedema, and device malfunction, leak, or dislodgement (intervention-related in 8/14).",
+      "provenance": {
+        "pages": [
+          39
+        ],
+        "tables": [],
+        "quote": "All 14 serious adverse events occurred in patients who received ambulatory care, eight (57%) of which were related to the intervention, including an enlarging pneumothorax, asymptomatic pulmonary oedema, and the device malfunctioning, leaking, or dislodging."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "RoB 2",
+    "overall_judgment": "some concerns",
+    "domains": [
+      {
+        "name": "Randomization process",
+        "judgment": "low",
+        "support_for_judgment": "Centralised web-based randomisation with minimisation by centre and pneumothorax size."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "some concerns",
+        "support_for_judgment": "Open-label design may influence co-interventions and discharge decisions."
+      },
+      {
+        "name": "Missing outcome data",
+        "judgment": "low",
+        "support_for_judgment": "Primary analysis included 227/236 with available data; protocol specified assumptions for missing re-admissions."
+      },
+      {
+        "name": "Measurement of the outcome",
+        "judgment": "low",
+        "support_for_judgment": "Primary outcome (hospital days) is objective."
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "low",
+        "support_for_judgment": "Primary outcome prespecified; trial registered (ISRCTN79151659)."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "primary spontaneous pneumothorax",
+      "ambulatory management",
+      "Heimlich valve",
+      "Rocket Pleural Vent",
+      "randomised controlled trial",
+      "British Thoracic Society guidelines"
+    ],
+    "summary_tldr": "Ambulatory device management reduced total hospital days to day 30 (median 0 vs 4; p<0.0001) but increased adverse events compared with standard care.",
+    "clinical_relevance": "Supports outpatient management of primary spontaneous pneumothorax requiring intervention using ambulatory devices, with attention to safety and follow-up."
+  }
+}

@@ -1,0 +1,602 @@
+{
+  "source": {
+    "document_id": "Endobronchial Valves for Emphysema without Int",
+    "ingest_date": "2025-08-08T11:58:36.577736+00:00",
+    "trial_registration_id": "NTR2876",
+    "pmid": "",
+    "doi": "10.1056/NEJMoa1507807"
+  },
+  "document": {
+    "metadata": {
+      "title": "Endobronchial Valves for Emphysema without Interlobar Collateral Ventilation",
+      "year": 2015,
+      "authors": [
+        "Karin Klooster",
+        "Nick H.T. ten Hacken",
+        "Jorine E. Hartman",
+        "Huib A.M. Kerstjens",
+        "Eva M. van Rikxoort",
+        "Dirk-Jan Slebos"
+      ],
+      "journal": "New England Journal of Medicine",
+      "doi": "10.1056/NEJMoa1507807",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "BACKGROUND Bronchoscopic lung-volume reduction with the use of one-way endobronchial valves is a potential treatment for patients with severe emphysema. To date, the benefits have been modest but have been hypothesized to be much larger in patients without interlobar collateral ventilation than in those with collateral ventilation. METHODS We randomly assigned patients with severe emphysema and a confirmed absence of collateral ventilation to bronchoscopic endobronchial-valve treatment (EBV group) or to continued standard medical care (control group). Primary outcomes were changes from baseline to 6 months in forced expiratory volume in 1 second (FEV1), forced vital capacity (FVC), and 6-minute walk distance. RESULTS Eighty-four patients were recruited, of whom 16 were excluded because they had collateral ventilation (13 patients) or because lobar segments were inaccessible to the endobronchial valves (3 patients). The remaining 68 patients (mean [±SD] age, 59±9 years; 46 were women) were randomly assigned to the EBV group (34 patients) or the control group (34). At baseline, the FEV1 and FVC were 29±7% and 77±18% of the predicted values, respectively, and the 6-minute walk distance was 374±86 m. Intention-to-treat analyses showed significantly greater improvements in the EBV group than in the control group from baseline to 6 months: the increase in FEV1 was greater in the EBV group than in the control group by 140 ml (95% confidence interval [CI], 55 to 225), the increase in FVC was greater by 347 ml (95% CI, 107 to 588), and the increase in the 6-minute walk distance was greater by 74 m (95% CI, 47 to 100) (P<0.01 for all comparisons). By 6 months, 23 serious adverse events had been reported in the EBV group, as compared with 5 in the control group (P<0.001). One patient in the EBV group died. Serious treatment-related adverse events in this group included pneumothorax (18% of patients) and events requiring valve replacement (12%) or removal (15%). CONCLUSIONS Endobronchial-valve treatment significantly improved pulmonary function and exercise capacity in patients with severe emphysema characterized by an absence of interlobar collateral ventilation.",
+      "methods": "Randomized, controlled, single-center trial at University Medical Center Groningen, Netherlands. Adults >35 years with emphysema, ex-smokers (>6 months), post-bronchodilator FEV1 <60% predicted, total lung capacity >100% predicted, residual volume >150% predicted, and mMRC dyspnea score >1 were eligible. A target lobe with a complete or near-complete fissure on HRCT was required. Absence of interlobar collateral ventilation in the target lobe was confirmed intra-procedurally using the Chartis system during bronchoscopy. Patients were randomized 1:1 (opaque sealed envelopes, blocks of four) to Zephyr endobronchial valve placement (EBV) or continued standard medical care; those in the control group were allowed to cross over to EBV at 6 months. Exclusions at bronchoscopy included evidence of collateral ventilation or airways unsuitable for valve placement. EBV placement occluded all segments/subsegments of the target lobe under conscious sedation or general anesthesia. Primary outcomes were changes from baseline to 6 months in FEV1, FVC, and 6-minute walk distance. Secondary outcomes included SGRQ, CCQ, and HRCT-derived target-lobe volume. Pulmonary function testing and 6MWT followed ATS/ERS standards by assessors blinded to assignment. Intention-to-treat analyses with multiple imputation for missing data were used for primary endpoints; Bonferroni correction applied to the three primary outcomes.",
+      "results": "Of 84 screened, 16 were excluded (13 collateral ventilation; 3 anatomy unsuitable). Sixty-eight were randomized (34 EBV, 34 control); 9 EBV and 1 control did not complete 6 months. Baseline FEV1 29±7% predicted; FVC 77±18% predicted; 6MWD 374±86 m. ITT analyses showed greater improvements with EBV vs control from baseline to 6 months: FEV1 mean difference 0.140 L (95% CI, 0.055 to 0.225; P<0.01), FVC mean difference 0.347 L (95% CI, 0.107 to 0.588; P<0.01), 6MWD mean difference 74 m (95% CI, 47 to 100; P<0.01). Among completers (25 EBV, 33 control), differences favored EBV: FEV1 0.191 L (95% CI, 0.109 to 0.272; P<0.001), FVC 0.442 L (95% CI, 0.215 to 0.668; P<0.001), 6MWD 106 m (95% CI, 80 to 133; P<0.001), SGRQ total -14.7 points (95% CI, -21.8 to -7.6; P<0.001), CCQ -0.74 points (95% CI, -1.20 to -0.27; P=0.002). In EBV patients, median target-lobe volume reduction on HRCT was 1366 ml (range, -3604 to -28; P<0.001). Safety through 6 months: serious adverse events were more frequent with EBV (23 events) vs control (5 events) (P<0.001); 1 death occurred in the EBV group. Serious treatment-related events included pneumothorax (18% of patients), valve replacement (12%), and valve removal (15%)."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with severe emphysema without interlobar collateral ventilation in the target lobe.",
+      "inclusion_criteria": [
+        "Age >35 years",
+        "Stopped smoking >6 months before enrollment",
+        "Post-bronchodilator FEV1 <60% predicted",
+        "Total lung capacity >100% predicted",
+        "Residual volume >150% predicted",
+        "mMRC dyspnea score >1",
+        "Target lobe with complete or nearly complete fissure on HRCT",
+        "Absence of collateral ventilation in target lobe confirmed by Chartis"
+      ],
+      "exclusion_criteria": [
+        "Evidence of collateral ventilation in target lobe on Chartis",
+        "Airway anatomy unsuitable for endobronchial valve placement",
+        "Failure to achieve lobar occlusion with endobronchial valves"
+      ]
+    },
+    "intervention": {
+      "text": "Endobronchial valve (Zephyr) placement",
+      "details": "Bronchoscopic placement of one-way Zephyr valves in all segments/subsegments of a single target lobe without collateral ventilation; performed under conscious sedation or general anesthesia; median of 4 valves per patient."
+    },
+    "comparison": {
+      "text": "Standard medical care",
+      "details": "Continued optimized medical therapy; patients were allowed to cross over to EBV at 6 months."
+    },
+    "outcomes": [
+      {
+        "name": "Change in FEV1 from baseline to 6 months",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Change in FVC from baseline to 6 months",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Change in 6-minute walk distance from baseline to 6 months",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "SGRQ total score change at 6 months",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "CCQ total score change at 6 months",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "RCT",
+    "allocation": "randomized",
+    "blinding": "open-label (outcome assessors for PFTs blinded)",
+    "sites_count": 1,
+    "countries": [
+      "Netherlands"
+    ],
+    "sample_size": {
+      "planned": 68,
+      "enrolled": 68,
+      "analyzed": 68
+    },
+    "analysis_populations": [
+      {
+        "name": "ITT",
+        "description": "All randomized; multiple imputation for missing primary endpoint data",
+        "n": 68
+      },
+      {
+        "name": "Completers",
+        "description": "Participants with 6-month data without imputation",
+        "n": 58
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "Endobronchial valve (Zephyr) treatment",
+      "n_randomized": 34,
+      "n_analyzed": 34,
+      "n_completed": 25
+    },
+    {
+      "arm_id": "control",
+      "name": "Standard medical care",
+      "n_randomized": 34,
+      "n_analyzed": 34,
+      "n_completed": 33
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "fev1_absolute_change_6m",
+      "name": "Absolute FEV1 change from baseline",
+      "type": "continuous",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P6M",
+      "unit": "L",
+      "unit_canonical": "liter",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "total": 34
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "total": 34
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "mean_difference_in_change",
+        "est": 0.14,
+        "ci_lower": 0.055,
+        "ci_upper": 0.225,
+        "ci_level": 0.95,
+        "p_value": 0.01,
+        "p_operator": "<",
+        "adjusted": false,
+        "multiple_comparisons": "Bonferroni across 3 primary endpoints"
+      },
+      "analysis": {
+        "model": "Two-sample t-test on change from baseline",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT",
+        "missing_handling": "Multiple imputation"
+      },
+      "provenance": {
+        "pages": [
+          2325
+        ],
+        "quote": "the increase in FEV1 was greater in the EBV group than in the control group by 140 ml (95% CI, 55 to 225) (P<0.01)"
+      }
+    },
+    {
+      "concept_id": "fvc_absolute_change_6m",
+      "name": "Absolute FVC change from baseline",
+      "type": "continuous",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P6M",
+      "unit": "L",
+      "unit_canonical": "liter",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "total": 34
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "total": 34
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "mean_difference_in_change",
+        "est": 0.347,
+        "ci_lower": 0.107,
+        "ci_upper": 0.588,
+        "ci_level": 0.95,
+        "p_value": 0.01,
+        "p_operator": "<",
+        "adjusted": false,
+        "multiple_comparisons": "Bonferroni across 3 primary endpoints"
+      },
+      "analysis": {
+        "model": "Two-sample t-test on change from baseline",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT",
+        "missing_handling": "Multiple imputation"
+      },
+      "provenance": {
+        "pages": [
+          2325
+        ],
+        "quote": "the increase in FVC was greater by 347 ml (95% CI, 107 to 588) (P<0.01)"
+      }
+    },
+    {
+      "concept_id": "6mwd_change_6m",
+      "name": "6-minute walk distance change from baseline",
+      "type": "continuous",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P6M",
+      "unit": "m",
+      "unit_canonical": "meter",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "total": 34
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "total": 34
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "mean_difference_in_change",
+        "est": 74,
+        "ci_lower": 47,
+        "ci_upper": 100,
+        "ci_level": 0.95,
+        "p_value": 0.01,
+        "p_operator": "<",
+        "adjusted": false,
+        "multiple_comparisons": "Bonferroni across 3 primary endpoints"
+      },
+      "analysis": {
+        "model": "Two-sample t-test on change from baseline",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT",
+        "missing_handling": "Multiple imputation"
+      },
+      "provenance": {
+        "pages": [
+          2325
+        ],
+        "quote": "the increase in the 6-minute walk distance was greater by 74 m (95% CI, 47 to 100) (P<0.01)"
+      }
+    },
+    {
+      "concept_id": "sgrq_total_change_6m",
+      "name": "SGRQ total score change from baseline",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P6M",
+      "unit": "points",
+      "unit_canonical": "points",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "total": 25
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "total": 33
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "mean_difference_in_change",
+        "est": -14.7,
+        "ci_lower": -21.8,
+        "ci_upper": -7.6,
+        "ci_level": 0.95,
+        "p_value": 0.001,
+        "p_operator": "<",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Two-sample t-test on change from baseline",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Completers"
+      },
+      "provenance": {
+        "pages": [
+          2329
+        ],
+        "quote": "SGRQ scores, with a 14.7-point greater reduction in the EBV group than in the control group (95% CI, -21.8 to -7.6; P<0.001)"
+      }
+    },
+    {
+      "concept_id": "ccq_total_change_6m",
+      "name": "CCQ total score change from baseline",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P6M",
+      "unit": "points",
+      "unit_canonical": "points",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "total": 25
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "total": 33
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "mean_difference_in_change",
+        "est": -0.74,
+        "ci_lower": -1.2,
+        "ci_upper": -0.27,
+        "ci_level": 0.95,
+        "p_value": 0.002,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Two-sample t-test on change from baseline",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Completers"
+      },
+      "provenance": {
+        "pages": [
+          2329
+        ],
+        "quote": "CCQ scores, with a 0.74-point greater reduction in the EBV group than in the control group (95% CI, -1.20 to -0.27; P=0.002)"
+      }
+    },
+    {
+      "concept_id": "all_cause_mortality_6m",
+      "name": "All-cause mortality by 6 months",
+      "type": "binary",
+      "outcome_type": "safety",
+      "timepoint_iso8601": "P6M",
+      "timepoint_label": "6 months",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 1,
+            "total": 34
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 0,
+            "total": 34
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": 0.0294,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Fisher exact test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT"
+      },
+      "provenance": {
+        "pages": [
+          2325
+        ],
+        "quote": "One patient in the EBV group died."
+      },
+      "derived": {
+        "arr": 0.029,
+        "nnt": 34.0
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Pneumothorax",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Pneumothorax"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "hospitalization"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 6,
+          "patients": 6,
+          "percentage": 17.6,
+          "total": 34
+        },
+        {
+          "arm_id": "control",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 34
+        }
+      ],
+      "period": "0-6 months",
+      "management": "",
+      "provenance": {
+        "pages": [
+          2325
+        ],
+        "quote": "Serious treatment-related adverse events in this group included pneumothorax (18% of patients)"
+      }
+    },
+    {
+      "event_name": "Device replacement required",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Device replacement"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "other medically important condition"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 4,
+          "patients": 4,
+          "percentage": 11.8,
+          "total": 34
+        },
+        {
+          "arm_id": "control",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 34
+        }
+      ],
+      "period": "0-6 months",
+      "management": "",
+      "provenance": {
+        "pages": [
+          2325
+        ],
+        "quote": "events requiring valve replacement (12%)"
+      }
+    },
+    {
+      "event_name": "Device removal",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Device removal"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "other medically important condition"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 5,
+          "patients": 5,
+          "percentage": 14.7,
+          "total": 34
+        },
+        {
+          "arm_id": "control",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 34
+        }
+      ],
+      "period": "0-6 months",
+      "management": "",
+      "provenance": {
+        "pages": [
+          2325
+        ],
+        "quote": "events requiring valve ... removal (15%)"
+      }
+    },
+    {
+      "event_name": "Death",
+      "meddra": {
+        "soc": "General disorders and administration site conditions",
+        "pt": "Death"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "death"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 1,
+          "patients": 1,
+          "percentage": 2.9,
+          "total": 34
+        },
+        {
+          "arm_id": "control",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 34
+        }
+      ],
+      "period": "0-6 months",
+      "management": "",
+      "provenance": {
+        "pages": [
+          2325
+        ],
+        "quote": "One patient in the EBV group died."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "RoB 2",
+    "overall_judgment": "some concerns",
+    "domains": [
+      {
+        "name": "Randomization process",
+        "judgment": "low",
+        "support_for_judgment": "Computer-generated randomization in blocks of four; allocation concealed in opaque sealed envelopes."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "some concerns",
+        "support_for_judgment": "Open-label design may influence co-interventions; however, outcomes are objective physiological measures."
+      },
+      {
+        "name": "Missing outcome data",
+        "judgment": "low",
+        "support_for_judgment": "Primary ITT analyses used multiple imputation; attrition 9/34 vs 1/34 addressed."
+      },
+      {
+        "name": "Measurement of the outcome",
+        "judgment": "low",
+        "support_for_judgment": "Pulmonary function tests and 6MWT conducted by assessors unaware of group assignment per ATS/ERS guidelines."
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "low",
+        "support_for_judgment": "Primary outcomes prespecified with multiplicity adjustment; results reported with CIs and p-values."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "emphysema",
+      "endobronchial valve",
+      "Zephyr",
+      "bronchoscopic lung volume reduction",
+      "collateral ventilation",
+      "Chartis"
+    ],
+    "summary_tldr": "In severe emphysema patients without interlobar collateral ventilation, Zephyr valves improved FEV1 (+0.14 L), FVC (+0.35 L), and 6MWD (+74 m) at 6 months vs standard care, with higher serious adverse events including pneumothorax.",
+    "clinical_relevance": "Patient selection by absence of collateral ventilation yields clinically meaningful gains in lung function and exercise capacity with endobronchial valves."
+  }
+}

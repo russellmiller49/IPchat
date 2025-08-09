@@ -1,0 +1,617 @@
+{
+  "source": {
+    "document_id": "fistula Youness-2018-Bronchoscopic advances in the man",
+    "ingest_date": "2025-08-08T12:42:07.684501+00:00",
+    "trial_registration_id": null,
+    "pmid": null,
+    "doi": "10.21037/jtd.2018.05.44"
+  },
+  "document": {
+    "metadata": {
+      "title": "Bronchoscopic advances in the management of aerodigestive fistulas",
+      "year": 2018,
+      "authors": [
+        "Houssein A. Youness",
+        "Kassem Harris",
+        "Ahmed Awab",
+        "Jean I. Keddissi"
+      ],
+      "journal": "Journal of Thoracic Disease",
+      "doi": "10.21037/jtd.2018.05.44",
+      "pmid": null
+    },
+    "sections": {
+      "abstract": "Malignant aerodigestive fistula (ADF) is an uncommon condition complicating thoracic malignancies. It results in increased morbidity and mortality and warrants therapeutic intervention. The management approach depends on symptoms, configuration, location, and extent of the fistula. This article will discuss the therapeutic considerations in the management of ADF.",
+      "methods": "Narrative review of bronchoscopic and endoscopic therapies for malignant aerodigestive fistulas; databases, search strategy, and formal inclusion criteria were not specified.",
+      "results": "Across predominantly retrospective cohorts and one prospective study, self-expanding metallic stents (SEMS) placed in the esophagus and/or airway achieved high rates of initial fistula sealing with variable recurrence. In Herth et al. (prospective, n=112), mean survival was longer with esophageal SEMS (269 days) or double stenting (253 days) than airway SEMS alone (219 days), with primary closure in all groups and 24 recurrences within 6 weeks (17 airway-only, 6 esophageal-only, 1 double). Wang et al. (retrospective, n=63) reported complete closure in 45/63 (71.4%) after customized airway metallic stents, with mean survival 163 days. Huang et al. (retrospective, n=50) observed complete closure in 28/50 (56%) and recurrence in 33/50 (66%); successful sealing was associated with longer survival (80 vs. 242 days, P<0.01). Adverse events reported included chest pain, stent migration, airway restenosis, transient respiratory failure requiring brief mechanical ventilation, and rare massive or fatal bleeding."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with malignant aerodigestive fistula (tracheo-/broncho-esophageal or esophagorespiratory fistula) complicating thoracic malignancies (primarily esophageal or lung cancer).",
+      "inclusion_criteria": [],
+      "exclusion_criteria": []
+    },
+    "intervention": {
+      "text": "Endoscopic stenting strategies",
+      "details": "Placement of self-expanding metallic stents (SEMS) or silicone/dynamic stents in the airway and/or esophagus, including single-lumen stenting (airway-only or esophageal-only), double (parallel) stenting of airway and esophagus, and overlapping stents for recurrent leaks."
+    },
+    "comparison": {
+      "text": "Alternative stenting strategies or conservative management",
+      "details": "Comparisons across studies included airway SEMS only vs esophageal SEMS only vs double stenting; in one study, stenting vs conservative management."
+    },
+    "outcomes": [
+      {
+        "name": "Mean survival (days)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Complete fistula closure",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Fistula recurrence after initial closure",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Procedure-related adverse events",
+        "type": "safety",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Narrative review",
+    "allocation": null,
+    "blinding": null,
+    "sites_count": null,
+    "countries": [],
+    "sample_size": {
+      "planned": null,
+      "enrolled": null,
+      "analyzed": null
+    },
+    "analysis_populations": []
+  },
+  "arms": [
+    {
+      "arm_id": "airway_sems_only_herth2010",
+      "name": "Airway SEMS only (Herth 2010)",
+      "n_randomized": null,
+      "n_analyzed": 65,
+      "n_completed": null
+    },
+    {
+      "arm_id": "esophageal_sems_only_herth2010",
+      "name": "Esophageal SEMS only (Herth 2010)",
+      "n_randomized": null,
+      "n_analyzed": 37,
+      "n_completed": null
+    },
+    {
+      "arm_id": "double_stenting_herth2010",
+      "name": "Double stenting (airway + esophageal) (Herth 2010)",
+      "n_randomized": null,
+      "n_analyzed": 10,
+      "n_completed": null
+    },
+    {
+      "arm_id": "wang2015_airway_custom",
+      "name": "Customized metallic airway stent cohort (Wang 2015)",
+      "n_randomized": null,
+      "n_analyzed": 63,
+      "n_completed": null
+    },
+    {
+      "arm_id": "wang2015_double",
+      "name": "Double stenting subgroup (Wang 2015)",
+      "n_randomized": null,
+      "n_analyzed": 8,
+      "n_completed": null
+    },
+    {
+      "arm_id": "huang2017_mixed",
+      "name": "Mixed strategy cohort (Huang 2017)",
+      "n_randomized": null,
+      "n_analyzed": 50,
+      "n_completed": null
+    },
+    {
+      "arm_id": "wlodarczyk2016_double",
+      "name": "Double stenting cohort (Włodarczyk 2016)",
+      "n_randomized": null,
+      "n_analyzed": 31,
+      "n_completed": null
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "fistula_recurrence_6w",
+      "name": "Fistula recurrence within 6 weeks after initial closure",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P6W",
+      "timepoint_label": "6 weeks",
+      "groups": [
+        {
+          "arm_id": "airway_sems_only_herth2010",
+          "raw": {
+            "events": 17,
+            "total": 65
+          }
+        },
+        {
+          "arm_id": "esophageal_sems_only_herth2010",
+          "raw": {
+            "events": 6,
+            "total": 37
+          }
+        },
+        {
+          "arm_id": "double_stenting_herth2010",
+          "raw": {
+            "events": 1,
+            "total": 10
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "esophageal_sems_only_herth2010",
+        "measure": "risk_difference",
+        "est": 0.099,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": null,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "unadjusted",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          5639
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "The ADF primary closure was 100% in all groups, but recurrence occurred in 24 patients (21%), and was more common in the airway stent only group (17 patients in the airway stent-only group compared to 6 in the esophageal SEMS-only and 1 in the double-stent group)."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 1.613
+        },
+        "odds_ratio": {
+          "est": 1.83
+        },
+        "arr": 0.099,
+        "nnt": 10.1
+      }
+    },
+    {
+      "concept_id": "overall_survival_mean_days",
+      "name": "Overall survival time (mean days)",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": null,
+      "timepoint_label": "Overall follow-up",
+      "unit": "days",
+      "unit_canonical": "day",
+      "groups": [
+        {
+          "arm_id": "airway_sems_only_herth2010",
+          "raw": {
+            "mean": 219,
+            "sd": null,
+            "total": 65
+          }
+        },
+        {
+          "arm_id": "esophageal_sems_only_herth2010",
+          "raw": {
+            "mean": 269,
+            "sd": null,
+            "total": 37
+          }
+        },
+        {
+          "arm_id": "double_stenting_herth2010",
+          "raw": {
+            "mean": 253,
+            "sd": null,
+            "total": 10
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "airway_sems_only_herth2010",
+        "measure": "mean_difference",
+        "est": 50,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": null,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "unadjusted",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated"
+      },
+      "provenance": {
+        "pages": [
+          5639
+        ],
+        "tables": [],
+        "quote": "Higher mean survival for the esophageal SEMS (269 days) and double stenting (253 days) compared to airway SEMS only (219 days)."
+      }
+    },
+    {
+      "concept_id": "complete_fistula_closure_wang2015",
+      "name": "Complete fistula closure (Wang 2015)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": null,
+      "timepoint_label": "Post-procedure assessment (timing not specified)",
+      "groups": [
+        {
+          "arm_id": "wang2015_airway_custom",
+          "raw": {
+            "events": 45,
+            "total": 63
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": null,
+        "est": null,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": null,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "proportion (single-arm)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated"
+      },
+      "provenance": {
+        "pages": [
+          5638
+        ],
+        "tables": [],
+        "quote": "Complete fistula closure was observed in 71.4% of the patients (45/63)."
+      }
+    },
+    {
+      "concept_id": "complete_fistula_closure_huang2017",
+      "name": "Complete fistula closure (Huang 2017)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": null,
+      "timepoint_label": "Post-procedure assessment (timing not specified)",
+      "groups": [
+        {
+          "arm_id": "huang2017_mixed",
+          "raw": {
+            "events": 28,
+            "total": 50
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": null,
+        "est": null,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": null,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "proportion (single-arm)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated"
+      },
+      "provenance": {
+        "pages": [
+          5638
+        ],
+        "tables": [],
+        "quote": "Complete fistula closure was achieved in 28 of the 50 patients (56%), with recurrent ADF in 66% of the patients."
+      }
+    },
+    {
+      "concept_id": "survival_sealed_vs_not_huang2017",
+      "name": "Mean survival (days): sealed vs not sealed (Huang 2017)",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": null,
+      "timepoint_label": "Overall follow-up",
+      "unit": "days",
+      "unit_canonical": "day",
+      "groups": [
+        {
+          "arm_id": "huang2017_mixed",
+          "raw": {
+            "mean": 242,
+            "sd": null,
+            "total": 28
+          }
+        },
+        {
+          "arm_id": "huang2017_mixed_notsealed",
+          "raw": {
+            "mean": 80,
+            "sd": null,
+            "total": 22
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "huang2017_mixed_notsealed",
+        "measure": "mean_difference",
+        "est": 162,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.01,
+        "p_operator": "<",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "unadjusted",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated"
+      },
+      "provenance": {
+        "pages": [
+          5639
+        ],
+        "tables": [],
+        "quote": "Successful sealing had better survival (80 vs. 242 days) P<0.01"
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Respiratory failure requiring mechanical ventilation",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Respiratory failure"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "life-threatening",
+        "hospitalization"
+      ],
+      "groups": [
+        {
+          "arm_id": "airway_sems_only_herth2010",
+          "events": 4,
+          "patients": 4,
+          "percentage": null,
+          "total": 65
+        },
+        {
+          "arm_id": "double_stenting_herth2010",
+          "events": 2,
+          "patients": 2,
+          "percentage": null,
+          "total": 10
+        },
+        {
+          "arm_id": "esophageal_sems_only_herth2010",
+          "events": 1,
+          "patients": 1,
+          "percentage": null,
+          "total": 37
+        }
+      ],
+      "period": "Peri-procedural (<1 day)",
+      "management": "Brief mechanical ventilation (<1 day) in ICU",
+      "provenance": {
+        "pages": [
+          5640
+        ],
+        "tables": [
+          "Table 1"
+        ],
+        "quote": "Seven patients with transient respiratory failure requiring MV (<1 day) in the ICU (4 airways, 2 double and 1 esophageal stent)"
+      }
+    },
+    {
+      "event_name": "Chest pain",
+      "meddra": {
+        "soc": "General disorders and administration site conditions",
+        "pt": "Chest pain"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "wang2015_airway_custom",
+          "events": 28,
+          "patients": 28,
+          "percentage": null,
+          "total": 63
+        }
+      ],
+      "period": "Post-procedure",
+      "management": "Not reported",
+      "provenance": {
+        "pages": [
+          5640
+        ],
+        "tables": [
+          "Table 1"
+        ],
+        "quote": "28 patients with chest pain"
+      }
+    },
+    {
+      "event_name": "Stent migration",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Device migration"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "wang2015_airway_custom",
+          "events": 2,
+          "patients": 2,
+          "percentage": null,
+          "total": 63
+        }
+      ],
+      "period": "Late",
+      "management": "Not reported",
+      "provenance": {
+        "pages": [
+          5640
+        ],
+        "tables": [
+          "Table 1"
+        ],
+        "quote": "Two patients with stent migration"
+      }
+    },
+    {
+      "event_name": "Airway restenosis",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Airway obstruction"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "wang2015_airway_custom",
+          "events": 2,
+          "patients": 2,
+          "percentage": null,
+          "total": 63
+        }
+      ],
+      "period": "Late",
+      "management": "Not reported",
+      "provenance": {
+        "pages": [
+          5640
+        ],
+        "tables": [
+          "Table 1"
+        ],
+        "quote": "Two patients with airway restenosis"
+      }
+    },
+    {
+      "event_name": "Hemoptysis",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Haemoptysis"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "life-threatening"
+      ],
+      "groups": [
+        {
+          "arm_id": "wang2015_double",
+          "events": 2,
+          "patients": 2,
+          "percentage": null,
+          "total": 8
+        },
+        {
+          "arm_id": "huang2017_mixed",
+          "events": 1,
+          "patients": 1,
+          "percentage": null,
+          "total": 50
+        }
+      ],
+      "period": "Delayed",
+      "management": "Not reported",
+      "provenance": {
+        "pages": [
+          5640,
+          5639
+        ],
+        "tables": [
+          "Table 1"
+        ],
+        "quote": "Two patients with double stenting had delayed massive hemoptysis ... One patient with massive hemoptysis after tracheal stenting"
+      }
+    },
+    {
+      "event_name": "Hemorrhage",
+      "meddra": {
+        "soc": "Vascular disorders",
+        "pt": "Haemorrhage"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "death"
+      ],
+      "groups": [
+        {
+          "arm_id": "wlodarczyk2016_double",
+          "events": 8,
+          "patients": 8,
+          "percentage": null,
+          "total": 31
+        }
+      ],
+      "period": "Early and long-term",
+      "management": "Not reported",
+      "provenance": {
+        "pages": [
+          5640
+        ],
+        "tables": [
+          "Table 1"
+        ],
+        "quote": "Fatal bleeding in one patient on day 3 post operation. Seven patients died of bleeding in long-term follow-up."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "Not applicable (narrative review)",
+    "overall_judgment": "high",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "aerodigestive fistula",
+      "tracheoesophageal fistula",
+      "bronchoesophageal fistula",
+      "airway stent",
+      "esophageal stent",
+      "double stenting",
+      "SEMS",
+      "interventional pulmonology"
+    ],
+    "summary_tldr": "Across mostly retrospective cohorts, esophageal or double stenting generally yielded longer mean survival than airway stenting alone; initial closure rates were high but recurrence was common, with notable but infrequent serious complications (respiratory failure, hemoptysis, bleeding).",
+    "clinical_relevance": "Provides practical, comparative evidence summaries to guide palliative endoscopic management of malignant aerodigestive fistulas, including when to prioritize airway vs esophageal stenting and considerations for double stenting."
+  }
+}

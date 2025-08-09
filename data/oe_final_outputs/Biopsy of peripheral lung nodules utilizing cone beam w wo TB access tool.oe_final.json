@@ -1,0 +1,509 @@
+{
+  "source": {
+    "document_id": "Biopsy of peripheral lung nodules utilizing cone beam w wo TB access tool",
+    "ingest_date": "2025-08-08T10:20:04.378668+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.21037/jtd.2018.09.16"
+  },
+  "document": {
+    "metadata": {
+      "title": "Biopsy of peripheral lung nodules utilizing cone beam computer tomography with and without trans bronchial access tool: a retrospective analysis",
+      "year": 2018,
+      "authors": [
+        "Michal Jan Sobieszczyk",
+        "Zhuhui Yuan",
+        "Wei Li",
+        "William Krimsky"
+      ],
+      "journal": "Journal of Thoracic Disease",
+      "doi": "10.21037/jtd.2018.09.16",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Background: Currently there are several techniques for endoscopic diagnosis of parenchymal lung abnormalities. Electromagnetic navigation with or without endobronchial ultrasound for diagnosis of the above has been well described. Bronchoscopic Trans Bronchial Access Tool is a novel endoscopic technique that creates a virtual pathway to the lesion and is less limited by location of the airway. The CrossCountry Transbronchial Access Tool (Covidien, Plymouth, MN, USA) is a Food and Drug Administration (FDA) approved off airway device that utilizes a catheter equipped guide sheath for a trans-parenchymal approach to a distal lesion. Cone beam computer tomography (CBCT) is a real-time onsite extrathoracic navigational modality used in the bronchoscopy suite that allows for an open working channel. All three of the above modalities can have reasonable diagnostic yields when used independently. While utilizing the above tools we frequently found ourselves in situations where one technique was not enough, prompting the use of a combination of modalities to obtain the most efficient and accurate diagnosis. We are reporting the feasibility and safety of utilizing these three modalities in conjunction with one another. Methods: Patients with peripheral pulmonary nodules on chest computed tomography underwent a navigation bronchoscopy under general anesthesia. CBCT and radial ultrasound was used in every case to confirm navigation to the target lesion. Lesions without definitive airways leading to them were accessed with the transbronchial access tool (TBAT). Results: Electromagnetic bronchoscopy using CBCT and radial US was performed on 22 patients from April 2016 to September 2016. The TBAT tool was used in 7 patients. The overall diagnostic yield was 77.2% (17 of 22). Diagnostic yield with use of TBAT was 100% (7 of 7). There were no complications. Average case length was 79.95 (range, 50-124) minutes and average fluoroscopy time was 10.39 (1-21.7) minutes. Conclusions: TBAT is a useful and safe tool when accessing peripheral pulmonary nodules and is used in conjunction with electromagnetic navigation and CBCT.",
+      "methods": "Retrospective review of patients who underwent bronchoscopy with electromagnetic navigation bronchoscopy (ENB), radial endobronchial ultrasound (r-EBUS), and cone beam CT (CBCT) guided biopsies between April 2016 and September 2016 at a single large community teaching facility. Non-contrast CT images were imported into the SuperDimension software; lesions were identified and marked. Navigation was attempted to all targets and confirmed with r-EBUS and a single CBCT spin. If apposition of the catheter to the lesion was not in the appropriate 3D plane after manipulation, TBAT (CrossCountry) was deployed to create a trans-parenchymal tunnel to the lesion, followed by biopsies via an extended working channel. At least two different biopsy tools were used per case, with ≥7 samples collected per lesion. Mediastinal staging with linear EBUS was performed in all cases. Statistical analysis used t-tests for continuous variables and chi-square or Fisher’s exact tests for dichotomous variables; P<0.05 was considered significant.",
+      "results": "Twenty-two patients (8 male, 14 female; mean age 69 years) underwent ENB with CBCT and r-EBUS; TBAT was used in 7/22 (31.8%). Mean nodule size was 2.1 cm (range 0.7-5.2). Overall diagnostic yield was 77.2% (17/22). Yield with TBAT was 100% (7/7). Among all cases, malignant diagnoses comprised 14/17 (82.3%): 6 adenocarcinoma, 6 squamous cell carcinoma, 1 carcinoid tumor, and 1 MALT lymphoma; benign diagnoses were 3/17 (17.6%): 2 non-caseating granulomas and 1 Mycobacterium avium complex. Non-diagnostic results occurred in 5/22 (22.7%), all in the left upper lobe. Diagnostic yield did not differ by size: ≤2 cm 6/8 (75.0%) vs >2 cm 10/13 (76.9%), P=0.99; >3 cm 3/3 (100%) vs ≤3 cm 13/18 (72.2%), P=0.572. No adverse events occurred intra- or post-procedure; chest X-ray at 2 hours showed no pneumothorax, bleeding, or infection; no adverse events were detected at 3- and 6-month follow-up. Mean procedure time was 79.95 minutes (range 50-124); mean fluoroscopy time 10.39 minutes (range 1-21.7)."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with peripheral pulmonary nodules referred for suspected lung cancer undergoing navigational bronchoscopy under general anesthesia at a single U.S. community teaching hospital.",
+      "inclusion_criteria": [
+        "Peripheral pulmonary nodule or mass on chest CT",
+        "Referred for suspected lung cancer",
+        "Underwent ENB with CBCT and r-EBUS",
+        "General anesthesia"
+      ],
+      "exclusion_criteria": [
+        "Not reported"
+      ]
+    },
+    "intervention": {
+      "text": "Transbronchial Access Tool (TBAT) adjunct to ENB + CBCT + r-EBUS",
+      "details": "After ENB navigation with r-EBUS and CBCT confirmation, if catheter apposition was suboptimal, TBAT (CrossCountry) was inserted via the extended working channel to puncture airway wall and create a trans-parenchymal tunnel (1-2 cm) into the lesion, followed by biopsy with multiple tools (≥7 samples)."
+    },
+    "comparison": {
+      "text": "ENB + CBCT + r-EBUS without TBAT",
+      "details": "Standard ENB navigation with r-EBUS and CBCT confirmation; biopsies performed via extended working channel without trans-parenchymal access."
+    },
+    "outcomes": [
+      {
+        "name": "Diagnostic yield (pathologic diagnosis obtained at index procedure)",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Procedure-related complications (e.g., pneumothorax, bleeding, infection)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Procedure time",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Fluoroscopy time",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "retrospective observational study",
+    "allocation": "non-randomized",
+    "blinding": "none",
+    "sites_count": 1,
+    "countries": [
+      "US"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 22,
+      "analyzed": 22
+    },
+    "analysis_populations": [
+      {
+        "name": "All procedures",
+        "description": "All patients undergoing ENB + CBCT ± TBAT",
+        "n": 22
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "ENB + CBCT + r-EBUS with TBAT",
+      "n_randomized": 0,
+      "n_analyzed": 7,
+      "n_completed": 7
+    },
+    {
+      "arm_id": "control",
+      "name": "ENB + CBCT + r-EBUS without TBAT",
+      "n_randomized": 0,
+      "n_analyzed": 15,
+      "n_completed": 15
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "diagnostic_yield_index_procedure",
+      "name": "Diagnostic yield (pathologic diagnosis obtained at index procedure)",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Index procedure",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 7,
+            "total": 7
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 10,
+            "total": 15
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": 0.333,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive (no formal hypothesis test reported for TBAT vs no TBAT)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All procedures",
+        "missing_handling": "Complete case (all analyzed)"
+      },
+      "provenance": {
+        "pages": [
+          5954,
+          5957
+        ],
+        "tables": [],
+        "quote": "The overall diagnostic yield was 77.2% (17 of 22). Diagnostic yield with use TBAT was 100% (7 of 7). There were no complications."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 1.5
+        },
+        "arr": 0.333,
+        "nnt": 3.0
+      }
+    },
+    {
+      "concept_id": "diagnostic_yield_by_size_2cm",
+      "name": "Diagnostic yield by size (≤2 cm vs >2 cm)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Index procedure",
+      "groups": [
+        {
+          "arm_id": "size_le_2cm",
+          "raw": {
+            "events": 6,
+            "total": 8
+          }
+        },
+        {
+          "arm_id": "size_gt_2cm",
+          "raw": {
+            "events": 10,
+            "total": 13
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "size_gt_2cm",
+        "measure": "risk_difference",
+        "est": -0.019,
+        "p_value": 0.99,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Chi-square or Fisher’s exact test (as reported for diagnostic yield by size)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All procedures"
+      },
+      "provenance": {
+        "pages": [
+          5957
+        ],
+        "tables": [
+          "Table 4"
+        ],
+        "quote": "The diagnostic yield of lesions ≤2 and >2 cm in diameter were 75% and 76.9%, respectively (P=0.99)."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.975
+        },
+        "odds_ratio": {
+          "est": 0.9
+        },
+        "arr": -0.019,
+        "nnh": 52.0
+      }
+    },
+    {
+      "concept_id": "diagnostic_yield_by_size_3cm",
+      "name": "Diagnostic yield by size (>3 cm vs ≤3 cm)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Index procedure",
+      "groups": [
+        {
+          "arm_id": "size_gt_3cm",
+          "raw": {
+            "events": 3,
+            "total": 3
+          }
+        },
+        {
+          "arm_id": "size_le_3cm",
+          "raw": {
+            "events": 13,
+            "total": 18
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "size_le_3cm",
+        "measure": "risk_difference",
+        "est": 0.278,
+        "p_value": 0.572,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Fisher’s exact test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All procedures"
+      },
+      "provenance": {
+        "pages": [
+          5957
+        ],
+        "tables": [
+          "Table 4"
+        ],
+        "quote": "In lesion >3 cm, the diagnostic yield was 100%, compared with 72.2% of diagnostic yield in lesion ≤3 cm (P=0.572)."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 1.385
+        },
+        "arr": 0.278,
+        "nnt": 3.6
+      }
+    },
+    {
+      "concept_id": "diagnostic_yield_by_location",
+      "name": "Diagnostic yield by lobe/location",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Index procedure",
+      "groups": [
+        {
+          "arm_id": "RUL",
+          "raw": {
+            "events": 4,
+            "total": 4
+          }
+        },
+        {
+          "arm_id": "LUL",
+          "raw": {
+            "events": 5,
+            "total": 10
+          }
+        },
+        {
+          "arm_id": "RLL",
+          "raw": {
+            "events": 2,
+            "total": 2
+          }
+        },
+        {
+          "arm_id": "LLL",
+          "raw": {
+            "events": 3,
+            "total": 3
+          }
+        },
+        {
+          "arm_id": "RML",
+          "raw": {
+            "events": 2,
+            "total": 2
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "LUL",
+        "measure": "global_chi_square",
+        "p_value": 0.201,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Chi-square test across lobes",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All procedures"
+      },
+      "provenance": {
+        "pages": [
+          5957
+        ],
+        "tables": [
+          "Table 4"
+        ],
+        "quote": "There was no significant difference in diagnostic yield depending on the localization of PN (P=0.201). Only the lesion in LUL achieved a 50% diagnostic yield, and the yields of PNs located in RUL, RLL, LLL and RML were all 100%."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 2.0
+        },
+        "arr": 0.5,
+        "nnt": 2.0
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Pneumothorax",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Pneumothorax"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 7
+        },
+        {
+          "arm_id": "control",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 15
+        }
+      ],
+      "period": "0-6 months",
+      "management": "",
+      "provenance": {
+        "pages": [
+          5957
+        ],
+        "tables": [],
+        "quote": "Chest X-ray examination was performed 2 hours after the procedure, and did not reveal any complications, such as bleeding, pneumothorax and infection... during the follow-up conducted at 3 and 6 months after the procedure, no adverse event was detected."
+      }
+    },
+    {
+      "event_name": "Pulmonary hemorrhage",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Pulmonary haemorrhage"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 7
+        },
+        {
+          "arm_id": "control",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 15
+        }
+      ],
+      "period": "0-6 months",
+      "management": "",
+      "provenance": {
+        "pages": [
+          5957
+        ],
+        "tables": [],
+        "quote": "Chest X-ray examination was performed 2 hours after the procedure, and did not reveal any complications, such as bleeding, pneumothorax and infection."
+      }
+    },
+    {
+      "event_name": "Lower respiratory tract infection",
+      "meddra": {
+        "soc": "Infections and infestations",
+        "pt": "Lower respiratory tract infection"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 7
+        },
+        {
+          "arm_id": "control",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 15
+        }
+      ],
+      "period": "0-6 months",
+      "management": "",
+      "provenance": {
+        "pages": [
+          5957
+        ],
+        "tables": [],
+        "quote": "Chest X-ray examination was performed 2 hours after the procedure, and did not reveal any complications, such as bleeding, pneumothorax and infection... during the follow-up conducted at 3 and 6 months after the procedure, no adverse event was detected."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "ROBINS-I",
+    "overall_judgment": "serious",
+    "domains": [
+      {
+        "name": "Confounding",
+        "judgment": "serious",
+        "support_for_judgment": "Non-randomized, retrospective design with TBAT used selectively when apposition was inadequate."
+      },
+      {
+        "name": "Selection of participants",
+        "judgment": "moderate",
+        "support_for_judgment": "Consecutive cases within a defined period at a single center; referral for suspected lung cancer."
+      },
+      {
+        "name": "Classification of interventions",
+        "judgment": "low",
+        "support_for_judgment": "Clear procedural description distinguishing TBAT vs no TBAT."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "low",
+        "support_for_judgment": "Procedures followed planned workflow; TBAT deployed per protocol when needed."
+      },
+      {
+        "name": "Missing data",
+        "judgment": "low",
+        "support_for_judgment": "All 22 cases analyzed; outcomes reported for all."
+      },
+      {
+        "name": "Measurement of outcomes",
+        "judgment": "low",
+        "support_for_judgment": "Diagnostic yield based on histology; complications assessed by imaging and follow-up."
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "moderate",
+        "support_for_judgment": "Key outcomes reported; limited inferential statistics for TBAT vs no TBAT."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "Transbronchial Access Tool",
+      "TBAT",
+      "cone beam CT",
+      "CBCT",
+      "electromagnetic navigation bronchoscopy",
+      "ENB",
+      "radial EBUS",
+      "peripheral pulmonary nodule",
+      "lung biopsy"
+    ],
+    "summary_tldr": "In 22 ENB + CBCT-guided bronchoscopies, adjunct TBAT was used in 7 cases and achieved 100% diagnostic yield (7/7) with no complications; overall yield was 77.2% (17/22).",
+    "clinical_relevance": "Combining ENB, CBCT, and selective TBAT appears feasible and safe, potentially improving diagnostic success for off-airway peripheral lung nodules."
+  }
+}

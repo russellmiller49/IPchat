@@ -1,0 +1,95 @@
+{
+  "source": {
+    "document_id": "Bintcliffe-2016-The management of benign non-i",
+    "ingest_date": "2025-08-08T10:20:03.371069+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1183/16000617.0026-2016"
+  },
+  "document": {
+    "metadata": {
+      "title": "The management of benign non-infective pleural effusions",
+      "year": 2016,
+      "authors": [
+        "Oliver J. Bintcliffe",
+        "Gary Y.C. Lee",
+        "Najib M. Rahman",
+        "Nick A. Maskell"
+      ],
+      "journal": "European Respiratory Review",
+      "doi": "10.1183/16000617.0026-2016",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "The evidence base concerning the management of benign pleural effusions has lagged behind that of malignant pleural effusions in which recent randomised trials are now informing current clinical practice and international guidelines. The causes of benign pleural effusions are broad, heterogenous and patients may benefit from individualised management targeted at both treating the underlying disease process and direct management of the fluid. Pleural effusions are very common in a number of non-malignant pathologies, such as decompensated heart failure, and following coronary artery bypass grafting. Pleural fluid analysis forms an important basis of the diagnostic evaluation, and more specific assays and imaging modalities are helpful in specific subpopulations. Options for management beyond treatment of the underlying disorder, whenever possible, include therapeutically aspirating the fluid, talc pleurodesis and insertion of an indwelling pleural catheter. Randomised trials will inform clinicians in the future as to the risks and benefits of these options providing a guide as to how best to manage patient symptoms in this challenging clinical setting.",
+      "methods": "Narrative review. The article summarizes epidemiology, diagnostic evaluation (history, imaging, pleural fluid analysis, tissue diagnosis), and management options for benign non-infective pleural effusions. Evidence cited is predominantly observational studies, audits, and pathophysiological insights; no single interventional randomized trial of benign pleural effusion management is the focus.",
+      "results": "Key quantitative findings summarized in the review include: (1) Local audit of 327 non-malignant pleural effusions referred over 5 years: pleural infection 131 (40.0%), congestive cardiac failure 81 (34.8%), idiopathic/undiagnosed 41 (12.5%), benign asbestos pleural effusion 27 (8.3%), liver cirrhosis 13 (4.0%), renal failure 10 (3.1%), pulmonary embolism 6 (1.8%), post-coronary artery bypass graft 4 (1.2%), drug reaction 3 (0.9%), rheumatoid effusion 3 (0.9%), trapped lung 2 (0.6%), pancreatitis 2 (0.6%), other 4 (1.2%). (2) Heart failure: among patients with decompensated heart failure requiring diuretics, pleural effusions on CT in 87%; in uncomplicated heart failure with pleural effusions, bilateral in 73%. In a prospective study of 60 patients, 89% with initial response to diuretics had no pleural effusion after 2 weeks. Right-sided heart failure/PAH: pleural effusions in approximately 13% of idiopathic/familial PAH; distribution right-sided 58%, bilateral 26%; typically transudates. (3) Post-CABG: pleural effusions are nearly universal immediately postoperatively, often small and diminish over time; persistent effusions often managed with a single thoracentesis; late effusions tend to be lymphocyte-predominant. (4) Hepatic hydrothorax: present in approximately 5% of cirrhosis with ascites; commonly right-sided; in a cohort of 77 patients, 33 (43%) 1-year survival following diagnosis. The review outlines diagnostic strategies (including use of Light’s criteria, NT-proBNP correlation, triglycerides/chylomicrons for chylothorax, ADA for TB in appropriate contexts) and discusses management options such as therapeutic thoracentesis, talc pleurodesis, and indwelling pleural catheter for symptom control when treating the underlying disease is insufficient."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with benign (non-infective and non-malignant) pleural effusions of diverse etiologies including heart failure, hepatic hydrothorax, renal failure, post-cardiac surgery, pulmonary embolism, connective tissue disease, and idiopathic effusions.",
+      "inclusion_criteria": [
+        "Non-malignant pleural effusion",
+        "Non-infective etiology or benign conditions associated with effusion",
+        "Adults evaluated in tertiary pleural services or clinical studies cited"
+      ],
+      "exclusion_criteria": [
+        "Malignant pleural effusion",
+        "Traumatic pleural effusion"
+      ]
+    },
+    "intervention": {
+      "text": "Direct pleural fluid management strategies",
+      "details": "Therapeutic thoracentesis, talc pleurodesis, and indwelling pleural catheter as symptom-directed interventions when underlying condition treatment is insufficient."
+    },
+    "comparison": {
+      "text": "Treatment of the underlying disease process alone",
+      "details": "Optimized disease-specific therapy (e.g., diuretics and heart failure management; salt restriction and diuretics for hepatic hydrothorax; post-CABG conservative management) with or without additional pleural procedures."
+    },
+    "outcomes": [
+      {
+        "name": "Symptom relief (dyspnea) and effusion resolution",
+        "type": "primary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Narrative review",
+    "allocation": "none",
+    "blinding": "none",
+    "sites_count": 0,
+    "countries": [],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": []
+  },
+  "arms": [],
+  "outcomes_normalized": [],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "Not applicable",
+    "overall_judgment": "not_applicable",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "benign pleural effusion",
+      "non-malignant pleural effusion",
+      "thoracentesis",
+      "talc pleurodesis",
+      "indwelling pleural catheter",
+      "heart failure",
+      "hepatic hydrothorax",
+      "post-coronary artery bypass graft",
+      "chylothorax",
+      "NT-proBNP"
+    ],
+    "summary_tldr": "Narrative review summarizing epidemiology, evaluation, and management of benign non-infective pleural effusions; evidence is largely observational. Symptom-directed options include thoracentesis, talc pleurodesis, and indwelling pleural catheters in addition to treating the underlying cause.",
+    "clinical_relevance": "Provides practical guidance for evaluating and managing common benign pleural effusions (e.g., heart failure, hepatic hydrothorax, post-cardiac surgery) where high-quality RCT evidence is limited."
+  }
+}

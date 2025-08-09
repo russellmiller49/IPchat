@@ -1,0 +1,143 @@
+{
+  "source": {
+    "document_id": "Management of Malignant Pleural Effusions",
+    "ingest_date": "2025-08-08T14:15:14.272590+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1164/rccm.201807-1415ST"
+  },
+  "document": {
+    "metadata": {
+      "title": "Management of Malignant Pleural Effusions: An Official ATS/STS/STR Clinical Practice Guideline",
+      "year": 2018,
+      "authors": [
+        "David J. Feller-Kopman",
+        "Chakravarthy B. Reddy",
+        "Malcolm M. DeCamp",
+        "Rebecca L. Diekemper",
+        "Michael K. Gould",
+        "Travis Henry",
+        "Narayan P. Iyer",
+        "Y. C. Gary Lee",
+        "Sandra Z. Lewis",
+        "Nick A. Maskell",
+        "Najib M. Rahman",
+        "Daniel H. Sterman",
+        "Momen M. Wahidi",
+        "Alex A. Balekian"
+      ],
+      "journal": "American Journal of Respiratory and Critical Care Medicine",
+      "doi": "10.1164/rccm.201807-1415ST",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Background: This guideline, a collaborative effort from the American Thoracic Society, Society of Thoracic Surgeons, and Society of Thoracic Radiology, aims to provide evidence-based recommendations to guide contemporary management of patients with a malignant pleural effusion (MPE). Methods: A multidisciplinary panel developed seven PICO questions and used GRADE and an Evidence-to-Decision framework. Results: The panel made conditional recommendations favoring ultrasound guidance for pleural interventions; avoiding pleural drainage in asymptomatic MPE; using either indwelling pleural catheter (IPC) or chemical pleurodesis in symptomatic patients with suspected expandable lung; performing large-volume thoracentesis to assess symptomatic response and lung expansion; using either talc poudrage or talc slurry for pleurodesis; using IPC over pleurodesis for nonexpandable lung, failed pleurodesis, or loculations; and treating IPC-associated infections with antibiotics without routine catheter removal. Conclusions: These recommendations can guide management of MPE to improve patient-centered outcomes.",
+      "methods": "The panel applied the GRADE approach to seven PICO questions covering diagnostic guidance, indications for drainage, procedural sequencing, choice of definitive intervention, talc administration method, management in nonexpandable lung, and management of IPC-associated infections. Evidence synthesis incorporated existing systematic reviews and new systematic reviews (including a dedicated review for PICO 4), with judgments on certainty and strength of recommendations through the Evidence-to-Decision framework.",
+      "results": "Key evidence included observational comparative data showing reduced pneumothorax with ultrasound guidance during thoracentesis, retrospective cohorts suggesting asymptomatic small MPEs rarely require intervention, and randomized and nonrandomized comparative trials informing the choice between IPC and pleurodesis, as well as talc poudrage versus slurry in the context of expandable lung. For nonexpandable lung, evidence supported IPCs over pleurodesis. For IPC-associated infections, case series indicated most infections can be managed with antibiotics without catheter removal."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with known or suspected malignant pleural effusion requiring evaluation or palliation of dyspnea.",
+      "inclusion_criteria": [
+        "Adults with malignant pleural effusion or suspected malignant pleural effusion",
+        "Patients considered for pleural interventions (thoracentesis, IPC, pleurodesis)"
+      ],
+      "exclusion_criteria": [
+        "Asymptomatic patients without indication for diagnostic sampling",
+        "Patients with contraindications to pleural procedures (e.g., uncontrolled coagulopathy) where not being considered for intervention"
+      ]
+    },
+    "intervention": {
+      "text": "Ultrasound-guided pleural intervention; or IPC; or talc pleurodesis (slurry or poudrage); or large-volume thoracentesis prior to definitive management",
+      "details": "Thoracic ultrasound used to guide pleural access and catheter placement; IPC placement for ambulatory drainage; talc poudrage via thoracoscopy or talc slurry via chest tube; large-volume thoracentesis to assess symptom relief and lung re-expansion; treat IPC-associated infection with antibiotics without routine catheter removal."
+    },
+    "comparison": {
+      "text": "Landmark-based pleural procedures without ultrasound guidance; chemical pleurodesis vs IPC; talc poudrage vs talc slurry; medical therapy alone vs catheter removal for IPC infection",
+      "details": "Non-image-guided thoracentesis; alternative definitive pleural intervention as comparator depending on PICO question; removal of IPC in addition to antibiotics for infection."
+    },
+    "outcomes": [
+      {
+        "name": "Pneumothorax after thoracentesis",
+        "type": "primary",
+        "umls_cui": "C0032290"
+      },
+      {
+        "name": "Need for chest tube due to pneumothorax",
+        "type": "secondary",
+        "umls_cui": "C0041296"
+      },
+      {
+        "name": "Dyspnea relief after large-volume thoracentesis",
+        "type": "secondary",
+        "umls_cui": "C0013404"
+      },
+      {
+        "name": "Successful pleurodesis",
+        "type": "secondary",
+        "umls_cui": "C4731855"
+      },
+      {
+        "name": "Hospital days during remaining lifespan",
+        "type": "secondary",
+        "umls_cui": "C1705186"
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Guideline",
+    "allocation": "na",
+    "blinding": "na",
+    "sites_count": 0,
+    "countries": [
+      "US",
+      "UK",
+      "Australia"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": []
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "Ultrasound-guided pleural intervention",
+      "n_randomized": 0,
+      "n_analyzed": 0,
+      "n_completed": 0
+    },
+    {
+      "arm_id": "control",
+      "name": "Landmark-based pleural intervention (no ultrasound guidance)",
+      "n_randomized": 0,
+      "n_analyzed": 0,
+      "n_completed": 0
+    }
+  ],
+  "outcomes_normalized": [],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "RoB 2",
+    "overall_judgment": "not_applicable",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "malignant pleural effusion",
+      "ultrasound",
+      "thoracentesis",
+      "indwelling pleural catheter",
+      "chemical pleurodesis",
+      "talc slurry",
+      "talc poudrage",
+      "nonexpandable lung",
+      "pleural manometry",
+      "IPC infection"
+    ],
+    "summary_tldr": "2018 ATS/STS/STR guideline recommends ultrasound-guided pleural procedures, avoiding drainage in asymptomatic MPE, using IPC or pleurodesis for symptomatic expandable lung, IPC for nonexpandable lung/failed pleurodesis, either talc slurry or poudrage, and treating IPC infections with antibiotics without routine catheter removal.",
+    "clinical_relevance": "Provides up-to-date, GRADE-based recommendations to optimize palliation and procedural safety in malignant pleural effusion management."
+  }
+}

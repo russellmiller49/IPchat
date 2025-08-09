@@ -1,0 +1,399 @@
+{
+  "source": {
+    "document_id": "Endobronchial tumor debulking with a flexible",
+    "ingest_date": "2025-08-08T11:55:51.066777+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1016/j.jtcvs.2009.06.023"
+  },
+  "document": {
+    "metadata": {
+      "title": "Endobronchial tumor debulking with a flexible cryoprobe for immediate treatment of malignant stenosis",
+      "year": 2010,
+      "authors": [
+        "Christian Schumann",
+        "Martin Hetzel",
+        "Alexander J. Babiak",
+        "Jürgen Hetzel",
+        "Tobias Merk",
+        "Thomas Wibmer",
+        "Philipp M. Lepper",
+        "Stefan Krüger"
+      ],
+      "journal": "The Journal of Thoracic and Cardiovascular Surgery",
+      "doi": "10.1016/j.jtcvs.2009.06.023",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Objective: In addition to use of a laser, argon plasma coagulation, electrocautery, or coring with a rigid bronchoscope, tumor debulking with a flexible cryoprobe is used for therapeutic bronchoscopy with an immediate effect for endobronchial pathologies. We performed this analysis to determine the usefulness, efficacy, and safety of the flexible cryorecanalization in a large population under routine conditions. Methods: We identified 225 bronchoscopic interventions that were done as cryorecanalization with a flexible cryoprobe. All patients had symptomatic airway stenosis. We determined the endoscopic success rate and safety (bleeding and perforation) of the procedure. Results: Successful cryorecanalization was achieved in 205 (91.1%) of 225 patients. The flexible cryoprobe was used with all patients, in most patients in combination with flexible bronchoscopy and only in a minority (n = 31, 13.8%) in combination with a rigid bronchoscope. Additional interventional techniques used were endobronchial stents (n = 11, 4.9%) and argon plasma coagulation (n = 37, 16.4%). Mild bleeding occurred in 9 (4.0%) patients, moderate bleeding occurred in 18 (8.0%) patients, and severe bleeding never occurred. Conclusions: Cryorecanalization with the flexible cryoprobe for treatment of symptomatic endobronchial tumor stenosis is a safe technique with a high success rate and immediate treatment effect.",
+      "methods": "We analyzed the data of all patients who underwent bronchoscopy in our clinic from February 2001 to September 2007. We identified all patients undergoing bronchoscopic intervention with the flexible cryoprobe because of an exophytic tumor of the trachea or bronchi with subsequent symptomatic airway stenosis. For any bronchoscopic intervention, a platelet count of at least 100 G/L and normal coagulation parameters (partial thromboplastin time < 40 seconds and prothrombin ratio > 70%) were mandatory; medications influencing clotting time were stopped before intervention (heparin ≥ 12 hours before). The flexible cryoprobe (Erbokryo; ERBE, Tübingen, Germany) was used via flexible bronchoscopy with a tracheal tube or via rigid bronchoscopy. The probe tip was frozen for 3-5 seconds and tumor pieces were extracted repeatedly until the bronchus was reopened; adjunctive argon plasma coagulation (APC) for hemostasis or stent implantation could be performed in the same session. Success was defined endoscopically as reopening enabling secretion drainage or reduced stenosis with symptom improvement. Safety outcomes included bleeding severity (mild, moderate, severe), need for rescue operation, and prolonged mechanical ventilation > 2 hours.",
+      "results": "Between February 2001 and September 2007, 5308 bronchoscopies were performed; 225 procedures used cryorecanalization for symptomatic exophytic tumor stenosis. Mean age was 63.9 ± 12.9 years, 69.3% were men, and 85.8% were inpatients. Lesions were central in 44.0%, lobar in 41.3%, and both in 14.7%; 87.6% of stenoses were malignant. Flexible technique alone was used in 86.2% and rigid bronchoscopy in 13.8%; APC was added in 16.4% and stents in 4.9%. Procedural success was achieved in 205/225 (91.1%); failures (8.9%) were mainly due to longer (> 2 cm) complete obstructions. Bleeding occurred in 27/225 (12.0%): mild in 9 (4.0%), moderate in 18 (8.0%), and severe in 0. No pneumothorax occurred. One pneumomediastinum due to minor tracheal injury was managed conservatively with antibiotics and hospitalization; no surgery was required and the patient recovered after 5 days."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults undergoing bronchoscopy for symptomatic endobronchial or tracheal exophytic tumor causing airway stenosis at a single expert center (Feb 2001-Sep 2007).",
+      "inclusion_criteria": [
+        "Symptomatic airway stenosis due to exophytic endobronchial or tracheal tumor",
+        "Eligible for bronchoscopic intervention",
+        "Platelet count >= 100",
+        "Partial thromboplastin time < 40",
+        "Prothrombin ratio > 70"
+      ],
+      "exclusion_criteria": [
+        "Tumor involvement of large vessels in the interventional region (safety-based exclusion)",
+        "Platelet count < 100",
+        "Abnormal coagulation parameters (PTT >= 40 or prothrombin ratio <= 70)",
+        "Use of heparin within 12 hours prior to intervention"
+      ]
+    },
+    "intervention": {
+      "text": "Cryorecanalization with a flexible cryoprobe",
+      "details": "Flexible cryoprobe (Erbokryo; ERBE) via flexible bronchoscopy with tracheal tube or rigid bronchoscopy; 3-5 second freezes with extraction of tumor pieces repeated until airway reopened; adjunctive APC for hemostasis or stent placement as needed."
+    },
+    "comparison": {
+      "text": "None (single-arm case series)",
+      "details": "No concurrent control group; comparisons to other modalities discussed narratively."
+    },
+    "outcomes": [
+      {
+        "name": "Immediate procedural success (airway reopening with symptom improvement)",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Perforation (tracheal injury/pneumomediastinum)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Bleeding severity (mild, moderate, severe)",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "observational",
+    "allocation": "non-randomized",
+    "blinding": "none",
+    "sites_count": 1,
+    "countries": [
+      "DE"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 225,
+      "analyzed": 225
+    },
+    "analysis_populations": [
+      {
+        "name": "Treated",
+        "description": "All procedures with cryorecanalization performed",
+        "n": 225
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "Cryorecanalization with flexible cryoprobe",
+      "n_randomized": 0,
+      "n_analyzed": 225,
+      "n_completed": 225
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "procedural_success_immediate",
+      "name": "Immediate procedural success (airway reopening with symptom improvement)",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "PT0H",
+      "timepoint_label": "Immediate post-procedure",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 205,
+            "total": 225
+          }
+        }
+      ],
+      "analysis": {
+        "model": "single group proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Treated",
+        "missing_handling": "NA"
+      },
+      "provenance": {
+        "pages": [
+          998
+        ],
+        "tables": [],
+        "quote": "CR was successful in 205 (91.1%) of 225 interventions."
+      }
+    },
+    {
+      "concept_id": "airway_perforation_any",
+      "name": "Any perforation (tracheal injury/pneumomediastinum)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "PT0H",
+      "timepoint_label": "Peri-procedural",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 1,
+            "total": 225
+          }
+        }
+      ],
+      "analysis": {
+        "model": "single group proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Treated",
+        "missing_handling": "NA"
+      },
+      "provenance": {
+        "pages": [
+          999
+        ],
+        "tables": [],
+        "quote": "One manifestation of pneumomediastinum was seen... injury of the pars membranacea occurred after removal of the bulky tumor."
+      }
+    },
+    {
+      "concept_id": "severe_bleeding_any",
+      "name": "Severe bleeding",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "PT0H",
+      "timepoint_label": "Peri-procedural",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 0,
+            "total": 225
+          }
+        }
+      ],
+      "analysis": {
+        "model": "single group proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Treated",
+        "missing_handling": "NA"
+      },
+      "provenance": {
+        "pages": [
+          998
+        ],
+        "tables": [],
+        "quote": "Severe bleeding (events with hemodynamic instability) never occurred."
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Procedural haemorrhage (mild)",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Procedural haemorrhage"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 9,
+          "patients": 9,
+          "percentage": 4.0,
+          "total": 225
+        }
+      ],
+      "period": "Peri-procedural",
+      "management": "Topical ice-cold saline or epinephrine",
+      "provenance": {
+        "pages": [
+          998
+        ],
+        "tables": [],
+        "quote": "Mild bleeding ... occurred in 9 (4.0%) patients"
+      }
+    },
+    {
+      "event_name": "Procedural haemorrhage (moderate)",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Procedural haemorrhage"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 18,
+          "patients": 18,
+          "percentage": 8.0,
+          "total": 225
+        }
+      ],
+      "period": "Peri-procedural",
+      "management": "Argon plasma coagulation or bronchus blocker",
+      "provenance": {
+        "pages": [
+          998
+        ],
+        "tables": [],
+        "quote": "Moderate bleeding ... occurred in 18 (8.0%) patients"
+      }
+    },
+    {
+      "event_name": "Procedural haemorrhage (severe)",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Haemorrhage"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "life-threatening",
+        "required intervention"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 225
+        }
+      ],
+      "period": "Peri-procedural",
+      "management": "",
+      "provenance": {
+        "pages": [
+          998
+        ],
+        "tables": [],
+        "quote": "Severe bleeding (events with hemodynamic instability) never occurred."
+      }
+    },
+    {
+      "event_name": "Pneumothorax",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Pneumothorax"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "hospitalization"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 225
+        }
+      ],
+      "period": "Peri-procedural",
+      "management": "",
+      "provenance": {
+        "pages": [
+          999
+        ],
+        "tables": [],
+        "quote": "No case of pneumothorax was detected."
+      }
+    },
+    {
+      "event_name": "Pneumomediastinum",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Pneumomediastinum"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "hospitalization",
+        "required intervention"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 1,
+          "patients": 1,
+          "percentage": 0.4,
+          "total": 225
+        }
+      ],
+      "period": "Peri-procedural",
+      "management": "Hospitalization and antibiotics; no surgery; spontaneous closure; recovered after 5 days",
+      "provenance": {
+        "pages": [
+          999
+        ],
+        "tables": [],
+        "quote": "One manifestation of pneumomediastinum was seen ... The patient was hospitalized and treated with antibiotics ... The patient fully recovered after 5 days."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "ROBINS-I",
+    "overall_judgment": "serious",
+    "domains": [
+      {
+        "name": "Confounding",
+        "judgment": "serious",
+        "support_for_judgment": "Single-arm retrospective series without control group; adjunctive techniques (APC, stents) at operator discretion."
+      },
+      {
+        "name": "Selection of participants",
+        "judgment": "moderate",
+        "support_for_judgment": "Consecutive procedures at a single expert center; eligibility based on clinical criteria and safety parameters."
+      },
+      {
+        "name": "Classification of interventions",
+        "judgment": "low",
+        "support_for_judgment": "Intervention well defined (flexible cryorecanalization) with procedural description."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "moderate",
+        "support_for_judgment": "Adjunctive APC or stent placement used in subsets, potentially influencing outcomes."
+      },
+      {
+        "name": "Missing data",
+        "judgment": "low",
+        "support_for_judgment": "All 225 procedures reported with outcomes."
+      },
+      {
+        "name": "Measurement of outcomes",
+        "judgment": "moderate",
+        "support_for_judgment": "Success defined by endoscopic and clinical improvement; outcome assessment by treating bronchoscopist."
+      },
+      {
+        "name": "Selection of reported result",
+        "judgment": "moderate",
+        "support_for_judgment": "Pre-specified safety and success outcomes reported; no statistical comparisons provided."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "cryorecanalization",
+      "flexible cryoprobe",
+      "endobronchial tumor",
+      "malignant airway stenosis",
+      "bronchoscopy",
+      "argon plasma coagulation"
+    ],
+    "summary_tldr": "In 225 procedures, flexible cryoprobe cryorecanalization achieved 91.1% immediate airway reopening with 12.0% bleeding (no severe bleeding) and no pneumothorax.",
+    "clinical_relevance": "Provides immediate, effective relief of malignant airway obstruction with low complication rates and can be performed using flexible bronchoscopy."
+  }
+}

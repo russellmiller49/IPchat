@@ -1,0 +1,113 @@
+{
+  "source": {
+    "document_id": "Financial Justification for IP Programs",
+    "ingest_date": "2025-08-08T12:09:58.208409+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1016/j.chest.2020.02.026"
+  },
+  "document": {
+    "metadata": {
+      "title": "Financial Justification for Interventional Pulmonology Programs: Terminology and Programmatic Models",
+      "year": 2020,
+      "authors": [
+        "Amit K. Mahajan",
+        "Jennifer Bautista",
+        "Erin Hodson",
+        "Sandeep J. Khandhar",
+        "Erik Folch",
+        "Susan Carroll",
+        "Steve Narang"
+      ],
+      "journal": "CHEST",
+      "doi": "10.1016/j.chest.2020.02.026",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Interventional pulmonology programs provide clinical benefit to patients and are financially sustainable. To appreciate and illustrate the economic value of interventional pulmonology programs to hospital systems, physicians must have an understanding of basic health-care finance. Total revenue, adjusted gross revenue, contribution margin, variable direct costs, and indirect costs are terms that are essential for understanding the finances of bronchoscopy. Command of such vocabulary and its application is crucial for interventional pulmonologists to successfully establish financially sustainable bronchoscopy programs. Two significant features of an economically sustainable bronchoscopy program are high procedural volume and low direct cost per case. Interventional pulmonology programs are valuable to the patients being served and hospitals as a whole. Consideration of the various factors needed to maintain financial sustainability is essential to improve the quality of care for patients because the cost of care remains a critical driver in defining value.",
+      "methods": "Narrative review of health-care finance concepts applied to interventional pulmonology, using 2019 Medicare National Average Payment data as illustrative benchmarks for adjusted gross revenue across settings (hospital outpatient, ambulatory surgical center, and office). The article outlines key terminology (total revenue, adjusted gross revenue, variable direct cost, contribution margin, indirect cost), compares procedural setting cost structures, and provides a worked example for endobronchial ultrasound (EBUS) bronchoscopy with transbronchial needle aspiration (TBNA). Emphasis is on outpatient procedures.",
+      "results": "Illustrative example: An EBUS bronchoscopy with ultrasound-guided TBNA of three or more lymph node stations may have total revenue of approximately $15000, with adjusted gross revenue of $2741 in a hospital outpatient unit based on 2019 Medicare National Average Payment data. Using a direct cost rate of $9.98 per minute and a 30-minute procedure, direct cost is $299.40, yielding a contribution margin of approximately $2441.60 and a gross margin of 89%. Cost-per-minute varies substantially by setting: $9.98 per minute in a hospital outpatient bronchoscopy suite vs $120 per minute in an operating room. Medicare technical fee reimbursement examples (2019): EBUS with TBNA (1-2 nodes) hospital outpatient $2741, ASC $1181, office $988; EBUS with TBNA (3+ nodes) hospital outpatient $2741, ASC $1181, office $1035; tracheal stent placement hospital outpatient $5148, ASC $1791. Program growth example: In the first year after hiring an interventional pulmonologist at one medical center, procedures included 271 linear EBUS bronchoscopies, 125 electromagnetic navigation bronchoscopies, 46 rigid bronchoscopies, 207 flexible bronchoscopies, 96 thoracenteses, 60 chest tubes, and 41 tunneled pleural catheters, most with positive contribution margins."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Hospital systems and interventional pulmonology programs performing outpatient diagnostic and therapeutic bronchoscopy procedures",
+      "inclusion_criteria": [
+        "Outpatient bronchoscopy services within provider-based systems",
+        "Procedures such as EBUS-TBNA, electromagnetic navigation bronchoscopy, stenting, dilation, tumor excision"
+      ],
+      "exclusion_criteria": [
+        "Inpatient diagnosis-related group-based reimbursement analyses",
+        "Non-bronchoscopic thoracic procedures"
+      ]
+    },
+    "intervention": {
+      "text": "Implementation and operation of an interventional pulmonology program",
+      "details": "Focus on high-volume advanced bronchoscopy with optimized cost structure (bronchoscopy suite use, supply cost management) to maximize contribution margin"
+    },
+    "comparison": {
+      "text": "Alternative settings or service models",
+      "details": "Operating room use vs bronchoscopy suite; ASC or office technical fees vs hospital outpatient; thoracic surgeons performing bronchoscopies vs dedicated interventional pulmonologists"
+    },
+    "outcomes": [
+      {
+        "name": "Contribution margin per case",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Adjusted gross revenue (facility reimbursement)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Variable direct cost per minute",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Procedure volume growth",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "narrative review",
+    "allocation": "",
+    "blinding": "",
+    "sites_count": 0,
+    "countries": [
+      "US"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": []
+  },
+  "arms": [],
+  "outcomes_normalized": [],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "NA",
+    "overall_judgment": "NA",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "interventional pulmonology",
+      "bronchoscopy",
+      "EBUS",
+      "health-care economics",
+      "Medicare reimbursement",
+      "contribution margin",
+      "variable direct cost",
+      "facility fees",
+      "CPT codes"
+    ],
+    "summary_tldr": "Narrative review shows interventional pulmonology programs can be financially sustainable with high-volume advanced bronchoscopy and low direct costs, illustrating positive contribution margins for EBUS in hospital outpatient settings.",
+    "clinical_relevance": "Provides financial framework and benchmarks to design and justify sustainable interventional pulmonology programs within hospital systems."
+  }
+}

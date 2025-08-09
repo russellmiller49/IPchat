@@ -1,0 +1,377 @@
+{
+  "source": {
+    "document_id": "External irradiation versus external irradiation plus endobronchial brachytherapy (Radiother Oncol 2001;58:257-268)",
+    "ingest_date": "2025-08-08T12:06:50.672064+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1016/S0167-8140(00)00345-5"
+  },
+  "document": {
+    "metadata": {
+      "title": "External irradiation versus external irradiation plus endobronchial brachytherapy in inoperable non-small cell lung cancer: a prospective randomized study",
+      "year": 2001,
+      "authors": [
+        "Hans Langendijk",
+        "Jos de Jong",
+        "Martin Tjwa",
+        "Martin Muller",
+        "Guul ten Velde",
+        "Neil Aaronson",
+        "Rob Lamers",
+        "Ben Slotman",
+        "Miel Wouters"
+      ],
+      "journal": "Radiotherapy and Oncology",
+      "doi": "10.1016/S0167-8140(00)00345-5",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Purpose: No randomized studies are available on the additional value of endobronchial brachytherapy (EBB) to external irradiation (XRT) regarding palliation of respiratory symptoms (RS). A prospective randomized study was initiated to test the hypothesis that the addition of EBB to XRT provides higher levels of palliation of dyspnea and other RS and improvement of quality of life (QoL) in patients with non-small cell lung cancer (NSCLC) with endobronchial tumour. Materials and methods: Patients with previously untreated NSCLC, stages I-IIIb, WHO-performance status of 0-3 and with biopsy proven endobronchial tumour in the proximal airways were eligible. EBB consisted of two fractions of 7.5 Gy at 1 cm on day 1 and 8. XRT started at day 2. The XRT dose was 30 Gy (2 weeks) or 60 Gy (6 weeks). The EORTC QLQ-C30 and QLQ-LC13 were assessed before treatment and 2 weeks, 6 weeks, 3, 6 and 12 months after treatment. Re-expansion of collapsed lung was tested by the inspiratory vital capacity (IVC) and CT scan of the chest. Results: Ninety-five patients were randomized between arm 1 (XRT alone) (n = 48) or arm 2 (XRT + EBB) (n = 47). The arms were well balanced regarding pre-treatment characteristics and QoL scores. The compliance for QoL-assessment was >90% at all times. No significant difference between the trial arms was observed with respect to response of dyspnea. However, a beneficial effect of EBB was noted concerning the mean scores of dyspnea over time (P = 0.02), which lasted for 3 months. This benefit was only observed among patients with an obstructing tumour of the main bronchus. A higher rate of re-expansion of collapsed lung was observed in arm 2 (57%) compared to arm 1 (35%) (P = 0.01). The inspiratory vital capacity (IVC) assessed 2 weeks after radiotherapy improved with 493 cm3 in arm 2 and decreased 50 cm3 in arm 1 (P = 0.03). No difference was noted regarding the incidence of massive haemoptysis (13 vs. 15%). Conclusion: The addition of EBB to XRT in NSCLC is safe and provides higher rates of re-expansion of collapsed lung resulting in a transient lower levels of dyspnea. This beneficial effect was only observed among patients with obstructing tumours in the main bronchus.",
+      "methods": "Prospective randomized phase III trial. Eligibility: untreated NSCLC stage I-IIIb (UICC 1992), endobronchial tumour in proximal main or lobar bronchus, WHO PS 0-3; no prior/planned chemotherapy, prior surgery, prior radiotherapy, other malignancies, pleuritis carcinomatosa, distant metastases or SVC syndrome; Nd:YAG laser not allowed; complete obstruction or need for ≥2 catheters excluded. Randomization (permuted blocks) centrally with stratification by institution, stage (I-II vs III), and external fractionation schedule (radical 60 Gy vs palliative 30 Gy). XRT: either 30 Gy in 3 Gy fractions 4×/week for 2 weeks (no lung density correction) or 60 Gy: 45 Gy in 2.25 Gy 4×/week to mediastinal volumes with density correction (0.3), then boost to 60 Gy in 2.5 Gy 4×/week. Target volumes included primary tumour, enlarged nodes and mediastinal areas; atelectasis included when present. EBB: HDR Ir-192 via single 3 mm afterloading catheter; 2 fractions of 7.5 Gy at 1 cm on day 1 and day 8; XRT started day 2; EBB and XRT not on same day. QA addressed sequencing, doses, and dose distributions. Staging with exam, CXR, chest CT (incl. liver/adrenals), bronchoscopy; spirometry. Outcomes: primary—response rate of dyspnea (EORTC QLQ-C30/LC13); secondary—re-expansion of atelectasis (CXR/CT/IVC), survival, complications; other RS and QoL exploratory. QoL at baseline, 2 w, 6 w, 3, 6, 12 m after XRT. Statistical analysis: subject-specific short-term response categorization (per Stephens et al.) and group-based repeated measures analysis (SAS Proc Mixed) with F-tests for group, time, and group×time; survival by Kaplan-Meier and log-rank. Planned sample size 160 (power 80%, α=0.05) to detect dyspnea palliation 50%→75%. ITT principle.",
+      "results": "Between June 1994 and December 1998, 98 randomized; 3 excluded (distant metastases; prior cervical carcinoma; no histology), leaving 95 eligible (47 XRT alone, 48 XRT+EBB). Groups balanced on baseline clinical characteristics and baseline QoL/RS. Radical schedule used in 75 patients (79%), palliative in 20 (21%). Atelectasis present at baseline in 63 (66%). Compliance to planned external dose: 40/48 (83%) XRT-alone, 41/47 (87%) XRT+EBB; reasons for non-completion included distant progression, local progression, deterioration, massive haemoptysis, intercurrent death. No significant difference in dyspnea response rate between arms; however, repeated-measures showed better dyspnea mean scores over time with EBB (P = 0.02), lasting 3 months, confined to main bronchus obstruction subgroup. Re-expansion of collapsed lung higher with EBB (57%) vs XRT alone (35%) (P = 0.01). IVC at 2 weeks post-RT increased by 493 cm3 with EBB vs decreased by 50 cm3 with XRT alone (P = 0.03). Massive haemoptysis incidence similar (13% vs 15%)."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with previously untreated, inoperable NSCLC stage I-IIIb with biopsy-proven endobronchial tumour in proximal main or lobar bronchi, WHO PS 0-3.",
+      "inclusion_criteria": [
+        "Histologically confirmed NSCLC",
+        "Stage I, II, IIIa or IIIb (UICC 1992)",
+        "Endobronchial tumour in proximal main or lobar bronchus",
+        "WHO performance status 0-3",
+        "No prior treatment"
+      ],
+      "exclusion_criteria": [
+        "Prior or planned chemotherapy",
+        "Prior surgery",
+        "Prior thoracic radiotherapy",
+        "Other active malignancies",
+        "Pleuritis carcinomatosa",
+        "Distant metastases",
+        "Superior vena cava syndrome",
+        "Prior Nd:YAG laser",
+        "Complete bronchial obstruction",
+        "Need for two or more EBB catheters"
+      ]
+    },
+    "intervention": {
+      "text": "External irradiation plus endobronchial brachytherapy (XRT + EBB)",
+      "details": "XRT either 60 Gy (radical) or 30 Gy (palliative) per protocol; HDR EBB 2 fractions of 7.5 Gy at 1 cm on day 1 and day 8 via single catheter; XRT started day 2; EBB and XRT not on same day."
+    },
+    "comparison": {
+      "text": "External irradiation alone (XRT)",
+      "details": "XRT either 60 Gy (radical) or 30 Gy (palliative) per protocol; no EBB."
+    },
+    "outcomes": [
+      {
+        "name": "Dyspnea response rate (EORTC QLQ scales)",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Re-expansion of collapsed lung",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Inspiratory vital capacity (IVC) change",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Massive haemoptysis incidence",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Overall survival",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Quality of life domains (EORTC QLQ-C30, QLQ-LC13)",
+        "type": "exploratory",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "RCT",
+    "allocation": "randomized",
+    "blinding": "open-label",
+    "sites_count": 3,
+    "countries": [
+      "NL"
+    ],
+    "sample_size": {
+      "planned": 160,
+      "enrolled": 98,
+      "analyzed": 95
+    },
+    "analysis_populations": [
+      {
+        "name": "ITT",
+        "description": "All eligible randomized patients analyzed according to assigned arm",
+        "n": 95
+      },
+      {
+        "name": "Per-protocol (planned external dose received)",
+        "description": "Patients who received planned external irradiation dose",
+        "n": 81
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "External irradiation plus endobronchial brachytherapy (XRT + EBB)",
+      "n_randomized": 48,
+      "n_analyzed": 48,
+      "n_completed": 41
+    },
+    {
+      "arm_id": "control",
+      "name": "External irradiation alone (XRT)",
+      "n_randomized": 47,
+      "n_analyzed": 47,
+      "n_completed": 40
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "dyspnea_qol_mean_over_time_up_to_3m",
+      "name": "Dyspnea (EORTC QLQ) mean score over time (up to 3 months)",
+      "type": "continuous",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P3M",
+      "unit": "score",
+      "unit_canonical": "arbitrary_unit",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "total": 48
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "total": 47
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "difference_in_change_over_time",
+        "est": null,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.02,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Repeated measures ANOVA (mixed-effects)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT",
+        "missing_handling": "Mixed model (REML) includes dropouts assuming common change pattern within group"
+      },
+      "provenance": {
+        "pages": [
+          257
+        ],
+        "tables": [],
+        "quote": "A beneficial effect of EBB was noted concerning the mean scores of dyspnea over time (P = 0.02), which lasted for 3 months."
+      }
+    },
+    {
+      "concept_id": "ivc_absolute_change_2w",
+      "name": "Inspiratory vital capacity absolute change at 2 weeks after radiotherapy",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P2W",
+      "unit": "mL",
+      "unit_canonical": "milliliter",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": 493,
+            "total": 48
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "mean": -50,
+            "total": 47
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "mean_difference",
+        "est": 543,
+        "ci_lower": null,
+        "ci_upper": null,
+        "p_value": 0.03,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Between-group comparison of mean change",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT"
+      },
+      "provenance": {
+        "pages": [
+          257
+        ],
+        "tables": [],
+        "quote": "The inspiratory vital capacity (IVC) assessed 2 weeks after radiotherapy improved with 493 cm3 in arm 2 and decreased 50 cm3 in arm 1 (P = 0.03)."
+      }
+    },
+    {
+      "concept_id": "planned_external_dose_received",
+      "name": "Receipt of planned external irradiation dose",
+      "type": "binary",
+      "outcome_type": "process",
+      "timepoint_iso8601": "PT0S",
+      "timepoint_label": "end of radiotherapy",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 41,
+            "total": 47
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 40,
+            "total": 48
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": 0.064,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Proportion comparison",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT"
+      },
+      "provenance": {
+        "pages": [
+          261
+        ],
+        "tables": [],
+        "quote": "In the group of patients randomized to XRT alone, 40 out of 48 patients (83%) received the planned dose... In the group... XRT + EBB, 41 out of 47 patients (87%) received the planned dose of external irradiation."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 1.047
+        },
+        "odds_ratio": {
+          "est": 1.367
+        },
+        "arr": 0.039,
+        "nnt": 25.6
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Massive haemoptysis",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Haemoptysis"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "life-threatening"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 7,
+          "patients": 7,
+          "percentage": 15,
+          "total": 48
+        },
+        {
+          "arm_id": "control",
+          "events": 6,
+          "patients": 6,
+          "percentage": 13,
+          "total": 47
+        }
+      ],
+      "period": "throughout follow-up",
+      "management": "",
+      "provenance": {
+        "pages": [
+          257
+        ],
+        "tables": [],
+        "quote": "No difference was noted regarding the incidence of massive haemoptysis (13 vs. 15%)."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "RoB 2",
+    "overall_judgment": "some concerns",
+    "domains": [
+      {
+        "name": "Randomization process",
+        "judgment": "low",
+        "support_for_judgment": "Central randomization with permuted blocks; stratified by institution, stage, and fractionation schedule."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "some concerns",
+        "support_for_judgment": "Open-label design; some patients did not receive planned external dose; protocol-allowed physician choice of fractionation."
+      },
+      {
+        "name": "Missing outcome data",
+        "judgment": "low",
+        "support_for_judgment": "QoL compliance >90% at all times; mixed-model analysis retains dropouts."
+      },
+      {
+        "name": "Measurement of the outcome",
+        "judgment": "low",
+        "support_for_judgment": "Validated EORTC QLQ instruments; objective measures (IVC, imaging) for re-expansion."
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "some concerns",
+        "support_for_judgment": "Primary endpoint negative; subgroup effect reported for main bronchus obstruction; trial stopped early for slow accrual."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "non-small cell lung cancer",
+      "endobronchial brachytherapy",
+      "external irradiation",
+      "dyspnea",
+      "atelectasis",
+      "EORTC QLQ"
+    ],
+    "summary_tldr": "In inoperable NSCLC with endobronchial tumours, adding HDR endobronchial brachytherapy to external radiotherapy improved dyspnea mean scores over 3 months and increased re-expansion of collapsed lung, with similar massive haemoptysis rates.",
+    "clinical_relevance": "Supports selective use of endobronchial brachytherapy with external radiotherapy to enhance short-term palliation in central airway obstruction."
+  }
+}

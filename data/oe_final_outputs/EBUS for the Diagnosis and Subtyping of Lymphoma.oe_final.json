@@ -1,0 +1,634 @@
+{
+  "source": {
+    "document_id": "EBUS for the Diagnosis and Subtyping of Lymphoma",
+    "ingest_date": "2025-08-08T11:44:12.443271+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1513/AnnalsATS.201503-165OC"
+  },
+  "document": {
+    "metadata": {
+      "title": "Endobronchial Ultrasound-Guided Transbronchial Needle Aspiration for the Diagnosis and Subtyping of Lymphoma",
+      "year": 2015,
+      "authors": [
+        "Horiana B. Grosu",
+        "Mihai Iliesiu",
+        "Nancy P. Caraway",
+        "L. Jeffrey Medeiros",
+        "Xiudong Lei",
+        "Carlos A. Jimenez",
+        "Rodolfo C. Morice",
+        "Roberto F. Casal",
+        "David Ost",
+        "George A. Eapen"
+      ],
+      "journal": "Annals of the American Thoracic Society",
+      "doi": "10.1513/AnnalsATS.201503-165OC",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Background: Excisional biopsies are typically used to diagnose lymphoma, but data suggest that endobronchial ultrasound-guided transbronchial needle aspiration (EBUS-TBNA) is equally effective. In this study, we determined whether EBUS-TBNA could accurately diagnose and subtype lymphoma. Methods: The cases of patients who had undergone EBUS-TBNA for suspected lymphoma were retrospectively reviewed. EBUS-TBNA results were categorized as lymphoma, specific nonlymphoma diagnosis, granulomatous inflammation, or adequate or inadequate lymphocytes with no specific diagnosis. To quantify the ability of EBUS-TBNA to diagnose lymphoma, we used likelihood ratios. To quantify the ability of EBUS-TBNA to diagnose and subtype lymphoma, we calculated sensitivity and specificity. For this analysis, lymphoma that could be subtyped on the basis of EBUS-TBNA was classified as a true positive; lymphoma that could not be subtyped was classified as a false negative. Results: Of the 181 patients included, 75 (41.5%) were ultimately diagnosed with lymphoma. EBUS-TBNA was able to establish a diagnosis of lymphoma in 63 patients (84%). Granulomatous inflammation diagnosed on the basis of EBUS-TBNA was associated with a low likelihood of lymphoma being present (likelihood ratio, 0.00; 95% confidence interval [CI], 0.00-0.276). Adequate lymphocytes were associated with a low likelihood of lymphoma (LR, 0.25; 95% CI, 0.14-0.49). EBUS-TBNA was able to establish a diagnosis and subtype the lymphoma in 67% (95% CI, 0.45-0.88) of patients with de novo lymphoma and 81% (95% CI, 0.70-0.91) of patients with relapsed lymphoma. Conclusions: EBUS-TBNA is an effective, minimally invasive diagnostic test for patients with suspected lymphoma and can provide valuable clinical information, even with “negative” results.",
+      "methods": "We performed a retrospective review of all EBUS-TBNA cases from January 2007 to March 2014 at our institution (IRB PA14-0320). Adults (≥18 years) with isolated intrathoracic adenopathy suspected of lymphoma were included. We excluded patients with known sarcoidosis, mycobacterial or fungal infections, lung masses suspicious for primary lung cancer, and nonlymphoma malignancies within the prior 5 years with chest metastases. EBUS-TBNA results were classified as: (1) lymphoma that could be subtyped; (2) lymphoma that could not be subtyped; (3) specific nonlymphoma diagnosis; (4) granulomatous inflammation without a specific diagnosis; (5) adequate lymphocytes but no specific diagnosis; (6) inadequate lymphocytes with no specific diagnosis. Final diagnoses were adjudicated by a multidisciplinary team using clinical, pathologic, microbiologic, and radiologic data with ≥6 months follow-up. Diagnostic performance to identify lymphoma was evaluated using likelihood ratios across multi-category EBUS results. The ability to diagnose and subtype lymphoma was summarized by sensitivity, specificity, PPV, and NPV; for this analysis, only EBUS-TBNA results that allowed subtyping were considered true positives; lymphoma detected without subtyping was counted as negative. Statistical analyses used chi-square or Fisher’s exact tests for categorical variables and Kruskal-Wallis for continuous variables; two-sided alpha 0.05; SAS v9.3.",
+      "results": "Among 4,070 consecutive EBUS-TBNA cases, 181 had suspected lymphoma (111 suspected relapse; 70 suspected de novo). Final diagnoses included 75 lymphoma (21 Hodgkin lymphoma; 54 non-Hodgkin lymphoma [36 low grade; 18 high grade]) and 106 nonlymphoma. A total of 369 lymph nodes and 19 mediastinal masses were sampled (median 2 nodes/patient; median 5 passes/node). For lymphoma diagnosis, EBUS-TBNA was diagnostic in 63/75 (84%). Likelihood ratios (lymphoma present vs absent) by EBUS category: lymphoma result LR ∞ (95% CI 11.192, ∞); granulomatous inflammation LR 0.00 (95% CI 0.00-0.276); specific nonlymphoma diagnosis LR 0.00 (95% CI 0.00-0.982); adequate or inadequate lymphocytes LR 0.31 (95% CI 0.181-0.545). For diagnosing and subtyping, EBUS-TBNA correctly identified and subtyped lymphoma in 58/75; sensitivity 0.77 (95% CI 0.68-0.87) and specificity 1.00 (95% CI 1.00-1.00); PPV 1.00; NPV 0.86 (95% CI 0.80-0.92). Sensitivity was 0.67 (95% CI 0.45-0.88) in suspected de novo (TP 12, FN 6) and 0.81 (95% CI 0.70-0.91) in suspected relapsed (TP 46, FN 11); difference not significant (P = 0.33). False-negative rates by subtype were 24% in HL, 22% in high-grade NHL, and 8% in low-grade NHL (P = 0.19)."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with isolated intrathoracic adenopathy suspected of lymphoma undergoing EBUS-TBNA at a tertiary cancer center",
+      "inclusion_criteria": [
+        "Age ≥18 years",
+        "Isolated intrathoracic lymphadenopathy or mediastinal mass suspicious for lymphoma",
+        "Clinically compatible presentation (e.g., B symptoms, cytopenia, and/or peripheral lymphadenopathy)"
+      ],
+      "exclusion_criteria": [
+        "Known history of sarcoidosis",
+        "Known mycobacterial disease",
+        "Known fungal infections",
+        "Lung mass suspicious for primary lung cancer",
+        "Nonlymphoma malignancy in the prior 5 years with chest metastasis"
+      ]
+    },
+    "intervention": {
+      "text": "EBUS-TBNA",
+      "details": "Endobronchial ultrasound-guided transbronchial needle aspiration of mediastinal/hilar lymph nodes or masses; median 2 nodes sampled per patient with median 5 passes per node; specimens processed for cytomorphology, immunophenotyping, flow cytometry, cytogenetics, and molecular studies as indicated"
+    },
+    "comparison": {
+      "text": "Reference standard final diagnosis",
+      "details": "Final clinical diagnosis adjudicated by a multidisciplinary team using clinical, pathologic, microbiologic, and radiologic data with ≥6 months follow-up; additional tissue sampling performed as needed for subtyping"
+    },
+    "outcomes": [
+      {
+        "name": "Ability of EBUS-TBNA to diagnose lymphoma (likelihood ratios across result categories)",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Ability of EBUS-TBNA to diagnose and subtype lymphoma (sensitivity, specificity, PPV, NPV)",
+        "type": "primary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "observational (retrospective diagnostic accuracy)",
+    "allocation": "non-randomized",
+    "blinding": "none",
+    "sites_count": 1,
+    "countries": [
+      "US"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 181,
+      "analyzed": 181
+    },
+    "analysis_populations": [
+      {
+        "name": "All included patients",
+        "description": "All patients meeting inclusion criteria with suspected lymphoma undergoing EBUS-TBNA",
+        "n": 181
+      },
+      {
+        "name": "De novo suspicion",
+        "description": "Patients with suspected de novo lymphoma",
+        "n": 70
+      },
+      {
+        "name": "Relapsed suspicion",
+        "description": "Patients with suspected relapsed lymphoma",
+        "n": 111
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "disease_present",
+      "name": "Final diagnosis: lymphoma present",
+      "n_randomized": 75,
+      "n_analyzed": 75,
+      "n_completed": 75
+    },
+    {
+      "arm_id": "disease_absent",
+      "name": "Final diagnosis: lymphoma absent",
+      "n_randomized": 106,
+      "n_analyzed": 106,
+      "n_completed": 106
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "ebus_tbna_result_lymphoma_positive_any",
+      "name": "EBUS-TBNA diagnostic result: lymphoma",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Index test",
+      "groups": [
+        {
+          "arm_id": "disease_present",
+          "raw": {
+            "events": 63,
+            "total": 75
+          }
+        },
+        {
+          "arm_id": "disease_absent",
+          "raw": {
+            "events": 0,
+            "total": 106
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "disease_absent",
+        "measure": "none",
+        "est": null,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "diagnostic likelihood ratio across multi-category test results",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All included patients",
+        "missing_handling": "Not reported",
+        "diagnostic_performance": {
+          "lr": null,
+          "ci_lower": 11.192,
+          "ci_upper": null,
+          "ci_level": 0.95
+        }
+      },
+      "provenance": {
+        "pages": [
+          1339
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "EBUS-TBNA Test Result: Lymphoma Absent 0, Lymphoma Present 63; Likelihood ratio ‘ (11.192, ‘)"
+      },
+      "derived": {
+        "arr": 0.84,
+        "nnt": 1.2
+      }
+    },
+    {
+      "concept_id": "ebus_tbna_result_granulomatous_inflammation",
+      "name": "EBUS-TBNA diagnostic result: granulomatous inflammation",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Index test",
+      "groups": [
+        {
+          "arm_id": "disease_present",
+          "raw": {
+            "events": 0,
+            "total": 75
+          }
+        },
+        {
+          "arm_id": "disease_absent",
+          "raw": {
+            "events": 41,
+            "total": 106
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "disease_absent",
+        "measure": "none",
+        "est": null,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "diagnostic likelihood ratio across multi-category test results",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All included patients",
+        "missing_handling": "Not reported",
+        "diagnostic_performance": {
+          "lr": 0.0,
+          "ci_lower": 0.0,
+          "ci_upper": 0.276,
+          "ci_level": 0.95
+        }
+      },
+      "provenance": {
+        "pages": [
+          1339
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Granulomatous inflammation: Lymphoma Absent 41, Lymphoma Present 0; Likelihood ratio 0.00 (0.00-0.276)"
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.0
+        },
+        "odds_ratio": {
+          "est": 0.0
+        },
+        "arr": -0.387,
+        "nnh": 2.6
+      }
+    },
+    {
+      "concept_id": "ebus_tbna_result_specific_nonlymphoma_diagnosis",
+      "name": "EBUS-TBNA diagnostic result: specific nonlymphoma diagnosis",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Index test",
+      "groups": [
+        {
+          "arm_id": "disease_present",
+          "raw": {
+            "events": 0,
+            "total": 75
+          }
+        },
+        {
+          "arm_id": "disease_absent",
+          "raw": {
+            "events": 12,
+            "total": 106
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "disease_absent",
+        "measure": "none",
+        "est": null,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "diagnostic likelihood ratio across multi-category test results",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All included patients",
+        "missing_handling": "Not reported",
+        "diagnostic_performance": {
+          "lr": 0.0,
+          "ci_lower": 0.0,
+          "ci_upper": 0.982,
+          "ci_level": 0.95
+        }
+      },
+      "provenance": {
+        "pages": [
+          1339
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Specific nonlymphoma diagnosis: Lymphoma Absent 12, Lymphoma Present 0; Likelihood ratio 0.00 (0.00-0.982)"
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.0
+        },
+        "odds_ratio": {
+          "est": 0.0
+        },
+        "arr": -0.113,
+        "nnh": 8.8
+      }
+    },
+    {
+      "concept_id": "ebus_tbna_result_adequate_or_inadequate_lymphocytes",
+      "name": "EBUS-TBNA diagnostic result: adequate or inadequate lymphocytes (no specific diagnosis)",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Index test",
+      "groups": [
+        {
+          "arm_id": "disease_present",
+          "raw": {
+            "events": 12,
+            "total": 75
+          }
+        },
+        {
+          "arm_id": "disease_absent",
+          "raw": {
+            "events": 53,
+            "total": 106
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "disease_absent",
+        "measure": "none",
+        "est": null,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "diagnostic likelihood ratio across multi-category test results",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All included patients",
+        "missing_handling": "Not reported",
+        "diagnostic_performance": {
+          "lr": 0.31,
+          "ci_lower": 0.181,
+          "ci_upper": 0.545,
+          "ci_level": 0.95
+        }
+      },
+      "provenance": {
+        "pages": [
+          1339
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Adequate and inadequate lymphocytes: Lymphoma Absent 53, Lymphoma Present 12; Likelihood ratio 0.31 (0.181-0.545)"
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.32
+        },
+        "odds_ratio": {
+          "est": 0.19
+        },
+        "arr": -0.34,
+        "nnh": 2.9
+      }
+    },
+    {
+      "concept_id": "ebus_tbna_correct_subtyping_overall",
+      "name": "EBUS-TBNA correctly diagnosed and subtyped lymphoma",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Index test",
+      "groups": [
+        {
+          "arm_id": "disease_present",
+          "raw": {
+            "events": 58,
+            "total": 75
+          }
+        },
+        {
+          "arm_id": "disease_absent",
+          "raw": {
+            "events": 0,
+            "total": 106
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "disease_absent",
+        "measure": "none",
+        "est": null,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "diagnostic sensitivity/specificity calculation (subtyping counted as positive)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All included patients",
+        "missing_handling": "Not reported",
+        "diagnostic_performance": {
+          "sensitivity": 0.77,
+          "sensitivity_ci_lower": 0.68,
+          "sensitivity_ci_upper": 0.87,
+          "specificity": 1.0,
+          "specificity_ci_lower": 1.0,
+          "specificity_ci_upper": 1.0,
+          "ppv": 1.0,
+          "npv": 0.86,
+          "npv_ci_lower": 0.8,
+          "npv_ci_upper": 0.92,
+          "ci_level": 0.95
+        }
+      },
+      "provenance": {
+        "pages": [
+          1340
+        ],
+        "tables": [
+          "Table 4"
+        ],
+        "table_number": 4,
+        "quote": "Lymphoma, all patients: Sensitivity 0.77 (95% CI 0.68-0.87); Specificity 1.00 (1-1). Total 181; True Positive 58; False Negative 17; False Positive 0; True Negative 106."
+      },
+      "derived": {
+        "arr": 0.773,
+        "nnt": 1.3
+      }
+    },
+    {
+      "concept_id": "ebus_tbna_correct_subtyping_de_novo",
+      "name": "EBUS-TBNA correctly diagnosed and subtyped lymphoma (de novo suspicion)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Index test",
+      "groups": [
+        {
+          "arm_id": "disease_present",
+          "raw": {
+            "events": 12,
+            "total": 18
+          }
+        },
+        {
+          "arm_id": "disease_absent",
+          "raw": {
+            "events": 0,
+            "total": 52
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "disease_absent",
+        "measure": "none",
+        "est": null,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": 0.33,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "diagnostic sensitivity/specificity calculation (subtyping counted as positive)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "De novo suspicion subset",
+        "missing_handling": "Not reported",
+        "diagnostic_performance": {
+          "sensitivity": 0.67,
+          "sensitivity_ci_lower": 0.45,
+          "sensitivity_ci_upper": 0.88,
+          "specificity": 1.0,
+          "specificity_ci_lower": 1.0,
+          "specificity_ci_upper": 1.0,
+          "ppv": 1.0,
+          "npv": 0.9,
+          "npv_ci_lower": 0.82,
+          "npv_ci_upper": 0.97,
+          "ci_level": 0.95
+        }
+      },
+      "provenance": {
+        "pages": [
+          1340
+        ],
+        "tables": [
+          "Table 4"
+        ],
+        "table_number": 4,
+        "quote": "De novo: Sensitivity 0.67 (95% CI 0.45-0.88); Specificity 1.00 (1-1). Total 70; True Positive 12; False Negative 6; False Positive 0; True Negative 52. No significant difference vs relapsed (P = 0.33)."
+      },
+      "derived": {
+        "arr": 0.667,
+        "nnt": 1.5
+      }
+    },
+    {
+      "concept_id": "ebus_tbna_correct_subtyping_relapsed",
+      "name": "EBUS-TBNA correctly diagnosed and subtyped lymphoma (relapsed suspicion)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Index test",
+      "groups": [
+        {
+          "arm_id": "disease_present",
+          "raw": {
+            "events": 46,
+            "total": 57
+          }
+        },
+        {
+          "arm_id": "disease_absent",
+          "raw": {
+            "events": 0,
+            "total": 54
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "disease_absent",
+        "measure": "none",
+        "est": null,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": 0.33,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "diagnostic sensitivity/specificity calculation (subtyping counted as positive)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Relapsed suspicion subset",
+        "missing_handling": "Not reported",
+        "diagnostic_performance": {
+          "sensitivity": 0.81,
+          "sensitivity_ci_lower": 0.7,
+          "sensitivity_ci_upper": 0.91,
+          "specificity": 1.0,
+          "specificity_ci_lower": 1.0,
+          "specificity_ci_upper": 1.0,
+          "ppv": 1.0,
+          "npv": 0.83,
+          "npv_ci_lower": 0.74,
+          "npv_ci_upper": 0.92,
+          "ci_level": 0.95
+        }
+      },
+      "provenance": {
+        "pages": [
+          1340
+        ],
+        "tables": [
+          "Table 4"
+        ],
+        "table_number": 4,
+        "quote": "Relapsed: Sensitivity 0.81 (95% CI 0.70-0.91); Specificity 1.00 (1-1). Total 111; True Positive 46; False Negative 11; False Positive 0; True Negative 54. No significant difference vs de novo (P = 0.33)."
+      },
+      "derived": {
+        "arr": 0.807,
+        "nnt": 1.2
+      }
+    }
+  ],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "QUADAS-2",
+    "overall_judgment": "unclear",
+    "domains": [
+      {
+        "name": "Patient selection",
+        "judgment": "unclear",
+        "support_for_judgment": "Retrospective, single-center cohort; potential selection bias not fully characterized"
+      },
+      {
+        "name": "Index test (EBUS-TBNA)",
+        "judgment": "low",
+        "support_for_judgment": "Standardized procedure with cytology, immunophenotyping, and ancillary studies per protocol"
+      },
+      {
+        "name": "Reference standard",
+        "judgment": "low",
+        "support_for_judgment": "Multidisciplinary adjudication with pathology/microbiology and ≥6 months follow-up"
+      },
+      {
+        "name": "Flow and timing",
+        "judgment": "low",
+        "support_for_judgment": "All patients followed at least 6 months; incomplete outcome data not reported"
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "EBUS-TBNA",
+      "lymphoma",
+      "mediastinal lymphadenopathy",
+      "diagnostic accuracy",
+      "likelihood ratio",
+      "sensitivity",
+      "specificity"
+    ],
+    "summary_tldr": "In 181 patients with suspected lymphoma, EBUS-TBNA identified lymphoma in 63/75 (84%) and correctly subtyped 58/75; specificity 100% and sensitivity 77% overall.",
+    "clinical_relevance": "EBUS-TBNA offers a minimally invasive approach to diagnose and subtype lymphoma in patients with intrathoracic adenopathy, often obviating the need for surgical biopsy and informing management even when results are negative (e.g., granulomatous inflammation lowers post-test probability of lymphoma)."
+  }
+}

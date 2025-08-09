@@ -1,0 +1,429 @@
+{
+  "source": {
+    "document_id": "Improved diagnostic yield  with digital tomosynthesis ENB",
+    "ingest_date": "2025-08-08T13:22:52.341551+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1111/resp.13609"
+  },
+  "document": {
+    "metadata": {
+      "title": "Improved diagnostic yield for lung nodules with digital tomosynthesis-corrected navigational bronchoscopy: Initial experience with a novel adjunct",
+      "year": 2020,
+      "authors": [
+        "Matt Aboudara",
+        "Lance Roller",
+        "Otis Rickman",
+        "Robert J. Lentz",
+        "Jasleen Pannu",
+        "Heidi Chen",
+        "Fabien Maldonado"
+      ],
+      "journal": "Respirology",
+      "doi": "10.1111/resp.13609",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Background and objective: The diagnostic yield of electromagnetic navigation bronchoscopy (ENB) is inferior to that of computed tomography (CT)-guided needle biopsy for pulmonary nodules. One explanation for this is divergence between the nodule location on the pre-procedure CT scan and its actual location during the procedure. Fluoroscopic ENB (F-ENB) consists of digital tomosynthesis using a conventional C-arm to re-register the target lesion based on near real-time imaging. We performed a retrospective review of ENB cases at our institution before and after introduction of F-ENB to assess diagnostic yield. Methods: All consecutive ENB procedures performed at our institution from 25 December 2017 to 25 August 2018 were reviewed. F-ENB was introduced on 25 April 2018. Two cohorts were analysed: standard ENB (S-ENB) from 25 December 2017 to 24 April 2018 and F-ENB from 25 April 2018 to 25 August 2018. All procedural, demographic and diagnostic data were collected. Descriptive statistics, chi-square, Wilcoxon test and Student’s t-test were used where appropriate. A multivariable regression analysis was performed to assess factors associated with diagnostic yield. Results: A total of 101 and 67 nodules were biopsied in the S-ENB and F-ENB groups, respectively. Diagnostic yield was 54% in S-ENB cohort and 79% in the F-ENB group (P = 0.0019). Factors independently associated with a positive diagnosis were F-ENB and a positive radial ultrasound view (odds ratio (OR): 3.57, 95% CI: 1.56-8.18 and OR: 3.74, 95% CI: 1.37-11.05, respectively). Complications were minimal (pneumothorax: 1.5%). Conclusion: The use of F-ENB may increase the diagnostic yield of ENB and has a low complication rate.",
+      "methods": "We conducted a retrospective review of all consecutive ENB procedures performed at Vanderbilt University Medical Center from 25 December 2017 to 25 August 2018 (IRB 181411; consent waived). F-ENB was introduced on 25 April 2018; data from 4 months prior and 4 months after introduction were included. The SuperDimension iLogic 7.2 ENB platform was used for all procedures. F-ENB uses digital tomosynthesis via a conventional GE 9800/9900 C-arm to visualize and re-register the target nodule based on near real-time imaging using an inspiratory breath-hold and fluoroscopy sweep from 25° LAO to 25° RAO. After re-registration, the locatable guide and extended working channel (EWC) are redirected to achieve central target alignment. Not all post-April 24 procedures used F-ENB due to equipment availability and operator discretion after rEBUS assessment. Rapid onsite cytology was used; TBNA was performed first, with TBBX and a 10-mL wash if ROSE was non-diagnostic or infection suspected. Positive diagnosis was defined as malignancy, specific benign histopathology or positive microbiology; normal lung, atypia or non-specific inflammation were non-diagnostic. Primary outcome was diagnostic yield per nodule. Divergence for F-ENB cases was defined as catheter-to-nodule distance after tomosynthesis sweep. Group comparisons used Wilcoxon rank-sum or t-test and chi-square; multivariable logistic regression adjusted for rEBUS image, size, location and air bronchogram.",
+      "results": "A total of 101 nodules in 90 subjects underwent S-ENB and 67 nodules in 59 subjects underwent F-ENB. Diagnostic yield was higher with F-ENB (53/67; 79%) than S-ENB (55/101; 54%) (P = 0.0019). Nodule sizes were similar between cohorts (median 16 mm vs 15 mm; P = 0.56). In nodules <20 mm, sizes were also similar (14 mm vs 13 mm; P = 0.27). Median divergence in F-ENB cases was 12.2 mm (IQR 7-17). rEBUS view, nodule location, opacity type, and biopsy methods were similar between groups; bronchus sign was more common in S-ENB (37% vs 22%; P = 0.04). Among F-ENB diagnostic cases, 35/53 (66%) were diagnosed by cytology alone, 10/53 (18%) by histology alone and 6/53 (11%) by both; in S-ENB, 23/55 (43%) cytology alone, 15/55 (27%) histology alone and 18/55 (33%) both. In multivariable logistic regression, F-ENB (OR 3.57; 95% CI 1.56-8.18) and positive rEBUS view (OR 3.74; 95% CI 1.37-11.05) independently predicted diagnosis. Complications were minimal, with pneumothorax reported at 1.5% overall."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "All consecutive patients undergoing electromagnetic navigation bronchoscopy for pulmonary nodules at a single academic medical center over two 4-month periods before and after F-ENB introduction.",
+      "inclusion_criteria": [
+        "Consecutive ENB procedures between 2017-12-25 and 2018-08-25"
+      ],
+      "exclusion_criteria": []
+    },
+    "intervention": {
+      "text": "Fluoroscopic electromagnetic navigation bronchoscopy (F-ENB) with digital tomosynthesis correction",
+      "details": "Digital tomosynthesis using GE 9800/9900 C-arm; inspiratory breath-hold at APL 20 cm H2O; fluoroscopy sweep from 25° LAO to 25° RAO over 8-30 s; software re-registration of nodule and catheter tip; redirection of LG/EWC to achieve central target alignment; neuromuscular blockade used."
+    },
+    "comparison": {
+      "text": "Standard ENB without tomosynthesis correction",
+      "details": "Conventional ENB workflow with navigation based on pre-procedure CT; rEBUS used for localization; no digital tomosynthesis re-registration."
+    },
+    "outcomes": [
+      {
+        "name": "Diagnostic yield per nodule",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Diagnostic yield for malignancy per nodule",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Diagnostic yield for benign diagnosis per nodule",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Catheter-to-nodule divergence (mm) in F-ENB cases",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Observational retrospective cohort (before-after)",
+    "allocation": "nonrandomized",
+    "blinding": "none",
+    "sites_count": 1,
+    "countries": [
+      "US"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 149,
+      "analyzed": 149
+    },
+    "analysis_populations": [
+      {
+        "name": "All nodules",
+        "description": "All biopsied nodules across both cohorts",
+        "n": 168
+      },
+      {
+        "name": "All patients",
+        "description": "All patients undergoing ENB across both cohorts",
+        "n": 149
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "Fluoroscopic ENB with digital tomosynthesis (F-ENB)",
+      "n_randomized": 0,
+      "n_analyzed": 67,
+      "n_completed": 67
+    },
+    {
+      "arm_id": "control",
+      "name": "Standard ENB (S-ENB)",
+      "n_randomized": 0,
+      "n_analyzed": 101,
+      "n_completed": 101
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "diagnostic_yield_overall",
+      "name": "Diagnostic yield per nodule",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "Intra-/post-procedure diagnosis",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 53,
+            "total": 67
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 55,
+            "total": 101
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": 0.247,
+        "p_value": 0.0019,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Chi-square test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All nodules",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [
+          "Table 1"
+        ],
+        "quote": "Diagnostic yield, total n (%): 55/101 (54.4) vs 53/67 (79.1), P = 0.0019"
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 1.453
+        },
+        "odds_ratio": {
+          "est": 3.166
+        },
+        "arr": 0.246,
+        "nnt": 4.1
+      }
+    },
+    {
+      "concept_id": "diagnostic_yield_malignant",
+      "name": "Diagnostic yield for malignancy per nodule",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "Intra-/post-procedure diagnosis",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 36,
+            "total": 67
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 39,
+            "total": 101
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": 0.151,
+        "p_value": 0.07,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Chi-square test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All nodules",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [
+          "Table 1"
+        ],
+        "quote": "Malignant, n (%): 39/101 (38.6) vs 36/67 (53.7), P = 0.07"
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 1.392
+        },
+        "odds_ratio": {
+          "est": 1.846
+        },
+        "arr": 0.151,
+        "nnt": 6.6
+      }
+    },
+    {
+      "concept_id": "diagnostic_yield_benign",
+      "name": "Diagnostic yield for benign diagnosis per nodule",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "Intra-/post-procedure diagnosis",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 17,
+            "total": 67
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 16,
+            "total": 101
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": 0.095,
+        "p_value": 0.84,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Chi-square test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All nodules",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [
+          "Table 1"
+        ],
+        "quote": "Benign, n (%): 16/101 (15.8) vs 17/67 (25.3), P = 0.84"
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 1.602
+        },
+        "odds_ratio": {
+          "est": 1.806
+        },
+        "arr": 0.095,
+        "nnt": 10.5
+      }
+    },
+    {
+      "concept_id": "catheter_divergence_fenb",
+      "name": "Catheter-to-nodule divergence (F-ENB only)",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "unit": "mm",
+      "unit_canonical": "millimeter",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "median": 12.2,
+            "iqr_lower": 7,
+            "iqr_upper": 17,
+            "total": 67
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "F-ENB nodules"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "The median (IQR) divergence within the F-ENB cohort was 12.2 mm (IQR: 7-17)."
+      }
+    },
+    {
+      "concept_id": "diagnostic_success_adjusted_or",
+      "name": "Adjusted association of F-ENB with diagnostic success",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "Model-based association",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 53,
+            "total": 67
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 55,
+            "total": 101
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "odds_ratio",
+        "est": 3.57,
+        "ci_lower": 1.56,
+        "ci_upper": 8.18,
+        "ci_level": 0.95,
+        "adjusted": true
+      },
+      "analysis": {
+        "model": "Multivariable logistic regression",
+        "adjusted": true,
+        "covariates": [
+          "rEBUS image (concentric/eccentric/none)",
+          "nodule size",
+          "nodule location",
+          "air bronchogram"
+        ],
+        "population": "All nodules"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "Factors independently associated with a positive diagnosis were F-ENB (OR 3.57, 95% CI 1.56-8.18) and a positive radial ultrasound view (OR 3.74, 95% CI 1.37-11.05)."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 1.453
+        },
+        "odds_ratio": {
+          "est": 3.166
+        },
+        "arr": 0.246,
+        "nnt": 4.1
+      }
+    }
+  ],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "ROBINS-I",
+    "overall_judgment": "serious",
+    "domains": [
+      {
+        "name": "Bias due to confounding",
+        "judgment": "serious",
+        "support_for_judgment": "Before-after design with historical control; equipment availability and operator discretion could influence case selection."
+      },
+      {
+        "name": "Bias in selection of participants",
+        "judgment": "moderate",
+        "support_for_judgment": "Consecutive cases included; however, allocation to F-ENB depended on system availability and intra-procedural decisions."
+      },
+      {
+        "name": "Bias in classification of interventions",
+        "judgment": "low",
+        "support_for_judgment": "Clear definition of S-ENB vs F-ENB."
+      },
+      {
+        "name": "Bias due to deviations from intended interventions",
+        "judgment": "moderate",
+        "support_for_judgment": "Operator discretion to perform tomosynthesis correction after rEBUS; workflow differences possible."
+      },
+      {
+        "name": "Bias due to missing data",
+        "judgment": "low",
+        "support_for_judgment": "Outcomes reported for all nodules in both cohorts."
+      },
+      {
+        "name": "Bias in measurement of outcomes",
+        "judgment": "low",
+        "support_for_judgment": "Standard pathology review and predefined diagnostic criteria."
+      },
+      {
+        "name": "Bias in selection of the reported result",
+        "judgment": "moderate",
+        "support_for_judgment": "Primary outcome pre-specified; limited reporting of complications and p-values for some comparisons."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "electromagnetic navigation bronchoscopy",
+      "tomosynthesis",
+      "digital tomosynthesis",
+      "fluoroscopic ENB",
+      "lung nodule",
+      "radial endobronchial ultrasound"
+    ],
+    "summary_tldr": "In a single-center retrospective before-after analysis, F-ENB increased diagnostic yield to 79% vs 54% with S-ENB (p=0.0019).",
+    "clinical_relevance": "Digital tomosynthesis correction can mitigate CT-to-body divergence during ENB, potentially improving diagnostic yield for small peripheral lung nodules with a low complication rate."
+  }
+}

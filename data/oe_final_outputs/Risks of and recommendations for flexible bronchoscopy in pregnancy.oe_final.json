@@ -1,0 +1,112 @@
+{
+  "source": {
+    "document_id": "Risks of and recommendations for flexible bronchoscopy in pregnancy",
+    "ingest_date": "2025-08-08T15:21:35.134298+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": ""
+  },
+  "document": {
+    "metadata": {
+      "title": "Risks of and Recommendations for Flexible Bronchoscopy in Pregnancy: A Review",
+      "year": 2004,
+      "authors": [
+        "Imad J. Bahhady",
+        "Armin Ernst"
+      ],
+      "journal": "Chest",
+      "doi": "",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "This narrative review summarizes physiologic and anatomic respiratory changes during pregnancy relevant to flexible bronchoscopy, outlines procedure- and sedation-related risks for mother and fetus, reviews safety considerations for commonly used bronchoscopy medications with FDA pregnancy risk categories, and provides practical recommendations for maternal and fetal monitoring (including pulse oximetry and optional capnography), patient positioning to avoid supine hypotensive syndrome, and indications for emergent versus nonemergent procedures. Evidence directly addressing flexible bronchoscopy in pregnancy is limited to case reports and one prior review; broader endoscopy literature suggests no clear increase in adverse events among pregnant women undergoing upper endoscopy in a case-control study, though power was insufficient to exclude small fetal risks.",
+      "methods": "Narrative literature review drawing on published case reports, a prior review, and indirect evidence from upper and lower gastrointestinal endoscopy during pregnancy, as well as physiologic, anesthetic, and monitoring literature. No systematic search strategy, inclusion criteria, or quantitative synthesis were reported.",
+      "results": "The review identifies pregnancy-related respiratory adaptations (decreased functional residual capacity, increased minute ventilation, increased oxygen consumption) and upper airway mucosal changes that can impact bronchoscopy. It emphasizes maternal hypoxemia and hypotension as key fetal risks, highlights medication considerations by FDA pregnancy risk category, recommends continuous pulse oximetry with supplemental oxygen to maintain saturation at 97 to 100, considers capnography to detect hypercapnia, advises left lateral tilt positioning after 20 weeks to avoid supine hypotensive syndrome, and notes that emergent, lifesaving bronchoscopy should proceed with maternal safety prioritized while minimizing fetal risk. No pooled quantitative outcomes are provided for pregnant patients undergoing flexible bronchoscopy."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Pregnant women undergoing or being considered for flexible bronchoscopy for diagnostic or therapeutic indications, any trimester.",
+      "inclusion_criteria": [
+        "Pregnancy",
+        "Clinical indication for flexible bronchoscopy (emergent or nonemergent)"
+      ],
+      "exclusion_criteria": []
+    },
+    "intervention": {
+      "text": "Flexible bronchoscopy under conscious sedation",
+      "details": "Procedure performed with topical anesthesia and minimal sedation as needed; continuous pulse oximetry with supplemental oxygen to maintain saturation at 97 to 100; consideration of capnography; left lateral tilt positioning after 20 weeks; selective fetal heart monitoring in high-risk pregnancies or third trimester; careful selection and dosing of medications (eg, lidocaine, opioids, benzodiazepines) according to pregnancy risk profiles."
+    },
+    "comparison": {
+      "text": "",
+      "details": ""
+    },
+    "outcomes": [
+      {
+        "name": "Maternal hypoxemia during flexible bronchoscopy",
+        "type": "primary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "narrative_review",
+    "allocation": "none",
+    "blinding": "none",
+    "sites_count": 0,
+    "countries": [],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": []
+  },
+  "arms": [],
+  "outcomes_normalized": [],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "AMSTAR 2",
+    "overall_judgment": "unclear",
+    "domains": [
+      {
+        "name": "Protocol registered before conduct",
+        "judgment": "high",
+        "support_for_judgment": "No mention of protocol registration or predefined methods"
+      },
+      {
+        "name": "Adequacy of literature search",
+        "judgment": "unclear",
+        "support_for_judgment": "Sources cited but no comprehensive search strategy described"
+      },
+      {
+        "name": "Justification for study selection and exclusion",
+        "judgment": "high",
+        "support_for_judgment": "No explicit inclusion/exclusion criteria reported"
+      },
+      {
+        "name": "Risk of bias from included studies",
+        "judgment": "high",
+        "support_for_judgment": "Evidence base primarily case reports and nonrandomized studies; no appraisal provided"
+      },
+      {
+        "name": "Appropriateness of meta-analytic methods",
+        "judgment": "not_applicable",
+        "support_for_judgment": "No quantitative synthesis performed"
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "flexible bronchoscopy",
+      "pregnancy",
+      "sedation",
+      "fetal monitoring",
+      "hypoxemia",
+      "capnography",
+      "maternal positioning"
+    ],
+    "summary_tldr": "Narrative review offering practical guidance for safely performing flexible bronchoscopy during pregnancy; prioritize maternal oxygenation, left lateral tilt positioning, judicious sedation, and consider fetal monitoring in late or high-risk pregnancy.",
+    "clinical_relevance": "Provides clinicians with risk-focused recommendations for bronchoscopy in pregnant patients when the procedure is diagnostically or therapeutically necessary."
+  }
+}

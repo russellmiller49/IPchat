@@ -1,0 +1,618 @@
+{
+  "source": {
+    "document_id": "Inhaled TXA for Hemoptysis Treatment",
+    "ingest_date": "2025-08-08T13:27:10.839186+00:00",
+    "trial_registration_id": "NCT01496196",
+    "pmid": "",
+    "doi": "10.1016/j.chest.2018.09.026"
+  },
+  "document": {
+    "metadata": {
+      "title": "Inhaled Tranexamic Acid for Hemoptysis Treatment: A Randomized Controlled Trial",
+      "year": 2018,
+      "authors": [
+        "Ori Wand",
+        "Elad Guber",
+        "Alexander Guber",
+        "Gali Epstein Shochet",
+        "Lilach Israeli-Shani",
+        "David Shitrit"
+      ],
+      "journal": "Chest",
+      "doi": "10.1016/j.chest.2018.09.026",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "BACKGROUND: Tranexamic acid (TA) is an antifibrinolytic drug currently used systemically to control bleeding. To date, there have been no prospective studies of the effectiveness of inhaled TA for the treatment of hemoptysis. OBJECTIVES: The goal of this study was to prospectively assess the effectiveness of TA inhalations (ie, nebulized TA) for hemoptysis treatment. METHODS: This analysis was a double-blind, randomized controlled trial of treatment with nebulized TA (500 mg tid) vs placebo (normal saline) in patients admitted with hemoptysis of various etiologies. Patients with massive hemoptysis (expectorated blood > 200 mL/24 h) and hemodynamic or respiratory instability were excluded. Mortality and hemoptysis recurrence rate were assessed at 30 days and following 1 year. RESULTS: Forty-seven patients were randomized to receive TA inhalations (n=25) or normal saline (n=22). TA was associated with a significantly reduced expectorated blood volume starting from day 2 of admission. Resolution of hemoptysis within 5 days of admission was observed in more TA-treated patients than in those receiving placebo (96% vs 50%; P < .0005). Mean hospital length of stay was shorter for the TA group (5.7 ± 2.5 days vs 7.8 ± 4.6 days; P = .046), with fewer patients requiring invasive procedures such as interventional bronchoscopy or angiographic embolization to control the bleeding (0% vs 18.2%; P = .041). No side effects were noted in either group throughout the follow-up period. In addition, a reduced recurrence rate was noted at the 1-year follow-up (P = .009). CONCLUSIONS: TA inhalations can be used safely and effectively to control bleeding in patients with nonmassive hemoptysis.",
+      "methods": "Double-blind, randomized, placebo-controlled trial conducted at Meir Medical Center, Israel. Adults admitted with hemoptysis within the prior 24 hours were screened. Exclusions: massive hemoptysis (>200 mL/24h), respiratory/hemodynamic instability, pregnancy, renal failure (creatinine >3 mg/dL or renal replacement therapy), hepatic failure (bilirubin >2 mg/dL or AST >3× ULN), coagulopathy (INR >2), hypersensitivity to TA, or prior TA treatment. Participants were randomized to nebulized TA 500 mg/5 mL or normal saline 0.9% 5 mL, three times daily, for up to 5 days from admission. Anticoagulants/antiplatelets were held until bleeding resolution. Outcomes: primary—complete resolution of hemoptysis within 5 days and daily expectorated blood volume; secondary—rates of interventional bronchoscopy, angiographic embolization, or surgery; hospital length of stay; safety; 30-day and 1-year mortality and recurrence.",
+      "results": "Forty-seven patients were randomized (TA n=25; placebo n=22). Resolution of bleeding by day 5 occurred in 96% (24/25) of TA vs 50% (11/22) of placebo (P < .0005). TA reduced expectorated blood volume from day 2 to day 5 (P < .01). Fewer patients required interventional procedures in the TA group (0/25) vs placebo (4/22; 18.2%) (P = .041). Mean hospital length of stay was shorter with TA (5.7 ± 2.5 days) vs placebo (7.8 ± 4.6 days) (P = .046). No adverse effects, including bronchospasm, occurred in either group during follow-up. At 30 days, recurrent hemoptysis occurred in 2/25 vs 6/22 (P = .12) and death in 0/25 vs 2/22 (P = .21). At 1 year, recurrent hemoptysis was lower with TA (3/25) vs placebo (11/22) (P = .0092); mortality was similar (4/25 vs 4/22)."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults admitted with nonmassive hemoptysis of various etiologies within the prior 24 hours at a tertiary pulmonary department.",
+      "inclusion_criteria": [
+        "Age ≥ 18 years",
+        "Admission with hemoptysis within the previous 24 hours"
+      ],
+      "exclusion_criteria": [
+        "Massive hemoptysis (expectorated blood > 200 mL/24 h)",
+        "Respiratory or hemodynamic instability",
+        "Pregnancy",
+        "Renal failure (creatinine > 3 mg/dL or need for renal replacement therapy)",
+        "Hepatic failure (bilirubin > 2 mg/dL or AST > 3× ULN)",
+        "Coagulopathy (INR > 2)",
+        "Known hypersensitivity to tranexamic acid",
+        "Treatment with tranexamic acid prior to screening"
+      ]
+    },
+    "intervention": {
+      "text": "Nebulized tranexamic acid",
+      "details": "Tranexamic acid 500 mg/5 mL via nebulizer, three times daily, for up to 5 days from admission"
+    },
+    "comparison": {
+      "text": "Placebo (normal saline)",
+      "details": "Normal saline 0.9% 5 mL via nebulizer, three times daily, for up to 5 days from admission"
+    },
+    "outcomes": [
+      {
+        "name": "Resolution of hemoptysis by day 5",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Daily expectorated blood volume",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Need for interventional procedures (bronchoscopy or angiographic embolization)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Hospital length of stay",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Recurrent hemoptysis at 30 days and 1 year",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Mortality at 30 days and 1 year",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Adverse events (e.g., bronchospasm)",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "RCT",
+    "allocation": "randomized",
+    "blinding": "double-blind",
+    "sites_count": 1,
+    "countries": [
+      "Israel"
+    ],
+    "sample_size": {
+      "planned": 60,
+      "enrolled": 47,
+      "analyzed": 47
+    },
+    "analysis_populations": [
+      {
+        "name": "ITT",
+        "description": "All randomized participants",
+        "n": 47
+      },
+      {
+        "name": "Safety",
+        "description": "All randomized participants who received at least one dose",
+        "n": 47
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "Nebulized tranexamic acid 500 mg TID up to 5 days",
+      "n_randomized": 25,
+      "n_analyzed": 25,
+      "n_completed": 25
+    },
+    {
+      "arm_id": "control",
+      "name": "Placebo (normal saline 0.9% 5 mL) TID up to 5 days",
+      "n_randomized": 22,
+      "n_analyzed": 22,
+      "n_completed": 22
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "hemoptysis_resolution_5d",
+      "name": "Resolution of hemoptysis by day 5",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P5D",
+      "timepoint_label": "5 days from admission",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 24,
+            "total": 25
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 11,
+            "total": 22
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": 0.46,
+        "p_value": 0.0005,
+        "p_operator": "<",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Fisher exact test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          1382
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "Resolution of bleeding was achieved by 5 days in 96% of the patients in the TA group vs 50% in the placebo group (P < .0005)."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 1.92
+        },
+        "odds_ratio": {
+          "est": 24.0
+        },
+        "arr": 0.46,
+        "nnt": 2.2
+      }
+    },
+    {
+      "concept_id": "interventional_procedure_required_index_admission",
+      "name": "Any interventional procedure to control bleeding (bronchoscopy or angiographic embolization)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Index hospitalization",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 0,
+            "total": 25
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 4,
+            "total": 22
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": -0.1818,
+        "p_value": 0.041,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Fisher exact test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          1382
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "In total, 18.2% of the patients in the placebo group vs none in the TA group required an interventional procedure to control bleeding (P = .041)."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.0
+        },
+        "odds_ratio": {
+          "est": 0.0
+        },
+        "arr": -0.182,
+        "nnh": 5.5
+      }
+    },
+    {
+      "concept_id": "los_hospital_days_index_admission",
+      "name": "Hospital length of stay",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Index hospitalization",
+      "unit": "days",
+      "unit_canonical": "day",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": 5.7,
+            "sd": 2.5,
+            "total": 25
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "mean": 7.8,
+            "sd": 4.6,
+            "total": 22
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "mean_difference",
+        "est": -2.1,
+        "p_value": 0.046,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Two-sample t test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          1382
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "The average hospital LOS for the placebo group was 7.8 days; for the TA group, it was 5.7 days (P = .046)."
+      }
+    },
+    {
+      "concept_id": "recurrent_hemoptysis_30d",
+      "name": "Recurrent hemoptysis at 30 days",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P30D",
+      "timepoint_label": "30 days",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 2,
+            "total": 25
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 6,
+            "total": 22
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": -0.1927,
+        "p_value": 0.12,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Chi-square/Fisher exact test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          1383
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "30 Days: Recurrent hemoptysis 2 (8%) vs 6 (27.3%), P = .12."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.293
+        },
+        "odds_ratio": {
+          "est": 0.232
+        },
+        "arr": -0.193,
+        "nnh": 5.2
+      }
+    },
+    {
+      "concept_id": "recurrent_hemoptysis_1y",
+      "name": "Recurrent hemoptysis at 1 year",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P1Y",
+      "timepoint_label": "1 year",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 3,
+            "total": 25
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 11,
+            "total": 22
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": -0.38,
+        "p_value": 0.0092,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Chi-square/Fisher exact test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          1383
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "Following 1 year... the recurrence rate was significantly lower in the TA group (P = .0092)."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.24
+        },
+        "odds_ratio": {
+          "est": 0.136
+        },
+        "arr": -0.38,
+        "nnh": 2.6
+      }
+    },
+    {
+      "concept_id": "all_cause_mortality_30d",
+      "name": "All-cause mortality at 30 days",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P30D",
+      "timepoint_label": "30 days",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 0,
+            "total": 25
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 2,
+            "total": 22
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": -0.0909,
+        "p_value": 0.21,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Fisher exact test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          1383
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "30 Days: Death 0 vs 2 (10%), P = .21."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.0
+        },
+        "odds_ratio": {
+          "est": 0.0
+        },
+        "arr": -0.091,
+        "nnh": 11.0
+      }
+    },
+    {
+      "concept_id": "all_cause_mortality_1y",
+      "name": "All-cause mortality at 1 year",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P1Y",
+      "timepoint_label": "1 year",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 4,
+            "total": 25
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 4,
+            "total": 22
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": -0.02,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Chi-square/Fisher exact test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          1383
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "Following 1 year, although there was no difference in the mortality rates..."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.88
+        },
+        "odds_ratio": {
+          "est": 0.857
+        },
+        "arr": -0.022,
+        "nnh": 45.8
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Bronchospasm",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Bronchospasm"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 25
+        },
+        {
+          "arm_id": "control",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 22
+        }
+      ],
+      "period": "0-365 days",
+      "management": "Not applicable",
+      "provenance": {
+        "pages": [
+          1382
+        ],
+        "tables": [],
+        "quote": "No bronchospasms or any other adverse effects from the nebulized therapy occurred in either group."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "RoB 2",
+    "overall_judgment": "some concerns",
+    "domains": [
+      {
+        "name": "Randomization process",
+        "judgment": "low",
+        "support_for_judgment": "Randomized, double-blind; identical unmarked vials used for allocation concealment."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "low",
+        "support_for_judgment": "Blinding of participants and clinicians; protocolized nebulized dosing up to 5 days."
+      },
+      {
+        "name": "Missing outcome data",
+        "judgment": "low",
+        "support_for_judgment": "All 47 randomized patients reported in analyses; no dropouts mentioned."
+      },
+      {
+        "name": "Measurement of the outcome",
+        "judgment": "low",
+        "support_for_judgment": "Objective outcomes (resolution of hemoptysis, procedures, LOS); blinding maintained."
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "some concerns",
+        "support_for_judgment": "Trial stopped early after internal analysis due to perceived superiority; may inflate effect estimates."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "hemoptysis",
+      "tranexamic acid",
+      "nebulized",
+      "inhaled",
+      "randomized controlled trial",
+      "bronchial artery embolization",
+      "bronchoscopy"
+    ],
+    "summary_tldr": "In adults with nonmassive hemoptysis, nebulized tranexamic acid improved 5-day bleeding resolution (24/25 vs 11/22), reduced interventional procedures (0/25 vs 4/22), and shortened hospital stay.",
+    "clinical_relevance": "First prospective double-blind RCT demonstrating efficacy and safety of nebulized tranexamic acid for nonmassive hemoptysis."
+  }
+}

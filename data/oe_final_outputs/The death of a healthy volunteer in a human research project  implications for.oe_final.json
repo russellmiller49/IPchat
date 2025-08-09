@@ -1,0 +1,224 @@
+{
+  "source": {
+    "document_id": "The death of a healthy volunteer in a human research project  implications for",
+    "ingest_date": "2025-08-08T16:18:41.244899+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.5694/j.1326-5377.1998.tb139026.x"
+  },
+  "document": {
+    "metadata": {
+      "title": "The death of a healthy volunteer in a human research project: implications for Australian clinical research",
+      "year": 1998,
+      "authors": [
+        "Richard O Day",
+        "Donald R C Chalmers",
+        "Kenneth M Williams",
+        "Terence J Campbell"
+      ],
+      "journal": "Medical Journal of Australia",
+      "doi": "10.5694/j.1326-5377.1998.tb139026.x",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "A healthy 19-year-old United States college student volunteer in a clinical research program underwent a bronchoscopy and died as a result of acute lignocaine toxicity. The protocol failed to specify an upper dose limit for lignocaine spray, although prior versions had done so. The emergency department lignocaine level was 12.9 mg/L about three hours post-procedure, with back-extrapolation suggesting a possible peak of about 36 mg/L; the administered dose was calculated at about 1200 mg. The article discusses protocol review, informed consent, monitoring, and ethics committee processes, and recommendations to reduce risks to research volunteers.",
+      "methods": "Narrative case description and policy/ethics analysis based on the New York State Department of Health investigation, review of protocol and consent documentation, and discussion of Institutional Ethics Committee (IEC) practices and recommendations.",
+      "results": "Key factual findings include: measured lignocaine 12.9 mg/L approximately three hours after bronchoscopy (maximum safe concentration <6 mg/L), estimated peak about 36 mg/L, and an estimated administered dose of about 1200 mg. The subject was discharged after 60 minutes despite chest discomfort, later developed seizure, was admitted in cardiac arrest, and died two days later. Protocol lacked an upper dose limit (original 1981 protocol specified 300 mg), used a higher lignocaine concentration than specified, and procedural deviations occurred (28 brushings vs about 10). The consent form did not mention death and payment practices may have influenced risk tolerance. Recommendations emphasized periodic full re-review of long-running protocols, better education on risk and adverse event reporting, and mandatory IEC approval of amendments."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Healthy adult volunteer undergoing research bronchoscopy at a US academic medical center",
+      "inclusion_criteria": [
+        "Healthy volunteer status"
+      ],
+      "exclusion_criteria": []
+    },
+    "intervention": {
+      "text": "Topical lignocaine (lidocaine) anesthesia during bronchoscopy",
+      "details": "Lignocaine sprayed on upper and lower respiratory tract to facilitate bronchoscope passage; protocol lacked an upper dose limit; estimated total dose about 1200 mg; emergency department level 12.9 mg/L at ~3 hours post-procedure; back-extrapolated peak ~36 mg/L; subject observed 60 minutes post-procedure and discharged despite chest discomfort."
+    },
+    "comparison": {
+      "text": "None",
+      "details": "Single-case report; no control group."
+    },
+    "outcomes": [
+      {
+        "name": "Death due to acute lignocaine toxicity following research bronchoscopy",
+        "type": "primary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "case_report",
+    "allocation": "none",
+    "blinding": "none",
+    "sites_count": 1,
+    "countries": [
+      "US"
+    ],
+    "sample_size": {
+      "planned": 1,
+      "enrolled": 1,
+      "analyzed": 1
+    },
+    "analysis_populations": [
+      {
+        "name": "case",
+        "description": "Single patient described in the case report",
+        "n": 1
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "case",
+      "name": "Single case: healthy volunteer receiving topical lignocaine during bronchoscopy",
+      "n_randomized": 0,
+      "n_analyzed": 1,
+      "n_completed": 0
+    }
+  ],
+  "outcomes_normalized": [],
+  "safety_normalized": [
+    {
+      "event_name": "Lidocaine toxicity",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Lidocaine toxicity"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "life-threatening",
+        "hospitalization",
+        "death",
+        "medically important"
+      ],
+      "groups": [
+        {
+          "arm_id": "case",
+          "events": 1,
+          "patients": 1,
+          "percentage": 100,
+          "total": 1
+        }
+      ],
+      "period": "0-2 days",
+      "management": "",
+      "provenance": {
+        "pages": [
+          449
+        ],
+        "tables": [],
+        "quote": "The proximate cause of death was considered to be a toxic lignocaine blood concentration... The lignocaine level in the emergency department blood sample was 12.9 mg/L... a back-extrapolation suggests a possible maximal lignocaine blood level of about 36 mg/L. It was calculated she had been administered about 1200 mg."
+      }
+    },
+    {
+      "event_name": "Seizure",
+      "meddra": {
+        "soc": "Nervous system disorders",
+        "pt": "Seizure"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "life-threatening",
+        "hospitalization"
+      ],
+      "groups": [
+        {
+          "arm_id": "case",
+          "events": 1,
+          "patients": 1,
+          "percentage": 100,
+          "total": 1
+        }
+      ],
+      "period": "approximately 1-2 hours post-discharge",
+      "management": "",
+      "provenance": {
+        "pages": [
+          449
+        ],
+        "tables": [],
+        "quote": "when he returned an hour later she was having an epileptic fit."
+      }
+    },
+    {
+      "event_name": "Cardiac arrest",
+      "meddra": {
+        "soc": "Cardiac disorders",
+        "pt": "Cardiac arrest"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "life-threatening",
+        "hospitalization"
+      ],
+      "groups": [
+        {
+          "arm_id": "case",
+          "events": 1,
+          "patients": 1,
+          "percentage": 100,
+          "total": 1
+        }
+      ],
+      "period": "same day as seizure",
+      "management": "",
+      "provenance": {
+        "pages": [
+          449
+        ],
+        "tables": [],
+        "quote": "On admission to the emergency department, she was in cardiac arrest"
+      }
+    },
+    {
+      "event_name": "Death",
+      "meddra": {
+        "soc": "General disorders and administration site conditions",
+        "pt": "Death"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "death"
+      ],
+      "groups": [
+        {
+          "arm_id": "case",
+          "events": 1,
+          "patients": 1,
+          "percentage": 100,
+          "total": 1
+        }
+      ],
+      "period": "2 days after bronchoscopy",
+      "management": "",
+      "provenance": {
+        "pages": [
+          449
+        ],
+        "tables": [],
+        "quote": "and she died two days later."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "Not applicable",
+    "overall_judgment": "not_applicable",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "lignocaine",
+      "lidocaine toxicity",
+      "bronchoscopy",
+      "ethics committee",
+      "informed consent",
+      "research volunteer death"
+    ],
+    "summary_tldr": "Single-case report of fatal acute lignocaine toxicity after research bronchoscopy; protocol lacked an upper dose limit and deviations occurred, highlighting IEC monitoring and consent issues.",
+    "clinical_relevance": "Emphasizes the need for stringent protocol dose limits, adverse event risk communication, and IEC oversight to protect healthy research volunteers."
+  }
+}

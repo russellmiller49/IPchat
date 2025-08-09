@@ -1,0 +1,469 @@
+{
+  "source": {
+    "document_id": "Metallic Endobronchial Stents A Contemporary R",
+    "ingest_date": "2025-08-08T14:20:27.253108+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1016/j.chest.2018.12.001"
+  },
+  "document": {
+    "metadata": {
+      "title": "Metallic Endobronchial Stents: A Contemporary Resurrection",
+      "year": 2019,
+      "authors": [
+        "Sameer K. Avasarala",
+        "Lutz Freitag",
+        "Atul C. Mehta"
+      ],
+      "journal": "Chest",
+      "doi": "10.1016/j.chest.2018.12.001",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Airway stenting has been practiced for several decades. It is one of the most common procedures performed by interventional pulmonologists. Typically, these stents are implanted to maintain the tubular patency of the tracheobronchial tree. They are only considered as a temporizing measure, or when a surgical option cannot be pursued. Through the past several decades, a number of metallic airway stents have been introduced into the market. First generation stents were comparatively simplistic and crafted from stainless steel. The latest generation of metallic airway stents are hybrid in nature and constructed with complex alloys. As airway stenting become more widely practiced, concerns arose regarding their safety. However, with improved understanding of stent-airway interactions, advancements in biomedical engineering, and a larger emphasis on post procedural care, the use of metallic endobronchial stents has been resurrected. We present the history, technological advancement, and contemporary indications of metallic airway stents.",
+      "methods": "Narrative review of the literature and device evolution; no predefined systematic search or randomized comparisons are reported. The article summarizes historical stent designs, biophysical considerations, complications, and contemporary devices with illustrative case series.",
+      "results": "Early generation metallic airway stents (Gianturco Z-stent, Wallstent) were associated with substantial late complications (migration, granulation, secretions retention), including one reported fatality in an early series of 55 patients. Second-generation devices (Palmaz, Strecker, AERO, Ultraflex, Dynamic Y) and third-generation nitinol-based hybrid stents (Bonastent, Silmet, Hanarostent, Carina-Y) showed improved deliverability and safety profiles in small series, though migration, mucus retention, and tissue overgrowth remain concerns. In a 12-patient Palmaz series, technical success was 100% with 10 patients improving clinically and 5 deaths reported (unrelated to the stent). In a 3-patient AERO series (6 stents), 5/6 stents migrated and all 6/6 stents developed thick mucus buildup; strictures recurred in all 3/3 patients. For the Dynamic Y stent, among 135 patients followed 3 months, 2 deaths due to hemoptysis and 4 migrations were reported. For Silmet, in 52 patients, technical success occurred in 51/52 and radiographic improvement in 25/52; tumor overgrowth and migration were reported as percentages without exact counts."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Patients with central airway obstruction, tracheobronchomalacia, tracheobronchoesophageal fistulas, or other benign/malignant airway pathologies requiring stent placement.",
+      "inclusion_criteria": [],
+      "exclusion_criteria": []
+    },
+    "intervention": {
+      "text": "Metallic endobronchial stents (various generations and models)",
+      "details": "Devices include Gianturco Z-stent, Wallstent, Palmaz, Strecker, AERO, Ultraflex, Dynamic Y, Bonastent, Silmet, Hanarostent, and Carina-Y, with differing frameworks (stainless steel vs nitinol), coverings (uncovered, partially covered, fully covered), and deployment methods (self-expanding vs balloon-expandable)."
+    },
+    "comparison": {
+      "text": "",
+      "details": ""
+    },
+    "outcomes": [
+      {
+        "name": "Technical success of stent deployment",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Clinical or radiographic improvement",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Stent-related complications (migration, mucus retention, hemoptysis, death)",
+        "type": "safety",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Narrative review",
+    "allocation": "nonrandomized",
+    "blinding": "none",
+    "sites_count": 0,
+    "countries": [],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": []
+  },
+  "arms": [
+    {
+      "arm_id": "cohort_palmaz",
+      "name": "Palmaz airway stent cohort",
+      "n_randomized": 0,
+      "n_analyzed": 12,
+      "n_completed": 12
+    },
+    {
+      "arm_id": "cohort_dynamic_y",
+      "name": "Dynamic Y stent cohort",
+      "n_randomized": 0,
+      "n_analyzed": 135,
+      "n_completed": 135
+    },
+    {
+      "arm_id": "cohort_aero_transplant",
+      "name": "AERO stent (lung transplant recipients)",
+      "n_randomized": 0,
+      "n_analyzed": 3,
+      "n_completed": 3
+    },
+    {
+      "arm_id": "cohort_silmet",
+      "name": "Silmet stent cohort",
+      "n_randomized": 0,
+      "n_analyzed": 52,
+      "n_completed": 52
+    },
+    {
+      "arm_id": "cohort_mixed_early",
+      "name": "Early metallic stents (Gianturco Z-stent and Wallstent) mixed cohort",
+      "n_randomized": 0,
+      "n_analyzed": 55,
+      "n_completed": 55
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "technical_success_palmaz",
+      "name": "Technical success of stent deployment (Palmaz)",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Immediate post-implant",
+      "groups": [
+        {
+          "arm_id": "cohort_palmaz",
+          "raw": {
+            "events": 12,
+            "total": 12
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "",
+        "measure": "proportion",
+        "est": 1,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "single-arm proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "treated",
+        "missing_handling": "complete-case"
+      },
+      "provenance": {
+        "pages": [
+          1249
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "The stents were implanted in the airways of 12 patients... Technical success was achieved in all patients."
+      }
+    },
+    {
+      "concept_id": "clinical_improvement_palmaz",
+      "name": "Clinical improvement (Palmaz)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0M",
+      "timepoint_label": "Post-procedure follow-up (unspecified)",
+      "groups": [
+        {
+          "arm_id": "cohort_palmaz",
+          "raw": {
+            "events": 10,
+            "total": 12
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "",
+        "measure": "proportion",
+        "est": 0.833,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "single-arm proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "treated",
+        "missing_handling": "complete-case"
+      },
+      "provenance": {
+        "pages": [
+          1249
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "Ten patients experienced clinical improvement; however, five patients died."
+      }
+    },
+    {
+      "concept_id": "technical_success_silmet",
+      "name": "Technical success of stent deployment (Silmet)",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Immediate post-implant",
+      "groups": [
+        {
+          "arm_id": "cohort_silmet",
+          "raw": {
+            "events": 51,
+            "total": 52
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "",
+        "measure": "proportion",
+        "est": 0.981,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "single-arm proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "treated",
+        "missing_handling": "complete-case"
+      },
+      "provenance": {
+        "pages": [
+          1251
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "The largest case series describes the implantation of 52 Silmet stents among 52 patients. Technical success was achieved in 51 patients (98%)."
+      }
+    },
+    {
+      "concept_id": "radiographic_improvement_silmet",
+      "name": "Radiographic improvement (Silmet)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0M",
+      "timepoint_label": "Post-procedure follow-up (unspecified)",
+      "groups": [
+        {
+          "arm_id": "cohort_silmet",
+          "raw": {
+            "events": 25,
+            "total": 52
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "",
+        "measure": "proportion",
+        "est": 0.481,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "single-arm proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "treated",
+        "missing_handling": "complete-case"
+      },
+      "provenance": {
+        "pages": [
+          1251
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "Radiographic improvement was noted in 25 patients (48%)."
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Hemoptysis",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Haemoptysis"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "death"
+      ],
+      "groups": [
+        {
+          "arm_id": "cohort_dynamic_y",
+          "events": 2,
+          "patients": 2,
+          "percentage": 1.5,
+          "total": 135
+        }
+      ],
+      "period": "3 months follow-up",
+      "management": "",
+      "provenance": {
+        "pages": [
+          1250
+        ],
+        "tables": [],
+        "quote": "A follow-up period of 3 months demonstrated a low incidence of stent-associated complications: two patients died of hemoptysis secondary to erosion into vascular structure, and cephalad migration occurred in four patients."
+      }
+    },
+    {
+      "event_name": "Device migration",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Device migration"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "cohort_dynamic_y",
+          "events": 4,
+          "patients": 4,
+          "percentage": 3,
+          "total": 135
+        }
+      ],
+      "period": "3 months follow-up",
+      "management": "",
+      "provenance": {
+        "pages": [
+          1250
+        ],
+        "tables": [],
+        "quote": "Cephalad migration occurred in four patients."
+      }
+    },
+    {
+      "event_name": "Device migration",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Device migration"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "cohort_aero_transplant",
+          "events": 5,
+          "patients": 3,
+          "percentage": 83.3,
+          "total": 6
+        }
+      ],
+      "period": "Early post-implant period (unspecified)",
+      "management": "",
+      "provenance": {
+        "pages": [
+          1249
+        ],
+        "tables": [],
+        "quote": "In an early case series of six AERO stents placed in three lung transplant recipients, five stents migrated (83%), six stents (100%) caused thick mucus build-up, and strictures recurred in all patients (100%)."
+      }
+    },
+    {
+      "event_name": "Respiratory secretion retention",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Respiratory secretion retention"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "cohort_aero_transplant",
+          "events": 6,
+          "patients": 3,
+          "percentage": 100,
+          "total": 6
+        }
+      ],
+      "period": "Early post-implant period (unspecified)",
+      "management": "",
+      "provenance": {
+        "pages": [
+          1249
+        ],
+        "tables": [],
+        "quote": "Six stents (100%) caused thick mucus build-up."
+      }
+    },
+    {
+      "event_name": "Airway stenosis",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Airway stenosis"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "cohort_aero_transplant",
+          "events": 3,
+          "patients": 3,
+          "percentage": 100,
+          "total": 3
+        }
+      ],
+      "period": "Follow-up (unspecified)",
+      "management": "",
+      "provenance": {
+        "pages": [
+          1249
+        ],
+        "tables": [],
+        "quote": "Strictures recurred in all patients (100%)."
+      }
+    },
+    {
+      "event_name": "Death",
+      "meddra": {
+        "soc": "General disorders and administration site conditions",
+        "pt": "Death"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "death"
+      ],
+      "groups": [
+        {
+          "arm_id": "cohort_mixed_early",
+          "events": 1,
+          "patients": 1,
+          "percentage": 1.8,
+          "total": 55
+        }
+      ],
+      "period": "Study period (unspecified)",
+      "management": "",
+      "provenance": {
+        "pages": [
+          1249
+        ],
+        "tables": [],
+        "quote": "In the original report, the Gianturco Z-stent and the Wallstent were deployed in 55 patients... one fatality was reported."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "None",
+    "overall_judgment": "unclear",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "airway stents",
+      "metallic stents",
+      "bronchoscopy",
+      "tracheal stenosis",
+      "tracheobronchomalacia",
+      "tracheobronchoesophageal fistula"
+    ],
+    "summary_tldr": "Narrative review: newer nitinol hybrid metallic airway stents and improved peri-procedural care have reduced but not eliminated complications such as migration, mucus retention, and hemoptysis.",
+    "clinical_relevance": "Provides device-specific historical context, complication profiles, and practical considerations for selecting and managing metallic endobronchial stents."
+  }
+}

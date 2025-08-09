@@ -1,0 +1,345 @@
+{
+  "source": {
+    "document_id": "Steinfort-2021-Bronchoscopic Thermal Vapour Ab",
+    "ingest_date": "2025-08-08T16:00:18.920149+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1159/000514109"
+  },
+  "document": {
+    "metadata": {
+      "title": "Bronchoscopic Thermal Vapour Ablation for Localized Cancer Lesions of the Lung: A Clinical Feasibility Treat-and-Resect Study",
+      "year": 2021,
+      "authors": [
+        "Daniel P. Steinfort",
+        "Michael Christie",
+        "Phillip Antippa",
+        "Kanishka Rangamuwa",
+        "Robert Padera",
+        "Michael Rolf Müller",
+        "Louis B. Irving",
+        "Arschang Valipour"
+      ],
+      "journal": "Respiration",
+      "doi": "10.1159/000514109",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Background: Bronchoscopic thermal vapour ablation (BTVA) is an established and approved modality for minimally invasive lung volume reduction in severe emphysema. Preclinical data suggest potential for BTVA in minimally invasive ablation of lung cancer lesions. Objectives: The objective of this study is to establish the safety, feasibility, and ablative efficacy of BTVA for minimally invasive ablation of lung cancers. Methods: Single arm treat-and-resect clinical feasibility study of patients with biopsy-confirmed lung cancer. A novel BTVA for lung cancer (BTVA-C) system for minimally invasive treatment of peripheral pulmonary tumours was used to deliver 330 Cal thermal vapour energy via bronchoscopy to target lesion. Patients underwent planned lobectomy to complete oncologic care. Pre-surgical CT chest and post-resection histologic analysis were performed to evaluate ablative efficacy. Results: Six patients underwent BTVA-C, and 5 progressed to planned lobectomy. Median procedure duration was 12 min. No major procedure-related complications occurred. All 5 resected lesions were part-solid lung adenocarcinomas with median solid component size 1.32±0.36 cm. Large uniform ablation zones were seen in 4 patients where thermal dose exceeded 3 Cal/mL, with complete/near-complete necrosis of target lesions seen in 2 patients. Tumour positioned within ablation zones demonstrated necrosis in >99% of cross-sectional area examined. Conclusion: BTVA of lung tumours is feasible and well tolerated, with preliminary evidence suggesting high potential for effective ablation of tumours. Thermal injury is well demarcated, and uniform tissue necrosis is observed within ablation zones receiving sufficient thermal dose per volume of lung. Treatment of smaller volumes and ensuring adequate thermal dose may be important for ablative efficacy.",
+      "methods": "Prospective, single-arm, treat-and-resect feasibility study at a single tertiary center (Royal Melbourne Hospital, Victoria, Australia) between December 2018 and August 2019. Eligibility included biopsy-confirmed malignancy suitable for lobectomy and lesions ≤20 mm in the outer third of the lung. Pre-procedure planning used quantitative CT analysis (Apollo software) and virtual bronchoscopy navigation (Archimedes Planner). Under general anesthesia, bronchoscopy-guided delivery of 330 Cal thermal vapour over 8 s per treatment was performed using a BTVA-C catheter with radial EBUS confirmation of on-target positioning when possible. One treatment was delivered for on-target procedures; two were delivered if on-target confirmation was not possible. Prophylactic antibiotics (amoxicillin) were used. Post-ablation CT was performed 1 day prior to lobectomy. Thoracoscopic lobectomy with nodal dissection was performed; patients were followed to 30 days post-resection. Blinded pathology quantified parenchymal and tumor necrosis.",
+      "results": "Six patients underwent BTVA-C; five proceeded to planned lobectomy. One patient (prior chemoradiotherapy, radiation fibrosis) had pleuritic chest pain requiring IV antibiotics and an extra hospital day; planned anatomic resection was abandoned due to intolerance of single-lung ventilation. Among the five resected: all had part-solid lung adenocarcinomas with median solid component 1.32±0.36 cm. Median procedure duration was 12 min. No major procedure-related complications occurred. Table 2 details per-patient parameters: energy 330 Cal per treatment; total energy 243-660 Cal; treatment volumes 28-129 mL; resulting Cal/mL ranged 2.57-10. Large, uniform ablation zones were seen in cases with >3 Cal/mL. Histology: patient 3 had complete tumor necrosis (100%); patient 2 had near-complete necrosis (~98% combining necrosis plus expected necrosis) with 1.8% viable tumor outside the necrotic envelope; patient 4 had ~86% necrosis (14% viable); patient 1 had patchy sub-ablative injury with ~31% necrosis (69% viable); patient 5 details not fully shown in provided text but received 1 on-target treatment with 5.32 Cal/mL (noting back-leak)."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with biopsy-confirmed localized lung cancer suitable for lobectomy; peripheral lesions ≤20 mm located in the outer third of the lung.",
+      "inclusion_criteria": [
+        "Age adult (not explicitly specified)",
+        "Microscopic proof of malignancy",
+        "Suitable for resection via lobectomy",
+        "Lesion diameter ≤20 mm",
+        "Lesion in outer third of lung"
+      ],
+      "exclusion_criteria": [
+        "Details in online supplementary file (not provided in extract)"
+      ]
+    },
+    "intervention": {
+      "text": "Bronchoscopic Thermal Vapour Ablation for lung cancer (BTVA-C)",
+      "details": "Bronchoscopic delivery of 330 Cal thermal water vapour over 8 s per treatment via BTVA-C catheter; radial EBUS confirmation when feasible; one on-target treatment or two treatments if on-target not confirmed; prophylactic antibiotics administered."
+    },
+    "comparison": {
+      "text": "No control (single-arm treat-and-resect study)",
+      "details": "All patients received BTVA-C followed by planned lobectomy for definitive oncologic management."
+    },
+    "outcomes": [
+      {
+        "name": "Feasibility and safety of BTVA-C; histologic ablation efficacy at resection",
+        "type": "primary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Single-arm interventional feasibility",
+    "allocation": "nonrandomized",
+    "blinding": "open-label",
+    "sites_count": 1,
+    "countries": [
+      "Australia"
+    ],
+    "sample_size": {
+      "planned": 6,
+      "enrolled": 6,
+      "analyzed": 5
+    },
+    "analysis_populations": [
+      {
+        "name": "Safety set",
+        "description": "All treated patients",
+        "n": 6
+      },
+      {
+        "name": "Resection efficacy set",
+        "description": "Patients who underwent lobectomy and had histology",
+        "n": 5
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "BTVA-C (Bronchoscopic Thermal Vapour Ablation for lung cancer)",
+      "n_randomized": 0,
+      "n_analyzed": 6,
+      "n_completed": 5
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "complete_near_complete_necrosis_at_resection",
+      "name": "Complete or near-complete tumour necrosis at resection",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P5D",
+      "timepoint_label": "Day 4-5 post-BTVA-C at lobectomy",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 2,
+            "total": 5
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "",
+        "measure": "single_arm_proportion",
+        "est": 0.4,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Resection efficacy set",
+        "missing_handling": "Not applicable"
+      },
+      "provenance": {
+        "pages": [
+          432
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "Complete/near-complete necrosis of target lesions seen in 2 patients."
+      }
+    },
+    {
+      "concept_id": "major_procedure_related_complications_30d",
+      "name": "Major procedure-related complications within 30 days",
+      "type": "binary",
+      "outcome_type": "safety",
+      "timepoint_iso8601": "P30D",
+      "timepoint_label": "30 days",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 0,
+            "total": 6
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "",
+        "measure": "single_arm_proportion",
+        "est": 0,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Safety set",
+        "missing_handling": "Not applicable"
+      },
+      "provenance": {
+        "pages": [
+          432
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "No major procedure-related complications occurred."
+      }
+    },
+    {
+      "concept_id": "any_procedure_related_complication_pre_resection",
+      "name": "Any procedure-related complication prior to resection",
+      "type": "binary",
+      "outcome_type": "safety",
+      "timepoint_iso8601": "P5D",
+      "timepoint_label": "From BTVA-C to resection (4-5 days)",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 2,
+            "total": 6
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "",
+        "measure": "single_arm_proportion",
+        "est": 0.333,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Safety set",
+        "missing_handling": "Not applicable"
+      },
+      "provenance": {
+        "pages": [
+          435,
+          436
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Procedural complications: Small right pleural effusion; Pleuritic chest pain requiring oral opioids (patient 2). One additional treated patient (not resected) had pleuritic chest pain requiring IV antibiotics and an extra hospital day."
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Pleuritic pain",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Pleuritic pain"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "hospitalization"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 1,
+          "patients": 1,
+          "percentage": 16.7,
+          "total": 6
+        }
+      ],
+      "period": "0-5 days post-BTVA-C (pre-resection)",
+      "management": "Managed with intravenous antibiotics; resulted in an extra hospital day",
+      "provenance": {
+        "pages": [
+          434
+        ],
+        "tables": [],
+        "quote": "His BTVA-C was complicated by pleuritic chest pain, managed electively with intravenous antibiotics, resulting in an extra day admission in hospital."
+      }
+    },
+    {
+      "event_name": "Pleuritic pain",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Pleuritic pain"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 1,
+          "patients": 1,
+          "percentage": 16.7,
+          "total": 6
+        }
+      ],
+      "period": "0-1 day post-BTVA-C (pre-resection)",
+      "management": "Oral opioids; resolved by time of resection",
+      "provenance": {
+        "pages": [
+          434,
+          436
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "Patient 2 reported moderate pleuritic chest pain requiring oral opioids on day 1 post-BTVA-C. This had resolved by the time of resection."
+      }
+    },
+    {
+      "event_name": "Pleural effusion",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Pleural effusion"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 1,
+          "patients": 1,
+          "percentage": 16.7,
+          "total": 6
+        }
+      ],
+      "period": "Pre-resection interval",
+      "management": "Small effusion; no specific intervention reported",
+      "provenance": {
+        "pages": [
+          436
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "Small right pleural effusion."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "RoB 2",
+    "overall_judgment": "not applicable",
+    "domains": [
+      {
+        "name": "Randomization process",
+        "judgment": "not applicable",
+        "support_for_judgment": "Single-arm, nonrandomized feasibility study."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "bronchoscopic thermal vapour ablation",
+      "BTVA",
+      "lung cancer",
+      "treat-and-resect",
+      "bronchoscopy",
+      "endobronchial ultrasound"
+    ],
+    "summary_tldr": "In a single-arm treat-and-resect feasibility study (n=6; 5 resected), BTVA-C had no major procedure-related complications and achieved complete/near-complete tumor necrosis in 2/5 at 4-5 days.",
+    "clinical_relevance": "Demonstrates feasibility and preliminary ablative efficacy of bronchoscopic thermal vapour ablation for small peripheral lung cancers."
+  }
+}

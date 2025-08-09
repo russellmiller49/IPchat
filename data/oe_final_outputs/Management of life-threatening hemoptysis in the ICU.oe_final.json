@@ -1,0 +1,85 @@
+{
+  "source": {
+    "document_id": "Management of life-threatening hemoptysis in the ICU",
+    "ingest_date": "2025-08-08T14:15:13.287811+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.21037/jtd-19-3991"
+  },
+  "document": {
+    "metadata": {
+      "title": "Management of life-threatening hemoptysis in the ICU",
+      "year": 2021,
+      "authors": [
+        "Ananth V. Charya",
+        "Van K. Holden",
+        "Edward M. Pickering"
+      ],
+      "journal": "Journal of Thoracic Disease",
+      "doi": "10.21037/jtd-19-3991",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Life-threatening hemoptysis is commonly encountered in the ICU and its management can be challenging even for experienced clinicians. Depending on the etiology and severity, one can tailor the treatment modality and therapeutic intervention(s). The grading of severity of hemoptysis varies greatly in the literature; however, unlike hemorrhage in other scenarios, small amounts of blood can significantly impair oxygenation and ventilation leading to cardiovascular collapse. Importantly, the initial evaluation and management should focus on airway and hemodynamic stabilization along with maintenance of oxygenation and ventilation. In this review, we discuss commonly encountered etiologies, vascular anatomy, diagnostic evaluation, and therapeutic interventions. We examine the evolving trends in etiologies of life-threating hemoptysis over the years. The role of flexible and rigid bronchoscopy as both a diagnostic and therapeutic modality is explored, as well as the use and indications of several bronchoscopic techniques, such as topical hemostatic agents, endobronchial tamponade, and tranexamic acid (TXA). In addition, we assess the use of multi-row detector computed tomography as the initial rapid diagnostic method of choice and its use in planning for definitive treatment. The efficacy and long-term results of bronchial artery embolization (BAE) are evaluated, as well as indications for surgical intervention. Furthermore, the importance of a multidisciplinary approach is emphasized. The necessary interplay between intensivists, consultative services, and radiologists is described in detail and an algorithmic management strategy incorporating the above is outlined. Given the complexity in management of life-threatening hemoptysis, this paper aims to summarize the available diagnostic and therapeutic methods and provide a standardized approach for the management of patients with this often difficult to treat condition.",
+      "methods": "Narrative review of definitions, epidemiology, pathophysiology, diagnostic strategies, and therapeutic interventions for life-threatening hemoptysis in the ICU; no explicit systematic search or quantitative synthesis reported.",
+      "results": "Key points summarized: mortality for massive/life-threatening hemoptysis reported up to 50-100%; bronchial arteries are the bleeding source in approximately 90% of cases; initial management prioritizes airway and hemodynamic stabilization with early bronchoscopy and consideration of lung isolation; CT angiography aids localization and planning; therapeutic options include flexible/rigid bronchoscopy with topical agents, endobronchial tamponade, tranexamic acid, bronchial artery embolization, and surgery; etiologies vary by region and over time, with malignancy prominent in developed countries and tuberculosis in developing regions."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults presenting to the ICU with life-threatening hemoptysis",
+      "inclusion_criteria": [],
+      "exclusion_criteria": []
+    },
+    "intervention": {
+      "text": "Multidisciplinary management including bronchoscopy, topical hemostatic agents, endobronchial tamponade, tranexamic acid, CT angiography, and bronchial artery embolization",
+      "details": "Airway and hemodynamic stabilization followed by diagnostic localization and targeted therapy; selection based on etiology, bleeding severity, and clinical context."
+    },
+    "comparison": {
+      "text": "Not applicable (narrative review)",
+      "details": ""
+    },
+    "outcomes": [
+      {
+        "name": "Successful control of bleeding and patient survival",
+        "type": "primary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Narrative review",
+    "allocation": "none",
+    "blinding": "none",
+    "sites_count": 0,
+    "countries": [],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": []
+  },
+  "arms": [],
+  "outcomes_normalized": [],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "Not applicable",
+    "overall_judgment": "na",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "hemoptysis",
+      "massive hemoptysis",
+      "life-threatening hemoptysis",
+      "bronchoscopy",
+      "bronchial artery embolization",
+      "ICU",
+      "tranexamic acid",
+      "computed tomography angiography"
+    ],
+    "summary_tldr": "Narrative review outlining a multidisciplinary, stepwise approach to life-threatening hemoptysis in the ICU, emphasizing early stabilization, localization (CT/bronchoscopy), and definitive therapy (especially bronchial artery embolization).",
+    "clinical_relevance": "Provides a practical, algorithmic framework for ICU teams to rapidly stabilize and treat life-threatening hemoptysis, summarizing diagnostic priorities and therapeutic options."
+  }
+}

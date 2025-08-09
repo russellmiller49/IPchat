@@ -1,0 +1,859 @@
+{
+  "source": {
+    "document_id": "Arnold-2018-Investigating unilateral pleural e",
+    "ingest_date": "2025-08-08T09:50:34.798476+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1183/13993003.01254-2018"
+  },
+  "document": {
+    "metadata": {
+      "title": "Investigating unilateral pleural effusions: the role of cytology",
+      "year": 2018,
+      "authors": [
+        "David T. Arnold",
+        "Duneesha De Fonseka",
+        "Siobhan Perry",
+        "Anna Morley",
+        "John E. Harvey",
+        "Andrew Medford",
+        "Mary Brett",
+        "Nick A. Maskell"
+      ],
+      "journal": "European Respiratory Journal",
+      "doi": "10.1183/13993003.01254-2018",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "The vast majority of undiagnosed unilateral pleural effusions have fluid sent for cytological analysis. Despite widespread use, there is uncertainty about its sensitivity to diagnose malignant pleural effusions (MPEs). Our aim was to ascertain the utility of cytology using a large prospective cohort. Consecutive patients presenting with an undiagnosed unilateral pleural effusion were recruited to this UK-based study. All had pleural fluid sent for cytological analysis. Cytological sensitivity was based on the final diagnosis at 12 months, confirmed by two consultants. Over 8 years, 921 patients were recruited, of which 515 had a MPE. Overall sensitivity of fluid cytology to diagnose malignancy was 46% (95% CI 42-58%). There was variation in sensitivity depending on cancer primary, with mesothelioma (6%) and haematological malignancies (40%) being significantly lower than adenocarcinomas (79%). MPEs secondary to ovarian cancer had high pick-up rates (95%). In asbestos-exposed males with exudative effusions, the risk of MPE was 60%, but cytological sensitivity was 11%. This is the largest prospective study of pleural fluid cytology and informs discussions with patients about the likely requirement for investigations following thoracentesis. In patients presenting with a clinical suspicion of mesothelioma, cytological sensitivity is low, so more definitive investigations could be performed sooner.",
+      "methods": "Consecutive patients referred to a single-centre pleural service with an undiagnosed unilateral pleural effusion were recruited prospectively (Dec 2008-Dec 2016). All underwent diagnostic thoracentesis with routine pleural fluid analysis (protein, glucose, LDH, pH, microbiology, cytology). As per guidelines, 40 mL of pleural fluid was sent for cytological analysis where possible; slides and a formalin-fixed paraffin-embedded cell block were prepared and reviewed by a consultant cytopathologist. Immunohistochemistry panels (e.g., EMA, BerEP4/AUA1, CK5/6, calretinin, CK7, CK20, TTF1, ER/PR, Ca125) and flow cytometry for lymphoma were used when indicated. Patients were followed to 12 months or death. Final diagnoses were assigned by two independent consultant respiratory physicians using predefined criteria (malignancy by cytology/biopsy; histology with pleural metastasis on CT; progressive radiologic changes per Leung’s criteria; or autopsy). Light’s criteria distinguished exudates vs transudates. Sensitivity estimates with 95% CIs were calculated; z-tests compared sensitivities between groups (p<0.05 significance).",
+      "results": "921 patients were enrolled; median pleural fluid volume sent for cytology was 40 mL (IQR 35-40). Mean age 70.2±13.8 years; 601 male, 320 female. At 12 months, 515/921 (56%) had malignant effusions. Overall pleural fluid cytology was diagnostic in 239/515 malignant effusions (46.4%, 95% CI 42.0-58.2). Sensitivity varied by cancer: breast 41/58 (70.7%), gastrointestinal 15/22 (68.2%), haematological 12/30 (40.0%), lung (all) 93/166 (56.0%) with lung adenocarcinoma 82/100 (82.0%), squamous 4/28 (14.3%), small cell 7/16 (43.8%), lung other/unknown 0/22 (0%); mesothelioma 9/148 (6.1%); sarcoma/melanoma 0/8 (0%); ovarian 36/38 (94.7%); urological 2/17 (11.8%); unknown malignancy 7/21 (33.3%). Of 276 nondiagnostic malignant effusions, 248 (90%) had definitive histocytological confirmation (65% pleural biopsy, 24% nonpleural biopsy with pleural metastasis on imaging, 1% post-mortem). Repeat cytology was obtained in 106 nondiagnostic cases; 6/106 (5.6%) became diagnostic; a third sample (n=30) yielded 0/30. Sending >40 mL vs ≤40 mL showed no difference in sensitivity (48% vs 40%; p=0.65). Risk of malignancy was 21/118 (15%) in transudates and 495/803 (62%) in exudates. Among asbestos-exposed men without prior cancer, cytology sensitivity was 11% (95% CI 6-17%), significantly lower than other groups (p<0.01), with malignancy risk >60%. Median survival for all malignant effusions was 199 days (IQR 74-465); within lung adenocarcinoma, survival did not differ by cytology diagnostic status (114 vs 97 days; p=0.13)."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with undiagnosed unilateral pleural effusion referred to a single-centre pleural service in the UK.",
+      "inclusion_criteria": [
+        "Undiagnosed unilateral pleural effusion",
+        "Underwent diagnostic thoracentesis",
+        "Pleural fluid sent for cytology",
+        "Agreement to store demographic, blood, and pleural fluid results",
+        "Follow-up to 12 months or death"
+      ],
+      "exclusion_criteria": [
+        "Not explicitly stated"
+      ]
+    },
+    "intervention": {
+      "text": "Pleural fluid cytology",
+      "details": "Approximately 40 mL pleural fluid processed with slides and FFPE cell block; consultant cytopathologist review; immunohistochemistry and flow cytometry as indicated."
+    },
+    "comparison": {
+      "text": "Final 12-month diagnosis (reference standard)",
+      "details": "Composite reference including malignant cytology/biopsy, histology with pleural metastasis on CT, progressive radiological changes per Leung’s criteria, or autopsy."
+    },
+    "outcomes": [
+      {
+        "name": "Sensitivity of pleural fluid cytology to detect malignant pleural effusion overall and by primary cancer type",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Risk of malignancy by exudative vs transudative effusion",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Yield of repeat pleural fluid cytology after initial nondiagnostic sample",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "prospective cohort",
+    "allocation": "non-randomized",
+    "blinding": "none",
+    "sites_count": 1,
+    "countries": [
+      "UK"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 921,
+      "analyzed": 921
+    },
+    "analysis_populations": [
+      {
+        "name": "All effusions",
+        "description": "All enrolled patients with undiagnosed unilateral pleural effusion",
+        "n": 921
+      },
+      {
+        "name": "Malignant effusions",
+        "description": "Patients adjudicated as malignant pleural effusion at 12-month diagnosis",
+        "n": 515
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "mpe_overall",
+      "name": "All malignant effusions",
+      "n_randomized": 0,
+      "n_analyzed": 515,
+      "n_completed": 515
+    },
+    {
+      "arm_id": "breast_mpe",
+      "name": "Breast cancer malignant effusions",
+      "n_randomized": 0,
+      "n_analyzed": 58,
+      "n_completed": 58
+    },
+    {
+      "arm_id": "ent_mpe",
+      "name": "ENT cancer malignant effusions",
+      "n_randomized": 0,
+      "n_analyzed": 7,
+      "n_completed": 7
+    },
+    {
+      "arm_id": "gi_mpe",
+      "name": "Gastrointestinal cancer malignant effusions",
+      "n_randomized": 0,
+      "n_analyzed": 22,
+      "n_completed": 22
+    },
+    {
+      "arm_id": "haem_mpe",
+      "name": "Haematological malignancy effusions",
+      "n_randomized": 0,
+      "n_analyzed": 30,
+      "n_completed": 30
+    },
+    {
+      "arm_id": "lung_all_mpe",
+      "name": "Lung cancer malignant effusions (all)",
+      "n_randomized": 0,
+      "n_analyzed": 166,
+      "n_completed": 166
+    },
+    {
+      "arm_id": "lung_adeno_mpe",
+      "name": "Lung adenocarcinoma malignant effusions",
+      "n_randomized": 0,
+      "n_analyzed": 100,
+      "n_completed": 100
+    },
+    {
+      "arm_id": "lung_squamous_mpe",
+      "name": "Lung squamous carcinoma malignant effusions",
+      "n_randomized": 0,
+      "n_analyzed": 28,
+      "n_completed": 28
+    },
+    {
+      "arm_id": "lung_smallcell_mpe",
+      "name": "Lung small-cell carcinoma malignant effusions",
+      "n_randomized": 0,
+      "n_analyzed": 16,
+      "n_completed": 16
+    },
+    {
+      "arm_id": "lung_other_unknown_mpe",
+      "name": "Lung other/unknown subtype malignant effusions",
+      "n_randomized": 0,
+      "n_analyzed": 22,
+      "n_completed": 22
+    },
+    {
+      "arm_id": "mesothelioma_mpe",
+      "name": "Mesothelioma malignant effusions",
+      "n_randomized": 0,
+      "n_analyzed": 148,
+      "n_completed": 148
+    },
+    {
+      "arm_id": "sarcoma_melanoma_mpe",
+      "name": "Sarcoma/melanoma malignant effusions",
+      "n_randomized": 0,
+      "n_analyzed": 8,
+      "n_completed": 8
+    },
+    {
+      "arm_id": "ovarian_mpe",
+      "name": "Ovarian cancer malignant effusions",
+      "n_randomized": 0,
+      "n_analyzed": 38,
+      "n_completed": 38
+    },
+    {
+      "arm_id": "urological_mpe",
+      "name": "Urological cancer malignant effusions",
+      "n_randomized": 0,
+      "n_analyzed": 17,
+      "n_completed": 17
+    },
+    {
+      "arm_id": "unknown_primary_mpe",
+      "name": "Unknown primary malignant effusions",
+      "n_randomized": 0,
+      "n_analyzed": 21,
+      "n_completed": 21
+    },
+    {
+      "arm_id": "transudate_all",
+      "name": "Transudative effusions (all etiologies)",
+      "n_randomized": 0,
+      "n_analyzed": 118,
+      "n_completed": 118
+    },
+    {
+      "arm_id": "exudate_all",
+      "name": "Exudative effusions (all etiologies)",
+      "n_randomized": 0,
+      "n_analyzed": 803,
+      "n_completed": 803
+    },
+    {
+      "arm_id": "repeat_second_sample",
+      "name": "Repeat pleural fluid cytology (second sample) after initial nondiagnostic",
+      "n_randomized": 0,
+      "n_analyzed": 106,
+      "n_completed": 106
+    },
+    {
+      "arm_id": "repeat_third_sample",
+      "name": "Repeat pleural fluid cytology (third sample)",
+      "n_randomized": 0,
+      "n_analyzed": 30,
+      "n_completed": 30
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "cytology_positive_mpe_overall",
+      "name": "Cytology positive among malignant pleural effusions (overall)",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "baseline",
+      "groups": [
+        {
+          "arm_id": "mpe_overall",
+          "raw": {
+            "events": 239,
+            "total": 515
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Binomial proportion (sensitivity) with 95% CI",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Patients with malignant pleural effusion at 12-month diagnosis",
+        "missing_handling": "Complete case"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "All: Cohort 515; Pleural fluid cytology diagnostic 239; Sensitivity 46.4 (42.0-58.2)"
+      }
+    },
+    {
+      "concept_id": "cytology_positive_mpe_breast",
+      "name": "Cytology positive among breast cancer malignant pleural effusions",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "baseline",
+      "groups": [
+        {
+          "arm_id": "breast_mpe",
+          "raw": {
+            "events": 41,
+            "total": 58
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Binomial proportion (sensitivity) with 95% CI",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Breast cancer MPE",
+        "missing_handling": "Complete case"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Breast: 41/58, 70.7 (57.3-81.9)"
+      }
+    },
+    {
+      "concept_id": "cytology_positive_mpe_ent",
+      "name": "Cytology positive among ENT cancer malignant pleural effusions",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "baseline",
+      "groups": [
+        {
+          "arm_id": "ent_mpe",
+          "raw": {
+            "events": 1,
+            "total": 7
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Binomial proportion (sensitivity) with 95% CI",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ENT cancer MPE",
+        "missing_handling": "Complete case"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "ENT: 1/7, 14.3 (0.4-57.9)"
+      }
+    },
+    {
+      "concept_id": "cytology_positive_mpe_gi",
+      "name": "Cytology positive among gastrointestinal cancer malignant pleural effusions",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "baseline",
+      "groups": [
+        {
+          "arm_id": "gi_mpe",
+          "raw": {
+            "events": 15,
+            "total": 22
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Binomial proportion (sensitivity) with 95% CI",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Gastrointestinal cancer MPE",
+        "missing_handling": "Complete case"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Gastrointestinal: 15/22, 68.2 (45.1-86.1)"
+      }
+    },
+    {
+      "concept_id": "cytology_positive_mpe_haem",
+      "name": "Cytology positive among haematological malignant pleural effusions",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "baseline",
+      "groups": [
+        {
+          "arm_id": "haem_mpe",
+          "raw": {
+            "events": 12,
+            "total": 30
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Binomial proportion (sensitivity) with 95% CI",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Haematological malignancy MPE",
+        "missing_handling": "Complete case"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Haematological: 12/30, 40.0 (22.6-59.4)"
+      }
+    },
+    {
+      "concept_id": "cytology_positive_mpe_lung_all",
+      "name": "Cytology positive among lung cancer malignant pleural effusions (all subtypes)",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "baseline",
+      "groups": [
+        {
+          "arm_id": "lung_all_mpe",
+          "raw": {
+            "events": 93,
+            "total": 166
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Binomial proportion (sensitivity) with 95% CI",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Lung cancer MPE (all subtypes)",
+        "missing_handling": "Complete case"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Lung (all): 93/166, 56.0 (48.1-63.7)"
+      }
+    },
+    {
+      "concept_id": "cytology_positive_mpe_lung_adeno",
+      "name": "Cytology positive among lung adenocarcinoma malignant pleural effusions",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "baseline",
+      "groups": [
+        {
+          "arm_id": "lung_adeno_mpe",
+          "raw": {
+            "events": 82,
+            "total": 100
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Binomial proportion (sensitivity) with 95% CI",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Lung adenocarcinoma MPE",
+        "missing_handling": "Complete case"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Adenocarcinoma: 82/100, 82.0 (73.1-89.0)"
+      }
+    },
+    {
+      "concept_id": "cytology_positive_mpe_lung_squamous",
+      "name": "Cytology positive among lung squamous carcinoma malignant pleural effusions",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "baseline",
+      "groups": [
+        {
+          "arm_id": "lung_squamous_mpe",
+          "raw": {
+            "events": 4,
+            "total": 28
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Binomial proportion (sensitivity) with 95% CI",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Lung squamous carcinoma MPE",
+        "missing_handling": "Complete case"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Squamous: 4/28, 14.3 (4.0-32.7)"
+      }
+    },
+    {
+      "concept_id": "cytology_positive_mpe_lung_smallcell",
+      "name": "Cytology positive among lung small-cell carcinoma malignant pleural effusions",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "baseline",
+      "groups": [
+        {
+          "arm_id": "lung_smallcell_mpe",
+          "raw": {
+            "events": 7,
+            "total": 16
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Binomial proportion (sensitivity) with 95% CI",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Lung small-cell carcinoma MPE",
+        "missing_handling": "Complete case"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Small cell: 7/16, 43.8 (19.8-70.1)"
+      }
+    },
+    {
+      "concept_id": "cytology_positive_mpe_lung_other_unknown",
+      "name": "Cytology positive among lung other/unknown subtype malignant pleural effusions",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "baseline",
+      "groups": [
+        {
+          "arm_id": "lung_other_unknown_mpe",
+          "raw": {
+            "events": 0,
+            "total": 22
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Binomial proportion (sensitivity) with 95% CI",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Lung other/unknown subtype MPE",
+        "missing_handling": "Complete case"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Other/unknown: 0/22, 0 (0-15.4)"
+      }
+    },
+    {
+      "concept_id": "cytology_positive_mpe_mesothelioma",
+      "name": "Cytology positive among mesothelioma malignant pleural effusions",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "baseline",
+      "groups": [
+        {
+          "arm_id": "mesothelioma_mpe",
+          "raw": {
+            "events": 9,
+            "total": 148
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Binomial proportion (sensitivity) with 95% CI",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Mesothelioma MPE",
+        "missing_handling": "Complete case"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Mesothelioma: 9/148, 6.1 (2.8-11.2)"
+      }
+    },
+    {
+      "concept_id": "cytology_positive_mpe_sarcoma_melanoma",
+      "name": "Cytology positive among sarcoma/melanoma malignant pleural effusions",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "baseline",
+      "groups": [
+        {
+          "arm_id": "sarcoma_melanoma_mpe",
+          "raw": {
+            "events": 0,
+            "total": 8
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Binomial proportion (sensitivity) with 95% CI",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Sarcoma/melanoma MPE",
+        "missing_handling": "Complete case"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Sarcoma/melanoma: 0/8, 0 (0-36.9)"
+      }
+    },
+    {
+      "concept_id": "cytology_positive_mpe_ovarian",
+      "name": "Cytology positive among ovarian cancer malignant pleural effusions",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "baseline",
+      "groups": [
+        {
+          "arm_id": "ovarian_mpe",
+          "raw": {
+            "events": 36,
+            "total": 38
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Binomial proportion (sensitivity) with 95% CI",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Ovarian cancer MPE",
+        "missing_handling": "Complete case"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Ovarian: 36/38, 94.7 (82.2-99.4)"
+      }
+    },
+    {
+      "concept_id": "cytology_positive_mpe_urological",
+      "name": "Cytology positive among urological cancer malignant pleural effusions",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "baseline",
+      "groups": [
+        {
+          "arm_id": "urological_mpe",
+          "raw": {
+            "events": 2,
+            "total": 17
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Binomial proportion (sensitivity) with 95% CI",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Urological cancer MPE",
+        "missing_handling": "Complete case"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Urological: 2/17, 11.8 (1.5-36.4)"
+      }
+    },
+    {
+      "concept_id": "cytology_positive_mpe_unknown_primary",
+      "name": "Cytology positive among unknown primary malignant pleural effusions",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "baseline",
+      "groups": [
+        {
+          "arm_id": "unknown_primary_mpe",
+          "raw": {
+            "events": 7,
+            "total": 21
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Binomial proportion (sensitivity) with 95% CI",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Unknown primary MPE",
+        "missing_handling": "Complete case"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Unknown malignancy: 7/21, 33.3 (14.6-57.0)"
+      }
+    },
+    {
+      "concept_id": "malignancy_risk_by_exudate_status",
+      "name": "Presence of malignancy by effusion type (transudate vs exudate)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "baseline",
+      "groups": [
+        {
+          "arm_id": "transudate_all",
+          "raw": {
+            "events": 21,
+            "total": 118
+          }
+        },
+        {
+          "arm_id": "exudate_all",
+          "raw": {
+            "events": 495,
+            "total": 803
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Proportion with 95% CI (descriptive)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All effusions categorized as transudate or exudate",
+        "missing_handling": "Complete case"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "Risk of malignancy was 15% (21 out of 118) in transudative effusions, compared to 62% (495 out of 803) in exudative effusions."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.289
+        },
+        "odds_ratio": {
+          "est": 0.135
+        },
+        "arr": -0.438,
+        "nnh": 2.3
+      }
+    },
+    {
+      "concept_id": "repeat_cytology_yield_second",
+      "name": "Yield of second pleural fluid cytology sample after initial nondiagnostic",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "repeat sample",
+      "groups": [
+        {
+          "arm_id": "repeat_second_sample",
+          "raw": {
+            "events": 6,
+            "total": 106
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Proportion with 95% CI (descriptive)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Patients with initial nondiagnostic cytology who had a second sample",
+        "missing_handling": "Complete case"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "Pleural fluid cytology was repeated in 106 of these cases... Six (5.6%) of these samples were diagnostic for malignancy."
+      }
+    },
+    {
+      "concept_id": "repeat_cytology_yield_third",
+      "name": "Yield of third pleural fluid cytology sample after prior nondiagnostic samples",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "third sample",
+      "groups": [
+        {
+          "arm_id": "repeat_third_sample",
+          "raw": {
+            "events": 0,
+            "total": 30
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Proportion with 95% CI (descriptive)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Patients with two prior nondiagnostic cytology samples",
+        "missing_handling": "Complete case"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "A third sample was sent for 30 patients, all of which were nondiagnostic."
+      }
+    }
+  ],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "QUADAS-2",
+    "overall_judgment": "some concerns",
+    "domains": [
+      {
+        "name": "Patient selection",
+        "judgment": "low",
+        "support_for_judgment": "Consecutive patients with undiagnosed unilateral pleural effusion were prospectively enrolled."
+      },
+      {
+        "name": "Index test (cytology)",
+        "judgment": "some concerns",
+        "support_for_judgment": "Cytology with IHC/flow performed as clinically indicated; readers not explicitly stated as blinded to reference standard."
+      },
+      {
+        "name": "Reference standard",
+        "judgment": "low",
+        "support_for_judgment": "Predefined criteria using histology, imaging, follow-up, or autopsy; adjudicated by two consultants."
+      },
+      {
+        "name": "Flow and timing",
+        "judgment": "low",
+        "support_for_judgment": "All patients followed to 12 months or death; most nondiagnostic cases had definitive verification."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "pleural effusion",
+      "cytology",
+      "malignant pleural effusion",
+      "mesothelioma",
+      "diagnostic sensitivity",
+      "immunohistochemistry"
+    ],
+    "summary_tldr": "In 921 patients, pleural fluid cytology detected malignancy in 239/515 MPEs (46.4%); sensitivity was very low in mesothelioma (9/148, 6.1%) and high in ovarian cancer (36/38, 94.7%).",
+    "clinical_relevance": "Findings guide clinicians on when to proceed directly to biopsy, particularly in suspected mesothelioma or asbestos-exposed men where cytology sensitivity is low."
+  }
+}

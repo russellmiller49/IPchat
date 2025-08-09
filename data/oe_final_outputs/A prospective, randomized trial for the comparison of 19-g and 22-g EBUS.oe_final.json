@@ -1,0 +1,390 @@
+{
+  "source": {
+    "document_id": "A prospective, randomized trial for the comparison of 19-g and 22-g EBUS",
+    "ingest_date": "2025-08-08T09:23:14.454041+00:00",
+    "trial_registration_id": "NCT02813603",
+    "pmid": "",
+    "doi": "10.1016/j.cllc.2019.02.019"
+  },
+  "document": {
+    "metadata": {
+      "title": "A Prospective, Randomized Trial for the Comparison of 19-G and 22-G Endobronchial Ultrasound-Guided Transbronchial Aspiration Needles; Introducing a Novel End Point of Sample Weight Corrected for Blood Content",
+      "year": 2019,
+      "authors": [
+        "Celina Wolters",
+        "Kaid Darwiche",
+        "Daniel Franzen",
+        "Thomas Hager",
+        "Beata Bode-Lesnievska",
+        "Peter J. Kneuertz",
+        "Kai He",
+        "Michael Koenig",
+        "Lutz Freitag",
+        "Lai Wei",
+        "Stephan Eisenmann",
+        "Christian Taube",
+        "Gerhard Weinreich",
+        "Filiz Oezkan"
+      ],
+      "journal": "Clinical Lung Cancer",
+      "doi": "10.1016/j.cllc.2019.02.019",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Background: The use of 22- or 21-gauge (G) endobronchial ultrasound (EBUS) needles is recommended for lung cancer diagnosis and staging. Increasing demand for tissue for molecular workup and PD-L1 staining prompted comparison of a larger 19-G EBUS needle with standard 22-G needles. Methods: In this prospective, randomized two-center trial, patients with CT findings suggestive of lung cancer and mediastinal or hilar lymph node metastases were randomized to 19-G or 22-G EBUS-TBNA. Blood content (score 0-2) was assessed, samples were weighed, tumor cells counted per slide, and complications and final diagnoses recorded. Results: 107 patients were enrolled (53 in 19-G group; 54 in 22-G group). 19-G yielded significantly greater sample weight after adjustment for blood content (P = .0119) and significantly higher tumor cell counts per slide in NSCLC-infiltrated nodes (P = .0312). Diagnostic yield was comparable. Four moderate bleeding events occurred (2 per group); hemostasis was rapidly achieved. Conclusions: 19-G EBUS-TBNA provides significantly more tissue and tumor cells per slide with a safety profile similar to 22-G needles.",
+      "methods": "Prospective randomized two-center trial (University Hospital Essen, Germany; University Hospital Zurich, Switzerland) from April 2016 to October 2017. Adults with suspected lung cancer and mediastinal/hilar lymph nodes ≥10 mm on CT were included. Exclusions: pregnancy, age <18 years, standard EBUS-TBNA exclusions (coagulopathy, INR >1.5, clinical instability), inability to consent. Randomization (simple, Excel-generated) allocated patients to 19-G (NA-U402SX-4019; Olympus) or 22-G (NA-201SX-4022; Olympus) EBUS needles. Operators were experienced pulmonologists; no additional suction used. Patients and pathologists were blinded to needle size. Standardized EBUS-TBNA with complete mediastinal/hilar staging; target node sampled with 3-5 passes (10-15 thrusts/pass). Samples expelled into 5 mL 4% buffered formalin. Blood content scored 0-2 visually. Each node sample weighed on precision balance and divided by number of passes. Cytopathology via ThinPrep or direct smears; cell blocks prepared; tumor cells manually counted on H&E slides. Primary endpoint: sample weight corrected for blood content. Secondary endpoints: tumor cell count, diagnostic yield, complications. Statistics: Normality tested by Kolmogorov-Smirnov; log10 transformation applied. Two-sample t tests compared log10-transformed outcomes. Chi-square assessed association between blood content and needle size. ANOVA studied association between log10 sample weight and blood content. ANCOVA assessed association between log10 sample weight and needle size controlling for blood content. Power: 80% to detect effect size 0.59 SD at alpha 0.05.",
+      "results": "107 patients randomized (53 to 19-G; 54 to 22-G). Mean 3 passes per node; lymph node diameters similar between groups. Mean sample weight per pass: 20.0 mg (19-G) vs 10.2 mg (22-G). Log10-transformed sample weight significantly larger with 19-G (two-sample t test P = .0016). Larger needle associated with higher blood content (score 2 in 22/53 [41.51%] for 19-G vs 10/54 [18.52%] for 22-G; chi-square P = .029). After controlling for blood content, 19-G remained significantly higher in sample weight (ANCOVA P = .0119). EBUS-TBNA diagnostic in 93/107 (86.9%). NSCLC diagnosed in 67/107 (62.6%); study node tumor-infiltrated in 43 patients (23 in 19-G; 20 in 22-G). Tumor cells were counted in 37/43 NSCLC-infiltrated nodes (20 in 19-G; 17 in 22-G); average tumor cell count per slide higher with 19-G (P = .0312). Complications: four moderate bleeding events (2/53 [3.8%] in 19-G; 2/54 [3.7%] in 22-G), all controlled with xylometazoline; no other complications reported."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with suspected lung cancer and mediastinal or hilar lymph node enlargement undergoing diagnostic EBUS-TBNA at two academic centers.",
+      "inclusion_criteria": [
+        "Clinical indication for diagnostic EBUS",
+        "CT evidence of mediastinal and/or hilar lymph node enlargement ≥10 mm",
+        "Suspicion of lung cancer"
+      ],
+      "exclusion_criteria": [
+        "Pregnancy",
+        "Age <18 years",
+        "Coagulopathy (INR >1.5)",
+        "Clinical instability",
+        "Inability to provide informed consent"
+      ]
+    },
+    "intervention": {
+      "text": "19-gauge EBUS-TBNA needle",
+      "details": "Olympus NA-U402SX-4019; no additional suction; 3-5 passes (10-15 thrusts per pass); samples expelled into 4% buffered formalin; patients and pathologists blinded to needle size."
+    },
+    "comparison": {
+      "text": "22-gauge EBUS-TBNA needle",
+      "details": "Olympus NA-201SX-4022; identical sampling protocol and blinding."
+    },
+    "outcomes": [
+      {
+        "name": "Sample quality: tissue weight per pass adjusted for blood content",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Tumor cell count per slide in NSCLC-infiltrated nodes",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Diagnostic yield",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Procedure-related complications",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "RCT",
+    "allocation": "randomized",
+    "blinding": "single-blind",
+    "sites_count": 2,
+    "countries": [
+      "DE",
+      "CH"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 107,
+      "analyzed": 107
+    },
+    "analysis_populations": [
+      {
+        "name": "ITT",
+        "description": "All randomized patients",
+        "n": 107
+      },
+      {
+        "name": "PP",
+        "description": "Protocol-compliant patients",
+        "n": 107
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "19-G EBUS-TBNA needle",
+      "n_randomized": 53,
+      "n_analyzed": 53,
+      "n_completed": 53
+    },
+    {
+      "arm_id": "control",
+      "name": "22-G EBUS-TBNA needle",
+      "n_randomized": 54,
+      "n_analyzed": 54,
+      "n_completed": 54
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "sample_weight_per_pass_log10_adjusted",
+      "name": "Sample weight per needle pass (log10-transformed), adjusted for blood content",
+      "type": "continuous",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Immediate (per pass)",
+      "unit": "g",
+      "unit_canonical": "gram",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": 0.02,
+            "sd": 0.0222,
+            "total": 53
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "mean": 0.0102,
+            "sd": 0.0093,
+            "total": 54
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "mean_difference",
+        "est": 0.0098,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.0119,
+        "p_operator": "=",
+        "adjusted": true
+      },
+      "analysis": {
+        "model": "ANCOVA on log10-transformed sample weight",
+        "adjusted": true,
+        "covariates": [
+          "blood content score (0-2)"
+        ],
+        "population": "ITT",
+        "missing_handling": "Complete-case; all randomized weighed"
+      },
+      "provenance": {
+        "pages": [
+          268,
+          269
+        ],
+        "tables": [
+          "Table 2",
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "After controlling for blood content using the ANCOVA model, the sample weight obtained with 19-G needles was significantly higher... (P = .0119)."
+      }
+    },
+    {
+      "concept_id": "sample_weight_per_pass_log10_unadjusted",
+      "name": "Sample weight per needle pass (log10-transformed), unadjusted",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Immediate (per pass)",
+      "unit": "g",
+      "unit_canonical": "gram",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": 0.02,
+            "sd": 0.0222,
+            "total": 53
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "mean": 0.0102,
+            "sd": 0.0093,
+            "total": 54
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "mean_difference",
+        "est": 0.0098,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.0016,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Two-sample t test on log10-transformed sample weight",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT",
+        "missing_handling": "Complete-case; all randomized weighed"
+      },
+      "provenance": {
+        "pages": [
+          268,
+          269
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "After normalization, the sample weight per needle pass was significantly larger when sampled with a 19-G EBUS needle (P = .0016)."
+      }
+    },
+    {
+      "concept_id": "high_blood_content_score2",
+      "name": "High blood content in EBUS sample (score = 2)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Immediate (sample assessment)",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 22,
+            "total": 53
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 10,
+            "total": 54
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": 0.2299,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.029,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Chi-square test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT",
+        "missing_handling": "Complete-case"
+      },
+      "provenance": {
+        "pages": [
+          268
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "Using 19-G EBUS-TBNA needles the percentage of blood content score of 2 is increased (41.51% vs. 18.52%); P = .029."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 2.242
+        },
+        "odds_ratio": {
+          "est": 3.123
+        },
+        "arr": 0.23,
+        "nnt": 4.3
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Procedural haemorrhage",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Procedural haemorrhage"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 2,
+          "patients": 2,
+          "percentage": 3.8,
+          "total": 53
+        },
+        {
+          "arm_id": "control",
+          "events": 2,
+          "patients": 2,
+          "percentage": 3.7,
+          "total": 54
+        }
+      ],
+      "period": "intra-procedural",
+      "management": "Hemostasis achieved with xylometazoline application through the bronchoscope; bronchial wedging as needed.",
+      "provenance": {
+        "pages": [
+          269
+        ],
+        "tables": [],
+        "quote": "Four moderate bleeding events occurred, 2 (3.8%) in the 19-G group and 2 (3.7%) in the 22-G group. Hemostasis was achieved after xylometazoline application."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "RoB 2",
+    "overall_judgment": "some concerns",
+    "domains": [
+      {
+        "name": "Randomization process",
+        "judgment": "some concerns",
+        "support_for_judgment": "Simple randomization using an Excel-generated list in the bronchoscopy suite; allocation concealment not described."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "low",
+        "support_for_judgment": "Standardized protocol with 3-5 passes and no additional suction; no deviations reported."
+      },
+      {
+        "name": "Missing outcome data",
+        "judgment": "low",
+        "support_for_judgment": "Primary outcome measured in all 107 randomized patients."
+      },
+      {
+        "name": "Measurement of the outcome",
+        "judgment": "low",
+        "support_for_judgment": "Patients and pathologists were blinded; objective measures (weight, cell counts)."
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "low",
+        "support_for_judgment": "Primary endpoint prespecified; appropriate analyses (ANCOVA) reported."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "EBUS-TBNA",
+      "19-gauge",
+      "22-gauge",
+      "lung cancer",
+      "NSCLC",
+      "tissue yield",
+      "PD-L1"
+    ],
+    "summary_tldr": "In a two-center RCT (n=107), 19-G EBUS needles yielded significantly higher tissue weight and tumor cell counts than 22-G with similar bleeding risk.",
+    "clinical_relevance": "Greater tissue yield with 19-G EBUS may improve adequacy for molecular profiling and PD-L1 testing without compromising safety."
+  }
+}

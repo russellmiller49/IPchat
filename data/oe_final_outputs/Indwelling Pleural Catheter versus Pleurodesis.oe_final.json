@@ -1,0 +1,276 @@
+{
+  "source": {
+    "document_id": "Indwelling Pleural Catheter versus Pleurodesis",
+    "ingest_date": "2025-08-08T13:24:02.540708+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1513/AnnalsATS.201807-495OC"
+  },
+  "document": {
+    "metadata": {
+      "title": "Indwelling Pleural Catheter versus Pleurodesis for Malignant Pleural Effusions: A Systematic Review and Meta-Analysis",
+      "year": 2019,
+      "authors": [
+        "Narayan P. Iyer",
+        "Chakravarthy B. Reddy",
+        "Momen M. Wahidi",
+        "Sandra Z. Lewis",
+        "Rebecca L. Diekemper",
+        "David Feller-Kopman",
+        "Michael K. Gould",
+        "Alex A. Balekian"
+      ],
+      "journal": "Annals of the American Thoracic Society",
+      "doi": "10.1513/AnnalsATS.201807-495OC",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Rationale: Several randomized trials have compared the efficacy of an indwelling pleural catheter (IPC) versus the more traditional chemical pleurodesis in the management of malignant pleural effusion (MPE). Objectives: As part of the American Thoracic Society’s guidelines for management of MPE, we performed a systematic review and a meta-analysis to compare patient-centered outcomes with the use of a tunneled pleural catheter versus chemical pleurodesis for the first-line treatment of malignant pleural effusions. Methods: We performed literature searches in MEDLINE, Embase, and the Cochrane Central Register of Controlled Trials. We included randomized controlled trials comparing IPC and pleurodesis in adult patients with symptomatic MPE. Risk of bias was assessed with the Cochrane Risk of Bias tool recommended by the Cochrane Methods Bias Group. The meta-analysis was performed with Review Manager software, using a random effects model. We used risk ratios (RRs) with 95% confidence interval (CI) as the effect measure for dichotomous outcomes and mean differences for continuous outcomes. Results: We identified five randomized trials, involving 545 patients, that compared IPC and pleurodesis. Lack of blinding and the inevitable attrition of patients due to death resulted in an overall high risk of bias among the studies. No differences in survival or measures of dyspnea were observed in any of the studies. Total hospital length of stay was shorter, and repeat pleural interventions were less common in the IPC group (RR, 0.32; 95% CI, 0.18-0.55). However, the risk of cellulitis was higher with IPC (RR, 5.83; 95% CI, 1.56-21.8). No differences were noted in other adverse events. Conclusions: Compared with chemical pleurodesis, IPC results in shorter hospital length of stay and fewer repeat pleural procedures but carries a higher risk of cellulitis. Careful assessment of individual patient preferences and costs should be considered when choosing between IPC and pleurodesis.",
+      "methods": "Systematic search of MEDLINE, Embase, and CENTRAL from January 1, 1974 to December 31, 2017, supplemented by manual searches. Inclusion criteria: randomized controlled trials comparing indwelling pleural catheters with chemical pleurodesis in adults with symptomatic malignant pleural effusion. Outcomes included dyspnea, survival, mortality, hospital length of stay, repeat pleural interventions, and adverse events (cellulitis, pleural infection, bleeding requiring intervention). Risk of bias assessed using Cochrane tool. Meta-analysis conducted in RevMan 5.3 using random effects; risk ratios for dichotomous outcomes and mean differences for continuous outcomes; heterogeneity assessed with I2; sensitivity analyses performed where outcome definitions varied.",
+      "results": "Five randomized trials (n=545) comparing IPC with chemical pleurodesis were included. Overall risk of bias was high due to lack of blinding and attrition from death. No differences in survival or dyspnea were found across studies, though in one study VAS dyspnea at 6 months favored IPC (difference -14.0 mm; 95% CI, -25.2 to -2.8; P=0.01) with fewer than half of patients surviving to 6 months. IPC reduced total hospital length of stay and reduced repeat pleural interventions (RR 0.32; 95% CI 0.18-0.55). IPC increased cellulitis risk (RR 5.83; 95% CI 1.56-21.8). No differences were observed in other adverse events."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with symptomatic malignant pleural effusion associated with underlying cancer",
+      "inclusion_criteria": [
+        "Age ≥18 years",
+        "Known or suspected malignant pleural effusion",
+        "Symptomatic (e.g., dyspnea)",
+        "Randomized controlled trials comparing IPC vs chemical pleurodesis"
+      ],
+      "exclusion_criteria": [
+        "Nonexpandable (trapped) lung at enrollment",
+        "Prior pleural intervention or prior pleurodesis",
+        "Died before any intervention provided",
+        "Received incorrect intervention"
+      ]
+    },
+    "intervention": {
+      "text": "Indwelling pleural catheter (IPC)",
+      "details": "Tunneled pleural catheter (e.g., PleurX or Rocket) placed for ambulatory drainage as first-line management of MPE"
+    },
+    "comparison": {
+      "text": "Chemical pleurodesis",
+      "details": "Chest tube pleurodesis with talc or doxycycline delivered via bedside chest tube"
+    },
+    "outcomes": [
+      {
+        "name": "Dyspnea improvement",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Hospital length of stay",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Repeat pleural interventions",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Cellulitis",
+        "type": "safety",
+        "umls_cui": ""
+      },
+      {
+        "name": "Mortality",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Systematic review and meta-analysis of randomized controlled trials",
+    "allocation": "randomized",
+    "blinding": "open-label",
+    "sites_count": 0,
+    "countries": [],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 545,
+      "analyzed": 545
+    },
+    "analysis_populations": [
+      {
+        "name": "All included RCT participants",
+        "description": "Participants from five RCTs included in meta-analysis",
+        "n": 545
+      }
+    ]
+  },
+  "arms": [],
+  "outcomes_normalized": [
+    {
+      "concept_id": "dyspnea_vas_6w",
+      "name": "Dyspnea Visual Analog Scale at 6 weeks",
+      "type": "continuous",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P6W",
+      "unit": "mm",
+      "unit_canonical": "millimeter",
+      "groups": [],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "mean_difference",
+        "est": 0.3,
+        "ci_lower": null,
+        "ci_upper": null,
+        "p_value": 0.96,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "between-group comparison",
+        "adjusted": false,
+        "covariates": [],
+        "population": "study-level (single RCT report)",
+        "missing_handling": "complete cases"
+      },
+      "provenance": {
+        "pages": [
+          0
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "No difference in visual analog scale scores between groups at 6 weeks (24.7 mm in IPC vs. 24.4 mm in chemical pleurodesis; P = 0.96)."
+      }
+    },
+    {
+      "concept_id": "dyspnea_vas_6m",
+      "name": "Dyspnea Visual Analog Scale at 6 months",
+      "type": "continuous",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P6M",
+      "unit": "mm",
+      "unit_canonical": "millimeter",
+      "groups": [],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "mean_difference",
+        "est": -14.0,
+        "ci_lower": -25.2,
+        "ci_upper": -2.8,
+        "p_value": 0.01,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "between-group difference",
+        "adjusted": false,
+        "covariates": [],
+        "population": "study-level (single RCT report)",
+        "missing_handling": "complete cases; fewer than half of enrolled patients survived to 6 months"
+      },
+      "provenance": {
+        "pages": [
+          0
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "Significant difference between groups favoring IPC at 6 months (-14.0 mm; 95% CI, -25.2 to -2.8 mm; P = 0.01); less than one-half of enrolled patients survived to report symptoms at 6 months."
+      }
+    },
+    {
+      "concept_id": "repeat_pleural_interventions",
+      "name": "Repeat pleural interventions",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "follow-up as per included trials",
+      "groups": [],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_ratio",
+        "est": 0.32,
+        "ci_lower": 0.18,
+        "ci_upper": 0.55,
+        "ci_level": 0.95
+      },
+      "analysis": {
+        "model": "random effects meta-analysis",
+        "adjusted": false,
+        "covariates": [],
+        "population": "all included RCTs",
+        "missing_handling": "as per individual trials; study-level meta-analysis"
+      },
+      "provenance": {
+        "pages": [
+          0
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "Repeat pleural interventions were less common in the IPC group (RR, 0.32; 95% CI, 0.18-0.55)."
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Cellulitis",
+      "meddra": {
+        "soc": "Infections and infestations",
+        "pt": "Cellulitis"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [],
+      "period": "during follow-up as reported in included RCTs",
+      "management": "",
+      "provenance": {
+        "pages": [
+          0
+        ],
+        "tables": [],
+        "quote": "The risk of cellulitis was higher with IPC (RR, 5.83; 95% CI, 1.56-21.8)."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "Cochrane Risk of Bias",
+    "overall_judgment": "high",
+    "domains": [
+      {
+        "name": "Randomization process",
+        "judgment": "unclear",
+        "support_for_judgment": "Randomization reported across included trials; study-level details varied and were not fully summarized."
+      },
+      {
+        "name": "Deviations from intended interventions (blinding)",
+        "judgment": "high",
+        "support_for_judgment": "Lack of blinding across trials."
+      },
+      {
+        "name": "Missing outcome data (attrition)",
+        "judgment": "high",
+        "support_for_judgment": "Inevitable attrition due to death in this population."
+      },
+      {
+        "name": "Measurement of the outcome",
+        "judgment": "unclear",
+        "support_for_judgment": "Outcome assessment potentially influenced by lack of blinding; dyspnea measures subjective."
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "unclear",
+        "support_for_judgment": "No clear evidence of selective reporting; limited by small number of trials."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "indwelling pleural catheter",
+      "IPC",
+      "pleurodesis",
+      "malignant pleural effusion",
+      "MPE",
+      "talc",
+      "doxycycline",
+      "randomized controlled trial",
+      "meta-analysis"
+    ],
+    "summary_tldr": "Across five RCTs (n=545), IPC shortened hospital stay and reduced repeat pleural procedures (RR 0.32) but increased cellulitis risk (RR 5.83); no survival or overall dyspnea differences.",
+    "clinical_relevance": "For symptomatic malignant pleural effusions, IPC offers fewer repeat procedures and shorter hospitalization at the cost of higher cellulitis risk; choice should be individualized."
+  }
+}

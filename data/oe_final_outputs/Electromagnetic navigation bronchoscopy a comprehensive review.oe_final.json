@@ -1,0 +1,78 @@
+{
+  "source": {
+    "document_id": "Electromagnetic navigation bronchoscopy a comprehensive review",
+    "ingest_date": "2025-08-08T12:00:00Z",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.21037/amj.2018.11.04"
+  },
+  "document": {
+    "metadata": {
+      "title": "Electromagnetic navigation bronchoscopy: a comprehensive review",
+      "year": 2018,
+      "authors": [
+        "Edward M. Pickering",
+        "Or Kalchiem-Dekel",
+        "Ashutosh Sachdeva"
+      ],
+      "journal": "AME Medical Journal",
+      "doi": "10.21037/amj.2018.11.04",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "The concept of navigation bronchoscopy is not new, but has evolved over past few decades. Clinicians performing bronchoscopy have utilized various forms of navigation technology ranging from fluoroscopy or computed tomography (CT)-aided guidance in earlier years, now to virtual bronchoscopy and real-time tracking using electromagnetic navigation (EMN) platforms. EMN bronchoscopy relies on a pre-procedural CT of the chest to create a three-dimensional (3D) virtual airway map. This approach is utilized for diagnostic sampling of lung and mediastinal lesions, placement of fiducial markers, or dye marking of the overlying pleura. The diagnostic yield, using this technology, is superior to conventional bronchoscopy techniques and is discussed. The respiratory motion of the airways, lung, and nodule hysteresis creates unique challenges for targeting the lesion. Use of fluoroscopy and radial-probe ultrasound provide meaningful information and additional confirmation with difficult lesions. We continue to evolve in our understanding of how best to utilize the technology, modify diagnostic tools, and improve next-generation platforms. Even so, EMN bronchoscopy has changed the landscape of tissue acquisition for peripheral lung lesions. This review provides important principles and practical aspects of pre-procedure preparation, assessment of airway-lesion relationships, procedural workflow and performance, and points for consideration when contemplating acquisition of an EMN system. The future is in development of intuitive platforms that will allow consistent targeting with higher accuracy so ablation techniques could be performed safely via the endobronchial approach.",
+      "methods": "Narrative review of electromagnetic navigation bronchoscopy technology, workflows, CT planning protocols, registration and navigation methods, and commercially available platforms (superDimension, Veran SPiN, Archimedes). The authors describe practical implementation, imaging requirements, planning steps, and procedural setup.",
+      "results": "As a review article, no primary data analyses or comparative outcomes are reported. The article summarizes that EMN bronchoscopy enables real-time tracking and virtual bronchoscopy guidance derived from thin-slice CT, discusses sources of error (e.g., electromagnetic field distortion, CT-to-body divergence, respiratory motion), and outlines workflows for registration and navigation with different platforms. It notes reported diagnostic yield in early human studies approaching 70% and describes adjuncts such as fluoroscopy, radial-probe endobronchial ultrasound, and cone-beam CT for lesion confirmation."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Patients undergoing evaluation of peripheral pulmonary lesions where bronchoscopic navigation may be used for diagnostic sampling, fiducial placement, or dye marking.",
+      "inclusion_criteria": [],
+      "exclusion_criteria": []
+    },
+    "intervention": {
+      "text": "Electromagnetic navigation bronchoscopy (EMN) and virtual bronchoscopy navigation platforms",
+      "details": "Use of pre-procedural thin-slice chest CT to create a 3D virtual airway map; registration of patient anatomy to CT; real-time tracking of sensors or tracked tools within an electromagnetic field or via fused fluoroscopy; navigation through planned airway pathways to target lesions with sampling tools."
+    },
+    "comparison": {
+      "text": "",
+      "details": ""
+    },
+    "outcomes": []
+  },
+  "design": {
+    "study_type": "Narrative review",
+    "allocation": "none",
+    "blinding": "none",
+    "sites_count": 0,
+    "countries": [],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": []
+  },
+  "arms": [],
+  "outcomes_normalized": [],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "Not applicable",
+    "overall_judgment": "not_applicable",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "Electromagnetic",
+      "bronchoscopy",
+      "navigation technology",
+      "virtual bronchoscopy",
+      "CT planning",
+      "radial EBUS",
+      "fluoroscopy"
+    ],
+    "summary_tldr": "Comprehensive narrative review of electromagnetic navigation bronchoscopy platforms, imaging workflows, and procedural implementation for peripheral lung lesion diagnosis.",
+    "clinical_relevance": "Provides practical guidance for institutions adopting EMN bronchoscopy, including CT acquisition protocols, registration methods, and navigation workflows to improve diagnostic sampling of peripheral lung lesions."
+  }
+}

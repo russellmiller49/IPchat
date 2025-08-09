@@ -1,0 +1,268 @@
+{
+  "source": {
+    "document_id": "Management of significant airway bleeding during robotic assisted bronchoscopy a tailored approach",
+    "ingest_date": "2025-08-08T14:16:20.292285+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1159/000514830"
+  },
+  "document": {
+    "metadata": {
+      "title": "Management of Significant Airway Bleeding during Robotic Assisted Bronchoscopy: A Tailored Approach",
+      "year": 2021,
+      "authors": [
+        "Sebastian Fernandez-Bussy",
+        "David Abia-Trujillo",
+        "Adnan Majid",
+        "Erik E. Folch",
+        "Neal M. Patel",
+        "Felix J.F. Herth",
+        "Janani S. Reisenauer"
+      ],
+      "journal": "Respiration",
+      "doi": "10.1159/000514830",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Robotic assisted bronchoscopy represents a major turning point in bronchoscopic history. The management strategies to address significant airway bleeding in this “robotic era” are not well documented, and further guidance is required. We present a case report that exemplifies our approach and management strategy using a combined and simultaneous flexible/robotic bronchoscopy if this complication is encountered.",
+      "methods": "Single-patient case report of significant airway bleeding (SAB) during robotic assisted bronchoscopy (RAB) for a left upper lobe peripheral lesion. RAB performed under general anesthesia via size 8 endotracheal tube with paralytics, alveolar recruitment, and PEEP of 10. Navigation used Fiber Optic RealShape technology and radial ultrasound confirmation followed by 21-G needle-pass sampling under fluoroscopy. Upon SAB, continuous suction was applied to the proximal robotic catheter while a 4.0-mm flexible bronchoscope (FB) with 2.0-mm working channel was inserted parallel to the endotracheal tube. The ET cuff was partially deflated and the FB advanced into the distal trachea and the left mainstem to the bleeding segment. Hemostatic measures included cold saline and diluted epinephrine instillation. After bleeding control, the robotic scope was slowly retracted under FB visualization; the FB was advanced for confirmation of hemostasis and suction of clots, followed by complete airway clearance. The robotic scope was then reinserted to continue RAB. A stepwise protocol is summarized: (1) continuous suction via robotic catheter; (2) insert 4.0-mm FB via nose or mouth; (3) advance FB through vocal cords and ET; (4) partially deflate ET cuff and advance FB to target segment; (5) do not retract the robotic bronchoscope; (6) apply cold saline, diluted epinephrine 1:10,000, 5-Fr Fogarty balloon, or other hemostatic agents via FB; (7) once controlled, retract robotic scope slowly under FB visualization; (8) suction or cryoextract remaining clots.",
+      "results": "Bleeding was noted traveling proximally along the robotic catheter and on fluoroscopy after needle sampling. Combined, simultaneous flexible/robotic bronchoscopy controlled the bleeding with ice cold saline and epinephrine. Hemostasis was confirmed bronchoscopically; clots were cleared; the robotic scope was reinserted and the procedure completed, including systematic mediastinal staging with EBUS. No pneumothorax, worsening hypoxemia, or other complications occurred. The patient was discharged home; pathology was nonmalignant; follow-up CT was planned in 3 months."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adult patient undergoing robotic assisted bronchoscopy for a peripheral left upper lobe nodule who developed significant airway bleeding during needle sampling.",
+      "inclusion_criteria": [
+        "Robotic assisted bronchoscopy for peripheral pulmonary lesion",
+        "Occurrence of significant airway bleeding requiring flexible bronchoscope assistance"
+      ],
+      "exclusion_criteria": []
+    },
+    "intervention": {
+      "text": "Combined, simultaneous flexible and robotic bronchoscopy for SAB management",
+      "details": "Continuous suction via proximal robotic catheter; parallel insertion of 4.0-mm flexible bronchoscope with partial ET cuff deflation; advancement to bleeding segment; instillation of cold saline and diluted epinephrine 1:10,000; optional 5-Fr Fogarty balloon; controlled withdrawal of robotic scope under FB visualization; suction/cryoextraction of clots; reinsertion of robotic scope to continue procedure."
+    },
+    "comparison": {
+      "text": "None",
+      "details": "Single-patient case report without comparator arm."
+    },
+    "outcomes": [
+      {
+        "name": "Immediate hemostasis and completion of RAB without complications",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Pneumothorax occurrence",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Worsening hypoxemia",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "case report",
+    "allocation": "NA",
+    "blinding": "NA",
+    "sites_count": 1,
+    "countries": [
+      "US"
+    ],
+    "sample_size": {
+      "planned": 1,
+      "enrolled": 1,
+      "analyzed": 1
+    },
+    "analysis_populations": [
+      {
+        "name": "case",
+        "description": "Single patient described",
+        "n": 1
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "Combined flexible + robotic bronchoscopy hemostasis protocol",
+      "n_randomized": 1,
+      "n_analyzed": 1,
+      "n_completed": 1
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "hemostasis_achieved_intraoperative",
+      "name": "Immediate hemostasis during RAB after SAB",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "PT0H",
+      "timepoint_label": "Intra-procedural",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 1,
+            "total": 1
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "case",
+        "missing_handling": "not_applicable"
+      },
+      "provenance": {
+        "pages": [
+          549
+        ],
+        "tables": [
+          "Table 1"
+        ],
+        "table_number": 1,
+        "quote": "Ice saline and epinephrine were instilled... After bleeding ceased... the flexible bronchoscope was advanced into the bleeding segment to confirm successful hemostasis and to suction any remaining clots."
+      }
+    },
+    {
+      "concept_id": "procedure_completion_without_complication",
+      "name": "Completion of bronchoscopy without complications",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "PT0H",
+      "timepoint_label": "Intra-procedural",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 1,
+            "total": 1
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "case",
+        "missing_handling": "not_applicable"
+      },
+      "provenance": {
+        "pages": [
+          549
+        ],
+        "quote": "The robotic scope was reinserted to continue the procedure... No pneumothorax, worsening hypoxemia, or other complications occurred."
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Airway haemorrhage",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Airway haemorrhage"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "other_medically_important_condition"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 1,
+          "patients": 1,
+          "percentage": 100,
+          "total": 1
+        }
+      ],
+      "period": "Intra-procedural",
+      "management": "Continuous suction via robotic catheter; simultaneous flexible bronchoscope; cold saline and diluted epinephrine; clot clearance; controlled withdrawal of robotic scope; procedure completion.",
+      "provenance": {
+        "pages": [
+          548,
+          549
+        ],
+        "tables": [
+          "Table 1"
+        ],
+        "quote": "Upon collecting tissue samples... bleeding was noted... Suction was applied... a flexible bronchoscope... was inserted... Ice saline and epinephrine were instilled... After bleeding ceased..."
+      }
+    },
+    {
+      "event_name": "Pneumothorax",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Pneumothorax"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "other_medically_important_condition"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 1
+        }
+      ],
+      "period": "Post-procedural",
+      "management": "",
+      "provenance": {
+        "pages": [
+          549
+        ],
+        "quote": "No pneumothorax, worsening hypoxemia, or other complications occurred."
+      }
+    },
+    {
+      "event_name": "Hypoxia",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Hypoxia"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 1
+        }
+      ],
+      "period": "Post-procedural",
+      "management": "",
+      "provenance": {
+        "pages": [
+          549
+        ],
+        "quote": "No pneumothorax, worsening hypoxemia, or other complications occurred."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "Not applicable",
+    "overall_judgment": "not_applicable",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "robotic assisted bronchoscopy",
+      "significant airway bleeding",
+      "hemostasis",
+      "epinephrine",
+      "Fogarty balloon",
+      "flexible bronchoscopy"
+    ],
+    "summary_tldr": "In a single RAB case complicated by significant airway bleeding, a simultaneous flexible bronchoscopy approach with suction, cold saline, and epinephrine achieved immediate hemostasis, allowing safe procedure completion without complications.",
+    "clinical_relevance": "Provides a practical, stepwise protocol to manage significant airway bleeding during robotic bronchoscopy using combined flexible and robotic scopes."
+  }
+}

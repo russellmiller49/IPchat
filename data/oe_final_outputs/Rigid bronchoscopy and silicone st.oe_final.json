@@ -1,0 +1,112 @@
+{
+  "source": {
+    "document_id": "Rigid bronchoscopy and silicone st",
+    "ingest_date": "2025-08-08T15:15:00.934827+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.3978/j.issn.2072-1439.2015.11.17"
+  },
+  "document": {
+    "metadata": {
+      "title": "Rigid bronchoscopy and silicone stents in the management of central airway obstruction",
+      "year": 2015,
+      "authors": [
+        "Roy Semaan",
+        "Lonny Yarmus"
+      ],
+      "journal": "Journal of Thoracic Disease",
+      "doi": "10.3978/j.issn.2072-1439.2015.11.17",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "The field of interventional pulmonology has grown significantly over the past several decades now including the diagnosis and therapeutic treatment of complex airway disease. Rigid bronchoscopy is an invaluable tool in the diagnosis and management of several malignant and non-malignant causes of central airway obstruction (CAO) and has become integral after the inception of airway stenting. The management of CAO can be a complicated endeavor with significant risks making the understanding of basic rigid bronchoscopy techniques, ablative technologies, anesthetic care and stenting of utmost importance in the care of these complex patients. This review article will focus on the history of rigid bronchoscopy, the technical aspects of performing a rigid bronchoscopy as well as the use of silicone stents their indications, complications and placement techniques.",
+      "methods": "Narrative review of rigid bronchoscopy and silicone stenting for central airway obstruction. The article describes historical context, equipment, technical aspects of rigid intubation, anesthetic considerations, ventilation techniques, and stenting indications/complications. No systematic search strategy, inclusion/exclusion criteria, or formal evidence synthesis methods are reported.",
+      "results": "The review summarizes epidemiology and etiologies of malignant and non-malignant CAO, classification of obstruction types, and the role of rigid bronchoscopy. It cites a multicenter registry of 947 patients at 23 centers undergoing therapeutic bronchoscopy for CAO with an average technical success rate of 93% (defined as opening of >50% of the airway). In subsets with patient-reported outcomes, dyspnea improved in 48% of 187 patients and quality of life improved in 42% of 183 patients; greater baseline dyspnea and endobronchial obstruction were associated with greater improvements, whereas higher ASA class, renal failure, lobar obstruction, and tracheoesophageal fistula were associated with less improvement. A prospective case series of 53 patients (predominantly malignant 45% and post-transplant stenosis 43%) reported subjective improvements in dyspnea and QOL (UCSD Shortness of Breath Questionnaire and SF-36) and statistically significant improvements in FEV1 and FVC. No survival benefit data are reported for relief of malignant CAO."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with malignant or non-malignant central airway obstruction requiring diagnostic or therapeutic bronchoscopy.",
+      "inclusion_criteria": [
+        "Central airway obstruction (malignant or non-malignant) involving trachea or main bronchi",
+        "Patients considered for therapeutic bronchoscopy, ablative techniques, and/or airway stenting"
+      ],
+      "exclusion_criteria": [
+        "Not specified in the narrative review"
+      ]
+    },
+    "intervention": {
+      "text": "Rigid bronchoscopy with ablative techniques and silicone airway stenting",
+      "details": "Rigid bronchoscopy under total intravenous anesthesia with jet or conventional ventilation; use of tools such as flexible bronchoscope, suction, forceps, dilators, lasers, electrocautery, argon plasma coagulation, cryotherapy, microdebriders, and stent deployment devices. Silicone stent placement when indicated for CAO."
+    },
+    "comparison": {
+      "text": "Not applicable (narrative review)",
+      "details": "The review summarizes multiple observational cohorts and case series without a single predefined comparator."
+    },
+    "outcomes": [
+      {
+        "name": "Dyspnea improvement",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Quality of life improvement",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Technical success (airway lumen >50% post-procedure)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "FEV1 change",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "FVC change",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Procedure-related complications and stent-related adverse events",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Narrative review",
+    "allocation": "NA",
+    "blinding": "NA",
+    "sites_count": 0,
+    "countries": [],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": []
+  },
+  "arms": [],
+  "outcomes_normalized": [],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "Not applicable",
+    "overall_judgment": "no_judgment",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "rigid bronchoscopy",
+      "silicone stent",
+      "central airway obstruction",
+      "interventional pulmonology",
+      "airway stenting",
+      "ablative technologies"
+    ],
+    "summary_tldr": "Narrative review: Rigid bronchoscopy with ablative techniques and silicone stents is central to managing malignant and non-malignant CAO, with observational data showing high technical success and improvements in dyspnea and quality of life.",
+    "clinical_relevance": "Provides practical guidance on rigid bronchoscopy techniques, anesthesia, ventilation, and silicone stent use in complex CAO cases."
+  }
+}

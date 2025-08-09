@@ -1,0 +1,692 @@
+{
+  "source": {
+    "document_id": "fistula Herth-2010-Combined airway and oesophageal ste",
+    "ingest_date": "2025-08-08T12:24:35.236729+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1183/09031936.00049809"
+  },
+  "document": {
+    "metadata": {
+      "title": "Combined airway and oesophageal stenting in malignant airway-oesophageal fistulas: a prospective study",
+      "year": 2010,
+      "authors": [
+        "Herth FJF",
+        "Peter S",
+        "Baty F",
+        "Eberhardt R",
+        "Leuppi JD",
+        "Chhajed PN"
+      ],
+      "journal": "European Respiratory Journal",
+      "doi": "10.1183/09031936.00049809",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Malignant airway-oesophageal fistulas (AEF) are a serious complication of advanced oesophageal or lung cancer. The aim of this study was to assess the quality of life before and after stent insertion, and to examine the role of treatment and location of AEF as factors influencing survival in AEF patients managed with airway and/or oesophageal stent insertion. 112 patients with AEF were included prospectively. 83 (74%) patients had advanced lung cancer and 29 (26%) patients had oesophageal cancers. Airway stents were inserted in 65 (58%) patients, oesophageal stents in 37 (33%) patients, and both airway and oesophageal stents in 10 (9%) patients. Seven (6%) patients developed respiratory failure and required transient ventilator support in the intensive care unit. None of the patients developed stent migration or needed stent repositioning. Overall, mean survival was 236.6 days (airway stent 219.1 days, oesophageal stent 262.8 days and combined airway-oesophageal stent 252.9 days). Backward, stepwise regression revealed the site of stent placement (airway and/or oesophagus; p<0.028), exact location of the fistula in airway (p=0.011) and additional treatment with chemotherapy and/or radiation (p<0.001) as independent risk factors predicting increased survival. The mean quality of life score (QoL) was 81 prior to stent insertion and 72 post-stent insertion (p<0.001). Airway and/or oesophageal stent insertion provides an effective approach to improve the QoL in patients with malignant AEF.",
+      "methods": "Prospective inclusion of consecutive patients with malignant airway-oesophageal fistula (AEF) secondary to oesophageal or lung cancer over 3 years. Stent type and location (airway and/or oesophagus) were selected based on stenosis location; if a single stent failed to close the fistula on dye testing, an immediate second stent was placed in the other system. Procedures were under general anaesthesia using flexible video bronchoscopy, rigid bronchoscopy or oesophagogastroduodenoscopy. Ultraflex nitinol self-expandable metallic stents (airway and/or oesophageal) were used. Fluoroscopy was used for oesophageal stents; airway stents were placed under endoscopic visualisation. Baseline characteristics, concomitant therapies (chemotherapy, radiotherapy, surgery), technical success, complications and survival were recorded. Quality of life (EORTC QLQ-C30) was assessed pre-stent and at 6 weeks post-stent. Statistics: survival times (uncensored) as means with 95% CI; between-group comparisons by ANOVA F-test; multiple linear regression with backward elimination to identify predictors of survival; constrained multiple correspondence analysis to assess relative importance; paired t-test for QoL change. Analyses used R.",
+      "results": "112 patients (98 males; median age 52 years) underwent stenting for malignant AEF: airway stent 65 (58%), oesophageal stent 37 (33%), double stents 10 (9%). All had initial fistula closure. Respiratory failure occurred in 7 (6%) requiring <1 day of mechanical ventilation (4 airway, 2 oesophageal, 1 double). No stent migration or repositioning; no perforation or mediastinitis. No 30-day deaths. Mean survival overall 236.6 days (95% CI 221.5-251.6); airway 219.1 (95% CI 197.3-240.9), oesophageal 262.8 (95% CI 244.4-281.3), double 252.9 (95% CI 192.9-312.9); ANOVA p=0.023 with lower survival for airway-only vs others. Regression identified stent site (p<0.011), fistula localisation in airway (p=0.023), and added chemo/radiotherapy (p<0.001) as independent predictors of longer survival. QoL improved from mean 81 pre-stent to 72 at 6 weeks post-stent (paired t-test p<0.001). During follow-up, fistula recurred in 24 patients (17 airway, 6 oesophageal, 1 double), requiring a second stent."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with malignant airway-oesophageal fistula secondary to advanced oesophageal or lung cancer treated at two tertiary centers.",
+      "inclusion_criteria": [
+        "Malignant airway-oesophageal fistula",
+        "Primary diagnosis of advanced oesophageal or lung cancer",
+        "Underwent airway and/or oesophageal stent insertion",
+        "Provided informed consent"
+      ],
+      "exclusion_criteria": [
+        "Not reported"
+      ]
+    },
+    "intervention": {
+      "text": "Self-expandable nitinol stent insertion in airway and/or oesophagus",
+      "details": "Ultraflex nitinol SEMS placed under general anaesthesia; airway stents under endoscopic visualisation; oesophageal stents under fluoroscopy. If fistula not closed after first stent (confirmed by dye), immediate second stent placed in the other tract."
+    },
+    "comparison": {
+      "text": "Comparative analysis of stent location strategies",
+      "details": "Between-group comparisons of outcomes across airway-only stent, oesophagus-only stent, and double stenting (airway plus oesophagus)."
+    },
+    "outcomes": [
+      {
+        "name": "Survival time from stent insertion",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Quality of life (EORTC QLQ-C30) change at 6 weeks",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Procedure-related complications including respiratory failure requiring mechanical ventilation",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Fistula recurrence requiring additional stenting",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "30-day mortality",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Prospective observational cohort",
+    "allocation": "nonrandomized",
+    "blinding": "none",
+    "sites_count": 2,
+    "countries": [
+      "Germany",
+      "Switzerland"
+    ],
+    "sample_size": {
+      "planned": 112,
+      "enrolled": 112,
+      "analyzed": 112
+    },
+    "analysis_populations": [
+      {
+        "name": "All treated",
+        "description": "All patients who underwent stenting",
+        "n": 112
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "airway",
+      "name": "Airway stent only",
+      "n_randomized": 65,
+      "n_analyzed": 65,
+      "n_completed": 65
+    },
+    {
+      "arm_id": "oesophagus",
+      "name": "Oesophageal stent only",
+      "n_randomized": 37,
+      "n_analyzed": 37,
+      "n_completed": 37
+    },
+    {
+      "arm_id": "double",
+      "name": "Double stents (airway + oesophagus)",
+      "n_randomized": 10,
+      "n_analyzed": 10,
+      "n_completed": 10
+    },
+    {
+      "arm_id": "overall",
+      "name": "Overall cohort",
+      "n_randomized": 112,
+      "n_analyzed": 112,
+      "n_completed": 112
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "survival_time_to_death",
+      "name": "Survival time from stent insertion to death",
+      "type": "time_to_event",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "From stent insertion to death (uncensored)",
+      "groups": [
+        {
+          "arm_id": "airway",
+          "raw": {
+            "mean": 219.1,
+            "ci_lower": 197.3,
+            "ci_upper": 240.9,
+            "total": 65
+          }
+        },
+        {
+          "arm_id": "oesophagus",
+          "raw": {
+            "mean": 262.8,
+            "ci_lower": 244.4,
+            "ci_upper": 281.3,
+            "total": 37
+          }
+        },
+        {
+          "arm_id": "double",
+          "raw": {
+            "mean": 252.9,
+            "ci_lower": 192.9,
+            "ci_upper": 312.9,
+            "total": 10
+          }
+        },
+        {
+          "arm_id": "overall",
+          "raw": {
+            "mean": 236.6,
+            "ci_lower": 221.5,
+            "ci_upper": 251.6,
+            "total": 112
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "airway",
+        "measure": "anova_group_difference",
+        "est": null,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.023,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "One-way ANOVA across stent location groups; multivariable linear regression with backward elimination",
+        "adjusted": true,
+        "covariates": [
+          "age",
+          "sex",
+          "fistula localisation in airway",
+          "stent site (airway/oesophagus/double)",
+          "radiotherapy and/or chemotherapy",
+          "complications"
+        ],
+        "population": "All treated",
+        "missing_handling": "Complete-case (all had complete survival follow-up)",
+        "additional_pvalues": [
+          {
+            "factor": "stent site",
+            "p_value": 0.011,
+            "p_operator": "<"
+          },
+          {
+            "factor": "fistula localisation in airway",
+            "p_value": 0.023,
+            "p_operator": "="
+          },
+          {
+            "factor": "additional chemo/radiotherapy",
+            "p_value": 0.001,
+            "p_operator": "<"
+          }
+        ]
+      },
+      "provenance": {
+        "pages": [
+          1371,
+          1373
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "The mean survival (time to death from stent insertion) for the entire group was 236.6 days (95% CI 221.5-251.6). Airway 219.1 (197.3-240.9), oesophageal 262.8 (244.4-281.3), double 252.9 (192.9-312.9). Survival was significantly lower in airway-only vs others (F-test p=0.023). The site of stent placement (p<0.011), localisation of the fistula in the airway (p=0.023) and treatment (p<0.001) were independent predictors."
+      }
+    },
+    {
+      "concept_id": "qol_eortc_qlq_c30_change_6w",
+      "name": "EORTC QLQ-C30 overall score change at 6 weeks",
+      "type": "continuous",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P6W",
+      "unit": "score",
+      "unit_canonical": "score",
+      "groups": [
+        {
+          "arm_id": "overall",
+          "raw": {
+            "mean_pre": 81,
+            "mean_post": 72,
+            "total": 112
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "overall",
+        "measure": "paired_difference",
+        "est": -9,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.001,
+        "p_operator": "<",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Paired t-test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated with paired assessments",
+        "missing_handling": "Not reported (questionnaire administered to all patients at 6 weeks)"
+      },
+      "provenance": {
+        "pages": [
+          1370,
+          1373
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "The mean quality of life score (QoL) was 81 prior to stent insertion and 72 post-stent insertion (p<0.001)."
+      }
+    },
+    {
+      "concept_id": "initial_fistula_closure",
+      "name": "Initial fistula closure success",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Immediate post-procedure",
+      "groups": [
+        {
+          "arm_id": "airway",
+          "raw": {
+            "events": 65,
+            "total": 65
+          }
+        },
+        {
+          "arm_id": "oesophagus",
+          "raw": {
+            "events": 37,
+            "total": 37
+          }
+        },
+        {
+          "arm_id": "double",
+          "raw": {
+            "events": 10,
+            "total": 10
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "airway",
+        "measure": "risk_difference",
+        "est": 0,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated"
+      },
+      "provenance": {
+        "pages": [
+          1371
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "All patients had initial success of fistula closure with the above procedures."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 1.0
+        },
+        "arr": 0.0
+      }
+    },
+    {
+      "concept_id": "fistula_recurrence_second_stent",
+      "name": "Fistula recurrence requiring second stent during follow-up",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "During follow-up",
+      "groups": [
+        {
+          "arm_id": "airway",
+          "raw": {
+            "events": 17,
+            "total": 65
+          }
+        },
+        {
+          "arm_id": "oesophagus",
+          "raw": {
+            "events": 6,
+            "total": 37
+          }
+        },
+        {
+          "arm_id": "double",
+          "raw": {
+            "events": 1,
+            "total": 10
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "airway",
+        "measure": "risk_difference",
+        "est": null,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated"
+      },
+      "provenance": {
+        "pages": [
+          1372
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "During the follow-up period, 24 patients (17 airway, one double and six oesophageal stents) had a recurrence of fistulas ... requiring a second stent insertion."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 1.613
+        },
+        "odds_ratio": {
+          "est": 1.83
+        },
+        "arr": 0.099,
+        "nnt": 10.1
+      }
+    },
+    {
+      "concept_id": "mortality_30d",
+      "name": "30-day all-cause mortality",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P30D",
+      "timepoint_label": "30 days post-stent",
+      "groups": [
+        {
+          "arm_id": "airway",
+          "raw": {
+            "events": 0,
+            "total": 65
+          }
+        },
+        {
+          "arm_id": "oesophagus",
+          "raw": {
+            "events": 0,
+            "total": 37
+          }
+        },
+        {
+          "arm_id": "double",
+          "raw": {
+            "events": 0,
+            "total": 10
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "airway",
+        "measure": "risk_difference",
+        "est": 0,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated"
+      },
+      "provenance": {
+        "pages": [
+          1371
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "No patients died in the first 30 days after stent insertion."
+      },
+      "derived": {
+        "arr": 0.0
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Respiratory failure",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Respiratory failure"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "hospitalization",
+        "life-threatening"
+      ],
+      "groups": [
+        {
+          "arm_id": "airway",
+          "events": 4,
+          "patients": 4,
+          "percentage": 6.2,
+          "total": 65
+        },
+        {
+          "arm_id": "oesophagus",
+          "events": 2,
+          "patients": 2,
+          "percentage": 5.4,
+          "total": 37
+        },
+        {
+          "arm_id": "double",
+          "events": 1,
+          "patients": 1,
+          "percentage": 10,
+          "total": 10
+        }
+      ],
+      "period": "Immediate post-procedure (<1 day)",
+      "management": "Transient mechanical ventilation in ICU for less than 1 day",
+      "provenance": {
+        "pages": [
+          1371,
+          1372
+        ],
+        "tables": [],
+        "quote": "Seven (6%) patients developed respiratory failure following stent insertion and required mechanical ventilation in the intensive care unit lasting for <1 day (four patients with airway stents, one patient with double stents and two with oesophageal stents)."
+      }
+    },
+    {
+      "event_name": "Device migration",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Device migration"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "airway",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 65
+        },
+        {
+          "arm_id": "oesophagus",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 37
+        },
+        {
+          "arm_id": "double",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 10
+        }
+      ],
+      "period": "Entire follow-up",
+      "management": "",
+      "provenance": {
+        "pages": [
+          1371
+        ],
+        "tables": [],
+        "quote": "None of the patients developed stent migration or required repositioning of the stent."
+      }
+    },
+    {
+      "event_name": "Oesophageal perforation",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Oesophageal perforation"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "other clinically significant"
+      ],
+      "groups": [
+        {
+          "arm_id": "airway",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 65
+        },
+        {
+          "arm_id": "oesophagus",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 37
+        },
+        {
+          "arm_id": "double",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 10
+        }
+      ],
+      "period": "Entire follow-up",
+      "management": "",
+      "provenance": {
+        "pages": [
+          1372
+        ],
+        "tables": [],
+        "quote": "There were no complications of perforation or mediastinitis."
+      }
+    },
+    {
+      "event_name": "Mediastinitis",
+      "meddra": {
+        "soc": "Infections and infestations",
+        "pt": "Mediastinitis"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "hospitalization"
+      ],
+      "groups": [
+        {
+          "arm_id": "airway",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 65
+        },
+        {
+          "arm_id": "oesophagus",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 37
+        },
+        {
+          "arm_id": "double",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 10
+        }
+      ],
+      "period": "Entire follow-up",
+      "management": "",
+      "provenance": {
+        "pages": [
+          1372
+        ],
+        "tables": [],
+        "quote": "There were no complications of perforation or mediastinitis."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "ROBINS-I",
+    "overall_judgment": "moderate",
+    "domains": [
+      {
+        "name": "Confounding",
+        "judgment": "moderate",
+        "support_for_judgment": "Nonrandomized allocation to stent location based on clinical indication; multivariable regression adjusted for key factors."
+      },
+      {
+        "name": "Selection of participants",
+        "judgment": "low",
+        "support_for_judgment": "Prospective inclusion of all eligible patients with malignant AEF over the study period."
+      },
+      {
+        "name": "Classification of interventions",
+        "judgment": "low",
+        "support_for_judgment": "Interventions clearly defined (airway, oesophageal, or double stenting) with standard devices and techniques."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "low",
+        "support_for_judgment": "Management followed predefined algorithm; immediate second stent placed if dye test indicated persistent fistula."
+      },
+      {
+        "name": "Missing data",
+        "judgment": "low",
+        "support_for_judgment": "Complete survival follow-up obtained; QoL assessed in all patients at 6 weeks per report."
+      },
+      {
+        "name": "Measurement of outcomes",
+        "judgment": "low",
+        "support_for_judgment": "Objective outcomes (survival, complications) and validated QoL instrument (EORTC QLQ-C30)."
+      },
+      {
+        "name": "Selection of reported result",
+        "judgment": "low",
+        "support_for_judgment": "Predefined outcomes reported with statistical analyses as described in Methods."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "airway-oesophageal fistula",
+      "tracheo-oesophageal fistula",
+      "self-expandable metallic stent",
+      "airway stent",
+      "oesophageal stent",
+      "quality of life",
+      "survival"
+    ],
+    "summary_tldr": "In 112 patients with malignant airway-oesophageal fistula, stenting achieved immediate fistula closure in all, 30-day mortality 0, mean survival 236.6 days, and improved QLQ-C30 scores at 6 weeks (p<0.001). Airway-only stenting had lower survival vs oesophageal or double stenting (p=0.023).",
+    "clinical_relevance": "Supports airway and/or oesophageal stenting as effective palliation for malignant airway-oesophageal fistula with improved quality of life and acceptable safety."
+  }
+}

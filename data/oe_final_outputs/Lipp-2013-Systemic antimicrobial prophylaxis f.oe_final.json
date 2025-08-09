@@ -1,0 +1,220 @@
+{
+  "source": {
+    "document_id": "Lipp-2013-Systemic antimicrobial prophylaxis f",
+    "ingest_date": "2025-08-08T14:03:20.623260+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1002/14651858.CD005571.pub3"
+  },
+  "document": {
+    "metadata": {
+      "title": "Systemic antimicrobial prophylaxis for percutaneous endoscopic gastrostomy",
+      "year": 2013,
+      "authors": [
+        "Lipp A",
+        "Lusardi G"
+      ],
+      "journal": "Cochrane Database of Systematic Reviews",
+      "doi": "10.1002/14651858.CD005571.pub3",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Background Percutaneous endoscopic gastrostomy (PEG) is a surgical procedure performed to maintain nutrition in the short- or long-term. During the procedure, a feeding tube that delivers either a liquid diet, or medication, via a clean or sterile delivery system, is placed surgically through the anterior abdominal wall. Those undergoing PEG tube placement are often vulnerable to infection because of age, compromised nutritional intake, immunosuppression, or underlying disease processes such as malignancy and diabetes mellitus. The increasing incidence of methicillin-resistant Staphylococcus aureus (MRSA) contributes both an additional risk to the placement procedure, and to the debate surrounding antibiotic prophylaxis for PEG tube placement. The aim of surgical antimicrobial prophylaxis is to establish a bactericidal concentration of an antimicrobial drug in the patient's serum and tissues, via a brief course of an appropriate agent, by the time of PEG tube placement in order to prevent any peristomal infections that might result from the procedure. Objectives To establish whether prophylactic use of systemic antimicrobials reduces the risk of peristomal infection in people undergoing placement of percutaneous endoscopic gastrostomy tubes. Search methods In August 2013, for this third update, we searched the Cochrane Wounds Group Specialised Register; The Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library); Ovid Medline; Ovid Medline (In-Process & Other Non-Indexed Citations); Ovid Embase; and EBSCO CINAHL. Selection criteria Randomised controlled trials (RCTs) evaluating the use of prophylactic antimicrobials during PEG tube placement, with no restrictions regarding language of publication, date of publication, or publication status. Both review authors independently selected studies. Data collection and analysis Both review authors independently extracted data and assessed study quality. Meta-analyses were performed where appropriate. Main results One new trial was identified and included in this update, bringing the total to 13 eligible RCTs, with a total of 1637 patients. All trials reported peristomal infection as an outcome. A pooled analysis of 12 trials resulted in a statistically significant reduction in the incidence of peristomal infection with prophylactic antibiotics (1271 patients pooled: OR 0.36, 95% CI 0.26 to 0.50). The newly identified trial compared IV antibiotics with antibiotics via PEG and could not be included in the meta-analysis. Authors' conclusions Administration of systemic prophylactic antibiotics for PEG tube placement reduces peristomal infection.",
+      "methods": "Criteria for considering studies for this review Types of studies Randomised controlled trials (RCTs) evaluating antimicrobial prophylaxis in people undergoing placement of PEG tubes. Types of participants Studies in people of any age, gender or diagnosis, undergoing placement of a PEG tube. Studies in people undergoing replacement of PEG tubes were excluded, along with those undergoing percutaneous endoscopic jejunostomy (PEJ), or percutaneous endoscopic duodenostomy (PED). Types of interventions Studies involving antimicrobial prophylaxis compared with placebo or usual care; and comparisons between different antimicrobial regimens, were eligible for inclusion. Types of outcome measures Primary outcomes Diagnosis of peristomal site infection (as defined by the study authors) up to 30 days after placement of PEG tube. Secondary outcomes Identification of bacteria causing infection; Peritonitis; Adverse effects, such as antibiotic-associated diarrhoea or anaphylaxis; Mortality; Removal of PEG tube because of infection; Length of hospital stay. Search methods In August 2013, searches were conducted in the Cochrane Wounds Group Specialised Register, CENTRAL, Ovid MEDLINE (including In-Process), Ovid EMBASE, and EBSCO CINAHL, using RCT filters where appropriate. Study selection, data extraction, and quality assessment were undertaken independently by two authors. Meta-analyses were performed where appropriate.",
+      "results": "Thirteen RCTs (1637 patients) met inclusion criteria. All trials reported peristomal infection. Twelve trials were pooled, showing a statistically significant reduction in peristomal infection with systemic prophylactic antibiotics administered intravenously at the time of PEG placement (1271 patients pooled: OR 0.36, 95% CI 0.26 to 0.50). One new trial compared IV antibiotics with antibiotics administered via the PEG and was not included in the meta-analysis. The review supports administration of systemic prophylactic antibiotics to reduce peristomal infection after PEG placement."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "People of any age undergoing placement of a percutaneous endoscopic gastrostomy (PEG) tube.",
+      "inclusion_criteria": [
+        "Randomized controlled trials of PEG tube placement",
+        "Participants undergoing initial PEG placement"
+      ],
+      "exclusion_criteria": [
+        "PEG tube replacement procedures",
+        "Percutaneous endoscopic jejunostomy (PEJ) or duodenostomy (PED)",
+        "Non-randomized studies"
+      ]
+    },
+    "intervention": {
+      "text": "Systemic prophylactic antibiotics",
+      "details": "Typically a single pre-procedural intravenous antibiotic dose administered around the time of PEG placement; one trial compared IV administration to antibiotic administration via PEG."
+    },
+    "comparison": {
+      "text": "Placebo or no antibiotic prophylaxis; skin antiseptic alone; or alternative antibiotic regimens",
+      "details": "Controls included placebo, no systemic antibiotic, or skin antiseptic; one study compared route of antibiotic administration (IV vs via PEG)."
+    },
+    "outcomes": [
+      {
+        "name": "Peristomal infection within 30 days of PEG placement",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Identification of causative bacteria",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Peritonitis",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Antibiotic-related adverse effects (e.g., diarrhoea, anaphylaxis)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Mortality",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Removal of PEG tube due to infection",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Length of hospital stay",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "systematic_review_meta_analysis",
+    "allocation": "not_applicable",
+    "blinding": "not_applicable",
+    "sites_count": null,
+    "countries": [],
+    "sample_size": {
+      "planned": null,
+      "enrolled": 1637,
+      "analyzed": 1271
+    },
+    "analysis_populations": [
+      {
+        "name": "Meta-analyzed dataset",
+        "description": "Participants from 12 RCTs included in the pooled analysis of peristomal infection",
+        "n": 1271
+      },
+      {
+        "name": "All included RCT participants",
+        "description": "All participants across 13 included RCTs",
+        "n": 1637
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "Systemic antibiotic prophylaxis (IV)",
+      "n_randomized": null,
+      "n_analyzed": null,
+      "n_completed": null
+    },
+    {
+      "arm_id": "control",
+      "name": "Placebo or no systemic antibiotic (± skin antiseptic)",
+      "n_randomized": null,
+      "n_analyzed": null,
+      "n_completed": null
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "peristomal_infection_30d",
+      "name": "Peristomal infection within 30 days",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P30D",
+      "timepoint_label": "30 days",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": null,
+            "total": null
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": null,
+            "total": null
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "odds_ratio",
+        "est": 0.36,
+        "ci_lower": 0.26,
+        "ci_upper": 0.5,
+        "ci_level": 0.95,
+        "p_value": 0.001,
+        "p_operator": "<",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Mantel-Haenszel fixed-effect (pooled across 12 RCTs)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Meta-analyzed dataset (12 trials, 1271 participants)",
+        "missing_handling": "As per individual trials; meta-analysis used available-case data"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "table_number": null,
+        "quote": "A pooled analysis of 12 trials resulted in a statistically significant reduction in the incidence of peristomal infection with prophylactic antibiotics (1271 patients pooled: OR 0.36, 95% CI 0.26 to 0.50)."
+      }
+    }
+  ],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "RoB 2",
+    "overall_judgment": "unclear",
+    "domains": [
+      {
+        "name": "Randomization process",
+        "judgment": "unclear",
+        "support_for_judgment": "Individual RCTs varied; details not provided in the excerpt."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "unclear",
+        "support_for_judgment": "Not detailed in the excerpt."
+      },
+      {
+        "name": "Missing outcome data",
+        "judgment": "unclear",
+        "support_for_judgment": "Not detailed in the excerpt."
+      },
+      {
+        "name": "Measurement of the outcome",
+        "judgment": "unclear",
+        "support_for_judgment": "Peristomal infection definition as per study authors; detailed methods not in excerpt."
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "low",
+        "support_for_judgment": "Primary outcome (peristomal infection) reported for all trials; pooled meta-analysis presented."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "percutaneous endoscopic gastrostomy",
+      "PEG",
+      "antibiotic prophylaxis",
+      "peristomal infection",
+      "systemic antibiotics",
+      "Cochrane Wounds Group"
+    ],
+    "summary_tldr": "Across 12 RCTs (1271 participants), systemic prophylactic antibiotics given at PEG placement reduced peristomal infections (OR 0.36, 95% CI 0.26-0.50).",
+    "clinical_relevance": "Supports routine use of a single-dose systemic antibiotic prophylaxis before PEG placement to prevent peristomal infection."
+  }
+}

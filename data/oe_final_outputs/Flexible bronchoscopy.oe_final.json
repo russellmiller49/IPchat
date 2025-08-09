@@ -1,0 +1,80 @@
+{
+  "source": {
+    "document_id": "Flexible bronchoscopy",
+    "ingest_date": "2025-08-08T12:42:09.671834+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1016/j.ccm.2017.09.002"
+  },
+  "document": {
+    "metadata": {
+      "title": "Flexible Bronchoscopy",
+      "year": 2018,
+      "authors": [
+        "Russell J. Miller",
+        "Roberto F. Casal",
+        "Donald R. Lazarus",
+        "David E. Ost",
+        "George A. Eapen"
+      ],
+      "journal": "Clinics in Chest Medicine",
+      "doi": "10.1016/j.ccm.2017.09.002",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "",
+      "methods": "Narrative review describing the history, technology, indications, contraindications, core diagnostic techniques, and complications of conventional flexible bronchoscopy, including bronchoalveolar lavage, transbronchial lung biopsy, transbronchial needle aspiration, bronchial washing, brushing, and endobronchial biopsy.",
+      "results": "This review summarizes typical diagnostic yields reported in the literature for core bronchoscopic techniques (for example, brushing yield around 60 to 90 percent in visible endobronchial lesions; endobronchial biopsy yield at least 70 percent), common practice considerations (lavage volumes, sequence of procedures), and expected risks (hypoxemia during BAL, transient fever after BAL). No single clinical study with primary outcomes, comparative arms, or inferential statistics is presented."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Patients undergoing flexible bronchoscopy for diagnosis of bronchopulmonary diseases, including suspected infection, malignancy, and diffuse parenchymal lung disease.",
+      "inclusion_criteria": [],
+      "exclusion_criteria": []
+    },
+    "intervention": {
+      "text": "Conventional flexible bronchoscopy procedures",
+      "details": "Bronchoalveolar lavage, transbronchial lung biopsy, transbronchial needle aspiration, bronchial washings, bronchial brushing, and endobronchial biopsy."
+    },
+    "comparison": {
+      "text": "",
+      "details": ""
+    },
+    "outcomes": []
+  },
+  "design": {
+    "study_type": "narrative_review",
+    "allocation": "none",
+    "blinding": "none",
+    "sites_count": 0,
+    "countries": [],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": []
+  },
+  "arms": [],
+  "outcomes_normalized": [],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "none",
+    "overall_judgment": "not_applicable",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "flexible bronchoscopy",
+      "bronchoalveolar lavage",
+      "transbronchial lung biopsy",
+      "transbronchial needle aspiration",
+      "bronchial brushing",
+      "bronchial washings",
+      "endobronchial biopsy"
+    ],
+    "summary_tldr": "Narrative review of conventional flexible bronchoscopy covering history, core diagnostic techniques (BAL, TBLB, TBNA, brushing, washings, biopsy), typical yields, and procedural considerations.",
+    "clinical_relevance": "Provides foundational guidance on indications, techniques, and expected diagnostic performance of core flexible bronchoscopy procedures for clinicians and trainees."
+  }
+}

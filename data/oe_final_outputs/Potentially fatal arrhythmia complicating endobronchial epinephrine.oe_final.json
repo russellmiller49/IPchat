@@ -1,0 +1,287 @@
+{
+  "source": {
+    "document_id": "Potentially fatal arrhythmia complicating endobronchial epinephrine",
+    "ingest_date": "2025-08-08T14:57:10.841617+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": ""
+  },
+  "document": {
+    "metadata": {
+      "title": "Potentially Fatal Arrhythmia Complicating Endobronchial Epinephrine for Control of Iatrogenic Bleeding",
+      "year": 2012,
+      "authors": [
+        "Daniel P. Steinfort",
+        "Felix J. F. Herth",
+        "Ralf Eberhardt",
+        "Louis B. Irving"
+      ],
+      "journal": "American Journal of Respiratory and Critical Care Medicine",
+      "doi": "",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Letter describing two cases of ventricular fibrillation occurring seconds after endobronchial epinephrine (5 ml, 1:20,000) instillation via guide sheath for severe bleeding during EBUS-guided transbronchial lung biopsy. Both patients had no identified cardiac risk factors, were resuscitated with cardioversion, and recovered. Authors question efficacy and safety of endobronchial epinephrine for biopsy-related bleeding and advise against administering epinephrine into the lung periphery via guide sheath.",
+      "methods": "Case series of two patients undergoing EBUS-guided TBLB with severe bleeding managed with endobronchial epinephrine via guide sheath. Clinical course, dose, temporal relationship to arrhythmia, and subsequent evaluations reported.",
+      "results": "Both patients received epinephrine 0.25 mg endobronchially. Ventricular fibrillation developed within seconds, requiring cardioversion (150 J and 250 J). Electrolytes and subsequent cardiac evaluations were normal. No deaths occurred. Authors note literature reports of serious cardiac events with low-dose epinephrine and the rarity of fatal bleeding after TBLB."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults undergoing EBUS-guided transbronchial lung biopsy with significant bleeding.",
+      "inclusion_criteria": [
+        "Underwent EBUS-guided TBLB with guide sheath",
+        "Significant bleeding not controlled by suction/tamponade"
+      ],
+      "exclusion_criteria": [
+        "Known pre-existing risk factors for fatal arrhythmia (none reported in cases)"
+      ]
+    },
+    "intervention": {
+      "text": "Endobronchial epinephrine via guide sheath",
+      "details": "Instillation of 5 ml epinephrine 1:20,000 (0.25 mg) into the lung periphery at the bleeding site during EBUS-TBLB."
+    },
+    "comparison": {
+      "text": "None",
+      "details": "No concurrent control group; descriptive case series."
+    },
+    "outcomes": [
+      {
+        "name": "Intra-procedural ventricular fibrillation after endobronchial epinephrine",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Successful cardioversion to sinus rhythm",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Periprocedural mortality",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "case series",
+    "allocation": "non-randomized",
+    "blinding": "none",
+    "sites_count": 2,
+    "countries": [
+      "Australia",
+      "Germany"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 2,
+      "analyzed": 2
+    },
+    "analysis_populations": [
+      {
+        "name": "case_series",
+        "description": "All reported cases",
+        "n": 2
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "Endobronchial epinephrine via guide sheath during EBUS-TBLB bleeding",
+      "n_randomized": 0,
+      "n_analyzed": 2,
+      "n_completed": 2
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "vf_during_bronchoscopy",
+      "name": "Ventricular fibrillation during procedure",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "PT0H",
+      "timepoint_label": "Intra-procedure",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 2,
+            "total": 2
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "case_series",
+        "missing_handling": "none"
+      },
+      "provenance": {
+        "pages": [
+          1028,
+          1029
+        ],
+        "tables": [],
+        "quote": "Within 5 seconds, a narrow QRS complex tachycardia developed, and over 15 seconds, the ECG deteriorated into ventricular fibrillation (VF)… Within seconds, VF developed."
+      }
+    },
+    {
+      "concept_id": "cardioversion_success_intraop",
+      "name": "Restoration of sinus rhythm by cardioversion",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "PT0H",
+      "timepoint_label": "Intra-procedure",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 2,
+            "total": 2
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "case_series",
+        "missing_handling": "none"
+      },
+      "provenance": {
+        "pages": [
+          1028,
+          1029
+        ],
+        "tables": [],
+        "quote": "Sinus rhythm was restored within 3 minutes by cardioversion (150 J)… Restoration of sinus rhythm was achieved by direct cardioversion (250 J)."
+      }
+    },
+    {
+      "concept_id": "periprocedural_mortality",
+      "name": "Periprocedural mortality",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P1D",
+      "timepoint_label": "Periprocedural",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 0,
+            "total": 2
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "case_series",
+        "missing_handling": "none"
+      },
+      "provenance": {
+        "pages": [
+          1029,
+          1030
+        ],
+        "tables": [],
+        "quote": "ECG subsequently demonstrated no abnormalities… subsequent lobectomy was uneventful… Left heart catheterization demonstrated normal findings."
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Ventricular fibrillation",
+      "meddra": {
+        "soc": "Cardiac disorders",
+        "pt": "Ventricular fibrillation"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "life-threatening",
+        "required intervention",
+        "hospitalization"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 2,
+          "patients": 2,
+          "percentage": 100,
+          "total": 2
+        }
+      ],
+      "period": "Intra-procedural",
+      "management": "Electrical cardioversion (150 J in case 1; 250 J in case 2) with restoration of sinus rhythm.",
+      "provenance": {
+        "pages": [
+          1028,
+          1029
+        ],
+        "tables": [],
+        "quote": "ECG deteriorated into ventricular fibrillation (VF)… Sinus rhythm was restored within 3 minutes by cardioversion (150 J)… Within seconds, VF developed… Restoration of sinus rhythm was achieved by direct cardioversion (250 J)."
+      }
+    },
+    {
+      "event_name": "Tachycardia",
+      "meddra": {
+        "soc": "Cardiac disorders",
+        "pt": "Tachycardia"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "other medically important event"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 1,
+          "patients": 1,
+          "percentage": 50,
+          "total": 2
+        }
+      ],
+      "period": "Intra-procedural",
+      "management": "Progressed to ventricular fibrillation; managed with cardioversion.",
+      "provenance": {
+        "pages": [
+          1028
+        ],
+        "tables": [],
+        "quote": "Within 5 seconds, a narrow QRS complex tachycardia developed, and over 15 seconds, the ECG deteriorated into ventricular fibrillation (VF)."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "custom",
+    "overall_judgment": "high",
+    "domains": [
+      {
+        "name": "Selection bias",
+        "judgment": "high",
+        "support_for_judgment": "Uncontrolled case series of 2 cases without comparator."
+      },
+      {
+        "name": "Measurement of outcomes",
+        "judgment": "low",
+        "support_for_judgment": "Objective outcomes (ECG-documented ventricular fibrillation, cardioversion)."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "endobronchial epinephrine",
+      "ventricular fibrillation",
+      "bronchoscopy",
+      "EBUS",
+      "guide sheath",
+      "transbronchial lung biopsy",
+      "iatrogenic bleeding"
+    ],
+    "summary_tldr": "In a 2-patient case series, ventricular fibrillation occurred seconds after endobronchial epinephrine (0.25 mg) via guide sheath for TBLB bleeding; both were cardioverted. Authors advise against epinephrine instillation into the lung periphery.",
+    "clinical_relevance": "Highlights potentially fatal arrhythmia risk from endobronchial epinephrine during bronchoscopy and supports preference for iced saline and tamponade over epinephrine in managing TBLB bleeding."
+  }
+}

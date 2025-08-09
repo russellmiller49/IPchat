@@ -1,0 +1,87 @@
+{
+  "source": {
+    "document_id": "Alsunaid-2021-Wound care management_ tracheost",
+    "ingest_date": "2025-08-08T09:42:57.834271+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.21037/jtd-2019-ipicu-13"
+  },
+  "document": {
+    "metadata": {
+      "title": "Wound care management: tracheostomy and gastrostomy",
+      "year": 2021,
+      "authors": [
+        "Sammar Alsunaid",
+        "Van K. Holden",
+        "Akshay Kohli",
+        "Jose Diaz",
+        "Lindsay B. O’Meara"
+      ],
+      "journal": "Journal of Thoracic Disease",
+      "doi": "10.21037/jtd-2019-ipicu-13",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Percutaneous dilatational tracheostomy (PDT) and percutaneous endoscopic gastrostomy (PEG) tube placements are routine procedures performed in the intensive care units (ICUs). They are performed to facilitate care and promote healing. They also help prevent complications from prolonged endotracheal intubation and malnutrition. In most cases, both are performed simultaneously. Physicians performing them require knowledge of local anatomy, tissue and vascular relationships, along with advance bronchoscopy and endoscopy skills. Although PDTs and PEGs are considered relatively low-risk procedures, operators need to have the knowledge and skill to recognize and prevent adverse outcomes. Current published literature on post-procedural care and stoma wound management was reviewed. Available recommendations for the routine care of tracheostomy and PEG tubes are included in this review. Signs and symptoms of early PDT- and PEG-related complications and their management are discussed in detail. These include hemorrhage, infection, accidental decannulation, tube obstruction, clogging, and dislodgement. Rare, life-threatening complications are also discussed. Multidisciplinary teams are needed for improved patient care, and members should be aware of all pertinent care aspects and potential complications related to PDT and PEG placement. Each institute is strongly encouraged to have detailed protocols to standardize care. This review provides a state-of-the-art guidance on the care of patients with tracheostomies and gastrostomies specifically in the ICU setting.",
+      "methods": "Narrative review of current published literature on post-procedural care and stoma wound management for percutaneous dilatational tracheostomy (PDT) and percutaneous endoscopic gastrostomy (PEG) in ICU patients, including recommendations for routine care and recognition/management of complications.",
+      "results": "Key quantitative findings summarized in the review include: approximately 10-15% of patients requiring mechanical ventilation undergo tracheostomy; up to 34% of patients ventilated for more than 48 hours required tracheostomy; more than 50% of tracheostomy patients required PEG placement. A review of 22 studies with 1,608 patients (813 PDT, 795 surgical tracheostomy) found no statistically significant differences in mortality, intra-operative hemorrhage, or post-operative hemorrhage, with lower infection risk and shorter procedure time favoring PDT. A Cochrane review reported no differences in mortality directly related to the procedure, serious intra-operative adverse events, major bleeding, tracheostomy tube occlusion, or accidental decannulation, and confirmed lower wound infection and unfavorable scarring with PDT. Recommended care practices include stoma inspection every 4-8 hours for newly placed tracheostomies; suctioning limited to the tracheostomy tube length; use of humidified oxygen; trocar and yankauer changes every 24 hours. Closed tracheal suctioning systems showed no significant differences versus open systems in ventilator-associated pneumonia incidence, mortality, or ICU length of stay, but higher bacterial colonization rates. Complication data include: need for surgical exploration or vessel ligation in up to 5% of bleeding cases; tracheo-innominate fistula incidence of 0.7% with mortality greater than 75%; stomal infection incidence approximately 5-6%. Tracheostomy cuff pressure should be maintained at 20-25 mmHg to minimize mucosal ischemia; underinflation below 15 mmHg can lead to an inadequate seal and aspiration risk."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adult ICU patients with percutaneous dilatational tracheostomy (PDT) and/or percutaneous endoscopic gastrostomy (PEG) requiring post-procedural wound and device care.",
+      "inclusion_criteria": [],
+      "exclusion_criteria": []
+    },
+    "intervention": {
+      "text": "Standardized post-procedural care protocols for tracheostomy and gastrostomy in the ICU",
+      "details": "Stoma cleaning with sterile water or normal saline; inspection every 4-8 hours for new tracheostomies; use of barrier films for skin protection; suctioning limited to cannula length; use of humidified oxygen; closed tracheal suction systems as appropriate; secure tracheostomy ties allowing one-finger breadth; early suture removal within 7 days when used; routine inner cannula inspection and cleaning at least 3 times per day initially; target cuff pressure 20-25 mmHg; avoidance of overinflation and prolonged neck hyperextension; timely management of bleeding and infection."
+    },
+    "comparison": {
+      "text": "",
+      "details": ""
+    },
+    "outcomes": [
+      {
+        "name": "Tracheostomy-related complications (bleeding, infection, dislodgement, tube obstruction, pressure injury, TIF)",
+        "type": "key_finding",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Review",
+    "allocation": "none",
+    "blinding": "none",
+    "sites_count": 0,
+    "countries": [],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": []
+  },
+  "arms": [],
+  "outcomes_normalized": [],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "None",
+    "overall_judgment": "NA",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "tracheostomy",
+      "percutaneous dilatational tracheostomy",
+      "percutaneous endoscopic gastrostomy",
+      "ICU",
+      "wound care",
+      "stoma infection",
+      "tracheo-innominate fistula",
+      "cuff pressure"
+    ],
+    "summary_tldr": "Narrative ICU-focused review summarizing best practices for tracheostomy and PEG care, with reported stomal infection incidence 5-6% and tracheo-innominate fistula incidence 0.7% with mortality >75%.",
+    "clinical_relevance": "Provides practical, ICU-specific guidance to standardize post-procedural tracheostomy and PEG care and recognize/manage complications."
+  }
+}

@@ -1,0 +1,598 @@
+{
+  "source": {
+    "document_id": "EBUS-TBNA and EUS-FNA Risk Assessment for Clopidogrel",
+    "ingest_date": "2025-08-08T11:44:13.427286+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1097/LBR.0000000000000312"
+  },
+  "document": {
+    "metadata": {
+      "title": "EBUS-TBNA and EUS-FNA Risk Assessment for Patients Receiving Clopidogrel",
+      "year": 2016,
+      "authors": [
+        "Nikhil Meena",
+        "Wissam Abouzgheib",
+        "Setu Patolia",
+        "Justin Rosenheck",
+        "Ziad Boujaoude",
+        "Thaddeus Bartter"
+      ],
+      "journal": "Journal of Bronchology & Interventional Pulmonology",
+      "doi": "10.1097/LBR.0000000000000312",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Background: Clopidogrel is widely used for the prevention of thrombotic vascular complications. Its primary potential toxicity is bleeding. Management of clopidogrel therapy for patients undergoing invasive procedures is an area of ongoing study. We sought to evaluate the bleeding risk for patients undergoing needle aspiration biopsy by endobronchial ultrasound (EBUS) or esophageal ultrasound (EUS) while taking clopidogrel. Methods: Retrospective review of sequential cases of endobronchial ultrasound-guided transbronchial needle aspiration (EBUS-TBNA) and esophageal ultrasound fine needle aspiration (EUS-FNA). Results: Three hundred ninety-five consecutive procedures were reviewed. Thirty-seven patients were taking clopidogrel at time of biopsy. The patients taking clopidogrel were significantly older than those in the control group. Two patients (1%) in the control group were admitted for observation, but neither was found to have a significant bleed. There were no clinically significant bleeding complications in either of the study groups. Conclusions: It is reasonable to proceed with EBUS-TBNA or EUS-FNA when both, (1) clopidogrel cannot be stopped and, (2) an important diagnostic question is at stake.",
+      "methods": "Retrospective chart review at a single institution (University of Arkansas for Medical Sciences; protocol #204048) of consecutive EBUS-TBNA and EUS-FNA procedures performed between July 31, 2014 and June 30, 2015. Procedures were conducted under conscious sedation with physician-administered propofol. Patients were supine with head elevation ≈30 degrees, no repositioning, and all procedures performed orally through a bite block without endotracheal intubation or laryngeal mask airway. A convex curvilinear bronchoscope (Olympus UC180F) and a 22-G needle (Olympus) were used. Doppler was not used during sampling. Suction was routinely applied. Rapid on-site cytologic examination (ROSE) was available. Data collected: age, sex, procedure type, number of sites biopsied, antiplatelet/anticoagulant use, procedure-related bleeding, pre/post hemoglobin (when available), required interventions, and additional procedures during the same sedation. Patients on clopidogrel who held it >4 days were placed in the control group. Patients on aspirin only were not included in the antiplatelet group. Significant bleeding was defined as a hemoglobin drop ≥2 g/dL or any acute/delayed bleeding requiring observation or intervention. All consecutive EBUS-TBNA and/or EUS-FNA procedures in the interval were included. Analyses were performed using SPSS.",
+      "results": "A total of 395 procedures were reviewed (198 EBUS-TBNA; 197 EUS-FNA), including 78 combined procedures (categorized by the first procedure performed). Pre- and postprocedure hemoglobin values were available for 211 procedures. Thirty-seven patients continued clopidogrel periprocedurally (20 EUS-FNA; 17 EBUS-TBNA); 358 patients had no antiplatelet therapy and served as controls. Among clopidogrel patients, 31/37 had drug-eluting stents placed 16 ± 8 days prior; 6/37 had stents placed 91 ± 27 days prior. No other antiplatelet agents (excluding aspirin) were used. Patients on clopidogrel were older (69 ± 23 vs 58 ± 18 years; P < 0.0001). Additional procedures were more frequent in controls (7/37 [19%] vs 87/358 [24%]; P < 0.0002). Across controls, 951 sites were sampled; 17 (1.7%) were inadequate at ROSE but all were adequate after cell block. In the clopidogrel group, 83 sites were sampled; 1 (1.2%) was inadequate at ROSE but adequate after cell block. Needle passes per site were 3.87 ± 2.78 (clopidogrel) vs 5.12 ± 3.96 (control; P = 0.078). Overall in the clopidogrel group, 46/83 sites (55%) were malignant. There were no significant bleeding events in either group. Two complications occurred in controls: (1) suspected mediastinal bleeding on ultrasound after EBUS-TBNA leading to observation and CT angiography without evidence of active bleeding; pre/post hemoglobin 11.2 to 10.3 g/dL, discharged the next morning; (2) right pleural effusion presenting 3 days post EBUS-TBNA of 11R requiring chest tube; blood-tinged exudate; not hemothorax; no transfusion. No complications occurred in the clopidogrel group (P = 0.652)."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults undergoing EBUS-TBNA and/or EUS-FNA at a single US academic center (consecutive cases, July 2014-June 2015).",
+      "inclusion_criteria": [
+        "Consecutive EBUS-TBNA and/or EUS-FNA procedures within study period",
+        "Availability of procedural data; pre/post hemoglobin when available"
+      ],
+      "exclusion_criteria": [
+        "Not explicitly stated; patients on aspirin monotherapy were not included in the antiplatelet (clopidogrel) group",
+        "Patients who held clopidogrel >4 days were analyzed in control (no antiplatelet) group"
+      ]
+    },
+    "intervention": {
+      "text": "Continuation of clopidogrel during endosonographic needle aspiration (EBUS-TBNA or EUS-FNA).",
+      "details": "Clopidogrel continued periprocedurally; procedures under propofol conscious sedation using Olympus UC180F with 22-G needle; suction applied; ROSE available; no Doppler; oral approach without airway devices."
+    },
+    "comparison": {
+      "text": "No antiplatelet therapy",
+      "details": "Includes patients not on antiplatelet therapy and those who held clopidogrel for >4 days before the procedure."
+    },
+    "outcomes": [
+      {
+        "name": "Clinically significant bleeding (hemoglobin drop ≥2 g/dL or bleeding requiring observation/intervention)",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Any clinically relevant complication",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Change in hemoglobin from pre- to post-procedure",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Number of aspirations per site",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Specimen adequacy (post cell block), per site",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "observational",
+    "allocation": "non-randomized",
+    "blinding": "none",
+    "sites_count": 1,
+    "countries": [
+      "US"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 395,
+      "analyzed": 395
+    },
+    "analysis_populations": [
+      {
+        "name": "Overall cohort",
+        "description": "All consecutive procedures analyzed",
+        "n": 395
+      },
+      {
+        "name": "Clopidogrel continued",
+        "description": "Patients who continued clopidogrel periprocedurally",
+        "n": 37
+      },
+      {
+        "name": "No antiplatelet therapy",
+        "description": "Patients not receiving antiplatelet therapy (including those who held clopidogrel >4 days)",
+        "n": 358
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "Clopidogrel continued",
+      "n_randomized": 37,
+      "n_analyzed": 37,
+      "n_completed": 37
+    },
+    {
+      "arm_id": "control",
+      "name": "No antiplatelet therapy",
+      "n_randomized": 358,
+      "n_analyzed": 358,
+      "n_completed": 358
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "clinically_significant_bleeding",
+      "name": "Clinically significant bleeding",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "Periprocedural and delayed (as defined)",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 0,
+            "total": 37
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 0,
+            "total": 358
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": 0,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "descriptive (no events in either group)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Overall cohort",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          305
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "There were no instances of significant bleeding in either group."
+      },
+      "derived": {
+        "arr": 0.0
+      }
+    },
+    {
+      "concept_id": "any_clinically_relevant_complication",
+      "name": "Any clinically relevant complication",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "Periprocedural to 3 days post-procedure (as reported)",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 0,
+            "total": 37
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 2,
+            "total": 358
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": -0.0056,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.652,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Unadjusted comparison (test not specified; Chi-square or Fisher's exact)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Overall cohort",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          304,
+          305
+        ],
+        "tables": [
+          "Table 1"
+        ],
+        "table_number": 1,
+        "quote": "Complications 0 vs 2; P = 0.652."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.0
+        },
+        "odds_ratio": {
+          "est": 0.0
+        },
+        "arr": -0.006,
+        "nnh": 179.0
+      }
+    },
+    {
+      "concept_id": "delta_hemoglobin",
+      "name": "Change in hemoglobin (pre- to post-procedure)",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "Immediate pre- to post-procedure (subset with labs)",
+      "unit": "g/dL",
+      "unit_canonical": "g/dL",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": 1.1,
+            "sd": 2.9,
+            "total": null
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "mean": 1.3,
+            "sd": 1.7,
+            "total": null
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "mean_difference",
+        "est": -0.2,
+        "ci_lower": null,
+        "ci_upper": null,
+        "p_value": 0.69,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Unadjusted comparison (test not specified)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Subset with available labs (n = 211 overall)",
+        "missing_handling": "Complete-case; only those with pre/post Hgb"
+      },
+      "provenance": {
+        "pages": [
+          304
+        ],
+        "tables": [
+          "Table 1"
+        ],
+        "quote": "ΔHgb (g/dL): 1.1 ± 2.9 vs 1.3 ± 1.7; P = 0.69 (n = 211 for this row only)."
+      }
+    },
+    {
+      "concept_id": "aspirations_per_site",
+      "name": "Aspirations per site",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "Per procedure",
+      "unit": "passes per site",
+      "unit_canonical": "count",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": 3.87,
+            "sd": 2.78,
+            "total": 83
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "mean": 5.12,
+            "sd": 3.96,
+            "total": 951
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "mean_difference",
+        "est": -1.25,
+        "ci_lower": null,
+        "ci_upper": null,
+        "p_value": 0.078,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Unadjusted comparison (test not specified)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All sampled sites",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          304
+        ],
+        "tables": [
+          "Table 1"
+        ],
+        "quote": "Aspirations/site: 3.87 ± 2.78 vs 5.12 ± 3.96; P = 0.078."
+      }
+    },
+    {
+      "concept_id": "added_procedures_same_sedation",
+      "name": "Added procedures performed during same sedation",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "Index encounter",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 7,
+            "total": 37
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 87,
+            "total": 358
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": -0.0544,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.0002,
+        "p_operator": "<",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Unadjusted comparison (test not specified)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Overall cohort",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          304
+        ],
+        "tables": [
+          "Table 1"
+        ],
+        "table_number": 1,
+        "quote": "Added procedures [n (%)]: 7 (19) vs 87 (24); P < 0.0002."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.779
+        },
+        "odds_ratio": {
+          "est": 0.727
+        },
+        "arr": -0.054,
+        "nnh": 18.6
+      }
+    },
+    {
+      "concept_id": "specimen_adequacy_sites",
+      "name": "Specimen adequacy after cell block (per site)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "Per site",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 83,
+            "total": 83
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 951,
+            "total": 951
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": 0,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive (100% adequate in both groups after cell block)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All sampled sites",
+        "missing_handling": "Not applicable"
+      },
+      "provenance": {
+        "pages": [
+          304
+        ],
+        "tables": [],
+        "quote": "After cell block analysis all 951 were reported as adequate... it was reported as adequate."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 1.0
+        },
+        "arr": 0.0
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Mediastinal haemorrhage (suspected) post EBUS-TBNA",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Mediastinal haemorrhage"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "hospitalization"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 37
+        },
+        {
+          "arm_id": "control",
+          "events": 1,
+          "patients": 1,
+          "percentage": 0.279,
+          "total": 358
+        }
+      ],
+      "period": "0-1 days",
+      "management": "Observation admission and CT angiography; no active bleeding; no transfusion; discharged next morning",
+      "provenance": {
+        "pages": [
+          305
+        ],
+        "tables": [],
+        "quote": "Some bleeding in mediastinal tissues seen by ultrasound... admitted for observation... CT angiogram with no evidence of active bleeding."
+      }
+    },
+    {
+      "event_name": "Pleural effusion requiring chest tube post EBUS-TBNA",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Pleural effusion"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "hospitalization",
+        "other medically important condition"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 37
+        },
+        {
+          "arm_id": "control",
+          "events": 1,
+          "patients": 1,
+          "percentage": 0.279,
+          "total": 358
+        }
+      ],
+      "period": "0-3 days",
+      "management": "Chest tube insertion; blood-tinged exudate; not hemothorax; no transfusion",
+      "provenance": {
+        "pages": [
+          305
+        ],
+        "tables": [],
+        "quote": "Presented 3 days after an EBUS-TBNA... right pleural effusion... chest tube... blood-tinged exudative effusion. It was not a hemothorax, and no transfusion was required."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "ROBINS-I",
+    "overall_judgment": "moderate",
+    "domains": [
+      {
+        "name": "Confounding",
+        "judgment": "serious",
+        "support_for_judgment": "Non-randomized retrospective design; age differed significantly between groups; potential confounding by indication (recent stenting) and co-procedures."
+      },
+      {
+        "name": "Selection of participants",
+        "judgment": "moderate",
+        "support_for_judgment": "Consecutive series but allocation to exposure based on clinical need to continue clopidogrel."
+      },
+      {
+        "name": "Classification of interventions",
+        "judgment": "low",
+        "support_for_judgment": "Clopidogrel continuation status clearly ascertained from records."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "low",
+        "support_for_judgment": "No indication of deviations; procedures standardized."
+      },
+      {
+        "name": "Missing data",
+        "judgment": "low",
+        "support_for_judgment": "Outcomes on bleeding/complications available for all; hemoglobin change available for subset and reported."
+      },
+      {
+        "name": "Measurement of outcomes",
+        "judgment": "low",
+        "support_for_judgment": "Objective outcomes (bleeding requiring intervention, Hb change, complications) and standardized definitions."
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "moderate",
+        "support_for_judgment": "No protocol; selective reporting cannot be excluded."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "clopidogrel",
+      "EBUS-TBNA",
+      "EUS-FNA",
+      "bleeding risk",
+      "endobronchial ultrasound",
+      "esophageal ultrasound",
+      "antiplatelet"
+    ],
+    "summary_tldr": "In a single-center retrospective cohort of 395 endosonographic FNAs, continuation of clopidogrel (n = 37) was not associated with clinically significant bleeding (0/37 vs 0/358) or increased complications (0/37 vs 2/358; P = 0.652).",
+    "clinical_relevance": "Suggests EBUS-TBNA/EUS-FNA may be performed without stopping clopidogrel when clinically necessary, with low observed bleeding risk."
+  }
+}

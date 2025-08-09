@@ -1,0 +1,283 @@
+{
+  "source": {
+    "document_id": "Chen-2018-Photodynamic therapeutic ablation fo",
+    "ingest_date": "2025-08-08T10:36:52.528561+00:00",
+    "trial_registration_id": "NCT03211078",
+    "pmid": "",
+    "doi": "10.21037/jtd.2018.03.139"
+  },
+  "document": {
+    "metadata": {
+      "title": "Photodynamic therapeutic ablation for peripheral pulmonary malignancy via electromagnetic navigation bronchoscopy localization in a hybrid operating room (OR): a pioneering study",
+      "year": 2018,
+      "authors": [
+        "Ke-Cheng Chen",
+        "Jang-Ming Lee"
+      ],
+      "journal": "Journal of Thoracic Disease",
+      "doi": "10.21037/jtd.2018.03.139",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Background: With the aid of electromagnetic navigation bronchoscopy (ENB), it has become possible to approach peripheral lung tumors from the airway. Meanwhile, local ablation using photodynamic therapy (PDT) has shown increasing promise in the realm of lung cancer treatment. The purpose of this study was to explore an alternative ablation method using PDT with SuperDimension ENB localization in a hybrid operating theater. Methods: Our study includes patients with primary or metastatic lung cancer who underwent PDT via ENB in the hybrid operating room (OR) of National Taiwan University Hospital between January 2016 and January 2017. ENB with the SuperDimension Navigation System (7th edition) was performed before PDT ablation to localize the target lesions. PDT ablation was performed with the assistance of intraoperative Dyna-computed tomography (Dyna-CT). Tumor response was evaluated by CT 3 months after the procedure. Results: Three patients underwent lung interstitial PDT via the aid of ENB during the study period. The mean size of the nodules was 21.3 mm. The mean navigation time was 14.3 minutes. In all cases, the target pulmonary nodule was ablated by PDT successfully. No major procedure-related complications occurred. One patient suffered from skin hypersensitivity one month after the procedure. The follow-up CT showed significant tumor shrinkage for all the patients. They were all discharged without incident a few days after the procedure as scheduled. Conclusions: PDT with SuperDimension ENB guidance in the hybrid OR is a novel and feasible approach to control peripheral lung malignancy.",
+      "methods": "A prospectively maintained database was reviewed to identify all patients who underwent PDT via ENB from January 2016 to January 2017. Inclusion required lung tumors (not endobronchial) and medical suitability for PDT ablation after ENB localization. Exclusions: age <18 years; leukopenia (WBC <3,500/mm3) or thrombocytopenia (platelets <100,000/mm3); chronic renal insufficiency with serum creatinine >2.5 mg/dL; grade 3-4 liver function test elevations or bilirubin >1.5 mg/dL; pregnancy or lactation. Under general anesthesia, nodules were localized using the SuperDimension Navigation System (7th edition). A locatable electromagnetic guide and extended working catheter were used; after localization, the guide was removed and a PDT probe was inserted through the catheter. Dyna-CT in the hybrid OR confirmed probe position. Photofrin 2 mg/kg IV was given 48 hours pre-procedure. Illumination: 630-nm light, 200 J/cm, LUNG mode (2,000 mW) for 500 seconds using a Diomed 630-nm diode laser and optical fiber. Post-operative care followed standard practice. Tumor response at 3 months by CT was categorized as complete remission (CR), partial remission (PR), no change (NC), or progressive disease (PD).",
+      "results": "Three patients (1 male, 2 female) with malignant lung tumors (2 colon cancer metastases, 1 lung adenocarcinoma) underwent ENB-guided interstitial PDT. Mean nodule size was 21.3 mm. Mean navigation time was 14.3 minutes. Localization and ablation were successful in all cases. No major procedure-related complications occurred. One patient developed grade I skin hypersensitivity one month after the procedure. All patients were discharged without incident. At 3 months, CT showed tumor shrinkage: 1 CR and 2 PR."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with primary or metastatic peripheral lung malignancy eligible for ENB-guided interstitial PDT at a single tertiary center.",
+      "inclusion_criteria": [
+        "Presence of lung tumors (not endobronchial)",
+        "Medically suitable for PDT ablation after ENB localization",
+        "Provided written informed consent"
+      ],
+      "exclusion_criteria": [
+        "Age <18 years",
+        "Leukopenia (WBC <3,500/mm3)",
+        "Thrombocytopenia (platelet count <100,000/mm3)",
+        "Chronic renal insufficiency with serum creatinine >2.5 mg/dL",
+        "Grade 3-4 elevations in liver function tests",
+        "Bilirubin >1.5 mg/dL",
+        "Pregnancy or lactation"
+      ]
+    },
+    "intervention": {
+      "text": "ENB-guided interstitial photodynamic therapy (PDT) with Photofrin in a hybrid OR",
+      "details": "SuperDimension ENB (7th edition) for localization; Dyna-CT confirmation; Photofrin 2 mg/kg IV 48 hours pre-procedure; 630-nm light, 200 J/cm, 2,000 mW, 500 seconds via diode laser and optical fiber through ENB working channel."
+    },
+    "comparison": {
+      "text": "None (single-arm case series)",
+      "details": "No control or comparator arm"
+    },
+    "outcomes": [
+      {
+        "name": "Tumor response at 3 months by CT (CR/PR/NC/PD)",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Procedure-related complications",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Technical success (localization and PDT ablation delivered as targeted)",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "case series",
+    "allocation": "non-randomized",
+    "blinding": "open-label",
+    "sites_count": 1,
+    "countries": [
+      "Taiwan"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 3,
+      "analyzed": 3
+    },
+    "analysis_populations": [
+      {
+        "name": "Treated",
+        "description": "All patients who underwent ENB-guided PDT",
+        "n": 3
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "ENB-guided interstitial PDT (Photofrin)",
+      "n_randomized": 0,
+      "n_analyzed": 3,
+      "n_completed": 3
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "orr_3m",
+      "name": "Objective response rate (CR+PR) at 3 months",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P3M",
+      "timepoint_label": "3 months",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 3,
+            "total": 3
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Treated",
+        "missing_handling": "Not applicable (no missing outcome data reported)"
+      },
+      "provenance": {
+        "tables": [
+          "Table 1"
+        ],
+        "quote": "The follow-up CT showed tumor shrinkage in the patients. One patient had CR and two got PR."
+      }
+    },
+    {
+      "concept_id": "cr_3m",
+      "name": "Complete response at 3 months",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P3M",
+      "timepoint_label": "3 months",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 1,
+            "total": 3
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Treated"
+      },
+      "provenance": {
+        "tables": [
+          "Table 1"
+        ],
+        "quote": "One patient had CR and two got PR."
+      }
+    },
+    {
+      "concept_id": "pr_3m",
+      "name": "Partial response at 3 months",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P3M",
+      "timepoint_label": "3 months",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 2,
+            "total": 3
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Treated"
+      },
+      "provenance": {
+        "tables": [
+          "Table 1"
+        ],
+        "quote": "One patient had CR and two got PR."
+      }
+    },
+    {
+      "concept_id": "technical_success",
+      "name": "Technical success (localization and PDT ablation delivered as targeted)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "intra-procedural",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 3,
+            "total": 3
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Treated"
+      },
+      "provenance": {
+        "quote": "Lung tumor localization was successful in all patients, and all tumors were successfully ablated by PDT with the targeted dose."
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Photosensitivity reaction",
+      "meddra": {
+        "soc": "Skin and subcutaneous tissue disorders",
+        "pt": "Photosensitivity reaction"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 1,
+          "patients": 1,
+          "percentage": 33.3,
+          "total": 3
+        }
+      ],
+      "period": "approximately 1 month after procedure",
+      "management": "",
+      "provenance": {
+        "tables": [
+          "Table 1"
+        ],
+        "quote": "The only complication was mild skin hypersensitivity in one patient one month after discharge."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "NIH Quality Assessment Tool for Case Series Studies",
+    "overall_judgment": "high",
+    "domains": [
+      {
+        "name": "Selection bias",
+        "judgment": "high",
+        "support_for_judgment": "Small, single-center convenience sample (n=3) without consecutive enrollment reporting."
+      },
+      {
+        "name": "Confounding",
+        "judgment": "high",
+        "support_for_judgment": "No control group; no adjustment for prognostic factors."
+      },
+      {
+        "name": "Outcome ascertainment",
+        "judgment": "moderate",
+        "support_for_judgment": "Objective imaging-based response at a fixed timepoint, but no blinded assessment reported."
+      },
+      {
+        "name": "Reporting bias",
+        "judgment": "moderate",
+        "support_for_judgment": "Limited adverse event detail and short follow-up."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "photodynamic therapy",
+      "electromagnetic navigation bronchoscopy",
+      "ENB",
+      "Photofrin",
+      "hybrid operating room",
+      "peripheral lung cancer"
+    ],
+    "summary_tldr": "In a 3-patient case series, ENB-guided interstitial Photofrin PDT achieved 100% objective response (1 CR, 2 PR) at 3 months with no major complications; 1 patient had grade I photosensitivity.",
+    "clinical_relevance": "Demonstrates technical feasibility and initial safety of ENB-guided PDT for peripheral pulmonary malignancies using hybrid OR imaging."
+  }
+}

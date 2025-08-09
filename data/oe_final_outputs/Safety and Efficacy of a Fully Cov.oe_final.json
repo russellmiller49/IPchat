@@ -1,0 +1,790 @@
+{
+  "source": {
+    "document_id": "Safety and Efficacy of a Fully Cov",
+    "ingest_date": "2025-08-08T15:33:24.188956+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1159/000472155"
+  },
+  "document": {
+    "metadata": {
+      "title": "Safety and Efficacy of a Fully Covered Self-Expandable Metallic Stent in Benign Airway Stenosis",
+      "year": 2017,
+      "authors": [
+        "Marc Fortin",
+        "Yves Lacasse",
+        "Xavier Elharrar",
+        "Rachid Tazi-Mezalek",
+        "Sophie Laroumagne",
+        "Julien Guinde",
+        "Philippe Astoul",
+        "Hervé Dutau"
+      ],
+      "journal": "Respiration",
+      "doi": "10.1159/000472155",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Background: The use of self-expandable metallic stents (SEMS) in benign airway disease was the object of a boxed warning from the United States Food and Drug Administration in 2005 due to the risk of stent-related complications and difficulties associated with their removal. Third-generation fully covered SEMS have been commercialized since this warning and theoretically should not present the same difficulties associated with removal as they cannot become embedded in the airway mucosa. Objectives: We aimed to examine the safety and efficacy of a specific third-generation SEMS, the Silmet stent. Methods: We reviewed the records of all patients treated for benign airway stenosis with third-generation Silmet SEMS from January 2011 to December 2015 at the North Hospital of Marseilles, France. Results: Forty SEMS were inserted in 30 patients over this period. Twenty (50.0%) stents were removed because of stent-related complications after a median of 77.0 ± 96.6 days (migration 32.5%, granulation tissue formation 7.5%, subjective intolerance 5.0%, mucus plugging 2.5%, laryngeal edema 2.5%). There were no cases of stent-related mortality. All complications were managed successfully endoscopically. Thirty-six stents (90.0%) were removed successfully after a median of 122.0 ± 113.2 days without any complications. The clinical success rate of stent treatment was 40.7%. Conclusion: Third-generation SEMS are a safe treatment option for complex benign airway stenosis, but complications requiring stent removal are frequent. Further studies are needed to compare the performance of third-generation SEMS and silicone stents in benign airway stenosis.",
+      "methods": "We reviewed the charts and electronic records of all patients treated with fully covered Silmet (Novatech, La Ciotat, France) SEMS for benign airway stenosis from January 2011 to December 2015 at the Hôpital Nord de l’Assistance Publique des Hôpitaux de Marseille. Data included demographics, etiology and site of stenosis, prior treatments, stent characteristics, technical success, complications, dwell time, removal and its complications, and need for further intervention. Stenosis with an element of malacia was classified as complex. Usual follow-up included visits at 1, 6, and 12 months, then annually; no systematic follow-up bronchoscopy unless symptomatic. Stent removal was attempted after 6-12 months unless high risk of recurrence. Clinical success was defined as successful stent removal followed by no need for further intervention for at least 1 year or a stent left in place indefinitely without complication. Fisher exact test compared clinical success rates across etiologies, sites, and previous treatment status; p values <0.05 were considered significant. All procedures were performed under general anesthesia using rigid bronchoscopy with direct visualization.",
+      "results": "Forty Silmet stents were implanted in 30 patients; all 30 had complex stenosis. Technical success of stent placement was 100% with no procedural complications. Stent-related complications leading to removal occurred in 20/40 (50.0%) stents after a median 77.0 ± 96.6 days: migration 13/40 (32.5%), granulation tissue requiring intervention 3/40 (7.5%), subjective intolerance 2/40 (5.0%), mucus plugging requiring bronchoscopy 1/40 (2.5%), and laryngeal edema 1/40 (2.5%). No stent-related mortality occurred; all complications were managed endoscopically. Thirty-six stents (90.0%) were removed successfully after a median of 122.0 ± 113.2 days without complications. Thirteen patients had an elective removal trial after median dwell time 223.5 ± 95.8 days; 9/13 (69.2%) required no further intervention, 4/13 (30.8%) had recurrence (2 surgical treatment; 2 new SEMS). Two patients had stents left in place indefinitely without complications during 433 and 455 days of follow-up. Two patients died of unrelated causes with stents in place without stent-related complications. Clinical success was 11/27 (40.7%) after excluding 2 unrelated deaths and 1 bridge-to-surgery case. Success did not differ by etiology, site, or previous treatment (p = 0.39, p = 0.55, p = 0.37). Six patients underwent surgical resection after endoscopic failure; 5/6 had no complications and 1/6 had restenosis at the anastomosis."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with complex benign airway stenosis treated at a single tertiary center",
+      "inclusion_criteria": [
+        "Benign airway stenosis requiring stenting",
+        "Treatment with fully covered Silmet SEMS between January 2011 and December 2015"
+      ],
+      "exclusion_criteria": [
+        "None explicitly reported"
+      ]
+    },
+    "intervention": {
+      "text": "Fully covered Silmet self-expandable metallic stent (SEMS)",
+      "details": "Placement under general anesthesia using rigid bronchoscopy with direct visualization; routine clinical follow-up at 1, 6, and 12 months then annually; planned removal attempt at 6-12 months unless high risk of recurrence"
+    },
+    "comparison": {
+      "text": "None (single-arm retrospective cohort)",
+      "details": ""
+    },
+    "outcomes": [
+      {
+        "name": "Stent-related complications (migration, granulation tissue, subjective intolerance, mucus plugging, laryngeal edema)",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Technical success of stent placement",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Successful stent removal without complications",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Clinical success per patient",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Elective stent removal trial success per patient",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Stent-related mortality",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "retrospective cohort",
+    "allocation": "non-randomized",
+    "blinding": "none",
+    "sites_count": 1,
+    "countries": [
+      "France"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 30,
+      "analyzed": 30
+    },
+    "analysis_populations": [
+      {
+        "name": "all_patients",
+        "description": "All patients who received at least one SEMS",
+        "n": 30
+      },
+      {
+        "name": "all_stents",
+        "description": "All SEMS placed during the study period",
+        "n": 40
+      },
+      {
+        "name": "clinical_success_denom",
+        "description": "Patients included for clinical success rate (excluding unrelated deaths and bridge-to-surgery)",
+        "n": 27
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "single_arm",
+      "name": "Fully covered Silmet SEMS",
+      "n_randomized": 30,
+      "n_analyzed": 30,
+      "n_completed": 30
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "technical_success_stent_placement",
+      "name": "Technical success of stent placement",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "Procedure",
+      "groups": [
+        {
+          "arm_id": "single_arm",
+          "raw": {
+            "events": 40,
+            "total": 40
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "",
+        "measure": "proportion",
+        "est": 1,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "all_stents",
+        "missing_handling": "not applicable"
+      },
+      "provenance": {
+        "pages": [
+          432
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "All 40 stent placement procedures were technical successes and there were no procedural complications."
+      }
+    },
+    {
+      "concept_id": "stent_related_complication_requiring_removal",
+      "name": "Stent-related complications requiring removal",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "During follow-up",
+      "groups": [
+        {
+          "arm_id": "single_arm",
+          "raw": {
+            "events": 20,
+            "total": 40
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "",
+        "measure": "proportion",
+        "est": 0.5,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "all_stents",
+        "missing_handling": "not applicable"
+      },
+      "provenance": {
+        "pages": [
+          432
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "Twenty (50.0%) stents were removed because of stent-related complications after a median of 77.0 ± 96.6 days."
+      }
+    },
+    {
+      "concept_id": "stent_migration",
+      "name": "Stent migration",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "During follow-up",
+      "groups": [
+        {
+          "arm_id": "single_arm",
+          "raw": {
+            "events": 13,
+            "total": 40
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "",
+        "measure": "proportion",
+        "est": 0.325,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "all_stents"
+      },
+      "provenance": {
+        "pages": [
+          432
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "Thirteen (32.5%) stents migrated."
+      }
+    },
+    {
+      "concept_id": "granulation_tissue_requiring_intervention",
+      "name": "Granulation tissue formation requiring intervention",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "During follow-up",
+      "groups": [
+        {
+          "arm_id": "single_arm",
+          "raw": {
+            "events": 3,
+            "total": 40
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "",
+        "measure": "proportion",
+        "est": 0.075,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "all_stents"
+      },
+      "provenance": {
+        "pages": [
+          432
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "3 (7.5%) caused formation of granulation tissue requiring intervention"
+      }
+    },
+    {
+      "concept_id": "subjective_intolerance_device",
+      "name": "Subjective intolerance (cough, chest discomfort)",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "During follow-up",
+      "groups": [
+        {
+          "arm_id": "single_arm",
+          "raw": {
+            "events": 2,
+            "total": 40
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "",
+        "measure": "proportion",
+        "est": 0.05,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "all_stents"
+      },
+      "provenance": {
+        "pages": [
+          432
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "2 (5.0%) caused subjective intolerance (cough, chest discomfort)"
+      }
+    },
+    {
+      "concept_id": "mucus_plugging_requires_bronchoscopy",
+      "name": "Mucus plugging requiring bronchoscopy",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "During follow-up",
+      "groups": [
+        {
+          "arm_id": "single_arm",
+          "raw": {
+            "events": 1,
+            "total": 40
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "",
+        "measure": "proportion",
+        "est": 0.025,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "all_stents"
+      },
+      "provenance": {
+        "pages": [
+          432
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "1 (2.5%) was repeatedly plugged with mucus requiring bronchoscopy"
+      }
+    },
+    {
+      "concept_id": "laryngeal_edema_urgent_removal",
+      "name": "Laryngeal edema requiring urgent removal",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P1D",
+      "timepoint_label": "Within 24 hours of deployment",
+      "groups": [
+        {
+          "arm_id": "single_arm",
+          "raw": {
+            "events": 1,
+            "total": 40
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "",
+        "measure": "proportion",
+        "est": 0.025,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "all_stents"
+      },
+      "provenance": {
+        "pages": [
+          432
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "1 (2.5%) was removed urgently 24 h after deployment because of laryngeal edema."
+      }
+    },
+    {
+      "concept_id": "successful_stent_removal_no_complications",
+      "name": "Successful stent removal without complications",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "During follow-up",
+      "groups": [
+        {
+          "arm_id": "single_arm",
+          "raw": {
+            "events": 36,
+            "total": 40
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "",
+        "measure": "proportion",
+        "est": 0.9,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "all_stents"
+      },
+      "provenance": {
+        "pages": [
+          431
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "Thirty-six stents (90.0%) were removed successfully after a median of 122.0 ± 113.2 days without any complications."
+      }
+    },
+    {
+      "concept_id": "elective_removal_trial_success",
+      "name": "Elective stent removal trial success per patient (no further intervention on follow-up)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "Post-elective removal follow-up",
+      "groups": [
+        {
+          "arm_id": "single_arm",
+          "raw": {
+            "events": 9,
+            "total": 13
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "",
+        "measure": "proportion",
+        "est": 0.692,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "all_patients"
+      },
+      "provenance": {
+        "pages": [
+          433
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "Thirteen (43.3%) patients had an elective stent removal trial... Nine (69.2%) patients required no further intervention on follow-up"
+      }
+    },
+    {
+      "concept_id": "clinical_success_rate_patient_level",
+      "name": "Clinical success rate per patient (as defined by authors)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P1Y",
+      "timepoint_label": "At least 1-year follow-up or indefinitely without complication",
+      "groups": [
+        {
+          "arm_id": "single_arm",
+          "raw": {
+            "events": 11,
+            "total": 27
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "",
+        "measure": "proportion",
+        "est": 0.407,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "clinical_success_denom"
+      },
+      "provenance": {
+        "pages": [
+          433
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "The clinical success rate of SEMS treatment was 11/27 (40.7%)."
+      }
+    },
+    {
+      "concept_id": "stent_related_mortality",
+      "name": "Stent-related mortality",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "During follow-up",
+      "groups": [
+        {
+          "arm_id": "single_arm",
+          "raw": {
+            "events": 0,
+            "total": 30
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "",
+        "measure": "proportion",
+        "est": 0,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "all_patients"
+      },
+      "provenance": {
+        "pages": [
+          432
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "There were no cases of stent-related mortality."
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Device migration",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Device migration"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "other_medically_important_event"
+      ],
+      "groups": [
+        {
+          "arm_id": "single_arm",
+          "events": 13,
+          "patients": 10,
+          "percentage": 32.5,
+          "total": 40
+        }
+      ],
+      "period": "During follow-up; median time to removal for complications 77 days",
+      "management": "Managed endoscopically; stent removal or repositioning as needed",
+      "provenance": {
+        "pages": [
+          432
+        ],
+        "tables": [],
+        "quote": "Thirteen (32.5%) stents migrated... All complications were managed endoscopically with success."
+      }
+    },
+    {
+      "event_name": "Granulation tissue",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Granulation tissue"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "other_medically_important_event"
+      ],
+      "groups": [
+        {
+          "arm_id": "single_arm",
+          "events": 3,
+          "patients": 3,
+          "percentage": 7.5,
+          "total": 40
+        }
+      ],
+      "period": "During follow-up",
+      "management": "Endoscopic intervention and stent removal as indicated",
+      "provenance": {
+        "pages": [
+          432
+        ],
+        "tables": [],
+        "quote": "3 (7.5%) caused formation of granulation tissue requiring intervention"
+      }
+    },
+    {
+      "event_name": "Device intolerance (cough, chest discomfort)",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Device intolerance"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "single_arm",
+          "events": 2,
+          "patients": 2,
+          "percentage": 5,
+          "total": 40
+        }
+      ],
+      "period": "During follow-up",
+      "management": "Endoscopic management with stent removal",
+      "provenance": {
+        "pages": [
+          432
+        ],
+        "tables": [],
+        "quote": "2 (5.0%) caused subjective intolerance (cough, chest discomfort)"
+      }
+    },
+    {
+      "event_name": "Mucus plugging",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Mucus plugging"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "other_medically_important_event"
+      ],
+      "groups": [
+        {
+          "arm_id": "single_arm",
+          "events": 1,
+          "patients": 1,
+          "percentage": 2.5,
+          "total": 40
+        }
+      ],
+      "period": "During follow-up",
+      "management": "Repeated bronchoscopy",
+      "provenance": {
+        "pages": [
+          432
+        ],
+        "tables": [],
+        "quote": "1 (2.5%) was repeatedly plugged with mucus requiring bronchoscopy"
+      }
+    },
+    {
+      "event_name": "Laryngeal edema",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Laryngeal oedema"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "life_threatening",
+        "other_medically_important_event"
+      ],
+      "groups": [
+        {
+          "arm_id": "single_arm",
+          "events": 1,
+          "patients": 1,
+          "percentage": 2.5,
+          "total": 40
+        }
+      ],
+      "period": "Within 24 hours of deployment",
+      "management": "Urgent stent removal; tracheostomy tube reinserted",
+      "provenance": {
+        "pages": [
+          432
+        ],
+        "tables": [],
+        "quote": "1 (2.5%) was removed urgently 24 h after deployment because of laryngeal edema... the stent was removed and a tracheostomy tube was reinserted"
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "ROBINS-I",
+    "overall_judgment": "serious",
+    "domains": [
+      {
+        "name": "Confounding",
+        "judgment": "serious",
+        "support_for_judgment": "Single-arm retrospective cohort without control; heterogeneity in prior treatments and etiologies"
+      },
+      {
+        "name": "Selection of participants",
+        "judgment": "moderate",
+        "support_for_judgment": "Consecutive patients at a single center; inclusion based on having received SEMS"
+      },
+      {
+        "name": "Classification of interventions",
+        "judgment": "low",
+        "support_for_judgment": "Intervention clearly defined as fully covered Silmet SEMS placed under rigid bronchoscopy"
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "low",
+        "support_for_judgment": "Standardized procedural approach; follow-up per institutional protocol"
+      },
+      {
+        "name": "Missing data",
+        "judgment": "low",
+        "support_for_judgment": "No patients lost to follow-up with SEMS in place; some patients later managed surgically or with silicone stents"
+      },
+      {
+        "name": "Measurement of outcomes",
+        "judgment": "moderate",
+        "support_for_judgment": "No systematic follow-up bronchoscopy; outcomes primarily clinical and procedural, may under-detect asymptomatic events"
+      },
+      {
+        "name": "Selection of reported results",
+        "judgment": "moderate",
+        "support_for_judgment": "Descriptive reporting without pre-specified primary endpoint"
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "benign airway stenosis",
+      "self-expandable metallic stent",
+      "Silmet",
+      "bronchoscopy",
+      "tracheal stenosis",
+      "airway stent migration"
+    ],
+    "summary_tldr": "In 30 patients (40 Silmet SEMS) for benign airway stenosis, technical success was 100%, 50% of stents required removal for complications (migration 13/40), 90% of stents were removed successfully without complications, and per-patient clinical success was 11/27.",
+    "clinical_relevance": "Findings support that fully covered third-generation SEMS can be safely removed and are an option for complex benign airway stenosis, though migration and other complications are frequent."
+  }
+}

@@ -1,0 +1,362 @@
+{
+  "source": {
+    "document_id": "Routine monitoring with pleural manometry duri",
+    "ingest_date": "2025-08-08T15:29:54.858987+00:00",
+    "trial_registration_id": "NCT02677883",
+    "pmid": "",
+    "doi": "10.1016/S2213-2600(18)30421-1"
+  },
+  "document": {
+    "metadata": {
+      "title": "Routine monitoring with pleural manometry during therapeutic large-volume thoracentesis to prevent pleural-pressure-related complications: a multicentre, single-blind randomised controlled trial",
+      "year": 2019,
+      "authors": [
+        "Robert J Lentz",
+        "Andrew D Lerner",
+        "Jasleen K Pannu",
+        "Christopher M Merrick",
+        "Lance Roller",
+        "Charla Walston",
+        "Sarah Valenti",
+        "Tracey Goddard",
+        "Heidi Chen",
+        "John T Huggins",
+        "Otis B Rickman",
+        "Lonny Yarmus",
+        "Ioannis Psallidas",
+        "Najib M Rahman",
+        "Richard W Light",
+        "Fabien Maldonado"
+      ],
+      "journal": "The Lancet Respiratory Medicine",
+      "doi": "10.1016/S2213-2600(18)30421-1",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Background: In patients with non-expandable lung, removal of pleural fluid can result in excessively negative pleural pressure, which is associated with chest discomfort, pneumothorax, and re-expansion pulmonary oedema. Pleural manometry is widely used to safeguard against pressure-related complications during thoracentesis despite little evidence to support the approach. We investigated whether monitoring of pleural pressure with manometry during thoracentesis could protect against complications compared with assessment of symptoms alone. Methods: We did a prospective randomised single-blind trial involving patients with large pleural effusions at two academic medical centres in Nashville, TN, and Baltimore, MD, USA. Eligible adults had free-flowing effusions estimated to be at least 0.5 L and could remain seated throughout the procedure. Patients were randomly assigned 1:1 to receive thoracentesis guided by symptoms only (control) or by symptoms plus manometry at timepoints based on volume drained. Drainage was discontinued for persistent chest discomfort, intractable cough, or complications; in the manometry group, an additional stop criterion was end-expiratory pleural pressure lower than -20 cm H2O or a drop >10 cm H2O between two measurements to ≤-10 cm H2O. The primary outcome was overall chest discomfort from before the start to after the procedure measured 5 min after drainage. Analysis was by modified intention to treat. Findings: Of 191 screened, 128 were randomised and 124 analysed (62 per group). Groups did not differ for the primary outcome (mean difference 2.4 mm, 95% CI -5.7 to 10.5; p=0.56). Six (10%) of 62 patients in the control group had asymptomatic pneumothorax ex vacuo compared with none in the manometry group (p=0.01). No serious complications occurred. Interpretation: Measurement of pleural pressure by manometry during large-volume thoracentesis does not alter procedure-related chest discomfort. Findings do not support routine use.",
+      "methods": "Randomised, single-blind, parallel-group trial at two US academic centres (Vanderbilt University Medical Center and Johns Hopkins Hospital). Adults (≥18 years) with symptomatic, free-flowing pleural effusions estimated ≥0.5 L were included if able to remain seated. Key exclusion criteria: non-free-flowing effusions, inability to sit, manometry deemed clinically indicated, inability to consent, known re-expandable lung (recurrent transudate with established cause and prior thoracenteses without substantial discomfort), safety concerns (eg, coagulopathy, haemodynamic instability), smaller-than-expected or multiloculated effusions on ultrasound. Randomisation 1:1 (computer-generated, permuted blocks of 4 and 6), stratified by site, allocation concealed via sealed opaque envelopes. Patients were masked to allocation; a manometer was attached in-line for all to preserve blinding. Thoracentesis with sterile technique using 5/6/8 F over-needle catheter; manual aspiration with 60 mL syringe; pauses 5-10 s per 200 mL for first 1 L then per 100 mL thereafter for VAS discomfort scoring (0-100 mm). Manometry group had end-expiratory pleural pressure measured (digital manometer) after catheter placement, during pauses, and pre-removal. Stop rules (both groups): persistent chest discomfort suggestive of excessively negative pleural pressure, intractable cough, or complications. Additional stop rules (manometry): pleural pressure < -20 cm H2O or decline >10 cm H2O between two measurements to ≤ -10 cm H2O. Outcomes: primary—overall chest discomfort (start to after procedure) assessed 5 min post-drainage by VAS; secondary—overall discomfort at 15 min, change in discomfort start-to-end, trend in discomfort vs volume drained, change in breathlessness (baseline to 15 min post), procedure duration, volume drained, and complete lung re-expansion (ultrasound scant fluid and chest x-ray pleural apposition). Post-procedure ultrasound and chest radiograph within 1 h assessed by blinded radiologist for pneumothorax and re-expansion pulmonary oedema. Sample size 128 (64 per group) for 80% power to detect 15 mm VAS difference (SD 30 mm), α=0.05. Analyses in R 3.3.1; modified intention to treat (any procedure or outcome data). t tests and χ² tests for between-group comparisons; linear regression for differences in VAS; mixed model with AR1 for repeated discomfort trends.",
+      "results": "Between Mar 4, 2016, and Sept 8, 2017, 191 patients were screened; 128 were randomised; 124 analysed (62 per arm). Four excluded post-randomisation: manometer malfunction (n=2), inability to access effusion due to pleural tumour (n=1), inability to remain seated (n=1). Primary outcome: no difference in overall chest discomfort at 5 min post-procedure (mean difference 2.4 mm, 95% CI -5.7 to 10.5; p=0.56). Asymptomatic pneumothorax ex vacuo occurred in 0/62 manometry vs 6/62 control (p=0.01). No serious complications occurred in either group."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with symptomatic, free-flowing pleural effusions estimated to be ≥0.5 L undergoing therapeutic large-volume thoracentesis at two US academic centers.",
+      "inclusion_criteria": [
+        "Age ≥18 years",
+        "Symptomatic pleural effusion",
+        "Free-flowing effusion estimated to be ≥0.5 L by chest x-ray, CT, or ultrasound",
+        "Able to remain seated for the procedure"
+      ],
+      "exclusion_criteria": [
+        "Non-free-flowing (loculated) effusion",
+        "Unable to maintain seated position",
+        "Manometry clinically indicated by operator",
+        "Unable to provide informed consent",
+        "Known re-expandable lung (recurrent transudative effusions of known cause with multiple prior thoracenteses without substantial discomfort and no alternative suspected cause)",
+        "Conditions interfering with safe completion (eg, coagulopathy, hemodynamic instability)",
+        "Effusion smaller than expected on ultrasound or multiple loculations before procedure"
+      ]
+    },
+    "intervention": {
+      "text": "Pleural manometry-guided thoracentesis",
+      "details": "End-expiratory pleural pressure measured with in-line digital manometer at baseline and during pauses; drainage stopped if pleural pressure < -20 cm H2O or if decline >10 cm H2O between two measurements to ≤ -10 cm H2O, or if persistent chest discomfort, intractable cough, or complications occurred."
+    },
+    "comparison": {
+      "text": "Symptoms-only-guided thoracentesis (control)",
+      "details": "No manometry readings used for decisions; drainage stopped for persistent chest discomfort, intractable cough, or complications; pauses standardized by drained volume for VAS assessments."
+    },
+    "outcomes": [
+      {
+        "name": "Overall chest discomfort (VAS 0-100 mm) from start to after procedure, assessed 5 minutes post-drainage",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Asymptomatic pneumothorax ex vacuo on post-procedure chest radiograph",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "RCT",
+    "allocation": "randomized",
+    "blinding": "single-blind",
+    "sites_count": 2,
+    "countries": [
+      "US"
+    ],
+    "sample_size": {
+      "planned": 128,
+      "enrolled": 128,
+      "analyzed": 124
+    },
+    "analysis_populations": [
+      {
+        "name": "Randomized",
+        "description": "All randomized participants",
+        "n": 128
+      },
+      {
+        "name": "mITT",
+        "description": "Modified intention-to-treat: all patients with any procedure or outcome data",
+        "n": 124
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "Pleural manometry-guided thoracentesis",
+      "n_randomized": 64,
+      "n_analyzed": 62,
+      "n_completed": 62
+    },
+    {
+      "arm_id": "control",
+      "name": "Symptoms-only-guided thoracentesis",
+      "n_randomized": 64,
+      "n_analyzed": 62,
+      "n_completed": 62
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "overall_chest_discomfort_vas_5min",
+      "name": "Overall chest discomfort (VAS 0-100 mm) assessed 5 minutes post-drainage",
+      "type": "continuous",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "PT5M",
+      "timepoint_label": "5 minutes post-procedure",
+      "unit": "mm",
+      "unit_canonical": "millimeter",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "total": 62
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "total": 62
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "mean_difference",
+        "est": 2.4,
+        "ci_lower": -5.7,
+        "ci_upper": 10.5,
+        "ci_level": 0.95,
+        "p_value": 0.56,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Two-sample t test and linear regression",
+        "adjusted": false,
+        "covariates": [],
+        "population": "mITT",
+        "missing_handling": "Modified intention to treat (included all with any procedure or outcome data)"
+      },
+      "provenance": {
+        "pages": [
+          447
+        ],
+        "tables": [],
+        "quote": "Groups did not differ for the primary outcome (mean difference in chest discomfort score 2.4 mm, 95% CI -5.7 to 10.5, p=0.56)."
+      }
+    },
+    {
+      "concept_id": "pneumothorax_ex_vacuo_periprocedural",
+      "name": "Asymptomatic pneumothorax ex vacuo on post-procedure chest radiograph",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "Within 1 hour post-procedure radiograph",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 0,
+            "total": 62
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 6,
+            "total": 62
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": -0.0968,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.01,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Chi-squared test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "mITT",
+        "missing_handling": "Modified intention to treat (included all with any procedure or outcome data)"
+      },
+      "provenance": {
+        "pages": [
+          447
+        ],
+        "tables": [],
+        "quote": "Six (10%) of 62 patients in the control group had asymptomatic pneumothorax ex vacuo compared with none in the manometry group (p=0.01)."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.0
+        },
+        "odds_ratio": {
+          "est": 0.0
+        },
+        "arr": -0.097,
+        "nnh": 10.3
+      }
+    },
+    {
+      "concept_id": "serious_complications_any",
+      "name": "Serious complications (any)",
+      "type": "binary",
+      "outcome_type": "safety",
+      "timepoint_iso8601": "",
+      "timepoint_label": "Periprocedural",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 0,
+            "total": 62
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 0,
+            "total": 62
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": 0,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "mITT"
+      },
+      "provenance": {
+        "pages": [
+          447
+        ],
+        "tables": [],
+        "quote": "No serious complications occurred in either group."
+      },
+      "derived": {
+        "arr": 0.0
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Pneumothorax ex vacuo",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Pneumothorax"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 62
+        },
+        {
+          "arm_id": "control",
+          "events": 6,
+          "patients": 6,
+          "percentage": 9.7,
+          "total": 62
+        }
+      ],
+      "period": "Within 1 hour post-procedure chest radiograph",
+      "management": "Not reported",
+      "provenance": {
+        "pages": [
+          447
+        ],
+        "tables": [],
+        "quote": "Six (10%) of 62 patients in the control group had asymptomatic pneumothorax ex vacuo compared with none in the manometry group (p=0.01)."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "RoB 2",
+    "overall_judgment": "low",
+    "domains": [
+      {
+        "name": "Randomization process",
+        "judgment": "low",
+        "support_for_judgment": "Computer-generated sequence with permuted blocks stratified by site; allocation concealment using sealed opaque envelopes."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "low",
+        "support_for_judgment": "Patients were masked; standardized stopping rules applied; procedures followed protocol."
+      },
+      {
+        "name": "Missing outcome data",
+        "judgment": "low",
+        "support_for_judgment": "Modified intention-to-treat included 124/128 (96.9%); exclusions were procedural/technical and balanced."
+      },
+      {
+        "name": "Measurement of the outcome",
+        "judgment": "low",
+        "support_for_judgment": "Patient-reported VAS with standardized administration; radiographs interpreted by a blinded chest radiologist."
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "low",
+        "support_for_judgment": "Outcomes and analyses followed a prespecified analysis plan."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "thoracentesis",
+      "pleural manometry",
+      "pleural effusion",
+      "pneumothorax ex vacuo",
+      "re-expansion pulmonary edema"
+    ],
+    "summary_tldr": "Routine pleural manometry did not reduce overall chest discomfort versus symptoms-guided drainage; asymptomatic pneumothorax ex vacuo occurred in 0/62 with manometry vs 6/62 control.",
+    "clinical_relevance": "Findings do not support routine pleural manometry during large-volume thoracentesis to prevent pressure-related complications."
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "source": {
+    "document_id": "ERSATS statement on IP",
+    "ingest_date": "2025-08-08T12:01:20.472518+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1183/09031936.02.00204602"
+  },
+  "document": {
+    "metadata": {
+      "title": "ERS/ATS statement on interventional pulmonology",
+      "year": 2002,
+      "authors": [
+        "C.T. Bolliger",
+        "P.N. Mathur",
+        "J.F. Beamis",
+        "H.D. Becker",
+        "S. Cavaliere",
+        "H. Colt",
+        "J.P. Diaz-Jimenez",
+        "J.F. Dumon",
+        "E. Edell",
+        "K.L. Kovitz",
+        "H.N. Macha",
+        "A.C. Mehta",
+        "M. Marel",
+        "M. Noppen",
+        "J. Strausz",
+        "T.G. Sutedja"
+      ],
+      "journal": "European Respiratory Journal",
+      "doi": "10.1183/09031936.02.00204602",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "This ERS/ATS Task Force position paper defines interventional pulmonology and outlines minimal requirements for facilities, personnel, preprocedure evaluation, monitoring, indications, contraindications, outcomes, complications, and training for major diagnostic and therapeutic bronchoscopic and thoracic interventions.",
+      "methods": "Consensus statement developed by a multidisciplinary ERS/ATS Task Force of European and North American experts. Recommendations are based on expert experience and literature review; no randomized controlled trial design or statistical analyses were conducted.",
+      "results": "The statement details equipment, personnel, anaesthesia, techniques, indications, contraindications, outcomes/complications, and training requirements for: rigid bronchoscopy; transbronchial needle aspiration; autofluorescence bronchoscopy; endobronchial ultrasound; transthoracic needle aspiration/biopsy; laser bronchoscopy; endobronchial electrosurgery and argon-plasma coagulation; cryotherapy; airway stents; endobronchial brachytherapy; photodynamic therapy; percutaneous dilatational tracheotomy; and transtracheal oxygen therapy. It also discusses multimodality treatment and outcome assessment. Examples include training thresholds (e.g., at least 20 supervised rigid bronchoscopies, then 10-15 per year to maintain competency) and qualitative descriptions of complications (e.g., mucosal and airway wall injuries with rigid bronchoscopy)."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Patients undergoing diagnostic or therapeutic interventional pulmonology procedures for central airway obstruction, pleural disease, pulmonary vascular issues, and related conditions.",
+      "inclusion_criteria": [
+        "Clinical indications aligning with procedural recommendations (e.g., malignant central airway obstruction, hemoptysis, airway stenosis)"
+      ],
+      "exclusion_criteria": [
+        "Procedure-specific contraindications (e.g., unstable cervical spine for rigid bronchoscopy; obstructing oral/laryngeal disease)"
+      ]
+    },
+    "intervention": {
+      "text": "Interventional pulmonology procedures",
+      "details": "Rigid bronchoscopy, TBNA, autofluorescence bronchoscopy, EBUS, transthoracic needle procedures, laser, electrosurgery/APC, cryotherapy, airway stents, brachytherapy, photodynamic therapy, percutaneous dilatational tracheotomy, transtracheal oxygen therapy."
+    },
+    "comparison": {
+      "text": "",
+      "details": ""
+    },
+    "outcomes": [
+      {
+        "name": "Procedure-related outcomes and complications",
+        "type": "primary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Guideline/Consensus statement",
+    "allocation": "NA",
+    "blinding": "NA",
+    "sites_count": 0,
+    "countries": [],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": []
+  },
+  "arms": [],
+  "outcomes_normalized": [],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "Not applicable",
+    "overall_judgment": "not_applicable",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "interventional pulmonology",
+      "rigid bronchoscopy",
+      "transbronchial needle aspiration",
+      "autofluorescence bronchoscopy",
+      "endobronchial ultrasound",
+      "argon plasma coagulation",
+      "airway stents",
+      "endobronchial brachytherapy",
+      "photodynamic therapy",
+      "percutaneous dilatational tracheotomy",
+      "transtracheal oxygen"
+    ],
+    "summary_tldr": "ERS/ATS 2002 consensus defines interventional pulmonology scope, logistics, indications/contraindications, outcomes/complications, and training standards across major bronchoscopic and thoracic procedures.",
+    "clinical_relevance": "Provides foundational practice standards and training requirements for interventional pulmonology used in credentialing and program development."
+  }
+}

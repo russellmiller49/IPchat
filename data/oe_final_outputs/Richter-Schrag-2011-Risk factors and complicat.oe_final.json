@@ -1,0 +1,677 @@
+{
+  "source": {
+    "document_id": "Richter-Schrag-2011-Risk factors and complicat",
+    "ingest_date": "2025-08-08T15:14:59.931567+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": ""
+  },
+  "document": {
+    "metadata": {
+      "title": "Risk factors and complications following percutaneous endoscopic gastrostomy: A case series of 1041 patients",
+      "year": 2011,
+      "authors": [
+        "Hans-Jürgen Richter-Schrag",
+        "Sabine Richter",
+        "Olaf Ruthmann",
+        "Manfred Olschewski",
+        "Ulrich Theodor Hopt",
+        "Andreas Fischer"
+      ],
+      "journal": "Canadian Journal of Gastroenterology",
+      "doi": "",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "BACKGROUND: Most studies exclude patients with severe coagulation disorders or those taking anticoagulants when evaluating the outcomes of percutaneous endoscopic gastrostomy (PEG).\nOBJECTIVE: To investigate complications and risk factors of PEG in a large clinical series including patients undergoing antiplatelet and anticoagulant therapy.\nMETHODS: During a six-year period, 1057 patients referred for PEG placement were prospectively audited for clinical outcome. Exclusion criteria and follow-up care were defined. Complications were defined as minor or severe. Uni- and multivariate analyses were used to evaluate 14 risk factors. No standardized antibiotic prophylaxis was given.\nRESULTS: A total of 1041 patients (66% male, 34% female) with the following conditions underwent PEG: neurogenic dysphagia (n=450), cancer (n=385) and others (n=206). No anticoagulants were administered to 351 patients, thrombosis prophylaxis was given to 348 while full therapeutic anticoagulation was received by 313. No increased bleeding risk was associated with patients who had above-normal international normalized ratio values (OR 0.79 [95% CI 0.08 to 7.64]; P=1.00). The total infection rate was 20.5% in patients with malignant disease, and 5.5% in those with nonmalignant disease. Severe complications occurred in 19 patients (bleeding 0.5%, peritonitis 1.3%). Cirrhosis (OR 2.91 [95% CI 1.31 to 6.54]; P=0.008), cancer (OR 2.34 [95% CI 1.33 to 4.12]; P=0.003) and radiation therapy (OR 2.34 [95% CI 1.35 to 4.05]; P=0.002) were significant predictors of post-PEG infection. The 30-day mortality rate was 5.8%. There were no procedure-related deaths.\nCONCLUSIONS: Cancer, cirrhosis and radiation therapy were predictors of infection. Post-PEG bleeding and other complications were rare events. Collectively, the data suggested that patients taking concurrent anticoagulants had no elevated risk of post-PEG bleeding.",
+      "methods": "A total of 1057 patients who underwent PEG placement according to a modified pull-through technique during a six-year period were prospectively audited. Exclusion criteria: inability to perform standard pull-through technique (with or without Savary-Gilliard dilation) due to stenosis; need for additional imaging (CT) to perform PEG; premature termination due to respiratory/other complications; missing written consent. No standardized antibiotic prophylaxis was used. Antiplatelet agents (acetylsalicylic acid or clopidogrel) and unfractionated heparin were generally not discontinued. Phenprocoumon was not defined as a contraindication. Ascites were drained during the seven-day PEG healing time. Observation included in-hospital period or at least eight days; thereafter, annual follow-up. Complications within hospitalization were classified as minor (peristomal wound infection; gastroparesis ≥500 mL persistent reflux) or severe (postprocedural bleeding; peritonitis). Bleeding defined by hematemesis or passage of blood anally, via stoma, or PEG tube. Follow-up complications after discharge included buried bumper and blocked/leaking tubes. Logistic regression (univariate and multivariate) evaluated 14 risk factors. Two-sided tests, alpha 0.05; SPSS 15.0.",
+      "results": "Of 1057 patients, 15 (1.51%) were excluded, leaving 1041 included (66% male). Indications: neurogenic dysphagia 450, malignant disease 385, others 206. Anticoagulation status: none 351; thrombosis prophylaxis with LMWH 348; full anticoagulation 313 (UFH/LMWH/phenprocoumon ± antiplatelets); antiplatelet monotherapy 29. At PEG, 480 patients received antibiotics. Neurological patients had higher pre-PEG aspiration pneumonia risk (OR 9.9, 95% CI 7.4-13.2; P<0.001). Minor complications: local infection 115 (11.1%), gastroparesis 7 (0.7%). Severe complications: bleeding 5 (0.5%), peritonitis 14 (1.3%). Infection rate: malignant disease 20.5% (79/385), nonmalignant disease 5.5% (36/656). Multivariate predictors of infection: cirrhosis (OR 2.91, 95% CI 1.31-6.54; P=0.008), cancer (OR 2.34, 95% CI 1.33-4.12; P=0.003), radiation therapy (OR 2.34, 95% CI 1.35-4.05; P=0.002). No increased bleeding risk with above-normal INR (OR 0.79, 95% CI 0.08-7.64; P=1.00). Follow-up complications after discharge: buried bumper 21, leakage or blockage 33. Thirty-day mortality was 5.8% with no procedure-related deaths."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Patients (adult and pediatric) undergoing percutaneous endoscopic gastrostomy (PEG) placement at a single tertiary hospital over six years.",
+      "inclusion_criteria": [
+        "Patients referred for PEG placement",
+        "PEG performed using standard pull-through technique (with or without Savary-Gilliard dilation)",
+        "Provided written informed consent (patient or legal guardian)"
+      ],
+      "exclusion_criteria": [
+        "Inability to perform standard pull-through PEG due to hypopharyngeal or esophageal stenosis",
+        "Need for additional imaging (CT) to perform PEG",
+        "Premature termination of PEG due to respiratory or other complications",
+        "Missing written consent"
+      ]
+    },
+    "intervention": {
+      "text": "Percutaneous endoscopic gastrostomy (PEG) using pull-through technique",
+      "details": "15 Fr Freka PEG tubes; sedation with propofol only; no routine local anesthetic; trocar replaced with 20G, 0.9 mm × 70 mm needle; povidone-iodine skin prep; one-hand technique; ascites drained during 7-day healing as needed; antiplatelet/anticoagulant therapies generally continued."
+    },
+    "comparison": {
+      "text": "Observational subgroup comparisons",
+      "details": "Key comparisons included malignant vs nonmalignant disease for infection risk; multivariable adjustment for risk factors (cirrhosis, radiation therapy, etc)."
+    },
+    "outcomes": [
+      {
+        "name": "Peristomal infection within 8 days (in-hospital)",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Post-PEG peritonitis (in-hospital)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Post-PEG bleeding (in-hospital)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Gastroparesis (in-hospital)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Buried bumper syndrome (post-discharge)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "PEG tube leakage or blockage (post-discharge)",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Observational cohort",
+    "allocation": "non-randomized",
+    "blinding": "none",
+    "sites_count": 1,
+    "countries": [
+      "DE"
+    ],
+    "sample_size": {
+      "planned": 1057,
+      "enrolled": 1041,
+      "analyzed": 1041
+    },
+    "analysis_populations": [
+      {
+        "name": "All included",
+        "description": "All patients with PEG placement meeting inclusion criteria",
+        "n": 1041
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "overall",
+      "name": "Overall cohort",
+      "n_randomized": 1041,
+      "n_analyzed": 1041,
+      "n_completed": 1041
+    },
+    {
+      "arm_id": "malignant",
+      "name": "Malignant disease",
+      "n_randomized": 385,
+      "n_analyzed": 385,
+      "n_completed": 385
+    },
+    {
+      "arm_id": "nonmalignant",
+      "name": "Nonmalignant disease",
+      "n_randomized": 656,
+      "n_analyzed": 656,
+      "n_completed": 656
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "postpeg_infection_8d",
+      "name": "Peristomal infection within 8 days",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P8D",
+      "timepoint_label": "8 days (in-hospital)",
+      "groups": [
+        {
+          "arm_id": "malignant",
+          "raw": {
+            "events": 79,
+            "total": 385
+          }
+        },
+        {
+          "arm_id": "nonmalignant",
+          "raw": {
+            "events": 36,
+            "total": 656
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "nonmalignant",
+        "measure": "odds_ratio",
+        "est": 4.44,
+        "ci_lower": 2.92,
+        "ci_upper": 6.74,
+        "ci_level": 0.95,
+        "p_value": 0.001,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Logistic regression",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All included",
+        "missing_handling": "Complete case (no mention of imputation)"
+      },
+      "provenance": {
+        "pages": [
+          201,
+          203,
+          204
+        ],
+        "tables": [
+          "Table 1",
+          "Table 3"
+        ],
+        "table_number": 1,
+        "quote": "The total infection rate was 20.5% in patients with malignant disease, and 5.5% in those with nonmalignant disease."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 3.739
+        },
+        "odds_ratio": {
+          "est": 4.446
+        },
+        "arr": 0.15,
+        "nnt": 6.7
+      }
+    },
+    {
+      "concept_id": "postpeg_infection_8d_adj_cancer",
+      "name": "Peristomal infection within 8 days (adjusted effect for cancer)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P8D",
+      "timepoint_label": "8 days (in-hospital)",
+      "groups": [
+        {
+          "arm_id": "malignant",
+          "raw": {
+            "events": 79,
+            "total": 385
+          }
+        },
+        {
+          "arm_id": "nonmalignant",
+          "raw": {
+            "events": 36,
+            "total": 656
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "nonmalignant",
+        "measure": "odds_ratio",
+        "est": 2.34,
+        "ci_lower": 1.33,
+        "ci_upper": 4.12,
+        "ci_level": 0.95,
+        "p_value": 0.003,
+        "p_operator": "=",
+        "adjusted": true
+      },
+      "analysis": {
+        "model": "Multivariable logistic regression",
+        "adjusted": true,
+        "covariates": [
+          "cirrhosis",
+          "alcohol abuse",
+          "antibiotics use",
+          "malignant disease",
+          "naso-oropharyngeal malignant disease",
+          "radiation therapy",
+          "sex",
+          "ascites",
+          "anticoagulation prophylaxis",
+          "full anticoagulation",
+          "international normalized ratio (categories)",
+          "age >60 years",
+          "nicotine abuse",
+          "diabetes mellitus",
+          "chemotherapy during PEG",
+          "obesity"
+        ],
+        "population": "All included",
+        "missing_handling": "Complete case (no mention of imputation)"
+      },
+      "provenance": {
+        "pages": [
+          203,
+          204
+        ],
+        "tables": [
+          "Table 1"
+        ],
+        "table_number": 1,
+        "quote": "Malignant disease... Multivariate analysis: OR 2.34 (95% CI 1.33-4.12); P=0.003"
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 3.739
+        },
+        "odds_ratio": {
+          "est": 4.446
+        },
+        "arr": 0.15,
+        "nnt": 6.7
+      }
+    },
+    {
+      "concept_id": "postpeg_peritonitis_8d",
+      "name": "Peritonitis (in-hospital)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P8D",
+      "timepoint_label": "8 days (in-hospital)",
+      "groups": [
+        {
+          "arm_id": "overall",
+          "raw": {
+            "events": 14,
+            "total": 1041
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Descriptive (event rate)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All included"
+      },
+      "provenance": {
+        "pages": [
+          204
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "quote": "Peritonitis 14 (1.3)"
+      }
+    },
+    {
+      "concept_id": "postpeg_bleeding_8d",
+      "name": "Post-PEG bleeding (in-hospital)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P8D",
+      "timepoint_label": "8 days (in-hospital)",
+      "groups": [
+        {
+          "arm_id": "overall",
+          "raw": {
+            "events": 5,
+            "total": 1041
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Descriptive (event rate)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All included"
+      },
+      "provenance": {
+        "pages": [
+          204
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "quote": "Post-PEG bleeding 5 (0.5)"
+      }
+    },
+    {
+      "concept_id": "postpeg_gastroparesis_8d",
+      "name": "Gastroparesis (in-hospital)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P8D",
+      "timepoint_label": "8 days (in-hospital)",
+      "groups": [
+        {
+          "arm_id": "overall",
+          "raw": {
+            "events": 7,
+            "total": 1041
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Descriptive (event rate)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All included"
+      },
+      "provenance": {
+        "pages": [
+          204
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "quote": "Gastroparesis 7 (0.7)"
+      }
+    },
+    {
+      "concept_id": "buried_bumper_anytime",
+      "name": "Buried bumper syndrome (post-discharge)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "post-discharge follow-up",
+      "groups": [
+        {
+          "arm_id": "overall",
+          "raw": {
+            "events": 21,
+            "total": 1041
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Descriptive (event count)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All included"
+      },
+      "provenance": {
+        "pages": [
+          204
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "quote": "Buried bumper, n 21"
+      }
+    },
+    {
+      "concept_id": "tube_malfunction_leak_block",
+      "name": "PEG tube leakage or blockage (post-discharge)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "post-discharge follow-up",
+      "groups": [
+        {
+          "arm_id": "overall",
+          "raw": {
+            "events": 33,
+            "total": 1041
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Descriptive (event count)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All included"
+      },
+      "provenance": {
+        "pages": [
+          204
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "quote": "Leakage or blockage, n 33"
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Stoma site infection",
+      "meddra": {
+        "soc": "Infections and infestations",
+        "pt": "Stoma site infection"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "overall",
+          "events": 115,
+          "patients": 115,
+          "percentage": 11.1,
+          "total": 1041
+        }
+      ],
+      "period": "0-8 days (in-hospital)",
+      "management": "",
+      "provenance": {
+        "pages": [
+          204
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "quote": "Local infection 115 (11.1)"
+      }
+    },
+    {
+      "event_name": "Gastroparesis",
+      "meddra": {
+        "soc": "Gastrointestinal disorders",
+        "pt": "Gastroparesis"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "overall",
+          "events": 7,
+          "patients": 7,
+          "percentage": 0.7,
+          "total": 1041
+        }
+      ],
+      "period": "0-8 days (in-hospital)",
+      "management": "",
+      "provenance": {
+        "pages": [
+          204
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "quote": "Gastroparesis 7 (0.7)"
+      }
+    },
+    {
+      "event_name": "Gastrointestinal haemorrhage",
+      "meddra": {
+        "soc": "Gastrointestinal disorders",
+        "pt": "Gastrointestinal haemorrhage"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "hospitalization",
+        "other medically important condition"
+      ],
+      "groups": [
+        {
+          "arm_id": "overall",
+          "events": 5,
+          "patients": 5,
+          "percentage": 0.5,
+          "total": 1041
+        }
+      ],
+      "period": "0-8 days (in-hospital)",
+      "management": "",
+      "provenance": {
+        "pages": [
+          204
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "quote": "Post-PEG bleeding 5 (0.5)"
+      }
+    },
+    {
+      "event_name": "Peritonitis",
+      "meddra": {
+        "soc": "Gastrointestinal disorders",
+        "pt": "Peritonitis"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "hospitalization",
+        "intervention required"
+      ],
+      "groups": [
+        {
+          "arm_id": "overall",
+          "events": 14,
+          "patients": 14,
+          "percentage": 1.3,
+          "total": 1041
+        }
+      ],
+      "period": "0-8 days (in-hospital)",
+      "management": "Surgery generally indicated upon clinical diagnosis",
+      "provenance": {
+        "pages": [
+          204
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "quote": "Peritonitis 14 (1.3)"
+      }
+    },
+    {
+      "event_name": "Buried bumper syndrome",
+      "meddra": {
+        "soc": "Gastrointestinal disorders",
+        "pt": "Buried bumper syndrome"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "intervention required"
+      ],
+      "groups": [
+        {
+          "arm_id": "overall",
+          "events": 21,
+          "patients": 21,
+          "percentage": 2.0,
+          "total": 1041
+        }
+      ],
+      "period": "post-discharge follow-up",
+      "management": "",
+      "provenance": {
+        "pages": [
+          204
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "quote": "Buried bumper, n 21"
+      }
+    },
+    {
+      "event_name": "Gastrostomy tube malfunction",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Gastrostomy tube malfunction"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "overall",
+          "events": 33,
+          "patients": 33,
+          "percentage": 3.2,
+          "total": 1041
+        }
+      ],
+      "period": "post-discharge follow-up",
+      "management": "",
+      "provenance": {
+        "pages": [
+          204
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "quote": "Leakage or blockage, n 33"
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "ROBINS-I",
+    "overall_judgment": "moderate",
+    "domains": [
+      {
+        "name": "Confounding",
+        "judgment": "moderate",
+        "support_for_judgment": "Prospective cohort with multivariable adjustment for 14 risk factors; residual confounding possible."
+      },
+      {
+        "name": "Selection of participants",
+        "judgment": "low",
+        "support_for_judgment": "Consecutive patients undergoing PEG with predefined exclusion criteria."
+      },
+      {
+        "name": "Classification of interventions",
+        "judgment": "low",
+        "support_for_judgment": "Exposure groups (malignant vs nonmalignant; anticoagulation status) clearly defined."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "low",
+        "support_for_judgment": "Clinical care followed departmental practice; no indication of deviations affecting outcomes."
+      },
+      {
+        "name": "Missing data",
+        "judgment": "low",
+        "support_for_judgment": "In-hospital outcomes assessed daily up to at least 8 days for nearly all patients."
+      },
+      {
+        "name": "Measurement of outcomes",
+        "judgment": "low",
+        "support_for_judgment": "Standardized worksheet and daily assessments; objective definitions for complications."
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "low",
+        "support_for_judgment": "Predefined complications reported with counts; regression analyses reported with CIs and P-values."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "percutaneous endoscopic gastrostomy",
+      "PEG",
+      "anticoagulation",
+      "antiplatelet therapy",
+      "bleeding",
+      "infection",
+      "peritonitis",
+      "buried bumper"
+    ],
+    "summary_tldr": "In this prospective cohort of 1041 PEG patients, peristomal infection was more frequent in malignant disease (79/385) vs nonmalignant (36/656), with unadjusted OR 4.44 and adjusted OR 2.34; severe complications were rare (bleeding 5/1041; peritonitis 14/1041).",
+    "clinical_relevance": "Findings suggest PEG can be performed without pausing anticoagulants in many cases, with low bleeding risk; infection risk is higher with cancer, cirrhosis, and radiation therapy."
+  }
+}

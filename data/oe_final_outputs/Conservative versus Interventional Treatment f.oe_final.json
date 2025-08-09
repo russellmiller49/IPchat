@@ -1,0 +1,475 @@
+{
+  "source": {
+    "document_id": "Conservative versus Interventional Treatment f",
+    "ingest_date": "2025-08-08T11:08:35.929182+00:00",
+    "trial_registration_id": "ACTRN12611000184976",
+    "pmid": "31995686",
+    "doi": "10.1056/NEJMoa1910775"
+  },
+  "document": {
+    "metadata": {
+      "title": "Conservative versus Interventional Treatment for Spontaneous Pneumothorax",
+      "year": 2020,
+      "authors": [
+        "S.G.A. Brown",
+        "E.L. Ball",
+        "K. Perrin",
+        "S.E. Asha",
+        "I. Braithwaite",
+        "D. Egerton-Warburton",
+        "P.G. Jones",
+        "G. Keijzers",
+        "F.B. Kinnear",
+        "B.C.H. Kwan",
+        "K.V. Lam",
+        "Y.C.G. Lee",
+        "M. Nowitz",
+        "C.A. Read",
+        "G. Simpson",
+        "J.A. Smith",
+        "Q.A. Summers",
+        "M. Weatherall",
+        "R. Beasley"
+      ],
+      "journal": "New England Journal of Medicine",
+      "doi": "10.1056/NEJMoa1910775",
+      "pmid": "31995686"
+    },
+    "sections": {
+      "abstract": "BACKGROUND: Whether conservative management is an acceptable alternative to interventional management for uncomplicated, moderate-to-large primary spontaneous pneumothorax is unknown. METHODS: In this open-label, multicenter, noninferiority trial, we recruited patients 14 to 50 years of age with a first-known, unilateral, moderate-to-large primary spontaneous pneumothorax. Patients were randomly assigned to immediate interventional management of the pneumothorax (intervention group) or a conservative observational approach (conservative-management group) and were followed for 12 months. The primary outcome was lung reexpansion within 8 weeks. RESULTS: A total of 316 patients underwent randomization (154 patients to the intervention group and 162 to the conservative-management group). In the conservative-management group, 25 patients (15.4%) underwent interventions to manage the pneumothorax, for reasons prespecified in the protocol, and 137 (84.6%) did not undergo interventions. In a complete-case analysis in which data were not available for 23 patients in the intervention group and 37 in the conservative-management group, reexpansion within 8 weeks occurred in 129 of 131 patients (98.5%) with interventional management and in 118 of 125 (94.4%) with conservative management (risk difference, -4.1 percentage points; 95% confidence interval [CI], -8.6 to 0.5; P=0.02 for noninferiority). In a sensitivity analysis in which all missing data after 56 days were imputed as treatment failure (with reexpansion in 129 of 138 patients [93.5%] in the intervention group and in 118 of 143 [82.5%] in the conservative-management group), the risk difference of -11.0 percentage points (95% CI, -18.4 to -3.5) was outside the prespecified noninferiority margin. Conservative management resulted in a lower risk of serious adverse events or pneumothorax recurrence than interventional management. CONCLUSIONS: Although the primary outcome was not statistically robust to conservative assumptions about missing data, the trial provides modest evidence that conservative management of primary spontaneous pneumothorax was noninferior to interventional management, with a lower risk of serious adverse events.",
+      "methods": "Multicenter, prospective, randomized, open-label, noninferiority RCT at 39 hospitals in Australia and New Zealand. Eligible patients were 14-50 years old with first-known, unilateral primary spontaneous pneumothorax of 32% or more on chest radiograph by Collins method (sum of interpleural distances >6 cm). Patients were randomized 1:1 via centralized web-based urn randomization stratified by site to interventional management (small-bore ≤12 Fr Seldinger chest tube to underwater seal, no suction) or conservative management (observation with protocolized criteria for rescue intervention). Follow-up at 24-72 hours, and at 2, 4, and 8 weeks (radiography if unresolved), with 6- and 12-month recurrence assessment by phone and records. Primary outcome: complete radiographic resolution by 8 weeks as assessed by treating physician; visits after 56 days were treated as missing unless later imaging showed persisting pneumothorax (failure). Sensitivity analyses extended the window to 63 days and, separately, imputed post-day-56 missing as failure. Secondary outcomes included per-protocol primary outcome, blinded radiologist review, time to radiographic resolution, time to symptom resolution, recurrence, adverse events, serious adverse events, hospital length of stay, procedures and imaging counts, work days lost, persistent air leak (≥72 hours drainage), and patient satisfaction. Primary analysis used logistic regression of complete cases at 8 weeks to estimate absolute risk difference and 95% CI with a binomial noninferiority test (margin -9 percentage points).",
+      "results": "316 patients were randomized (154 interventional; 162 conservative). In the conservative group, 25/162 (15.4%) underwent protocol-defined interventions; 137/162 (84.6%) did not. Ten interventional-assigned patients (6.5%) declined intervention and were managed conservatively. For the primary complete-case analysis (8-week window capped at 56 days), resolution occurred in 129/131 (98.5%) interventional vs 118/125 (94.4%) conservative (risk difference -4.1 percentage points; 95% CI -8.6 to 0.5; P=0.02 for noninferiority). Sensitivity extending to 63 days: 134/136 (98.5%) vs 129/136 (94.9%) (risk difference -3.7; 95% CI -7.9 to 0.6). Sensitivity imputing post-day-56 missing as failure: 129/138 (93.5%) vs 118/143 (82.5%) (risk difference -11.0; 95% CI -18.4 to -3.5). Time to radiographic resolution: median 16 days (IQR 12-26) interventional vs 30 days (IQR 25-54) conservative; hazard ratio 0.49 (95% CI 0.39-0.63). Per-protocol analysis: 124/126 (98.4%) interventional vs 123/130 (94.6%) conservative (risk difference -3.8; 95% CI -8.3 to 0.7). Conservative management led to fewer serious adverse events and recurrences than interventional management."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Patients aged 14-50 years with first-known, unilateral, moderate-to-large primary spontaneous pneumothorax (≥32% by Collins method) presenting to EDs in Australia and New Zealand.",
+      "inclusion_criteria": [
+        "Age 14 to 50 years",
+        "First-known primary spontaneous pneumothorax",
+        "Unilateral pneumothorax",
+        "Moderate-to-large size: ≥32% by Collins method (sum of interpleural distances >6 cm)"
+      ],
+      "exclusion_criteria": [
+        "Outside age range (<14 or >50 years)",
+        "Non-primary (secondary) pneumothorax or clinically apparent underlying lung disease",
+        "Pneumothorax size <32% by Collins method",
+        "Bilateral or non-unilateral pneumothorax",
+        "Full exclusion criteria per Supplementary Appendix (not provided in excerpt)"
+      ]
+    },
+    "intervention": {
+      "text": "Immediate interventional management with small-bore chest tube",
+      "details": "Small-bore (≤12 Fr) Seldinger-style chest tube attached to an underwater seal without suction; radiograph at 1 hour; if reexpanded and no bubbling, drain closed and reimaged after 4 hours; if stable and no recurrence, drain removed and discharge; if unresolved or recurrence, restart drainage and admit; further interventions per clinician."
+    },
+    "comparison": {
+      "text": "Conservative management (observation)",
+      "details": "Observation minimum 4 hours with repeat radiograph; discharge if ambulatory, off oxygen, and stable; rescue intervention allowed for persistent significant symptoms despite analgesia, inability to mobilize due to pain/dyspnea, patient preference to intervene, physiologic instability (SBP <90 mm Hg, heart rate ≥ SBP, respiratory rate >30, or SpO2 <90% on room air), or enlarging pneumothorax with instability; subsequent interventions per clinician."
+    },
+    "outcomes": [
+      {
+        "name": "Complete lung reexpansion within 8 weeks",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Time to radiographic resolution",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Pneumothorax recurrence within 12 months",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Serious adverse events",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "RCT",
+    "allocation": "randomized",
+    "blinding": "open-label",
+    "sites_count": 39,
+    "countries": [
+      "Australia",
+      "New Zealand"
+    ],
+    "sample_size": {
+      "planned": 342,
+      "enrolled": 316,
+      "analyzed": 256
+    },
+    "analysis_populations": [
+      {
+        "name": "Complete-case primary analysis",
+        "description": "Patients with 8-week assessment within 56 days",
+        "n": 256
+      },
+      {
+        "name": "Per-protocol",
+        "description": "Participants who received allocated management strategy",
+        "n": 256
+      },
+      {
+        "name": "Sensitivity 9-week window",
+        "description": "Patients with assessment within 63 days",
+        "n": 272
+      },
+      {
+        "name": "ITT",
+        "description": "All randomized",
+        "n": 316
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "Interventional management (small-bore chest tube)",
+      "n_randomized": 154,
+      "n_analyzed": 131,
+      "n_completed": 149
+    },
+    {
+      "arm_id": "control",
+      "name": "Conservative management (observation with rescue criteria)",
+      "n_randomized": 162,
+      "n_analyzed": 125,
+      "n_completed": 159
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "pneumothorax_reexpansion_8w_clinician_complete_case",
+      "name": "Complete lung reexpansion by 8 weeks (clinician assessed, complete-case)",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P8W",
+      "timepoint_label": "8 weeks",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 129,
+            "total": 131
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 118,
+            "total": 125
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "intervention",
+        "measure": "risk_difference",
+        "est": -0.041,
+        "ci_lower": -0.086,
+        "ci_upper": 0.005,
+        "ci_level": 0.95,
+        "p_value": 0.02,
+        "p_operator": "=",
+        "adjusted": false,
+        "noninferiority_margin": -0.09
+      },
+      "analysis": {
+        "model": "logistic regression",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Complete-case (8-week assessment ≤56 days)",
+        "missing_handling": "Visits after day 56 treated as missing unless later imaging confirmed failure",
+        "test": "noninferiority"
+      },
+      "provenance": {
+        "pages": [
+          410
+        ],
+        "tables": [],
+        "quote": "129 of 131 (98.5%) in the intervention group had resolution within 8 weeks, as compared with 118 of 125 (94.4%) in the conservative-management group (risk difference, -4.1 percentage points; 95% CI, -8.6 to 0.5; P=0.02 for noninferiority)"
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 1.043
+        },
+        "odds_ratio": {
+          "est": 3.826
+        },
+        "arr": 0.041,
+        "nnt": 24.6
+      }
+    },
+    {
+      "concept_id": "pneumothorax_reexpansion_9w_clinician_complete_case",
+      "name": "Complete lung reexpansion by 9 weeks (clinician assessed, complete-case window extended)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P9W",
+      "timepoint_label": "9 weeks",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 134,
+            "total": 136
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 129,
+            "total": 136
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "intervention",
+        "measure": "risk_difference",
+        "est": -0.037,
+        "ci_lower": -0.079,
+        "ci_upper": 0.006,
+        "ci_level": 0.95,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "logistic regression",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Complete-case (assessment ≤63 days)",
+        "missing_handling": "Visits after day 63 treated as missing unless later imaging confirmed failure"
+      },
+      "provenance": {
+        "pages": [
+          410
+        ],
+        "tables": [],
+        "quote": "Noninferiority for resolution was maintained when the 8-week clinic visit was extended to 63 days (134 of 136 [98.5%] vs 129 of 136 [94.9%]) (risk difference, -3.7 percentage points; 95% CI, -7.9 to 0.6)"
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 1.039
+        },
+        "odds_ratio": {
+          "est": 3.636
+        },
+        "arr": 0.037,
+        "nnt": 27.2
+      }
+    },
+    {
+      "concept_id": "pneumothorax_reexpansion_8w_imputed_failure",
+      "name": "Complete lung reexpansion by 8 weeks (post-day-56 missing imputed as failure)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P8W",
+      "timepoint_label": "8 weeks",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 129,
+            "total": 138
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 118,
+            "total": 143
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "intervention",
+        "measure": "risk_difference",
+        "est": -0.11,
+        "ci_lower": -0.184,
+        "ci_upper": -0.035,
+        "ci_level": 0.95,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "binomial estimation",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All with imputation for post-day-56 missing",
+        "missing_handling": "All missing data after day 56 imputed as treatment failure"
+      },
+      "provenance": {
+        "pages": [
+          410
+        ],
+        "tables": [],
+        "quote": "129 of 138 (93.5%) in the intervention group and 118 of 143 (82.5%) in the conservative-management group (risk difference, -11.0 percentage points; 95% CI, -18.4 to -3.5)"
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 1.133
+        },
+        "odds_ratio": {
+          "est": 3.037
+        },
+        "arr": 0.11,
+        "nnt": 9.1
+      }
+    },
+    {
+      "concept_id": "pneumothorax_reexpansion_8w_per_protocol",
+      "name": "Complete lung reexpansion by 8 weeks (per-protocol)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P8W",
+      "timepoint_label": "8 weeks",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 124,
+            "total": 126
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 123,
+            "total": 130
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "intervention",
+        "measure": "risk_difference",
+        "est": -0.038,
+        "ci_lower": -0.083,
+        "ci_upper": 0.007,
+        "ci_level": 0.95,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "binomial estimation",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Per-protocol",
+        "missing_handling": "Per-protocol set as defined (participants who received allocated management)"
+      },
+      "provenance": {
+        "pages": [
+          410
+        ],
+        "tables": [],
+        "quote": "In the per-protocol analysis, 124 of 126 (98.4%) in the intervention group had resolution within 8 weeks as compared with 123 of 130 (94.6%) in the conservative-management group (risk difference, -3.8 percentage points; 95% CI, -8.3 to 0.7)"
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 1.04
+        },
+        "odds_ratio": {
+          "est": 3.528
+        },
+        "arr": 0.038,
+        "nnt": 26.3
+      }
+    },
+    {
+      "concept_id": "time_to_radiographic_resolution",
+      "name": "Time to radiographic resolution",
+      "type": "time_to_event",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "Follow-up to radiographic resolution",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "median": 16,
+            "iqr_lower": 12,
+            "iqr_upper": 26,
+            "total": 137
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "median": 30,
+            "iqr_lower": 25,
+            "iqr_upper": 54,
+            "total": 141
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "intervention",
+        "measure": "hazard_ratio",
+        "est": 0.49,
+        "ci_lower": 0.39,
+        "ci_upper": 0.63,
+        "ci_level": 0.95,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Cox proportional hazards",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Participants with time-to-resolution data",
+        "missing_handling": "Censoring per Kaplan-Meier/Cox methods"
+      },
+      "provenance": {
+        "pages": [
+          409
+        ],
+        "tables": [],
+        "quote": "The median time until radiographic resolution was 16 days (IQR, 12 to 26) in the intervention group and 30 days (IQR, 25 to 54) in the conservative-management group (hazard ratio, 0.49; 95% CI, 0.39 to 0.63)"
+      }
+    }
+  ],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "RoB 2",
+    "overall_judgment": "some concerns",
+    "domains": [
+      {
+        "name": "Randomization process",
+        "judgment": "low",
+        "support_for_judgment": "Central web-based allocation with site stratification using urn randomization"
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "some concerns",
+        "support_for_judgment": "Open-label design; 10 patients in interventional arm declined intervention; protocol allowed rescue interventions in conservative arm"
+      },
+      {
+        "name": "Missing outcome data",
+        "judgment": "some concerns",
+        "support_for_judgment": "Primary analysis required complete-case within 56 days; sensitivity analyses showed noninferiority not robust to conservative imputation"
+      },
+      {
+        "name": "Measurement of the outcome",
+        "judgment": "some concerns",
+        "support_for_judgment": "Clinician-assessed radiographic resolution in open-label setting; radiologist-blinded review suggested more conservative assessments"
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "low",
+        "support_for_judgment": "Outcomes prespecified; statistical analysis plan published"
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "primary spontaneous pneumothorax",
+      "conservative management",
+      "interventional management",
+      "chest tube",
+      "noninferiority",
+      "Australia",
+      "New Zealand"
+    ],
+    "summary_tldr": "In adults 14-50 with first primary spontaneous pneumothorax, conservative management achieved 94.4% vs 98.5% radiographic resolution at 8 weeks (complete-case), meeting a -9% noninferiority margin, with slower resolution but fewer serious adverse events/recurrences.",
+    "clinical_relevance": "Supports conservative initial management as an option for moderate-to-large primary spontaneous pneumothorax, potentially reducing procedures and adverse events."
+  }
+}

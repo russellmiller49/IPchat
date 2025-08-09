@@ -1,0 +1,377 @@
+{
+  "source": {
+    "document_id": "The Evolutional History of ENB State of the Art",
+    "ingest_date": "2025-08-08T16:19:37.910700+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1016/j.chest.2018.04.029"
+  },
+  "document": {
+    "metadata": {
+      "title": "The Evolutional History of Electromagnetic Navigation Bronchoscopy: State of the Art",
+      "year": 2018,
+      "authors": [
+        "Atul C. Mehta",
+        "Kristin L. Hood",
+        "Yehuda Schwarz",
+        "Stephen B. Solomon"
+      ],
+      "journal": "CHEST",
+      "doi": "10.1016/j.chest.2018.04.029",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Electromagnetic navigation bronchoscopy (ENB) has evolved from early electromagnetic tracking concepts to widely used clinical systems that assist with diagnosis and treatment planning for pulmonary lesions. This review outlines historical development, device systems, clinical performance (diagnostic yield), safety (notably pneumothorax), and expanding applications including fiducial placement, pleural dye marking, molecular tissue acquisition, lymph node sampling, and percutaneous interventions.",
+      "methods": "Narrative review of the evolution, technology, and clinical evidence related to ENB systems, drawing on preclinical and clinical studies, large registries, and device capabilities as reported in the literature.",
+      "results": "Early human feasibility studies demonstrated successful navigation and biopsy with acceptable safety. Across >30 clinical studies, diagnostic yield for ENB-assisted sampling ranged from 33% to 97%, with most studies between 67% and 84%. Pooled pneumothorax rates are typically around 3%, and a 1,000-patient prospective multicenter study reported 4.9% ENB-related pneumothorax and 3.2% requiring chest tube or hospitalization. ENB has been successfully used for fiducial placement, pleural dye marking, molecular profiling, and mediastinal lymph node sampling, and can be integrated perioperatively."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Patients with peripheral lung lesions or mediastinal lymph nodes undergoing bronchoscopic evaluation or localization procedures.",
+      "inclusion_criteria": [],
+      "exclusion_criteria": []
+    },
+    "intervention": {
+      "text": "Electromagnetic navigation bronchoscopy (ENB)",
+      "details": "Use of electromagnetic tracking with pre-acquired CT-based virtual bronchoscopy to guide endoscopic tools to lung targets; includes ENB-SD and ENB-VM systems, sometimes combined with radial EBUS or percutaneous approaches."
+    },
+    "comparison": {
+      "text": "Not applicable (narrative review). Comparators discussed in source studies include conventional bronchoscopy, CT-guided wire localization, and transthoracic needle biopsy.",
+      "details": "Where available, studies compared ENB-assisted procedures against alternative localization or biopsy modalities."
+    },
+    "outcomes": [
+      {
+        "name": "Diagnostic yield of ENB-aided biopsy",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Pneumothorax after ENB",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "narrative review",
+    "allocation": "NA",
+    "blinding": "NA",
+    "sites_count": 0,
+    "countries": [],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": []
+  },
+  "arms": [],
+  "outcomes_normalized": [
+    {
+      "concept_id": "enb_diagnostic_yield_first_human_israel_germany_2003",
+      "name": "Diagnostic yield (positive biopsy) in first ENB-SD clinical study (Germany, 2003)",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "Per-procedure",
+      "groups": [
+        {
+          "arm_id": "enb",
+          "raw": {
+            "events": 9,
+            "total": 13
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "",
+        "measure": "single_group_proportion",
+        "est": null,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": null,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "descriptive proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All ENB patients in first German clinical series",
+        "missing_handling": "NA"
+      },
+      "provenance": {
+        "pages": [
+          939
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "Thirteen subjects were included. Positive biopsy diagnoses were obtained in 9/13 cases, and there were no complications."
+      }
+    },
+    {
+      "concept_id": "enb_diagnostic_yield_second_study",
+      "name": "Diagnostic yield (conclusive biopsies) in second ENB-SD study",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "Per-procedure",
+      "groups": [
+        {
+          "arm_id": "enb",
+          "raw": {
+            "events": 20,
+            "total": 29
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "",
+        "measure": "single_group_proportion",
+        "est": null,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": null,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "descriptive proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All ENB patients in second clinical series",
+        "missing_handling": "NA"
+      },
+      "provenance": {
+        "pages": [
+          939
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "A second study of 30 subjects was subsequently conducted, with conclusive biopsies in 20/29 cases and only one pneumothorax."
+      }
+    },
+    {
+      "concept_id": "aurora_system_lesion_identification",
+      "name": "Lesion identification with Aurora electromagnetic tracking device",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "Per-procedure",
+      "groups": [
+        {
+          "arm_id": "aurora_em_tracking",
+          "raw": {
+            "events": 16,
+            "total": 16
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "",
+        "measure": "single_group_proportion",
+        "est": null,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": null,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "descriptive proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Patients undergoing bronchoscopy with Aurora tracking",
+        "missing_handling": "NA"
+      },
+      "provenance": {
+        "pages": [
+          939
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "Dr Hautmann and colleagues conducted a study in 16 patients and reported that the system was able to identify all lesions, supporting the ability of ENB to improve the yield of bronchoscopic procedures."
+      }
+    },
+    {
+      "concept_id": "enb_vm_diagnostic_yield_bronchoscopic_veran",
+      "name": "Diagnostic yield with bronchoscopic ENB-VM system",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "Per-procedure",
+      "groups": [
+        {
+          "arm_id": "enb_vm",
+          "raw": {
+            "events": 37,
+            "total": 41
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "",
+        "measure": "single_group_proportion",
+        "est": null,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": null,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "descriptive proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Patients undergoing bronchoscopic ENB-VM",
+        "missing_handling": "NA"
+      },
+      "provenance": {
+        "pages": [
+          939,
+          940
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "A second study by Flenaugh and Mohammed enrolled 44 patients and reported a diagnostic yield of 37/41 (90.2%) using the bronchoscopic ENB-VM system."
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Pneumothorax",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Pneumothorax"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "enb",
+          "events": 49,
+          "patients": 49,
+          "percentage": 4.9,
+          "total": 1000
+        }
+      ],
+      "period": "Periprocedural",
+      "management": "",
+      "provenance": {
+        "pages": [
+          940
+        ],
+        "tables": [],
+        "quote": "In 1,000 patients, the ENB-related pneumothorax rates were 4.9% overall and 3.2% for pneumothorax requiring chest tube or hospitalization."
+      }
+    },
+    {
+      "event_name": "Pneumothorax requiring chest tube or hospitalization",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Pneumothorax"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "hospitalization",
+        "other medically important condition"
+      ],
+      "groups": [
+        {
+          "arm_id": "enb",
+          "events": 32,
+          "patients": 32,
+          "percentage": 3.2,
+          "total": 1000
+        }
+      ],
+      "period": "Periprocedural",
+      "management": "Chest tube placement or inpatient observation as indicated",
+      "provenance": {
+        "pages": [
+          940
+        ],
+        "tables": [],
+        "quote": "In 1,000 patients, the ENB-related pneumothorax rates were 4.9% overall and 3.2% for pneumothorax requiring chest tube or hospitalization."
+      }
+    },
+    {
+      "event_name": "Pneumothorax",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Pneumothorax"
+      },
+      "serious": null,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "enb",
+          "events": 2,
+          "patients": 2,
+          "percentage": 3.5,
+          "total": 58
+        }
+      ],
+      "period": "Periprocedural",
+      "management": "",
+      "provenance": {
+        "pages": [
+          939
+        ],
+        "tables": [],
+        "quote": "ENB was conducted in 58 subjects ... Pneumothorax occurred in two subjects (3.5%)."
+      }
+    },
+    {
+      "event_name": "Pneumothorax",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Pneumothorax"
+      },
+      "serious": null,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "enb_sd_second_study",
+          "events": 1,
+          "patients": 1,
+          "percentage": null,
+          "total": 29
+        }
+      ],
+      "period": "Periprocedural",
+      "management": "",
+      "provenance": {
+        "pages": [
+          939
+        ],
+        "tables": [],
+        "quote": "A second study of 30 subjects was subsequently conducted, with conclusive biopsies in 20/29 cases and only one pneumothorax."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "NA (narrative review)",
+    "overall_judgment": "NA",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "electromagnetic navigation bronchoscopy",
+      "ENB",
+      "superDimension",
+      "Veran",
+      "diagnostic yield",
+      "pneumothorax",
+      "fiducial placement",
+      "pleural dye marking"
+    ],
+    "summary_tldr": "Narrative review: ENB achieves diagnostic yields typically 67%-84% with low pneumothorax rates (~3%-5%); enables localization, molecular sampling, and perioperative workflows.",
+    "clinical_relevance": "Supports ENB as a minimally invasive approach for diagnosing and localizing pulmonary lesions with favorable safety compared to percutaneous alternatives."
+  }
+}

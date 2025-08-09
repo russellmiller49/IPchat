@@ -1,0 +1,94 @@
+{
+  "source": {
+    "document_id": "3D printing for airway disease",
+    "ingest_date": "2025-08-08T09:15:54.455053+00:00",
+    "trial_registration_id": null,
+    "pmid": null,
+    "doi": "10.21037/amj.2019.01.05"
+  },
+  "document": {
+    "metadata": {
+      "title": "3D printing for airway disease",
+      "year": 2019,
+      "authors": [
+        "Abdul Hamid Alraiyes",
+        "Sameer K. Avasarala",
+        "Michael S. Machuzak",
+        "Thomas R. Gildea"
+      ],
+      "journal": "AME Medical Journal",
+      "doi": "10.21037/amj.2019.01.05",
+      "pmid": null
+    },
+    "sections": {
+      "abstract": "It has been 30 years since the first commercial three-dimensional (3D) printer was available on market. The technological advancement of 3D printing has far exceeded its implementation in medicine. The application of 3D printing technology has the potential of playing a major role within interventional pulmonology; specifically, in the management of complex airway disease. Tailoring management to the patient-specific anatomical malformation caused by benign or malignant disease is a major challenge faced by interventional pulmonologists. Such cases often require adjunctive therapeutic procedures with thermal therapies followed by dilation and airway stenting to maintain the patency of the airway. Airway-stent size matching is one key to reducing stent-related complications. A major barrier to matching is the expansion of the stent in two dimensions (fixed sizes in length and diameter) within the deformed airway. Additional challenges are created by the subjective oversizing of the stent to reduce the likelihood of migration. Improper sizing adversely affects the stability of the stent. The stent-airway mismatch can be complicated by airway erosion, perforation, or the formation of granulation tissue. Stents can migrate, fracture, obstruct, or become infected. The use of patient-specific 3D printed airway stents may be able to reduce the stent airway mismatch. These stents allow more precise stent-airway sizing and minimizes high-pressure points on distorted airway anatomy. In theory, this should reduce the incidence of the well-known complications of factory manufactured stents. In this article, the authors present the brief history of 3D printed stents, their consideration in select patients, processing steps for development, and future direction.",
+      "methods": "Narrative review describing history, current practice patterns, technical workflow, regulatory considerations, and emerging use cases of patient-specific 3D printed airway stents. The article outlines imaging-to-print steps (CT-based segmentation to DICOM conversion, CAD to STL, printer layer specifications), materials (PCL, PLA, PLGA), post-processing and sterilization considerations (SAL, ISO 10993), and potential validation with finite element analysis. No formal data synthesis or statistical analysis was performed.",
+      "results": "The review summarizes limitations of conventional silicone and self-expanding metallic stents, including migration, mucus plugging, infection, granulation tissue, fracture, and erosion. It describes how patient-specific 3D printed stents could improve stent-airway matching and pressure distribution to potentially reduce complications. Practical considerations include material selection, manufacturing steps, post-processing, biocompatibility testing, and sterilization constraints. The clinical evidence base is limited to case reports, including early applications in post-transplant anastomotic complications and benign airway disease; no clinical trials or quantitative outcome data are available."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Patients with complex tracheobronchial disease (benign or malignant) causing airway narrowing, obstruction, malacia, or fistulae, including post-transplant anastomotic complications.",
+      "inclusion_criteria": [
+        "Complex major airway disease with deformity or stenosis requiring stenting",
+        "Benign etiologies (e.g., subglottic/tracheal/bronchial stenosis, tracheobronchomalacia, excessive dynamic airway collapse, non-malignant fistulas, post-transplant anastomotic complications)",
+        "Malignant airway obstruction due to primary or metastatic tumors"
+      ],
+      "exclusion_criteria": [
+        "Not specified (narrative review)"
+      ]
+    },
+    "intervention": {
+      "text": "Patient-specific 3D printed airway stents (PS3DS)",
+      "details": "Patient airway modeled from CT imaging via segmentation (DICOM) and CAD to STL; device printed in layers (~0.005-0.013 mm) using biocompatible materials (e.g., PCL, PLA, PLGA) with post-processing (e.g., tumbling, blasting), biocompatibility per ISO 10993, sterilization strategy guided by material properties and SAL, and potential virtual mechanical validation via finite element analysis."
+    },
+    "comparison": {
+      "text": "Conventional airway stents",
+      "details": "Silicone stents (straight, Y) and self-expanding metallic stents (SEMS); deployment mechanics, risks (migration, mucus plugging/infection, granulation tissue, foreshortening, fracture, erosion), and cost considerations discussed."
+    },
+    "outcomes": [
+      {
+        "name": "Stent-related complications (migration, mucus plugging/infection, granulation tissue, fracture, erosion)",
+        "type": "safety",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Narrative review",
+    "allocation": null,
+    "blinding": null,
+    "sites_count": null,
+    "countries": [],
+    "sample_size": {
+      "planned": null,
+      "enrolled": null,
+      "analyzed": null
+    },
+    "analysis_populations": []
+  },
+  "arms": [],
+  "outcomes_normalized": [],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "NA",
+    "overall_judgment": "NA",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "3D printing",
+      "airway stent",
+      "patient-specific stent",
+      "interventional pulmonology",
+      "silicone stent",
+      "self-expanding metallic stent",
+      "tracheobronchomalacia",
+      "airway obstruction",
+      "finite element analysis",
+      "ISO 10993"
+    ],
+    "summary_tldr": "Narrative review describing patient-specific 3D printed airway stents, their rationale, design-to-manufacture workflow, and regulatory considerations; current evidence limited to case reports with no clinical trial data.",
+    "clinical_relevance": "Highlights potential of patient-specific stents to improve airway-stent matching and reduce complications compared with conventional stents, outlining practical steps and regulatory needs."
+  }
+}

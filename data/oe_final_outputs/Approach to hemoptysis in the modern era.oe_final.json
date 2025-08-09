@@ -1,0 +1,551 @@
+{
+  "source": {
+    "document_id": "Approach to Hemoptysis in the Modern Era",
+    "ingest_date": "2025-08-08T09:48:55.053589+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1155/2017/1565030"
+  },
+  "document": {
+    "metadata": {
+      "title": "Approach to Hemoptysis in the Modern Era",
+      "year": 2017,
+      "authors": [
+        "Sebastien Gagnon",
+        "Nicholas Quigley",
+        "Herve Dutau",
+        "Antoine Delage",
+        "Marc Fortin"
+      ],
+      "journal": "Canadian Respiratory Journal",
+      "doi": "10.1155/2017/1565030",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Hemoptysis is a frequent manifestation of a wide variety of diseases, with mild to life-threatening presentations. The diagnostic workup and the management of severe hemoptysis are often challenging. Advances in endoscopic techniques have led to different new therapeutic approaches. Cold saline, vasoconstrictive and antifibrinolytic agents, oxidized regenerated cellulose, biocompatible glue, laser photocoagulation, argon plasma coagulation, and endobronchial stents and valves are amongst the tools available to the bronchoscopist. In this article, we review the evidence regarding the definition, etiology, diagnostic modalities, and treatment of severe hemoptysis in the modern era with emphasis on bronchoscopic techniques.",
+      "methods": "Narrative review of the modern approach to hemoptysis, summarizing definitions, etiologies, diagnostic modalities (including CT and bronchoscopy), and treatment options with emphasis on bronchoscopic techniques. Evidence is synthesized from prospective and retrospective studies, case series, and case reports; no systematic search, protocol, or meta-analysis is reported.",
+      "results": "Key quantitative findings summarized include: CXR localizes the site of bleeding in 45-65% of cases and identifies a cause in 25-35%. CT detects 96% of malignancies occult on CXR and was superior to bronchoscopy for determining the cause of hemoptysis in a prospective series (86% vs 70%, p=0.007). BAE shows immediate clinical success rates of 82-98% across pathologies, with recurrence rates of 10-57%; spinal cord ischemia is now uncommon (0-1%) with superselective catheterization. For bronchoscopic therapies: oxidized regenerated cellulose achieved immediate control in 56/57 patients with massive hemoptysis and persistent bleeding after standard measures; endobronchial n‑butyl cyanoacrylate glue achieved immediate control in 151/168 patients, with 13/17 responding to a second application and no recurrences over 6 months; fibrinogen‑thrombin injection achieved immediate control in 11/11 patients in a prospective series, with 2 short-term relapses and 1 long-term recurrence; cold saline lavage was reported in 23 massive hemoptysis cases with 1 sinus bradycardia and 2 rebleeding episodes requiring further lavage. Endobronchial spigots and stents have been used successfully in selected cases."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with hemoptysis, including severe/massive hemoptysis, across diverse etiologies (e.g., bronchiectasis, lung cancer, tuberculosis, infections, mycetomas).",
+      "inclusion_criteria": [],
+      "exclusion_criteria": []
+    },
+    "intervention": {
+      "text": "Bronchoscopic and endovascular techniques for diagnosis and control of bleeding (e.g., BAE, oxidized regenerated cellulose, endobronchial glue, fibrinogen-thrombin, cold saline lavage, endobronchial spigots/stents).",
+      "details": "Use of bedside bronchoscopy for airway protection and topical hemostasis; CT to localize and characterize bleeding source; BAE with polyvinyl alcohol particles (300-600 µm) using superselective catheterization."
+    },
+    "comparison": {
+      "text": "Varies by included study; often single-arm cohorts. Selected diagnostic comparisons include CT versus bronchoscopy for cause identification.",
+      "details": "In one prospective series of severe hemoptysis, CT versus flexible bronchoscopy for determining cause (86% vs 70%, p=0.007)."
+    },
+    "outcomes": [
+      {
+        "name": "Immediate control of hemorrhage",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Recurrent hemoptysis",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Adverse events (procedure-related)",
+        "type": "safety",
+        "umls_cui": ""
+      },
+      {
+        "name": "Diagnostic yield (cause identification)",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "narrative_review",
+    "allocation": "NA",
+    "blinding": "NA",
+    "sites_count": 0,
+    "countries": [],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": []
+  },
+  "arms": [
+    {
+      "arm_id": "orc_single_arm",
+      "name": "Oxidized regenerated cellulose (ORC) topical application",
+      "n_randomized": 0,
+      "n_analyzed": 57,
+      "n_completed": 57
+    },
+    {
+      "arm_id": "glue_single_arm",
+      "name": "Endobronchial n‑butyl cyanoacrylate glue",
+      "n_randomized": 0,
+      "n_analyzed": 168,
+      "n_completed": 168
+    },
+    {
+      "arm_id": "ft_single_arm",
+      "name": "Fibrinogen-thrombin injection",
+      "n_randomized": 0,
+      "n_analyzed": 11,
+      "n_completed": 11
+    },
+    {
+      "arm_id": "cold_saline_single_arm",
+      "name": "Cold saline lavage via rigid bronchoscopy",
+      "n_randomized": 0,
+      "n_analyzed": 23,
+      "n_completed": 23
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "orc_immediate_hemostasis",
+      "name": "Immediate control of hemorrhage with oxidized regenerated cellulose",
+      "type": "binary",
+      "outcome_type": "efficacy",
+      "timepoint_iso8601": "PT0H",
+      "timepoint_label": "Immediate",
+      "groups": [
+        {
+          "arm_id": "orc_single_arm",
+          "raw": {
+            "events": 56,
+            "total": 57
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": "proportion",
+        "est": 0.982,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": null,
+        "p_operator": null,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Patients with massive hemoptysis and persistent bleeding despite wedging, cold saline, and epinephrine",
+        "missing_handling": "not_reported"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "table_number": null,
+        "quote": "Immediate control of hemorrhage was achieved in 56 of 57 patients (98%)."
+      }
+    },
+    {
+      "concept_id": "glue_immediate_hemostasis",
+      "name": "Immediate control of hemoptysis with endobronchial cyanoacrylate glue",
+      "type": "binary",
+      "outcome_type": "efficacy",
+      "timepoint_iso8601": "PT0H",
+      "timepoint_label": "Immediate",
+      "groups": [
+        {
+          "arm_id": "glue_single_arm",
+          "raw": {
+            "events": 151,
+            "total": 168
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": "proportion",
+        "est": 0.899,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": null,
+        "p_operator": null,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Patients with mild/moderate hemoptysis persisting after 7 days of medical therapy or severe hemoptysis",
+        "missing_handling": "not_reported"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "table_number": null,
+        "quote": "Immediate control of hemoptysis was achieved in 151 patients (89.9%)."
+      }
+    },
+    {
+      "concept_id": "glue_second_application_response",
+      "name": "Response to second glue application among initial nonresponders",
+      "type": "binary",
+      "outcome_type": "efficacy",
+      "timepoint_iso8601": "PT0H",
+      "timepoint_label": "Immediate (second application)",
+      "groups": [
+        {
+          "arm_id": "glue_single_arm",
+          "raw": {
+            "events": 13,
+            "total": 17
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": "proportion",
+        "est": 0.765,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": null,
+        "p_operator": null,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Patients without immediate control after first glue application",
+        "missing_handling": "not_reported"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "table_number": null,
+        "quote": "All 17 patients without immediate control underwent repeat glue application. Thirteen of them (7.7%) responded to a second glue application for an overall response rate of 97.6%."
+      }
+    },
+    {
+      "concept_id": "glue_recurrence_6m",
+      "name": "Recurrent hemoptysis within 6 months after glue",
+      "type": "binary",
+      "outcome_type": "effectiveness",
+      "timepoint_iso8601": "P6M",
+      "timepoint_label": "6 months",
+      "groups": [
+        {
+          "arm_id": "glue_single_arm",
+          "raw": {
+            "events": 0,
+            "total": 168
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": "proportion",
+        "est": 0,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": null,
+        "p_operator": null,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Patients treated with endobronchial glue",
+        "missing_handling": "not_reported"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "table_number": null,
+        "quote": "No recurrences were noted in a 6-month follow-up during which patients could be treated for conditions causing their hemoptysis."
+      }
+    },
+    {
+      "concept_id": "ft_immediate_hemostasis",
+      "name": "Immediate control of bleeding with fibrinogen-thrombin",
+      "type": "binary",
+      "outcome_type": "efficacy",
+      "timepoint_iso8601": "PT0H",
+      "timepoint_label": "Immediate",
+      "groups": [
+        {
+          "arm_id": "ft_single_arm",
+          "raw": {
+            "events": 11,
+            "total": 11
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": "proportion",
+        "est": 1,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": null,
+        "p_operator": null,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Patients with severe hemoptysis receiving endobronchial fibrinogen-thrombin",
+        "missing_handling": "not_reported"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "table_number": null,
+        "quote": "In a prospective study of 11 patients with severe hemoptysis, ... obtained immediate control of bleeding in all patients with the injection of an FT combination."
+      }
+    },
+    {
+      "concept_id": "ft_relapse_short_term",
+      "name": "Short-term relapse after fibrinogen-thrombin",
+      "type": "binary",
+      "outcome_type": "effectiveness",
+      "timepoint_iso8601": null,
+      "timepoint_label": "Short-term",
+      "groups": [
+        {
+          "arm_id": "ft_single_arm",
+          "raw": {
+            "events": 2,
+            "total": 11
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": "proportion",
+        "est": 0.182,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": null,
+        "p_operator": null,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Patients with severe hemoptysis treated with fibrinogen-thrombin",
+        "missing_handling": "not_reported"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "table_number": null,
+        "quote": "Two patients had a short-term severe hemoptysis relapse, and one had a long-term recurrence."
+      }
+    },
+    {
+      "concept_id": "ft_recurrence_long_term",
+      "name": "Long-term recurrence after fibrinogen-thrombin",
+      "type": "binary",
+      "outcome_type": "effectiveness",
+      "timepoint_iso8601": null,
+      "timepoint_label": "Long-term",
+      "groups": [
+        {
+          "arm_id": "ft_single_arm",
+          "raw": {
+            "events": 1,
+            "total": 11
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": "proportion",
+        "est": 0.091,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": null,
+        "p_operator": null,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Patients with severe hemoptysis treated with fibrinogen-thrombin",
+        "missing_handling": "not_reported"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "table_number": null,
+        "quote": "Two patients had a short-term severe hemoptysis relapse, and one had a long-term recurrence."
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Sinus bradycardia",
+      "meddra": {
+        "soc": "Cardiac disorders",
+        "pt": "Sinus bradycardia"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "cold_saline_single_arm",
+          "events": 1,
+          "patients": 1,
+          "percentage": 4.35,
+          "total": 23
+        }
+      ],
+      "period": "Immediate during/after procedure",
+      "management": "Not specified",
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "One patient presented sinus bradycardia."
+      }
+    },
+    {
+      "event_name": "Haemoptysis (rebleeding)",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Haemoptysis"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "cold_saline_single_arm",
+          "events": 2,
+          "patients": 2,
+          "percentage": 8.7,
+          "total": 23
+        }
+      ],
+      "period": "Short-term after initial control",
+      "management": "Further lavage required",
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "Two subjects had rebleeding which required further lavage."
+      }
+    },
+    {
+      "event_name": "Haemoptysis (short-term relapse)",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Haemoptysis"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "ft_single_arm",
+          "events": 2,
+          "patients": 2,
+          "percentage": 18.18,
+          "total": 11
+        }
+      ],
+      "period": "Short-term after treatment",
+      "management": "Not specified",
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "Two patients had a short-term severe hemoptysis relapse."
+      }
+    },
+    {
+      "event_name": "Haemoptysis (long-term recurrence)",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Haemoptysis"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "ft_single_arm",
+          "events": 1,
+          "patients": 1,
+          "percentage": 9.09,
+          "total": 11
+        }
+      ],
+      "period": "Long-term follow-up",
+      "management": "Not specified",
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "One had a long-term recurrence."
+      }
+    },
+    {
+      "event_name": "Haemoptysis (recurrence within 6 months)",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Haemoptysis"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "glue_single_arm",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 168
+        }
+      ],
+      "period": "0-6 months",
+      "management": "Not applicable (no events)",
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "No recurrences were noted in a 6-month follow-up."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "Not applicable",
+    "overall_judgment": "unclear",
+    "domains": [
+      {
+        "name": "Study design applicability",
+        "judgment": "not_applicable",
+        "support_for_judgment": "Narrative review compiling heterogeneous nonrandomized evidence; no randomization or blinding."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "hemoptysis",
+      "bronchial artery embolization",
+      "bronchoscopy",
+      "oxidized regenerated cellulose",
+      "cyanoacrylate glue",
+      "fibrinogen thrombin",
+      "cold saline lavage",
+      "computed tomography"
+    ],
+    "summary_tldr": "Narrative review: CT outperforms bronchoscopy for identifying cause of hemoptysis (p=0.007). BAE shows 82-98% immediate success. Bronchoscopic hemostasis techniques report high immediate control: ORC 56/57, glue 151/168 (with 13/17 responding to second application), and fibrinogen-thrombin 11/11.",
+    "clinical_relevance": "Provides practical guidance on modern diagnostic and therapeutic strategies for severe hemoptysis, emphasizing bedside bronchoscopic options and the central role of BAE."
+  }
+}

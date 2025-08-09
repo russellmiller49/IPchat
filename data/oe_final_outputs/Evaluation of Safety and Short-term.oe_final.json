@@ -1,0 +1,688 @@
+{
+  "source": {
+    "document_id": "Evaluation of Safety and Short-term",
+    "ingest_date": "2025-08-08T12:06:10.472231+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1159/000504679"
+  },
+  "document": {
+    "metadata": {
+      "title": "Evaluation of Safety and Short-term Outcomes of Therapeutic Rigid Bronchoscopy Using Total Intravenous Anesthesia and Spontaneous Assisted Ventilation",
+      "year": 2020,
+      "authors": [
+        "Septimiu Murgu",
+        "Balaji Laxmanan",
+        "Sean Stoy",
+        "Katarine Egressy",
+        "Udit Chaddha",
+        "Farhan Farooqui",
+        "Ryan Brunner",
+        "Kyle Hogarth",
+        "Mark Chaney"
+      ],
+      "journal": "Respiration",
+      "doi": "10.1159/000504679",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Background: There is a paucity of published data regarding the optimal type of anesthesia and ventilation strategies during rigid bronchoscopy. Objective: The aim of our study is to report the procedural and anesthesia-related complications with rigid bronchoscopy using total intravenous anesthesia and spontaneous assisted ventilation. Methods: A retrospective review of patients undergoing therapeutic rigid bronchoscopy at the University of Chicago between October 2012 and December 2014 was performed. Data were recorded relating to patients’ demographics, comorbidities, type of anesthesia, need for neuromuscular blockade (NMB), intra-operative hypoxemia, hypotension, perioperative adverse events, and mortality. Results: Fifty-five patients underwent 79 rigid bronchoscopy procedures; 90% were performed for malignant disease and 90% of patients had an American Society of Anesthesiologists (ASA) class III or IV. The majority (76%) did not require use of NMB. The most common adverse events were intraoperative hypoxemia (67%) and hypotension (77%). Major bleeding and postoperative respiratory failure occurred in 3.8 and 5.1% of procedures, respectively. There was no intraoperative mortality or cardiac dysrhythmias. The 30-day mortality was 7.6% and was associated with older age, inpatient status, congestive heart failure, home oxygen use, and procedural duration. Intraoperative hypoxemia, hypotension, and ASA class were not associated with 30-day mortality. The majority (94%) of patients were discharged home. The use of NMB did not impact outcomes. Conclusions: This study suggests that therapeutic rigid bronchoscopy can be safely performed with total intravenous anesthesia and spontaneous assisted ventilation in patients with central airway obstruction, significant comorbidities, and a high ASA class. The only significant modifiable variable predicting the 30-day mortality was the duration of the procedure.",
+      "methods": "Retrospective evaluation of patients undergoing therapeutic rigid bronchoscopy at the University of Chicago between October 2012 and December 2014. Medical records were reviewed for indications, demographics, comorbidities, anesthetic approach (total intravenous anesthesia with attempts to maintain spontaneous assisted ventilation and avoid neuromuscular blockade), intraoperative hemodynamic and respiratory parameters, and postoperative outcomes. Major bleeding was defined as >200 mL blood loss. Intraoperative hypoxemia was defined as any oxygen saturation <90% for >1 min. Intraoperative hypotension was defined as any systolic blood pressure <100 mm Hg. Postoperative respiratory failure was defined as the need for positive pressure ventilation or an increase in oxygen requirement compared with preoperative levels. Associations were evaluated using χ2 or Fisher’s exact tests for categorical variables and Wilcoxon-Mann-Whitney tests for continuous variables. Analyses were performed using Stata 12.",
+      "results": "Fifty-five patients underwent 79 therapeutic rigid bronchoscopy procedures (mean age 64 years; 70% outpatient; 89.9% malignant central airway obstruction). The mean ASA score was 3.2. Endoluminal thermal ablation was used in 67 procedures (84.8%); mean procedure duration was 86.5 min. Airway stents were placed in 16 cases (17 stents). Volatile agents were used for induction in 18 procedures (22.8%). Propofol infusion was used in all cases. Neuromuscular blockade (NMB) was avoided in 60 procedures (75.9%); NMB was used in 19 (24.1%), with 6 limited to induction. Vasoactive drugs were administered in 49 cases. Intraoperative hypoxemia occurred in 53 procedures (67.1%) and hypotension in 61 (77.2%). Major bleeding occurred in 3 procedures (3.8%). No cardiac dysrhythmias or intraoperative deaths occurred. Postoperative respiratory failure occurred in 4 patients (5.1%), with 3 requiring positive pressure ventilation. Most patients (75/79, 94.9%) were discharged home. On univariate analysis, factors associated with intraoperative hypoxemia included malignant etiology (p = 0.014), coronary artery disease (p = 0.018), airway stent placement (p = 0.002), and procedure duration >100 min (p < 0.001). No factors were significantly associated with intraoperative hypotension. NMB use was not significantly associated with hypoxemia, respiratory failure, hypotension, or mortality (p > 0.05). Thirty-day mortality occurred in 6 patients (7.6%) and was associated with older age (p = 0.03), inpatient status (p = 0.009), congestive heart failure (p = 0.012), home oxygen use (p = 0.013), and longer procedure duration (p = 0.04) but not with intraoperative hypoxemia (p = 0.658) or hypotension (p = 1.0)."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults undergoing therapeutic rigid bronchoscopy for central airway obstruction at a single academic center (October 2012-December 2014).",
+      "inclusion_criteria": [
+        "Patients undergoing therapeutic rigid bronchoscopy"
+      ],
+      "exclusion_criteria": [
+        "Not explicitly stated"
+      ]
+    },
+    "intervention": {
+      "text": "Rigid bronchoscopy under total intravenous anesthesia with spontaneous assisted ventilation (SAV) and avoidance of neuromuscular blockade",
+      "details": "Propofol-based TIVA in all cases; volatile inhalational agents used only during induction in some cases; attempts to maintain SAV and avoid neuromuscular blockade; vasoactive drugs as needed; topical lidocaine applied to airway."
+    },
+    "comparison": {
+      "text": "Rigid bronchoscopy with use of neuromuscular blockade (NMB) intraoperatively",
+      "details": "NMB administered for refractory coughing/biting despite maximal IV anesthetics; some cases with NMB used only during induction."
+    },
+    "outcomes": [
+      {
+        "name": "30-day all-cause mortality",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Intraoperative hypoxemia",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Intraoperative hypotension",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Major bleeding",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Postoperative respiratory failure",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Observational cohort",
+    "allocation": "non-randomized",
+    "blinding": "none",
+    "sites_count": 1,
+    "countries": [
+      "US"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 55,
+      "analyzed": 79
+    },
+    "analysis_populations": [
+      {
+        "name": "All procedures",
+        "description": "All therapeutic rigid bronchoscopy procedures analyzed",
+        "n": 79
+      },
+      {
+        "name": "No NMB",
+        "description": "Procedures completed without intraoperative neuromuscular blockade",
+        "n": 60
+      },
+      {
+        "name": "NMB used",
+        "description": "Procedures where neuromuscular blockade was used intraoperatively (including induction-only)",
+        "n": 19
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "TIVA with spontaneous assisted ventilation (no NMB used intraoperatively)",
+      "n_randomized": 0,
+      "n_analyzed": 60,
+      "n_completed": 60
+    },
+    {
+      "arm_id": "control",
+      "name": "NMB used intraoperatively (TIVA with neuromuscular blockade)",
+      "n_randomized": 0,
+      "n_analyzed": 19,
+      "n_completed": 19
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "mortality_30d",
+      "name": "30-day all-cause mortality",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P30D",
+      "timepoint_label": "30 days",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 4,
+            "total": 60
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 2,
+            "total": 19
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": -0.039,
+        "p_value": 0.63,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Univariate comparison (chi-square or Fisher's exact test)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All procedures",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          243
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "30-day mortality 6 (7.6) ... 4 (6.7) vs 2 (10.5); p = 0.63"
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.633
+        },
+        "odds_ratio": {
+          "est": 0.607
+        },
+        "arr": -0.039,
+        "nnh": 25.9
+      }
+    },
+    {
+      "concept_id": "intraop_hypoxemia",
+      "name": "Intraoperative hypoxemia (SpO2 <90% for >1 min)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "PT0H",
+      "timepoint_label": "Intraoperative",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 40,
+            "total": 60
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 13,
+            "total": 19
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": -0.018,
+        "p_value": 0.99,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Univariate comparison (chi-square or Fisher's exact test)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All procedures",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          243
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Intraoperative hypoxemia 53 (67.1) ... 40 (66.7) vs 13 (68.4); p = 0.99"
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.974
+        },
+        "odds_ratio": {
+          "est": 0.923
+        },
+        "arr": -0.018,
+        "nnh": 57.0
+      }
+    },
+    {
+      "concept_id": "intraop_hypotension",
+      "name": "Intraoperative hypotension (SBP <100 mm Hg)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "PT0H",
+      "timepoint_label": "Intraoperative",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 46,
+            "total": 60
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 15,
+            "total": 19
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": -0.021,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Univariate comparison (chi-square or Fisher's exact test)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All procedures",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          243
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Intraoperative hypotension 61 (77.2) ... 46 (76.7) vs 15 (78.9)"
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.971
+        },
+        "odds_ratio": {
+          "est": 0.876
+        },
+        "arr": -0.023,
+        "nnh": 43.8
+      }
+    },
+    {
+      "concept_id": "major_bleeding",
+      "name": "Major bleeding (>200 mL blood loss)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "PT0H",
+      "timepoint_label": "Intraoperative",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 1,
+            "total": 60
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 2,
+            "total": 19
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": -0.089,
+        "p_value": 0.153,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Univariate comparison (chi-square or Fisher's exact test)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All procedures",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          243
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Major bleeding 3 (3.8) ... 1 (1.7) vs 2 (10.5); p = 0.153"
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.158
+        },
+        "odds_ratio": {
+          "est": 0.144
+        },
+        "arr": -0.089,
+        "nnh": 11.3
+      }
+    },
+    {
+      "concept_id": "postop_respiratory_failure",
+      "name": "Postoperative respiratory failure (need for PPV or increased O2 requirement)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P7D",
+      "timepoint_label": "Postoperative (in-hospital)",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 2,
+            "total": 60
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 2,
+            "total": 19
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": -0.072,
+        "p_value": 0.243,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Univariate comparison (chi-square or Fisher's exact test)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All procedures",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          243
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Any respiratory failure 4 (5.1) ... 2 (3.3) vs 2 (10.5); p = 0.243"
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.317
+        },
+        "odds_ratio": {
+          "est": 0.293
+        },
+        "arr": -0.072,
+        "nnh": 13.9
+      }
+    },
+    {
+      "concept_id": "postop_ppv",
+      "name": "Postoperative respiratory failure requiring positive pressure ventilation",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P7D",
+      "timepoint_label": "Postoperative (in-hospital)",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 1,
+            "total": 60
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 2,
+            "total": 19
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": -0.089,
+        "p_value": 0.142,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Univariate comparison (chi-square or Fisher's exact test)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All procedures",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          243
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Requiring PPV 3 (3.8) ... 1 (1.7) vs 2 (10.5); p = 0.142"
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.158
+        },
+        "odds_ratio": {
+          "est": 0.144
+        },
+        "arr": -0.089,
+        "nnh": 11.3
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Major bleeding",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Procedural haemorrhage"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "medically important",
+        "required intervention"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 1,
+          "patients": 1,
+          "percentage": 1.7,
+          "total": 60
+        },
+        {
+          "arm_id": "control",
+          "events": 2,
+          "patients": 2,
+          "percentage": 10.5,
+          "total": 19
+        }
+      ],
+      "period": "Intraoperative",
+      "management": "One case required intervention (details not specified).",
+      "provenance": {
+        "pages": [
+          243
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "Major bleeding 3 (3.8) ... Requiring intervention 1 (1.3)"
+      }
+    },
+    {
+      "event_name": "Respiratory failure",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Respiratory failure"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "life-threatening",
+        "hospitalization"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 2,
+          "patients": 2,
+          "percentage": 3.3,
+          "total": 60
+        },
+        {
+          "arm_id": "control",
+          "events": 2,
+          "patients": 2,
+          "percentage": 10.5,
+          "total": 19
+        }
+      ],
+      "period": "Postoperative (in-hospital)",
+      "management": "Positive pressure ventilation in 3 of 4 cases.",
+      "provenance": {
+        "pages": [
+          243
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "Any respiratory failure 4 (5.1) ... Requiring PPV 3 (3.8)"
+      }
+    },
+    {
+      "event_name": "Hypoxemia",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Hypoxia"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 40,
+          "patients": 40,
+          "percentage": 66.7,
+          "total": 60
+        },
+        {
+          "arm_id": "control",
+          "events": 13,
+          "patients": 13,
+          "percentage": 68.4,
+          "total": 19
+        }
+      ],
+      "period": "Intraoperative",
+      "management": "Managed intraoperatively per anesthesiologist; details not specified.",
+      "provenance": {
+        "pages": [
+          243
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "Intraoperative hypoxemia 53 (67.1) ... 40 (66.7) vs 13 (68.4)"
+      }
+    },
+    {
+      "event_name": "Hypotension",
+      "meddra": {
+        "soc": "Vascular disorders",
+        "pt": "Hypotension"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 46,
+          "patients": 46,
+          "percentage": 76.7,
+          "total": 60
+        },
+        {
+          "arm_id": "control",
+          "events": 15,
+          "patients": 15,
+          "percentage": 78.9,
+          "total": 19
+        }
+      ],
+      "period": "Intraoperative",
+      "management": "Vasoactive medications administered in 49 cases.",
+      "provenance": {
+        "pages": [
+          243
+        ],
+        "tables": [
+          "Table 2",
+          "Table 3"
+        ],
+        "quote": "Intraoperative hypotension 61 (77.2) ... Any vasopressor 49 (61.25)"
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "ROBINS-I",
+    "overall_judgment": "serious",
+    "domains": [
+      {
+        "name": "Confounding",
+        "judgment": "serious",
+        "support_for_judgment": "Non-randomized, retrospective design with potential confounding by indication for NMB use."
+      },
+      {
+        "name": "Selection of participants",
+        "judgment": "moderate",
+        "support_for_judgment": "Single-center consecutive procedures; inclusion criteria not explicitly defined."
+      },
+      {
+        "name": "Classification of interventions",
+        "judgment": "low",
+        "support_for_judgment": "Clear classification based on intraoperative NMB use."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "moderate",
+        "support_for_judgment": "NMB sometimes used only during induction; anesthetic choices at clinician discretion."
+      },
+      {
+        "name": "Missing data",
+        "judgment": "low",
+        "support_for_judgment": "Outcomes reported for all procedures; no major missingness reported."
+      },
+      {
+        "name": "Measurement of outcomes",
+        "judgment": "low",
+        "support_for_judgment": "Objective intraoperative measures and documented postoperative outcomes."
+      },
+      {
+        "name": "Selection of reported results",
+        "judgment": "moderate",
+        "support_for_judgment": "Primarily univariate analyses; no protocol available."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "rigid bronchoscopy",
+      "total intravenous anesthesia",
+      "spontaneous assisted ventilation",
+      "neuromuscular blockade",
+      "interventional pulmonology",
+      "hypoxemia",
+      "hypotension"
+    ],
+    "summary_tldr": "In 79 therapeutic rigid bronchoscopies under TIVA with SAV, intraoperative hypoxemia (67%) and hypotension (77%) were common, 30-day mortality was 7.6%, and NMB use did not significantly impact adverse outcomes.",
+    "clinical_relevance": "Supports feasibility of performing therapeutic rigid bronchoscopy with TIVA and SAV without routine neuromuscular blockade; procedure duration was a modifiable predictor of 30-day mortality."
+  }
+}

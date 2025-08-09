@@ -1,0 +1,186 @@
+{
+  "source": {
+    "document_id": "Community hospital experience using ENB integrating tidal volume computed tomography mapping",
+    "ingest_date": "2025-08-08T10:46:06.217806+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.2217/lmt-2015-0007"
+  },
+  "document": {
+    "metadata": {
+      "title": "Community hospital experience using electromagnetic navigation bronchoscopy system integrating tidal volume computed tomography mapping",
+      "year": 2016,
+      "authors": [
+        "Abhijit A Raval",
+        "Leah Amir"
+      ],
+      "journal": "Lung Cancer Management",
+      "doi": "10.2217/lmt-2015-0007",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Results of the first 50 consecutive patients referred for bronchoscopy or surgery by the tumor review board to confirm suspect lung lesions identified by computed tomography. Electromagnetic navigation was used to biopsy peripheral pulmonary nodules (19.3 ± 10.7 mm). An electromagnetic tracking system detected miniature position sensors integrated into tip-tracked instruments advanced through a 2 mm working channel in a bronchoscope. Learning curve, diagnostic yield, safety, and use of 4D positional information on the patient’s tidal volume expiration CT map demonstrate potential to improve the diagnostic yield of transbronchial biopsies of peripheral pulmonary nodules less than 30 mm, reporting a diagnostic yield of 83.3% (40/48). Early experience was safe and effective, with a limited learning curve.",
+      "methods": "Study design: retrospective chart review of the first 50 consecutive patients (61 lesions) referred by a multidisciplinary hospital tumor review board for diagnostic follow-up of suspect lung lesions on CT. Patients were treated July 2012-May 2013 at a community hospital. Procedures: tidal volume expiration (TV-EXP)-mapped electromagnetic navigation (EMN) bronchoscopy using the SPiNDrive System (Veran Medical Technologies, USA). Flexible bronchoscopy confirmed a clear airway; conscious sedation was used. Linear-EBUS was available as needed. Radial-EBUS, fluoroscopic navigation, and ROSE were not used. Data collected included procedure experience, diagnostic test reports, and follow-up over 24 months. Final diagnosis determined by repeat CT, TTNA, or surgical resection/biopsy as clinically indicated.",
+      "results": "Fifty patients (28 males, 22 females; age 31-87 years, mean 67.7 ± 12.2) had 61 lesions biopsied. Mean lesion size was 19.3 ± 10.7 mm (range 4-49 mm). For peripheral pulmonary nodules <30 mm, diagnostic yield was 83.3% (40/48). Early experience was reported as safe and effective with a limited learning curve."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with suspect lung lesions on CT referred by a multidisciplinary tumor review board at a community hospital for diagnostic biopsy.",
+      "inclusion_criteria": [
+        "Positive chest CT with suspect lung lesion",
+        "Referred by tumor review board for biopsy or surgery",
+        "Able to undergo bronchoscopy with conscious sedation"
+      ],
+      "exclusion_criteria": [
+        "Not stated"
+      ]
+    },
+    "intervention": {
+      "text": "Tidal volume expiration (TV-EXP)-mapped electromagnetic navigation bronchoscopy (EMN)",
+      "details": "SPiNDrive EMN system with respiratory-gated CT mapping; EM tip-tracked instruments advanced through a 2 mm bronchoscope working channel; endobronchial access with linear-EBUS as needed; no radial-EBUS, fluoroscopic navigation, or ROSE."
+    },
+    "comparison": {
+      "text": "None (single-arm case series)",
+      "details": "No concurrent control; historical context includes TTNA and TLC-mapped ENB from literature."
+    },
+    "outcomes": [
+      {
+        "name": "Diagnostic yield for peripheral pulmonary nodules <30 mm",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Safety/complications",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Learning curve",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "observational",
+    "allocation": "nonrandomized",
+    "blinding": "open-label",
+    "sites_count": 1,
+    "countries": [
+      "US"
+    ],
+    "sample_size": {
+      "planned": 50,
+      "enrolled": 50,
+      "analyzed": 50
+    },
+    "analysis_populations": [
+      {
+        "name": "All patients",
+        "description": "All consecutive patients undergoing TV-EXP EMN bronchoscopy",
+        "n": 50
+      },
+      {
+        "name": "Lesions <30 mm",
+        "description": "Peripheral pulmonary nodules <30 mm assessed for diagnostic yield",
+        "n": 48
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "TV-EXP-mapped electromagnetic navigation bronchoscopy",
+      "n_randomized": 50,
+      "n_analyzed": 50,
+      "n_completed": 50
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "diagnostic_yield_ppn_lt30mm",
+      "name": "Diagnostic yield for peripheral pulmonary nodules <30 mm",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Index procedure",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 40,
+            "total": 48
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Descriptive proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Lesions <30 mm",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          9
+        ],
+        "tables": [],
+        "quote": "…reporting a diagnostic yield of 83.3% (40/48)."
+      }
+    }
+  ],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "ROBINS-I",
+    "overall_judgment": "serious",
+    "domains": [
+      {
+        "name": "Confounding",
+        "judgment": "serious",
+        "support_for_judgment": "Single-arm retrospective case series without control; potential selection and verification bias."
+      },
+      {
+        "name": "Selection of participants",
+        "judgment": "moderate",
+        "support_for_judgment": "First 50 consecutive patients referred by tumor board may reduce but not eliminate selection bias."
+      },
+      {
+        "name": "Classification of interventions",
+        "judgment": "low",
+        "support_for_judgment": "All patients received the same EMN procedure."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "low",
+        "support_for_judgment": "No deviations reported; protocol clearly described."
+      },
+      {
+        "name": "Missing data",
+        "judgment": "low",
+        "support_for_judgment": "All 50 patients completed procedures; follow-up planned to 24 months."
+      },
+      {
+        "name": "Measurement of outcomes",
+        "judgment": "moderate",
+        "support_for_judgment": "Diagnostic yield determined by pathology/clinical follow-up; lack of blinding may influence classification."
+      },
+      {
+        "name": "Selection of reported result",
+        "judgment": "moderate",
+        "support_for_judgment": "Primary yield reported; limited detail on safety outcomes in available text."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "electromagnetic navigation bronchoscopy",
+      "tidal volume expiration",
+      "SPiNDrive",
+      "peripheral pulmonary nodule",
+      "community hospital"
+    ],
+    "summary_tldr": "Single-center case series: TV-EXP EMN achieved diagnostic yield 83.3% (40/48) for peripheral pulmonary nodules <30 mm.",
+    "clinical_relevance": "Supports minimally invasive diagnosis of small peripheral lung nodules in a community setting with high yield."
+  }
+}

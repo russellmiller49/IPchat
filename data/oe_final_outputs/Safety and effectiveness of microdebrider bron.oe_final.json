@@ -1,0 +1,513 @@
+{
+  "source": {
+    "document_id": "Safety and effectiveness of microdebrider bron",
+    "ingest_date": "2025-08-08T15:33:23.192343+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1111/resp.12087"
+  },
+  "document": {
+    "metadata": {
+      "title": "Safety and effectiveness of microdebrider bronchoscopy for the management of central airway obstruction",
+      "year": 2013,
+      "authors": [
+        "Casal RF",
+        "Iribarren J",
+        "Eapen G",
+        "Ost D",
+        "Morice R",
+        "Lan C",
+        "Cornwell L",
+        "Almeida FA",
+        "Grosu H",
+        "Jimenez CA"
+      ],
+      "journal": "Respirology",
+      "doi": "10.1111/resp.12087",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Background and objective: Microdebrider bronchoscopy is a relatively new modality for the management of central airway obstruction (CAO) of both benign and malignant origin. Our objective was to describe our experience with this technique, with special attention to its safety and effectiveness. Methods: We retrospectively reviewed cases of therapeutic bronchoscopies using microdebrider for CAO from two institutions (M.D. Anderson Cancer Center and Michael E. Debakey VA Medical Center, Houston) from August 2008 through February 2012. Results: We identified 51 cases. Malignant CAO was detected in 36 cases (71%): non-small-cell lung cancer (n = 22), melanoma (n = 3), small-cell-lung cancer (n = 2), thyroid cancer (n = 2), esophageal carcinoma (n = 2), breast cancer (n = 2), and others (n = 3). Benign diseases included: papillomas (n = 8), granulation tissue (n = 3), and others (n = 4). Obstruction was purely endoluminal in 32 cases (63%). Pre-treatment obstruction was severe in 25 cases (49%), moderate in 20 cases (39%) and mild in 6 (12%). Lesions were located in the trachea (n = 23), main stem bronchi (n = 25), and bronchus intermedius (n = 8), with some patients having more than one lesion. After tumor debulking with microdebrider, the residual airway obstruction was insignificant (n = 27 cases; 53%), mild (n = 23 cases; 45%), and moderate (n = 1; 2%). No major complications were encountered, only 2 patients had mild adverse events: one case of pneumomediastinum, and one self-expandable stent damage requiring its removal. Two patients (4%) died within 30 days of causes unrelated to the procedure or the CAO. Conclusions: Microdebrider bronchoscopy is a potentially safe and effective way to manage central airway obstruction of both malignant and benign origin.",
+      "methods": "We conducted a retrospective chart review of patients with CAO who underwent therapeutic bronchoscopy with microdebrider at Michael E. DeBakey VA Medical Center and MD Anderson Cancer Center, between August 2008 and February 2012. Institutional Review Board approval was in place in both institutions. We extracted demographics; history of haemoptysis, bleeding diathesis, local radiotherapy and prior airway stenting; lesion appearance, location, degree/type of obstruction and posterior membranous wall involvement. Airway obstruction was visually estimated as severe (>70%), moderate (30-70%), mild (<30%) or insignificant (<10%) pre- and post-procedure. Tissue diagnosis was pathologically confirmed. Procedures used the Straightshot M4 Microdebrider (Medtronic Xomed) through a rigid bronchoscope under general anaesthesia with jet ventilation. Blade options and rpm (typically 1500-5000) were selected per case. Use of adjunctive techniques (APC, cryotherapy, electrocautery, laser, stent placement) was recorded. Complications included significant bleeding (requiring additional endoscopic therapy), airway perforation, repeat bronchoscopy for additional debulking or clinically significant haemoptysis within 30 days, and 30-day mortality. Data are presented as counts, means and percentages.",
+      "results": "We identified 51 cases. Malignant aetiology in 36 cases (71%): NSCLC 22, melanoma 3, SCLC 2, oesophageal carcinoma 2, breast cancer 2, thyroid cancer 2, carcinoid 1, colon cancer 1, renal cell carcinoma 1. Non-malignant in 15 (29%): papillomas 8, granulation tissue 3, amyloid 1, schwannoma 1, hamartoma 1, granulomatous inflammation 1. Lesion locations: trachea 23, right main stem 19, left main stem 10, bronchus intermedius 8; posterior wall involvement 33 (65%). Obstruction was purely endoluminal in 32 (63%), with extrinsic compression in 19 (37%). Mean pre-treatment obstruction 71%: severe 25 (49%), moderate 20 (39%), mild 6 (12%). After microdebrider debulking, mean residual obstruction 10%: insignificant 27 (53%), mild 23 (45%), moderate 1 (2%). Adjuncts used in the same session included APC 32 (63%), stenting 13 (25%), electrocautery 10 (20%), laser 5 (10%), cryotherapy 5 (10%). Adverse events occurred in 2 patients (4%): intraoperative damage of a self-expandable stent requiring removal (n=1), and pneumomediastinum resolving conservatively (n=1). No significant bleeding, airway perforation, repeat bronchoscopy, or clinically significant haemoptysis within 30 days were reported. Two patients (4%) died within 30 days of causes unrelated to the airway procedure or obstruction."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with central airway obstruction of malignant or non-malignant etiology undergoing therapeutic bronchoscopy at two US tertiary centers.",
+      "inclusion_criteria": [
+        "Diagnosed central airway obstruction",
+        "Underwent therapeutic bronchoscopy using a microdebrider",
+        "Procedure performed between August 2008 and February 2012"
+      ],
+      "exclusion_criteria": [
+        "Not reported"
+      ]
+    },
+    "intervention": {
+      "text": "Microdebrider bronchoscopy",
+      "details": "Straightshot M4 Microdebrider (Medtronic Xomed) through rigid bronchoscopy under general anesthesia with jet ventilation; tip straight or 15° angled; blades smooth or serrated; rpm typically 1500-5000; continuous suction with rotating blade for mechanical debulking; visualization via 0-degree rigid telescope. Adjuncts (APC, electrocautery, laser, cryotherapy, airway stenting) used as needed in same session."
+    },
+    "comparison": {
+      "text": "None (single-arm retrospective case series)",
+      "details": "No control or comparator arm."
+    },
+    "outcomes": [
+      {
+        "name": "Immediate post-procedure residual airway obstruction",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Periprocedural and 30-day adverse events including bleeding, pneumomediastinum, device complications",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "30-day mortality",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Observational retrospective case series",
+    "allocation": "non-randomized",
+    "blinding": "none",
+    "sites_count": 2,
+    "countries": [
+      "US"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 51,
+      "analyzed": 51
+    },
+    "analysis_populations": [
+      {
+        "name": "Treated set",
+        "description": "All patients who underwent microdebrider bronchoscopy",
+        "n": 51
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "Microdebrider bronchoscopy",
+      "n_randomized": 0,
+      "n_analyzed": 51,
+      "n_completed": 51
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "residual_obstruction_insignificant_immediate",
+      "name": "Residual airway obstruction ≤10% immediately post-procedure (insignificant)",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "PT0H",
+      "timepoint_label": "Immediate post-procedure",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 27,
+            "total": 51
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Treated set",
+        "missing_handling": "not reported"
+      },
+      "provenance": {
+        "pages": [
+          1013
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Insignificant† 27 (53%)"
+      }
+    },
+    {
+      "concept_id": "residual_obstruction_mild_or_less_immediate",
+      "name": "Residual airway obstruction ≤30% immediately post-procedure (insignificant or mild)",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "PT0H",
+      "timepoint_label": "Immediate post-procedure",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 50,
+            "total": 51
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Treated set",
+        "missing_handling": "not reported"
+      },
+      "provenance": {
+        "pages": [
+          1013
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Mild† 23 (45%); Insignificant† 27 (53%)"
+      }
+    },
+    {
+      "concept_id": "residual_obstruction_moderate_or_worse_immediate",
+      "name": "Residual airway obstruction ≥30% immediately post-procedure (moderate or severe)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "PT0H",
+      "timepoint_label": "Immediate post-procedure",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 1,
+            "total": 51
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Treated set",
+        "missing_handling": "not reported"
+      },
+      "provenance": {
+        "pages": [
+          1013
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Moderate† 1 (2%); Severe† 0 (0%)"
+      }
+    },
+    {
+      "concept_id": "significant_bleeding_procedure",
+      "name": "Significant bleeding requiring additional endoscopic therapy during procedure",
+      "type": "binary",
+      "outcome_type": "safety",
+      "timepoint_iso8601": "PT0H",
+      "timepoint_label": "Intra-procedural",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 0,
+            "total": 51
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Treated set",
+        "missing_handling": "not reported"
+      },
+      "provenance": {
+        "pages": [
+          1013
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Significant bleeding 0"
+      }
+    },
+    {
+      "concept_id": "any_procedure_related_adverse_event_30d",
+      "name": "Any reported adverse event within 30 days",
+      "type": "binary",
+      "outcome_type": "safety",
+      "timepoint_iso8601": "P30D",
+      "timepoint_label": "30 days",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 2,
+            "total": 51
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Treated set",
+        "missing_handling": "not reported"
+      },
+      "provenance": {
+        "pages": [
+          1013,
+          1014
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "Adverse events were reported in two patients (4%)."
+      }
+    },
+    {
+      "concept_id": "repeat_bronchoscopy_30d",
+      "name": "Repeat bronchoscopy within 30 days",
+      "type": "binary",
+      "outcome_type": "safety",
+      "timepoint_iso8601": "P30D",
+      "timepoint_label": "30 days",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 0,
+            "total": 51
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Treated set",
+        "missing_handling": "not reported"
+      },
+      "provenance": {
+        "pages": [
+          1013
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Repeat bronchoscopy 0"
+      }
+    },
+    {
+      "concept_id": "mortality_30d_all_cause",
+      "name": "All-cause mortality at 30 days",
+      "type": "binary",
+      "outcome_type": "safety",
+      "timepoint_iso8601": "P30D",
+      "timepoint_label": "30 days",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 2,
+            "total": 51
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Treated set",
+        "missing_handling": "not reported"
+      },
+      "provenance": {
+        "pages": [
+          1014
+        ],
+        "tables": [],
+        "quote": "Two patients (4%) died within 30 days of the procedure, but neither event was associated to the patients’ airway obstruction or to the procedure."
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Pneumomediastinum",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Pneumomediastinum"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 1,
+          "patients": 1,
+          "percentage": 2,
+          "total": 51
+        }
+      ],
+      "period": "0-30 days",
+      "management": "Conservative management; resolved within a few days",
+      "provenance": {
+        "pages": [
+          1013,
+          1014
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "One patient developed pneumomediastinum a few hours after the procedure... pneumomediastinum resolved within a few days."
+      }
+    },
+    {
+      "event_name": "Device malfunction (stent damage)",
+      "meddra": {
+        "soc": "Product issues",
+        "pt": "Device malfunction"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 1,
+          "patients": 1,
+          "percentage": 2,
+          "total": 51
+        }
+      ],
+      "period": "intraoperative",
+      "management": "Removal of the damaged self-expandable stent",
+      "provenance": {
+        "pages": [
+          1013,
+          1014
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "The only intraoperative complication was the damage of a self-expandable stent after it was caught by the microdebrider blades, requiring its removal."
+      }
+    },
+    {
+      "event_name": "Bleeding requiring intervention",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Postprocedural hemorrhage"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 51
+        }
+      ],
+      "period": "intraoperative",
+      "management": "",
+      "provenance": {
+        "pages": [
+          1013
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "Significant bleeding 0"
+      }
+    },
+    {
+      "event_name": "Death",
+      "meddra": {
+        "soc": "General disorders and administration site conditions",
+        "pt": "Death"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "death"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 2,
+          "patients": 2,
+          "percentage": 3.9,
+          "total": 51
+        }
+      ],
+      "period": "0-30 days",
+      "management": "",
+      "provenance": {
+        "pages": [
+          1014
+        ],
+        "tables": [],
+        "quote": "Two patients (4%) died within 30 days of the procedure, but neither event was associated to the patients’ airway obstruction or to the procedure."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "ROBINS-I",
+    "overall_judgment": "serious",
+    "domains": [
+      {
+        "name": "Bias due to confounding",
+        "judgment": "serious",
+        "support_for_judgment": "Retrospective single-arm design without control; no adjustment for confounders."
+      },
+      {
+        "name": "Bias in selection of participants",
+        "judgment": "moderate",
+        "support_for_judgment": "Included all patients undergoing the procedure at two centers over a defined period."
+      },
+      {
+        "name": "Bias in classification of interventions",
+        "judgment": "low",
+        "support_for_judgment": "Intervention is clearly defined (microdebrider bronchoscopy)."
+      },
+      {
+        "name": "Bias due to deviations from intended interventions",
+        "judgment": "moderate",
+        "support_for_judgment": "Frequent use of adjunctive therapies may influence outcomes."
+      },
+      {
+        "name": "Bias due to missing data",
+        "judgment": "low",
+        "support_for_judgment": "All 51 procedures reported with outcome counts; no repeat bronchoscopy."
+      },
+      {
+        "name": "Bias in measurement of outcomes",
+        "judgment": "moderate",
+        "support_for_judgment": "Airway obstruction grading based on visual estimation by bronchoscopist."
+      },
+      {
+        "name": "Bias in selection of the reported result",
+        "judgment": "moderate",
+        "support_for_judgment": "No protocol; limited outcomes reported; no statistical comparisons."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "microdebrider",
+      "bronchoscopy",
+      "central airway obstruction",
+      "interventional pulmonology",
+      "argon plasma coagulation",
+      "airway stent"
+    ],
+    "summary_tldr": "In a 51-patient, two-center retrospective series, microdebrider bronchoscopy reduced mean obstruction from 71% to 10%, with 53% achieving insignificant residual obstruction and low mild adverse event rate (4%).",
+    "clinical_relevance": "Supports microdebrider bronchoscopy as an effective, potentially safer debulking option for central airway obstruction, including malignant cases, often used with adjunctive therapies."
+  }
+}

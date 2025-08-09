@@ -1,0 +1,116 @@
+{
+  "source": {
+    "document_id": "fistula Bronstein-2019-Management of air leaks post-su",
+    "ingest_date": "2025-08-08T12:17:23.120062+00:00",
+    "trial_registration_id": null,
+    "pmid": null,
+    "doi": "10.21037/atm.2019.04.30"
+  },
+  "document": {
+    "metadata": {
+      "title": "Management of air leaks post-surgical lung resection",
+      "year": 2019,
+      "authors": [
+        "Matthew E. Bronstein",
+        "Donna C. Koo",
+        "Tracey L. Weigel"
+      ],
+      "journal": "Annals of Translational Medicine",
+      "doi": "10.21037/atm.2019.04.30",
+      "pmid": null
+    },
+    "sections": {
+      "abstract": "Air leaks are a common complication after elective lung resection. Despite advances in thoracic surgery, air leaks persist and can prolong hospitalization, increase pain and costs, and lead to infectious complications. This review discusses a stepwise approach to persistent air leaks, including conservative management with water seal (removing suction), fibrin patches/sealants, chemical pleurodesis (e.g., doxycycline), endobronchial valves, return to the operating room for surgical intervention, and outpatient management with portable drainage systems.",
+      "methods": "Narrative review of management strategies for persistent air leaks following elective pulmonary resection, summarizing available randomized and nonrandomized studies and expert practice considerations.",
+      "results": "The review synthesizes evidence that early use of water seal can shorten air-leak duration compared with routine suction in selected patients, describes bedside application and risks of fibrin sealants and chemical pleurodesis, outlines localization and placement techniques for endobronchial valves with reported effectiveness and complications, and reviews indications for operative re-intervention. It also discusses criteria and practical steps for discharging patients with a portable drainage system when appropriate."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults undergoing elective pulmonary resection who develop postoperative air leaks, including those with persistent air leaks.",
+      "inclusion_criteria": [
+        "Postoperative air leak after elective lung resection"
+      ],
+      "exclusion_criteria": [
+        "Not applicable (narrative review)"
+      ]
+    },
+    "intervention": {
+      "text": "Stepwise management strategies for persistent air leak",
+      "details": "Conservative water seal and observation; fibrin sealants/patches; chemical pleurodesis (e.g., doxycycline); endobronchial valve placement; return to operating room for thoracoscopic or open repair; discharge with portable drainage device."
+    },
+    "comparison": {
+      "text": "Not applicable",
+      "details": "This is a narrative review summarizing multiple comparative and non-comparative studies."
+    },
+    "outcomes": [
+      {
+        "name": "Air leak resolution time",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Persistent air leak resolution",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Chest tube duration",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Complications (e.g., infection, pneumonia, empyema)",
+        "type": "safety",
+        "umls_cui": ""
+      },
+      {
+        "name": "Need for reoperation",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Hospital length of stay",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Review",
+    "allocation": "none",
+    "blinding": "none",
+    "sites_count": 0,
+    "countries": [],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": []
+  },
+  "arms": [],
+  "outcomes_normalized": [],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "Not applicable",
+    "overall_judgment": "not_applicable",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "persistent air leak",
+      "lung resection",
+      "water seal",
+      "suction",
+      "fibrin sealant",
+      "pleurodesis",
+      "doxycycline",
+      "endobronchial valve",
+      "VATS",
+      "portable drainage"
+    ],
+    "summary_tldr": "Narrative review outlining a stepwise approach to managing persistent air leaks after lung resection, from conservative water seal to fibrin sealants, pleurodesis, endobronchial valves, reoperation, and outpatient portable drainage.",
+    "clinical_relevance": "Provides practical guidance on contemporary nonoperative and operative strategies to shorten air-leak duration and facilitate safe discharge in thoracic surgery patients."
+  }
+}

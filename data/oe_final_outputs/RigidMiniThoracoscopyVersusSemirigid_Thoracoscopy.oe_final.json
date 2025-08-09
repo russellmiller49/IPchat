@@ -1,0 +1,635 @@
+{
+  "source": {
+    "document_id": "RigidMiniThoracoscopyVersusSemirigid_Thoracoscopy",
+    "ingest_date": "2025-08-08T15:18:14.162049+00:00",
+    "trial_registration_id": "NCT02851927",
+    "pmid": "",
+    "doi": "10.1097/LBR.0000000000000620"
+  },
+  "document": {
+    "metadata": {
+      "title": "Rigid Mini-Thoracoscopy Versus Semirigid Thoracoscopy in Undiagnosed Exudative Pleural Effusion: The MINT Randomized Controlled Trial",
+      "year": 2020,
+      "authors": [
+        "Shweta Bansal",
+        "Saurabh Mittal",
+        "Pavan Tiwari",
+        "Deepali Jain",
+        "Sudheer Arava",
+        "Vijay Hadda",
+        "Anant Mohan",
+        "Prabhat Malik",
+        "Ravindra Mohan Pandey",
+        "Gopi C. Khilnani",
+        "Randeep Guleria",
+        "Karan Madan"
+      ],
+      "journal": "Journal of Bronchology & Interventional Pulmonology",
+      "doi": "10.1097/LBR.0000000000000620",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Background: There is debate regarding the ideal instrument for medical thoracoscopy. The authors compared rigid mini-thoracoscopy with semirigid thoracoscopy for thoracoscopic pleural biopsy. Methods: Consecutive subjects with undiagnosed exudative pleural effusion were randomized (1:1 ratio) to mini-thoracoscopy or semirigid thoracoscopy groups. The primary objective was a comparison of the diagnostic yield of pleural biopsy. Key secondary outcomes were the comparison of sedative/analgesic dose, operator-rated and patient-rated pain on visual analog scale (VAS), operator-rated overall procedural satisfaction (VAS), pleural biopsy size, and complications between the groups. Results: Of the 88 screened subjects, 73 were randomized: 36 to mini-thoracoscopy and 37 to semirigid thoracoscopy. Diagnostic yield of pleural biopsy in the mini-thoracoscopy (69.4%) and semirigid thoracoscopy groups (81.1%) was similar on intention-to-treat analysis (P = 0.25). Although the operator-rated overall procedure satisfaction scores were similar between groups (P = 0.87), operator-rated pain [VAS (mean ± SD), 43.5 ± 16.7 vs. 31.7 ± 15.8; P < 0.001] and patient-rated pain (VAS, 41.9 ± 17.3 vs. 32.1 ± 16.5; P = 0.02) scores were greater in the mini-thoracoscopy group. Mean dose of fentanyl and midazolam received was similar between the 2 groups (P = 0.28 and 0.68, respectively). Biopsy size was larger in the mini-thoracoscopy group (16.1 ± 4.5 vs. 8.3 ± 2.9 mm; P < 0.001). Three minor complications occurred in the mini-thoracoscopy group and 6 in the semirigid thoracoscopy group (P = 0.11). There were no serious adverse events or procedure-related mortality. Conclusion: Diagnostic yield of rigid mini-thoracoscopy is not superior to semirigid thoracoscopy. Use of semirigid thoracoscope may provide greater patient comfort.",
+      "methods": "Investigator-initiated, prospective, randomized controlled trial at a single center (AIIMS, New Delhi) enrolling between July 2016 and June 2018. Adults with undiagnosed exudative pleural effusion, after non-diagnostic thoracentesis including cytology, were randomized 1:1 to rigid mini-thoracoscopy (Richard Wolf; 5.5-mm scope, 3.5-mm working channel; 3.5-mm rigid biopsy forceps) or semirigid thoracoscopy (Olympus LTF-160; 7.0-mm outer diameter, 2.8-mm working channel; flexible forceps) under moderate conscious sedation (midazolam and fentanyl). Entry trocars: 5.5-mm metallic for mini-thoracoscopy, 10-mm plastic for semirigid. Minimum biopsies: ≥4 (mini-thoracoscopy) and 6-8 (semirigid). Switching to the alternative instrument was allowed if difficulty obtaining biopsy occurred. Histopathology, mycobacterial cultures, and Xpert MTB/Rif were performed on all biopsies. Chest drain placed post-procedure. Follow-up to 6 months if biopsy was non-diagnostic.",
+      "results": "Seventy-three subjects were randomized (36 mini-thoracoscopy; 37 semirigid). Two crossed over from mini to semirigid for adhesions/maneuverability; in 2 subjects (one per group) the procedure was abandoned for limited pleural access. Baseline characteristics were similar. On thoracoscopic visualization, abnormal findings were present in 65/73 (89.0%). Intention-to-treat diagnostic yield was 69.4% for mini-thoracoscopy and 81.1% for semirigid (P = 0.25). As-treated diagnostic yield was 75.6% (mini) and 84.2% (semirigid) (P = 0.30). Adequate biopsies were obtained in all subjects in both groups. Overall, definitive histopathologic diagnosis (malignancy or TB) was achieved in 48/71 (67.6%): malignancy 37 (52.1%), TB 11 (18.2%), nonspecific pleuritis 21 (29.6%), and normal pleura 2 (2.8%). Biopsy size was larger with mini-thoracoscopy (16.1 ± 4.5 mm) than semirigid (8.3 ± 2.9 mm) (P < 0.001). Operator-rated pain (VAS) 43.5 ± 16.7 vs 31.7 ± 15.8 (P < 0.001) and patient-rated pain 41.9 ± 17.3 vs 32.1 ± 16.5 (P = 0.02) were higher with mini-thoracoscopy; overall procedural satisfaction similar (P = 0.87). Maneuverability favored semirigid (P = 0.003). Sedation doses (midazolam, fentanyl) were similar (P = 0.68 and 0.28). Minor complications occurred in 3 (mini) vs 6 (semirigid) (P = 0.11). No serious adverse events or procedure-related mortality."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with undiagnosed exudative pleural effusion undergoing thoracoscopic pleural biopsy after non-diagnostic thoracentesis.",
+      "inclusion_criteria": [
+        "Age > 18 years",
+        "Undiagnosed exudative pleural effusion after diagnostic thoracentesis including negative fluid cytology and ancillary tests",
+        "Adequate rib spaces for thoracoscopy on clinical exam",
+        "Pleural effusion amenable for thoracoscopy on preprocedural thoracic ultrasonography",
+        "Provided written informed consent"
+      ],
+      "exclusion_criteria": [
+        "Pregnancy",
+        "Coagulopathy (platelet count < 50000/mm3 and/or INR > 1.5)",
+        "Unstable hemodynamic status (SBP > 180 mmHg, DBP > 100 mmHg, or SBP < 90 mmHg)",
+        "Heart failure",
+        "Myocardial infarction or unstable angina within preceding 6 weeks",
+        "Hypoxemia not correctable with low-flow oxygen (SpO2 < 90% despite 1-2 L/min oxygen)",
+        "Extensive rib crowding on clinical examination",
+        "Extensive adhesions and lack of pleural space on thoracic ultrasonography",
+        "Refusal of consent"
+      ]
+    },
+    "intervention": {
+      "text": "Rigid mini-thoracoscopy",
+      "details": "Richard Wolf mini-thoracoscope (5.5-mm diameter, 3.5-mm working channel, 0° view) with 3.5-mm rigid biopsy forceps; 5.5-mm metallic trocar; moderate conscious sedation (midazolam 0.015 mg/kg and fentanyl 1.5 µg/kg initial doses, titrated); minimum 4 biopsies obtained."
+    },
+    "comparison": {
+      "text": "Semirigid thoracoscopy",
+      "details": "Olympus LTF-160 semirigid thoracoscope (7.0-mm outer diameter, 2.8-mm working channel) with flexible 2.8-mm forceps; 10-mm plastic trocar; same sedation protocol; minimum 6-8 biopsies obtained due to smaller sample size."
+    },
+    "outcomes": [
+      {
+        "name": "Diagnostic yield of pleural biopsy",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Operator-rated pain (VAS)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Patient-rated pain (VAS)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Pleural biopsy size (mm)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Complications (minor, serious, mortality)",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "RCT",
+    "allocation": "randomized",
+    "blinding": "participant-blinded",
+    "sites_count": 1,
+    "countries": [
+      "India"
+    ],
+    "sample_size": {
+      "planned": 72,
+      "enrolled": 73,
+      "analyzed": 73
+    },
+    "analysis_populations": [
+      {
+        "name": "ITT",
+        "description": "All randomized participants analyzed by assigned group",
+        "n": 73
+      },
+      {
+        "name": "As-treated",
+        "description": "Participants analyzed according to the instrument actually used",
+        "n": 71
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "Rigid mini-thoracoscopy",
+      "n_randomized": 36,
+      "n_analyzed": 36,
+      "n_completed": 36
+    },
+    {
+      "arm_id": "control",
+      "name": "Semirigid thoracoscopy",
+      "n_randomized": 37,
+      "n_analyzed": 37,
+      "n_completed": 37
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "primary_diagnostic_yield_pleural_biopsy_itt",
+      "name": "Diagnostic yield of pleural biopsy (histopathology ± 6-month follow-up)",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P6M",
+      "timepoint_label": "Index procedure to 6 months",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 25,
+            "total": 36
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 30,
+            "total": 37
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": -0.116,
+        "ci_lower": -0.313,
+        "ci_upper": 0.079,
+        "ci_level": 0.95,
+        "p_value": 0.25,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Chi-square test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          166
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "quote": "Diagnostic yield of pleural biopsy in the mini-thoracoscopy (69.4%) and semirigid thoracoscopy groups (81.1%) was similar on intention-to-treat analysis (P = 0.25)."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.856
+        },
+        "odds_ratio": {
+          "est": 0.53
+        },
+        "arr": -0.116,
+        "nnh": 8.6
+      }
+    },
+    {
+      "concept_id": "diagnostic_yield_pleural_biopsy_as_treated",
+      "name": "Diagnostic yield of pleural biopsy (as-treated analysis)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P6M",
+      "timepoint_label": "Index procedure to 6 months",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 25,
+            "total": 33
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 32,
+            "total": 38
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": -0.084,
+        "ci_lower": -0.27,
+        "ci_upper": 0.102,
+        "ci_level": 0.95,
+        "p_value": 0.3,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Chi-square test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "As-treated",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          166
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "quote": "On as-treated analysis ... the diagnostic yield was 75.6% and 84.2% in the mini-thoracoscopy and semirigid thoracoscopy groups, respectively (P = 0.30)."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.9
+        },
+        "odds_ratio": {
+          "est": 0.586
+        },
+        "arr": -0.085,
+        "nnh": 11.8
+      }
+    },
+    {
+      "concept_id": "biopsy_size_mm",
+      "name": "Pleural biopsy size (mm)",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "During index procedure",
+      "unit": "mm",
+      "unit_canonical": "millimeter",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": 16.1,
+            "sd": 4.5,
+            "total": 36
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "mean": 8.3,
+            "sd": 2.9,
+            "total": 37
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "mean_difference",
+        "est": 7.8,
+        "ci_lower": null,
+        "ci_upper": null,
+        "p_value": 0.001,
+        "p_operator": "<",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Student t test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "As-randomized"
+      },
+      "provenance": {
+        "pages": [
+          166
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "quote": "Biopsy size was larger in the mini-thoracoscopy group (16.1 ± 4.5 vs. 8.3 ± 2.9 mm; P < 0.001)."
+      }
+    },
+    {
+      "concept_id": "operator_pain_vas",
+      "name": "Operator-rated pain (VAS, 0-100)",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "During index procedure",
+      "unit": "VAS_0_100",
+      "unit_canonical": "VAS_0_100",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": 43.5,
+            "sd": 16.7,
+            "total": 36
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "mean": 31.7,
+            "sd": 15.8,
+            "total": 37
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "mean_difference",
+        "est": 11.8,
+        "ci_lower": null,
+        "ci_upper": null,
+        "p_value": 0.001,
+        "p_operator": "<",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Student t test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "As-randomized"
+      },
+      "provenance": {
+        "pages": [
+          166
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "quote": "Operator-rated pain [VAS (mean ± SD), 43.5 ± 16.7 vs. 31.7 ± 15.8; P < 0.001] ... was greater in the mini-thoracoscopy group."
+      }
+    },
+    {
+      "concept_id": "patient_pain_vas",
+      "name": "Patient-rated pain (VAS, 0-100)",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "During index procedure",
+      "unit": "VAS_0_100",
+      "unit_canonical": "VAS_0_100",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": 41.9,
+            "sd": 17.3,
+            "total": 36
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "mean": 32.1,
+            "sd": 16.5,
+            "total": 37
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "mean_difference",
+        "est": 9.8,
+        "ci_lower": null,
+        "ci_upper": null,
+        "p_value": 0.02,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Student t test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "As-randomized"
+      },
+      "provenance": {
+        "pages": [
+          166
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "quote": "Patient-rated pain (VAS, 41.9 ± 17.3 vs. 32.1 ± 16.5; P = 0.02) was greater in the mini-thoracoscopy group."
+      }
+    },
+    {
+      "concept_id": "any_minor_complication",
+      "name": "Any minor complication",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P7D",
+      "timepoint_label": "Periprocedural",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 3,
+            "total": 36
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 6,
+            "total": 37
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": -0.062,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.11,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Chi-square test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "As-randomized"
+      },
+      "provenance": {
+        "pages": [
+          166
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "quote": "Three minor complications occurred in the mini-thoracoscopy group and 6 in the semirigid thoracoscopy group (P = 0.11)."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.514
+        },
+        "odds_ratio": {
+          "est": 0.47
+        },
+        "arr": -0.079,
+        "nnh": 12.7
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Any minor procedural complication",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Procedural complication"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 3,
+          "patients": 3,
+          "percentage": 8.3,
+          "total": 36
+        },
+        {
+          "arm_id": "control",
+          "events": 6,
+          "patients": 6,
+          "percentage": 16.2,
+          "total": 37
+        }
+      ],
+      "period": "Periprocedural",
+      "management": "Most events were subcutaneous emphysema; post-procedure fever resolved spontaneously; one procedure-site infection treated locally.",
+      "provenance": {
+        "pages": [
+          166
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "quote": "Nine minor complications occurred—3 in mini-thoracoscopy arm and 6 in semirigid thoracoscopy arm (P = 0.11). Six subjects had subcutaneous emphysema and 2 had postprocedure fever... One subject had procedure site infection."
+      }
+    },
+    {
+      "event_name": "Serious adverse event",
+      "meddra": {
+        "soc": "General disorders and administration site conditions",
+        "pt": "Adverse event"
+      },
+      "serious": true,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 36
+        },
+        {
+          "arm_id": "control",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 37
+        }
+      ],
+      "period": "Periprocedural",
+      "management": "",
+      "provenance": {
+        "pages": [
+          166
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "quote": "There were no serious adverse events or procedure-related mortality."
+      }
+    },
+    {
+      "event_name": "Procedure-related death",
+      "meddra": {
+        "soc": "General disorders and administration site conditions",
+        "pt": "Death"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "death"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 36
+        },
+        {
+          "arm_id": "control",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 37
+        }
+      ],
+      "period": "Periprocedural",
+      "management": "",
+      "provenance": {
+        "pages": [
+          166
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "quote": "There were no serious adverse events or procedure-related mortality."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "RoB 2",
+    "overall_judgment": "some concerns",
+    "domains": [
+      {
+        "name": "Randomization process",
+        "judgment": "low",
+        "support_for_judgment": "Computer-generated randomization sequence with allocation concealment in opaque sealed envelopes."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "some concerns",
+        "support_for_judgment": "Crossovers and abandoned procedures occurred; ITT and as-treated analyses reported; operators not blinded."
+      },
+      {
+        "name": "Missing outcome data",
+        "judgment": "some concerns",
+        "support_for_judgment": "Two procedures were abandoned; follow-up to 6 months for non-diagnostic biopsies; details of missingness handling not fully described."
+      },
+      {
+        "name": "Measurement of the outcome",
+        "judgment": "low",
+        "support_for_judgment": "Objective histopathology-based diagnostic yield; VAS outcomes may be subject to performance bias but participants were blinded to instrument."
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "low",
+        "support_for_judgment": "Pre-specified primary and secondary outcomes reported with corresponding statistics."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "pleural effusion",
+      "medical thoracoscopy",
+      "mini-thoracoscopy",
+      "semirigid thoracoscopy",
+      "pleural biopsy",
+      "randomized controlled trial"
+    ],
+    "summary_tldr": "In adults with undiagnosed exudative pleural effusion, rigid mini-thoracoscopy did not improve diagnostic yield versus semirigid thoracoscopy (69.4% vs 81.1%; P = 0.25) but caused higher operator- and patient-rated pain; biopsy samples were larger with mini-thoracoscopy.",
+    "clinical_relevance": "Semirigid thoracoscopy offers comparable diagnostic yield with better comfort; mini-thoracoscopy yields larger biopsies but with higher pain."
+  }
+}

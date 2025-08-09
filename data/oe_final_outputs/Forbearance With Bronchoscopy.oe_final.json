@@ -1,0 +1,99 @@
+{
+  "source": {
+    "document_id": "Forbearance With Bronchoscopy",
+    "ingest_date": "2025-08-08T12:42:55.028109+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1016/j.chest.2018.08.1035"
+  },
+  "document": {
+    "metadata": {
+      "title": "Forbearance With Bronchoscopy: A Review of Gratuitous Indications",
+      "year": 2019,
+      "authors": [
+        "Himanshu Deshwal",
+        "Sameer K. Avasarala",
+        "Subha Ghosh",
+        "Atul C. Mehta"
+      ],
+      "journal": "CHEST",
+      "doi": "10.1016/j.chest.2018.08.1035",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Advanced technologies such as endobronchial ultrasound and electromagnetic navigation have revolutionized the field of bronchoscopy. Its indications as a diagnostic as well as a therapeutic tool continue to expand at a rapid pace. This growth also has led to the emergence of a new subspecialty of interventional pulmonology and more than 40 fellowship training programs. However, with increasing popularity and accessibility, there is a high impetus for performing the procedure when it may be of limited value. On the basis of a literature review and our own experience, we produced a list of conditions for which bronchoscopy is of limited value yet is being performed frequently. Conditions such as idiopathic pulmonary fibrosis, massive hemoptysis, cystic fibrosis, smear-negative pulmonary TB, and stage I sarcoidosis may be approached best in a more prudent fashion, with the bronchoscopic approach reserved for exceptional cases. We present an overview of conditions for which the expectations for bronchoscopy exceed the evidence in the literature, and we coined the term “forbearance with bronchoscopy” for situations in which this popular tool may not be the most appropriate initial approach.",
+      "methods": "Narrative review based on literature review and authors’ clinical experience; not a systematic review or meta-analysis. The authors summarize diagnostic and therapeutic yield and risks of bronchoscopy across specific clinical scenarios and compare with alternative modalities when data are available.",
+      "results": "Key points: Cystic fibrosis: Induced sputum can be as informative as BAL for Pseudomonas aeruginosa; mediastinal lymphadenopathy occurs in at least 52% and usually requires CT follow-up rather than bronchoscopy; bronchoscopy has limited value in source localization for massive hemoptysis but can aid targeted dornase alfa instillation in lobar collapse. Smear-negative pulmonary TB: Obtaining at least 3 induced sputum specimens yields approximately 91% to 99% diagnostic sensitivity; nucleic acid amplification testing can reduce time from specimen collection to treatment from 14 days to 3 days (P < .0001); lidocaine can inhibit Mycobacterium growth and may lower bronchoscopic yield; purified protein derivative conversion of up to 11% has been noted among trainees exposed in bronchoscopy suites. Hemoptysis: With negative chest radiography/CT, flexible bronchoscopy identifies a cause in approximately 16% to 21%; in massive hemoptysis localized on radiography, bronchoscopy identified the source in 82.1%; multidetector CT localizes bleeding in 63% to 100% and detects endobronchial lesions with 90% sensitivity; combining MDCT and bronchoscopy improves detection to approximately 93% compared with CT alone at 67%; in lung cancer patients, localization sensitivity was 61% for bronchoscopy vs 92% for CT (P < .05), and 97% combined (P = .58). Atelectasis in mechanically ventilated patients: An RCT with 31 participants showed no difference between bronchoscopy plus respiratory therapy vs respiratory therapy alone in restoration of volume loss at 24 to 48 hours (P > .20); combined kinetic and percussion therapy obviated the need for bronchoscopy in 68% of patients. Fibrosing mediastinitis: CT findings often obviate biopsy; EBUS-TBNA often yields only inflammation/fibrosis; endobronchial stents frequently reocclude; bleeding risk is increased due to collateral vessels; silicone stents may migrate; spray cryotherapy has been used to reduce recurrent hemoptysis. Overall, the authors recommend reserving bronchoscopy for scenarios where it meaningfully changes diagnosis or therapy after noninvasive options are exhausted."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Patients with pulmonary diseases or clinical scenarios where bronchoscopy is often considered (cystic fibrosis, smear-negative pulmonary TB, hemoptysis, mechanically ventilated patients with atelectasis, fibrosing mediastinitis, pulmonary nodules, selected mediastinal lymphadenopathy).",
+      "inclusion_criteria": [],
+      "exclusion_criteria": []
+    },
+    "intervention": {
+      "text": "Bronchoscopy (flexible and rigid; diagnostic and therapeutic uses including BAL, brushings, TBBx, TBNA, guided bronchoscopy, EBUS).",
+      "details": "Use of bronchoscopy for diagnosis or therapy across specified conditions; consideration of alternatives such as induced sputum, CT/MDCT imaging, and NAAT where appropriate."
+    },
+    "comparison": {
+      "text": "Noninvasive or alternative diagnostic/therapeutic strategies",
+      "details": "Induced sputum, nucleic acid amplification testing including Xpert MTB/RIF and Ultra, MDCT imaging, chest physiotherapy and kinetic/percussion therapy, conservative management."
+    },
+    "outcomes": [
+      {
+        "name": "Diagnostic yield and clinical utility of bronchoscopy vs alternatives by condition",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Time from specimen collection to TB treatment initiation with NAAT vs conventional methods",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Complications and risks associated with bronchoscopy in specific scenarios",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "narrative_review",
+    "allocation": "",
+    "blinding": "",
+    "sites_count": 0,
+    "countries": [],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": []
+  },
+  "arms": [],
+  "outcomes_normalized": [],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "",
+    "overall_judgment": "",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "bronchoscopy",
+      "forbearance",
+      "cystic fibrosis",
+      "smear-negative pulmonary tuberculosis",
+      "hemoptysis",
+      "atelectasis",
+      "fibrosing mediastinitis",
+      "endobronchial ultrasound",
+      "guided bronchoscopy",
+      "induced sputum",
+      "MDCT"
+    ],
+    "summary_tldr": "Narrative review recommending prudent, selective use of bronchoscopy; in several conditions (eg, SN-PTB, hemoptysis with negative CT, ventilator-associated atelectasis), noninvasive strategies often match or outperform bronchoscopy in yield, safety, or timeliness.",
+    "clinical_relevance": "Supports evidence-based restraint in ordering bronchoscopy and prioritizing noninvasive diagnostics and therapies when they offer comparable or superior outcomes."
+  }
+}

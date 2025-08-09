@@ -1,0 +1,521 @@
+{
+  "source": {
+    "document_id": "Nd-YAG laser vs bronchoscopic electrocautery",
+    "ingest_date": "2025-08-08T14:27:36.083634+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": ""
+  },
+  "document": {
+    "metadata": {
+      "title": "Nd-YAG Laser vs Bronchoscopic Electrocautery for Palliation of Symptomatic Airway Obstruction: A Cost-Effectiveness Study",
+      "year": 1999,
+      "authors": [
+        "Ton van Boxem",
+        "Maike Muller",
+        "Ben Venmans",
+        "Pieter Postmus",
+        "Tom Sutedja"
+      ],
+      "journal": "Chest",
+      "doi": "",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Study objective: To evaluate the cost effectiveness of the Nd-YAG laser and bronchoscopic electrocautery for palliation in patients with symptomatic tumor obstruction. Design: A retrospective study. Setting: Bronchoscopy unit of a university hospital. Patients and intervention: Thirty-one consecutive patients with inoperable non-small cell lung cancer and symptomatic intraluminal tumor underwent bronchoscopic treatment. Dyspnea relief was the primary goal of treatment. Fourteen patients were treated with the Nd-YAG laser and 17 patients with electrocautery. Measurements and results: Improvement of symptoms was achieved in 70% of patients treated by either Nd-YAG laser or electrocautery. Mean ± SD survival was 8.0 ± 2.5 months after Nd-YAG laser treatment and 11.5 ± 3.5 months after electrocautery. The number of treatment sessions per patient was comparable: Nd-YAG laser, 1.1; electrocautery, 1.2. Duration of hospital stay was longer in patients treated with the Nd-YAG laser (8.4 vs 6.7 days). Average treatment costs, including admission charges, were $5,321 to $5,324 for the Nd-YAG laser and $4,290 for electrocautery. Higher costs in the group treated with the Nd-YAG laser were caused by a longer hospital stay before bronchoscopic treatment. Costs of equipment (electrocautery $6,701 and Nd-YAG laser $208,333), write-offs, maintenance, and repair were not included.",
+      "methods": "Retrospective cohort of patients with centrally located inoperable NSCLC who underwent bronchoscopic treatment between January 1994 and December 1996 for dyspnea due to intraluminal tumor obstruction. From January 1994 to March 1995, treatment used Nd-YAG laser (Sharplan); from March 1995 to December 1996, treatment used electrocautery (Valleylab) due to Nd-YAG laser technical issues. Outcomes assessed included dyspnea improvement (yes/no), complications, number of treatment sessions, additional antitumor therapy, duration of hospital stay before and after bronchoscopic treatment, survival after treatment, and total costs within 1 month of the intervention. Procedures used rigid and flexible bronchoscopy, with mechanical debulking and coagulation (Nd-YAG in noncontact mode; electrocautery in probe-contact mode up to 55 W). Electrocautery settings were tested around 30 W on normal mucosa; mechanical clearance followed coagulation. Some procedures were performed under local anesthesia, others under general anesthesia.",
+      "results": "Thirty-one patients were included: 14 treated with Nd-YAG laser and 17 with electrocautery. Groups were comparable in demographics, diagnosis, site of obstruction, timing, and antitumor therapy. General anesthesia was more common with Nd-YAG. Symptom improvement occurred in about 70% in both groups (Nd-YAG 10/14; electrocautery 13/17). No complications directly attributable to technique were reported; single events included hypotension (Nd-YAG) and hemoptysis/respiratory failure (electrocautery). Mean survival after treatment was 8.0 ± 2.5 months (Nd-YAG) vs 11.5 ± 3.5 months (electrocautery). Sessions per patient were similar (1.1 vs 1.2). Hospital stay before intervention was longer for Nd-YAG (8.4 ± 4.0 vs 6.7 ± 5.3 days) and after intervention similar (3.3 ± 2.5 vs 1.7 ± 1.6 days). Average total costs per patient within 1 month were higher with Nd-YAG ($5,324) vs electrocautery ($4,290); equipment costs were not included. Differences were mainly due to longer pre-intervention hospital stay with Nd-YAG."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with centrally located inoperable non-small cell lung cancer and symptomatic intraluminal airway obstruction causing dyspnea, treated at a university hospital bronchoscopy unit.",
+      "inclusion_criteria": [
+        "Inoperable non-small cell lung cancer",
+        "Centrally located intraluminal airway tumor",
+        "Symptomatic airway obstruction with dyspnea",
+        "Underwent bronchoscopic treatment between January 1994 and December 1996"
+      ],
+      "exclusion_criteria": [
+        "Not reported"
+      ]
+    },
+    "intervention": {
+      "text": "Bronchoscopic Nd-YAG laser debulking",
+      "details": "Rigid and/or flexible bronchoscopy with mechanical tumor removal and noncontact Nd-YAG laser coagulation up to 55 W; anesthesia local or general."
+    },
+    "comparison": {
+      "text": "Bronchoscopic electrocautery debulking",
+      "details": "Rigid and/or flexible bronchoscopy with mechanical tumor removal and electrocautery probe-contact coagulation; energy around 30 W tested on normal mucosa; anesthesia local or general."
+    },
+    "outcomes": [
+      {
+        "name": "Dyspnea improvement (yes/no) after bronchoscopic treatment",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Survival after bronchoscopic treatment (months)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Hospital stay before and after bronchoscopic treatment (days)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Total treatment costs within 1 month (USD)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Procedure-related complications",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Retrospective cohort",
+    "allocation": "non-randomized",
+    "blinding": "none",
+    "sites_count": 1,
+    "countries": [
+      "NL"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 31,
+      "analyzed": 31
+    },
+    "analysis_populations": [
+      {
+        "name": "Full cohort",
+        "description": "All treated patients meeting inclusion criteria",
+        "n": 31
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "Nd-YAG laser",
+      "n_randomized": 14,
+      "n_analyzed": 14,
+      "n_completed": 14
+    },
+    {
+      "arm_id": "control",
+      "name": "Electrocautery",
+      "n_randomized": 17,
+      "n_analyzed": 17,
+      "n_completed": 17
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "dyspnea_improvement_immediate",
+      "name": "Dyspnea improvement",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Immediate post-procedure",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 10,
+            "total": 14
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 13,
+            "total": 17
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Descriptive (no inferential test reported)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Full cohort",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          1110
+        ],
+        "tables": [
+          "Table 1"
+        ],
+        "table_number": 1,
+        "quote": "Improvement of symptoms 10 (71%) vs 13 (76%)"
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.934
+        },
+        "odds_ratio": {
+          "est": 0.769
+        },
+        "arr": -0.05,
+        "nnh": 19.8
+      }
+    },
+    {
+      "concept_id": "post_procedure_survival_months",
+      "name": "Survival after bronchoscopic treatment",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "overall",
+      "unit": "months",
+      "unit_canonical": "month",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": 8,
+            "sd": 2.5,
+            "total": 14
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "mean": 11.5,
+            "sd": 3.5,
+            "total": 17
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Descriptive (no inferential test reported)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Full cohort"
+      },
+      "provenance": {
+        "pages": [
+          1109,
+          1110
+        ],
+        "tables": [
+          "Table 1"
+        ],
+        "quote": "Survival, mo 8.0 ± 2.5 vs 11.5 ± 3.5"
+      }
+    },
+    {
+      "concept_id": "hospital_stay_before_bt_days",
+      "name": "Hospital stay before bronchoscopic treatment",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "pre-procedure",
+      "unit": "days",
+      "unit_canonical": "day",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": 8.4,
+            "sd": 4,
+            "total": 14
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "mean": 6.7,
+            "sd": 5.3,
+            "total": 17
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Descriptive (no inferential test reported)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Full cohort"
+      },
+      "provenance": {
+        "pages": [
+          1110,
+          1111
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Before BT: Hospital stay, d 8.4 ± 4.0 vs 6.7 ± 5.3"
+      }
+    },
+    {
+      "concept_id": "hospital_stay_after_bt_days",
+      "name": "Hospital stay after bronchoscopic treatment",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "post-procedure",
+      "unit": "days",
+      "unit_canonical": "day",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": 3.3,
+            "sd": 2.5,
+            "total": 14
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "mean": 1.7,
+            "sd": 1.6,
+            "total": 17
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Descriptive (no inferential test reported)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Full cohort"
+      },
+      "provenance": {
+        "pages": [
+          1111
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Hospital stay, d (after BT) 3.3 ± 2.5 vs 1.7 ± 1.6"
+      }
+    },
+    {
+      "concept_id": "total_treatment_cost_usd_1_month",
+      "name": "Total treatment costs per patient within 1 month",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P1M",
+      "unit": "USD",
+      "unit_canonical": "USD",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": 5324,
+            "total": 14
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "mean": 4290,
+            "total": 17
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Descriptive (no inferential test reported)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Full cohort"
+      },
+      "provenance": {
+        "pages": [
+          1111
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Total costs per patient 5,324 vs 4,290 (USD)"
+      }
+    },
+    {
+      "concept_id": "general_anesthesia_used",
+      "name": "General anesthesia used during procedure",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "periprocedural",
+      "timepoint_label": "Per-procedure",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 13,
+            "total": 14
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 6,
+            "total": 17
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Descriptive (no inferential test reported)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Full cohort",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          1110
+        ],
+        "tables": [
+          "Table 1"
+        ],
+        "table_number": 1,
+        "quote": "General anesthesia 13 (95%) vs 6 (35%)"
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 2.631
+        },
+        "odds_ratio": {
+          "est": 23.833
+        },
+        "arr": 0.576,
+        "nnt": 1.7
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Hypotension",
+      "meddra": {
+        "soc": "Vascular disorders",
+        "pt": "Hypotension"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 1,
+          "patients": 1,
+          "percentage": 7.1,
+          "total": 14
+        },
+        {
+          "arm_id": "control",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 17
+        }
+      ],
+      "period": "Periprocedural (index hospitalization)",
+      "management": "",
+      "provenance": {
+        "pages": [
+          1110
+        ],
+        "tables": [
+          "Table 1"
+        ],
+        "quote": "Complications: Hypotension (n = 1)"
+      }
+    },
+    {
+      "event_name": "Respiratory failure",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Respiratory failure"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "life-threatening"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 14
+        },
+        {
+          "arm_id": "control",
+          "events": 1,
+          "patients": 1,
+          "percentage": 5.9,
+          "total": 17
+        }
+      ],
+      "period": "Periprocedural (index hospitalization)",
+      "management": "",
+      "provenance": {
+        "pages": [
+          1110
+        ],
+        "tables": [
+          "Table 1"
+        ],
+        "quote": "Complications: Hemoptysis/respiratory failure (n = 1)"
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "ROBINS-I",
+    "overall_judgment": "serious",
+    "domains": [
+      {
+        "name": "Bias due to confounding",
+        "judgment": "serious",
+        "support_for_judgment": "Nonrandomized, sequential cohorts with differing logistics and anesthesia use."
+      },
+      {
+        "name": "Bias in selection of participants into the study",
+        "judgment": "moderate",
+        "support_for_judgment": "Consecutive patients but across two time periods with equipment availability determining intervention."
+      },
+      {
+        "name": "Bias in classification of interventions",
+        "judgment": "low",
+        "support_for_judgment": "Clear procedural assignment by time period."
+      },
+      {
+        "name": "Bias due to deviations from intended interventions",
+        "judgment": "low",
+        "support_for_judgment": "Standard care within each period; no crossover reported."
+      },
+      {
+        "name": "Bias due to missing data",
+        "judgment": "low",
+        "support_for_judgment": "Outcomes reported for all 31 patients."
+      },
+      {
+        "name": "Bias in measurement of outcomes",
+        "judgment": "moderate",
+        "support_for_judgment": "Dyspnea improvement assessed retrospectively as yes/no; potential subjective assessment."
+      },
+      {
+        "name": "Bias in selection of the reported result",
+        "judgment": "unclear",
+        "support_for_judgment": "No protocol or statistical analysis plan available; limited reporting of statistical tests."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "bronchoscopy",
+      "Nd-YAG laser",
+      "electrocautery",
+      "non-small cell lung cancer",
+      "airway obstruction",
+      "cost-effectiveness",
+      "palliation"
+    ],
+    "summary_tldr": "In a single-center retrospective cohort (n=31) for palliative debulking of intraluminal airway obstruction in NSCLC, electrocautery achieved similar dyspnea relief (~70%) with shorter pre-procedure hospital stay and lower 1-month costs than Nd-YAG laser.",
+    "clinical_relevance": "Electrocautery is an accessible, lower-cost alternative to Nd-YAG laser for urgent palliation of symptomatic airway obstruction without apparent loss of effectiveness."
+  }
+}

@@ -1,0 +1,382 @@
+{
+  "source": {
+    "document_id": "Complications Following Therapeutic B",
+    "ingest_date": "2025-08-08T10:47:38.194269+00:00",
+    "trial_registration_id": "",
+    "pmid": "25741819",
+    "doi": "10.1378/chest.14-1530"
+  },
+  "document": {
+    "metadata": {
+      "title": "Complications Following Therapeutic Bronchoscopy for Malignant Central Airway Obstruction: Results of the AQuIRE Registry",
+      "year": 2015,
+      "authors": [
+        "David E. Ost",
+        "Armin Ernst",
+        "Horiana B. Grosu",
+        "Xiudong Lei",
+        "Javier Diaz-Mendoza",
+        "Mark Slade",
+        "Thomas R. Gildea",
+        "Michael Machuzak",
+        "Carlos A. Jimenez",
+        "Jennifer Toth",
+        "Kevin L. Kovitz",
+        "Cynthia Ray",
+        "Sara Greenhill",
+        "Roberto F. Casal",
+        "Francisco A. Almeida",
+        "Momen Wahidi",
+        "George A. Eapen",
+        "Lonny B. Yarmus",
+        "Rodolfo C. Morice",
+        "Sadia Benzaquen",
+        "Alain Tremblay",
+        "Michael Simoff"
+      ],
+      "journal": "Chest",
+      "doi": "10.1378/chest.14-1530",
+      "pmid": "25741819"
+    },
+    "sections": {
+      "abstract": "Background: Therapeutic bronchoscopy is used to palliate malignant central airway obstruction, but practice patterns vary and comparative data on complications across approaches are limited. Methods: Using the CHEST AQuIRE multicenter registry, we evaluated consecutive patients undergoing therapeutic flexible or rigid bronchoscopy for malignant central airway obstruction. The primary outcome was procedural morbidity (any complication within 24 hours). Secondary outcomes included bleeding, hypoxemia, respiratory failure, adverse events, escalation in level of care, and 30-day mortality. Results: Fifteen centers performed 1,115 procedures on 947 patients. Centers differed in anesthesia type (moderate vs deep/general; p<0.001), use of rigid bronchoscopy (p<0.001), ventilation mode (p<0.001), and stent use (p<0.001). Overall complication rate was 3.9% (44/1,115) with center-level variation (0.9%-11.7%; p=0.002). Risk factors for complications included urgent/emergent procedures, ASA score >3, redo bronchoscopy, and moderate sedation. Six deaths (0.5%) were attributable to procedural complications. Complications with adverse events occurred in 2.2% (24/1,115). Thirty-day mortality after first procedures was 14.8% and varied among centers (7.7%-20.2%; p=0.02). Conclusions: Practice patterns vary substantially and are associated with differences in complications and 30-day mortality.",
+      "methods": "Multicenter observational registry study using the CHEST AQuIRE program. Consecutive patients undergoing therapeutic flexible or rigid bronchoscopy for malignant central airway obstruction from January 2009 to February 2013 were included. Central airway obstruction was defined as ≥50% occlusion of the trachea, mainstem bronchi, bronchus intermedius, or lobar bronchus. Clinical decisions (technique, anesthesia, ventilation, stents) were at the bronchoscopist’s discretion. Outcomes were collected within 24 hours, and 30-day survival was assessed for first procedures. Analyses used chi-square/Fisher/Wilcoxon tests for univariate associations; multivariable hierarchical logistic regression (maximum likelihood or Firth penalized likelihood for rare events) for binary outcomes; ANCOVA for continuous outcomes. Variables with p<0.20 in univariate analyses were candidates for multivariable models; backward selection retained variables with p<0.05. Center-level effects were assessed with hierarchical models.",
+      "results": "Fifteen centers and 26 physicians enrolled 947 patients undergoing 1,115 procedures. Anesthesia practices differed (p<0.001), as did use of rigid bronchoscopy (p<0.001), ventilation mode (p<0.001), and stent use (p<0.001). Overall, 44 patients (3.9%) had complications; among centers with ≥25 cases, rates ranged 0.9%-11.7% (p=0.002). Moderate-sedation-predominant centers had higher complication rates (12.2%) than general-anesthesia-predominant centers (3.0%; p<0.001). Escalation in level of care was required in 27/44 (61%) with complications. Six patients (0.5%) died due to procedural complications (4 within 24 hours; 2 after 24 hours but related). Twenty-four patients (2.2%) had a complication with an adverse event; 17/24 (71%) required escalation in care. Thirty-day mortality after first bronchoscopy was 14.8% with center-level variation (7.7%-20.2%; p=0.02). Multivariable analyses found urgent/emergent procedures, ASA >3, redo procedures, and moderate sedation associated with higher complication risk; for complications leading to death, urgent/emergent procedures and never smoking were associated; for complications with adverse events, Zubrod >1, ASA >3, and redo procedures were associated."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults undergoing therapeutic bronchoscopy for malignant central airway obstruction in a multicenter registry.",
+      "inclusion_criteria": [
+        "Therapeutic flexible or rigid bronchoscopy performed",
+        "Malignant central airway obstruction with ≥50% occlusion of trachea, mainstem bronchi, bronchus intermedius, or lobar bronchus",
+        "Consecutive cases during center participation (January 2009-February 2013)"
+      ],
+      "exclusion_criteria": [
+        "Not reported"
+      ]
+    },
+    "intervention": {
+      "text": "Therapeutic bronchoscopy",
+      "details": "Flexible or rigid bronchoscopy with ablative techniques (laser, electrocautery, argon plasma coagulation, cryotherapy, dilation) and/or stent placement; anesthesia varied (moderate vs deep/general); ventilation modes included jet and volume-cycled."
+    },
+    "comparison": {
+      "text": "None (single-arm observational registry)",
+      "details": "No randomized comparator; practice pattern variations analyzed with multivariable and hierarchical models."
+    },
+    "outcomes": [
+      {
+        "name": "Procedural morbidity (any complication within 24 hours)",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Bleeding requiring intervention within 24 hours",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Refractory hypoxemia within 24 hours",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Unexpected respiratory failure requiring positive pressure ventilation within 24 hours",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Complication-associated adverse events",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Escalation in level of care",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "30-day mortality",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Observational cohort (multicenter registry)",
+    "allocation": "nonrandomized",
+    "blinding": "none",
+    "sites_count": 15,
+    "countries": [
+      "US",
+      "UK",
+      "Canada"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 947,
+      "analyzed": 1115
+    },
+    "analysis_populations": [
+      {
+        "name": "All procedures",
+        "description": "All registry procedures analyzed for 24-hour complications",
+        "n": 1115
+      },
+      {
+        "name": "First procedures",
+        "description": "First therapeutic bronchoscopy per patient for 30-day mortality",
+        "n": 800
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "overall_cohort",
+      "name": "Overall registry cohort",
+      "n_randomized": 0,
+      "n_analyzed": 1115,
+      "n_completed": 1115
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "any_complication_24h",
+      "name": "Any procedural complication within 24 hours",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P1D",
+      "timepoint_label": "24 hours",
+      "groups": [
+        {
+          "arm_id": "overall_cohort",
+          "raw": {
+            "events": 44,
+            "total": 1115
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Hierarchical logistic regression (maximum likelihood; Firth penalized likelihood for rare events) for risk factor identification; descriptive reporting for incidence",
+        "adjusted": true,
+        "covariates": [
+          "urgency (elective/urgent/emergent)",
+          "ASA score",
+          "redo therapeutic bronchoscopy",
+          "anesthesia type (moderate vs deep/general)",
+          "center (random effect)"
+        ],
+        "population": "All procedures"
+      },
+      "provenance": {
+        "pages": [
+          452,
+          454
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Forty-four patients (3.9%) had complications... Among the eight centers with data on ≥25 cases (n=1,052), complication rates ranged from 0.9% to 11.7% (P = .002)."
+      }
+    },
+    {
+      "concept_id": "complication_with_adverse_event",
+      "name": "Complication with adverse event",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P1D",
+      "timepoint_label": "Within 24 hours",
+      "groups": [
+        {
+          "arm_id": "overall_cohort",
+          "raw": {
+            "events": 24,
+            "total": 1115
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Hierarchical logistic regression for risk factor identification; descriptive incidence",
+        "adjusted": true,
+        "covariates": [
+          "Zubrod score",
+          "ASA score",
+          "redo therapeutic bronchoscopy",
+          "center (random effect)"
+        ],
+        "population": "All procedures"
+      },
+      "provenance": {
+        "pages": [
+          452,
+          453
+        ],
+        "tables": [
+          "Table 4"
+        ],
+        "quote": "Twenty-four patients (2.2%) had complications as well as an adverse event. An escalation in level of care was required in 17 (71%) of these patients."
+      }
+    },
+    {
+      "concept_id": "death_due_to_procedural_complication_30d",
+      "name": "Death due to procedural complication within 30 days",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P30D",
+      "timepoint_label": "30 days",
+      "groups": [
+        {
+          "arm_id": "overall_cohort",
+          "raw": {
+            "events": 6,
+            "total": 1115
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Hierarchical logistic regression (Firth penalized likelihood due to rare events)",
+        "adjusted": true,
+        "covariates": [
+          "urgency (elective/urgent/emergent)",
+          "smoking status (never vs ever)",
+          "center (random effect)"
+        ],
+        "population": "All procedures"
+      },
+      "provenance": {
+        "pages": [
+          452
+        ],
+        "tables": [
+          "e-Table 1",
+          "Table 3"
+        ],
+        "quote": "Six patients (0.5%) died secondary to procedural complications. On multivariate analysis, only urgent and emergent procedures and never smoking were associated with procedural complications leading to death."
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Procedural complication",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Procedural complication"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "life-threatening",
+        "hospitalization",
+        "disability",
+        "death",
+        "other medically important condition"
+      ],
+      "groups": [
+        {
+          "arm_id": "overall_cohort",
+          "events": 44,
+          "patients": 44,
+          "percentage": 3.9,
+          "total": 1115
+        }
+      ],
+      "period": "0-24 hours",
+      "management": "",
+      "provenance": {
+        "pages": [
+          452,
+          454
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "Forty-four patients (3.9%) had complications."
+      }
+    },
+    {
+      "event_name": "Death",
+      "meddra": {
+        "soc": "General disorders and administration site conditions",
+        "pt": "Death"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "death"
+      ],
+      "groups": [
+        {
+          "arm_id": "overall_cohort",
+          "events": 6,
+          "patients": 6,
+          "percentage": 0.5,
+          "total": 1115
+        }
+      ],
+      "period": "0-30 days",
+      "management": "",
+      "provenance": {
+        "pages": [
+          452
+        ],
+        "tables": [
+          "e-Table 1"
+        ],
+        "quote": "Six patients (0.5%) died secondary to procedural complications."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "ROBINS-I",
+    "overall_judgment": "moderate",
+    "domains": [
+      {
+        "name": "Confounding",
+        "judgment": "moderate",
+        "support_for_judgment": "Observational design; multivariable hierarchical models adjusted for key covariates (urgency, ASA, Zubrod, redo, anesthesia) and center effects."
+      },
+      {
+        "name": "Selection of participants",
+        "judgment": "low",
+        "support_for_judgment": "Centers agreed to enter consecutive eligible patients during participation."
+      },
+      {
+        "name": "Classification of interventions",
+        "judgment": "low",
+        "support_for_judgment": "Procedural details and anesthesia type recorded prospectively using standardized definitions."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "low",
+        "support_for_judgment": "Registry reflects real-world practice; no protocolized interventions."
+      },
+      {
+        "name": "Missing data",
+        "judgment": "unclear",
+        "support_for_judgment": "Not fully reported; subset analyses used centers with ≥25 cases for some comparisons."
+      },
+      {
+        "name": "Measurement of outcomes",
+        "judgment": "low",
+        "support_for_judgment": "Complications within 24 hours defined a priori with standardized criteria."
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "low",
+        "support_for_judgment": "Outcomes prespecified; analyses described in protocol with thresholds for model inclusion."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "therapeutic bronchoscopy",
+      "malignant central airway obstruction",
+      "complications",
+      "AQuIRE registry",
+      "stent",
+      "rigid bronchoscopy",
+      "anesthesia"
+    ],
+    "summary_tldr": "In a 15-center registry (1,115 procedures), overall 24-hour complication rate was 3.9% (44/1,115), with center-level variation; six deaths (0.5%) were attributable to procedural complications.",
+    "clinical_relevance": "Provides benchmark multicenter rates of procedural complications and 30-day mortality for therapeutic bronchoscopy in malignant central airway obstruction and identifies key risk factors (urgency, ASA >3, redo procedures, moderate sedation)."
+  }
+}

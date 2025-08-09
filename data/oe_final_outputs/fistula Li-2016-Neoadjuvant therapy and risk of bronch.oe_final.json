@@ -1,0 +1,361 @@
+{
+  "source": {
+    "document_id": "fistula Li-2016-Neoadjuvant therapy and risk of bronch",
+    "ingest_date": "2025-08-08T12:30:09.685268+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1093/jjco/hyw037"
+  },
+  "document": {
+    "metadata": {
+      "title": "Neoadjuvant therapy and risk of bronchopleural fistula after lung cancer surgery: a systematic meta-analysis of 14,912 patients",
+      "year": 2016,
+      "authors": [
+        "Shuangjiang Li",
+        "Jun Fan",
+        "Jing Liu",
+        "Jian Zhou",
+        "Yutao Ren",
+        "Cheng Shen",
+        "Guowei Che"
+      ],
+      "journal": "Japanese Journal of Clinical Oncology",
+      "doi": "10.1093/jjco/hyw037",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Objective: Neoadjuvant therapy has been extensively analyzed in studies addressing the risk factors of bronchopleural fistula, but their results vary hugely. Therefore, we conducted this meta-analysis to determine the association between neoadjuvant therapy and risk of bronchopleural fistula in patients undergoing lung cancer surgery. Methods: We searched PubMed and EMBASE to identify the full-text literatures that met our eligibility criteria. Odds ratio with 95% confidence interval served as the summarized statistics. Heterogeneity within this meta-analysis was evaluated by Q-test and I2 statistic. Sensitivity analysis was performed for further assessments of robustness. Publication bias was detected by Begg’s test and Egger’s test. Results: Thirty studies enrolling 14 912 lung cancer cases were included into this meta-analysis. The incidence of bronchopleural fistula was 2.4% (354/14 912) in the large scale. Overall, neoadjuvant therapy significantly increased the risk of bronchopleural fistula after pulmonary resections (odds ratio: 2.166; 95% confidence interval: 1.398-3.357; P = 0.001). In subgroup analysis, neoadjuvant radiotherapy (odds ratio: 3.914; 95% confidence interval: 1.401-10.935; P = 0.009) and chemo-radiation (odds ratio: 2.533; 95% confidence interval: 1.353-4.741; P = 0.004) were significantly associated with the bronchopleural fistula risk but neoadjuvant chemotherapy was not (odds ratio: 1.857; 95% confidence interval: 0.881-3.911; P = 0.104). The impact of neoadjuvant therapy on bronchopleural fistula occurrence remains statistically prominent in the other subgroups. Conclusions: Neoadjuvant therapy is significantly associated with the occurrence of bronchopleural fistula after lung cancer surgery. Both neoadjuvant radiotherapy and chemo-radiation significantly increase the bronchopleural fistula risk but neoadjuvant chemotherapy does not. Some limitations still exist in this meta-analysis. The updated high-quality studies can help to further confirm and enrich our discoveries in the future.",
+      "methods": "We conducted this systematic meta-analysis in accordance with PRISMA. PubMed and EMBASE (Ovid) were searched for English-language studies from 1 January 1990 to 24 August 2015 using terms related to bronchopleural fistula, neoadjuvant/induction/preoperative therapy, and risk/incidence/etiology. Inclusion criteria: primary lung cancer; postoperative BPF; assessment of neoadjuvant chemotherapy and/or radiotherapy; availability of primary demographic data or effect estimates (OR/RR/HR). Exclusions: reviews, letters, animal experiments, case reports, conference abstracts; uncertain neoadjuvant therapy or BPF details; non-lung cancer or benign disease; non-English. Study quality was assessed with the Newcastle-Ottawa Scale (NOS). Odds ratios (ORs) with 95% CIs were the summary statistics; where necessary, RRs/HRs were treated as ORs due to low BPF incidence. Fixed-effects models (Mantel-Haenszel) were used when I2 < 40% and P > 0.1; otherwise, random-effects models (DerSimonian-Laird) were used. Sensitivity analyses were performed by omitting studies contributing to heterogeneity. Publication bias was assessed with Begg’s and Egger’s tests. Analyses were performed in STATA 12.0.",
+      "results": "Thirty retrospective observational studies (1992-2014) with 14,912 patients undergoing lung cancer resections (∼99.8% NSCLC) were included. Overall BPF incidence was 2.4% (354/14,912). Thirteen studies compared NT + surgery vs surgery alone; 17 studies evaluated risk factors by BPF vs non-BPF classification. Pooled analysis: neoadjuvant therapy increased BPF risk (OR 2.166; 95% CI 1.398-3.357; P = 0.001). Subgroups: neoadjuvant radiotherapy (OR 3.914; 95% CI 1.401-10.935; P = 0.009) and neoadjuvant chemoradiation (OR 2.533; 95% CI 1.353-4.741; P = 0.004) were associated with increased BPF risk, whereas neoadjuvant chemotherapy was not (OR 1.857; 95% CI 0.881-3.911; P = 0.104). The association remained in other subgroup analyses. Mean NOS score was 7.6/9, indicating generally good quality."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Patients with primary lung cancer undergoing pulmonary resection (pneumonectomy, lobectomy, bronchoplasty) in observational cohorts.",
+      "inclusion_criteria": [
+        "Primary lung cancer",
+        "Postoperative bronchopleural fistula (not due to malignancy progression)",
+        "Reported neoadjuvant chemotherapy and/or radiotherapy status",
+        "Provided extractable effect estimates (OR, RR, HR) or raw data",
+        "English language publication"
+      ],
+      "exclusion_criteria": [
+        "Reviews, letters, animal studies, case reports, conference abstracts",
+        "Uncertain neoadjuvant therapy or BPF occurrence details",
+        "Non-lung cancer malignancies or benign diseases",
+        "Non-English language"
+      ]
+    },
+    "intervention": {
+      "text": "Neoadjuvant therapy prior to lung cancer surgery",
+      "details": "Preoperative systemic chemotherapy, radiotherapy, or combined chemoradiation administered before pulmonary resection."
+    },
+    "comparison": {
+      "text": "No neoadjuvant therapy",
+      "details": "Surgery alone or patients without preoperative systemic therapy/radiotherapy; in some studies, risk factor analyses comparing BPF vs non-BPF groups."
+    },
+    "outcomes": [
+      {
+        "name": "Postoperative bronchopleural fistula",
+        "type": "primary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Systematic review and meta-analysis",
+    "allocation": "not_applicable",
+    "blinding": "not_applicable",
+    "sites_count": 30,
+    "countries": [
+      "China",
+      "Japan",
+      "Turkey",
+      "Korea",
+      "USA",
+      "Canada",
+      "Switzerland",
+      "Spain",
+      "Sweden",
+      "Germany",
+      "France",
+      "Greece",
+      "Italy",
+      "Czech Republic"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 14912,
+      "analyzed": 14912
+    },
+    "analysis_populations": [
+      {
+        "name": "All included patients",
+        "description": "All patients from 30 observational studies undergoing lung cancer surgery",
+        "n": 14912
+      },
+      {
+        "name": "BPF vs non-BPF subset",
+        "description": "Studies classifying patients by postoperative BPF occurrence (17 studies)",
+        "n": 12919
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "nt_plus_surgery",
+      "name": "Neoadjuvant therapy followed by surgery",
+      "n_randomized": 0,
+      "n_analyzed": 0,
+      "n_completed": 0
+    },
+    {
+      "arm_id": "surgery_alone",
+      "name": "Surgery without neoadjuvant therapy",
+      "n_randomized": 0,
+      "n_analyzed": 0,
+      "n_completed": 0
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "bpf_overall_incidence",
+      "name": "Bronchopleural fistula incidence after lung cancer surgery (overall)",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "Postoperative period",
+      "groups": [
+        {
+          "arm_id": "overall",
+          "raw": {
+            "events": 354,
+            "total": 14912
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "",
+        "measure": "proportion",
+        "est": 0.024,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive incidence",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All included patients",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          534
+        ],
+        "quote": "The incidence of bronchopleural fistula was 2.4% (354/14 912) in the large scale."
+      }
+    },
+    {
+      "concept_id": "nt_any_vs_none_bpf",
+      "name": "Effect of any neoadjuvant therapy on postoperative bronchopleural fistula",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "Postoperative period",
+      "groups": [],
+      "comparison": {
+        "ref_arm_id": "surgery_alone",
+        "measure": "odds_ratio",
+        "est": 2.166,
+        "ci_lower": 1.398,
+        "ci_upper": 3.357,
+        "ci_level": 0.95,
+        "p_value": 0.001,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Random-effects (DerSimonian-Laird) or fixed-effects per heterogeneity",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Meta-analysis of 30 observational studies of lung cancer surgery patients",
+        "missing_handling": "Study-level meta-analysis; not applicable"
+      },
+      "provenance": {
+        "pages": [
+          534
+        ],
+        "quote": "Overall, neoadjuvant therapy significantly increased the risk of bronchopleural fistula after pulmonary resections (odds ratio: 2.166; 95% confidence interval: 1.398-3.357; P = 0.001)."
+      }
+    },
+    {
+      "concept_id": "nr_vs_none_bpf",
+      "name": "Effect of neoadjuvant radiotherapy on postoperative bronchopleural fistula",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "Postoperative period",
+      "groups": [],
+      "comparison": {
+        "ref_arm_id": "surgery_alone",
+        "measure": "odds_ratio",
+        "est": 3.914,
+        "ci_lower": 1.401,
+        "ci_upper": 10.935,
+        "ci_level": 0.95,
+        "p_value": 0.009,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Random-effects (DerSimonian-Laird) or fixed-effects per heterogeneity",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Subgroup meta-analysis of neoadjuvant radiotherapy studies",
+        "missing_handling": "Study-level meta-analysis; not applicable"
+      },
+      "provenance": {
+        "pages": [
+          534
+        ],
+        "quote": "In subgroup analysis, neoadjuvant radiotherapy (odds ratio: 3.914; 95% confidence interval: 1.401-10.935; P = 0.009) ... were significantly associated with the bronchopleural fistula risk"
+      }
+    },
+    {
+      "concept_id": "ncr_vs_none_bpf",
+      "name": "Effect of neoadjuvant chemoradiation on postoperative bronchopleural fistula",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "Postoperative period",
+      "groups": [],
+      "comparison": {
+        "ref_arm_id": "surgery_alone",
+        "measure": "odds_ratio",
+        "est": 2.533,
+        "ci_lower": 1.353,
+        "ci_upper": 4.741,
+        "ci_level": 0.95,
+        "p_value": 0.004,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Random-effects (DerSimonian-Laird) or fixed-effects per heterogeneity",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Subgroup meta-analysis of neoadjuvant chemoradiation studies",
+        "missing_handling": "Study-level meta-analysis; not applicable"
+      },
+      "provenance": {
+        "pages": [
+          534
+        ],
+        "quote": "In subgroup analysis, ... chemo-radiation (odds ratio: 2.533; 95% confidence interval: 1.353-4.741; P = 0.004) were significantly associated with the bronchopleural fistula risk"
+      }
+    },
+    {
+      "concept_id": "nc_vs_none_bpf",
+      "name": "Effect of neoadjuvant chemotherapy on postoperative bronchopleural fistula",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "Postoperative period",
+      "groups": [],
+      "comparison": {
+        "ref_arm_id": "surgery_alone",
+        "measure": "odds_ratio",
+        "est": 1.857,
+        "ci_lower": 0.881,
+        "ci_upper": 3.911,
+        "ci_level": 0.95,
+        "p_value": 0.104,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Random-effects (DerSimonian-Laird) or fixed-effects per heterogeneity",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Subgroup meta-analysis of neoadjuvant chemotherapy studies",
+        "missing_handling": "Study-level meta-analysis; not applicable"
+      },
+      "provenance": {
+        "pages": [
+          534
+        ],
+        "quote": "but neoadjuvant chemotherapy was not (odds ratio: 1.857; 95% confidence interval: 0.881-3.911; P = 0.104)."
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Bronchopleural fistula",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Bronchopleural fistula"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "life-threatening",
+        "hospitalization",
+        "other medically important condition"
+      ],
+      "groups": [
+        {
+          "arm_id": "overall",
+          "events": 354,
+          "patients": 354,
+          "percentage": 2.4,
+          "total": 14912
+        }
+      ],
+      "period": "Postoperative period",
+      "management": "",
+      "provenance": {
+        "pages": [
+          534
+        ],
+        "quote": "The incidence of bronchopleural fistula was 2.4% (354/14 912) in the large scale."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "Newcastle-Ottawa Scale (NOS) for observational studies; publication bias by Begg’s and Egger’s tests",
+    "overall_judgment": "some concerns",
+    "domains": [
+      {
+        "name": "Selection bias",
+        "judgment": "some concerns",
+        "support_for_judgment": "All included studies were retrospective observational; mean NOS 7.6/9."
+      },
+      {
+        "name": "Confounding",
+        "judgment": "some concerns",
+        "support_for_judgment": "Limited adjustment across studies; pooled analysis largely from extrapolated univariate data."
+      },
+      {
+        "name": "Publication bias",
+        "judgment": "low",
+        "support_for_judgment": "Begg’s and Egger’s tests performed; no significant bias reported in the abstract."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "bronchopleural fistula",
+      "neoadjuvant therapy",
+      "induction therapy",
+      "preoperative therapy",
+      "lung cancer",
+      "pneumonectomy",
+      "meta-analysis"
+    ],
+    "summary_tldr": "Across 30 studies (n=14,912), neoadjuvant therapy was associated with higher postoperative bronchopleural fistula risk (OR 2.166, p=0.001); radiotherapy and chemoradiation increased risk, chemotherapy alone did not.",
+    "clinical_relevance": "Findings inform preoperative planning and bronchial stump management: neoadjuvant radiotherapy/chemoradiation may elevate BPF risk after lung cancer surgery."
+  }
+}

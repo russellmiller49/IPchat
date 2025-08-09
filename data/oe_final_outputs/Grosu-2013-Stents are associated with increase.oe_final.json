@@ -1,0 +1,467 @@
+{
+  "source": {
+    "document_id": "Grosu-2013-Stents are associated with increase",
+    "ingest_date": "2025-08-08T12:50:14.562310+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1378/chest.12-1721"
+  },
+  "document": {
+    "metadata": {
+      "title": "Stents Are Associated With Increased Risk of Respiratory Infections in Patients Undergoing Airway Interventions for Malignant Airways Disease",
+      "year": 2013,
+      "authors": [
+        "Horiana B. Grosu",
+        "George A. Eapen",
+        "Rodolfo C. Morice",
+        "Carlos A. Jimenez",
+        "Roberto F. Casal",
+        "Francisco A. Almeida",
+        "Mona G. Sarkiss",
+        "David E. Ost"
+      ],
+      "journal": "CHEST",
+      "doi": "10.1378/chest.12-1721",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Background: Long-term complications of therapeutic bronchoscopy include infections and airway restenosis due to tumor. No studies have compared the incidence rates of infection in patients with stents with those without stents. We hypothesized that patients with stents would have a higher incidence of lower respiratory tract infections than would patients without stents. Methods: We conducted a retrospective cohort study (September 2009 to August 2011) of adults undergoing therapeutic bronchoscopy for malignant airway disease. Outcomes were lower respiratory tract infection and airway restenosis by tumor. Results: Among 72 patients, 24 received one or more stents. Overall, 23/72 (32%) developed lower respiratory tract infections. Stents were associated with increased infection risk (HR 3.76; 95% CI 1.57-8.99; P = .003). Infection incidence rate was 0.0057 per person-day with stents vs 0.0011 without; rate difference 0.0046 per person-day (95% CI 0.0012-0.0081; P = .0002). Restenosis by tumor overgrowth was associated with more severe baseline obstruction (≥50% vs <50%; HR 13.71; 95% CI 1.75-107.55; P = .013). Conclusion: Therapeutic bronchoscopy with stent placement is associated with higher infection risk than bronchoscopy alone; initial deferral of stenting may be warranted when ablative techniques restore patency and tumor is expected to respond to systemic therapy or radiation.",
+      "methods": "Retrospective cohort of all patients aged ≥18 years undergoing therapeutic bronchoscopy for malignant central airway obstruction at MD Anderson Cancer Center from September 2009 to August 2011. Excluded patients with malignancy but without malignant central airway obstruction. Procedural data were prospectively collected in an interventional bronchoscopy registry; additional variables were abstracted using a standardized form and codebook. Indications for stenting: (1) pure extrinsic compression with >50% occlusion; (2) inability to achieve >50% patency with ablation alone; or (3) anticipated rapid reocclusion after ablation for mixed obstruction. Outcomes: time to first lower respiratory tract infection (fever, purulent sputum, worsening cough, clinician diagnosis with antibiotics; pneumonia required new consolidation on imaging; otherwise acute bronchitis), time to restenosis from tumor overgrowth, and death. Other adverse events (requiring bronchoscopic verification): granulation tissue causing stent obstruction, mucus impaction requiring therapeutic intervention, stent migration, stent fracture. Times to events measured from first therapeutic bronchoscopy; censoring at last follow-up. Univariate Cox models for time-to-event; extended Cox models used for time-varying covariates (stent present; restenosis). Variables with P < .20 entered multivariable extended Cox with backward selection retaining variables with P < .05. Kaplan-Meier curves plotted. Analyses two-sided; P < .05 significant; STATA/IC 12.1 used.",
+      "results": "Seventy-two patients were included; 24 (33.3%) received stents, and 17/24 (71%) had concurrent ablative therapies. Baseline characteristics were similar between stented and non-stented groups. Overall, 23/72 (32%) developed lower respiratory tract infections; median time to infection 64 days (range 7-632). Thirteen infections (56%) required hospitalization; 6 (26%) deaths occurred within 14 days of infection. On multivariable extended Cox analysis, stent placement (time-varying) was associated with increased infection risk (HR 3.76; 95% CI 1.57-8.99; P = .003), and male sex had lower risk vs female (HR 0.40; 95% CI 0.17-0.94; P = .035). Infection incidence rate was 0.0057 per person-day with stents vs 0.0011 without; rate difference 0.0046 per person-day (95% CI 0.0012-0.0081; P = .0002). Fifteen patients (21%) developed restenosis due to tumor overgrowth; median time 108 days (range 34-544); 13/15 (87%) required repeat intervention. Severe baseline obstruction (≥50%) was associated with restenosis (HR 13.71; 95% CI 1.75-107.55; P = .013); incidence rate difference 0.0016 events per person-day (95% CI 0.0005-0.0026; P = .001). Overall, 32/72 (44%) died; in multivariable analysis, infection increased risk of death (HR 11.33; 95% CI 3.82-33.57; P < .001) and post-bronchoscopy chemotherapy reduced risk (HR 0.20; 95% CI 0.09-0.45; P < .001). Other adverse events: granulation tissue 3/72 (4%), mucus impaction 5/72 (7%), stent migration 1/72 (1%), stent fracture 3/72 (4%)."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with malignant central airway obstruction undergoing therapeutic bronchoscopy at a tertiary cancer center (September 2009-August 2011).",
+      "inclusion_criteria": [
+        "Age ≥18 years",
+        "Underwent therapeutic bronchoscopy for malignant central airway obstruction"
+      ],
+      "exclusion_criteria": [
+        "Malignancy without malignant central airway obstruction"
+      ]
+    },
+    "intervention": {
+      "text": "Airway stent placement during therapeutic bronchoscopy",
+      "details": "Stent placed for pure extrinsic compression with >50% occlusion, or if >50% patency could not be achieved with ablation alone, or to prevent rapid reocclusion after ablation of mixed obstruction. Stent types included Ultraflex, Aero, Dumon tube, silicone Y-stent, Polyflex."
+    },
+    "comparison": {
+      "text": "Therapeutic bronchoscopy without stent placement",
+      "details": "Ablative techniques (e.g., laser therapy, electrocautery, mechanical coring) used to manage intraluminal disease without stenting."
+    },
+    "outcomes": [
+      {
+        "name": "Time to first lower respiratory tract infection",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Time to restenosis due to tumor overgrowth",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Overall survival",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Retrospective cohort",
+    "allocation": "non-randomized",
+    "blinding": "none",
+    "sites_count": 1,
+    "countries": [
+      "US"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 72,
+      "analyzed": 72
+    },
+    "analysis_populations": [
+      {
+        "name": "Full cohort",
+        "description": "All eligible patients undergoing therapeutic bronchoscopy for malignant central airway obstruction",
+        "n": 72
+      },
+      {
+        "name": "Stent exposure group",
+        "description": "Patients who received one or more airway stents",
+        "n": 24
+      },
+      {
+        "name": "No stent group",
+        "description": "Patients who did not receive an airway stent",
+        "n": 48
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "Airway stent placement",
+      "n_randomized": 24,
+      "n_analyzed": 24,
+      "n_completed": 24
+    },
+    {
+      "arm_id": "control",
+      "name": "No stent (therapeutic bronchoscopy alone)",
+      "n_randomized": 48,
+      "n_analyzed": 48,
+      "n_completed": 48
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "lrt_infection_time_to_event",
+      "name": "Time to first lower respiratory tract infection",
+      "type": "time_to_event",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "From first therapeutic bronchoscopy",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "total": 24
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "total": 48
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "hazard_ratio",
+        "est": 3.76,
+        "ci_lower": 1.57,
+        "ci_upper": 8.99,
+        "ci_level": 0.95,
+        "p_value": 0.003,
+        "p_operator": "=",
+        "adjusted": true
+      },
+      "analysis": {
+        "model": "Extended Cox proportional hazards with time-varying exposure (stent present)",
+        "adjusted": true,
+        "covariates": [
+          "sex",
+          "ECOG performance status",
+          "preprocedure obstruction ≥50%",
+          "preprocedure chemotherapy",
+          "smoking status",
+          "COPD",
+          "CHF",
+          "radiation therapy",
+          "cancer type"
+        ],
+        "population": "Full cohort",
+        "missing_handling": "Censored at last follow-up",
+        "final_model_covariates": [
+          "stent present (time varying)",
+          "sex"
+        ]
+      },
+      "provenance": {
+        "pages": [
+          444
+        ],
+        "tables": [],
+        "quote": "In multivariate analysis, only stent placement (vs no stent) (hazard ratio [HR], 3.76; 95% CI, 1.57-8.99; P = .003) and male sex (vs female) (HR = 0.40; 95% CI, 0.17-0.94; P = .035) remained associated with lower respiratory tract infection."
+      }
+    },
+    {
+      "concept_id": "lrt_infection_incidence_rate_difference",
+      "name": "Incidence rate of lower respiratory tract infection",
+      "type": "rate",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "From first therapeutic bronchoscopy",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "total": 24
+          },
+          "rate_per_person_day": 0.0057
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "total": 48
+          },
+          "rate_per_person_day": 0.0011
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "rate_difference",
+        "est": 0.0046,
+        "ci_lower": 0.0012,
+        "ci_upper": 0.0081,
+        "ci_level": 0.95,
+        "p_value": 0.0002,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Incidence rate difference",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Full cohort",
+        "missing_handling": "Censored at last follow-up"
+      },
+      "provenance": {
+        "pages": [
+          444
+        ],
+        "tables": [],
+        "quote": "The incidence rate of lower respiratory tract infection was 0.0057 infections per person-day in patients with stents vs 0.0011 infections per person-day in patients without stents. The incidence rate difference, 0.0046 infections per person-day, was significant (95% CI, 0.0012-0.0081; P = .0002)."
+      }
+    },
+    {
+      "concept_id": "tumor_restenosis_time_to_event",
+      "name": "Time to restenosis due to tumor overgrowth",
+      "type": "time_to_event",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "From first therapeutic bronchoscopy",
+      "groups": [],
+      "comparison": {
+        "ref_arm_id": "",
+        "measure": "hazard_ratio",
+        "est": 13.71,
+        "ci_lower": 1.75,
+        "ci_upper": 107.55,
+        "ci_level": 0.95,
+        "p_value": 0.013,
+        "p_operator": "=",
+        "adjusted": true
+      },
+      "analysis": {
+        "model": "Cox proportional hazards",
+        "adjusted": true,
+        "covariates": [
+          "preprocedure obstruction ≥50%"
+        ],
+        "population": "Full cohort",
+        "missing_handling": "Censored at last follow-up",
+        "comparison_definition": "Severe baseline obstruction (≥50%) vs <50% obstruction"
+      },
+      "provenance": {
+        "pages": [
+          445
+        ],
+        "tables": [],
+        "quote": "Only preprocedure obstruction ≥50% was associated with tumor restenosis on univariate and multivariate analysis (HR = 13.71; 95% CI, 1.75-107.55; P = .013)."
+      }
+    },
+    {
+      "concept_id": "overall_survival_infection_exposure",
+      "name": "Overall survival associated with lower respiratory tract infection",
+      "type": "time_to_event",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "From first therapeutic bronchoscopy",
+      "groups": [],
+      "comparison": {
+        "ref_arm_id": "",
+        "measure": "hazard_ratio",
+        "est": 11.33,
+        "ci_lower": 3.82,
+        "ci_upper": 33.57,
+        "ci_level": 0.95,
+        "p_value": 0.001,
+        "p_operator": "<",
+        "adjusted": true
+      },
+      "analysis": {
+        "model": "Cox proportional hazards",
+        "adjusted": true,
+        "covariates": [
+          "post-bronchoscopy chemotherapy"
+        ],
+        "population": "Full cohort",
+        "missing_handling": "Censored at last follow-up",
+        "comparison_definition": "Infection (yes) vs no infection"
+      },
+      "provenance": {
+        "pages": [
+          445
+        ],
+        "tables": [],
+        "quote": "In multivariate analysis, only infection (vs no infection) (HR, 11.33; 95% CI, 3.82-33.57; P < .001) and postbronchoscopy chemotherapy (vs no chemotherapy) (HR, 0.20; 95% CI, 0.09-0.45; P < .001) were associated with risk of death."
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Device migration",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Device migration"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 1,
+          "patients": 1,
+          "percentage": 4.2,
+          "total": 24
+        },
+        {
+          "arm_id": "control",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 48
+        }
+      ],
+      "period": "Post-procedure follow-up",
+      "management": "Not reported",
+      "provenance": {
+        "pages": [
+          444
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "Stent migration Yes 1 (1); No 71 (99)."
+      }
+    },
+    {
+      "event_name": "Stent fracture",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Device breakage"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 3,
+          "patients": 3,
+          "percentage": 12.5,
+          "total": 24
+        },
+        {
+          "arm_id": "control",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 48
+        }
+      ],
+      "period": "Post-procedure follow-up",
+      "management": "Not reported",
+      "provenance": {
+        "pages": [
+          444
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "Stent fracture Yes 3 (4); No 69 (96)."
+      }
+    },
+    {
+      "event_name": "Granulation tissue causing stent obstruction",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Granulation tissue"
+      },
+      "serious": false,
+      "seriousness_criteria": [
+        "other_medically_important_condition"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 3,
+          "patients": 3,
+          "percentage": 12.5,
+          "total": 24
+        },
+        {
+          "arm_id": "control",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 48
+        }
+      ],
+      "period": "Post-procedure follow-up",
+      "management": "Therapeutic bronchoscopic intervention as indicated",
+      "provenance": {
+        "pages": [
+          444
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "Granulation tissue Yes 3 (4); No 69 (96)."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "ROBINS-I",
+    "overall_judgment": "serious",
+    "domains": [
+      {
+        "name": "Confounding",
+        "judgment": "serious",
+        "support_for_judgment": "Non-randomized retrospective cohort; although multivariable extended Cox adjusted for several covariates, residual confounding by indication (stent placement) likely."
+      },
+      {
+        "name": "Selection of participants",
+        "judgment": "moderate",
+        "support_for_judgment": "All eligible patients in a defined period at a single center; exclusion criteria applied consistently."
+      },
+      {
+        "name": "Classification of interventions",
+        "judgment": "low",
+        "support_for_judgment": "Stent status recorded prospectively with time-varying exposure modeling."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "low",
+        "support_for_judgment": "Clinical management followed standardized algorithm; no evidence of differential co-interventions reported."
+      },
+      {
+        "name": "Missing data",
+        "judgment": "low",
+        "support_for_judgment": "Time-to-event analyses with censoring at last follow-up; no major missingness reported."
+      },
+      {
+        "name": "Measurement of outcomes",
+        "judgment": "moderate",
+        "support_for_judgment": "Infections defined by clinical criteria and clinician diagnosis; outcome assessment not blinded."
+      },
+      {
+        "name": "Selection of reported results",
+        "judgment": "low",
+        "support_for_judgment": "Outcomes and statistical methods prespecified; results reported for primary and secondary outcomes."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "airway stent",
+      "therapeutic bronchoscopy",
+      "malignant central airway obstruction",
+      "respiratory infection",
+      "Cox proportional hazards"
+    ],
+    "summary_tldr": "In 72 patients undergoing therapeutic bronchoscopy for malignant airway disease, stent placement increased the hazard of lower respiratory tract infection (HR 3.76) with higher infection incidence rates versus no stent.",
+    "clinical_relevance": "Quantifies incremental infection risk from airway stenting; supports selective stent use when ablative therapy restores patency and systemic therapy is anticipated to control tumor."
+  }
+}

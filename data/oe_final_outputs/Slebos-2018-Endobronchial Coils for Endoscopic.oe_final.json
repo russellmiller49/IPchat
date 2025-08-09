@@ -1,0 +1,125 @@
+{
+  "source": {
+    "document_id": "Slebos-2018-Endobronchial Coils for Endoscopic",
+    "ingest_date": "2025-08-08T15:58:23.369252+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1159/000490193"
+  },
+  "document": {
+    "metadata": {
+      "title": "Endobronchial Coils for Endoscopic Lung Volume Reduction: Best Practice Recommendations from an Expert Panel",
+      "year": 2018,
+      "authors": [
+        "Dirk-Jan Slebos",
+        "Nick H. ten Hacken",
+        "Martin Hetzel",
+        "Felix J.F. Herth",
+        "Pallav L. Shah"
+      ],
+      "journal": "Respiration",
+      "doi": "10.1159/000490193",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Endobronchial coils are an additional treatment option for lung volume reduction in patients with severe emphysema. Patient selection should be focused on patients with severe emphysema on optimal medical therapy and with evidence of severe hyperinflation. The technique is suitable in a broad range of patients with emphysema; however, patients with paraseptal emphysema, large focal (giant) bullae, significant co-morbidity and airway-predominant disease should be avoided. Treatment involves placing between 10 and 14 coils by bronchoscopy in the selected treatment lobe, with 2 lobes being treated sequentially. Lobe selection for treatment should be based on quantitative computed tomography, and the lobes with the greatest destruction should be targeted (excluding the right middle lobe). The treatment results in an improvement in pulmonary function, exercise performance and quality of life, particularly in patients with severe hyperinflation (residual volume > 200% predicted) and upper-lobe heterogeneous emphysema, but will also be of benefit in lower-lobe predominant and homogeneous emphysema. Finally, it has an acceptable safety profile, although special attention has to be paid to coil-associated opacity which is an inflammatory response that occurs in some patients treated with endobronchial coils.",
+      "methods": "International expert panel consensus based on clinical experience and synthesis of published evidence (feasibility studies and randomized controlled trials) on endobronchial coil therapy for severe emphysema. No randomized assignment or meta-analytic pooling was performed. Recommendations cover patient selection, peri-procedural care, technical implantation guidance, and complication management.",
+      "results": "Across early feasibility and randomized trials, endobronchial coil treatment improved pulmonary function, 6-minute walk distance, and quality of life compared with usual care. Optimal responders typically have severe hyperinflation (residual volume > 200% predicted, or RV/TLC ≥ 0.58 when RV 175-200% predicted), significant dyspnea (mMRC > 1), and reduced exercise tolerance (< 450 m 6MWD, but ≥ 140 m). CT-based lobar selection targets areas with 20-80% destruction at -950 HU, avoiding right middle lobe, paraseptal emphysema, giant bullae, and significant airway-predominant disease. Typical implantation uses 10-14 nitinol coils per lobe with sequential bilateral treatment 4-8 weeks apart under fluoroscopic guidance and general anesthesia. Coil-associated inflammatory opacities may occur and can be associated with therapeutic effect; overall safety profile is acceptable with appropriate monitoring."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with severe emphysema on optimal COPD therapy with marked hyperinflation and exercise limitation.",
+      "inclusion_criteria": [
+        "COPD with FEV1 ≤ 45% predicted",
+        "Emphysema on HRCT with lobar destruction 20-80% at -950 HU",
+        "Severe hyperinflation: RV > 200% predicted or RV 175-200% predicted with RV/TLC ≥ 0.58",
+        "Dyspnea mMRC ≥ 2",
+        "6-minute walk distance ≥ 140 m and < 450 m",
+        "Abstinence from smoking ≥ 6 months and on optimal pharmacologic/non-pharmacologic therapy"
+      ],
+      "exclusion_criteria": [
+        "Severe gas exchange abnormality: PaCO2 > 7.3 kPa or PaO2 < 6.7 kPa on room air",
+        "Recurrent airway infections ≥ 3/year",
+        "Significant chronic bronchitis/asthma/ACO",
+        "Severe bronchial wall thickening or bronchiectasis on imaging",
+        "Giant bullae > 33% of lung volume",
+        "Significant paraseptal emphysema",
+        "Pulmonary nodules suspicious for malignancy or active infection",
+        "Interstitial lung disease/fibrosis",
+        "Prior LVRS or lobectomy/pneumonectomy",
+        "Pulmonary hypertension with RVSP > 50 mm Hg",
+        "Unmodifiable antiplatelet/anticoagulant therapy or chronic immunomodulation (e.g., prednisone ≥ 10 mg/day)",
+        "Nickel allergy or contraindication to bronchoscopy"
+      ]
+    },
+    "intervention": {
+      "text": "Endobronchial coil therapy",
+      "details": "Placement of 10-14 nitinol coils per target lobe under fluoroscopic guidance via bronchoscopy; two lobes treated sequentially 4-8 weeks apart; general anesthesia preferred; postoperative observation typically 1 night."
+    },
+    "comparison": {
+      "text": "Usual care",
+      "details": "Optimal medical management for COPD/emphysema without procedural lung volume reduction."
+    },
+    "outcomes": [
+      {
+        "name": "Pulmonary function (FEV1 change)",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Residual volume (RV) change",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "6-minute walk distance change",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Quality of life (SGRQ) change",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Safety (serious adverse events including coil-associated opacity, pneumothorax)",
+        "type": "safety",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Expert consensus guideline/review",
+    "allocation": "none",
+    "blinding": "none",
+    "sites_count": 0,
+    "countries": [],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": []
+  },
+  "arms": [],
+  "outcomes_normalized": [],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "NA",
+    "overall_judgment": "unclear",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "endobronchial coils",
+      "endoscopic lung volume reduction",
+      "emphysema",
+      "COPD",
+      "bronchoscopy",
+      "hyperinflation"
+    ],
+    "summary_tldr": "Expert panel guidance: Endobronchial coils improve lung function, exercise capacity, and quality of life in selected patients with severe emphysema and marked hyperinflation, with acceptable safety when appropriately managed.",
+    "clinical_relevance": "Provides practical patient selection criteria, procedural technique, and management considerations to optimize outcomes with endobronchial coil therapy."
+  }
+}

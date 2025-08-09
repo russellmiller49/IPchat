@@ -1,0 +1,103 @@
+{
+  "source": {
+    "document_id": "Lamb-2020-Use of Tracheostomy During the COVID",
+    "ingest_date": "2025-08-08T13:59:20.717444+00:00",
+    "trial_registration_id": null,
+    "pmid": null,
+    "doi": "10.1016/j.chest.2020.05.571"
+  },
+  "document": {
+    "metadata": {
+      "title": "Use of Tracheostomy During the COVID-19 Pandemic: American College of Chest Physicians/American Association for Bronchology and Interventional Pulmonology/Association of Interventional Pulmonology Program Directors Expert Panel Report",
+      "year": 2020,
+      "authors": [
+        "Carla R. Lamb",
+        "Neeraj R. Desai",
+        "Luis Angel",
+        "Udit Chaddha",
+        "Ashutosh Sachdeva",
+        "Sonali Sethi",
+        "Hassan Bencheqroun",
+        "Hiren Mehta",
+        "Jason Akulian",
+        "A. Christine Argento",
+        "Javier Diaz-Mendoza",
+        "Ali Musani",
+        "Septimiu Murgu"
+      ],
+      "journal": "CHEST",
+      "doi": "10.1016/j.chest.2020.05.571",
+      "pmid": null
+    },
+    "sections": {
+      "abstract": "BACKGROUND: The role of tracheostomy during the coronavirus disease 2019 (COVID-19) pandemic remains unknown. The goal of this consensus statement is to examine the current evidence for performing tracheostomy in patients with respiratory failure from COVID-19 and offer guidance to physicians on the preparation, timing, and technique while minimizing the risk of infection to health care workers (HCWs). METHODS: A panel including intensivists and interventional pulmonologists from three professional societies representing 13 institutions with experience in managing patients with COVID-19 across a spectrum of health-care environments developed key clinical questions addressing specific topics on tracheostomy in COVID-19. A systematic review of the literature and an established modified Delphi consensus methodology were applied to provide a reliable evidence-based consensus statement and expert panel report. RESULTS: Eight key questions, corresponding to 14 decision points, were rated by the panel. The results were aggregated, resulting in eight main recommendations and five additional remarks intended to guide health-care providers in the decision-making process pertinent to tracheostomy in patients with COVID-19-related respiratory failure. CONCLUSION: This panel suggests performing tracheostomy in patients expected to require prolonged mechanical ventilation. A specific timing of tracheostomy cannot be recommended. There is no evidence for routine repeat reverse transcription polymerase chain reaction testing in patients with confirmed COVID-19 evaluated for tracheostomy. To reduce the risk of infection in HCWs, we recommend performing the procedure using techniques that minimize aerosolization while wearing enhanced personal protective equipment. The recommendations presented in this statement may change as more experience is gained during this pandemic.",
+      "methods": "A comprehensive literature search of MEDLINE (PubMed interface) was executed using controlled vocabulary (Medical Subject Headings) and keywords combining tracheostomy-related terms with coronavirus-related terms, covering 2000 to April 15, 2020, with no language or time restrictions. Additional searches included terms related to ultrasound, RT-PCR testing, and viral shedding. Titles, abstracts, and full texts were screened for relevance to tracheostomy and techniques in patients with and without SARS/COVID-19; reference lists were hand-searched. This expert panel report did not use PICO, PRISMA flow diagrams, or formal tables of evidence. A modified Delphi consensus methodology was applied. The panel consisted of 13 pulmonary and critical care physicians subspecializing in interventional pulmonology from 13 US institutions across 10 states most affected as of April 21, 2020. Panel chairs convened multiple conference calls to develop questions, review sections, and draft the manuscript; the full panel participated in a live session to rate recommendations.",
+      "results": "Eight key questions (14 decision points) were addressed and resulted in eight recommendations with five remarks. Key recommendations included: consider tracheostomy when prolonged mechanical ventilation is anticipated; insufficient evidence to recommend specific timing (early vs late); either open surgical tracheostomy (OST) or percutaneous dilatational tracheostomy (PDT) may be performed, using techniques that minimize aerosolization; use enhanced PPE to mitigate HCW infection risk; perform the procedure in a negative-pressure room, preferably in the ICU (or OR negative-pressure room if needed), with attention to minimizing transport risks; do not perform routine repeat RT-PCR testing prior to tracheostomy in confirmed COVID-19; use an experienced, minimal-size procedural team; and maintain closed ventilator circuits with in-line suction post-tracheostomy. Remarks addressed bedside location preference for OST in ICU, alternatives when negative-pressure rooms are unavailable (HEPA filtration, strict door policy), and multidisciplinary preprocedural planning."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with confirmed COVID-19-related respiratory failure requiring mechanical ventilation being evaluated for tracheostomy.",
+      "inclusion_criteria": [
+        "Confirmed COVID-19",
+        "Respiratory failure requiring invasive mechanical ventilation",
+        "Anticipated prolonged mechanical ventilation"
+      ],
+      "exclusion_criteria": []
+    },
+    "intervention": {
+      "text": "Tracheostomy (open surgical tracheostomy or percutaneous dilatational tracheostomy) with aerosol-minimizing technique and enhanced PPE",
+      "details": "Perform in negative-pressure room (preferably ICU), minimize aerosolization (apnea during tracheal entry, closed circuits, in-line suction), experienced minimal-size team, enhanced PPE for all staff."
+    },
+    "comparison": {
+      "text": "Not applicable (consensus statement; no comparator arm)",
+      "details": "Recommendations address timing (early vs late), technique (OST vs PDT), setting (ICU vs OR), and testing strategies rather than direct comparative trial data."
+    },
+    "outcomes": [
+      {
+        "name": "Guideline recommendations on timing, technique, setting, PPE, and post-tracheostomy care",
+        "type": "primary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Consensus statement",
+    "allocation": "not_applicable",
+    "blinding": "not_applicable",
+    "sites_count": 13,
+    "countries": [
+      "US"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": []
+  },
+  "arms": [],
+  "outcomes_normalized": [],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "Not applicable (guideline/consensus)",
+    "overall_judgment": "not_applicable",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "tracheostomy",
+      "COVID-19",
+      "SARS-CoV-2",
+      "aerosol generating procedure",
+      "personal protective equipment",
+      "percutaneous dilatational tracheostomy",
+      "open surgical tracheostomy",
+      "negative pressure room",
+      "ICU",
+      "RT-PCR"
+    ],
+    "summary_tldr": "Multisociety consensus recommends considering tracheostomy for anticipated prolonged ventilation in COVID-19 with aerosol-minimizing techniques, enhanced PPE, and negative-pressure settings; specific timing cannot be recommended.",
+    "clinical_relevance": "Provides pragmatic, safety-focused guidance for tracheostomy in COVID-19 to protect health care workers while supporting ventilator weaning and ICU resource management."
+  }
+}

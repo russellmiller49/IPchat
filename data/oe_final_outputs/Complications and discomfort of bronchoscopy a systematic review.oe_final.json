@@ -1,0 +1,376 @@
+{
+  "source": {
+    "document_id": "Complications and discomfort of bronchoscopy a systematic review",
+    "ingest_date": "2025-08-08T10:47:37.146864+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.3402/ecrj.v3.33324"
+  },
+  "document": {
+    "metadata": {
+      "title": "Complications and discomfort of bronchoscopy: a systematic review",
+      "year": 2016,
+      "authors": [
+        "Elise Orvedal Leiten",
+        "Einar Marius Hjellestad Martinsen",
+        "Per Sigvald Bakke",
+        "Tomas Mikal Lind Eagan",
+        "Rune Grønseth"
+      ],
+      "journal": "European Clinical Respiratory Journal",
+      "doi": "10.3402/ecrj.v3.33324",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Objective: To identify bronchoscopy-related complications and discomfort, meaningful complication rates, and predictors. Method: We conducted a systematic literature search in PubMed on 8 February 2016, using a search strategy including the PICO model, on complications and discomfort related to bronchoscopy and related sampling techniques. Results: The search yielded 1,707 hits, of which 45 publications were eligible for full review. Rates of mortality and severe complications were low. Other complications, for instance, hypoxaemia, bleeding, pneumothorax, and fever, were usually not related to patient characteristics or aspects of the procedure, and complication rates showed considerable ranges. Measures of patient discomfort differed considerably, and results were difficult to compare between different study populations. Conclusion: More research on safety aspects of bronchoscopy is needed to conclude on complication rates and patient- and procedure-related predictors of complications and discomfort.",
+      "methods": "We used a modified Population-Intervention-Outcome comparison (PICO) form and performed a systematic literature search in PubMed (Medline) on 8 February 2016. Keywords combined MeSH terms and text words related to bronchoscopy procedures and adverse outcomes. We included publications in English, Norwegian, Swedish, Danish, and French. We excluded case reports, non-original research, animal studies, interventional bronchoscopy and specialized techniques, pediatric populations, intubated patients, patients on mechanical ventilation, under general anesthesia or in ICU, and studies not addressing complications or discomfort. Studies on bronchoscopes as contamination sources were excluded. Papers were classified by design (prospective/retrospective), whether complications/discomfort were primary/secondary objectives, and by sample size. Full review was performed for studies with complications/discomfort as primary or secondary objectives, ≥50 subjects, and sufficient description of sample, endpoints, and data collection.",
+      "results": "The search identified 1,707 records; 1,435 were excluded. Ninety-four papers reported complications/discomfort as primary/secondary objectives in >50 subjects; after further exclusions, 45 publications were fully reviewed. Mortality was rare (mostly 0% in reported series). Bleeding rates ranged widely (2.5-89.9%) depending on definitions and procedures; one study of 234 low-risk patients reported 0% severe bleeding. Pneumothorax rates after transbronchial biopsies ranged from 0-4%; in a cohort of 1,217 TBBs, 26 pneumothoraces (2.1%) occurred, 14 requiring tube thoracostomy. Bronchospasm occurred in 0-12.3%, highest in asthma cohorts. Hypoxemia definitions varied; desaturation rates ranged 0.7-76.3%. Hemodynamic variations included hypotension (2.9-28.9% depending on sedation regimen), with some requiring fluids; bradycardia was uncommon. Fever incidence post-procedure ranged 2-33% with heterogeneous definitions; in one 50-patient study, 12 developed fever (24%), generally self-limited. Bacteremia occurred in 6.5% of 200 patients without pre-procedural infection. Health care utilization post-bronchoscopy was variably reported (0-31%). Cough was common but variably measured; procedural and post-procedural cough incidences varied widely."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults undergoing non-interventional flexible bronchoscopy for diagnostic purposes in inpatient or outpatient settings.",
+      "inclusion_criteria": [
+        "Human studies",
+        "Publications in English, Norwegian, Swedish, Danish, or French",
+        "Studies reporting complications and/or patient discomfort related to bronchoscopy",
+        "Sample size ≥50",
+        "Sufficient description of sample, endpoints, and data collection"
+      ],
+      "exclusion_criteria": [
+        "Case reports and non-original research",
+        "Animal studies",
+        "Interventional bronchoscopy or specialized techniques (including EBUS and experimental/non-standard techniques)",
+        "Pediatric populations",
+        "Intubated patients, patients on mechanical ventilation, under general anesthesia, or in ICU",
+        "Studies not addressing complications or patient experience",
+        "Disease outbreak studies",
+        "Studies of bronchoscopes as contamination sources"
+      ]
+    },
+    "intervention": {
+      "text": "Flexible bronchoscopy (diagnostic) with or without sampling",
+      "details": "White light flexible bronchoscopy with procedures including bronchial brushings, washings, bronchoalveolar lavage, endobronchial biopsies, transbronchial biopsies, and transbronchial needle aspiration; usually performed under topical anesthesia and/or conscious sedation."
+    },
+    "comparison": {
+      "text": "None (descriptive systematic review)",
+      "details": "No formal comparator; outcomes summarized across included studies."
+    },
+    "outcomes": [
+      {
+        "name": "Procedure-related mortality",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Bleeding/hemorrhage",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Pneumothorax",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Bronchospasm",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Hypoxemia/desaturation",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Hemodynamic variations (hypotension, hypertension, arrhythmias)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Fever and infection",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Healthcare utilization post-procedure",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Cough and respiratory symptoms",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Patient discomfort/pain",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "systematic_review",
+    "allocation": "NA",
+    "blinding": "NA",
+    "sites_count": 0,
+    "countries": [],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": [
+      {
+        "name": "Records screened",
+        "description": "Total records identified in PubMed search",
+        "n": 1707
+      },
+      {
+        "name": "Studies included (full review)",
+        "description": "Publications meeting full review criteria",
+        "n": 45
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "overall",
+      "name": "Overall pooled descriptive population",
+      "n_randomized": 0,
+      "n_analyzed": 0,
+      "n_completed": 0
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "pneumothorax_after_tbb_single_group",
+      "name": "Pneumothorax after transbronchial biopsy (single-group incidence)",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "Periprocedural",
+      "groups": [
+        {
+          "arm_id": "overall",
+          "raw": {
+            "events": 26,
+            "total": 1217
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "",
+        "measure": "single_group_proportion",
+        "est": 0.021,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Patients undergoing transbronchial biopsy",
+        "missing_handling": "NA"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "table_number": null,
+        "quote": "Herth et al. conducted a study on 1,217 patients going through TBB and found that 26 of them (2.1%) developed pneumothoraces, of which 14 were treated with tube thoracostomy, and the remaining 12 required no intervention."
+      }
+    },
+    {
+      "concept_id": "post_bronchoscopy_fever_single_group",
+      "name": "Post-bronchoscopy fever (single-group incidence)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P1D",
+      "timepoint_label": "Within 24 hours",
+      "groups": [
+        {
+          "arm_id": "overall",
+          "raw": {
+            "events": 12,
+            "total": 50
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "",
+        "measure": "single_group_proportion",
+        "est": 0.24,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Adults undergoing bronchoscopy with or without BAL",
+        "missing_handling": "NA"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "table_number": null,
+        "quote": "Krause et al. defined fever as a rise in body temperature to ≥38°C... 12 patients (24%) developed fever. There was no difference between the BAL and non-BAL groups."
+      }
+    },
+    {
+      "concept_id": "bacteremia_after_bronchoscopy_single_group",
+      "name": "Bacteremia after bronchoscopy (single-group incidence)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "Post-procedure (timing not specified)",
+      "groups": [
+        {
+          "arm_id": "overall",
+          "raw": {
+            "events": 13,
+            "total": 200
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "",
+        "measure": "single_group_proportion",
+        "est": 0.065,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Adults without pre-procedural pulmonary infection",
+        "missing_handling": "NA"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "table_number": null,
+        "quote": "Yigla et al. studied 200 patients without pre-procedural pulmonary infection and found a 6.5% of bacteraemia rate following bronchoscopy."
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Pneumothorax",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Pneumothorax"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "other_medically_important_condition",
+        "intervention_required"
+      ],
+      "groups": [
+        {
+          "arm_id": "overall",
+          "events": 26,
+          "patients": 26,
+          "percentage": 2.1,
+          "total": 1217
+        }
+      ],
+      "period": "Periprocedural",
+      "management": "Chest tube in 14/26; observation/no intervention in 12/26",
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "26 of 1,217 (2.1%) developed pneumothoraces, of which 14 were treated with tube thoracostomy, and the remaining 12 required no intervention."
+      }
+    },
+    {
+      "event_name": "Pyrexia",
+      "meddra": {
+        "soc": "General disorders and administration site conditions",
+        "pt": "Pyrexia"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "overall",
+          "events": 12,
+          "patients": 12,
+          "percentage": 24,
+          "total": 50
+        }
+      ],
+      "period": "0-24 hours",
+      "management": "NSAIDs; symptoms subsided within 24 hours in most cases",
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "12 patients (24%) developed fever... flu-like symptoms responded well to NSAIDs and subsided within 24 h."
+      }
+    },
+    {
+      "event_name": "Bacteraemia",
+      "meddra": {
+        "soc": "Infections and infestations",
+        "pt": "Bacteraemia"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "other_medically_important_condition"
+      ],
+      "groups": [
+        {
+          "arm_id": "overall",
+          "events": 13,
+          "patients": 13,
+          "percentage": 6.5,
+          "total": 200
+        }
+      ],
+      "period": "Post-procedure (timing not specified)",
+      "management": "",
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "Yigla et al. studied 200 patients... and found a 6.5% of bacteraemia rate following bronchoscopy."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "Not applicable",
+    "overall_judgment": "unclear",
+    "domains": [
+      {
+        "name": "Not applicable",
+        "judgment": "unclear",
+        "support_for_judgment": "Systematic review of observational studies; no single trial randomization process assessed."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "bronchoscopy",
+      "complications",
+      "pneumothorax",
+      "bleeding",
+      "hypoxemia",
+      "fever",
+      "systematic review"
+    ],
+    "summary_tldr": "Systematic review of 45 studies found low mortality and variable rates of complications such as bleeding, pneumothorax (e.g., 26/1217 after TBB), hypoxemia, and transient fever.",
+    "clinical_relevance": "Provides evidence-based estimates of risks and discomfort for informed consent and procedural planning in diagnostic bronchoscopy."
+  }
+}

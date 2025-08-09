@@ -1,0 +1,302 @@
+{
+  "source": {
+    "document_id": "Use of fibrinolytics and deoxyribonuclease in",
+    "ingest_date": "2025-08-08T16:44:01.601878+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1016/S2213-2600(20)30533-6"
+  },
+  "document": {
+    "metadata": {
+      "title": "Use of fibrinolytics and deoxyribonuclease in adult patients with pleural empyema: a consensus statement",
+      "year": 2021,
+      "authors": [
+        "Udit Chaddha",
+        "Abhinav Agrawal",
+        "David Feller-Kopman",
+        "Viren Kaul",
+        "Samira Shojaee",
+        "Fabien Maldonado",
+        "Mark K Ferguson",
+        "Kevin G Blyth",
+        "Horiana B Grosu",
+        "John P Corcoran",
+        "Ashutosh Sachdeva",
+        "Alex West",
+        "Eihab O Bedawi",
+        "Adnan Majid",
+        "Ravindra M Mehta",
+        "Erik Folch",
+        "Moishe Liberman",
+        "Momen M Wahidi",
+        "Sidhu P Gangadharan",
+        "Mark E Roberts",
+        "Malcolm M DeCamp",
+        "Najib M Rahman"
+      ],
+      "journal": "The Lancet Respiratory Medicine",
+      "doi": "10.1016/S2213-2600(20)30533-6",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "This international consensus statement addresses the use of intrapleural fibrinolytic and deoxyribonuclease (DNase) therapy in adult patients with bacterial empyema. An expert panel of 22 clinicians from 20 institutions across five countries developed seven graded and four ungraded recommendations using a systematic literature review (83 studies) and a modified Delphi process. Key recommendations include avoiding DNase monotherapy and not using fibrinolytic monotherapy as first-line therapy; when intrapleural therapy is used, combination tissue plasminogen activator (tPA) plus DNase is recommended. Suggested dosing is tPA 10 mg twice daily and DNase 5 mg twice daily, administered concurrently with 1 h of chest tube clamping. The number of doses should be individualized based on clinical and imaging response. Guidance is provided on use in patients with coagulopathy/antithrombotics, timing relative to surgery, and selective use of saline irrigation when fibrinolytics are contraindicated.",
+      "methods": "The panel formulated 11 key clinical questions and performed a literature and internet search to identify relevant adult studies. Evidence was summarized using the GRADE framework. A modified Delphi technique was used to derive consensus, with up to three anonymous voting rounds planned. Consensus was defined as at least 70% agreement (Likert 4 or 5) with at least 80% response rate. Twenty-one of 22 panelists (96%) participated in the survey, and consensus was achieved for all questions. Eighty-three studies were included after screening 8,939 records.",
+      "results": "Consensus recommendations were: avoid DNase monotherapy (strong recommendation, low certainty) and avoid first-line fibrinolytic monotherapy (weak recommendation, moderate certainty). For intrapleural therapy, use combined tPA and DNase (strong recommendation, moderate certainty). Suggested dosing is DNase 5 mg twice daily and tPA 10 mg twice daily, given concurrently, with chest tube clamping for at least 1 hour post-dose. Dosing should be individualized to clinical and radiographic response. Hold therapeutic anticoagulation and non-aspirin antiplatelets when feasible; avoid fibrinolytics in significant coagulopathy unless corrected. Combination therapy can be initial or subsequent therapy based on local expertise and surgical availability; consider a VATS-first approach for suspected organized (stage 3) empyema. Cost should not drive choice between intrapleural therapy and primary surgery in the absence of evidence. Saline irrigation may be considered only when fibrinolytics are contraindicated and the patient is not a surgical candidate. Evidence cited includes MIST1 (n=454) showing no benefit for streptokinase vs placebo, and MIST2 (n=210) showing improved drainage, reduced surgical referral, and shorter hospital stay with combined tPA+DNase. Comparative data include higher haemothorax with tPA+DNase vs urokinase (7/41 vs 0/52; p=0.002) and higher serious bleeding with alteplase vs urokinase in another RCT (5/18 and 4/33 vs 0/48)."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with bacterial empyema or complicated parapneumonic effusion requiring pleural drainage and antibiotics.",
+      "inclusion_criteria": [
+        "Adults with pleural infection (empyema or complicated parapneumonic effusion)",
+        "Findings such as purulent pleural fluid, positive Gram stain or culture, or biochemical criteria (pH <7.2, glucose <40-60 mg/dL, LDH >1000 IU/L)"
+      ],
+      "exclusion_criteria": [
+        "Children",
+        "Non-bacterial pleural effusions",
+        "Patients with uncorrected significant systemic coagulopathy (for fibrinolytic use)",
+        "Patients where antiplatelet/anticoagulation cannot be safely managed (for fibrinolytic use)"
+      ]
+    },
+    "intervention": {
+      "text": "Intrapleural combination therapy: tissue plasminogen activator (tPA) plus deoxyribonuclease (DNase)",
+      "details": "Suggested regimen: tPA 10 mg twice daily plus DNase 5 mg twice daily, administered concurrently via chest tube, with chest tube clamped for at least 1 hour post-administration. Number of doses individualized based on clinical and radiographic response."
+    },
+    "comparison": {
+      "text": "Fibrinolytic monotherapy or standard care",
+      "details": "Comparators discussed include fibrinolytic monotherapy (streptokinase, urokinase, alteplase), antibiotics with tube thoracostomy alone, and surgical management (e.g., VATS)."
+    },
+    "outcomes": [
+      {
+        "name": "Surgical referral rate",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Radiographic drainage improvement",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Length of hospital stay",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Adverse events (bleeding, haemothorax)",
+        "type": "safety",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Consensus statement",
+    "allocation": "not_applicable",
+    "blinding": "none",
+    "sites_count": 20,
+    "countries": [
+      "US",
+      "UK",
+      "India",
+      "Canada"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": []
+  },
+  "arms": [
+    {
+      "arm_id": "tpa_dnase_combo",
+      "name": "tPA + DNase combination",
+      "n_randomized": 41,
+      "n_analyzed": 41,
+      "n_completed": 41
+    },
+    {
+      "arm_id": "urokinase",
+      "name": "Urokinase",
+      "n_randomized": 52,
+      "n_analyzed": 52,
+      "n_completed": 52
+    },
+    {
+      "arm_id": "alteplase_20mg",
+      "name": "Alteplase 20 mg",
+      "n_randomized": 18,
+      "n_analyzed": 18,
+      "n_completed": 18
+    },
+    {
+      "arm_id": "alteplase_10mg",
+      "name": "Alteplase 10 mg",
+      "n_randomized": 33,
+      "n_analyzed": 33,
+      "n_completed": 33
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "haemothorax_any",
+      "name": "Haemothorax (any grade) during intrapleural therapy",
+      "type": "binary",
+      "outcome_type": "safety",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "not reported",
+      "groups": [
+        {
+          "arm_id": "tpa_dnase_combo",
+          "raw": {
+            "events": 7,
+            "total": 41
+          }
+        },
+        {
+          "arm_id": "urokinase",
+          "raw": {
+            "events": 0,
+            "total": 52
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "urokinase",
+        "measure": "risk_difference",
+        "est": 0.1707,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.002,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Fisher exact test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "as-treated",
+        "missing_handling": "not reported"
+      },
+      "provenance": {
+        "pages": [
+          1053
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "tPA and DNase led to more haemothoraces (defined as blood in the drain) than did urokinase (seven [17%] of 41 patients vs none [0%] of 52 patients; p=0·002)."
+      },
+      "derived": {
+        "arr": 0.171,
+        "nnt": 5.9
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Haemothorax",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Haemothorax"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "tpa_dnase_combo",
+          "events": 7,
+          "patients": 7,
+          "percentage": 17,
+          "total": 41
+        },
+        {
+          "arm_id": "urokinase",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 52
+        }
+      ],
+      "period": "not reported",
+      "management": "Not reported; no haemoglobin decrease or haemodynamic change; fibrinolytic discontinued in 5/41.",
+      "provenance": {
+        "pages": [
+          1053
+        ],
+        "tables": [],
+        "quote": "tPA and DNase led to more haemothoraces (defined as blood in the drain) than did urokinase (seven [17%] of 41 patients vs none [0%] of 52 patients; p=0·002). No patient receiving tPA and DNase had a haemoglobin decrease or haemodynamic change; it led to discontinuation in five (12%)."
+      }
+    },
+    {
+      "event_name": "Haemorrhage",
+      "meddra": {
+        "soc": "Vascular disorders",
+        "pt": "Haemorrhage"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "other_medically_important"
+      ],
+      "groups": [
+        {
+          "arm_id": "alteplase_20mg",
+          "events": 5,
+          "patients": 5,
+          "percentage": 27.8,
+          "total": 18
+        },
+        {
+          "arm_id": "alteplase_10mg",
+          "events": 4,
+          "patients": 4,
+          "percentage": 12.1,
+          "total": 33
+        },
+        {
+          "arm_id": "urokinase",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 48
+        }
+      ],
+      "period": "not reported",
+      "management": "not reported",
+      "provenance": {
+        "pages": [
+          1053
+        ],
+        "tables": [],
+        "quote": "There was a significantly higher number of serious bleeding events in patients who received alteplase (five [28%] of 18 patients receiving 20 mg alteplase and four [12%] of 33 patients receiving 10 mg alteplase vs none [0%] of 48 patients in the urokinase group)."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "Not applicable (consensus guideline)",
+    "overall_judgment": "not_applicable",
+    "domains": [
+      {
+        "name": "Applicability and rigor (GRADE + Delphi)",
+        "judgment": "appropriate_methods",
+        "support_for_judgment": "Systematic search, GRADE framework, predefined consensus thresholds, and modified Delphi with 96% participation."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "empyema",
+      "pleural infection",
+      "intrapleural fibrinolytic",
+      "DNase",
+      "tPA",
+      "urokinase",
+      "streptokinase",
+      "alteplase",
+      "MIST2",
+      "VATS"
+    ],
+    "summary_tldr": "Consensus recommends combined intrapleural tPA 10 mg + DNase 5 mg twice daily, given concurrently with 1-hour clamp, over monotherapy to reduce surgical referral and improve drainage.",
+    "clinical_relevance": "Provides practical, consensus-based dosing and use guidance for intrapleural fibrinolytic + DNase therapy in adult bacterial empyema, addressing timing, safety, and surgical triage."
+  }
+}

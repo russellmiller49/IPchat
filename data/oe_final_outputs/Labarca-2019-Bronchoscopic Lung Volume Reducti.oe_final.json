@@ -1,0 +1,477 @@
+{
+  "source": {
+    "document_id": "Labarca-2019-Bronchoscopic Lung Volume Reducti",
+    "ingest_date": "2025-08-08T13:59:19.699640+00:00",
+    "trial_registration_id": "CRD42016040001",
+    "pmid": "31163435",
+    "doi": "10.1159/000499508"
+  },
+  "document": {
+    "metadata": {
+      "title": "Bronchoscopic Lung Volume Reduction with Endobronchial Zephyr Valves for Severe Emphysema: A Systematic Review and Meta-Analysis",
+      "year": 2019,
+      "authors": [
+        "Gonzalo Labarca",
+        "Juan Pablo Uribe",
+        "Cecilia Pacheco",
+        "Erik Folch",
+        "Fayez Kheir",
+        "Adnan Majid",
+        "Michael A. Jantz",
+        "Hiren J. Mehta",
+        "Neal Patel",
+        "Felix J.F. Herth",
+        "Sebastian Fernandez-Bussy"
+      ],
+      "journal": "Respiration",
+      "doi": "10.1159/000499508",
+      "pmid": "31163435"
+    },
+    "sections": {
+      "abstract": "Background: Endoscopic lung volume reduction using Zephyr valves has been recently adopted as a treatment option for patients with severe emphysema without collateral ventilation (CV). Objectives: To assess the efficacy and safety of Zephyr valves in such a population. Methods: Studies were identified from MEDLINE and EMBASE databases. All searches were current until June 2018. We performed a systematic review and meta-analysis of randomized controlled trials (RCTs) evaluating the efficacy and safety of Zephyr. We defined as outcome: change in forced expiratory volume in 1 s (FEV1), in the 6-min walking test (6MWT), in the St George’s Respiratory Questionnaire (SGRQ), and in residual volume (RV). Safety analysis included relative risk (RR) of pneumothorax. We assessed the quality of the evidence using GRADE. Results: 7 RCTs reported on Zephyr valves and 5 RCTs included only patients without CV. Zephyr improved FEV1 with a mean difference (MD) of 17.36% (CI, 9.28-25.45, I2 = 78%). Subgroup analysis showed significant FEV1 improvement following Zephyr placement in patients with heterogeneous distribution: MD = 21.78% (CI, 8.70-34.86, I2 = 89%) and 16.27% (CI, 8.78-23.76, I2 = 0%) in patients with homogeneous emphysema. Studies with a follow-up of 3 months reported FEV1 MD = 17.19% (CI, 3.16-31.22, I2 = 89%) compared to studies with a follow-up of 6-12 months, which showed a consistent improvement of FEV1 MD = 17.90% (CI, 11.47-24.33, I2 = 0%). Zephyr also showed improvement of SGRQ, 6MWT, and RV. RR of pneumothorax was 6.32 (CI, 3.74-10.67, I2 = 0%). Conclusion: In this population, Zephyr valves provided significant and clinically meaningful short-term improvements in either homogeneous or heterogeneous emphysema without CV but with an increase in adverse events.",
+      "methods": "This systematic review followed PRISMA. Databases searched included MEDLINE, clinicaltrials.gov, Cochrane Library, Lilacs, and EMBASE through October 2018. Inclusion criteria: adults with COPD stage III-IV and severe emphysema without collateral ventilation measured by Chartis, on optimal medical therapy, randomized to Zephyr endobronchial valves (EBV) versus standard of care or sham; RCTs only. Exclusion criteria included non-severe emphysema, COPD stage I-II or suboptimal medical therapy, prior non-Zephyr interventions, presence of collateral ventilation, and non-RCT designs. Risk of bias used Cochrane tool. Random-effects DerSimonian-Laird meta-analyses were conducted. Continuous outcomes were pooled as mean differences (MD): FEV1 (% predicted), SGRQ (total score), 6MWT (m), RV (mL/L). Safety outcomes included RR of pneumothorax and all-cause mortality. Subgroups examined follow-up (3 vs ≥6 months), emphysema distribution (heterogeneous vs homogeneous), and comparator (sham vs standard of care). Heterogeneity was assessed by I2 and χ2 tests. P < 0.05 was considered significant.",
+      "results": "Seven RCTs (n = 987) met inclusion for qualitative synthesis; five RCTs enrolling only patients without collateral ventilation were included in quantitative synthesis. Pooled FEV1 % predicted improved by MD 17.36 (95% CI 9.28-25.45; I2 = 78%; total EBV n = 295; control n = 203); overall effect Z = 4.21, p = 0.001. Subgroup by emphysema distribution: homogeneous MD 16.27 (95% CI 8.78-23.76; I2 = 0%; Z = 4.26, p < 0.0001); heterogeneous MD 21.78 (95% CI 8.70-34.86; I2 = 89%; Z = 3.26, p = 0.001). Follow-up subgroup: 3 months MD 17.19 (95% CI 3.16-31.22; I2 = 89%); 6-12 months MD 17.90 (95% CI 11.47-24.33; I2 = 0%). SGRQ improved (e.g., 6-12 months MD -9.14, 95% CI -13.16 to -5.11). 6MWT improved (e.g., 6-12 months MD 59.96 m, 95% CI 44.23-75.69). RV reduced (e.g., 6-12 months MD -0.53 L, 95% CI -0.67 to -0.40). Pneumothorax risk increased with RR 6.32 (95% CI 3.74-10.67; I2 = 0%)."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with severe emphysema (COPD GOLD stage III-IV) without collateral ventilation (complete fissures) on optimal medical therapy.",
+      "inclusion_criteria": [
+        "Age ≥18 years",
+        "COPD stage III-IV with severe emphysema",
+        "Absence of collateral ventilation assessed by Chartis system or fissure completeness",
+        "On optimal medical management per GOLD",
+        "Randomized controlled trials"
+      ],
+      "exclusion_criteria": [
+        "Non-severe emphysema",
+        "COPD stage I-II or without optimal medical therapy",
+        "Prior emphysema treatment with non-Zephyr interventions",
+        "Presence of collateral ventilation",
+        "Non-randomized studies"
+      ]
+    },
+    "intervention": {
+      "text": "Endobronchial Zephyr valve placement",
+      "details": "Bronchoscopic placement of one-way Zephyr endobronchial valves to occlude target lobe segments to induce atelectasis in patients without collateral ventilation."
+    },
+    "comparison": {
+      "text": "Standard of care or sham bronchoscopy",
+      "details": "Comparator arms included optimized medical therapy and, in some trials, a sham valve procedure."
+    },
+    "outcomes": [
+      {
+        "name": "FEV1 % predicted change",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "St George’s Respiratory Questionnaire total score",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "6-minute walk distance",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Residual volume",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Pneumothorax",
+        "type": "safety",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "systematic_review_meta_analysis",
+    "allocation": "randomized",
+    "blinding": "mixed",
+    "sites_count": 0,
+    "countries": [],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 987,
+      "analyzed": 498
+    },
+    "analysis_populations": [
+      {
+        "name": "Meta-analysis (FEV1 studies)",
+        "description": "Trials included in pooled FEV1 change analysis",
+        "n": 5
+      },
+      {
+        "name": "Qualitative synthesis",
+        "description": "All included RCTs",
+        "n": 7
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention_meta",
+      "name": "Zephyr endobronchial valve (pooled across trials contributing to FEV1 analysis)",
+      "n_randomized": 295,
+      "n_analyzed": 295,
+      "n_completed": 0
+    },
+    {
+      "arm_id": "control_meta",
+      "name": "Control (standard of care or sham; pooled across trials contributing to FEV1 analysis)",
+      "n_randomized": 203,
+      "n_analyzed": 203,
+      "n_completed": 0
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "fev1_percent_predicted_change_overall_meta",
+      "name": "FEV1 % predicted change (pooled across 3-12 months)",
+      "type": "continuous",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P3M",
+      "timepoint_label": "3-12 months (mixed follow-up)",
+      "unit": "% predicted",
+      "unit_canonical": "percent_predicted",
+      "groups": [],
+      "comparison": {
+        "ref_arm_id": "control_meta",
+        "measure": "mean_difference",
+        "est": 17.36,
+        "ci_lower": 9.28,
+        "ci_upper": 25.45,
+        "ci_level": 0.95,
+        "p_value": 0.001,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "DerSimonian-Laird random-effects",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Trials enrolling patients without collateral ventilation",
+        "missing_handling": "not reported",
+        "heterogeneity_I2": 78,
+        "tau2": 66.13
+      },
+      "provenance": {
+        "pages": [
+          272
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "Pooled data showed FEV1 improvement with a MD = 17.36% (CI, 9.28-25.45, I2 = 78%). Test for overall effect: Z = 4.21 (p = 0.001)."
+      }
+    },
+    {
+      "concept_id": "fev1_percent_predicted_change_homogeneous_meta",
+      "name": "FEV1 % predicted change (homogeneous emphysema subgroup)",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P3M",
+      "timepoint_label": "3-12 months (mixed follow-up)",
+      "unit": "% predicted",
+      "unit_canonical": "percent_predicted",
+      "groups": [],
+      "comparison": {
+        "ref_arm_id": "control_meta",
+        "measure": "mean_difference",
+        "est": 16.27,
+        "ci_lower": 8.78,
+        "ci_upper": 23.76,
+        "ci_level": 0.95,
+        "p_value": 0.0001,
+        "p_operator": "<",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "DerSimonian-Laird random-effects",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Homogeneous emphysema without collateral ventilation",
+        "missing_handling": "not reported",
+        "heterogeneity_I2": 0
+      },
+      "provenance": {
+        "pages": [
+          273
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "In the homogenous emphysema subgroup, Zephyr valves showed an improvement in FEV1 of 16.27% (CI, 8.78-23.76, I2 = 0%). Test for overall effect: Z = 4.26 (p < 0.0001)."
+      }
+    },
+    {
+      "concept_id": "fev1_percent_predicted_change_heterogeneous_meta",
+      "name": "FEV1 % predicted change (heterogeneous emphysema subgroup)",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P3M",
+      "timepoint_label": "3-12 months (mixed follow-up)",
+      "unit": "% predicted",
+      "unit_canonical": "percent_predicted",
+      "groups": [],
+      "comparison": {
+        "ref_arm_id": "control_meta",
+        "measure": "mean_difference",
+        "est": 21.78,
+        "ci_lower": 8.7,
+        "ci_upper": 34.86,
+        "ci_level": 0.95,
+        "p_value": 0.001,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "DerSimonian-Laird random-effects",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Heterogeneous emphysema without collateral ventilation",
+        "missing_handling": "not reported",
+        "heterogeneity_I2": 89
+      },
+      "provenance": {
+        "pages": [
+          273
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "In this subgroup, MD of FEV1 improvement was 21.78% (CI, 8.70-34.86, I2 = 89%). Test for overall effect: Z = 3.26 (p = 0.001)."
+      }
+    },
+    {
+      "concept_id": "fev1_percent_predicted_change_6to12m_meta",
+      "name": "FEV1 % predicted change (≥6 months)",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P6M",
+      "timepoint_label": "6-12 months",
+      "unit": "% predicted",
+      "unit_canonical": "percent_predicted",
+      "groups": [],
+      "comparison": {
+        "ref_arm_id": "control_meta",
+        "measure": "mean_difference",
+        "est": 17.9,
+        "ci_lower": 11.47,
+        "ci_upper": 24.33,
+        "ci_level": 0.95,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "DerSimonian-Laird random-effects",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Trials with ≥6 months follow-up",
+        "missing_handling": "not reported",
+        "heterogeneity_I2": 0
+      },
+      "provenance": {
+        "pages": [
+          272
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "For 6 or more months of follow-up, improvement of FEV1 had a MD = 17.90% (CI, 11.47-24.33, I2 = 0%)."
+      }
+    },
+    {
+      "concept_id": "sgrq_total_change_6to12m_meta",
+      "name": "SGRQ total score change (≥6 months)",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P6M",
+      "timepoint_label": "6-12 months",
+      "unit": "points",
+      "unit_canonical": "points",
+      "groups": [],
+      "comparison": {
+        "ref_arm_id": "control_meta",
+        "measure": "mean_difference",
+        "est": -9.14,
+        "ci_lower": -13.16,
+        "ci_upper": -5.11,
+        "ci_level": 0.95,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "DerSimonian-Laird random-effects",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Trials with ≥6 months follow-up",
+        "missing_handling": "not reported",
+        "heterogeneity_I2": 64
+      },
+      "provenance": {
+        "pages": [
+          273
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "SGRQ (6-12 months): -9.14 (-13.16, -5.11), I2 = 64%."
+      }
+    },
+    {
+      "concept_id": "sixmwd_change_6to12m_meta",
+      "name": "6-minute walk distance change (≥6 months)",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P6M",
+      "timepoint_label": "6-12 months",
+      "unit": "m",
+      "unit_canonical": "meter",
+      "groups": [],
+      "comparison": {
+        "ref_arm_id": "control_meta",
+        "measure": "mean_difference",
+        "est": 59.96,
+        "ci_lower": 44.23,
+        "ci_upper": 75.69,
+        "ci_level": 0.95,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "DerSimonian-Laird random-effects",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Trials with ≥6 months follow-up",
+        "missing_handling": "not reported",
+        "heterogeneity_I2": 78
+      },
+      "provenance": {
+        "pages": [
+          273
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "6MWD (6-12 months): 59.96 (44.23, 75.69), I2 = 78%."
+      }
+    },
+    {
+      "concept_id": "rv_change_6to12m_meta",
+      "name": "Residual volume change (≥6 months)",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P6M",
+      "timepoint_label": "6-12 months",
+      "unit": "L",
+      "unit_canonical": "liter",
+      "groups": [],
+      "comparison": {
+        "ref_arm_id": "control_meta",
+        "measure": "mean_difference",
+        "est": -0.53,
+        "ci_lower": -0.67,
+        "ci_upper": -0.4,
+        "ci_level": 0.95,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "DerSimonian-Laird random-effects",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Trials with ≥6 months follow-up",
+        "missing_handling": "not reported",
+        "heterogeneity_I2": 59
+      },
+      "provenance": {
+        "pages": [
+          273
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "RV (6-12 months): -0.53 (-0.67, -0.40), I2 = 59%."
+      }
+    },
+    {
+      "concept_id": "pneumothorax_meta_rr",
+      "name": "Pneumothorax (pooled relative risk)",
+      "type": "binary",
+      "outcome_type": "safety",
+      "timepoint_iso8601": "P3M",
+      "timepoint_label": "early post-procedure (study follow-up windows)",
+      "groups": [],
+      "comparison": {
+        "ref_arm_id": "control_meta",
+        "measure": "risk_ratio",
+        "est": 6.32,
+        "ci_lower": 3.74,
+        "ci_upper": 10.67,
+        "ci_level": 0.95
+      },
+      "analysis": {
+        "model": "DerSimonian-Laird random-effects",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Trials enrolling patients without collateral ventilation",
+        "missing_handling": "not reported",
+        "heterogeneity_I2": 0
+      },
+      "provenance": {
+        "pages": [
+          270,
+          273
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "RR of pneumothorax was 6.32 (CI, 3.74-10.67, I2 = 0%)."
+      }
+    }
+  ],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "Cochrane Risk of Bias (2011)",
+    "overall_judgment": "some concerns",
+    "domains": [
+      {
+        "name": "Randomization process",
+        "judgment": "low",
+        "support_for_judgment": "All included trials reported adequate random sequence generation and allocation concealment."
+      },
+      {
+        "name": "Deviations from intended interventions (performance bias)",
+        "judgment": "some concerns",
+        "support_for_judgment": "High or unclear performance bias in 4 studies due to lack of blinding."
+      },
+      {
+        "name": "Measurement of the outcome (detection bias)",
+        "judgment": "some concerns",
+        "support_for_judgment": "Unclear blinding of outcome assessment in several studies."
+      },
+      {
+        "name": "Missing outcome data",
+        "judgment": "low",
+        "support_for_judgment": "Low attrition bias reported across trials."
+      },
+      {
+        "name": "Selective reporting",
+        "judgment": "low",
+        "support_for_judgment": "No evidence of selective reporting in most trials."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "emphysema",
+      "endobronchial valve",
+      "Zephyr",
+      "bronchoscopic lung volume reduction",
+      "COPD",
+      "pneumothorax"
+    ],
+    "summary_tldr": "Across RCTs in patients with severe emphysema without collateral ventilation, Zephyr endobronchial valves improved FEV1 (~17-18% predicted) and quality-of-life/exercise metrics but increased pneumothorax risk (RR ~6.3).",
+    "clinical_relevance": "Supports use of Zephyr valves in carefully selected emphysema patients to achieve clinically meaningful lung function and symptom improvements, acknowledging elevated pneumothorax risk."
+  }
+}

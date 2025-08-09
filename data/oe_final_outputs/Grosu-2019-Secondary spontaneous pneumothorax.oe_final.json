@@ -1,0 +1,371 @@
+{
+  "source": {
+    "document_id": "Grosu-2019-Secondary spontaneous pneumothorax",
+    "ingest_date": "2025-08-08T13:01:48.769834+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.21037/jtd.2019.03.35"
+  },
+  "document": {
+    "metadata": {
+      "title": "Secondary spontaneous pneumothorax in cancer patients",
+      "year": 2019,
+      "authors": [
+        "Horiana B. Grosu",
+        "Macarena R. Vial",
+        "Mike Hernandez",
+        "Liang Li",
+        "Roberto F. Casal",
+        "Georgie A. Eapen",
+        "David E. Ost"
+      ],
+      "journal": "Journal of Thoracic Disease",
+      "doi": "10.21037/jtd.2019.03.35",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Background: Malignancy-associated secondary spontaneous pneumothorax (MSSP) poses significant challenges due to limited survival. By assessing risk factors associated with a MSSP recurrence, there is potential to identify patients who could benefit from early intervention intended to prevent recurrence. Methods: We performed a retrospective cohort study of patients with MSSP. The primary outcome was time to MSSP recurrence. We used a competing risk model to identify risk factors associated with MSSP recurrence. Results: A total of 2,532 patients were diagnosed with pneumothorax, with 114 having MSSP but only 96 were evaluable for the time-to-recurrence analysis. Of the 96 patients, 9 (9.4%) patients experienced recurrent MSSP, and 58 (60.4%) patients died during the study’s follow-up period. The estimated cumulative incidence (CI) of MSSP considering death as a competing risk was 10.1% at 15 months. The univariable model identified the following covariates as associated with MSSP recurrence: mediastinal shift (HR 12.30, 95% CI: 3.44-43.91, P<0.001), distance from lung apex to thoracic cupola (HR 1.02, 95% CI: 1.00-1.03, P=0.003), and distance between visceral and chest wall at the hilum (HR 1.02, 95% CI: 1.00-1.03, P=0.026). Conclusions: Although the incidence of MSSP recurrence was found to be low, clinical factors such as sarcoma, the associated mediastinal shift, greater distance from lung apex to thoracic cupola, greater distance between visceral and chest wall at the hilum were found to be risk factors for MSSP recurrence.",
+      "methods": "We performed a retrospective review of all patients with spontaneous pneumothorax and an underlying malignancy evaluated at MD Anderson Cancer Center between January 2005 and January 2015 (IRB PA15-0761). Patients were identified via ICD-9 codes for pneumothorax and charts reviewed for eligibility. Inclusion: age ≥16 years and MSSP (non-traumatic, non-iatrogenic pneumothorax in the presence of metastatic lung or pleural disease by imaging or pathology). Exclusion: iatrogenic pneumothorax and SSP due to other causes. Initial management was categorized as invasive (aspiration or chest tube) or observation only; definitive procedures included pleurodesis via chest tube or VATS. Pneumothorax size was measured on initial upright PA chest radiograph using ACCP (apex-to-cupola distance) and BTS (visceral-to-parietal at hilum) methods. Primary outcome: time to MSSP recurrence, defined from first MSSP to recurrent MSSP after resolution (15 days or imaging resolution for observation-only; after chest tube removal with imaging resolution for invasive procedure; if observed then required intervention, time origin was chest tube removal). Secondary outcome: time to worsening requiring intervention within 15 days among observation-only patients. Statistical analysis: Cumulative incidence (CI) of recurrence was estimated using competing risks (Gooley et al. 1999) with death as competing risk; subdistribution hazard model (Fine & Gray 1999) provided subdistribution hazard ratios (SHR). Cause-specific proportional hazards models were used for time to worsening. Variables with P<0.20 in univariable analysis were candidates for multivariable models; backward selection retained covariates with P<0.05. McNemar’s test assessed concordance of institutional management with ACCP/BTS guidelines. Analyses were conducted in Stata 15; two-sided P<0.05 was significant.",
+      "results": "Among 2,532 pneumothorax patients screened, 2,403 had iatrogenic pneumothorax and 15 lacked metastatic disease in the chest, leaving 114 with MSSP. For the primary outcome, 18 patients were excluded (8 definitive pleurodesis; 10 died with chest tube in place), yielding 96 for recurrence analysis. Cancer types included sarcoma (n=29), hematologic malignancy (n=15), lung cancer (n=24), and other solid non-lung cancers (n=28). Recurrent MSSP occurred in 9/96 (9.4%); median time to recurrence was 0.69 months (range 0.16-10.1). Median survival was 7.8 months (95% CI 4.8-11.1). The estimated cumulative incidence of recurrence, accounting for death as a competing risk, was 8.5% at 10 months and 10.1% at 15 months. Univariable Fine-Gray analysis identified contralateral mediastinal shift (HR 12.30, 95% CI 3.44-43.91, P<0.001), greater apex-to-cupola distance (per mm HR 1.02, 95% CI 1.00-1.03, P=0.003), and greater visceral-to-chest wall distance at the hilum (per mm HR 1.02, 95% CI 1.00-1.03, P=0.026) as associated with increased recurrence risk; sarcoma cancer type was also associated with increased recurrence (P=0.0011). For the secondary outcome, 65 patients were initially observed; 21/65 (32.3%) clinically worsened and required intervention within 15 days. Univariable cause-specific hazards for worsening showed associations with sarcoma (vs solid non-lung P=0.007; vs lung cancer P=0.022), cavitary lung nodules (P=0.034), mediastinal shift (P=0.013), shortness of breath (P<0.001), higher respiratory rate (P=0.005), higher heart rate (P=0.016), greater apex-to-cupola distance (P<0.001), and greater hilum distance (P=0.001). On multivariable analysis, only shortness of breath remained significant (P=0.033)."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Patients aged ≥16 years with malignancy-associated secondary spontaneous pneumothorax (non-traumatic, non-iatrogenic) and metastatic disease to the chest at a tertiary cancer center.",
+      "inclusion_criteria": [
+        "Age ≥16 years",
+        "Spontaneous pneumothorax without trauma or iatrogenic cause",
+        "Underlying metastatic lung or pleural disease by imaging or pathology (metastatic disease to chest)"
+      ],
+      "exclusion_criteria": [
+        "Iatrogenic pneumothorax (e.g., post CT- or ultrasound-guided biopsy)",
+        "Secondary spontaneous pneumothorax due to non-malignant causes",
+        "No metastatic disease to the chest"
+      ]
+    },
+    "intervention": {
+      "text": "Initial observation-only management",
+      "details": "No invasive procedure on presentation; monitored clinically and radiographically. For recurrence analyses, time origin defined at pneumothorax resolution (15 days or imaging resolution). For those who later required intervention, time origin reset to chest tube removal."
+    },
+    "comparison": {
+      "text": "Initial invasive management",
+      "details": "Simple aspiration or chest tube placement on presentation; resolution defined after chest tube removal with radiographic confirmation. Definitive procedures (e.g., talc pleurodesis via VATS or chest tube) were excluded from the recurrence cohort."
+    },
+    "outcomes": [
+      {
+        "name": "Time to MSSP recurrence",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Time to clinical worsening requiring intervention (observation-only cohort)",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "observational cohort",
+    "allocation": "non-randomized",
+    "blinding": "none",
+    "sites_count": 1,
+    "countries": [
+      "US"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 114,
+      "analyzed": 96
+    },
+    "analysis_populations": [
+      {
+        "name": "Recurrence cohort",
+        "description": "Patients with MSSP excluding those with definitive pleurodesis and those who died with chest tube in place",
+        "n": 96
+      },
+      {
+        "name": "Observation-only cohort",
+        "description": "Patients initially managed with observation only for analysis of time to worsening requiring intervention",
+        "n": 65
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "recurrence_cohort",
+      "name": "MSSP recurrence analysis cohort",
+      "n_randomized": 0,
+      "n_analyzed": 96,
+      "n_completed": 0
+    },
+    {
+      "arm_id": "mediastinal_shift_yes",
+      "name": "Patients with contralateral mediastinal shift",
+      "n_randomized": 0,
+      "n_analyzed": 11,
+      "n_completed": 0
+    },
+    {
+      "arm_id": "mediastinal_shift_no",
+      "name": "Patients without mediastinal shift",
+      "n_randomized": 0,
+      "n_analyzed": 85,
+      "n_completed": 0
+    },
+    {
+      "arm_id": "observation_only",
+      "name": "Initially observed patients",
+      "n_randomized": 0,
+      "n_analyzed": 65,
+      "n_completed": 0
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "mssp_recurrence_any",
+      "name": "MSSP recurrence",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P15M",
+      "timepoint_label": "Up to 15 months (competing risk CI reported at 15 months)",
+      "groups": [
+        {
+          "arm_id": "recurrence_cohort",
+          "raw": {
+            "events": 9,
+            "total": 96
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "recurrence_cohort",
+        "measure": "proportion",
+        "est": 0.09375,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": 1,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Competing risks cumulative incidence (Gooley); Fine-Gray subdistribution hazards for covariates (univariable)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Recurrence cohort (n=96)",
+        "missing_handling": "Not reported; retrospective cohort"
+      },
+      "provenance": {
+        "pages": [
+          1499,
+          1501
+        ],
+        "tables": [
+          "Figure 3",
+          "Table 1"
+        ],
+        "table_number": 1,
+        "quote": "Of the 96 patients, 9 (9.4%) patients experienced recurrent MSSP... The estimated cumulative incidence (CI) of MSSP considering death as a competing risk was 10.1% at 15 months."
+      }
+    },
+    {
+      "concept_id": "mssp_recurrence_by_mediastinal_shift",
+      "name": "Effect of mediastinal shift on MSSP recurrence",
+      "type": "time_to_event",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P15M",
+      "timepoint_label": "Up to 15 months (competing risk analysis)",
+      "groups": [
+        {
+          "arm_id": "mediastinal_shift_yes",
+          "raw": {
+            "events": 5,
+            "total": 11
+          }
+        },
+        {
+          "arm_id": "mediastinal_shift_no",
+          "raw": {
+            "events": 4,
+            "total": 85
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "mediastinal_shift_no",
+        "measure": "subdistribution_hazard_ratio",
+        "est": 12.3,
+        "ci_lower": 3.44,
+        "ci_upper": 43.91,
+        "ci_level": 0.95,
+        "p_value": 0.001,
+        "p_operator": "<",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Fine-Gray subdistribution hazards (univariable)",
+        "adjusted": false,
+        "covariates": [
+          "mediastinal shift (yes vs no)"
+        ],
+        "population": "Recurrence cohort (n=96)",
+        "missing_handling": "Complete-case (per cohort definition)"
+      },
+      "provenance": {
+        "pages": [
+          1500
+        ],
+        "tables": [
+          "Table 1",
+          "Table 2"
+        ],
+        "quote": "Associated mediastinal contralateral shift (HR 12.30, 95% CI: 3.44-43.91, P<0.001). Counts: No shift 81 vs 4; Yes shift 6 vs 5 (no recurrence vs recurrence)."
+      }
+    },
+    {
+      "concept_id": "worsening_requiring_intervention_15d",
+      "name": "Clinical worsening requiring intervention within 15 days (observation-only cohort)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P15D",
+      "timepoint_label": "15 days",
+      "groups": [
+        {
+          "arm_id": "observation_only",
+          "raw": {
+            "events": 21,
+            "total": 65
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "observation_only",
+        "measure": "proportion",
+        "est": 0.3231,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": 1,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Cause-specific proportional hazards for predictors (univariable; multivariable retained shortness of breath)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Observation-only cohort (n=65)",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          1498,
+          1501
+        ],
+        "tables": [
+          "Figure 2",
+          "Table 4"
+        ],
+        "quote": "Initially observed N=65; Worsened N=21. On multivariate analysis, only the presence of shortness of breath remained as a significant predictor (P=0.033)."
+      }
+    },
+    {
+      "concept_id": "death_during_followup",
+      "name": "Death during follow-up (recurrence cohort)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P15M",
+      "timepoint_label": "Up to 15 months",
+      "groups": [
+        {
+          "arm_id": "recurrence_cohort",
+          "raw": {
+            "events": 58,
+            "total": 96
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "recurrence_cohort",
+        "measure": "proportion",
+        "est": 0.6042,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": 1,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive within cohort; death treated as competing risk in recurrence analyses",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Recurrence cohort (n=96)",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          1499
+        ],
+        "tables": [],
+        "quote": "Of the 96 patients, 9 (9.4%) patients experienced recurrent MSSP, and 58 (60.4%) patients died during the study’s follow-up period."
+      }
+    }
+  ],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "ROBINS-I",
+    "overall_judgment": "serious",
+    "domains": [
+      {
+        "name": "Bias due to confounding",
+        "judgment": "serious",
+        "support_for_judgment": "Retrospective cohort with univariable analyses for primary risk factors; limited adjustment reported."
+      },
+      {
+        "name": "Bias in selection of participants",
+        "judgment": "moderate",
+        "support_for_judgment": "Single-center cohort identified via ICD-9 codes; clear inclusion/exclusion but potential selection related to care setting."
+      },
+      {
+        "name": "Bias in classification of interventions",
+        "judgment": "low",
+        "support_for_judgment": "Initial management (observation vs invasive) defined a priori from clinical records."
+      },
+      {
+        "name": "Bias due to deviations from intended interventions",
+        "judgment": "low",
+        "support_for_judgment": "Observational design; outcomes not affected by protocol deviations."
+      },
+      {
+        "name": "Bias due to missing data",
+        "judgment": "moderate",
+        "support_for_judgment": "Exclusions (definitive procedure, death with chest tube) reduce N; missingness handling not detailed."
+      },
+      {
+        "name": "Bias in measurement of outcomes",
+        "judgment": "low",
+        "support_for_judgment": "Outcomes (recurrence, worsening) based on imaging and clinical intervention records."
+      },
+      {
+        "name": "Bias in selection of the reported result",
+        "judgment": "moderate",
+        "support_for_judgment": "Unregistered observational study; multiple predictors assessed with primarily univariable reporting."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "malignancy-associated secondary spontaneous pneumothorax",
+      "MSSP",
+      "mediastinal shift",
+      "Fine-Gray",
+      "competing risks",
+      "sarcoma",
+      "pleurodesis",
+      "ACCP",
+      "BTS"
+    ],
+    "summary_tldr": "In 96 cancer patients with MSSP, recurrence occurred in 9 (9.4%) with a 15-month cumulative incidence of 10.1%; mediastinal shift strongly increased recurrence risk (Fine-Gray HR 12.3, p<0.001).",
+    "clinical_relevance": "Low recurrence risk after first MSSP suggests routine definitive procedures may be unnecessary for many; mediastinal shift and other factors can help identify patients who may benefit from early intervention."
+  }
+}

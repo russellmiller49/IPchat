@@ -1,0 +1,422 @@
+{
+  "source": {
+    "document_id": "Robotic bronchoscopy pilot and feasibility study (Benefit)",
+    "ingest_date": "2025-08-08T15:23:09.544447+00:00",
+    "trial_registration_id": "NCT03727425",
+    "pmid": "",
+    "doi": "10.1016/j.chest.2020.08.2047"
+  },
+  "document": {
+    "metadata": {
+      "title": "Robotic Bronchoscopy for Peripheral Pulmonary Lesions: A Multicenter Pilot and Feasibility Study (BENEFIT)",
+      "year": 2021,
+      "authors": [
+        "Alexander C. Chen",
+        "Nicholas J. Pastis Jr",
+        "Amit K. Mahajan",
+        "Sandeep J. Khandhar",
+        "Michael J. Simoff",
+        "Michael S. Machuzak",
+        "Joseph Cicenia",
+        "Thomas R. Gildea",
+        "Gerard A. Silvestri"
+      ],
+      "journal": "Chest",
+      "doi": "10.1016/j.chest.2020.08.2047",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "BACKGROUND: The diagnosis of peripheral pulmonary lesions (PPL) continues to present clinical challenges. Despite extensive experience with guided bronchoscopy, the diagnostic yield has not improved significantly. Robotic-assisted bronchoscopic platforms have been developed potentially to improve the diagnostic yield for PPL. Presently, limited data exist that evaluate the performance of robotic systems in live human subjects. RESEARCH QUESTION: What is the safety and feasibility of robotic-assisted bronchoscopy in patients with PPLs? STUDY DESIGN AND METHODS: This was a prospective, multicenter pilot and feasibility study that used a robotic bronchoscopic system with a mother-daughter configuration in patients with PPL 1 to 5 cm in size. The primary end points were successful lesion localization with the use of radial probe endobronchial ultrasound (R-EBUS) imaging and incidence of procedure related adverse events. Robotic bronchoscopy was performed in patients with the use of direct visualization, electromagnetic navigation, and fluoroscopy. After the use of R-EBUS imaging, transbronchial needle aspiration was performed. Rapid on-site evaluation (ROSE) was used on all cases. Transbronchial needle aspiration alone was sufficient when ROSE was diagnostic; when ROSE was not diagnostic, transbronchial biopsy was performed with the use of the robotic platform, followed by conventional guided bronchoscopic approaches at the discretion of the investigator. RESULTS: Fifty-five patients were enrolled at five centers. One patient withdrew consent, which left 54 patients for data analysis. Median lesion size was 23 mm (interquartile range, 15 to 29 mm). R-EBUS images were available in 53 of 54 cases. Lesion localization was successful in 51 of 53 patients (96.2%). Pneumothorax was reported in two of 54 of the cases (3.7%); tube thoracostomy was required in one of the cases (1.9%). No additional adverse events occurred. INTERPRETATION: This is the first, prospective, multicenter study of robotic bronchoscopy in patients with PPLs. Successful lesion localization was achieved in 96.2% of cases, with an adverse event rate comparable with conventional bronchoscopic procedures. Additional large prospective studies are warranted to evaluate procedure characteristics, such as diagnostic yield. CLINICAL TRIAL REGISTRATION: ClinicalTrials.gov; No.: NCT03727425.",
+      "methods": "This was a multicenter, prospective pilot study of robotic bronchoscopy in patients with peripheral pulmonary lesions 1 to 5 cm in size and no evidence of disease in mediastinal or hilar lymph nodes by CT or PET imaging. CT scans were performed with the use of a standardized protocol with slice thickness of 1 to 1.25 mm, with variations dependent on the manufacturer of the CT scanner. Five study sites participated; each site enrolled 11 study patients. Consecutive patients who met inclusion and exclusion criteria were considered for this study. All study procedures were performed with general anesthesia in a dedicated operating room or endoscopy suite. Flexible bronchoscopy with airway inspection was performed initially. The robotic bronchoscopic system (Monarch; Auris Health) was connected to the existing endotracheal tube. The system uses an outer sheath (6.0 mm outer diameter) and inner scope (4.4 mm outer diameter) with a 2.1-mm working channel, with electromagnetic navigation and fluoroscopic guidance. Once positioned at the target, a radial endobronchial ultrasound (R-EBUS) probe was used to confirm lesion localization (concentric or eccentric view). Biopsy was performed with three transbronchial needle aspiration (TBNA) passes followed by ROSE; if nondiagnostic, three transbronchial biopsies were obtained. Crossover to conventional guided bronchoscopy was permitted if ROSE and robotic biopsies were nondiagnostic. All patients had postprocedure chest radiography within 2 hours.",
+      "results": "Fifty-five patients were enrolled; one withdrew consent, leaving 54 for analysis. Median lesion size was 23 mm (IQR 15 to 29). R-EBUS images were available in 53 of 54 cases. Lesion localization was confirmed with R-EBUS in 51 of 53 patients (96.2%; 95% CI, 86.5 to 99.7). Concentric views were obtained in 31 of 51 cases (60.8%), eccentric in 20 of 51 cases (39.2%). Median time to lesion confirmation was 13 minutes (IQR 10 to 24). Pneumothorax occurred in 2 of 54 cases (3.7%; 95% CI, 0.3 to 13.3), requiring tube thoracostomy in 1 case (1.9%; 95% CI, <0.01 to 10.7). No other significant adverse events or airway trauma were observed. Median robotic procedure time was 51 minutes (IQR 44 to 64). Median insertion depth by bronchus generation was 5.5 (IQR 5 to 7). Median distance from the tip of the robotic scope to the lesion center was 23 mm (IQR 14 to 32). Diagnostic yield at 12 months was 40 of 54 (74.1%; 95% CI, 61 to 84). Diagnostic yield with a concentric R-EBUS view was 25 of 31 (80.6%) versus 14 of 20 (70.0%) with an eccentric view (P = .502). Crossover procedures were performed in five patients; one was diagnostic with thin bronchoscopy and R-EBUS TBNA. In another case, the final cytology from the robotic procedure was positive although the crossover was nondiagnostic; in three cases both were nondiagnostic."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with peripheral pulmonary lesions requiring biopsy, without mediastinal or hilar lymph node disease on CT or PET.",
+      "inclusion_criteria": [
+        "Peripheral pulmonary lesion 10 to 50 mm (1 to 5 cm) in greatest diameter",
+        "No evidence of mediastinal or hilar lymph node disease on CT or PET",
+        "CT available within 2 weeks using 1 to 1.25 mm slices",
+        "Consecutive patients meeting criteria"
+      ],
+      "exclusion_criteria": [
+        "Presence of endobronchial disease on airway inspection",
+        "Lesion accessible by convex probe endobronchial ultrasound",
+        "General contraindications to bronchoscopy under general anesthesia (not explicitly listed)"
+      ]
+    },
+    "intervention": {
+      "text": "Robotic-assisted bronchoscopy (Monarch; Auris Health) with R-EBUS confirmation and TBNA ± transbronchial biopsy",
+      "details": "Under general anesthesia, robotic sheath (6.0 mm OD) and inner scope (4.4 mm OD; 2.1 mm channel) advanced using direct visualization, electromagnetic navigation, and fluoroscopy. R-EBUS used to confirm lesion localization (concentric/eccentric). Three TBNA passes performed with ROSE; if nondiagnostic, three transbronchial biopsies performed. Crossover to conventional guided bronchoscopy permitted if still nondiagnostic."
+    },
+    "comparison": {
+      "text": "None",
+      "details": "Single-arm, noncomparative feasibility study"
+    },
+    "outcomes": [
+      {
+        "name": "Successful lesion localization by R-EBUS",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Incidence of procedure- or device-related adverse events",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Diagnostic yield at 12 months",
+        "type": "exploratory",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Prospective multicenter single-arm feasibility study",
+    "allocation": "nonrandomized",
+    "blinding": "none",
+    "sites_count": 5,
+    "countries": [
+      "US"
+    ],
+    "sample_size": {
+      "planned": 55,
+      "enrolled": 55,
+      "analyzed": 54
+    },
+    "analysis_populations": [
+      {
+        "name": "Full analysis set",
+        "description": "All enrolled participants with any post-baseline data",
+        "n": 54
+      },
+      {
+        "name": "Safety set",
+        "description": "All participants who underwent the robotic bronchoscopy procedure",
+        "n": 54
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "Robotic-assisted bronchoscopy (Monarch; Auris Health)",
+      "n_randomized": 0,
+      "n_analyzed": 54,
+      "n_completed": 54
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "rebus_image_obtained_intraop",
+      "name": "R-EBUS image obtained intra-procedurally",
+      "type": "binary",
+      "outcome_type": "process",
+      "timepoint_iso8601": "PT0H",
+      "timepoint_label": "Intra-procedural",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 53,
+            "total": 54
+          }
+        }
+      ],
+      "comparison": {
+        "measure": "proportion",
+        "est": 0.981,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Safety set (all procedures)",
+        "missing_handling": "Not applicable"
+      },
+      "provenance": {
+        "pages": [
+          848
+        ],
+        "tables": [],
+        "quote": "R-EBUS images were available in 53 of 54 cases."
+      }
+    },
+    {
+      "concept_id": "lesion_localization_rebus_intraop",
+      "name": "Successful lesion localization by R-EBUS",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "PT0H",
+      "timepoint_label": "Intra-procedural",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 51,
+            "total": 53
+          }
+        }
+      ],
+      "comparison": {
+        "measure": "proportion",
+        "est": 0.962,
+        "ci_lower": 0.865,
+        "ci_upper": 0.997,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Exact (Clopper-Pearson) 95% CI for a single proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Per-protocol (cases with R-EBUS imaging available)",
+        "missing_handling": "Excluded cases without R-EBUS imaging"
+      },
+      "provenance": {
+        "pages": [
+          848
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "Lesion localization was confirmed with radial probe endobronchial ultrasound imaging in 51 of 53 patients (96.2%; 95% CI, 86.5-99.7%)."
+      }
+    },
+    {
+      "concept_id": "any_procedure_related_adverse_event",
+      "name": "Any procedure- or device-related adverse event",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Periprocedural",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 2,
+            "total": 54
+          }
+        }
+      ],
+      "comparison": {
+        "measure": "proportion",
+        "est": 0.037,
+        "ci_lower": 0.003,
+        "ci_upper": 0.133,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive proportion with exact 95% CI",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Safety set",
+        "missing_handling": "Not applicable"
+      },
+      "provenance": {
+        "pages": [
+          848
+        ],
+        "tables": [],
+        "quote": "Pneumothorax occurred in two of 54 cases (3.7%; 95% CI, 0.3-13.3%). No other significant adverse events were noted."
+      }
+    },
+    {
+      "concept_id": "diagnostic_yield_12m",
+      "name": "Diagnostic yield at 12 months",
+      "type": "binary",
+      "outcome_type": "exploratory",
+      "timepoint_iso8601": "P12M",
+      "timepoint_label": "12 months",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 40,
+            "total": 54
+          }
+        }
+      ],
+      "comparison": {
+        "measure": "proportion",
+        "est": 0.741,
+        "ci_lower": 0.61,
+        "ci_upper": 0.84,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive proportion with exact 95% CI",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Full analysis set (12-month follow-up; one patient lacked 1-year follow-up)",
+        "missing_handling": "Patients without 12-month follow-up counted as nondiagnostic"
+      },
+      "provenance": {
+        "pages": [
+          848
+        ],
+        "tables": [],
+        "quote": "A diagnosis was obtained in 40 of 54 patients (74.1%; 95% CI, 61-84%)."
+      }
+    },
+    {
+      "concept_id": "diagnostic_yield_concentric_vs_eccentric_12m",
+      "name": "Diagnostic yield by R-EBUS view (concentric vs eccentric)",
+      "type": "binary",
+      "outcome_type": "exploratory",
+      "timepoint_iso8601": "P12M",
+      "timepoint_label": "12 months",
+      "groups": [
+        {
+          "arm_id": "concentric_view",
+          "raw": {
+            "events": 25,
+            "total": 31
+          }
+        },
+        {
+          "arm_id": "eccentric_view",
+          "raw": {
+            "events": 14,
+            "total": 20
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "eccentric_view",
+        "measure": "risk_difference",
+        "est": 0.106,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.502,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Fisher exact test for proportions",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Patients with successful R-EBUS localization and classified view",
+        "missing_handling": "Not applicable"
+      },
+      "provenance": {
+        "pages": [
+          848
+        ],
+        "tables": [],
+        "quote": "The diagnostic yield for peripheral lesions with a concentric view was 80.6% (25/31 lesions; 95% CI, 63.3-91.2%) compared with 70% (14/20 lesions; 95% CI, 47.9-85.7%; P = .502) for eccentric lesions."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 1.152
+        },
+        "odds_ratio": {
+          "est": 1.786
+        },
+        "arr": 0.106,
+        "nnt": 9.4
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Pneumothorax",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Pneumothorax"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "required intervention"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 2,
+          "patients": 2,
+          "percentage": 3.7,
+          "total": 54
+        }
+      ],
+      "period": "Periprocedural (within 2 hours post-procedure radiography)",
+      "management": "Tube thoracostomy required in 1 of 2 cases",
+      "provenance": {
+        "pages": [
+          848
+        ],
+        "tables": [],
+        "quote": "Pneumothorax was reported in two of 54 of the cases (3.7%); tube thoracostomy was required in one of the cases (1.9 %)."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "ROBINS-I",
+    "overall_judgment": "serious",
+    "domains": [
+      {
+        "name": "Confounding",
+        "judgment": "serious",
+        "support_for_judgment": "Single-arm feasibility study without comparator; outcomes susceptible to contextual and operator-related factors."
+      },
+      {
+        "name": "Selection of participants",
+        "judgment": "moderate",
+        "support_for_judgment": "Consecutive patients meeting inclusion/exclusion criteria across 5 centers."
+      },
+      {
+        "name": "Classification of interventions",
+        "judgment": "low",
+        "support_for_judgment": "All participants received the same robotic bronchoscopy intervention per protocol."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "low",
+        "support_for_judgment": "Protocolized procedure; crossover only after nondiagnostic ROSE and recorded separately."
+      },
+      {
+        "name": "Missing data",
+        "judgment": "low",
+        "support_for_judgment": "Only 1 of 55 withdrew consent; 1 patient lacked 12-month follow-up for diagnostic yield."
+      },
+      {
+        "name": "Measurement of outcomes",
+        "judgment": "low",
+        "support_for_judgment": "Objective outcomes (R-EBUS localization, pneumothorax by radiography) with predefined definitions."
+      },
+      {
+        "name": "Selection of reported result",
+        "judgment": "low",
+        "support_for_judgment": "Outcomes and definitions prespecified; results reported with CIs."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "robotic bronchoscopy",
+      "peripheral pulmonary lesions",
+      "radial endobronchial ultrasound",
+      "transbronchial needle aspiration",
+      "Monarch",
+      "Auris Health",
+      "diagnostic yield",
+      "pneumothorax"
+    ],
+    "summary_tldr": "In a 5-center single-arm pilot, robotic bronchoscopy localized lesions in 51/53 (96.2%), had pneumothorax in 2/54 (3.7%; 1 chest tube), and achieved diagnostic yield 40/54 (74.1%) at 12 months.",
+    "clinical_relevance": "Demonstrates feasibility and acceptable safety of robotic bronchoscopy for peripheral lesions with encouraging diagnostic yield; warrants comparative effectiveness trials."
+  }
+}

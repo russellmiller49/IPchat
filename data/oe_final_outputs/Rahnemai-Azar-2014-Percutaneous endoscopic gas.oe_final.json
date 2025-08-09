@@ -1,0 +1,118 @@
+{
+  "source": {
+    "document_id": "Rahnemai-Azar-2014-Percutaneous endoscopic gas",
+    "ingest_date": "2025-08-08T15:03:18.207246+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.3748/wjg.v20.i24.7739"
+  },
+  "document": {
+    "metadata": {
+      "title": "Percutaneous endoscopic gastrostomy: Indications, technique, complications and management",
+      "year": 2014,
+      "authors": [
+        "Ata A Rahnemai-Azar",
+        "Amir A Rahnemaiazar",
+        "Rozhin Naghshizadian",
+        "Amparo Kurtz",
+        "Daniel T Farkas"
+      ],
+      "journal": "World Journal of Gastroenterology",
+      "doi": "10.3748/wjg.v20.i24.7739",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Percutaneous endoscopic gastrostomy (PEG) is the preferred route of feeding and nutritional support in patients with a functional gastrointestinal system who require long-term enteral nutrition. Besides its advantages over parenteral nutrition, PEG offers superior access to the gastrointestinal system over surgical methods. Considering PEG placement is one of the most common endoscopic procedures worldwide, knowing its indications and contraindications is crucial. PEG tubes are sometimes placed inappropriately because of incorrect understanding of their indications. The two main indications are enteral feeding and stomach decompression. Absolute contraindications include distal enteral obstruction, severe uncorrectable coagulopathy, and hemodynamic instability. Although generally safe, PEG can have minor and major complications. Awareness of these complications and routine aftercare can improve quality of care. Complications can be categorized into endoscopic technical difficulties, procedure-related complications, and late complications associated with tube use and wound care. This review describes minor and major tube-related complications, management, and prevention. Different PEG placement methods are described, with the pull technique being most common. Despite complications, PEG has gained worldwide popularity as a safe enteral access for nutrition in patients with a functional gastrointestinal system.",
+      "methods": "Narrative review of the medical literature on percutaneous endoscopic gastrostomy, covering indications, contraindications, techniques, complications, management strategies, and special populations. No systematic search strategy or quantitative synthesis reported.",
+      "results": "Key points summarized include: PEG is preferred for medium- and long-term enteral feeding when the gastrointestinal system is functional. Nasoenteric tubes are suitable for short-term use and have more complications and lower comfort and efficacy than PEG. In a 4-year prospective study of 210 patients, mean weight loss in the 3 months before PEG was 11.35 kg (SD 1.5), and mean weight gain at 12 months after PEG was 3.5 kg (SD 1.7). In advanced dementia, mortality after PEG was 54% at 1 month and 90% at 1 year, and no evidence demonstrates survival or palliative benefit; PEG may increase healthcare utilization. Absolute contraindications include serious coagulopathy (INR > 1.5, PTT > 50 s, platelets < 50000/mm3), hemodynamic instability, sepsis, severe ascites, peritonitis, abdominal wall infection at the selected site, marked peritoneal carcinomatosis, interposed organs, history of total gastrectomy, gastric outlet obstruction or severe gastroparesis when used for feeding, and lack of informed consent. Special considerations address prior abdominal surgery, obesity, pregnancy, ascites, and age/weight limitations."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Patients with inadequate oral intake and a functional gastrointestinal system who may require medium- to long-term enteral nutrition, including those with neurologic disease, head and neck cancer, reduced consciousness, HIV/AIDS, cystic fibrosis, and other conditions.",
+      "inclusion_criteria": [
+        "Inadequate oral intake requiring enteral nutrition",
+        "Functional gastrointestinal tract",
+        "Need for medium- or long-term enteral access"
+      ],
+      "exclusion_criteria": [
+        "Distal enteral obstruction (when used for feeding)",
+        "Severe uncorrectable coagulopathy (INR > 1.5, PTT > 50 s, platelets < 50000/mm3)",
+        "Hemodynamic instability",
+        "Sepsis",
+        "Severe ascites",
+        "Peritonitis",
+        "Abdominal wall infection at intended site",
+        "Marked peritoneal carcinomatosis",
+        "Interposed organs preventing safe tract (e.g., liver, colon)",
+        "History of total gastrectomy",
+        "Severe gastroparesis (when used for feeding)",
+        "Lack of informed consent"
+      ]
+    },
+    "intervention": {
+      "text": "Percutaneous endoscopic gastrostomy (PEG)",
+      "details": "Endoscopic placement of a gastrostomy tube for enteral feeding or gastric decompression; most commonly via the pull technique; typically performed without general anesthesia; aftercare includes site care and monitoring for complications."
+    },
+    "comparison": {
+      "text": "Alternative nutrition or access methods",
+      "details": "Nasoenteric tubes for short-term feeding; surgical gastrostomy (open or laparoscopic); radiologically-inserted gastrostomy; parenteral nutrition."
+    },
+    "outcomes": [
+      {
+        "name": "Procedure-related and late complications of PEG",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Nutritional outcomes (e.g., weight change, serum markers)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Mortality after PEG",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Quality of life",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Narrative review",
+    "allocation": "NA",
+    "blinding": "NA",
+    "sites_count": 0,
+    "countries": [],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": []
+  },
+  "arms": [],
+  "outcomes_normalized": [],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "Not applicable",
+    "overall_judgment": "unclear",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "percutaneous endoscopic gastrostomy",
+      "PEG",
+      "enteral nutrition",
+      "indications",
+      "contraindications",
+      "complications",
+      "gastrostomy"
+    ],
+    "summary_tldr": "Narrative review detailing indications, contraindications, techniques, complications, and management for PEG, emphasizing appropriate patient selection and aftercare.",
+    "clinical_relevance": "Provides practical guidance to optimize PEG use and reduce complications in patients requiring long-term enteral access."
+  }
+}

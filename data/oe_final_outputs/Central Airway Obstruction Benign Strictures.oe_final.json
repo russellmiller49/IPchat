@@ -1,0 +1,104 @@
+{
+  "source": {
+    "document_id": "Central Airway Obstruction Benign Strictures",
+    "ingest_date": "2025-08-08T10:33:05.564829+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1016/j.chest.2016.02.001"
+  },
+  "document": {
+    "metadata": {
+      "title": "Central Airway Obstruction: Benign Strictures, Tracheobronchomalacia, and Malignancy-related Obstruction",
+      "year": 2016,
+      "authors": [
+        "Septimiu Dan Murgu",
+        "Katarine Egressy",
+        "Balaji Laxmanan",
+        "Guillermo Doblare",
+        "Rosamaria Ortiz-Comino",
+        "D. Kyle Hogarth"
+      ],
+      "journal": "Chest",
+      "doi": "10.1016/j.chest.2016.02.001",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "The purpose of this article is to provide an update on methods for palliating symptoms in patients with histologically benign and malignant central airway obstruction. We review the published literature within the past decade on postintubation, posttracheostomy, and TB- and transplant-related airway strictures; tracheobronchomalacia; and malignant airway obstruction. We review terminology, classification systems, and parameters that impact treatment decisions. The focus is on how airway stent insertion fits into the best algorithm of care. Several case series and cohort studies demonstrate that airway stents improve dyspnea, lung function, and quality of life in patients with airway obstruction. Airway stenting, however, is associated with high rates of adverse events and should be used only when curative open surgical interventions are not feasible or are contraindicated.",
+      "methods": "Narrative review with literature search described in e-Appendix 1.",
+      "results": "The review summarizes classification systems and decision-making parameters for central airway obstruction and benign strictures. Across case series and cohort studies, airway stents improved dyspnea, lung function, and quality of life, but were associated with high adverse event rates. Surgical resection is preferred for most benign strictures; stents are generally reserved for inoperable complex strictures and for palliation in malignant obstruction."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with central airway obstruction (benign and malignant), including postintubation and posttracheostomy tracheal stenosis, TB-related and transplant-related strictures, idiopathic subglottic stenosis, and tracheobronchomalacia.",
+      "inclusion_criteria": [
+        "Occlusion > 50% of the trachea, mainstem bronchi, bronchus intermedius, or a lobar bronchus"
+      ],
+      "exclusion_criteria": []
+    },
+    "intervention": {
+      "text": "Airway stent insertion",
+      "details": "Silicone stents typically used for complex benign laryngotracheal stenosis when surgery is not feasible; stents considered for palliation of malignant central airway obstruction; stents generally avoided in simple (< 1 cm) and idiopathic subglottic stenosis."
+    },
+    "comparison": {
+      "text": "Open surgical resection/reconstruction or bronchoscopic dilation without stenting",
+      "details": "Surgical resection preferred for most benign strictures; laser-assisted mechanical dilation for simple strictures."
+    },
+    "outcomes": [
+      {
+        "name": "Dyspnea improvement",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Lung function (spirometry) improvement",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Quality of life improvement",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Adverse events related to airway stenting",
+        "type": "safety",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Narrative review",
+    "allocation": "none",
+    "blinding": "none",
+    "sites_count": 0,
+    "countries": [],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": []
+  },
+  "arms": [],
+  "outcomes_normalized": [],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "NA",
+    "overall_judgment": "na",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "central airway obstruction",
+      "airway stents",
+      "laryngotracheal stenosis",
+      "tracheobronchomalacia",
+      "malignant airway obstruction",
+      "postintubation tracheal stenosis",
+      "posttracheostomy tracheal stenosis"
+    ],
+    "summary_tldr": "Narrative review: airway stents can improve dyspnea, lung function, and quality of life in central airway obstruction but have high adverse event rates; surgery preferred for most benign strictures.",
+    "clinical_relevance": "Provides contemporary classification and management guidance, clarifying when airway stenting should be considered versus surgical or non-stent bronchoscopic approaches."
+  }
+}

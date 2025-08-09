@@ -1,0 +1,104 @@
+{
+  "source": {
+    "document_id": "Roberts-2010-Management of a malignant pleural",
+    "ingest_date": "2025-08-08T15:21:36.150775+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1136/thx.2010.136994"
+  },
+  "document": {
+    "metadata": {
+      "title": "Management of a malignant pleural effusion: British Thoracic Society pleural disease guideline 2010",
+      "year": 2010,
+      "authors": [
+        "Mark E Roberts",
+        "Edmund Neville",
+        "Richard G Berrisford",
+        "George Antunes",
+        "Nabeel J Ali"
+      ],
+      "journal": "Thorax",
+      "doi": "10.1136/thx.2010.136994",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "",
+      "methods": "Guideline development synthesizing evidence on diagnosis and management of malignant pleural effusion (MPE). Recommendations address observation, therapeutic pleural aspiration, intercostal tube drainage with chemical pleurodesis, thoracoscopy with talc poudrage, and indwelling pleural catheters. Technique guidance for talc slurry pleurodesis includes small-bore (10-14 F) tube insertion, controlled drainage, confirmation of lung re-expansion, intrapleural lidocaine (3 mg/kg; max 250 mg) prior to sclerosant, instillation of 4-5 g sterile graded talc in saline, short clamp period, and tube removal within 24-48 h.",
+      "results": "Key statements: Most MPEs are symptomatic; massive effusions are commonly malignant. Therapeutic aspiration alone has high 1‑month recurrence and is not recommended if life expectancy >1 month. Small-bore chest tubes followed by pleurodesis are preferred to repeated aspiration except in very short prognosis. Talc is the most effective sclerosant; graded talc reduces hypoxemia risk; slurry and poudrage are similarly effective. Incomplete pleural apposition reduces pleurodesis success; indwelling pleural catheters are preferred for trapped lung. Pain and fever are the most common post-sclerosant adverse effects; reported pain ranges from 7% with talc to 60% with older agents like doxycycline. Randomized data indicate small- vs large-bore tubes have equivalent efficacy; early pleurodesis once radiographic re-expansion is achieved shortens hospital stay with similar success (~80%)."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with malignant pleural effusion (malignant cells in pleural fluid and/or parietal pleura), often symptomatic with dyspnea; includes various primary malignancies (lung, breast, lymphoma, gastrointestinal, genitourinary, others, and unknown primary).",
+      "inclusion_criteria": [
+        "Malignant pleural effusion confirmed or strongly suspected",
+        "Symptomatic or asymptomatic presentations"
+      ],
+      "exclusion_criteria": [
+        "Non-malignant pleural effusions"
+      ]
+    },
+    "intervention": {
+      "text": "Chemical pleurodesis with sterile graded talc via small-bore intercostal tube",
+      "details": "Insert 10-14 F tube; controlled drainage (limit 1.5 L initially, repeat as needed every 2 h); confirm lung re-expansion; premedicate and instill intrapleural lidocaine 3 mg/kg (max 250 mg); instill 4-5 g graded talc in 50 ml saline; clamp 1-2 h; remove tube within 24-48 h."
+    },
+    "comparison": {
+      "text": "Alternative management strategies",
+      "details": "Repeated therapeutic aspiration alone; large-bore chest tubes; thoracoscopy with talc poudrage; indwelling pleural catheter for trapped lung."
+    },
+    "outcomes": [
+      {
+        "name": "Pleurodesis success (no reaccumulation requiring intervention)",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Recurrence at 1 month after aspiration alone",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Adverse events (pain, fever, hypoxemia, re-expansion pulmonary edema)",
+        "type": "safety",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Guideline",
+    "allocation": "none",
+    "blinding": "none",
+    "sites_count": null,
+    "countries": [
+      "UK"
+    ],
+    "sample_size": {
+      "planned": null,
+      "enrolled": null,
+      "analyzed": null
+    },
+    "analysis_populations": []
+  },
+  "arms": [],
+  "outcomes_normalized": [],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "N/A",
+    "overall_judgment": "not_applicable",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "malignant pleural effusion",
+      "talc pleurodesis",
+      "graded talc",
+      "small-bore chest tube",
+      "thoracoscopy",
+      "indwelling pleural catheter",
+      "trapped lung",
+      "pleural aspiration"
+    ],
+    "summary_tldr": "BTS 2010 guideline recommends graded talc pleurodesis via small-bore chest tube for most symptomatic malignant pleural effusions; avoid aspiration alone if prognosis >1 month and consider indwelling pleural catheter for trapped lung.",
+    "clinical_relevance": "Provides standardized, evidence-based management pathways for malignant pleural effusion, emphasizing effective pleurodesis practices, safety considerations, and selection of candidates for indwelling pleural catheters."
+  }
+}

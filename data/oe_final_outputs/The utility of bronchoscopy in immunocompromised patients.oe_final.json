@@ -1,0 +1,285 @@
+{
+  "source": {
+    "document_id": "The utility of bronchoscopy in immunocompromised patients",
+    "ingest_date": "2025-08-08T16:25:32.556726+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.21037/jtd.2019.09.72"
+  },
+  "document": {
+    "metadata": {
+      "title": "The utility of bronchoscopy in immunocompromised patients: a review",
+      "year": 2019,
+      "authors": [
+        "Christopher Morton",
+        "Jonathan Puchalski"
+      ],
+      "journal": "Journal of Thoracic Disease",
+      "doi": "10.21037/jtd.2019.09.72",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Bronchoscopy is an important tool for the diagnosis of pulmonary disorders in immunocompromised patients. The addition of biopsies to bronchoalveolar lavage improves the diagnostic yield of non-infectious etiologies, although the underlying etiology of the immunocompromised state must be considered and may be influential. Certain unknowns remain, including timing of bronchoscopy and its impact on medical management and mortality. The ongoing role of non-invasive testing for infectious complications prior to bronchoscopy also remains to be defined. This review addresses the role of bronchoscopy in immunocompromised states related to underlying hematologic malignancies, prescription drug use or chemotherapy, and other disorders that predispose patients to infectious or non-infectious pulmonary diseases.",
+      "methods": "Narrative review of the literature on bronchoscopy in immunocompromised patients; methods for literature identification and selection were not systematically described in the article.",
+      "results": "Across immunocompromised populations (solid organ transplant, hematopoietic stem cell transplant, hematologic malignancy/neutropenia, HIV, medication- or chemotherapy-induced immunosuppression, and primary immunodeficiency), bronchoscopy diagnostic yields generally range from approximately 27% to 70%. Addition of transbronchial biopsy (TBB) to bronchoalveolar lavage (BAL) improves yield for non-infectious etiologies but may increase complications. Early bronchoscopy (within 24 hours) after presentation is associated with higher diagnostic yield than later procedures in HSCT cohorts. In a large multinational observational ICU cohort (n=1,611) of immunocompromised patients with acute respiratory failure, bronchoscopy (n=618) achieved an adjusted diagnostic yield of 27% (165/618) and therapeutic yield of 38% (236/618), but was associated with worsening respiratory status in 11% (69/618), higher ICU mortality (40% vs. 28%, p<0.0001) and hospital mortality (49% vs. 41%, p=0.003) compared with non-invasive testing. Management changes after bronchoscopy vary widely (approximately 20%-70%) across studies and settings. In HIV, BAL yields for bacterial infection can be as high as 96% (higher if performed before antibiotics), and PJP detection on BAL is 96%-98% without additional benefit from TBB. Complications of bronchoscopy may occur in up to 50% of patients in some series."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Immunocompromised patients with suspected pulmonary complications (infectious and non-infectious).",
+      "inclusion_criteria": [
+        "HIV infection with CD4 T-lymphocyte count <200 cells/mm3",
+        "Recipients of chemotherapy",
+        "Prednisone (or equivalent) ≥20 mg daily for ≥14 days",
+        "Use of biologic immune modulator therapy (e.g., rituximab, TNF-alpha blockers)",
+        "Solid organ transplant recipients",
+        "Hematopoietic stem cell transplant recipients",
+        "Hematologic malignancy and/or neutropenia",
+        "Primary immunodeficiency disorders (e.g., immunoglobulin/complement deficiencies, phagocytic cell defects, DiGeorge syndrome, Wiskott-Aldrich, SCID)"
+      ],
+      "exclusion_criteria": [
+        "Not explicitly specified in the review"
+      ]
+    },
+    "intervention": {
+      "text": "Bronchoscopy",
+      "details": "Diagnostic bronchoscopy including bronchoalveolar lavage (BAL); optional transbronchial biopsy (TBB), endobronchial ultrasound (EBUS), mucosal brushing; timing considerations (early vs. late after presentation)."
+    },
+    "comparison": {
+      "text": "Non-invasive testing or alternative diagnostic strategies",
+      "details": "Non-invasive microbiologic testing; imaging-guided percutaneous biopsy for peripheral lesions; timing of bronchoscopy (early vs. delayed)."
+    },
+    "outcomes": [
+      {
+        "name": "Diagnostic yield of bronchoscopy",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Therapeutic yield (management change) after bronchoscopy",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Complications and safety (e.g., worsening respiratory status)",
+        "type": "safety",
+        "umls_cui": ""
+      },
+      {
+        "name": "Mortality (ICU, hospital) associated with diagnostic strategy",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Narrative review",
+    "allocation": "none",
+    "blinding": "none",
+    "sites_count": 0,
+    "countries": [],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": []
+  },
+  "arms": [
+    {
+      "arm_id": "bronchoscopy",
+      "name": "Bronchoscopy cohort (ICU observational study subset)",
+      "n_randomized": 618,
+      "n_analyzed": 618,
+      "n_completed": 0
+    },
+    {
+      "arm_id": "non_invasive",
+      "name": "Non-invasive testing cohort (ICU observational study subset)",
+      "n_randomized": 993,
+      "n_analyzed": 993,
+      "n_completed": 0
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "adjusted_diagnostic_yield_bronchoscopy_icu",
+      "name": "Adjusted diagnostic yield of bronchoscopy (ICU immunocompromised cohort)",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Index ICU evaluation",
+      "groups": [
+        {
+          "arm_id": "bronchoscopy",
+          "raw": {
+            "events": 165,
+            "total": 618
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": "proportion",
+        "est": 0.267,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": true
+      },
+      "analysis": {
+        "model": "Descriptive proportion (adjusted diagnostic classification in original cohort study)",
+        "adjusted": true,
+        "covariates": [],
+        "population": "Immunocompromised ICU patients undergoing bronchoscopy",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          5605
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "Bronchoscopy alone achieved a diagnosis in 165 patients (27% adjusted diagnostic yield)..."
+      }
+    },
+    {
+      "concept_id": "therapeutic_yield_bronchoscopy_icu",
+      "name": "Therapeutic yield (management change) of bronchoscopy (ICU immunocompromised cohort)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Index ICU evaluation",
+      "groups": [
+        {
+          "arm_id": "bronchoscopy",
+          "raw": {
+            "events": 236,
+            "total": 618
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": "proportion",
+        "est": 0.382,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": true
+      },
+      "analysis": {
+        "model": "Descriptive proportion (adjusted therapeutic yield in original cohort study)",
+        "adjusted": true,
+        "covariates": [],
+        "population": "Immunocompromised ICU patients undergoing bronchoscopy",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          5605
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "...and in management change in 236 patients (38% therapeutic yield)."
+      }
+    },
+    {
+      "concept_id": "worsening_respiratory_status_post_bronchoscopy_icu",
+      "name": "Worsening respiratory status after bronchoscopy (ICU immunocompromised cohort)",
+      "type": "binary",
+      "outcome_type": "safety",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Periprocedural/ICU course",
+      "groups": [
+        {
+          "arm_id": "bronchoscopy",
+          "raw": {
+            "events": 69,
+            "total": 618
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": "proportion",
+        "est": 0.111,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Immunocompromised ICU patients undergoing bronchoscopy",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          5605
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "However, it was associated with worsening respiratory status in 69 (11%)..."
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Worsening respiratory status",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Respiratory distress"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "other medically important condition"
+      ],
+      "groups": [
+        {
+          "arm_id": "bronchoscopy",
+          "events": 69,
+          "patients": 69,
+          "percentage": 11,
+          "total": 618
+        }
+      ],
+      "period": "During ICU stay following bronchoscopy",
+      "management": "",
+      "provenance": {
+        "pages": [
+          5605
+        ],
+        "tables": [],
+        "quote": "However, it was associated with worsening respiratory status in 69 (11%)..."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "Not applicable (narrative review)",
+    "overall_judgment": "not_applicable",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "bronchoscopy",
+      "immunocompromised",
+      "bronchoalveolar lavage",
+      "transbronchial biopsy",
+      "hematopoietic stem cell transplant",
+      "HIV",
+      "neutropenia",
+      "solid organ transplant"
+    ],
+    "summary_tldr": "In immunocompromised patients, bronchoscopy yields up to ~70% across settings; early bronchoscopy improves yield, and in a large ICU cohort it provided 27% diagnostic and 38% therapeutic yield but was associated with 11% worsening respiratory status and higher mortality versus non-invasive strategies.",
+    "clinical_relevance": "Findings guide when and how to use bronchoscopy (BAL ± TBB/EBUS) in diverse immunocompromised populations, balancing diagnostic benefit against complication risk."
+  }
+}

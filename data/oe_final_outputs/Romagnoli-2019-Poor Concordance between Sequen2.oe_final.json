@@ -1,0 +1,333 @@
+{
+  "source": {
+    "document_id": "Romagnoli-2019-Poor Concordance between Sequen2",
+    "ingest_date": "2025-08-08T15:26:08.435473+00:00",
+    "trial_registration_id": "NCT02763540",
+    "pmid": "",
+    "doi": "10.1164/rccm.201810-1947OC"
+  },
+  "document": {
+    "metadata": {
+      "title": "Poor Concordance between Sequential Transbronchial Lung Cryobiopsy and Surgical Lung Biopsy in the Diagnosis of Diffuse Interstitial Lung Diseases",
+      "year": 2019,
+      "authors": [
+        "Micaela Romagnoli",
+        "Thomas V. Colby",
+        "Jean-Philippe Berthet",
+        "Anne Sophie Gamez",
+        "Jean-Pierre Mallet",
+        "Isabelle Serre",
+        "Alessandra Cancellieri",
+        "Alberto Cavazza",
+        "Laurence Solovei",
+        "Andrea Dell'Amore",
+        "Giampiero Dolci",
+        "Aldo Guerrieri",
+        "Paul Reynaud",
+        "Sebastien Bommart",
+        "Maurizio Zompatori",
+        "Giorgia Dalpiaz",
+        "Stefano Nava",
+        "Rocco Trisolini",
+        "Carey M. Suehs",
+        "Isabelle Vachier",
+        "Nicolas Molinari",
+        "Arnaud Bourdin"
+      ],
+      "journal": "American Journal of Respiratory and Critical Care Medicine",
+      "doi": "10.1164/rccm.201810-1947OC",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Rationale: The diagnostic concordance between transbronchial lung cryobiopsy (TBLC) versus surgical lung biopsy (SLB) as the current gold standard in interstitial lung disease (ILD) cases requiring histology remains controversial. Objectives: To assess diagnostic concordance between TBLC and SLB sequentially performed in the same patients, the diagnostic yield of both techniques, and subsequent changes in multidisciplinary assessment (MDA) decisions. Methods: A two-center prospective study included patients with ILD with a nondefinite usual interstitial pneumonia pattern on high-resolution computed tomography (HRCT) confirmed at a first MDA. Patients underwent TBLC immediately followed by video-assisted thoracoscopy for SLB at the same anatomical locations. After open reading of both sample types by local pathologists and final diagnosis at a second MDA (MDA2), anonymized TBLC and SLB slides were blindly assessed by an external expert pathologist. Kappa-concordance coefficients and percentage agreement were computed for TBLC versus SLB, MDA2 versus TBLC, MDA2 versus SLB, and blinded pathology versus routine pathology. Measurements and Main Results: Twenty-one patients were included. The median TBLC biopsy size (longest axis) was 7 mm (interquartile range, 5-8 mm). SLB biopsy sizes averaged 46.1 ± 13.8 mm. Concordance coefficients and percentage agreement were: TBLC versus SLB: κ = 0.22 (95% CI, 0.01-0.44), percentage agreement = 38% (95% CI, 18-62%); MDA2 versus TBLC: κ = 0.31 (95% CI, 0.06-0.56), percentage agreement = 48% (95% CI, 26-70%); MDA2 versus SLB: κ = 0.51 (95% CI, 0.27-0.75), percentage agreement = 62% (95% CI, 38-82%). Two pneumothoraces (9.5%) were recorded during TBLC. TBLC would have led to a different treatment if SLB was not performed in 11 of 21 (52%) cases. Conclusions: Pathological results from TBLC and SLB were poorly concordant in the assessment of ILD. SLBs were more frequently concordant with the final diagnosis retained at MDA.",
+      "methods": "Prospective two-center study (Montpellier, France; Bologna, Italy). Adults with ILD and nondefinite UIP pattern on HRCT at initial MDA (MDA1) and histology indicated underwent sequential TBLC under rigid bronchoscopy and deep sedation, followed immediately by video-assisted thoracoscopic surgery (VATS) SLB under general anesthesia, targeting the same lobes/segments. Inclusion required FVC > 50% predicted, DLCO > 35% predicted, and echocardiographic systolic pulmonary artery pressure < 40 mm Hg. Exclusions: coagulopathy (platelets < 70,000×10^9/L; INR > 1.5), FEV1 < 1 L, diffuse bullous disease on HRCT, hemodynamic instability, severe hypoxemia (PaO2 55 mm Hg on room air), and other specified reasons at screening. Local pathologists rendered routine diagnoses (unblinded to sample type), followed by a second MDA (MDA2) for final diagnosis and management. Subsequently, an external expert pathologist, blinded to clinical data and sample pairing, reviewed anonymized TBLC and SLB slides. Kappa and percentage agreement were computed for TBLC vs SLB and for each modality vs MDA2. Statistical analyses used R; paired t test or Wilcoxon for quantitative comparisons; kappa with 95% CIs and percent agreement reported.",
+      "results": "Sixty-two patients were screened; 21 were included and underwent both TBLC and SLB. A total of 97 cryobiopsies (median 5 per patient; median longest axis 7 mm [IQR 5-8 mm]) and 42 surgical lung biopsies (mean size 46.1 ± 13.8 mm) were obtained, generally from two different lobes in the same session. Blinded expert pathology showed TBLC and SLB were fully concordant in 8 of 21 cases (38%; 95% CI 18-62%), with κ = 0.22 (95% CI 0.01-0.44). TBLC was nondiagnostic in 4 of 21 cases (19%); SLB was diagnostic in all 21 of 21 cases (100%). Agreement with final MDA2 diagnosis was 48% for TBLC (10 of 21; κ = 0.31; 95% CI 0.06-0.56) and 62% for SLB (13 of 21; κ = 0.51; 95% CI 0.27-0.75). TBLC alone would have led to a different treatment in 11 of 21 patients (52%) if SLB had not been performed. Procedure durations were similar (TBLC 33.29 ± 8.22 minutes vs SLB 34.57 ± 15.65 minutes; paired t test p = 0.737). Two pneumothoraces (9.5%) occurred during TBLC; no additional serious complications were detailed."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with interstitial lung disease, nondefinite UIP pattern on HRCT, requiring histology per MDA1 at two tertiary centers.",
+      "inclusion_criteria": [
+        "Adult patients with ILD",
+        "Nondefinite UIP pattern on HRCT at MDA1",
+        "Histology indicated by MDA1",
+        "FVC > 50% predicted",
+        "DLCO > 35% predicted",
+        "Echocardiographic systolic pulmonary artery pressure < 40 mm Hg"
+      ],
+      "exclusion_criteria": [
+        "Coagulopathy (platelet count < 70000 × 10^9/L or INR > 1.5)",
+        "FEV1 < 1 L",
+        "Diffuse bullous disease on HRCT",
+        "Hemodynamic instability",
+        "Severe hypoxemia (PaO2 55 mm Hg on room air)",
+        "Definite UIP pattern (no biopsy needed)",
+        "Severe DLCO reduction/inoperable",
+        "Severe comorbidities/inoperable",
+        "Connective tissue disease-related ILD",
+        "Other screening failures (e.g., technical or consent issues)"
+      ]
+    },
+    "intervention": {
+      "text": "Transbronchial lung cryobiopsy (TBLC)",
+      "details": "Performed under rigid bronchoscopy with deep sedation; multiple cryobiopsies (aiming for two different lobes and different segments) targeting HRCT abnormalities; immediate sequential procedure before SLB in the same session."
+    },
+    "comparison": {
+      "text": "Surgical lung biopsy (SLB) via video-assisted thoracoscopic surgery (VATS)",
+      "details": "Performed under general anesthesia targeting the same lobes/segments as TBLC; two SLB samples per patient."
+    },
+    "outcomes": [
+      {
+        "name": "Diagnostic concordance between TBLC and SLB (and each vs MDA2) with diagnostic yield and impact on management",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Procedure-related adverse events (e.g., pneumothorax) during TBLC and SLB",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Prospective diagnostic agreement study",
+    "allocation": "nonrandomized",
+    "blinding": "External expert pathology review blinded to sample type pairing and clinical data; routine pathology unblinded",
+    "sites_count": 2,
+    "countries": [
+      "France",
+      "Italy"
+    ],
+    "sample_size": {
+      "planned": 21,
+      "enrolled": 21,
+      "analyzed": 21
+    },
+    "analysis_populations": [
+      {
+        "name": "All included",
+        "description": "All patients undergoing both TBLC and SLB with pathology review",
+        "n": 21
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "Transbronchial lung cryobiopsy (TBLC)",
+      "n_randomized": 21,
+      "n_analyzed": 21,
+      "n_completed": 21
+    },
+    {
+      "arm_id": "control",
+      "name": "Surgical lung biopsy (SLB)",
+      "n_randomized": 21,
+      "n_analyzed": 21,
+      "n_completed": 21
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "diagnostic_yield_histology",
+      "name": "Diagnostic histology yield",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Intra-procedural",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 17,
+            "total": 21
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 21,
+            "total": 21
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": -0.19,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive (proportions)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All included",
+        "missing_handling": "Not applicable"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "table_number": null,
+        "quote": "TBLC was not diagnostic for 4 of 21 cases (19%), whereas SLB was diagnostic in all cases."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.81
+        },
+        "arr": -0.19,
+        "nnh": 5.2
+      }
+    },
+    {
+      "concept_id": "agreement_with_mda2",
+      "name": "Concordance with final MDA2 diagnosis",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "At MDA2",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 10,
+            "total": 21
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 13,
+            "total": 21
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": -0.143,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Agreement analysis (kappa and percent agreement reported in text)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All included",
+        "missing_handling": "Not applicable"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "table_number": null,
+        "quote": "MDA2 versus TBLC: κ = 0.31 (95% CI, 0.06-0.56), percentage agreement = 48% (95% CI, 26-70%); MDA2 versus SLB: κ = 0.51 (95% CI, 0.27-0.75), percentage agreement = 62% (95% CI, 38-82%)."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.769
+        },
+        "odds_ratio": {
+          "est": 0.559
+        },
+        "arr": -0.143,
+        "nnh": 7.0
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Pneumothorax",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Pneumothorax"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "other medically important condition"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 2,
+          "patients": 2,
+          "percentage": 9.5,
+          "total": 21
+        },
+        {
+          "arm_id": "control",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 21
+        }
+      ],
+      "period": "Peri-procedural",
+      "management": "Not reported",
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "Two pneumothoraces (9.5%) were recorded during TBLC."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "ROBINS-I",
+    "overall_judgment": "moderate",
+    "domains": [
+      {
+        "name": "Confounding",
+        "judgment": "moderate",
+        "support_for_judgment": "Within-subject paired design without randomization; potential interpretive differences between pathology modalities."
+      },
+      {
+        "name": "Selection of participants",
+        "judgment": "low",
+        "support_for_judgment": "Consecutive eligible patients with predefined inclusion/exclusion criteria at two centers."
+      },
+      {
+        "name": "Classification of interventions",
+        "judgment": "low",
+        "support_for_judgment": "Procedures clearly defined and performed sequentially in the same session."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "low",
+        "support_for_judgment": "Sequential protocol followed; minor deviations in number of lobes sampled in 2 cases explained."
+      },
+      {
+        "name": "Missing data",
+        "judgment": "low",
+        "support_for_judgment": "All 21 included patients underwent both procedures and were analyzed."
+      },
+      {
+        "name": "Measurement of outcomes",
+        "judgment": "moderate",
+        "support_for_judgment": "Routine pathology unblinded; external expert pathology blinded mitigates bias but outcomes partly depend on subjective interpretation."
+      },
+      {
+        "name": "Selection of reported results",
+        "judgment": "low",
+        "support_for_judgment": "Pre-specified analyses (agreement metrics) reported with CIs."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "transbronchial lung cryobiopsy",
+      "surgical lung biopsy",
+      "interstitial lung disease",
+      "diagnostic concordance",
+      "multidisciplinary assessment"
+    ],
+    "summary_tldr": "In 21 ILD patients, TBLC and SLB showed poor diagnostic concordance (38%; κ 0.22). SLB agreed more often with the final multidisciplinary diagnosis (62% vs 48%).",
+    "clinical_relevance": "Findings caution against relying on TBLC alone as a substitute for SLB in ILD cases requiring histology, given lower concordance with final MDA diagnoses and a 19% nondiagnostic rate."
+  }
+}

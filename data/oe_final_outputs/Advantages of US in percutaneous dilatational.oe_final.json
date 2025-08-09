@@ -1,0 +1,317 @@
+{
+  "source": {
+    "document_id": "Advantages of US in percutaneous dilatational",
+    "ingest_date": "2025-08-08T09:33:12.884307+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1148/radiol.14140088"
+  },
+  "document": {
+    "metadata": {
+      "title": "Advantages of US in Percutaneous Dilatational Tracheostomy: Randomized Controlled Trial and Review of the Literature",
+      "year": 2014,
+      "authors": [
+        "Alpaslan Yavuz",
+        "Murat Yılmaz",
+        "Cemil Göya",
+        "Emel Alimoglu",
+        "Adnan Kabaalioglu"
+      ],
+      "journal": "Radiology",
+      "doi": "10.1148/radiol.14140088",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Purpose: To compare procedure times and complication rates of preincisional ultrasonographic (US) evaluation and perioperative US guidance in percutaneous dilatational tracheostomy (PDT) with those of standard PDT performed without image guidance. Materials and Methods: Between December 2007 and January 2011, 341 critically ill ICU patients were randomized to US-assisted PDT (group A, n=166) or standard landmark-based PDT (group B, n=175). In group A, US identified anatomic aberrations and provided measurements; PDT was then performed with US guidance in suitable cases. Group B underwent PDT using physical landmarks only. Fisher exact tests compared proportions. Results: In group A, the initially planned puncture site based on physical exam was reconsidered after US in 39/164 (23.8%). Perioperative complication rates were 12/154 (7.8%) in group A vs 25/167 (15.0%) in group B (P = .054). Mean procedure times were 24.09±8.05 minutes (range, 14-68) in group A vs 18.62±6.34 (range, 12-81) in group B (P = .001). Multiple puncture attempts were required in 6/154 (3.9%) vs 23/169 (13.6%), respectively (P = .003). Conclusion: US guidance before and during PDT may render the procedure easier and safer, with fewer complications but slightly longer procedure time.",
+      "methods": "Prospective randomized controlled trial at a single tertiary center ICU (Dicle University Hospital). Adults requiring PDT were randomized prior to neck examination to US-assisted PDT (group A) or standard landmark-guided PDT (group B). Exclusions: pediatric age 0-16 years, high/unstable intracranial pressure, severe coagulation disorders, and evident cervical spine precautions. In group A, a radiologist performed preoperative neck US to assess tracheal, thyroidal, and vascular anatomy and measure tracheal dimensions; clinicians were initially blinded to US findings during their physical exam. If PDT proceeded, seeking needle puncture and guidewire insertion were performed under real-time US guidance with attention to midline puncture, depth-limited needle advancement based on measured tracheal depth, and confirmation of caudal guidewire direction. Tube size selection in group A was based on US-measured tracheal diameter; extended-length tubes were used for deep-set tracheas. Group B underwent standard landmark-based PDT with sex-based tube sizing (men 7-8 mm internal diameter; women 7 mm). All PDTs used the Griggs guidewire dilating forceps method. Monitoring included BP, pulse oximetry, and ECG; sedation with propofol and fentanyl-vecuronium. Procedure time was measured from preoperative evaluation (US in group A, physical exam in group B) until PDT completion or decision to refer for surgical tracheostomy. Perioperative (within 24 h) complications recorded: minor bleeding, major bleeding, transient oxygen desaturation, cuff perforation, cranial guidewire migration. Fisher exact test compared proportions; Student t test compared means; P<.05 significant.",
+      "results": "A total of 341 patients were randomized (group A n=166; group B n=175); age and sex distributions were similar. Short necks were present in 40/164 (24.4%) in group A and 45/175 (25.7%) in group B (P = .80). In group A, preoperative US could not quantify tracheal measures in 5 patients (subcutaneous emphysema n=2; extremely short neck n=3). US revealed conditions necessitating precaution in 38/164 (23.2%). US prompted reconsideration of the clinician’s initial puncture site in 39/164 (23.8%). Perioperative complication rates: 12/154 (7.8%) in group A vs 25/167 (15.0%) in group B (P = .054). Mean procedure time: 24.09±8.05 minutes in group A vs 18.62±6.34 minutes in group B (P = .001). Multiple puncture attempts: 6/154 (3.9%) group A vs 23/169 (13.6%) group B (P = .003)."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Critically ill adult ICU patients requiring percutaneous dilatational tracheostomy",
+      "inclusion_criteria": [
+        "Adults requiring percutaneous dilatational tracheostomy",
+        "ICU setting"
+      ],
+      "exclusion_criteria": [
+        "Age 0-16 years",
+        "High or unstable intracranial pressure",
+        "Severe coagulation disorders",
+        "Evident cervical spine precautions"
+      ]
+    },
+    "intervention": {
+      "text": "Ultrasonography-assisted percutaneous dilatational tracheostomy (US-guided PDT)",
+      "details": "Preincisional neck ultrasonography to assess tracheal, thyroidal, and vascular anatomy; measurement of tracheal diameter, depth, and inter-ring gap; real-time US guidance for midline puncture and depth-limited needle advancement; US confirmation of caudal guidewire direction; endotracheal tube position/cuff confirmed by US; tracheostomy tube size selected based on US-measured tracheal diameter; extended-length tubes for deep-set tracheas"
+    },
+    "comparison": {
+      "text": "Standard landmark-guided percutaneous dilatational tracheostomy",
+      "details": "PDT performed without peri- or preoperative imaging; puncture site determined by physical landmarks; tracheostomy tube size based on sex (men 7-8 mm ID, women 7 mm ID)"
+    },
+    "outcomes": [
+      {
+        "name": "Perioperative complications within 24 hours",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Procedure time",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Requirement for multiple puncture attempts",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "RCT",
+    "allocation": "randomized",
+    "blinding": "none",
+    "sites_count": 1,
+    "countries": [
+      "Turkey"
+    ],
+    "sample_size": {
+      "planned": 341,
+      "enrolled": 341,
+      "analyzed": 321
+    },
+    "analysis_populations": [
+      {
+        "name": "ITT",
+        "description": "All randomized patients",
+        "n": 341
+      },
+      {
+        "name": "PDT-attempted",
+        "description": "Patients in whom PDT was attempted and included in perioperative complication analysis",
+        "n": 321
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "US-guided percutaneous dilatational tracheostomy",
+      "n_randomized": 166,
+      "n_analyzed": 154,
+      "n_completed": 154
+    },
+    {
+      "arm_id": "control",
+      "name": "Standard landmark-guided PDT",
+      "n_randomized": 175,
+      "n_analyzed": 167,
+      "n_completed": 167
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "periop_complication_24h",
+      "name": "Perioperative complications within 24 hours",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P1D",
+      "timepoint_label": "24 hours",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 12,
+            "total": 154
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 25,
+            "total": 167
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": -0.0718,
+        "p_value": 0.054,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Fisher exact test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "PDT-attempted",
+        "missing_handling": "Listwise (excluded if PDT not attempted)"
+      },
+      "provenance": {
+        "pages": [
+          928
+        ],
+        "tables": [],
+        "quote": "The perioperative complication rates were slightly lower in group A (7.8% [12 of 154]) than in group B (15.0% [25 of 167]); however, the difference did not achieve statistical significance (P = .054)."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.521
+        },
+        "odds_ratio": {
+          "est": 0.48
+        },
+        "arr": -0.072,
+        "nnh": 13.9
+      }
+    },
+    {
+      "concept_id": "multiple_puncture_attempts_intraop",
+      "name": "Multiple puncture attempts required",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "PT0H",
+      "timepoint_label": "Intraoperative",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 6,
+            "total": 154
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 23,
+            "total": 169
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": -0.0802,
+        "p_value": 0.003,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Fisher exact test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "PDT-attempted",
+        "missing_handling": "Listwise"
+      },
+      "provenance": {
+        "pages": [
+          928
+        ],
+        "tables": [],
+        "quote": "The numbers of patients in each group who required multiple puncture attempts were six (3.9%) of 154 and 23 (13.6%) of 169 (P = .003), respectively."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.286
+        },
+        "odds_ratio": {
+          "est": 0.257
+        },
+        "arr": -0.097,
+        "nnh": 10.3
+      }
+    },
+    {
+      "concept_id": "procedure_time_minutes",
+      "name": "Procedure time",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "PT0H",
+      "unit": "min",
+      "unit_canonical": "minute",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": 24.09,
+            "sd": 8.05,
+            "total": 166
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "mean": 18.62,
+            "sd": 6.34,
+            "total": 175
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "mean_difference",
+        "est": 5.47,
+        "p_value": 0.001,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Student t test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All randomized (time measured from preoperative evaluation)"
+      },
+      "provenance": {
+        "pages": [
+          928
+        ],
+        "tables": [],
+        "quote": "The mean procedure times for groups A and B were 24.09 minutes ± 8.05 (range, 14-68 minutes) and 18.62 minutes ± 6.34 (range, 12-81 minutes), respectively (P = .001)."
+      }
+    }
+  ],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "RoB 2",
+    "overall_judgment": "some concerns",
+    "domains": [
+      {
+        "name": "Randomization process",
+        "judgment": "some concerns",
+        "support_for_judgment": "Random allocation reported; allocation concealment not described."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "some concerns",
+        "support_for_judgment": "Open-label procedural differences; operator not blinded during US-guided procedures."
+      },
+      {
+        "name": "Missing outcome data",
+        "judgment": "low",
+        "support_for_judgment": "Perioperative complication analysis included most treated patients (154 vs 167), with clear denominators."
+      },
+      {
+        "name": "Measurement of the outcome",
+        "judgment": "low",
+        "support_for_judgment": "Objective perioperative complications and timed procedures."
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "low",
+        "support_for_judgment": "Predefined endpoints (complications, time, puncture attempts) reported with denominators and P values."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "percutaneous dilatational tracheostomy",
+      "ultrasonography",
+      "intensive care unit",
+      "procedure time",
+      "perioperative complications"
+    ],
+    "summary_tldr": "US-guided PDT lengthened procedure time but reduced multiple puncture attempts and showed a nonsignificant reduction in perioperative complications.",
+    "clinical_relevance": "Bedside ultrasonography can optimize puncture site selection, guidewire trajectory, and tube sizing in PDT, potentially improving safety in challenging neck anatomy."
+  }
+}

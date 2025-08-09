@@ -1,0 +1,631 @@
+{
+  "source": {
+    "document_id": "complications_of_bronchoscopy__a_concise_synopsis",
+    "ingest_date": "2025-08-08T10:55:02.608230+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.4103/2229-5151.164995"
+  },
+  "document": {
+    "metadata": {
+      "title": "Complications of bronchoscopy: A concise synopsis",
+      "year": 2015,
+      "authors": [
+        "David L Stahl",
+        "Kathleen M Richard",
+        "Thomas J Papadimos"
+      ],
+      "journal": "International Journal of Critical Illness and Injury Science",
+      "doi": "10.4103/2229-5151.164995",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Flexible and rigid bronchoscopes are used in diagnosis, therapeutics, and palliation. While their use is widespread, effective, and generally safe; there are numerous potential complications that can occur. Mechanical complications of bronchoscopy are primarily related to airway manipulations or bleeding. Systemic complications arise from the procedure itself, medication administration (primarily sedation), or patient comorbidities. Attributable mortality rates remain low at < 0.1% for fiberoptic and rigid bronchoscopy. Here we review the complications (classified as mechanical or systemic) of both rigid and flexible bronchoscopy in hope of making practitioners who are operators of these tools, and those who consult others for interventions, aware of potential problems, and pitfalls in order to enhance patient safety and comfort.",
+      "methods": "Narrative review of historical and contemporary literature on complications of flexible (fiberoptic) and rigid bronchoscopy, including questionnaire-based cross-sectional surveys, prospective observational series, and retrospective cohort reviews. No formal meta-analysis was performed.",
+      "results": "Reported complication rates for flexible bronchoscopy vary widely by era and study design but are generally low. A 1970s survey of 1,041 physicians reported 12 deaths in 48,000 cases, 52 life‑threatening airway complications (most commonly bronchospasm), and four instances of bronchial brush breakage (at least one requiring thoracotomy). Prospective and retrospective series report low infectious and hemorrhagic events: pneumonia occurred in 2 of 24,521 procedures in one series and in 5 of 908 procedures across 13 hospitals; bleeding occurred in 6 of 908 procedures in one prospective series, and pulmonary hemorrhage >50 mL occurred in 5 of 4,273 procedures in a large academic center; a single unrelated epistaxis event was reported (1 of 4,273). Reported pneumothorax rates range from 0.07-0.16% and respiratory failure from 0.2-0.31% in more recent studies, though absolute counts were not provided. Systemic complications have decreased over time with improved monitoring and sedation practices."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Patients undergoing flexible (fiberoptic) or rigid bronchoscopy in inpatient, ICU, and bronchoscopy suite settings.",
+      "inclusion_criteria": [
+        "Patients undergoing diagnostic or therapeutic bronchoscopy"
+      ],
+      "exclusion_criteria": [
+        "Not specified in narrative review"
+      ]
+    },
+    "intervention": {
+      "text": "Flexible (fiberoptic) bronchoscopy and rigid bronchoscopy",
+      "details": "Diagnostic and therapeutic bronchoscopy procedures including airway inspection, biopsy, secretion removal, hemostasis, and interventional techniques."
+    },
+    "comparison": {
+      "text": "None (descriptive review)",
+      "details": "No control group; multiple historical cohorts summarized."
+    },
+    "outcomes": [
+      {
+        "name": "Procedure-related complications (mortality, infection, hemorrhage, airway complications)",
+        "type": "primary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Narrative review",
+    "allocation": "nonrandomized",
+    "blinding": "none",
+    "sites_count": 0,
+    "countries": [
+      "US",
+      "Greece"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": [
+      {
+        "name": "Included cohorts (survey_1970s)",
+        "description": "Questionnaire-based survey of physicians; procedures reported",
+        "n": 48000
+      },
+      {
+        "name": "Included cohorts (prospective_13_hospitals)",
+        "description": "Prospective observational series across 13 hospitals",
+        "n": 908
+      },
+      {
+        "name": "Included cohorts (credle_multi_institution)",
+        "description": "Large multi-institution series",
+        "n": 24521
+      },
+      {
+        "name": "Included cohorts (retrospective_academic_center)",
+        "description": "Retrospective review at a large academic medical center",
+        "n": 4273
+      },
+      {
+        "name": "Included cohorts (teaching_hospital_205)",
+        "description": "Prospective analysis in a teaching hospital",
+        "n": 205
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "survey_1970s",
+      "name": "1970s survey of 1,041 physicians (procedures reported)",
+      "n_randomized": 48000,
+      "n_analyzed": 48000,
+      "n_completed": 48000
+    },
+    {
+      "arm_id": "prospective_13_hospitals",
+      "name": "Prospective observational series (13 hospitals)",
+      "n_randomized": 908,
+      "n_analyzed": 908,
+      "n_completed": 908
+    },
+    {
+      "arm_id": "credle_multi_institution",
+      "name": "Credle et al. multicenter series",
+      "n_randomized": 24521,
+      "n_analyzed": 24521,
+      "n_completed": 24521
+    },
+    {
+      "arm_id": "retrospective_academic_center",
+      "name": "Retrospective review (large academic center)",
+      "n_randomized": 4273,
+      "n_analyzed": 4273,
+      "n_completed": 4273
+    },
+    {
+      "arm_id": "teaching_hospital_205",
+      "name": "Teaching hospital prospective analysis",
+      "n_randomized": 205,
+      "n_analyzed": 205,
+      "n_completed": 205
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "fiberoptic_mortality_procedure",
+      "name": "Procedure-related mortality during fiberoptic bronchoscopy",
+      "type": "binary",
+      "outcome_type": "safety",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Peri-procedural/in-hospital",
+      "groups": [
+        {
+          "arm_id": "survey_1970s",
+          "raw": {
+            "events": 12,
+            "total": 48000
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "survey_1970s",
+        "measure": "none",
+        "est": 0,
+        "ci_lower": 0,
+        "ci_upper": 0,
+        "ci_level": 0,
+        "p_value": 1,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All reported procedures in survey",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          190
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "A survey sent to 1,041 physicians who performed bronchoscopy reported 12 deaths in 48,000 cases"
+      }
+    },
+    {
+      "concept_id": "post_bronchoscopy_pneumonia",
+      "name": "Post-bronchoscopy pneumonia",
+      "type": "binary",
+      "outcome_type": "safety",
+      "timepoint_iso8601": "P7D",
+      "timepoint_label": "Post-procedural (early)",
+      "groups": [
+        {
+          "arm_id": "credle_multi_institution",
+          "raw": {
+            "events": 2,
+            "total": 24521
+          }
+        },
+        {
+          "arm_id": "prospective_13_hospitals",
+          "raw": {
+            "events": 5,
+            "total": 908
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "credle_multi_institution",
+        "measure": "none",
+        "est": 0,
+        "ci_lower": 0,
+        "ci_upper": 0,
+        "ci_level": 0,
+        "p_value": 1,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All procedures in respective cohorts",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          190,
+          191
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "Credle et al., reported only two instances of pneumonia in 24,521 procedures... A prospective observational study of 13 hospitals confirmed a low reported rate of pneumonia as 0.6% (five of 908 procedures)"
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.015
+        },
+        "odds_ratio": {
+          "est": 0.015
+        },
+        "arr": -0.005,
+        "nnh": 184.3
+      }
+    },
+    {
+      "concept_id": "any_bleeding_event",
+      "name": "Any bleeding event during or after fiberoptic bronchoscopy",
+      "type": "binary",
+      "outcome_type": "safety",
+      "timepoint_iso8601": "P1D",
+      "timepoint_label": "Peri-procedural/24 h",
+      "groups": [
+        {
+          "arm_id": "prospective_13_hospitals",
+          "raw": {
+            "events": 6,
+            "total": 908
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "prospective_13_hospitals",
+        "measure": "none",
+        "est": 0,
+        "ci_lower": 0,
+        "ci_upper": 0,
+        "ci_level": 0,
+        "p_value": 1,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All procedures in 13-hospital series",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          191
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "Dedicated prospective data did not identify any cases of hemorrhage requiring transfusion, but did report bleeding in 0.7% (six of 908) cases."
+      }
+    },
+    {
+      "concept_id": "pulmonary_hemorrhage_gt50ml",
+      "name": "Pulmonary hemorrhage >50 mL",
+      "type": "binary",
+      "outcome_type": "safety",
+      "timepoint_iso8601": "P1D",
+      "timepoint_label": "Within 24 h post-procedure",
+      "groups": [
+        {
+          "arm_id": "retrospective_academic_center",
+          "raw": {
+            "events": 5,
+            "total": 4273
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "retrospective_academic_center",
+        "measure": "none",
+        "est": 0,
+        "ci_lower": 0,
+        "ci_upper": 0,
+        "ci_level": 0,
+        "p_value": 1,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All procedures in retrospective cohort",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          191
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "Hemorrhage (>50 mL) occurred in only five (0.12%) out of 4,273 cases of fiberoptic bronchoscopy"
+      }
+    },
+    {
+      "concept_id": "epistaxis_event",
+      "name": "Epistaxis",
+      "type": "binary",
+      "outcome_type": "safety",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Peri-procedural",
+      "groups": [
+        {
+          "arm_id": "retrospective_academic_center",
+          "raw": {
+            "events": 1,
+            "total": 4273
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "retrospective_academic_center",
+        "measure": "none",
+        "est": 0,
+        "ci_lower": 0,
+        "ci_upper": 0,
+        "ci_level": 0,
+        "p_value": 1,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All procedures in retrospective cohort",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          191
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "and an unrelated single case (0.02%) of epistaxis."
+      }
+    },
+    {
+      "concept_id": "life_threatening_airway_complications",
+      "name": "Life-threatening airway complications (e.g., severe bronchospasm)",
+      "type": "binary",
+      "outcome_type": "safety",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Peri-procedural",
+      "groups": [
+        {
+          "arm_id": "survey_1970s",
+          "raw": {
+            "events": 52,
+            "total": 48000
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "survey_1970s",
+        "measure": "none",
+        "est": 0,
+        "ci_lower": 0,
+        "ci_upper": 0,
+        "ci_level": 0,
+        "p_value": 1,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All reported procedures in survey",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          190
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "and 52 episodes of life‑threatening airway complications (most commonly bronchospasm)."
+      }
+    },
+    {
+      "concept_id": "device_brush_breakage",
+      "name": "Bronchial brush breakage during bronchoscopy",
+      "type": "binary",
+      "outcome_type": "safety",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Intra-procedural",
+      "groups": [
+        {
+          "arm_id": "survey_1970s",
+          "raw": {
+            "events": 4,
+            "total": 48000
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "survey_1970s",
+        "measure": "none",
+        "est": 0,
+        "ci_lower": 0,
+        "ci_upper": 0,
+        "ci_level": 0,
+        "p_value": 1,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All reported procedures in survey",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          190
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "Other mechanical complications included four brushes breaking off in the bronchi, at least one of which required thoracotomy"
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Pneumonia",
+      "meddra": {
+        "soc": "Infections and infestations",
+        "pt": "Pneumonia"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "other medically important condition"
+      ],
+      "groups": [
+        {
+          "arm_id": "credle_multi_institution",
+          "events": 2,
+          "patients": 2,
+          "percentage": 0.008,
+          "total": 24521
+        },
+        {
+          "arm_id": "prospective_13_hospitals",
+          "events": 5,
+          "patients": 5,
+          "percentage": 0.551,
+          "total": 908
+        }
+      ],
+      "period": "Post-procedural (early)",
+      "management": "",
+      "provenance": {
+        "pages": [
+          190,
+          191
+        ],
+        "tables": [],
+        "quote": "Credle et al., reported only two instances of pneumonia in 24,521 procedures... A prospective observational study of 13 hospitals confirmed a low reported rate of pneumonia as 0.6% (five of 908 procedures)"
+      }
+    },
+    {
+      "event_name": "Pulmonary haemorrhage",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Pulmonary haemorrhage"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "other medically important condition"
+      ],
+      "groups": [
+        {
+          "arm_id": "retrospective_academic_center",
+          "events": 5,
+          "patients": 5,
+          "percentage": 0.117,
+          "total": 4273
+        }
+      ],
+      "period": "Within 24 hours",
+      "management": "One case required intubation",
+      "provenance": {
+        "pages": [
+          191
+        ],
+        "tables": [],
+        "quote": "Hemorrhage (>50 mL) occurred in only five (0.12%) out of 4,273 cases of fiberoptic bronchoscopy, with only one requiring intubation"
+      }
+    },
+    {
+      "event_name": "Epistaxis",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Epistaxis"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "retrospective_academic_center",
+          "events": 1,
+          "patients": 1,
+          "percentage": 0.023,
+          "total": 4273
+        }
+      ],
+      "period": "Peri-procedural",
+      "management": "",
+      "provenance": {
+        "pages": [
+          191
+        ],
+        "tables": [],
+        "quote": "and an unrelated single case (0.02%) of epistaxis."
+      }
+    },
+    {
+      "event_name": "Device breakage",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Device breakage"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "surgical intervention"
+      ],
+      "groups": [
+        {
+          "arm_id": "survey_1970s",
+          "events": 4,
+          "patients": 4,
+          "percentage": 0.008,
+          "total": 48000
+        }
+      ],
+      "period": "Intra-procedural",
+      "management": "At least one required thoracotomy",
+      "provenance": {
+        "pages": [
+          190
+        ],
+        "tables": [],
+        "quote": "Other mechanical complications included four brushes breaking off in the bronchi, at least one of which required thoracotomy"
+      }
+    },
+    {
+      "event_name": "Death",
+      "meddra": {
+        "soc": "General disorders and administration site conditions",
+        "pt": "Death"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "death"
+      ],
+      "groups": [
+        {
+          "arm_id": "survey_1970s",
+          "events": 12,
+          "patients": 12,
+          "percentage": 0.025,
+          "total": 48000
+        }
+      ],
+      "period": "Peri-procedural/in-hospital",
+      "management": "",
+      "provenance": {
+        "pages": [
+          190
+        ],
+        "tables": [],
+        "quote": "reported 12 deaths in 48,000 cases"
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "Not applicable",
+    "overall_judgment": "unclear",
+    "domains": [
+      {
+        "name": "Study design appropriateness",
+        "judgment": "unclear",
+        "support_for_judgment": "Narrative review summarizing heterogeneous observational data; no formal risk of bias assessment reported."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "bronchoscopy",
+      "fiberoptic bronchoscopy",
+      "rigid bronchoscopy",
+      "complications",
+      "pneumonia",
+      "hemorrhage",
+      "mortality"
+    ],
+    "summary_tldr": "Narrative review: flexible and rigid bronchoscopy have low complication rates; examples include mortality 12/48,000, pneumonia 2/24,521 and 5/908, pulmonary hemorrhage >50 mL 5/4,273; overall attributable mortality <0.1%.",
+    "clinical_relevance": "Quantifies rare but important risks to inform consent, monitoring, and peri-procedural management for bronchoscopy."
+  }
+}

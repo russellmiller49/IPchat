@@ -1,0 +1,468 @@
+{
+  "source": {
+    "document_id": "Ost-2018-Quality Gaps and Comparative Effectiv",
+    "ingest_date": "2025-08-08T14:45:47.706290+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1016/j.chest.2017.08.026"
+  },
+  "document": {
+    "metadata": {
+      "title": "Quality Gaps and Comparative Effectiveness of Management Strategies for Recurrent Malignant Pleural Effusions",
+      "year": 2018,
+      "authors": [
+        "David E. Ost",
+        "Jiangong Niu",
+        "Hui Zhao",
+        "Horiana B. Grosu",
+        "Sharon H. Giordano"
+      ],
+      "journal": "CHEST",
+      "doi": "10.1016/j.chest.2017.08.026",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "BACKGROUND: Guidelines for recurrent malignant pleural effusions (MPEs) recommend definitive procedures, such as indwelling pleural catheters (IPCs) or pleurodesis, over repeat thoracentesis. We hypothesized that many patients have multiple thoracenteses rather than definitive procedures and that this results in more procedures and complications. METHODS: Retrospective cohort study using SEER-Medicare data from 2007 to 2011. Patients 66 to 90 years of age with an MPE were included. The primary outcome was whether patients with rapidly recurring MPE, defined as recurrence within 2 weeks of first thoracentesis, received guideline consistent care. Guideline consistent care was defined as a definitive second pleural procedure. RESULTS: Thoracentesis for MPE was performed in 23,431 patients. A second pleural procedure because of recurrence was required in 12,967 (55%). Recurrence was rapid in 7,565 (58%) of the 12,967 patients that had a recurrence. Of the 7,565 patients with rapid recurrence, 1,811 (24%) received guideline consistent care. Definitive pleural procedures compared with repeat thoracentesis resulted in fewer subsequent pleural procedures (0.62 vs 1.44 procedures per patient, respectively; P < .0001), fewer pneumothoraxes (< 0.0037 vs 0.009 pneumothoraxes per patient, respectively; P = .001), and fewer ED procedures (0.02 vs 0.04 ED procedures per patient, respectively; P < .001). Repeat thoracentesis and IPCs resulted in fewer inpatient days compared with chest tube or thoracoscopic pleurodesis (0.013 vs 0.013 vs 0.085 vs 0.097 inpatient days per day of life, respectively; P < .001). CONCLUSIONS: Guideline consistent care using definitive procedures compared with repeat thoracentesis was associated with fewer subsequent procedures and complications; however, pleurodesis resulted in more inpatient days.",
+      "methods": "Retrospective cohort using SEER-Medicare linked data (2007-2011). Inclusion: patients aged 66-90 years with first primary cancer, histologic confirmation, diagnosis of malignant pleural effusion (MPE), and at least one thoracentesis; continuous Medicare Parts A/B enrollment and no HMO enrollment for 12 months before and after the first thoracentesis to ensure complete claims capture. The first pleural procedure was thoracentesis for all patients. Subsequent procedures were classified as definitive if thoracoscopic pleurodesis, chest tube pleurodesis, or indwelling pleural catheter (IPC). Guideline consistency was assessed among patients requiring a second pleural procedure within 14 days of the first thoracentesis: definitive second procedure = guideline consistent; repeat thoracentesis = guideline inconsistent. Secondary outcomes included number of subsequent pleural procedures, post-procedural pneumothorax, site of service (ED, inpatient, outpatient), and inpatient days attributable to pleural disease (procedures performed within 2 days of admission). Outcomes were expressed as incidence rates per patient or per day of life to account for survival time. Competing risk models (death as competing risk) assessed time to second and third pleural procedures. Multivariate hierarchical logistic regression (patients nested within physicians) evaluated factors associated with guideline consistent care; variables with univariate P < 0.2 entered, backward selection retained variables with P < 0.05. Statistical tests included chi-square for categorical variables, t-test for normally distributed continuous variables, and Wilcoxon rank-sum for non-normal variables. Analyses used SAS 9.3.",
+      "results": "Among 23,431 patients, there were 46,080 thoracenteses, 1,679 IPCs, 1,799 thoracoscopic pleurodeses, and 4,316 chest tube pleurodeses. Median survival from first thoracentesis was 88 days (IQR 26-320). A second pleural procedure occurred in 12,967 (55%); 8,572 (37%) died before any second procedure; 1,892 (8%) were alive without recurrence at last follow-up. Median time to second procedure was 9 days (IQR 3-32). Of those with a second procedure, 10,019 (77%) had repeat thoracentesis and 2,948 (23%) had a definitive procedure. Among 7,565 patients with rapid recurrence (≤14 days), 1,811 (24%) received a definitive second procedure (guideline consistent) and 5,754 (76%) had repeat thoracentesis (guideline inconsistent). Definitive procedures vs repeat thoracentesis were associated with fewer subsequent pleural procedures (0.62 vs 1.44 per patient; P < .0001), fewer pneumothoraces (<0.0037 vs 0.009 per patient; P = .001), and fewer ED procedures (0.02 vs 0.04 per patient; P < .001). Inpatient days per day of life were lower for thoracentesis and IPC compared with chest tube and thoracoscopic pleurodesis (0.013 vs 0.013 vs 0.085 vs 0.097; P < .001). Overall pneumothorax incidence was 711 of 46,080 thoracenteses. Factors independently associated with guideline consistent care included younger age, lung cancer, ED setting for first thoracentesis, involvement of pulmonologists, radiologists, or thoracic surgeons, residence in large metropolitan areas, and later diagnosis years."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "SEER-Medicare beneficiaries aged 66-90 years with histologically confirmed first primary cancer, malignant pleural effusion, and at least one thoracentesis (2007-2011).",
+      "inclusion_criteria": [
+        "Age 66-90 years",
+        "First primary cancer with histologic confirmation",
+        "Diagnosis of malignant pleural effusion",
+        "Underwent thoracentesis",
+        "Continuous Medicare Parts A and B coverage",
+        "No HMO enrollment during 12 months before and after first thoracentesis (or until death)"
+      ],
+      "exclusion_criteria": [
+        "Age < 66 or > 90 years",
+        "Lack of histologic confirmation",
+        "No thoracentesis recorded",
+        "Incomplete Medicare A/B coverage",
+        "HMO enrollment during required period"
+      ]
+    },
+    "intervention": {
+      "text": "Definitive pleural procedure at second intervention for recurrent MPE",
+      "details": "Definitive procedures included indwelling pleural catheter placement, thoracoscopic pleurodesis, or chest tube pleurodesis."
+    },
+    "comparison": {
+      "text": "Repeat thoracentesis at second intervention for recurrent MPE",
+      "details": "Thoracentesis performed as the second pleural procedure after recurrence within 14 days of the index thoracentesis."
+    },
+    "outcomes": [
+      {
+        "name": "Guideline-consistent care (definitive second procedure) among rapid recurrence (≤14 days)",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Number of subsequent pleural procedures per patient",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Pneumothorax related to pleural procedures",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "ED procedures per patient",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Inpatient days per day of life by procedure strategy",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "retrospective cohort",
+    "allocation": "not applicable",
+    "blinding": "not applicable",
+    "sites_count": 1,
+    "countries": [
+      "US"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 23431,
+      "analyzed": 23431
+    },
+    "analysis_populations": [
+      {
+        "name": "All thoracentesis cohort",
+        "description": "All eligible patients with MPE undergoing first thoracentesis",
+        "n": 23431
+      },
+      {
+        "name": "Second procedure cohort",
+        "description": "Patients who required a second pleural procedure after index thoracentesis",
+        "n": 12967
+      },
+      {
+        "name": "Rapid recurrence cohort",
+        "description": "Patients who required a second pleural procedure within 14 days of first thoracentesis",
+        "n": 7565
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "overall_rapid_recurrence",
+      "name": "Overall rapid recurrence (≤14 days)",
+      "n_randomized": 7565,
+      "n_analyzed": 7565,
+      "n_completed": 7565
+    },
+    {
+      "arm_id": "repeat_thoracentesis",
+      "name": "Repeat thoracentesis (second procedure)",
+      "n_randomized": 5754,
+      "n_analyzed": 5754,
+      "n_completed": 5754
+    },
+    {
+      "arm_id": "definitive_procedure",
+      "name": "Definitive procedure (second procedure, combined)",
+      "n_randomized": 1811,
+      "n_analyzed": 1811,
+      "n_completed": 1811
+    },
+    {
+      "arm_id": "ipc",
+      "name": "Indwelling pleural catheter (second procedure)",
+      "n_randomized": 310,
+      "n_analyzed": 310,
+      "n_completed": 310
+    },
+    {
+      "arm_id": "thoracoscopic_pleurodesis",
+      "name": "Thoracoscopic pleurodesis (second procedure)",
+      "n_randomized": 420,
+      "n_analyzed": 420,
+      "n_completed": 420
+    },
+    {
+      "arm_id": "chest_tube_pleurodesis",
+      "name": "Chest tube pleurodesis (second procedure)",
+      "n_randomized": 1081,
+      "n_analyzed": 1081,
+      "n_completed": 1081
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "subsequent_pleural_procedures_per_patient",
+      "name": "Subsequent pleural procedures per patient",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "unit": "procedures per patient",
+      "unit_canonical": "count_per_patient",
+      "groups": [
+        {
+          "arm_id": "definitive_procedure",
+          "raw": {
+            "mean": 0.62,
+            "sd": null,
+            "total": 1811
+          }
+        },
+        {
+          "arm_id": "repeat_thoracentesis",
+          "raw": {
+            "mean": 1.44,
+            "sd": null,
+            "total": 5754
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "repeat_thoracentesis",
+        "measure": "mean_difference",
+        "est": -0.82,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.0001,
+        "p_operator": "<",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Wilcoxon rank-sum test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Rapid recurrence cohort (second procedure within 14 days)",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          438
+        ],
+        "tables": [],
+        "quote": "Definitive pleural procedures compared with repeat thoracentesis resulted in fewer subsequent pleural procedures (0.62 vs 1.44 procedures per patient, respectively; P < .0001)."
+      }
+    },
+    {
+      "concept_id": "pneumothorax_rate_per_patient",
+      "name": "Pneumothorax events per patient",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "unit": "events per patient",
+      "unit_canonical": "count_per_patient",
+      "groups": [
+        {
+          "arm_id": "definitive_procedure",
+          "raw": {
+            "mean": 0.0037,
+            "sd": null,
+            "total": 1811
+          }
+        },
+        {
+          "arm_id": "repeat_thoracentesis",
+          "raw": {
+            "mean": 0.009,
+            "sd": null,
+            "total": 5754
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "repeat_thoracentesis",
+        "measure": "mean_difference",
+        "est": -0.0053,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.001,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Wilcoxon rank-sum test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Rapid recurrence cohort (second procedure within 14 days)",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          438
+        ],
+        "tables": [],
+        "quote": "Fewer pneumothoraxes (< 0.0037 vs 0.009 pneumothoraxes per patient, respectively; P = .001)."
+      }
+    },
+    {
+      "concept_id": "ed_procedures_per_patient",
+      "name": "ED procedures per patient",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "unit": "procedures per patient",
+      "unit_canonical": "count_per_patient",
+      "groups": [
+        {
+          "arm_id": "definitive_procedure",
+          "raw": {
+            "mean": 0.02,
+            "sd": null,
+            "total": 1811
+          }
+        },
+        {
+          "arm_id": "repeat_thoracentesis",
+          "raw": {
+            "mean": 0.04,
+            "sd": null,
+            "total": 5754
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "repeat_thoracentesis",
+        "measure": "mean_difference",
+        "est": -0.02,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.001,
+        "p_operator": "<",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Wilcoxon rank-sum test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Rapid recurrence cohort (second procedure within 14 days)",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          438
+        ],
+        "tables": [],
+        "quote": "Fewer ED procedures (0.02 vs 0.04 ED procedures per patient, respectively; P < .001)."
+      }
+    },
+    {
+      "concept_id": "inpatient_days_per_day_of_life",
+      "name": "Inpatient days per day of life by strategy",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "unit": "days per day of life",
+      "unit_canonical": "days_per_day",
+      "groups": [
+        {
+          "arm_id": "repeat_thoracentesis",
+          "raw": {
+            "mean": 0.013,
+            "sd": null,
+            "total": 5754
+          }
+        },
+        {
+          "arm_id": "ipc",
+          "raw": {
+            "mean": 0.013,
+            "sd": null,
+            "total": 310
+          }
+        },
+        {
+          "arm_id": "chest_tube_pleurodesis",
+          "raw": {
+            "mean": 0.085,
+            "sd": null,
+            "total": 1081
+          }
+        },
+        {
+          "arm_id": "thoracoscopic_pleurodesis",
+          "raw": {
+            "mean": 0.097,
+            "sd": null,
+            "total": 420
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "repeat_thoracentesis",
+        "measure": "global_test_pvalue",
+        "est": null,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.001,
+        "p_operator": "<",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Kruskal-Wallis across four groups",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Rapid recurrence cohort (second procedure within 14 days)",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          438
+        ],
+        "tables": [],
+        "quote": "Repeat thoracentesis and IPCs resulted in fewer inpatient days compared with chest tube or thoracoscopic pleurodesis (0.013 vs 0.013 vs 0.085 vs 0.097 inpatient days per day of life, respectively; P < .001)."
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Pneumothorax",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Pneumothorax"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "overall_rapid_recurrence",
+          "events": 711,
+          "patients": 711,
+          "percentage": 1.54,
+          "total": 46080
+        }
+      ],
+      "period": "During study period",
+      "management": "",
+      "provenance": {
+        "pages": [
+          443
+        ],
+        "tables": [],
+        "quote": "The overall incidence of pneumothorax was 711 out of 46,080 thoracentesis procedures"
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "ROBINS-I",
+    "overall_judgment": "serious",
+    "domains": [
+      {
+        "name": "Confounding",
+        "judgment": "serious",
+        "support_for_judgment": "Nonrandomized, observational claims-based analysis; potential residual confounding by prognosis and clinical status despite statistical adjustments."
+      },
+      {
+        "name": "Selection of participants",
+        "judgment": "moderate",
+        "support_for_judgment": "Inclusion based on SEER-Medicare linkage with defined eligibility; possible selection related to insurance coverage patterns."
+      },
+      {
+        "name": "Classification of interventions",
+        "judgment": "low",
+        "support_for_judgment": "Interventions identified via procedure codes with clear definitions of definitive procedures vs thoracentesis."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "low",
+        "support_for_judgment": "Not applicable to retrospective claims data."
+      },
+      {
+        "name": "Missing data",
+        "judgment": "moderate",
+        "support_for_judgment": "Claims completeness required; lack of clinical detail (eg, side of procedure) acknowledged."
+      },
+      {
+        "name": "Measurement of outcomes",
+        "judgment": "moderate",
+        "support_for_judgment": "Outcomes measured via claims; pneumothorax definition based on prior validated strategies."
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "low",
+        "support_for_judgment": "Prespecified outcomes described; comprehensive reporting of key comparisons."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "malignant pleural effusion",
+      "indwelling pleural catheter",
+      "pleurodesis",
+      "thoracentesis",
+      "SEER-Medicare",
+      "comparative effectiveness"
+    ],
+    "summary_tldr": "In older US patients with recurrent MPE, definitive procedures at second intervention were underused (24%) but were associated with fewer subsequent procedures, fewer pneumothoraces, and fewer ED procedures; pleurodesis had substantially higher inpatient days than thoracentesis or IPC.",
+    "clinical_relevance": "Supports guideline recommendations favoring definitive pleural interventions for rapidly recurrent MPE and highlights quality gaps in real-world practice."
+  }
+}

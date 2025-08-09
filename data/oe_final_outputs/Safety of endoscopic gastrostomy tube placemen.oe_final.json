@@ -1,0 +1,338 @@
+{
+  "source": {
+    "document_id": "Safety of endoscopic gastrostomy tube placement compared with radiologic or surgical gastrostomy: nationwide inpatient assessment",
+    "ingest_date": "2025-08-08T15:36:19.522489+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": ""
+  },
+  "document": {
+    "metadata": {
+      "title": "Safety of endoscopic gastrostomy tube placement compared with radiologic or surgical gastrostomy: nationwide inpatient assessment",
+      "year": 2021,
+      "authors": [
+        "Divyanshoo R. Kohli",
+        "Kevin F. Kennedy",
+        "Madhav Desai",
+        "Prateek Sharma"
+      ],
+      "journal": "Gastrointestinal Endoscopy",
+      "doi": "",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Background and Aims: A gastrostomy tube is often required for inpatients requiring long-term nutritional access. We compared the safety and outcomes of 3 techniques for performing a gastrostomy: percutaneous endoscopic gastrostomy (PEG), fluoroscopy-guided gastrostomy by an interventional radiologist (IR-gastrostomy), and open gastrostomy performed by a surgeon (surgical gastrostomy). Methods: Using the Nationwide Readmissions Database, we identified hospitalized patients who underwent a gastrostomy from 2016 to 2017 using ICD-10-PCS codes and grouped them as PEG (0DH64UZ), IR-gastrostomy (0DH63UZ), or open surgical gastrostomy (0DH60UZ). Adjusted odds ratios were estimated via multivariable logistic regression. Results: Among 184,068 patients, 16,384 had PEG (mean age 53.7), 154,007 IR-gastrostomy (mean age 67.2), and 13,677 surgical gastrostomy (mean age 57.9). Compared with PEG, adjusted odds for colon perforation were higher with IR-gastrostomy (OR 1.90, 95% CI 1.26-2.86; p=.002) and surgical gastrostomy (OR 6.65, 95% CI 4.38-10.12; p<.001); for gastrostomy infection, IR-gastrostomy OR 1.28 (95% CI 1.07-1.53; p=.006) and surgical OR 1.61 (95% CI 1.29-2.01; p<.001); for hemorrhage requiring transfusion, IR-gastrostomy OR 1.84 (95% CI 1.26-2.68; p=.002) and surgical OR 1.09 (95% CI 0.64-1.86; p=.746); for 30-day nonelective readmission, IR-gastrostomy OR 1.07 (95% CI 1.03-1.12; p=.0023) and surgical OR 1.13 (95% CI 1.06-1.2; p=.0002); and for inpatient mortality, IR-gastrostomy OR 1.09 (95% CI 1.02-1.17; p=.0114) and surgical OR 1.55 (95% CI 1.42-1.69; p<.0001). Overall adverse events occurred in 10,019/184,068 (5.4%). Conclusions: Endoscopic PEG placement was associated with lower risks of inpatient adverse events, mortality, and readmission compared with IR-gastrostomy and surgical gastrostomy.",
+      "methods": "Retrospective analysis of the U.S. Nationwide Readmissions Database (2016-2017). Inpatients undergoing gastrostomy were identified by ICD-10-PCS: PEG (0DH64UZ), IR-gastrostomy (0DH63UZ), and open surgical gastrostomy (0DH60UZ). Exclusions included ICD-10-PCS codes 0DH68UZ and 0DH67UZ (use of natural or artificial opening) and bypass procedures. Comorbidities were identified using AHRQ comorbidity measures (29 conditions). Readmission was defined as a nonelective admission within 30 days after discharge; patients who died in index admission and those with December admissions were excluded from the readmission denominator. Multivariable logistic regression modeled adverse outcomes with procedure type as the primary variable, adjusted for age, sex, 29 comorbidities, hospital ownership, and teaching status. Analyses used SAS 9.4. Two-sided p<.05 considered significant.",
+      "results": "A total of 184,068 patients met criteria: PEG n=16,384 (mean age 53.7, 46% women), IR-gastrostomy n=154,007 (mean age 67.2, 44% women), surgical gastrostomy n=13,677 (mean age 57.9, 46.3% women). Overall adverse events occurred in 10,019 (5.4%): 957/16,384 (5.84%) PEG, 7,722/154,007 (5.01%) IR-gastrostomy, and 1,340/13,677 (9.8%) surgical. The most common event was gastrostomy tube malfunction (52%) followed by infection (19%). Adjusted odds versus PEG: colon perforation higher with IR-gastrostomy (OR 1.90, 95% CI 1.26-2.86; p=.002) and surgical (OR 6.65, 95% CI 4.38-10.12; p<.001); gastrostomy infection higher with IR-gastrostomy (OR 1.28, 95% CI 1.07-1.53; p=.006) and surgical (OR 1.61, 95% CI 1.29-2.01; p<.001); hemorrhage requiring transfusion higher with IR-gastrostomy (OR 1.84, 95% CI 1.26-2.68; p=.002) but not with surgical (OR 1.09, 95% CI 0.64-1.86; p=.746). Adjusted odds of 30-day nonelective readmission were higher with IR-gastrostomy (OR 1.07, 95% CI 1.03-1.12; p=.0023) and surgical (OR 1.13, 95% CI 1.06-1.2; p=.0002) versus PEG. Adjusted odds of inpatient mortality were higher with IR-gastrostomy (OR 1.09, 95% CI 1.02-1.17; p=.0114) and surgical (OR 1.55, 95% CI 1.42-1.69; p<.0001) versus PEG."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Hospitalized adult patients in the U.S. Nationwide Readmissions Database (2016-2017) who underwent gastrostomy placement.",
+      "inclusion_criteria": [
+        "Inpatient hospitalizations in NRD 2016-2017",
+        "ICD-10-PCS procedure codes for gastrostomy: 0DH64UZ (PEG), 0DH63UZ (IR-gastrostomy), 0DH60UZ (open surgical gastrostomy)"
+      ],
+      "exclusion_criteria": [
+        "ICD-10-PCS codes 0DH68UZ or 0DH67UZ (placement via natural or artificial opening)",
+        "Bypass procedures",
+        "For 30-day readmission analyses: index death and December admissions excluded from denominator"
+      ]
+    },
+    "intervention": {
+      "text": "Percutaneous endoscopic gastrostomy (PEG)",
+      "details": "ICD-10-PCS 0DH64UZ: Insertion of Feeding Device into Stomach, Percutaneous Endoscopic Approach"
+    },
+    "comparison": {
+      "text": "Fluoroscopy-guided radiologic gastrostomy and open surgical gastrostomy",
+      "details": "IR-gastrostomy: ICD-10-PCS 0DH63UZ (Percutaneous Approach); Open surgical gastrostomy: ICD-10-PCS 0DH60UZ (Open Approach)"
+    },
+    "outcomes": [
+      {
+        "name": "Any inpatient adverse event during index hospitalization",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Perforation of colon",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Infection of gastrostomy",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Hemorrhage requiring blood transfusion",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "30-day nonelective readmission",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Inpatient mortality",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "retrospective cohort",
+    "allocation": "nonrandomized",
+    "blinding": "none",
+    "sites_count": 0,
+    "countries": [
+      "US"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 184068,
+      "analyzed": 184068
+    },
+    "analysis_populations": [
+      {
+        "name": "All eligible hospitalizations",
+        "description": "All inpatients in NRD 2016-2017 with eligible ICD-10-PCS gastrostomy codes",
+        "n": 184068
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "peg",
+      "name": "Percutaneous endoscopic gastrostomy (PEG)",
+      "n_randomized": 16384,
+      "n_analyzed": 16384,
+      "n_completed": 16384
+    },
+    {
+      "arm_id": "ir",
+      "name": "Fluoroscopy-guided radiologic gastrostomy (IR-gastrostomy)",
+      "n_randomized": 154007,
+      "n_analyzed": 154007,
+      "n_completed": 154007
+    },
+    {
+      "arm_id": "surgical",
+      "name": "Open surgical gastrostomy",
+      "n_randomized": 13677,
+      "n_analyzed": 13677,
+      "n_completed": 13677
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "any_inpatient_adverse_event_ir_vs_peg",
+      "name": "Any inpatient adverse event during index hospitalization",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Index hospitalization",
+      "groups": [
+        {
+          "arm_id": "peg",
+          "raw": {
+            "events": 957,
+            "total": 16384
+          }
+        },
+        {
+          "arm_id": "ir",
+          "raw": {
+            "events": 7722,
+            "total": 154007
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "peg",
+        "measure": "risk_ratio",
+        "est": 0.857,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Crude risk comparison",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All eligible hospitalizations",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          1079,
+          1080
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "quote": "Overall, 10,019 adverse events (5.4%) were recorded in 184,068 patients who underwent a gastrostomy: 957 (5.84%) in PEG, 7722 (5.01%) in IR-gastrostomy, and 1340 (9.8%) in surgical gastrostomy groups."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 1.165
+        },
+        "odds_ratio": {
+          "est": 1.175
+        },
+        "arr": 0.008,
+        "nnt": 120.9
+      }
+    },
+    {
+      "concept_id": "any_inpatient_adverse_event_surg_vs_peg",
+      "name": "Any inpatient adverse event during index hospitalization",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Index hospitalization",
+      "groups": [
+        {
+          "arm_id": "peg",
+          "raw": {
+            "events": 957,
+            "total": 16384
+          }
+        },
+        {
+          "arm_id": "surgical",
+          "raw": {
+            "events": 1340,
+            "total": 13677
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "peg",
+        "measure": "risk_ratio",
+        "est": 1.678,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Crude risk comparison",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All eligible hospitalizations",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          1079,
+          1080
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "quote": "Overall, 10,019 adverse events (5.4%) were recorded in 184,068 patients who underwent a gastrostomy: 957 (5.84%) in PEG, 7722 (5.01%) in IR-gastrostomy, and 1340 (9.8%) in surgical gastrostomy groups."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.596
+        },
+        "odds_ratio": {
+          "est": 0.571
+        },
+        "arr": -0.04,
+        "nnh": 25.3
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Any inpatient adverse event",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Postprocedural complication"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "peg",
+          "events": 957,
+          "patients": 957,
+          "percentage": 5.84,
+          "total": 16384
+        },
+        {
+          "arm_id": "ir",
+          "events": 7722,
+          "patients": 7722,
+          "percentage": 5.01,
+          "total": 154007
+        },
+        {
+          "arm_id": "surgical",
+          "events": 1340,
+          "patients": 1340,
+          "percentage": 9.8,
+          "total": 13677
+        }
+      ],
+      "period": "Index hospitalization",
+      "management": "",
+      "provenance": {
+        "pages": [
+          1079,
+          1080
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "quote": "Overall, 10,019 adverse events (5.4%) were recorded in 184,068 patients who underwent a gastrostomy: 957 (5.84%) in PEG, 7722 (5.01%) in IR-gastrostomy, and 1340 (9.8%) in surgical gastrostomy groups."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "ROBINS-I",
+    "overall_judgment": "serious",
+    "domains": [
+      {
+        "name": "Bias due to confounding",
+        "judgment": "serious",
+        "support_for_judgment": "Nonrandomized comparison of techniques with differing patient case-mix; adjusted for age, sex, 29 comorbidities, and hospital factors but residual confounding likely."
+      },
+      {
+        "name": "Bias in selection of participants",
+        "judgment": "moderate",
+        "support_for_judgment": "Administrative data identification by procedure codes; exclusions applied uniformly."
+      },
+      {
+        "name": "Bias in classification of interventions",
+        "judgment": "low",
+        "support_for_judgment": "ICD-10-PCS codes distinguish PEG, percutaneous radiologic, and open surgical approaches."
+      },
+      {
+        "name": "Bias due to missing data",
+        "judgment": "low",
+        "support_for_judgment": "Large administrative database; missingness not reported as substantial for outcomes."
+      },
+      {
+        "name": "Bias in measurement of outcomes",
+        "judgment": "moderate",
+        "support_for_judgment": "Outcomes based on ICD-10-CM codes; potential misclassification inherent to claims data."
+      },
+      {
+        "name": "Bias in selection of the reported result",
+        "judgment": "low",
+        "support_for_judgment": "Pre-specified adverse event categories with comprehensive reporting across techniques."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "gastrostomy",
+      "percutaneous endoscopic gastrostomy",
+      "PEG",
+      "interventional radiology gastrostomy",
+      "open surgical gastrostomy",
+      "Nationwide Readmissions Database",
+      "ICD-10-PCS"
+    ],
+    "summary_tldr": "In a nationwide cohort (n=184,068), PEG was associated with lower adjusted odds of colon perforation, peristomal infection, hemorrhage (vs IR), 30-day readmission, and inpatient mortality than IR-guided or open surgical gastrostomy; crude any-adverse-event rates were 5.84% (PEG), 5.01% (IR), and 9.8% (surgical).",
+    "clinical_relevance": "Findings support PEG as a safer inpatient approach for establishing long-term enteral access compared with radiologic or open surgical techniques."
+  }
+}

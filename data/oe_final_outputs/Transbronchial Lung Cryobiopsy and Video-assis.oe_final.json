@@ -1,0 +1,575 @@
+{
+  "source": {
+    "document_id": "Transbronchial Lung Cryobiopsy and Video-assis",
+    "ingest_date": "2025-08-08T16:37:13.156886+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1513/AnnalsATS.201701-086SR"
+  },
+  "document": {
+    "metadata": {
+      "title": "Transbronchial Lung Cryobiopsy and Video-assisted Thoracoscopic Lung Biopsy in the Diagnosis of Diffuse Parenchymal Lung Disease: A Meta-analysis of Diagnostic Test Accuracy",
+      "year": 2017,
+      "authors": [
+        "Imran H. Iftikhar",
+        "Lana Alghothani",
+        "Alejandro Sardi",
+        "David Berkowitz",
+        "Ali I. Musani"
+      ],
+      "journal": "Annals of the American Thoracic Society",
+      "doi": "10.1513/AnnalsATS.201701-086SR",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Rationale: Transbronchial lung cryobiopsy is increasingly being used for the assessment of diffuse parenchymal lung diseases. Several studies have shown larger biopsy samples and higher yields compared with conventional transbronchial biopsies. However, the higher risk of bleeding and other complications has raised concerns for widespread use of this modality. Objectives: To study the diagnostic accuracy and safety profile of transbronchial lung cryobiopsy and compare with video-assisted thoracoscopic surgery (VATS) by reviewing available evidence from the literature. Methods: Medline and PubMed were searched from inception until December 2016. Data on diagnostic performance were abstracted by constructing two-by-two contingency tables for each study. Data on a priori selected safety outcomes were collected. Risk of bias was assessed with the Quality Assessment of Diagnostic Accuracy Studies tool. Random effects meta-analyses were performed to obtain summary estimates of the diagnostic accuracy. Results: The pooled diagnostic yield, pooled sensitivity, and pooled specificity of transbronchial lung cryobiopsy were 83.7% (76.9-88.8%), 87% (85-89%), and 57% (40-73%), respectively. The pooled diagnostic yield, pooled sensitivity, and pooled specificity of VATS were 92.7% (87.6-95.8%), 91.0% (89-92%), and 58% (31-81%), respectively. The incidence of grade 2 (moderate to severe) endobronchial bleeding after transbronchial lung cryobiopsy and of post-procedural pneumothorax was 4.9% (2.2-10.7%) and 9.5% (5.9-14.9%), respectively. Conclusions: Although the diagnostic test accuracy measures of transbronchial lung cryobiopsy lag behind those of VATS, with an acceptable safety profile and potential cost savings, the former could be considered as an alternative in the evaluation of patients with diffuse parenchymal lung diseases.",
+      "methods": "Systematic searches of Medline and PubMed from inception to December 2016 identified studies reporting diagnostic performance of transbronchial lung cryobiopsy (TLCB) or video-assisted thoracoscopic surgery (VATS) for diffuse parenchymal lung diseases (DPLDs). Two-by-two tables (TP, FP, FN, TN) were constructed where possible. Primary outcome was diagnostic yield; failures included nondiagnostic biopsies or benign diagnoses later overturned by surgical biopsy. Pre-specified safety outcomes included endobronchial bleeding, pneumothorax, prolonged air leak (VATS), and 30-60 day mortality. Random-effects meta-analyses were used (CMA v2.2.064 for pooled yield and safety; Meta-DiSc v1.4 for sensitivity, specificity, DOR, and SROC). Heterogeneity was assessed with I2. QUADAS-2 was used for risk of bias.",
+      "results": "Sixteen TLCB studies and fourteen VATS studies were included. TLCB: pooled diagnostic yield 83.7% (95% CI 76.9-88.8%; I2 86%), pooled sensitivity 87% (95% CI 85-89%; I2 94%), pooled specificity 57% (95% CI 40-73%; I2 0%), DOR 25.53 (95% CI 8.92-73.04). VATS: pooled diagnostic yield 92.7% (95% CI 87.6-95.8%; I2 85%), pooled sensitivity 91% (95% CI 89-92%; I2 91%), pooled specificity 58% (95% CI 31-81%; I2 0%), DOR 21.06 (95% CI 7.08-62.60). SROC AUC 0.85 (SE 0.07). Safety after TLCB: grade 2 (moderate to severe) endobronchial bleeding 4.9% (95% CI 2.2-10.7%); pneumothorax 9.5% (95% CI 5.9-14.9%)."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults evaluated for diffuse parenchymal lung diseases requiring histopathologic diagnosis.",
+      "inclusion_criteria": [
+        "Peer-reviewed studies of transbronchial lung cryobiopsy or video-assisted thoracoscopic surgical lung biopsy for DPLD",
+        "Reported diagnostic performance (diagnostic yield and/or sensitivity/specificity) sufficient to construct 2x2 tables or pooled estimates",
+        "Human subjects"
+      ],
+      "exclusion_criteria": [
+        "Animal studies",
+        "Populations without DPLD",
+        "Studies not reporting outcomes of interest",
+        "Reviews, case reports, non-peer-reviewed papers, conference proceedings"
+      ]
+    },
+    "intervention": {
+      "text": "Transbronchial lung cryobiopsy (TLCB)",
+      "details": "Bronchoscopic cryoprobe biopsy using CO2 or N2O cooling (Joule-Thomson effect), probe cooling typically 3-6 seconds, specimen retrieval and fixation in formalin."
+    },
+    "comparison": {
+      "text": "Video-assisted thoracoscopic surgical lung biopsy (VATS)",
+      "details": "Standard surgical thoracoscopic lung biopsy performed under general anesthesia."
+    },
+    "outcomes": [
+      {
+        "name": "Diagnostic yield",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Sensitivity and specificity for histopathologic diagnosis",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Safety: endobronchial bleeding, pneumothorax, prolonged air leak, 30-60 day mortality",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Systematic review and diagnostic test accuracy meta-analysis",
+    "allocation": "not_applicable",
+    "blinding": "not_applicable",
+    "sites_count": 30,
+    "countries": [],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 2236,
+      "analyzed": 2236
+    },
+    "analysis_populations": [
+      {
+        "name": "Meta-analysis dataset",
+        "description": "All included participants across TLCB and VATS studies",
+        "n": 2236
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "Transbronchial lung cryobiopsy",
+      "n_randomized": 642,
+      "n_analyzed": 642,
+      "n_completed": 642
+    },
+    {
+      "arm_id": "control",
+      "name": "Video-assisted thoracoscopic surgical biopsy",
+      "n_randomized": 1594,
+      "n_analyzed": 1594,
+      "n_completed": 1594
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "pooled_diagnostic_yield_tlcb",
+      "name": "Pooled diagnostic yield (TLCB)",
+      "type": "continuous",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "At index procedure",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": 0.837,
+            "sd": null,
+            "total": 642
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": "pooled_proportion",
+        "est": 0.837,
+        "ci_lower": 0.769,
+        "ci_upper": 0.888,
+        "ci_level": 0.95,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Random effects meta-analysis (proportions)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All included TLCB studies",
+        "missing_handling": "not_applicable"
+      },
+      "provenance": {
+        "pages": [
+          1197
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "The pooled diagnostic yield ... of transbronchial lung cryobiopsy were 83.7% (76.9-88.8%)."
+      }
+    },
+    {
+      "concept_id": "pooled_diagnostic_yield_vats",
+      "name": "Pooled diagnostic yield (VATS)",
+      "type": "continuous",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "At index procedure",
+      "groups": [
+        {
+          "arm_id": "control",
+          "raw": {
+            "mean": 0.927,
+            "sd": null,
+            "total": 1594
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": "pooled_proportion",
+        "est": 0.927,
+        "ci_lower": 0.876,
+        "ci_upper": 0.958,
+        "ci_level": 0.95,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Random effects meta-analysis (proportions)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All included VATS studies",
+        "missing_handling": "not_applicable"
+      },
+      "provenance": {
+        "pages": [
+          1197
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "The pooled diagnostic yield ... of VATS were 92.7% (87.6-95.8%)."
+      }
+    },
+    {
+      "concept_id": "pooled_sensitivity_tlcb",
+      "name": "Pooled sensitivity (TLCB)",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "At index procedure",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": 0.87,
+            "sd": null,
+            "total": 642
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": "pooled_proportion",
+        "est": 0.87,
+        "ci_lower": 0.85,
+        "ci_upper": 0.89,
+        "ci_level": 0.95,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Random effects meta-analysis (diagnostic sensitivity)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "14 TLCB studies with sufficient 2x2 data",
+        "missing_handling": "not_applicable"
+      },
+      "provenance": {
+        "pages": [
+          1202
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "Pooled sensitivity ... of transbronchial lung cryobiopsy were 87% (85-89%; I2, 94%)."
+      }
+    },
+    {
+      "concept_id": "pooled_specificity_tlcb",
+      "name": "Pooled specificity (TLCB)",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "At index procedure",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": 0.57,
+            "sd": null,
+            "total": 642
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": "pooled_proportion",
+        "est": 0.57,
+        "ci_lower": 0.4,
+        "ci_upper": 0.73,
+        "ci_level": 0.95,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Random effects meta-analysis (diagnostic specificity)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "14 TLCB studies with sufficient 2x2 data",
+        "missing_handling": "not_applicable"
+      },
+      "provenance": {
+        "pages": [
+          1202
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "Pooled ... specificity of transbronchial lung cryobiopsy were ... 57% (40-73%; I2, 0%)."
+      }
+    },
+    {
+      "concept_id": "pooled_sensitivity_vats",
+      "name": "Pooled sensitivity (VATS)",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "At index procedure",
+      "groups": [
+        {
+          "arm_id": "control",
+          "raw": {
+            "mean": 0.91,
+            "sd": null,
+            "total": 1594
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": "pooled_proportion",
+        "est": 0.91,
+        "ci_lower": 0.89,
+        "ci_upper": 0.92,
+        "ci_level": 0.95,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Random effects meta-analysis (diagnostic sensitivity)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All included VATS studies",
+        "missing_handling": "not_applicable"
+      },
+      "provenance": {
+        "pages": [
+          1202
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "Pooled sensitivity ... of VATS were 91% (89-92%; I2, 91%)."
+      }
+    },
+    {
+      "concept_id": "pooled_specificity_vats",
+      "name": "Pooled specificity (VATS)",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "At index procedure",
+      "groups": [
+        {
+          "arm_id": "control",
+          "raw": {
+            "mean": 0.58,
+            "sd": null,
+            "total": 1594
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": "pooled_proportion",
+        "est": 0.58,
+        "ci_lower": 0.31,
+        "ci_upper": 0.81,
+        "ci_level": 0.95,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Random effects meta-analysis (diagnostic specificity)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All included VATS studies",
+        "missing_handling": "not_applicable"
+      },
+      "provenance": {
+        "pages": [
+          1202
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "Pooled ... specificity of VATS were 58% (31-81%; I2, 0%)."
+      }
+    },
+    {
+      "concept_id": "diagnostic_odds_ratio_tlcb",
+      "name": "Diagnostic odds ratio (TLCB)",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "At index procedure",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": 25.53,
+            "sd": null,
+            "total": 642
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": "pooled_DOR",
+        "est": 25.53,
+        "ci_lower": 8.92,
+        "ci_upper": 73.04,
+        "ci_level": 0.95,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Random effects meta-analysis (DOR)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "TLCB studies with 2x2 data",
+        "missing_handling": "not_applicable"
+      },
+      "provenance": {
+        "pages": [
+          1202
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "Diagnostic odds ratio for transbronchial lung cryobiopsy ... 25.53 (8.92-73.04)."
+      }
+    },
+    {
+      "concept_id": "diagnostic_odds_ratio_vats",
+      "name": "Diagnostic odds ratio (VATS)",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "At index procedure",
+      "groups": [
+        {
+          "arm_id": "control",
+          "raw": {
+            "mean": 21.06,
+            "sd": null,
+            "total": 1594
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": "pooled_DOR",
+        "est": 21.06,
+        "ci_lower": 7.08,
+        "ci_upper": 62.6,
+        "ci_level": 0.95,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Random effects meta-analysis (DOR)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All included VATS studies",
+        "missing_handling": "not_applicable"
+      },
+      "provenance": {
+        "pages": [
+          1202
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "Diagnostic odds ratio for ... VATS were 21.06 (7.08-62.60)."
+      }
+    },
+    {
+      "concept_id": "sroc_auc_combined",
+      "name": "Summary ROC area under the curve",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "At index procedure",
+      "groups": [],
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": "AUC",
+        "est": 0.85,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "SROC (Moses-Littenberg method)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Data from TLCB and VATS",
+        "missing_handling": "not_applicable"
+      },
+      "provenance": {
+        "pages": [
+          1202
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "SROC from the data on transbronchial lung cryobiopsy and VATS was calculated as 0.85 (SE = 0.07)."
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Endobronchial bleeding (grade 2, moderate to severe)",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Bronchial haemorrhage"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "other_medically_important_condition"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": null,
+          "patients": null,
+          "percentage": 4.9,
+          "total": 642
+        }
+      ],
+      "period": "Peri-procedural",
+      "management": "",
+      "provenance": {
+        "pages": [
+          1197
+        ],
+        "tables": [],
+        "quote": "The incidence of grade 2 (moderate to severe) endobronchial bleeding after transbronchial lung cryobiopsy ... was 4.9% (2.2-10.7%)."
+      }
+    },
+    {
+      "event_name": "Pneumothorax",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Pneumothorax"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "hospitalization"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": null,
+          "patients": null,
+          "percentage": 9.5,
+          "total": 642
+        }
+      ],
+      "period": "Peri-procedural",
+      "management": "",
+      "provenance": {
+        "pages": [
+          1197
+        ],
+        "tables": [],
+        "quote": "The incidence ... of post-procedural pneumothorax was 9.5% (5.9-14.9%)."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "QUADAS-2",
+    "overall_judgment": "unclear",
+    "domains": [
+      {
+        "name": "Patient selection",
+        "judgment": "unclear",
+        "support_for_judgment": "Mix of retrospective and prospective designs; potential selection bias across included studies."
+      },
+      {
+        "name": "Index test",
+        "judgment": "unclear",
+        "support_for_judgment": "Variability in TLCB protocols; blinding to reference standard often not reported."
+      },
+      {
+        "name": "Reference standard",
+        "judgment": "low",
+        "support_for_judgment": "Histopathology and multidisciplinary discussion used as reference standards."
+      },
+      {
+        "name": "Flow and timing",
+        "judgment": "unclear",
+        "support_for_judgment": "Incomplete reporting on timing between tests and handling of indeterminate results."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "diffuse parenchymal lung disease",
+      "interstitial lung disease",
+      "transbronchial lung cryobiopsy",
+      "video-assisted thoracoscopic surgery",
+      "diagnostic accuracy",
+      "meta-analysis"
+    ],
+    "summary_tldr": "Pooled diagnostic yield was 83.7% for TLCB vs 92.7% for VATS; TLCB sensitivity 87% and specificity 57%. Pneumothorax 9.5% and moderate-severe bleeding 4.9% after TLCB.",
+    "clinical_relevance": "TLCB offers a less invasive alternative to VATS for DPLD evaluation with acceptable safety and slightly lower diagnostic accuracy."
+  }
+}

@@ -1,0 +1,394 @@
+{
+  "source": {
+    "document_id": "Li-2019-The REACH Trial_ A Randomized Controll",
+    "ingest_date": "2025-08-08T14:00:52.669998+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1159/000494327"
+  },
+  "document": {
+    "metadata": {
+      "title": "The REACH Trial: A Randomized Controlled Trial Assessing the Safety and Effectiveness of the Spiration Valve System in the Treatment of Severe Emphysema",
+      "year": 2019,
+      "authors": [
+        "Shiyue Li",
+        "Guangfa Wang",
+        "Changhui Wang",
+        "Xinglin Gao",
+        "Faguang Jin",
+        "Huaping Yang",
+        "Baohui Han",
+        "Rui Zhou",
+        "Chengshui Chen",
+        "Liangan Chen",
+        "Chunxue Bai",
+        "Huahao Shen",
+        "Felix J.F. Herth",
+        "Nanshan Zhong"
+      ],
+      "journal": "Respiration",
+      "doi": "10.1159/000494327",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Background: Chronic obstructive pulmonary disease (COPD) has become a leading cause of morbidity and mortality in China, with tobacco smoke, air pollution, and occupational biohazards being the major risk factors. Objectives: The REACH trial is a multicenter, prospective, randomized controlled trial undertaken in China to assess the safety and effectiveness of the Spiration Valve System (SVS) compared to standard medical care in COPD patients with severe emphysema. Methods: Patients with severe airflow obstruction, hyperinflation, and severe dyspnea with interlobar fissure integrity were evaluated for enrollment. A total of 107 subjects were randomized in a 2:1 allocation ratio to either the treatment group (SVS valves and medical management) or the control group (medical management alone). Results: The 3-month primary endpoint showed statistically significant improvement in forced expiratory volume in 1 s in the treatment group compared to the control group (0.104 ± 0.18 vs. 0.003 ± 0.15 L, p = 0.001), with the difference being durable through 6 months. Statistically significant target lobe volume reduction was achieved at 3 months (mean change 684.4 ± 686.7 mL) and through 6 months (757.0 ± 665.3 mL). Exercise function and quality of life measures improved in the treatment group, but showed a deterioration in the control group. The serious adverse event (SAE) rate was 33% in the treatment group and 24.2% in the control group. The predominance of SAEs were acute exacerbations of COPD in both groups. There was 1 death in the control group and no deaths in the treatment group. Conclusion: The SVS represents a novel approach for the treatment of severe emphysema with a clinically acceptable risk-benefit profile.",
+      "methods": "REACH is a prospective, multicenter, unblinded, randomized, parallel assignment study at 12 clinical sites in China, comparing SVS plus medical management versus medical management alone with a 2:1 allocation. Patients had severe dyspnea (mMRC ≥2), severe airflow obstruction (post-bronchodilator FEV1 ≤45% predicted), and hyperinflation (TLC ≥100% and RV ≥150% predicted). HRCT required a target lobe with ≥40% emphysema, ≥15% heterogeneity versus the ipsilateral lobe, and fissure integrity ≥90%. Visual CT eligibility was adjudicated by the lead site and a core lab, with arbitration by QCT (Apollo; VIDA) using -920 HU when needed. Randomization used site-stratified, permuted blocks of 6 via opaque, sealed envelopes maintained by site coordinators. SVS valves (5, 6, or 7 mm) were placed by flexible bronchoscopy under general anesthesia; prophylactic antibiotics and optional periprocedural corticosteroids were used. Total lobar occlusion was targeted; valve number was unrestricted and replacement allowed. Minimum post-procedure hospitalization was 3 nights. Follow-up occurred at 1, 3 (primary endpoint), 6, and 12 months; HRCT follow-up was performed only in the treatment arm. If gains were less than expected, re-bronchoscopy after 1 month was permitted. Statistical analysis used normality assessment (Kolmogorov-Smirnov), followed by Student’s t test or Mann-Whitney U for continuous data, and Fisher’s exact or Pearson’s χ2 for categorical data; significance level 0.05. Missing data for subjects with at least one follow-up were handled with last observation carried forward.",
+      "results": "295 patients were screened; 107 were randomized. Seven withdrew consent prior to procedure (5 treatment, 2 control), and 1 treatment patient was excluded due to lung cancer, leaving 66 treatment and 33 control participants. All SVS procedures used general anesthesia; mean procedure time was 52.0 ± 18.6 min; mean 5.2 ± 1.1 valves per procedure; mean hospital stay 6.3 days. The primary endpoint showed greater FEV1 improvement at 3 months in treatment vs control (0.104 ± 0.178 L, n=63 vs 0.003 ± 0.147 L, n=32; p = 0.001), with differences maintained at 6 months (0.091 ± 0.156 L, n=63 vs -0.024 ± 0.142 L, n=33; p < 0.001). TLVR in the treatment arm was 684.4 ± 686.7 mL at 3 months and 757.0 ± 665.3 mL at 6 months. FEV1 responder rates (≥15% improvement) were higher in treatment vs control at 1, 3, and 6 months (49% vs 22%; 48% vs 13%; 41% vs 21%). The SAE rate was 33% in treatment and 24.2% in control; acute COPD exacerbations predominated. There was 1 death in the control group and none in the treatment group."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults in China with severe emphysema, severe airflow obstruction, hyperinflation, and severe dyspnea, with intact interlobar fissure and heterogeneous emphysema distribution.",
+      "inclusion_criteria": [
+        "mMRC dyspnea scale ≥ 2",
+        "Post-bronchodilator FEV1 ≤ 45% predicted",
+        "Total lung capacity ≥ 100% predicted",
+        "Residual volume ≥ 150% predicted",
+        "HRCT target lobe emphysema involvement ≥ 40%",
+        "Heterogeneity ≥ 15% difference versus ipsilateral lobe",
+        "Interlobar fissure integrity ≥ 90%"
+      ],
+      "exclusion_criteria": [
+        "Non-intact fissures",
+        "Emphysema not heterogeneous or not severe",
+        "No hyperinflation",
+        "Airflow obstruction not severe",
+        "Inadequate imaging",
+        "Life-threatening disease",
+        "Unable to tolerate CT procedure",
+        "COPD not stable",
+        "Severe gas exchange abnormalities",
+        "Unable or unwilling to complete assessments",
+        "Failed Six-Minute Walk Test",
+        "Death prior to randomization"
+      ]
+    },
+    "intervention": {
+      "text": "Spiration Valve System (SVS) plus medical management",
+      "details": "Umbrella-shaped, one-way endobronchial valves sized by calibrated balloon (5, 6, 7 mm) placed via flexible bronchoscopy under general anesthesia to achieve total target lobe occlusion; prophylactic antibiotics with optional corticosteroid pulse; number of valves not limited (mean 5.2); repeat bronchoscopy permitted after 1 month if occlusion incomplete; minimum 3-night hospitalization."
+    },
+    "comparison": {
+      "text": "Standard medical management alone",
+      "details": "Optimized pharmacologic and supportive COPD care per site practice; no bronchoscopic valve placement; identical follow-up schedule."
+    },
+    "outcomes": [
+      {
+        "name": "Change in FEV1 from baseline to 3 months",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "FEV1 responder rate (≥15% improvement) at 3 months",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Target lobe volume reduction (QCT) at 3 and 6 months",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Change in SGRQ, CAT, mMRC, 6MWT, residual volume",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Device-related serious adverse events through 3 months and overall safety through 6 months",
+        "type": "safety",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "RCT",
+    "allocation": "randomized",
+    "blinding": "unblinded",
+    "sites_count": 12,
+    "countries": [
+      "CN"
+    ],
+    "sample_size": {
+      "planned": 100,
+      "enrolled": 107,
+      "analyzed": 95
+    },
+    "analysis_populations": [
+      {
+        "name": "ITT",
+        "description": "All randomized participants (post-screening exclusions removed as per CONSORT figure)",
+        "n": 99
+      },
+      {
+        "name": "mITT_3m",
+        "description": "Subjects with baseline and 3-month FEV1; missing handled with LOCF for those with ≥1 follow-up",
+        "n": 95
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "Spiration Valve System plus medical management",
+      "n_randomized": 66,
+      "n_analyzed": 63,
+      "n_completed": 63
+    },
+    {
+      "arm_id": "control",
+      "name": "Medical management alone",
+      "n_randomized": 33,
+      "n_analyzed": 32,
+      "n_completed": 32
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "fev1_absolute_change_3m",
+      "name": "Absolute change in FEV1 from baseline",
+      "type": "continuous",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P3M",
+      "unit": "L",
+      "unit_canonical": "liter",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": 0.104,
+            "sd": 0.178,
+            "total": 63
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "mean": 0.003,
+            "sd": 0.147,
+            "total": 32
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "mean_difference",
+        "est": 0.101,
+        "ci_lower": 0.034,
+        "ci_upper": 0.168,
+        "ci_level": 0.95,
+        "p_value": 0.001,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Student's t-test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "mITT_3m",
+        "missing_handling": "Last observation carried forward for subjects with ≥1 follow-up"
+      },
+      "provenance": {
+        "pages": [
+          420
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "The treatment and control arms had mean FEV1 improvements from baseline to 3 months of 0.104 ± 0.178 and 0.003 ± 0.147 L, respectively, satisfying the primary effectiveness endpoint (p = 0.001)."
+      }
+    },
+    {
+      "concept_id": "fev1_absolute_change_1m",
+      "name": "Absolute change in FEV1 from baseline",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P1M",
+      "unit": "L",
+      "unit_canonical": "liter",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": 0.146,
+            "sd": 0.201,
+            "total": 59
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "mean": 0.017,
+            "sd": 0.117,
+            "total": 32
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "mean_difference",
+        "est": 0.129,
+        "ci_lower": 0.064,
+        "ci_upper": 0.194,
+        "ci_level": 0.95,
+        "p_value": 0.001,
+        "p_operator": "<",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Student's t-test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Subjects with baseline and 1-month FEV1",
+        "missing_handling": "Last observation carried forward for subjects with ≥1 follow-up"
+      },
+      "provenance": {
+        "pages": [
+          420
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Delta B - 1 month: 0.146 ± 0.201 L (treatment, n=59) vs 0.017 ± 0.117 L (control, n=32), p < 0.001."
+      }
+    },
+    {
+      "concept_id": "fev1_absolute_change_6m",
+      "name": "Absolute change in FEV1 from baseline",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P6M",
+      "unit": "L",
+      "unit_canonical": "liter",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": 0.091,
+            "sd": 0.156,
+            "total": 63
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "mean": -0.024,
+            "sd": 0.142,
+            "total": 33
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "mean_difference",
+        "est": 0.115,
+        "ci_lower": 0.053,
+        "ci_upper": 0.177,
+        "ci_level": 0.95,
+        "p_value": 0.001,
+        "p_operator": "<",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Student's t-test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Subjects with baseline and 6-month FEV1",
+        "missing_handling": "Last observation carried forward for subjects with ≥1 follow-up"
+      },
+      "provenance": {
+        "pages": [
+          420
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Delta B - 6 months: 0.091 ± 0.156 L (treatment, n=63) vs -0.024 ± 0.142 L (control, n=33), p < 0.001."
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Death",
+      "meddra": {
+        "soc": "General disorders and administration site conditions",
+        "pt": "Death"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "death"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 66
+        },
+        {
+          "arm_id": "control",
+          "events": 1,
+          "patients": 1,
+          "percentage": 3.0,
+          "total": 33
+        }
+      ],
+      "period": "0-6 months",
+      "management": "",
+      "provenance": {
+        "pages": [
+          416
+        ],
+        "tables": [],
+        "quote": "There was 1 death in the control group and no deaths in the treatment group."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "RoB 2",
+    "overall_judgment": "some concerns",
+    "domains": [
+      {
+        "name": "Randomization process",
+        "judgment": "low",
+        "support_for_judgment": "Site-stratified permuted block randomization with allocation concealment via opaque, sealed envelopes maintained by site coordinators."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "some concerns",
+        "support_for_judgment": "Unblinded design may introduce performance bias; three early valve removals at participant request following AEs."
+      },
+      {
+        "name": "Missing outcome data",
+        "judgment": "some concerns",
+        "support_for_judgment": "Some withdrawals and missed visits; LOCF used for subjects with at least one follow-up assessment."
+      },
+      {
+        "name": "Measurement of the outcome",
+        "judgment": "low",
+        "support_for_judgment": "Objective spirometry measured per standard procedures; unlikely influenced by lack of blinding."
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "some concerns",
+        "support_for_judgment": "Primary and key secondary endpoints prespecified and reported; registry protocol not provided in the article."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "chronic obstructive pulmonary disease",
+      "severe emphysema",
+      "bronchoscopic lung volume reduction",
+      "Spiration Valve System",
+      "endobronchial valves",
+      "intrabranchial valves",
+      "randomized controlled trial",
+      "China"
+    ],
+    "summary_tldr": "In severe emphysema patients with intact fissures, the Spiration Valve System improved FEV1 at 3 months by 0.104 L versus 0.003 L with medical management (p = 0.001), with benefits maintained at 6 months and no deaths in the treatment arm.",
+    "clinical_relevance": "Demonstrates safety and effectiveness of SVS in a Chinese multicenter RCT, supporting bronchoscopic lung volume reduction as a treatment option for selected patients with severe heterogeneous emphysema."
+  }
+}

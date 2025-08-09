@@ -1,0 +1,88 @@
+{
+  "source": {
+    "document_id": "Percutaneous dilational tracheostomy",
+    "ingest_date": "2025-08-08T14:49:25.654685+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1016/j.ccm.2013.04.002"
+  },
+  "document": {
+    "metadata": {
+      "title": "Percutaneous Dilational Tracheostomy",
+      "year": 2013,
+      "authors": [
+        "David W. Hsia",
+        "Uzair K. Ghori",
+        "Ali I. Musani"
+      ],
+      "journal": "Clinics in Chest Medicine",
+      "doi": "10.1016/j.ccm.2013.04.002",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Percutaneous dilational tracheostomy (PDT) is widely used in the ICU for airway management in patients with chronic respiratory failure or prolonged mechanical ventilation. Multiple techniques exist, with the single-dilator Ciaglia variant most commonly used. Flexible bronchoscopy is frequently employed as an adjunct and is associated with reduced complications compared with landmark-only techniques. Reported overall complication rates vary, with most being minor, and procedure-related mortality is low. PDT generally compares favorably with surgical tracheostomy with respect to procedure time, complications, and cost.",
+      "methods": "Narrative review describing PDT techniques, adjuncts (bronchoscopy, ultrasonography, laryngeal mask airway), procedure-related complications, and comparative data from published studies including randomized comparisons of different PDT techniques.",
+      "results": "Across studies summarized, bronchoscopy guidance during PDT was associated with a lower composite complication rate compared with non-bronchoscopic approaches in pooled nonrandomized data (16.8% vs 8.7%). Individual randomized comparisons among PDT techniques reported differences in specific complications (e.g., tracheal ring fracture, bleeding, hypoxemia), but head-to-head data are limited and findings are not uniform. Reported procedure-related mortality ranges from 0% to 0.7%, and bleeding from 0.4% to 8%, mostly minor."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Critically ill adults requiring tracheostomy for prolonged mechanical ventilation, airway protection, secretion management, or upper airway obstruction.",
+      "inclusion_criteria": [
+        "Adults in ICU settings requiring tracheostomy for prolonged ventilation or airway management"
+      ],
+      "exclusion_criteria": [
+        "Not specified in this narrative review"
+      ]
+    },
+    "intervention": {
+      "text": "Percutaneous dilational tracheostomy (PDT)",
+      "details": "Modified Seldinger approach; commonly Ciaglia single-dilator technique (Blue Rhino), with variations including multiple dilators, balloon dilation (Blue Dolphin), forceps (Griggs), translaryngeal, and rotational (PercuTwist); often performed with bronchoscopic guidance."
+    },
+    "comparison": {
+      "text": "Surgical tracheostomy and alternative PDT techniques/adjuncts",
+      "details": "Comparisons across literature include PDT vs surgical tracheostomy; within PDT, single vs multiple dilators, balloon dilation, forceps, translaryngeal, and rotational methods; bronchoscopy vs no bronchoscopy; ETT vs LMA during bronchoscopy-assisted PDT."
+    },
+    "outcomes": [
+      {
+        "name": "Procedure-related complications",
+        "type": "primary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "narrative review",
+    "allocation": "NA",
+    "blinding": "NA",
+    "sites_count": 0,
+    "countries": [],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": []
+  },
+  "arms": [],
+  "outcomes_normalized": [],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "NA",
+    "overall_judgment": "unclear",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "percutaneous dilational tracheostomy",
+      "PDT",
+      "bronchoscopy",
+      "critical care",
+      "ICU",
+      "tracheostomy techniques",
+      "complications"
+    ],
+    "summary_tldr": "Narrative review: PDT, especially Ciaglia single-dilator with bronchoscopic guidance, is widely used in ICUs with low mortality (0-0.7%) and generally favorable complication profile vs surgical tracheostomy.",
+    "clinical_relevance": "Supports bedside PDT as a safe, efficient airway procedure in the ICU, with bronchoscopy commonly recommended to reduce complications."
+  }
+}

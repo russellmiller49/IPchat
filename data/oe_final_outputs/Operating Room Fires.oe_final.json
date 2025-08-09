@@ -1,0 +1,249 @@
+{
+  "source": {
+    "document_id": "Operating Room Fires",
+    "ingest_date": "2025-08-08T14:43:27.557621+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": ""
+  },
+  "document": {
+    "metadata": {
+      "title": "Operating Room Fires",
+      "year": 2019,
+      "authors": [
+        "Teresa S. Jones",
+        "Ian H. Black",
+        "Thomas N. Robinson",
+        "Edward L. Jones"
+      ],
+      "journal": "Anesthesiology",
+      "doi": "",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Operating room fires are rare but devastating events. Guidelines are available for the prevention and management of surgical fires; however, these recommendations are based on expert opinion and case series. The three components of an operating room fire are present in virtually all surgical procedures: an oxidizer (oxygen, nitrous oxide), an ignition source (i.e., laser, “Bovie”), and a fuel. This review analyzes each fire ingredient to determine the optimal clinical strategy to reduce the risk of fire. Surgical checklists, team training, and the specific management of an operating room fire are also reviewed.",
+      "methods": "Narrative review of the literature and expert guidance on operating room fires, organized around the fire triangle: oxidizer, ignition source, and fuel. The review synthesizes data from bench experiments, observational claims analyses, regulatory advisories, and professional society recommendations. It includes a benchtop comparative test of alcohol-based versus non-alcohol-based skin preparations with standardized monopolar electrosurgery activation.",
+      "results": "Key quantitative findings summarized in the review include: (1) Operating room fires occur at least 650 times annually, with 2-3 patient deaths per year; most occur in the head/neck/upper chest (85%) and during monitored anesthesia care (81%). (2) Local oxygen concentration can exceed 35-50% under surgical drapes with open oxygen delivery at 6 L/min; nasal cannula flows can produce up to 60-70% local oxygen concentrations at higher flow rates. (3) In a benchtop experiment comparing skin preps, alcohol-based prep ignited in 13/60 samples with no drying versus 0/40 with non-alcohol-based prep (p<0.001), and 6/60 versus 0/40 after 3 minutes of drying (p=0.08), using a 2-second activation of a monopolar electrosurgical pencil. (4) Lasers can ignite endotracheal tubes in under 2 seconds in 100% oxygen. (5) Closed systems and mitigation strategies (e.g., FiO2 ≤30% with open delivery, open draping, suctioning under drapes, CO2 flooding, saline-soaked gauze) reduce fire risk."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Patients undergoing surgical and procedural care in operating and procedure rooms where oxidizers, ignition sources, and fuels are present; operating room teams (anesthesiology, surgery, nursing).",
+      "inclusion_criteria": [
+        "Surgical or procedural cases with potential oxidizer, ignition source, and fuel present",
+        "Settings including head/neck/upper chest procedures and airway surgeries",
+        "Use of electrosurgery or laser devices"
+      ],
+      "exclusion_criteria": [
+        "Scenarios without energy devices or oxidizer enrichment",
+        "Non-operating room settings without comparable fire hazards"
+      ]
+    },
+    "intervention": {
+      "text": "Fire risk mitigation strategies",
+      "details": "Maintain local oxygen concentration <30% for open delivery; prefer closed airway systems if FiO2 >30% is required; open draping to avoid oxygen pooling; discontinue 100% oxygen for 60-180 s before energy activation when not measuring FiO2; use suction under drapes; consider CO2 field flooding or CO2-emitting sleeves for monopolar devices; avoid or adequately dry alcohol-based skin preps; use saline-soaked gauze near airway; follow laser airway precautions."
+    },
+    "comparison": {
+      "text": "Non-mitigated or higher-risk practices",
+      "details": "Open oxygen delivery with FiO2 >30% near ignition sources; tented drapes; alcohol-based skin preps without adequate drying; absence of suction/CO2 flooding; dry gauze near airway; unprotected energy device handling."
+    },
+    "outcomes": [
+      {
+        "name": "Ignition with monopolar electrosurgery after skin prep (no drying)",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Ignition with monopolar electrosurgery after skin prep (3-minute drying)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Operating room fire incidence and injury",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "review",
+    "allocation": "NA",
+    "blinding": "NA",
+    "sites_count": 1,
+    "countries": [
+      "US"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": [
+      {
+        "name": "Bench test specimens (no drying)",
+        "description": "Samples exposed to 2-second monopolar activation immediately after prep application",
+        "n": 100
+      },
+      {
+        "name": "Bench test specimens (3-minute drying)",
+        "description": "Samples exposed to 2-second monopolar activation after 3 minutes of drying",
+        "n": 100
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "alcohol_prep",
+      "name": "Alcohol-based skin preparation",
+      "n_randomized": 0,
+      "n_analyzed": 60,
+      "n_completed": 60
+    },
+    {
+      "arm_id": "non_alcohol_prep",
+      "name": "Non-alcohol-based skin preparation",
+      "n_randomized": 0,
+      "n_analyzed": 40,
+      "n_completed": 40
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "ignition_after_prep_no_drying",
+      "name": "Ignition with monopolar electrosurgery after skin prep (no drying)",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "PT0M",
+      "timepoint_label": "Immediate (no drying)",
+      "groups": [
+        {
+          "arm_id": "alcohol_prep",
+          "raw": {
+            "events": 13,
+            "total": 60
+          }
+        },
+        {
+          "arm_id": "non_alcohol_prep",
+          "raw": {
+            "events": 0,
+            "total": 40
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "non_alcohol_prep",
+        "measure": "risk_difference",
+        "est": 0.2167,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.001,
+        "p_operator": "<",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Fisher's exact test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Bench test specimens",
+        "missing_handling": "None"
+      },
+      "provenance": {
+        "pages": [
+          496
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "None: 0% (0/40) non-alcohol-based vs 22% (13/60) alcohol-based; p<0.001. All fires with the alcohol-based prep were ignited after the 'drying time' with a 2-s activation of a standard monopolar 'Bovie' pencil. No fires were ignited with a non-alcohol-based prep."
+      },
+      "derived": {
+        "arr": 0.217,
+        "nnt": 4.6
+      }
+    },
+    {
+      "concept_id": "ignition_after_prep_3min_drying",
+      "name": "Ignition with monopolar electrosurgery after skin prep (3-minute drying)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "PT3M",
+      "timepoint_label": "After 3 minutes drying",
+      "groups": [
+        {
+          "arm_id": "alcohol_prep",
+          "raw": {
+            "events": 6,
+            "total": 60
+          }
+        },
+        {
+          "arm_id": "non_alcohol_prep",
+          "raw": {
+            "events": 0,
+            "total": 40
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "non_alcohol_prep",
+        "measure": "risk_difference",
+        "est": 0.1,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.08,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Fisher's exact test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Bench test specimens",
+        "missing_handling": "None"
+      },
+      "provenance": {
+        "pages": [
+          496
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "3 min: 0% (0/40) non-alcohol-based vs 10% (6/60) alcohol-based; p=0.08."
+      },
+      "derived": {
+        "arr": 0.1,
+        "nnt": 10.0
+      }
+    }
+  ],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "Not applicable",
+    "overall_judgment": "unclear",
+    "domains": [
+      {
+        "name": "Applicability to clinical practice",
+        "judgment": "unclear",
+        "support_for_judgment": "Findings synthesized from narrative review and benchtop experiments; no randomized clinical comparisons within the review."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "operating room fire",
+      "oxygen concentration",
+      "electrosurgery",
+      "alcohol-based skin prep",
+      "laser airway fire",
+      "draping",
+      "FiO2 30%"
+    ],
+    "summary_tldr": "In benchtop testing, alcohol-based skin prep ignited in 13/60 vs 0/40 samples without drying (p<0.001) and 6/60 vs 0/40 after 3 minutes (p=0.08). Keeping local FiO2 <30% and preventing oxygen pooling under drapes are key to fire prevention.",
+    "clinical_relevance": "Provides actionable, evidence-informed steps to reduce surgical fire risk: minimize local oxygen, avoid/fully dry alcohol preps before energy activation, and use open draping/suction or CO2 field mitigation."
+  }
+}

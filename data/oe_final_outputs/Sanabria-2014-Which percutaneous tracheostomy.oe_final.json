@@ -1,0 +1,179 @@
+{
+  "source": {
+    "document_id": "Sanabria-2014-Which percutaneous tracheostomy",
+    "ingest_date": "2025-08-08T15:44:55.092008+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.4187/respcare.03050"
+  },
+  "document": {
+    "metadata": {
+      "title": "Which Percutaneous Tracheostomy Method Is Better? A Systematic Review",
+      "year": 2014,
+      "authors": [
+        "Alvaro Sanabria"
+      ],
+      "journal": "Respiratory Care",
+      "doi": "10.4187/respcare.03050",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "BACKGROUND: The aim of this study was to assess the different methods of percutaneous tracheostomy in terms of successful performance of the tracheostomy as well as safety. Tracheostomy is the most common procedure performed on the airway for patients in ICUs. Lately, several methods of percutaneous tracheostomy (multiple dilator, progressive dilator, forceps dilation, screw-like dilation, balloon dilation, and translaryngeal) have been described, with theoretical advantages, but there is no consensus about which is better. METHODS: A systematic review with critical appraisal of the literature was done. Literature in multiple databases was searched. Randomized controlled trials comparing different tracheostomy methods were selected. Clinical and methodological characteristics were assessed. A meta-analysis using fixed effect models was planned for statistically homogeneous outcomes. RESULTS: Fourteen randomized controlled trials were included, most of them with small sample sizes and with comparisons of multiple methods. Blue Rhino methods were less difficult for surgeons (risk difference of 14.7% [95% CI 8-21.5]) and had more minor bleeding events (risk difference of -6.3% [95% CI -13.58 to 0.8]). There were no differences in major bleeding events. Statistically, heterogeneity and lack of data impede comparison with other outcomes. CONCLUSIONS: The Blue Rhino method is less difficult and has more minor bleeding events, but physicians also have more experience with this technique. However, trials are underpowered to define the best method.",
+      "methods": "A search was conducted on the MEDLINE, LILACS, Embase, and Cochrane Collaboration databases for randomized controlled trials published between January 1985 and November 2013 using the terms tracheostomy, tracheotomy, clinical trial, and percutaneous. References were explored to identify other articles. Only studies published in English were included. Inclusion criteria: RCTs of adult ICU subjects undergoing elective tracheostomy. Exclusion criteria: contraindications to percutaneous tracheostomy such as local infection, bleeding disorders, malignant cervical tumors, and spinal trauma. Methods analyzed: Ciaglia multiple dilator, Ciaglia Blue Rhino (single progressive dilator), Ciaglia balloon dilator, Griggs (dilating forceps), Fantoni (translaryngeal), and PercuTwist (screw-like dilator). Main outcomes: complications and difficulty/impossibility to perform the procedure. Complications were classified as major (bleeding requiring any intervention, those defined as major by original authors, or posterior tracheal tears) and minor (limited bleeding). Follow-up was until death or ICU discharge. Difficulty was classified subjectively by most authors; a negative outcome was defined as highly difficult or impossible tracheostomy or need to change the method. Risk differences (95% CI) were calculated using Mantel-Haenszel fixed effects when heterogeneity allowed (I2 ≤ 50%). Heterogeneity was assessed with Q test (P ≤ 0.05) and I2. Sensitivity analyses and subgroup analyses by antegrade vs retrograde and by dilation technique were planned.",
+      "results": "A total of 14 RCTs directly compared 2 percutaneous tracheostomy methods. Most trials had small samples and compared multiple methods. Pooled estimates showed Blue Rhino methods were less difficult for operators (risk difference 14.7% [95% CI 8-21.5], indicating fewer difficulty events with Blue Rhino when using the review’s RD convention) and had more minor bleeding events (risk difference -6.3% [95% CI -13.58 to 0.8], indicating more minor bleeding with Blue Rhino under the review’s RD convention). No statistically significant differences were found in major bleeding. Heterogeneity and lack of detailed data impeded robust comparisons for several outcomes. Individual trials noted specific findings: Blue Rhino vs multiple dilator showed a significant reduction in tracheal ring fractures; Blue Rhino vs Blue Dolphin (balloon) showed longer operating time and more difficulty and minor bleeding with Blue Dolphin; Blue Rhino vs Griggs showed mixed peri-procedural physiologic effects and isolated complications (e.g., surgical emphysema 3 vs 0 with Griggs vs Blue Rhino in one RCT)."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults in ICUs undergoing elective percutaneous tracheostomy.",
+      "inclusion_criteria": [
+        "Randomized controlled trials",
+        "Adult ICU patients",
+        "Elective percutaneous tracheostomy"
+      ],
+      "exclusion_criteria": [
+        "Local infection",
+        "Bleeding disorders/coagulopathy",
+        "Malignant cervical tumors",
+        "Spinal trauma",
+        "Adverse neck anatomy such as short neck/goiter/distorted trachea (per individual trial)"
+      ]
+    },
+    "intervention": {
+      "text": "Percutaneous tracheostomy using specific antegrade or retrograde techniques/devices",
+      "details": "Ciaglia Blue Rhino (single progressive dilator), Ciaglia balloon dilator (Blue Dolphin), Griggs dilating forceps, PercuTwist screw-like dilator, Fantoni translaryngeal, Ciaglia multiple dilator"
+    },
+    "comparison": {
+      "text": "Alternative percutaneous tracheostomy techniques",
+      "details": "Head-to-head comparisons between device/technique pairs across included RCTs"
+    },
+    "outcomes": [
+      {
+        "name": "Procedure difficulty or impossibility/conversion",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Complications (minor bleeding, major bleeding, tracheal tears, false passage, pneumothorax)",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "systematic_review_meta_analysis",
+    "allocation": "NA",
+    "blinding": "NA",
+    "sites_count": 0,
+    "countries": [],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": [
+      {
+        "name": "Included trials",
+        "description": "All randomized controlled trials included in the meta-analysis",
+        "n": 14
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "Ciaglia Blue Rhino (single progressive dilator)",
+      "n_randomized": 30,
+      "n_analyzed": 30,
+      "n_completed": 30
+    },
+    {
+      "arm_id": "control",
+      "name": "Griggs dilating forceps",
+      "n_randomized": 30,
+      "n_analyzed": 30,
+      "n_completed": 30
+    }
+  ],
+  "outcomes_normalized": [],
+  "safety_normalized": [
+    {
+      "event_name": "Subcutaneous emphysema",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Subcutaneous emphysema"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 30
+        },
+        {
+          "arm_id": "control",
+          "events": 3,
+          "patients": 3,
+          "percentage": 10,
+          "total": 30
+        }
+      ],
+      "period": "Peri-procedural",
+      "management": "",
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "There were more cases of surgical emphysema in the Griggs group (3 vs 0)."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "Cochrane risk of bias (narrative; per included RCTs)",
+    "overall_judgment": "some concerns",
+    "domains": [
+      {
+        "name": "Randomization process",
+        "judgment": "some concerns",
+        "support_for_judgment": "Many trials small with limited reporting of sequence generation and allocation concealment."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "low",
+        "support_for_judgment": "Procedures were protocolized bedside techniques with operator oversight."
+      },
+      {
+        "name": "Missing outcome data",
+        "judgment": "low",
+        "support_for_judgment": "Short peri-procedural outcomes with follow-up to ICU discharge were generally complete."
+      },
+      {
+        "name": "Measurement of the outcome",
+        "judgment": "some concerns",
+        "support_for_judgment": "Difficulty ratings were subjective; blinding of assessors was not feasible."
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "some concerns",
+        "support_for_judgment": "Heterogeneity and incomplete data limited pooling; selective reporting cannot be excluded."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "percutaneous tracheostomy",
+      "Blue Rhino",
+      "Griggs",
+      "PercuTwist",
+      "balloon dilator",
+      "Fantoni",
+      "ICU",
+      "randomized controlled trial",
+      "meta-analysis"
+    ],
+    "summary_tldr": "Across 14 small RCTs, Blue Rhino was less difficult but had more minor bleeding; no difference in major bleeding. Evidence heterogeneous and underpowered.",
+    "clinical_relevance": "Technique selection may consider operator experience and device-specific trade-offs (ease vs minor bleeding), with no clear superiority in major complications."
+  }
+}

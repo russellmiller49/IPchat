@@ -1,0 +1,294 @@
+{
+  "source": {
+    "document_id": "Herth-2019-Endoscopic Lung Volume Reduction_ A",
+    "ingest_date": "2025-08-08T13:08:05.682810+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1159/000496122"
+  },
+  "document": {
+    "metadata": {
+      "title": "Endoscopic Lung Volume Reduction: An Expert Panel Recommendation - Update 2019",
+      "year": 2019,
+      "authors": [
+        "Felix J.F. Herth",
+        "Dirk-Jan Slebos",
+        "Gerard J. Criner",
+        "Arschang Valipour",
+        "Frank Sciurba",
+        "Pallav L. Shah"
+      ],
+      "journal": "Respiration",
+      "doi": "10.1159/000496122",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Endoscopic lung volume reduction (ELVR) therapies are gaining prominence as a treatment option with guideline recommendations by COPD GOLD and NICE and the recent FDA approval for endobronchial valves. The transition from an experiment-based therapy only to clinical care comes with new challenges. A significant volume of evidence-based data has been published; all data demonstrate consistent improvements in several aspects of patient outcomes. Patients suffering from severe air trapping and thoracic hyperinflation seem to benefit the most from ELVR. In addition to lung function, baseline assessment should ideally include cardiopulmonary exercise testing, high-resolution computer tomography scan, perfusion scintigraphy, and echocardiography. This expert ELVR statement updates best practice recommendations from 2017 regarding patient selection and utilization of these various techniques for treating patients with advanced emphysema.",
+      "methods": "Expert panel narrative update of prior recommendations incorporating recently published randomized controlled trials and meta-analyses. Recommendations cover patient selection, imaging assessment (including fissure analysis and Chartis), device updates (endobronchial valves, intrabronchial valves/Spiration Valve System, coils, vapor), complications management, and survival signals.",
+      "results": "The LIBERATE RCT (n=190; 2:1 EBV:standard-of-care at 24 sites) reported at 12 months a higher proportion of patients achieving post-bronchodilator FEV1 improvement ≥15% with EBV versus standard care (47.7% vs 16.8%; p<0.001). Between-group differences favored EBV for absolute FEV1 change (+0.106 L; p<0.001), 6MWD (+39.31 m; p=0.002), SGRQ (-7.05 points; p=0.004), and RV (-522 mL; p<0.001). Pneumothorax was the most common serious adverse event during the procedure-to-45-day period in 34/128 (26.6%) EBV subjects. Additional RCT data for the Spiration Valve System showed improvements in FEV1, SGRQ, and 6MWD with pneumothorax and COPD exacerbations as the most common complications. The panel provides updated selection and procedural recommendations including imaging-based fissure assessment thresholds and the use of Chartis in partially complete fissures."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with advanced emphysema and severe hyperinflation who remain highly symptomatic despite optimal COPD medical therapy and pulmonary rehabilitation.",
+      "inclusion_criteria": [
+        "COPD GOLD stage 3-4",
+        "FEV1 20-50% predicted",
+        "Hyperinflation: RV ≥175% predicted or RV/TLC ≥0.58",
+        "Reduced 6MWD 100-450 m",
+        "Completed or participating in pulmonary rehabilitation"
+      ],
+      "exclusion_criteria": [
+        "Severe pulmonary hypertension (for coils, vapor, sealants)",
+        "Significant comorbidities on CT (e.g., bronchiectasis, nodules, suspected lung cancer, interstitial fibrosis, severe tracheobronchomalacia) requiring evaluation",
+        "Incomplete fissures with collateral ventilation for valve therapy (FCS <80% by QCT)"
+      ]
+    },
+    "intervention": {
+      "text": "Zephyr Endobronchial Valves (EBV) for endoscopic lung volume reduction",
+      "details": "Bronchoscopic placement of one-way endobronchial valves to achieve target lobe volume reduction in patients with little or no collateral ventilation as determined by fissure completeness on QCT (>95%) or Chartis in partially complete fissures (80-95%)."
+    },
+    "comparison": {
+      "text": "Standard of care (optimized medical therapy)",
+      "details": "Maximal pharmacological therapy including bronchodilators and inhaled corticosteroids in selected cases, pulmonary rehabilitation, smoking cessation, oxygen therapy or non-invasive ventilation as indicated."
+    },
+    "outcomes": [
+      {
+        "name": "FEV1 responder rate (≥15% improvement) at 12 months",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Absolute change in FEV1 at 12 months",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Change in 6-minute walk distance at 12 months",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Change in SGRQ total score at 12 months",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Change in residual volume at 12 months",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "RCT",
+    "allocation": "randomized",
+    "blinding": "open-label",
+    "sites_count": 24,
+    "countries": [],
+    "sample_size": {
+      "planned": null,
+      "enrolled": 190,
+      "analyzed": 190
+    },
+    "analysis_populations": [
+      {
+        "name": "ITT",
+        "description": "All randomized participants",
+        "n": 190
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "Zephyr Endobronchial Valve (EBV)",
+      "n_randomized": 128,
+      "n_analyzed": 128,
+      "n_completed": null
+    },
+    {
+      "arm_id": "control",
+      "name": "Standard of care",
+      "n_randomized": 62,
+      "n_analyzed": 62,
+      "n_completed": null
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "primary_fev1_responder_12m",
+      "name": "FEV1 ≥15% improvement at 12 months",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P12M",
+      "timepoint_label": "12 months",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 61,
+            "total": 128
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 10,
+            "total": 62
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": 0.315,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.001,
+        "p_operator": "<",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Between-group comparison of proportions",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          552
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "At 12 months, subjects with 47.7% EBV and 16.8% SoC had a ΔFEV1 ≥15% (p < 0.001)."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 2.955
+        },
+        "odds_ratio": {
+          "est": 4.734
+        },
+        "arr": 0.315,
+        "nnt": 3.2
+      }
+    },
+    {
+      "concept_id": "fev1_absolute_change_12m_diff",
+      "name": "Absolute FEV1 change (between-group difference)",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P12M",
+      "unit": "L",
+      "unit_canonical": "liter",
+      "groups": [],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "mean_difference",
+        "est": 0.106,
+        "ci_lower": null,
+        "ci_upper": null,
+        "p_value": 0.001,
+        "p_operator": "<",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Between-group difference in change from baseline",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT"
+      },
+      "provenance": {
+        "pages": [
+          552
+        ],
+        "tables": [],
+        "quote": "ΔEBV-SoC at 12 months was statistically and clinically significant: FEV1 (L), 0.106 L (p < 0.001)"
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Pneumothorax",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Pneumothorax"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "hospitalization"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 34,
+          "patients": 34,
+          "percentage": 26.6,
+          "total": 128
+        },
+        {
+          "arm_id": "control",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 62
+        }
+      ],
+      "period": "0-45 days",
+      "management": "Admit and monitor for ≥3 days; manage with intercostal chest drainage or ambulatory drain; consider removal of one or all valves if persistent high-flow air leak; thoracoscopic intervention if needed.",
+      "provenance": {
+        "pages": [
+          552
+        ],
+        "tables": [],
+        "quote": "Pneumothorax was the most common serious adverse event (SAE) during the treatment period (procedure to 45 days) in 34/128 (26.6%) EBV subjects."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "RoB 2",
+    "overall_judgment": "some concerns",
+    "domains": [
+      {
+        "name": "Randomization process",
+        "judgment": "some concerns",
+        "support_for_judgment": "Randomization and allocation details for the LIBERATE RCT were not fully described in this narrative summary."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "some concerns",
+        "support_for_judgment": "Open-label design; potential performance bias; not fully detailed here."
+      },
+      {
+        "name": "Missing outcome data",
+        "judgment": "some concerns",
+        "support_for_judgment": "Completion and analysis populations not specified in this summary."
+      },
+      {
+        "name": "Measurement of the outcome",
+        "judgment": "low",
+        "support_for_judgment": "Objective outcomes (spirometry, 6MWD) with standard measures."
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "some concerns",
+        "support_for_judgment": "Only selected endpoints reported in the narrative."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "emphysema",
+      "endobronchial valve",
+      "Zephyr",
+      "bronchoscopy",
+      "lung volume reduction",
+      "COPD"
+    ],
+    "summary_tldr": "In the LIBERATE RCT summarized by this expert panel, Zephyr valves increased the proportion of FEV1 responders (≥15%) at 12 months (47.7% vs 16.8%; p<0.001) and improved FEV1, 6MWD, SGRQ, and RV, with pneumothorax in 26.6% within 45 days.",
+    "clinical_relevance": "Supports adoption of endobronchial valves as a treatment option for advanced emphysema with severe hyperinflation and minimal collateral ventilation."
+  }
+}

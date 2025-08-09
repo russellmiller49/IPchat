@@ -1,0 +1,574 @@
+{
+  "source": {
+    "document_id": "Clinical Utility of a Bronchial Genomic Classi",
+    "ingest_date": "2025-08-08T10:42:41.453225+00:00",
+    "trial_registration_id": "NCT01309087; NCT00746759",
+    "pmid": "",
+    "doi": "10.1016/j.chest.2016.02.636"
+  },
+  "document": {
+    "metadata": {
+      "title": "Clinical Utility of a Bronchial Genomic Classifier in Patients With Suspected Lung Cancer",
+      "year": 2016,
+      "authors": [
+        "Anil Vachani",
+        "Duncan H. Whitney",
+        "Edward C. Parsons",
+        "Marc Lenburg",
+        "J. Scott Ferguson",
+        "Gerard A. Silvestri",
+        "Avrum Spira"
+      ],
+      "journal": "Chest",
+      "doi": "10.1016/j.chest.2016.02.636",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "BACKGROUND: Bronchoscopy is often the initial diagnostic procedure performed in patients with pulmonary lesions suggestive of lung cancer. A bronchial genomic classifier was previously validated to identify patients at low risk for lung cancer after an inconclusive bronchoscopy. In this study, we evaluated the potential of the classifier to reduce invasive procedure utilization in patients with suspected lung cancer. METHODS: In two multicenter trials of patients undergoing bronchoscopy for suspected lung cancer, the classifier was measured in normal-appearing bronchial epithelial cells from a mainstem bronchus. Among patients with low and intermediate pretest probability of cancer (n = 222), subsequent invasive procedures after an inconclusive bronchoscopy were identified. Estimates of the ability of the classifier to reduce unnecessary procedures were calculated. RESULTS: Of the 222 patients, 188 (85%) had an inconclusive bronchoscopy and follow-up procedure data available for analysis. Seventy-seven (41%) patients underwent an additional 99 invasive procedures, which included surgical lung biopsy in 40 (52%) patients. Benign and malignant diseases were ultimately diagnosed in 62 (81%) and 15 (19%) patients, respectively. Among those undergoing surgical biopsy, 20 (50%) were performed in patients with benign disease. If the classifier had been used to guide decision making, procedures could have been avoided in 50% (21 of 42) of patients undergoing further invasive testing. Further, among 35 patients with an inconclusive index bronchoscopy who were diagnosed with lung cancer, the sensitivity of the classifier was 89%, with 4 (11%) patients having a false-negative classifier result. CONCLUSIONS: Invasive procedures after an inconclusive bronchoscopy occur frequently, and most are performed in patients ultimately diagnosed with benign disease. Using the genomic classifier as an adjunct to bronchoscopy may reduce the frequency and associated morbidity of these invasive procedures.",
+      "methods": "Two prospective multicenter observational cohorts (AEGIS-1 and AEGIS-2; 28 centers) enrolled current/former smokers without prior cancer undergoing bronchoscopy for suspected lung cancer. At bronchoscopy, two brushings of normal-appearing mainstem bronchial epithelium were collected and profiled (Affymetrix Gene 1.0 ST arrays). A 23-gene bronchial genomic classifier (Percepta, Veracyte) had been trained/validated previously; clinicians and patients were blinded to classifier results. Pretest probability of cancer was assessed by treating physicians using 5 strata and binned to low (<10%), intermediate (10%-60%), or high (>60%). For this clinical utility analysis, only patients with low or intermediate pretest probability (n = 222) were included. Among those with inconclusive index bronchoscopy, subsequent invasive procedures (repeat bronchoscopy, TTNB, surgical lung biopsy) over 12 months were abstracted. Statistical comparisons used Mann-Whitney U for continuous variables and Fisher exact test for categorical variables. Analyses were conducted in R 3.2.1.",
+      "results": "Of 222 low/intermediate-risk patients, 199 (90%) had inconclusive bronchoscopy; follow-up procedure data were available for 188 (94%). In this analyzed cohort, 35 (19%) were ultimately diagnosed with lung cancer and 153 (81%) with benign disease. After inconclusive bronchoscopy, 77/188 (41%) underwent ≥1 additional invasive procedure (99 procedures total): surgical lung biopsy in 40/77 (52%), TTNB in 20/77 (26%), and repeat bronchoscopy in 39/77 (51%). Additional invasive procedures were more common in intermediate- vs low-risk patients (62/117 [53%] vs 15/71 [21%]; P < .001). Among those who underwent additional invasive testing, 42/77 (55%) had benign disease (low-risk 13/15 [87%], intermediate-risk 29/62 [47%]). Of 40 surgical lung biopsies, 20 (50%) were in patients with benign disease (low-risk 6/7 [86%], intermediate-risk 14/33 [42%]). Among 35 cancers diagnosed after inconclusive bronchoscopy, 27 (80%) were diagnosed within 3 months and 8 (20%) between 3 and 12 months. Classifier performance in this subset: sensitivity 89% (31/35 positive; 4/35 false-negative). Among benign cases, 83/153 (54%) had a negative classifier result. Hypothetically, if a negative classifier led to surveillance rather than invasive testing, procedures could have been avoided in 21/42 (50%) benign patients who underwent additional invasive testing."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Current or former smokers undergoing bronchoscopy for suspected lung cancer with low or intermediate pretest probability and inconclusive index bronchoscopy.",
+      "inclusion_criteria": [
+        "Current or former smoker",
+        "Undergoing bronchoscopy for suspected lung cancer",
+        "Low (<10%) or intermediate (10%-60%) physician-assessed pretest probability",
+        "Classifier bronchial brushing obtained from normal-appearing mainstem bronchus",
+        "Inconclusive index bronchoscopy (no malignancy on cytopathology) for analysis cohort",
+        "Follow-up diagnosis or 12-month radiographic stability/resolution"
+      ],
+      "exclusion_criteria": [
+        "High pretest probability (>60%) for the clinical utility analysis",
+        "Definitive diagnosis of lung cancer at index bronchoscopy",
+        "No follow-up diagnostic/procedure data",
+        "No definitive diagnosis and no stability/resolution at 12 months",
+        "Prior history of cancer"
+      ]
+    },
+    "intervention": {
+      "text": "Bronchial genomic classifier (Percepta) as adjunct to bronchoscopy",
+      "details": "23-gene expression classifier measured from cytologically normal-appearing mainstem bronchial epithelial brushings at index bronchoscopy; clinicians blinded during the study. Clinical utility assessed by modeling the impact of a negative result on deferring further invasive procedures in low/intermediate risk."
+    },
+    "comparison": {
+      "text": "Usual care without classifier-guided decision-making",
+      "details": "Observed management and invasive procedure utilization after inconclusive bronchoscopy under blinding to classifier results."
+    },
+    "outcomes": [
+      {
+        "name": "Rate of subsequent invasive procedures within 12 months after inconclusive bronchoscopy",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Proportion undergoing surgical lung biopsy within 12 months",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Final diagnosis of lung cancer within 12 months after inconclusive bronchoscopy",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Classifier sensitivity among cancers not diagnosed at index bronchoscopy",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Classifier true-negative rate among benign cases",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Delay in cancer diagnosis (>3 to 12 months) after inconclusive bronchoscopy",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Potentially avoidable invasive procedures among benign patients who underwent further testing, if classifier used",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Prospective observational cohort",
+    "allocation": "non-randomized",
+    "blinding": "Clinicians and patients blinded to classifier results",
+    "sites_count": 28,
+    "countries": [
+      "US"
+    ],
+    "sample_size": {
+      "planned": null,
+      "enrolled": 222,
+      "analyzed": 188
+    },
+    "analysis_populations": [
+      {
+        "name": "Inconclusive bronchoscopy cohort",
+        "description": "Low/intermediate pretest probability with inconclusive index bronchoscopy and follow-up data",
+        "n": 188
+      },
+      {
+        "name": "Low pretest probability",
+        "description": "Low (<10%) pretest probability subgroup within analysis cohort",
+        "n": 71
+      },
+      {
+        "name": "Intermediate pretest probability",
+        "description": "Intermediate (10%-60%) pretest probability subgroup within analysis cohort",
+        "n": 117
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "overall",
+      "name": "Overall inconclusive bronchoscopy cohort",
+      "n_randomized": 0,
+      "n_analyzed": 188,
+      "n_completed": 188
+    },
+    {
+      "arm_id": "low_pretest_probability",
+      "name": "Low pretest probability (<10%)",
+      "n_randomized": 0,
+      "n_analyzed": 71,
+      "n_completed": 71
+    },
+    {
+      "arm_id": "intermediate_pretest_probability",
+      "name": "Intermediate pretest probability (10%-60%)",
+      "n_randomized": 0,
+      "n_analyzed": 117,
+      "n_completed": 117
+    },
+    {
+      "arm_id": "cancer_after_inconclusive",
+      "name": "Patients diagnosed with lung cancer after inconclusive bronchoscopy",
+      "n_randomized": 0,
+      "n_analyzed": 35,
+      "n_completed": 35
+    },
+    {
+      "arm_id": "benign_after_inconclusive",
+      "name": "Patients with benign final diagnosis after inconclusive bronchoscopy",
+      "n_randomized": 0,
+      "n_analyzed": 153,
+      "n_completed": 153
+    },
+    {
+      "arm_id": "benign_with_additional_testing",
+      "name": "Benign patients who underwent additional invasive testing",
+      "n_randomized": 0,
+      "n_analyzed": 42,
+      "n_completed": 42
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "subsequent_invasive_procedure_any_12m",
+      "name": "Any subsequent invasive procedure within 12 months after inconclusive bronchoscopy",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P12M",
+      "timepoint_label": "12 months",
+      "groups": [
+        {
+          "arm_id": "low_pretest_probability",
+          "raw": {
+            "events": 15,
+            "total": 71
+          }
+        },
+        {
+          "arm_id": "intermediate_pretest_probability",
+          "raw": {
+            "events": 62,
+            "total": 117
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "low_pretest_probability",
+        "measure": "risk_difference",
+        "est": 0.319,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.001,
+        "p_operator": "<",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Fisher exact test for proportions",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Low and intermediate pretest probability with inconclusive index bronchoscopy",
+        "missing_handling": "Complete case; patients without follow-up procedure data excluded"
+      },
+      "provenance": {
+        "pages": [
+          213
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "Physicians were more likely to pursue additional procedures in patients with an intermediate probability compared with those with low probability (53% vs 21%; P < .001) (Table 2)."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.399
+        },
+        "odds_ratio": {
+          "est": 0.238
+        },
+        "arr": -0.319,
+        "nnh": 3.1
+      }
+    },
+    {
+      "concept_id": "surgical_lung_biopsy_performed_12m",
+      "name": "Surgical lung biopsy performed within 12 months",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P12M",
+      "timepoint_label": "12 months",
+      "groups": [
+        {
+          "arm_id": "low_pretest_probability",
+          "raw": {
+            "events": 7,
+            "total": 71
+          }
+        },
+        {
+          "arm_id": "intermediate_pretest_probability",
+          "raw": {
+            "events": 33,
+            "total": 117
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "low_pretest_probability",
+        "measure": "risk_difference",
+        "est": 0.165,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive; proportion comparison",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Low and intermediate pretest probability with inconclusive index bronchoscopy",
+        "notes": "Counts derived from explicit denominators reported (7 low-risk, 33 intermediate-risk)."
+      },
+      "provenance": {
+        "pages": [
+          214
+        ],
+        "tables": [],
+        "quote": "Among the 77 patients who underwent subsequent invasive testing, 40 (52%) had a surgical lung biopsy... this included 86% (6 of 7) in patients with low probability and 42% (14 of 33) in patients with intermediate probability, respectively."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.35
+        },
+        "odds_ratio": {
+          "est": 0.278
+        },
+        "arr": -0.183,
+        "nnh": 5.5
+      }
+    },
+    {
+      "concept_id": "cancer_diagnosed_during_followup_12m",
+      "name": "Lung cancer diagnosed during follow-up after inconclusive bronchoscopy",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P12M",
+      "timepoint_label": "12 months",
+      "groups": [
+        {
+          "arm_id": "low_pretest_probability",
+          "raw": {
+            "events": 2,
+            "total": 71
+          }
+        },
+        {
+          "arm_id": "intermediate_pretest_probability",
+          "raw": {
+            "events": 33,
+            "total": 117
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "low_pretest_probability",
+        "measure": "risk_difference",
+        "est": 0.255,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive; proportion comparison",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Low and intermediate pretest probability with inconclusive index bronchoscopy"
+      },
+      "provenance": {
+        "pages": [
+          213
+        ],
+        "tables": [
+          "Table 1"
+        ],
+        "quote": "In patients with an inconclusive bronchoscopy, the lung cancer prevalence was 3% and 28% in patients with a low and intermediate pretest probability, respectively."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.1
+        },
+        "odds_ratio": {
+          "est": 0.074
+        },
+        "arr": -0.254,
+        "nnh": 3.9
+      }
+    },
+    {
+      "concept_id": "classifier_sensitivity_among_cancer",
+      "name": "Classifier positive among cancers (sensitivity)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P12M",
+      "timepoint_label": "12 months",
+      "groups": [
+        {
+          "arm_id": "cancer_after_inconclusive",
+          "raw": {
+            "events": 31,
+            "total": 35
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "cancer_after_inconclusive",
+        "measure": "proportion",
+        "est": 0.886,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Binomial proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Patients diagnosed with lung cancer after an inconclusive bronchoscopy"
+      },
+      "provenance": {
+        "pages": [
+          212
+        ],
+        "tables": [],
+        "quote": "Among 35 patients with an inconclusive index bronchoscopy who were diagnosed with lung cancer, the sensitivity of the classifier was 89%, with 4 (11%) patients having a false-negative classifier result."
+      }
+    },
+    {
+      "concept_id": "classifier_true_negative_rate_among_benign",
+      "name": "Classifier negative among benign (true-negative rate)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P12M",
+      "timepoint_label": "12 months",
+      "groups": [
+        {
+          "arm_id": "benign_after_inconclusive",
+          "raw": {
+            "events": 83,
+            "total": 153
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "benign_after_inconclusive",
+        "measure": "proportion",
+        "est": 0.543,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Binomial proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Benign diagnoses after inconclusive bronchoscopy"
+      },
+      "provenance": {
+        "pages": [
+          214
+        ],
+        "tables": [],
+        "quote": "Among the 153 total patients with benign disease... 83 (54%) had a negative classifier result."
+      }
+    },
+    {
+      "concept_id": "delayed_diagnosis_over3to12m_among_cancer",
+      "name": "Delayed cancer diagnosis (>3 to 12 months) after inconclusive bronchoscopy",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P12M",
+      "timepoint_label": "12 months",
+      "groups": [
+        {
+          "arm_id": "cancer_after_inconclusive",
+          "raw": {
+            "events": 8,
+            "total": 35
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "cancer_after_inconclusive",
+        "measure": "proportion",
+        "est": 0.229,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Patients diagnosed with lung cancer after an inconclusive bronchoscopy"
+      },
+      "provenance": {
+        "pages": [
+          214
+        ],
+        "tables": [],
+        "quote": "27 (80%) had a lung cancer diagnosis established within 3 months... whereas 8 (20%) had a delay in their diagnosis of between 3 and 12 months."
+      }
+    },
+    {
+      "concept_id": "avoidable_invasive_procedures_benign_if_classifier_used",
+      "name": "Potentially avoidable invasive procedures among benign patients who underwent further testing if classifier used",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P12M",
+      "timepoint_label": "12 months",
+      "groups": [
+        {
+          "arm_id": "benign_with_additional_testing",
+          "raw": {
+            "events": 21,
+            "total": 42
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "benign_with_additional_testing",
+        "measure": "proportion",
+        "est": 0.5,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Modeled scenario assuming negative classifier leads to surveillance",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Benign patients who underwent additional invasive procedures"
+      },
+      "provenance": {
+        "pages": [
+          212
+        ],
+        "tables": [],
+        "quote": "If the classifier had been used to guide decision making, procedures could have been avoided in 50% (21 of 42) of patients undergoing further invasive testing."
+      }
+    }
+  ],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "ROBINS-I",
+    "overall_judgment": "moderate",
+    "domains": [
+      {
+        "name": "Bias due to confounding",
+        "judgment": "moderate",
+        "support_for_judgment": "Observational design without randomized allocation; baseline differences between low and intermediate risk groups."
+      },
+      {
+        "name": "Bias in selection of participants",
+        "judgment": "low",
+        "support_for_judgment": "Prospective multicenter enrollment with predefined inclusion criteria."
+      },
+      {
+        "name": "Bias in classification of interventions",
+        "judgment": "low",
+        "support_for_judgment": "Clinicians were blinded to classifier results; management reflected usual care."
+      },
+      {
+        "name": "Bias due to deviations from intended interventions",
+        "judgment": "low",
+        "support_for_judgment": "No access to classifier results during follow-up; care as per standard practice."
+      },
+      {
+        "name": "Bias due to missing data",
+        "judgment": "low",
+        "support_for_judgment": "Follow-up procedure data available for 188/199 (94%) with inconclusive bronchoscopy."
+      },
+      {
+        "name": "Bias in measurement of outcomes",
+        "judgment": "low",
+        "support_for_judgment": "Objective outcomes (procedures performed, final diagnoses) abstracted prospectively."
+      },
+      {
+        "name": "Bias in selection of the reported result",
+        "judgment": "low",
+        "support_for_judgment": "Prespecified analyses of procedure utilization; comprehensive reporting of counts."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "bronchial genomic classifier",
+      "Percepta",
+      "bronchoscopy",
+      "lung cancer",
+      "AEGIS",
+      "invasive procedures",
+      "transthoracic needle biopsy",
+      "surgical lung biopsy"
+    ],
+    "summary_tldr": "After inconclusive bronchoscopy in low/intermediate-risk patients, 53% (intermediate) vs 21% (low) underwent additional invasive testing; a negative bronchial genomic classifier could have avoided 50% of invasive procedures among benign cases; classifier sensitivity among subsequent cancers was 89% (31/35).",
+    "clinical_relevance": "Using a bronchial genomic classifier may safely reduce invasive diagnostic procedure use after inconclusive bronchoscopy, particularly in patients with low to intermediate pretest probability of lung cancer."
+  }
+}

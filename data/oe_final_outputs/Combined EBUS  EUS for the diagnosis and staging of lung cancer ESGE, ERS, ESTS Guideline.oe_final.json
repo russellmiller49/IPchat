@@ -1,0 +1,100 @@
+{
+  "source": {
+    "document_id": "Combined EBUS  EUS for the diagnosis and staging of lung cancer ESGE, ERS, ESTS Guideline",
+    "ingest_date": "2025-08-08T10:42:42.472444+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1055/s-0034-1392040"
+  },
+  "document": {
+    "metadata": {
+      "title": "Combined endobronchial and esophageal endosonography for the diagnosis and staging of lung cancer: European Society of Gastrointestinal Endoscopy (ESGE) Guideline, in cooperation with the European Respiratory Society (ERS) and the European Society of Thoracic Surgeons (ESTS)",
+      "year": 2015,
+      "authors": [
+        "Peter Vilmann",
+        "Paul Frost Clementsen",
+        "Sara Colella",
+        "Mette Siemsen",
+        "Paul De Leyn",
+        "Jean-Marc Dumonceau",
+        "Felix J. Herth",
+        "Alberto Larghi",
+        "Enrique Vazquez-Sequeiros",
+        "Cesare Hassan",
+        "Laurence Crombag",
+        "Daniël A. Korevaar",
+        "Lars Konge",
+        "Jouke T. Annema"
+      ],
+      "journal": "Endoscopy",
+      "doi": "10.1055/s-0034-1392040",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "This is an official guideline of the European Society of Gastrointestinal Endoscopy (ESGE), produced in cooperation with the European Respiratory Society (ERS) and the European Society of Thoracic Surgeons (ESTS). It addresses the benefit and burden associated with combined endobronchial and esophageal mediastinal nodal staging of lung cancer. The Scottish Intercollegiate Guidelines Network (SIGN) approach was adopted to define the strength of recommendations and the quality of evidence. The article has been co-published with permission in the European Journal of Cardio-Thoracic Surgery and the European Respiratory Journal.",
+      "methods": "Guideline commissioned by ESGE in cooperation with ERS and ESTS. Development included meetings, teleconferences, and online discussions between October 2012 and December 2014. Subgroups defined key questions and conducted systematic literature searches in MEDLINE, Web of Science, Cochrane Database of Systematic Reviews, and Cochrane Central. English-language studies on EBUS-TBNA, EUS-(B)-FNA, and their combination were included, primarily from 1990 to October 2013, with select later additions. Evidence appraisal followed a modified SIGN framework with dual independent review and consensus resolution. Diagnostic recommendations considered both patient-important outcomes when available and test accuracy as a surrogate otherwise.",
+      "results": "Key recommendations: (1) For mediastinal nodal staging in suspected/proven NSCLC with abnormal mediastinal and/or hilar nodes at CT and/or PET, endosonography is recommended over surgical staging as the initial procedure (Grade A). Combined EBUS-TBNA plus EUS-(B)-FNA is preferred over either alone (Grade C); if combination is unavailable, EBUS alone is acceptable (Grade C). If endosonography is negative, subsequent surgical staging is recommended (Grade B). (2) In peripheral NSCLC without mediastinal involvement at CT or CT-PET, consider EBUS-TBNA and/or EUS-(B)-FNA before therapy if ipsilateral hilar nodes are enlarged/FDG-avid, the primary tumor lacks FDG uptake, or tumor size is ≥3 cm (Grade C); if endosonography negative, consider mediastinoscopy, especially in suspected N1 (Grade C). (3) In suspected/proven <3 cm peripheral NSCLC with normal mediastinal and hilar nodes at CT and/or PET, initiate therapy without further mediastinal staging (Grade C). (4) In centrally located NSCLC without mediastinal/hilar involvement at CT and/or CT-PET, perform EBUS-TBNA ± EUS-(B)-FNA over surgical staging (Grade D); if negative, mediastinoscopy may be considered (Grade D). (5) For restaging post-neoadjuvant therapy, use EBUS-TBNA and/or EUS-(B)-FNA to detect persistent nodal disease; if negative, proceed to surgical staging (Grade C). (6) In NSCLC with abnormal mediastinum by CT or CT-PET, perform complete assessment and sample at least three mediastinal stations (4R, 4L, 7) (Grade D). (7) For centrally located tumors not visible on conventional bronchoscopy, use endosonography if tumor is adjacent to airways (EBUS) or esophagus (EUS-(B)) (Grade D). (8) For suspected left adrenal metastasis, perform EUS-FNA (Grade C); EUS-B transgastric approach is experimental (Grade D). (9-11) Training and competency recommendations include dual-modality training (EBUS and EUS-B), structured curricula with simulation followed by supervised practice, and validated assessment tools (Grade D). Supporting RCT evidence (ASTER): in 241 randomized patients with enlarged or FDG-avid mediastinal/hilar nodes or a central lung lesion, the sensitivity for mediastinal lymph node metastasis was 79% for immediate surgical staging versus 94% for endosonography followed by surgical staging (P=0.04), with higher negative predictive values reported for the combined approach."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with suspected or proven non-small-cell lung cancer undergoing mediastinal nodal staging, including those with abnormal mediastinal and/or hilar nodes on CT and/or PET or a centrally located lung lesion.",
+      "inclusion_criteria": [
+        "Enlarged or FDG-avid mediastinal lymph nodes",
+        "Enlarged or FDG-avid hilar lymph nodes",
+        "Central lung lesion"
+      ],
+      "exclusion_criteria": []
+    },
+    "intervention": {
+      "text": "Combined endosonography",
+      "details": "Endobronchial ultrasound with real-time guided transbronchial needle aspiration (EBUS-TBNA) plus endoscopic (esophageal) ultrasound with fine-needle aspiration using either a gastrointestinal scope (EUS-FNA) or an EBUS scope (EUS-B-FNA); surgical staging performed if endosonography negative for malignancy."
+    },
+    "comparison": {
+      "text": "Immediate surgical mediastinal staging",
+      "details": "Surgical mediastinal lymph node staging as the initial diagnostic strategy without prior endosonography."
+    },
+    "outcomes": [
+      {
+        "name": "Sensitivity for detection of mediastinal lymph node metastasis",
+        "type": "primary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Guideline",
+    "allocation": "",
+    "blinding": "",
+    "sites_count": 0,
+    "countries": [],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": []
+  },
+  "arms": [],
+  "outcomes_normalized": [],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "Not applicable - guideline",
+    "overall_judgment": "unclear",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "endobronchial ultrasound",
+      "endoscopic ultrasound",
+      "EBUS-TBNA",
+      "EUS-FNA",
+      "EUS-B-FNA",
+      "mediastinal staging",
+      "non-small-cell lung cancer",
+      "guideline"
+    ],
+    "summary_tldr": "European guideline recommends combined EBUS-TBNA and EUS-(B)-FNA as first-line mediastinal staging in NSCLC with abnormal nodes on CT/PET, supported by RCT evidence showing higher sensitivity than immediate surgical staging.",
+    "clinical_relevance": "Implements a minimally invasive, combined endosonographic strategy to improve mediastinal nodal staging accuracy, reduce futile thoracotomies, and optimize resource use in NSCLC."
+  }
+}

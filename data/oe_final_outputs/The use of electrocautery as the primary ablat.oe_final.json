@@ -1,0 +1,581 @@
+{
+  "source": {
+    "document_id": "The use of electrocautery as the primary ablat",
+    "ingest_date": "2025-08-08T16:23:36.242902+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": ""
+  },
+  "document": {
+    "metadata": {
+      "title": "The Use of Electrocautery as the Primary Ablation Modality for Malignant and Benign Airway Obstruction",
+      "year": 2011,
+      "authors": [
+        "Momen M. Wahidi",
+        "Mark A. Unroe",
+        "Natasha Adlakha",
+        "Mathew Beyea",
+        "Scott L. Shofer"
+      ],
+      "journal": "Journal of Thoracic Oncology",
+      "doi": "",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Background: Laser has been the main ablative modality in the airways, but a growing experience with endobronchial electrocautery suggests a comparable efficacy and safety profile. Objectives: To evaluate the efficacy and safety of electrocautery as the primary heat therapy for malignant and benign airway obstruction. Methods: A retrospective review of all patients undergoing endobronchial electrocautery, alone or in combination with other airway tools, at Duke University Medical Center between April 2004 and November 2009. Data on efficacy (luminal patency, symptomatic, radiographic, or physiologic improvement) and safety (complication rate) were collected. Results: Ninety-four patients underwent 117 procedures with endobronchial electrocautery for endobronchial malignant and nonmalignant disease. Endoscopic improvement was seen in 94% of cases. Seventy-one percent of patients reported symptomatic improvement. Radiographic studies demonstrated luminal improvement in 78% of patients on chest computed tomography, improved aeration on chest computed tomography and chest x-ray in 63% and 43% of patients, respectively. The rate of major complications was 0.8%, whereas minor complications occurred in 6.8% of cases. There was no perioperative mortality. Conclusions: Endobronchial electrocautery is effective and safe when used as an ablative modality in malignant and benign airway obstruction and has a comparable profile to laser with the advantage of lower cost.",
+      "methods": "Retrospective review of all patients referred to Duke University Medical Center for central airway obstruction between April 2004 and November 2009 who underwent endobronchial electrocautery. Electrocautery was performed using an ERBE surgical system with snare, knife, and monopolar probes per standardized power protocols. Data sources included procedure notes, clinic visits, pulmonary function tests, and radiologic images accessed via the electronic medical record. Primary outcomes were response to treatment (endoscopic luminal improvement ≥50%, symptomatic change, radiographic changes in airway lumen or lung aeration, spirometry improvement ≥10%) and complication rates. Rigid or flexible bronchoscopy was used. Additional modalities (balloon dilation, tissue excision, stenting) were recorded.",
+      "results": "Ninety-four patients underwent 117 procedures. Most had malignant disease; common sites were trachea and mainstem bronchi. Rigid bronchoscopy was used in 62% of procedures. Electrocautery probe, knife, and snare were used in 78%, 15%, and 7%, respectively. Adjuncts included balloon dilation (25%), tissue excision (60%), and stenting (31%). Endoscopic luminal improvement (≥50%) occurred in 110/117 (94%) procedures. Postoperative symptom data were available for 93 patients: improvement in 66 (71%), worsening in 12 (13%), no change in 15 (16%). One-month mortality was 6% of patients. Radiography: chest CT pre/post available in 23 patients, with luminal improvement in 18 (78%); among those with only chest x-rays and collapse pre/post available (n=21), 9 (43%) improved. Spirometry pre/post (n=14): improvement ≥10% in FEV1 or FVC in 5 (36%), no improvement in 7 (50%), worsening in 2 (14%). Major complications: 1/117 (0.8%), due to aspiration during anesthesia induction with subsequent atrial fibrillation. Minor complications: 8/117 (6.8%), including minor bleeding (3), postprocedure bronchospasm (2), pneumonia (2), and a chipped tooth (1). No perioperative mortality."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Patients with malignant or benign central airway obstruction treated at a single tertiary center",
+      "inclusion_criteria": [
+        "Central airway obstruction (malignant or nonmalignant)",
+        "Underwent endobronchial electrocautery between April 2004 and November 2009",
+        "Pre- and postprocedure data available for specific outcomes when assessed"
+      ],
+      "exclusion_criteria": [
+        "Not stated"
+      ]
+    },
+    "intervention": {
+      "text": "Endobronchial electrocautery",
+      "details": "ERBE electrocautery system using snare, knife, or monopolar probe; standardized power protocols with escalating wattage as needed; performed via rigid (62%) or flexible bronchoscopy; adjunct modalities included balloon dilation (25%), tissue excision (60%), and airway stenting (31%)"
+    },
+    "comparison": {
+      "text": "None (single-arm case series)",
+      "details": "No concurrent control group; outcomes assessed pre- vs postprocedure within patients"
+    },
+    "outcomes": [
+      {
+        "name": "Endoscopic luminal improvement ≥50%",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Symptomatic improvement (postoperative)",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Radiographic luminal improvement on chest CT",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Improved aeration on chest x-ray",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Spirometric improvement ≥10% (FEV1 or FVC)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Complications (major and minor)",
+        "type": "primary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Retrospective case series",
+    "allocation": "non-randomized",
+    "blinding": "none",
+    "sites_count": 1,
+    "countries": [
+      "US"
+    ],
+    "sample_size": {
+      "planned": null,
+      "enrolled": 94,
+      "analyzed": 94
+    },
+    "analysis_populations": [
+      {
+        "name": "Procedures",
+        "description": "All procedures performed with electrocautery",
+        "n": 117
+      },
+      {
+        "name": "Patients",
+        "description": "All unique patients who underwent electrocautery",
+        "n": 94
+      },
+      {
+        "name": "Patients with symptom data",
+        "description": "Patients with pre/post symptom assessment",
+        "n": 93
+      },
+      {
+        "name": "Patients with chest CT pre/post",
+        "description": "Patients with paired chest CT for luminal assessment",
+        "n": 23
+      },
+      {
+        "name": "Patients with chest x-ray pre/post",
+        "description": "Patients with paired chest x-rays and collapse for aeration assessment",
+        "n": 21
+      },
+      {
+        "name": "Patients with spirometry pre/post",
+        "description": "Patients with paired spirometry",
+        "n": 14
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "electrocautery",
+      "name": "Endobronchial electrocautery (ERBE system)",
+      "n_randomized": 0,
+      "n_analyzed": 117,
+      "n_completed": 117
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "endoscopic_lumen_improvement_50pct_postop",
+      "name": "Endoscopic luminal improvement ≥50% (postprocedure)",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Postprocedure",
+      "groups": [
+        {
+          "arm_id": "electrocautery",
+          "raw": {
+            "events": 110,
+            "total": 117
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": null,
+        "est": null,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": null,
+        "p_operator": null,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive (single-arm proportion)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All procedures"
+      },
+      "provenance": {
+        "pages": [
+          1518
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Endoscopic improvement 110 (94)"
+      }
+    },
+    {
+      "concept_id": "symptomatic_improvement_postop",
+      "name": "Symptomatic improvement (postoperative)",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Postoperative",
+      "groups": [
+        {
+          "arm_id": "electrocautery",
+          "raw": {
+            "events": 66,
+            "total": 93
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": null,
+        "est": null,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": null,
+        "p_operator": null,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive (single-arm proportion)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Patients with symptom data"
+      },
+      "provenance": {
+        "pages": [
+          1518
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Patient symptoms (n = 93): Improvement 66 (71), Worsening 12 (13), No change 15 (16)"
+      }
+    },
+    {
+      "concept_id": "ct_lumen_improvement_postop",
+      "name": "Radiographic luminal improvement on chest CT",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Postprocedure (paired chest CT)",
+      "groups": [
+        {
+          "arm_id": "electrocautery",
+          "raw": {
+            "events": 18,
+            "total": 23
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": null,
+        "est": null,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": null,
+        "p_operator": null,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive (single-arm proportion)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Patients with paired chest CT"
+      },
+      "provenance": {
+        "pages": [
+          1518
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Improvement on chest CTc 18 (78) (n = 23)"
+      }
+    },
+    {
+      "concept_id": "cxr_aeration_improvement_postop",
+      "name": "Improved aeration on chest x-ray (patients with collapse, paired films)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Postprocedure (paired chest x-ray)",
+      "groups": [
+        {
+          "arm_id": "electrocautery",
+          "raw": {
+            "events": 9,
+            "total": 21
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": null,
+        "est": null,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": null,
+        "p_operator": null,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive (single-arm proportion)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Patients with paired chest x-rays and collapse"
+      },
+      "provenance": {
+        "pages": [
+          1518
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Improvement on chest x-rayd 9 (43) (n = 21)"
+      }
+    },
+    {
+      "concept_id": "spirometry_responder_10pct_postop",
+      "name": "Spirometric improvement ≥10% (FEV1 or FVC)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Postprocedure (paired spirometry)",
+      "groups": [
+        {
+          "arm_id": "electrocautery",
+          "raw": {
+            "events": 5,
+            "total": 14
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": null,
+        "est": null,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": null,
+        "p_operator": null,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive (single-arm proportion)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Patients with paired spirometry"
+      },
+      "provenance": {
+        "pages": [
+          1518
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Improvement in FEV1 ≥ 10% 5 (36) (n = 14)"
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Aspiration",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Aspiration"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "other medically important condition"
+      ],
+      "groups": [
+        {
+          "arm_id": "electrocautery",
+          "events": 1,
+          "patients": 1,
+          "percentage": 0.9,
+          "total": 117
+        }
+      ],
+      "period": "Periprocedural",
+      "management": "Not specified",
+      "provenance": {
+        "pages": [
+          1519
+        ],
+        "tables": [],
+        "quote": "There was only one major complication (0.8%). This occurred when a patient aspirated during anesthesia induction and subsequently went into atrial fibrillation with rapid ventricular response."
+      }
+    },
+    {
+      "event_name": "Atrial fibrillation",
+      "meddra": {
+        "soc": "Cardiac disorders",
+        "pt": "Atrial fibrillation"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "other medically important condition"
+      ],
+      "groups": [
+        {
+          "arm_id": "electrocautery",
+          "events": 1,
+          "patients": 1,
+          "percentage": 0.9,
+          "total": 117
+        }
+      ],
+      "period": "Periprocedural",
+      "management": "Not specified",
+      "provenance": {
+        "pages": [
+          1519
+        ],
+        "tables": [],
+        "quote": "…aspirated during anesthesia induction and subsequently went into atrial fibrillation with rapid ventricular response."
+      }
+    },
+    {
+      "event_name": "Procedural haemorrhage",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Procedural haemorrhage"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "electrocautery",
+          "events": 3,
+          "patients": 3,
+          "percentage": 2.6,
+          "total": 117
+        }
+      ],
+      "period": "Periprocedural",
+      "management": "Not specified (minor bleeding)",
+      "provenance": {
+        "pages": [
+          1519
+        ],
+        "tables": [],
+        "quote": "There were eight minor complications (6.8%) including minor bleeding (3)…"
+      }
+    },
+    {
+      "event_name": "Bronchospasm",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Bronchospasm"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "electrocautery",
+          "events": 2,
+          "patients": 2,
+          "percentage": 1.7,
+          "total": 117
+        }
+      ],
+      "period": "Postprocedure",
+      "management": "Not specified",
+      "provenance": {
+        "pages": [
+          1519
+        ],
+        "tables": [],
+        "quote": "…postprocedure bronchospasm (2)…"
+      }
+    },
+    {
+      "event_name": "Pneumonia",
+      "meddra": {
+        "soc": "Infections and infestations",
+        "pt": "Pneumonia"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "electrocautery",
+          "events": 2,
+          "patients": 2,
+          "percentage": 1.7,
+          "total": 117
+        }
+      ],
+      "period": "Postprocedure",
+      "management": "Not specified",
+      "provenance": {
+        "pages": [
+          1519
+        ],
+        "tables": [],
+        "quote": "…pneumonia (2)…"
+      }
+    },
+    {
+      "event_name": "Tooth fracture",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Tooth fracture"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "electrocautery",
+          "events": 1,
+          "patients": 1,
+          "percentage": 0.9,
+          "total": 117
+        }
+      ],
+      "period": "Periprocedural",
+      "management": "Not specified",
+      "provenance": {
+        "pages": [
+          1519
+        ],
+        "tables": [],
+        "quote": "…and a chipped tooth (1)."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "ROBINS-I",
+    "overall_judgment": "serious",
+    "domains": [
+      {
+        "name": "Confounding",
+        "judgment": "serious",
+        "support_for_judgment": "Single-arm retrospective design with adjunct therapies (balloon dilation, stenting) used in a substantial proportion of procedures."
+      },
+      {
+        "name": "Selection of participants",
+        "judgment": "moderate",
+        "support_for_judgment": "Included only patients who underwent electrocautery at a single center; referral and treatment decisions may introduce selection bias."
+      },
+      {
+        "name": "Classification of interventions",
+        "judgment": "low",
+        "support_for_judgment": "Intervention clearly defined as endobronchial electrocautery with specified devices."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "moderate",
+        "support_for_judgment": "Frequent use of additional airway interventions alongside electrocautery."
+      },
+      {
+        "name": "Missing data",
+        "judgment": "moderate",
+        "support_for_judgment": "Outcome-specific denominators indicate missing postprocedure data for symptoms, imaging, and spirometry."
+      },
+      {
+        "name": "Measurement of outcomes",
+        "judgment": "moderate",
+        "support_for_judgment": "Nonstandardized symptom assessment and variable imaging modalities; potential assessment bias."
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "low",
+        "support_for_judgment": "Outcomes and denominators reported transparently with tables."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "endobronchial electrocautery",
+      "therapeutic bronchoscopy",
+      "airway obstruction",
+      "malignant",
+      "benign",
+      "complications"
+    ],
+    "summary_tldr": "In a single-center retrospective series (94 patients, 117 procedures), endobronchial electrocautery achieved 94% endoscopic lumen improvement and 71% symptom improvement, with 0.8% major and 6.8% minor complications.",
+    "clinical_relevance": "Supports electrocautery as an effective and relatively safe first-line heat modality for central airway obstruction, offering comparable results to laser with lower equipment cost."
+  }
+}

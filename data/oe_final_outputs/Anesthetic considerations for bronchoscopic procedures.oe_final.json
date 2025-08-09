@@ -1,0 +1,103 @@
+{
+  "source": {
+    "document_id": "Anesthetic considerations for bronchoscopic procedures",
+    "ingest_date": "2025-08-08T09:48:53.053163+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.21037/jtd.2019.07.29"
+  },
+  "document": {
+    "metadata": {
+      "title": "Anesthetic considerations for bronchoscopic procedures: a narrative review based on the Cleveland Clinic experience",
+      "year": 2019,
+      "authors": [
+        "Ursula Galway",
+        "Andrew Zura",
+        "Sandeep Khanna",
+        "Mi Wang",
+        "Alparslan Turan",
+        "Kurt Ruetzler"
+      ],
+      "journal": "Journal of Thoracic Disease",
+      "doi": "10.21037/jtd.2019.07.29",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "The advent of advanced diagnostic bronchoscopy has shown an increased demand for anesthesiologists to administer anesthesia in the bronchoscopy suite. Procedures such as navigational bronchoscopy, airway stenting and advanced therapeutic procedures often require the presence of an anesthesiologist to manage these more complex patients and procedures. In this review we describe the various bronchoscopic procedures and anesthetic management and complications of these procedures at our institution The Cleveland Clinic, Cleveland Ohio.",
+      "methods": "Narrative review of institutional practices and considerations for anesthesia in advanced bronchoscopic procedures at a single tertiary academic center. No predefined systematic search, no quantitative synthesis, and no statistical analyses were reported.",
+      "results": "The review outlines three main general anesthesia approaches for advanced bronchoscopy: supraglottic airway, endotracheal tube, and rigid bronchoscopy. Induction commonly uses propofol and lidocaine; opioids are typically minimized. Total intravenous anesthesia with propofol infusion is preferred due to circuit leaks and frequent airway manipulations. Muscle relaxation is commonly used to reduce coughing and movement. Specific considerations are detailed for EBUS-TBNA and electromagnetic navigational bronchoscopy, where general anesthesia and immobility facilitate precise sampling, and for patients with anterior mediastinal masses, where airway and cardiovascular compression risks mandate careful preoperative assessment and positioning."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults undergoing advanced diagnostic, interventional, or therapeutic bronchoscopy at a tertiary academic center.",
+      "inclusion_criteria": [
+        "Patients scheduled for advanced diagnostic bronchoscopy including EBUS-TBNA or electromagnetic navigational bronchoscopy",
+        "Patients undergoing interventional or therapeutic bronchoscopy including stenting, debulking, or rigid bronchoscopy"
+      ],
+      "exclusion_criteria": []
+    },
+    "intervention": {
+      "text": "General anesthesia techniques for advanced bronchoscopy",
+      "details": "Approaches include supraglottic airway (i-gel preferred), endotracheal tube with internal diameter ≥8.5 and swivel adaptor, and rigid bronchoscopy with high fresh gas flows. Total intravenous anesthesia with propofol infusion and routine muscle relaxation (e.g., rocuronium) are commonly used; BIS monitoring for depth of anesthesia and maintenance with high inspired oxygen are described."
+    },
+    "comparison": {
+      "text": "Not applicable",
+      "details": "Narrative review without a formal comparator arm; some discussion contrasts general anesthesia with moderate sedation for EBUS-TBNA."
+    },
+    "outcomes": [
+      {
+        "name": "Peri-procedural complications (e.g., pneumothorax, pneumomediastinum, bleeding, laryngospasm, bronchospasm)",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Anesthetic management success (airway control, ventilation adequacy, procedural conditions)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Postoperative recovery and discharge on same day",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Narrative review",
+    "allocation": "na",
+    "blinding": "na",
+    "sites_count": 1,
+    "countries": [
+      "US"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": []
+  },
+  "arms": [],
+  "outcomes_normalized": [],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "NA",
+    "overall_judgment": "na",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "bronchoscopy",
+      "anesthesia",
+      "supraglottic airway",
+      "endotracheal tube",
+      "rigid bronchoscopy",
+      "EBUS-TBNA",
+      "electromagnetic navigational bronchoscopy",
+      "mediastinal mass"
+    ],
+    "summary_tldr": "Narrative review from a tertiary center detailing general anesthesia strategies (SGA, ETT, rigid) and perioperative considerations for advanced bronchoscopy, with emphasis on TIVA, muscle relaxation, and special risks in EBUS/ENB and anterior mediastinal masses.",
+    "clinical_relevance": "Provides practical, experience-based guidance for anesthetic management in advanced bronchoscopic procedures, including airway device selection, ventilation strategies, and risk mitigation for patients with mediastinal masses."
+  }
+}

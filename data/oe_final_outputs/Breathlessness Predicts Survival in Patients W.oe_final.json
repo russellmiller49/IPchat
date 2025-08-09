@@ -1,0 +1,495 @@
+{
+  "source": {
+    "document_id": "Breathlessness Predicts Survival in Patients W",
+    "ingest_date": "2025-08-08T10:26:41.014810+00:00",
+    "trial_registration_id": null,
+    "pmid": null,
+    "doi": "10.1016/j.chest.2021.02.052"
+  },
+  "document": {
+    "metadata": {
+      "title": "Breathlessness Predicts Survival in Patients With Malignant Pleural Effusions: Meta-analysis of Individual Patient Data From Five Randomized Controlled Trials",
+      "year": 2021,
+      "authors": [
+        "Eleanor K. Mishra",
+        "Sanjeevan Muruganandan",
+        "Allan Clark",
+        "Rahul Bhatnagar",
+        "Nick Maskell",
+        "Y. C. Gary Lee",
+        "Najib M. Rahman"
+      ],
+      "journal": "CHEST",
+      "doi": "10.1016/j.chest.2021.02.052",
+      "pmid": null
+    },
+    "sections": {
+      "abstract": "BACKGROUND: Patients with malignant pleural effusions (MPEs) experience breathlessness and poor survival. Breathlessness is associated with poor survival in other conditions. RESEARCH QUESTION: Is breathlessness, measured using a visual analog scale for dyspnea (VASD), associated with survival in patients with MPE? STUDY DESIGN AND METHODS: Individual patient data from five randomized controlled trials of 553 patients undergoing interventions for MPE were analyzed. VASD was recorded at baseline and daily after intervention. Patients were followed up until death or end of trial. Univariate and multivariable Cox regression were used to identify factors associated with survival. RESULTS: Baseline VASD was significantly associated with worse survival, with a hazard ratio of 1.10 (95% CI, 1.06-1.15) for a 10-mm increase in VASD. On multivariable regression, it remained a significant predictor of survival. Mean 7-day VASD and mean total VASD were also predictors of survival (mean 7-day VASD: HR, 1.26 [95% CI, 1.19-1.34]; total VASD: HR, 1.25 [95% CI, 1.15-1.37]). Other predictors of survival were serum C-reactive protein level and tumor type. Previous treatment with chemotherapy, performance status, pleural fluid lactate dehydrogenase, serum albumin, hemoglobin, serum neutrophil:lymphocyte ratio, and size of effusion were associated with survival on univariate but not multivariable analysis. INTERPRETATION: Breathlessness, measured using VASD at baseline and postprocedure, is a predictor of survival in patients with MPE.",
+      "methods": "We conducted a meta-analysis using individual-level data from five RCTs that recruited adults with malignant pleural effusion (MPE) to study the impact of different interventions. All studies measured breathlessness using VASD diaries at baseline (pre-intervention) and for varying durations post-intervention. Analyses used baseline VASD, mean 7-day post-intervention VASD, and mean of all post-intervention VASD (total VASD). Survival was measured from randomization until death; patients alive at end of trial or lost to follow-up were censored. Univariate Cox regression identified predictors of survival. Multivariable Cox models included variables recorded in all trials (sex, age, serum CRP, tumor type, VASD metrics) and were stratified by trial. Nonlinearity in baseline VASD was assessed with cubic splines; baseline VASD was split into thirds for multivariable modeling. Survival time origin differed by analysis: baseline for baseline VASD, day 7 for mean 7-day VASD, and day 84 for total VASD (maximum diary duration).",
+      "results": "Of 553 included patients, 311 (56.2%) died during follow-up; median survival was 194 days (95% CI, 160-213). Mean baseline VASD was 45.9 mm (SD 28.8); 113/507 (22%) had VASD <19 mm. A decrease of at least 19 mm in mean 7-day VASD occurred in 194/411 (47.2%); for total VASD, 133/215 (61.9%). Univariate analyses: Baseline VASD (per 10 mm) HR 1.10 (95% CI, 1.06-1.15); mean 7-day VASD (per 10 mm) HR 1.26 (95% CI, 1.19-1.34); total VASD (per 10 mm) HR 1.25 (95% CI, 1.15-1.37). Additional univariate predictors of worse survival included previous chemotherapy, higher ECOG PS, higher PF LDH, higher CRP, higher neutrophil:lymphocyte ratio, smaller effusion size, lower albumin, and lower hemoglobin; tumor type differed with mesothelioma best survival. Multivariable baseline model (n=360; events=204): baseline VASD tertiles associated with survival (67-100 vs 0-33 mm HR 1.73 [95% CI, 1.17-2.54], P=.006), CRP per 10 units HR 1.06 (95% CI, 1.03-1.08, P<.001), tumor type lung vs mesothelioma HR 2.13 (95% CI, 1.36-3.31, P=.001), other vs mesothelioma HR 2.28 (95% CI, 1.43-3.63, P=.001). At 1 week, mean 7-day VASD per 10 mm HR 1.14 (95% CI, 1.06-1.23); CRP HR 1.05 (95% CI, 1.02-1.07). At 84 days, mean total VASD per 10 mm HR 1.19 (95% CI, 1.04-1.37)."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with malignant pleural effusion enrolled in five randomized controlled trials and followed for survival; breathlessness measured using a 100-mm VAS for dyspnea.",
+      "inclusion_criteria": [
+        "Age >= 18 years",
+        "Malignant pleural effusion confirmed histologically or cytologically OR recurrent exudative pleural effusion with confirmed cancer elsewhere",
+        "Able to provide informed consent",
+        "Baseline and post-intervention VASD diaries collected"
+      ],
+      "exclusion_criteria": [
+        "Expected survival < 28 days or < 3 months (trial-specific thresholds)",
+        "Previous pleurodesis (trial-specific)",
+        "Trapped lung (in some trials)",
+        "Other trial-specific exclusions (e.g., prior procedures) as per included RCTs"
+      ]
+    },
+    "intervention": {
+      "text": "Higher breathlessness severity measured by VASD",
+      "details": "Exposure defined as VASD score (0-100 mm); evaluated as per 10-mm increase or categorical tertiles (0-33, 34-66, 67-100)."
+    },
+    "comparison": {
+      "text": "Lower breathlessness severity",
+      "details": "Reference groups were lower VASD (per 10-mm decrement) or the lowest tertile (0-33 mm) where categorical."
+    },
+    "outcomes": [
+      {
+        "name": "Overall survival",
+        "type": "primary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "IPD meta-analysis (prognostic association) using data from 5 RCTs",
+    "allocation": "not_applicable",
+    "blinding": "not_applicable",
+    "sites_count": null,
+    "countries": [
+      "UK",
+      "Australia"
+    ],
+    "sample_size": {
+      "planned": null,
+      "enrolled": 553,
+      "analyzed": 553
+    },
+    "analysis_populations": [
+      {
+        "name": "all_included",
+        "description": "All patients with at least one recorded VASD",
+        "n": 553
+      },
+      {
+        "name": "unadjusted_baseline",
+        "description": "Univariate Cox models using baseline factors",
+        "n": 533
+      },
+      {
+        "name": "adjusted_baseline",
+        "description": "Multivariable Cox model at baseline including variables recorded in all trials; stratified by trial",
+        "n": 360
+      },
+      {
+        "name": "one_week_population",
+        "description": "Patients with mean 7-day VASD available; survival from day 7",
+        "n": 411
+      },
+      {
+        "name": "eightyfour_day_population",
+        "description": "Patients with total mean VASD available; survival from day 84",
+        "n": 215
+      }
+    ]
+  },
+  "arms": [],
+  "outcomes_normalized": [
+    {
+      "concept_id": "os_hr_per10mm_baseline_vasd_univariate",
+      "name": "Overall survival HR per 10-mm increase in baseline VASD",
+      "type": "time_to_event",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "variable",
+      "timepoint_label": "From randomization (baseline)",
+      "groups": [],
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": "hazard_ratio",
+        "est": 1.1,
+        "ci_lower": 1.06,
+        "ci_upper": 1.15,
+        "ci_level": 0.95,
+        "p_value": 0.001,
+        "p_operator": "<",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Cox proportional hazards",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Univariate; N=533, events=311; survival from baseline; no stated stratification by trial"
+      },
+      "provenance": {
+        "pages": [
+          354,
+          355
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "Baseline VASD was significantly associated with worse survival, with a hazard ratio of 1.10 (95% CI, 1.06-1.15) for a 10-mm increase in VASD."
+      }
+    },
+    {
+      "concept_id": "os_hr_baseline_vasd_high_vs_low_adjusted",
+      "name": "Overall survival HR: baseline VASD 67-100 mm vs 0-33 mm (adjusted)",
+      "type": "time_to_event",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "variable",
+      "timepoint_label": "From randomization (baseline)",
+      "groups": [],
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": "hazard_ratio",
+        "est": 1.73,
+        "ci_lower": 1.17,
+        "ci_upper": 2.54,
+        "ci_level": 0.95,
+        "p_value": 0.006,
+        "p_operator": "=",
+        "adjusted": true
+      },
+      "analysis": {
+        "model": "Cox proportional hazards stratified by trial",
+        "adjusted": true,
+        "covariates": [
+          "sex",
+          "age",
+          "serum CRP",
+          "tumor type",
+          "baseline VASD (tertiles)"
+        ],
+        "population": "Multivariable baseline model; n=360, events=204"
+      },
+      "provenance": {
+        "pages": [
+          354,
+          355
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "Patients with a baseline VASD of 67 to 100 mm had worst survival (HR, 1.73 [95% CI, 1.17-2.54])."
+      }
+    },
+    {
+      "concept_id": "os_hr_per10mm_mean7d_vasd_univariate",
+      "name": "Overall survival HR per 10-mm increase in mean 7-day VASD (univariate)",
+      "type": "time_to_event",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P7D",
+      "timepoint_label": "From day 7",
+      "groups": [],
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": "hazard_ratio",
+        "est": 1.26,
+        "ci_lower": 1.19,
+        "ci_upper": 1.34,
+        "ci_level": 0.95,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Cox proportional hazards",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Univariate; survival from day 7; mean 7-day VASD as predictor"
+      },
+      "provenance": {
+        "pages": [
+          354
+        ],
+        "tables": [],
+        "quote": "For mean 7-day VASD, HR 1.26 for 10-mm increase (95% CI, 1.19-1.34)."
+      }
+    },
+    {
+      "concept_id": "os_hr_per10mm_mean7d_vasd_adjusted",
+      "name": "Overall survival HR per 10-mm increase in mean 7-day VASD (adjusted)",
+      "type": "time_to_event",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P7D",
+      "timepoint_label": "From day 7",
+      "groups": [],
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": "hazard_ratio",
+        "est": 1.14,
+        "ci_lower": 1.06,
+        "ci_upper": 1.23,
+        "ci_level": 0.95,
+        "adjusted": true
+      },
+      "analysis": {
+        "model": "Cox proportional hazards stratified by trial",
+        "adjusted": true,
+        "covariates": [
+          "baseline serum CRP",
+          "tumor type",
+          "sex",
+          "age"
+        ],
+        "population": "Adjusted 1-week model; survival from day 7"
+      },
+      "provenance": {
+        "pages": [
+          354
+        ],
+        "tables": [],
+        "quote": "At 1 week, factors independently associated with future survival were mean 7 days VASD (HR, 1.14 [95% CI, 1.06-1.23])."
+      }
+    },
+    {
+      "concept_id": "os_hr_per10mm_total_vasd_univariate",
+      "name": "Overall survival HR per 10-mm increase in total mean VASD (univariate)",
+      "type": "time_to_event",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P84D",
+      "timepoint_label": "From day 84",
+      "groups": [],
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": "hazard_ratio",
+        "est": 1.25,
+        "ci_lower": 1.15,
+        "ci_upper": 1.37,
+        "ci_level": 0.95,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Cox proportional hazards",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Univariate; survival from day 84; total mean VASD as predictor"
+      },
+      "provenance": {
+        "pages": [
+          354
+        ],
+        "tables": [],
+        "quote": "For total VASD, HR 1.25 for 10-mm increase (95% CI, 1.15-1.37)."
+      }
+    },
+    {
+      "concept_id": "os_hr_per10mm_total_vasd_adjusted",
+      "name": "Overall survival HR per 10-mm increase in total mean VASD (adjusted)",
+      "type": "time_to_event",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P84D",
+      "timepoint_label": "From day 84",
+      "groups": [],
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": "hazard_ratio",
+        "est": 1.19,
+        "ci_lower": 1.04,
+        "ci_upper": 1.37,
+        "ci_level": 0.95,
+        "adjusted": true
+      },
+      "analysis": {
+        "model": "Cox proportional hazards stratified by trial",
+        "adjusted": true,
+        "covariates": [
+          "baseline serum CRP",
+          "tumor type",
+          "sex",
+          "age"
+        ],
+        "population": "Adjusted model at 84 days; survival from day 84"
+      },
+      "provenance": {
+        "pages": [
+          354
+        ],
+        "tables": [],
+        "quote": "At 84 days, only mean total VASD was significantly associated with future survival (HR, 1.19 [95% CI, 1.04-1.37])."
+      }
+    },
+    {
+      "concept_id": "os_hr_per10unit_crp_adjusted",
+      "name": "Overall survival HR per 10-unit increase in serum CRP (adjusted at baseline)",
+      "type": "time_to_event",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "variable",
+      "timepoint_label": "From randomization (baseline)",
+      "groups": [],
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": "hazard_ratio",
+        "est": 1.06,
+        "ci_lower": 1.03,
+        "ci_upper": 1.08,
+        "ci_level": 0.95,
+        "p_value": 0.001,
+        "p_operator": "<",
+        "adjusted": true
+      },
+      "analysis": {
+        "model": "Cox proportional hazards stratified by trial",
+        "adjusted": true,
+        "covariates": [
+          "sex",
+          "age",
+          "tumor type",
+          "baseline VASD"
+        ],
+        "population": "Multivariable baseline model; n=360, events=204"
+      },
+      "provenance": {
+        "pages": [
+          354,
+          355
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "A 10-unit increase in CRP was associated with a worse survival (HR, 1.06 [95% CI, 1.03-1.08], P < .001)."
+      }
+    },
+    {
+      "concept_id": "os_hr_lung_vs_meso_adjusted",
+      "name": "Overall survival HR: lung cancer vs mesothelioma (adjusted baseline)",
+      "type": "time_to_event",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "variable",
+      "timepoint_label": "From randomization (baseline)",
+      "groups": [],
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": "hazard_ratio",
+        "est": 2.13,
+        "ci_lower": 1.36,
+        "ci_upper": 3.31,
+        "ci_level": 0.95,
+        "p_value": 0.001,
+        "p_operator": "=",
+        "adjusted": true
+      },
+      "analysis": {
+        "model": "Cox proportional hazards stratified by trial",
+        "adjusted": true,
+        "covariates": [
+          "sex",
+          "age",
+          "serum CRP",
+          "baseline VASD"
+        ],
+        "population": "Multivariable baseline model; n=360, events=204"
+      },
+      "provenance": {
+        "pages": [
+          354,
+          355
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "Lung tumors had worse survival compared with mesothelioma (HR, 2.13 [95% CI, 1.36-3.31], P = .001)."
+      }
+    },
+    {
+      "concept_id": "os_hr_other_vs_meso_adjusted",
+      "name": "Overall survival HR: other tumor types vs mesothelioma (adjusted baseline)",
+      "type": "time_to_event",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "variable",
+      "timepoint_label": "From randomization (baseline)",
+      "groups": [],
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": "hazard_ratio",
+        "est": 2.28,
+        "ci_lower": 1.43,
+        "ci_upper": 3.63,
+        "ci_level": 0.95,
+        "p_value": 0.001,
+        "p_operator": "=",
+        "adjusted": true
+      },
+      "analysis": {
+        "model": "Cox proportional hazards stratified by trial",
+        "adjusted": true,
+        "covariates": [
+          "sex",
+          "age",
+          "serum CRP",
+          "baseline VASD"
+        ],
+        "population": "Multivariable baseline model; n=360, events=204"
+      },
+      "provenance": {
+        "pages": [
+          354,
+          355
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "Both 'other' (HR, 2.28 [95% CI, 1.43-3.63]) ... tumors had worse survival compared with mesothelioma."
+      }
+    }
+  ],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "QUIPS",
+    "overall_judgment": "unclear",
+    "domains": [
+      {
+        "name": "Study participation",
+        "judgment": "low",
+        "support_for_judgment": "Included five RCT cohorts with clear inclusion criteria for MPE; large sample (n=553)."
+      },
+      {
+        "name": "Prognostic factor measurement (VASD)",
+        "judgment": "low",
+        "support_for_judgment": "VASD is a validated measure; standardized 100-mm scale used across trials."
+      },
+      {
+        "name": "Outcome measurement (survival)",
+        "judgment": "low",
+        "support_for_judgment": "All-cause mortality with follow-up to death or end of trial; censoring described."
+      },
+      {
+        "name": "Study confounding",
+        "judgment": "moderate",
+        "support_for_judgment": "Multivariable models adjusted for key confounders (sex, age, CRP, tumor type) and stratified by trial, but residual confounding possible."
+      },
+      {
+        "name": "Statistical analysis and reporting",
+        "judgment": "low",
+        "support_for_judgment": "Appropriate Cox models; nonlinearity assessed; stratification by trial; effect estimates and CIs reported."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "malignant pleural effusion",
+      "dyspnea",
+      "visual analog scale",
+      "survival",
+      "Cox regression",
+      "prognostic factor",
+      "CRP",
+      "tumor type"
+    ],
+    "summary_tldr": "In 553 patients with malignant pleural effusion, higher breathlessness (VASD) predicts worse survival independent of CRP and tumor type; HR 1.10 per 10-mm baseline VASD increase.",
+    "clinical_relevance": "Simple VAS dyspnea scores at baseline and early post-procedure timepoints provide prognostic information to guide MPE management decisions."
+  }
+}

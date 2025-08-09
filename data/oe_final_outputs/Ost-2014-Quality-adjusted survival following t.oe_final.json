@@ -1,0 +1,669 @@
+{
+  "source": {
+    "document_id": "Ost-2014-Quality-adjusted survival following t",
+    "ingest_date": "2025-08-08T14:45:46.699323+00:00",
+    "trial_registration_id": "NCT01117740",
+    "pmid": "",
+    "doi": "10.1378/chest.13-1908"
+  },
+  "document": {
+    "metadata": {
+      "title": "Quality-Adjusted Survival Following Treatment of Malignant Pleural Effusions With Indwelling Pleural Catheters",
+      "year": 2014,
+      "authors": [
+        "Ost DE",
+        "Jimenez CA",
+        "Lei X",
+        "Cantor SB",
+        "Grosu HB",
+        "Lazarus DR",
+        "Faiz SA",
+        "Bashoura L",
+        "Shannon VR",
+        "Balachandran D",
+        "Noor L",
+        "Hashmi YB",
+        "Casal RF",
+        "Morice RC",
+        "Eapen GA"
+      ],
+      "journal": "CHEST",
+      "doi": "10.1378/chest.13-1908",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Background: Malignant pleural effusions (MPEs) are a frequent cause of dyspnea in patients with cancer. Although indwelling pleural catheters (IPCs) have been used since 1997, there are no studies of quality-adjusted survival following IPC placement. Methods: With a standardized algorithm, this prospective observational cohort study of patients with MPE treated with IPCs assessed global health-related quality of life using the SF-6D to calculate utilities. Quality-adjusted life days (QALDs) were calculated by integrating utilities over time. Results: A total of 266 patients were enrolled. Median quality-adjusted survival was 95.1 QALDs. Dyspnea improved significantly following IPC placement (P < .001), but utility increased only modestly. Patients who had chemotherapy or radiation after IPC placement (P < .001) and those who were more short of breath at baseline (P = .005) had greater improvements in utility. In a competing risk model, the 1-year cumulative incidence of events was death with IPC in place, 35.7%; IPC removal due to decreased drainage, 51.9%; and IPC removal due to complications, 7.3%. Recurrent MPE requiring repeat intervention occurred in 14% of patients whose IPC was removed. Recurrence was more common when IPC removal was due to complications (P = .04) or malfunction (P < .001) rather than to decreased drainage. Conclusions: IPC placement has significant beneficial effects in selected patient populations. The determinants of quality-adjusted survival in patients with MPE are complex. Although dyspnea is one of them, receiving treatment after IPC placement is also important. Future research should use patient-centered outcomes in addition to time-to-event analysis. Trial registry: ClinicalTrials.gov; No.: NCT01117740.",
+      "methods": "Prospective observational cohort at a single cancer center (April 2010-January 2013). Inclusion: age ≥18 years, capacity to complete SF-6D and Borg questionnaires, willingness for ≥1 year follow-up. Exclusion: prior pleurodesis, prior IPC, chylous effusion, pleural space infection, bilateral effusions requiring intervention, or mechanical ventilation. MPE defined per TIME2 criteria; subclassified as pathology-proven or clinically diagnosed MPE. All patients received ultrasound-guided PleurX IPC with standardized drainage and management algorithms. Follow-up at 2 weeks, 4 weeks, then monthly. Outcomes: SF-6D utilities (quality-adjusted survival in QALDs), Borg dyspnea, ECOG performance status, complications, catheter removals (elective due to decreased drainage vs due to complication), and recurrent effusion requiring intervention after removal. Statistics: Paired t tests for baseline vs 1-month utilities and Borg; generalized linear model for predictors of utility change; QALDs computed as area under the utility curve; Kaplan-Meier for median QALDs and overall survival; Cox models (extended, time-dependent covariates) for time-to-event outcomes; competing risks for death without removal, removal due to decreased drainage, and removal due to complications. LOCF used for missing repeated measures. SAS 9.3, S-Plus 8.2, and R (CMPRSK).",
+      "results": "266 patients enrolled (196 pathology-proven MPE; 70 clinical diagnosis). Median QALDs 95.1 (95% CI 73.3-116.5). Utility did not significantly improve at 1 month vs baseline (difference 0.023; 95% CI -0.004 to 0.05; P = .10). Dyspnea improved substantially (Borg difference -2.31; 95% CI -2.66 to -1.95; P < .0001). Greater utility improvements were seen in those receiving chemotherapy/radiation after IPC (P < .001) and with higher baseline Borg (P = .005). Overall survival: 156/266 died; median 171 days (95% CI 130-192). Quality of life and lower dyspnea burden associated with longer survival; per 0.1 utility increase, death risk decreased by 36% (P < .001). Complications occurred in 26/266 patients (31 events total); 15/266 (5.6%) required IPC removal. Median time to any complication 1.4 months. IPC removal occurred in 148/266 (55.6%): decreased drainage 127, complication 15, other 6. Among those removed, recurrent effusion requiring intervention occurred in 21/148 (14%); median time to recurrence 3.8 months. Competing risks at 1 year: death without removal 35.7%, removal for decreased drainage 51.9%, removal for complications/other 7.3%."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with malignant pleural effusion undergoing indwelling pleural catheter placement at a comprehensive cancer center.",
+      "inclusion_criteria": [
+        "Age ≥18 years",
+        "Capacity to complete SF-6D and Borg questionnaires",
+        "Willingness to follow-up for ≥1 year",
+        "Clinical or pathology-proven malignant pleural effusion per TIME2 criteria"
+      ],
+      "exclusion_criteria": [
+        "Previously attempted pleurodesis",
+        "Previous IPC placement",
+        "Chylous effusion",
+        "Pleural space infection",
+        "Bilateral effusions requiring intervention",
+        "Respiratory failure requiring mechanical ventilation"
+      ]
+    },
+    "intervention": {
+      "text": "Indwelling pleural catheter (IPC) placement",
+      "details": "Ultrasound-guided PleurX catheter; large-volume drainage on procedure day; standardized outpatient drainage frequency and algorithms for malfunction and infection; follow-up at 2 weeks, 4 weeks, then monthly."
+    },
+    "comparison": {
+      "text": "None (single-arm cohort)",
+      "details": "No randomized comparator; analyses include within-patient changes and time-to-event modeling with covariates."
+    },
+    "outcomes": [
+      {
+        "name": "Quality-adjusted survival (QALDs)",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Dyspnea (Borg score) change from baseline to 1 month",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Complications (any; and requiring catheter removal)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Recurrent effusion requiring intervention after IPC removal",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Overall survival",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "prospective observational cohort",
+    "allocation": "non-randomized",
+    "blinding": "none",
+    "sites_count": 1,
+    "countries": [
+      "US"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 266,
+      "analyzed": 266
+    },
+    "analysis_populations": [
+      {
+        "name": "Full cohort",
+        "description": "All enrolled patients with IPC placement",
+        "n": 266
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "Indwelling pleural catheter (PleurX)",
+      "n_randomized": 266,
+      "n_analyzed": 266,
+      "n_completed": 0
+    },
+    {
+      "arm_id": "control",
+      "name": "No comparator (single-arm study)",
+      "n_randomized": 0,
+      "n_analyzed": 0,
+      "n_completed": 0
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "qalds_median_overall",
+      "name": "Quality-adjusted life days (QALDs), median",
+      "type": "continuous",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "overall",
+      "unit": "day",
+      "unit_canonical": "day",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "median": 95.1,
+            "ci_lower": 73.3,
+            "ci_upper": 116.5,
+            "total": 266
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Kaplan-Meier product-limit on QALDs (area under utility curve)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Full cohort",
+        "missing_handling": "Utility ended at last follow-up for patients lost to follow-up; censoring applied"
+      },
+      "provenance": {
+        "pages": [
+          1350
+        ],
+        "tables": [],
+        "quote": "Median quality-adjusted survival using the Kaplan-Meier method was 95.1 QALDs (95% CI, 73.3-116.5)."
+      }
+    },
+    {
+      "concept_id": "borg_change_1m",
+      "name": "Dyspnea (Borg) change from baseline to 1 month",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P1M",
+      "unit": "score",
+      "unit_canonical": "unitless_score",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean_change": -2.31,
+            "ci_lower": -2.66,
+            "ci_upper": -1.95
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "within_group_change",
+        "est": -2.31,
+        "ci_lower": -2.66,
+        "ci_upper": -1.95,
+        "ci_level": 0.95,
+        "p_value": 0.0001,
+        "p_operator": "<",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Paired t-test (baseline vs 1 month)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Patients with baseline and 1-month Borg scores",
+        "missing_handling": "Complete pairs"
+      },
+      "provenance": {
+        "pages": [
+          1350
+        ],
+        "tables": [],
+        "quote": "Dyspnea as assessed by the Borg score was significantly better at 1 month than at baseline (difference, -2.31; 95% CI, -2.66 to -1.95; P < .0001)."
+      }
+    },
+    {
+      "concept_id": "utility_change_1m",
+      "name": "SF-6D utility change from baseline to 1 month",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P1M",
+      "unit": "utiles",
+      "unit_canonical": "utiles",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean_change": 0.023,
+            "ci_lower": -0.004,
+            "ci_upper": 0.05
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "within_group_change",
+        "est": 0.023,
+        "ci_lower": -0.004,
+        "ci_upper": 0.05,
+        "ci_level": 0.95,
+        "p_value": 0.1,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Paired t-test (baseline vs 1 month); predictors via generalized linear model",
+        "adjusted": true,
+        "covariates": [
+          "chemotherapy or radiation after IPC",
+          "baseline Borg score",
+          "cancer type",
+          "baseline ECOG",
+          "MPE diagnostic category"
+        ],
+        "population": "Patients with baseline and 1-month SF-6D utilities",
+        "missing_handling": "Complete pairs for paired test; LOCF for repeated measures in multivariable modeling"
+      },
+      "provenance": {
+        "pages": [
+          1349,
+          1351
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "There was no significant improvement in utility at 1 month after IPC placement compared with baseline (difference, 0.023; 95% CI, -0.004 to 0.05; P = .10). Patients who had chemotherapy or radiation after IPC placement (P < .001) and those who were more short of breath at baseline (P = .005) had greater improvements in utility."
+      }
+    },
+    {
+      "concept_id": "overall_survival_median",
+      "name": "Overall survival, median",
+      "type": "time-to-event",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "overall",
+      "unit": "day",
+      "unit_canonical": "day",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "median": 171,
+            "ci_lower": 130,
+            "ci_upper": 192,
+            "events": 156,
+            "total": 266
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Kaplan-Meier; extended Cox proportional hazards with time-dependent covariates",
+        "adjusted": true,
+        "covariates": [
+          "age",
+          "inpatient vs outpatient status",
+          "chemotherapy or radiation after IPC",
+          "time-dependent Borg score",
+          "time-dependent utility"
+        ],
+        "population": "Full cohort",
+        "missing_handling": "LOCF for repeated measures covariates; censoring for survivors/lost to follow-up"
+      },
+      "provenance": {
+        "pages": [
+          1350
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "quote": "The median Kaplan-Meier estimate of overall survival was 171 days (95% CI, 130-192 days)."
+      }
+    },
+    {
+      "concept_id": "ipc_removal_reasons",
+      "name": "IPC removal by reason",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "overall",
+      "timepoint_label": "Overall follow-up",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 127,
+            "total": 266
+          },
+          "label": "Removal due to decreased drainage"
+        },
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 15,
+            "total": 266
+          },
+          "label": "Removal due to complication"
+        },
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 6,
+            "total": 266
+          },
+          "label": "Removal due to other reasons"
+        }
+      ],
+      "analysis": {
+        "model": "Competing risks (death without removal; removal due to decreased drainage; removal due to complications/other)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Full cohort"
+      },
+      "provenance": {
+        "pages": [
+          1350
+        ],
+        "tables": [
+          "Table 1"
+        ],
+        "quote": "Reason for catheter removal (n = 148): decreased drainage 127 (85.81%); complication 15 (10.14%); other 6 (4.05%)."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 8.467
+        },
+        "odds_ratio": {
+          "est": 15.289
+        },
+        "arr": 0.421,
+        "nnt": 2.4
+      }
+    },
+    {
+      "concept_id": "recurrent_effusion_after_removal",
+      "name": "Recurrent MPE requiring repeat intervention after IPC removal",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "overall",
+      "timepoint_label": "Overall follow-up after IPC removal",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 21,
+            "total": 148
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Time-to-event analysis for recurrence among those with IPC removed",
+        "adjusted": true,
+        "covariates": [
+          "reason for removal (decreased drainage vs complication vs malfunction/other)"
+        ],
+        "population": "Patients with IPC removed",
+        "missing_handling": "Censoring applied"
+      },
+      "provenance": {
+        "pages": [
+          1350
+        ],
+        "tables": [
+          "Table 6"
+        ],
+        "quote": "IPC removal occurred in 148 patients (55.6%). Of these patients, fluid recurrence requiring intervention developed in 21 (14%). Overall, recurrences...developed in 9% of patients whose IPCs were removed electively due to decreased drainage."
+      }
+    },
+    {
+      "concept_id": "competing_risks_1y",
+      "name": "Competing risks at 1 year (cumulative incidence)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P1Y",
+      "timepoint_label": "1 year",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 85,
+            "total": 266
+          },
+          "label": "Death without catheter removal (1-year cumulative incidence 35.7%)"
+        },
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 127,
+            "total": 266
+          },
+          "label": "Catheter removal due to decreased drainage (1-year cumulative incidence 51.9%)"
+        },
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 21,
+            "total": 266
+          },
+          "label": "Catheter removal due to complications or other (1-year cumulative incidence 7.3%)"
+        }
+      ],
+      "analysis": {
+        "model": "Competing risks (CMPRSK)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Full cohort"
+      },
+      "provenance": {
+        "pages": [
+          1350
+        ],
+        "tables": [],
+        "quote": "The 1-year cumulative incidence of death without catheter removal was 35.7%... decreased drainage 51.9%... complications or other reasons 7.3%."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.669
+        },
+        "odds_ratio": {
+          "est": 0.514
+        },
+        "arr": -0.158,
+        "nnh": 6.3
+      }
+    },
+    {
+      "concept_id": "utility_mortality_association",
+      "name": "Association of utility with mortality (per 0.1 utility increase)",
+      "type": "association",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "overall",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "hazard_ratio": 0.64
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "hazard_ratio",
+        "est": 0.64,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.001,
+        "p_operator": "<",
+        "adjusted": true
+      },
+      "analysis": {
+        "model": "Extended Cox proportional hazards with time-dependent utility",
+        "adjusted": true,
+        "covariates": [
+          "age",
+          "inpatient vs outpatient status",
+          "chemotherapy or radiation after IPC",
+          "time-dependent Borg score"
+        ],
+        "population": "Full cohort"
+      },
+      "provenance": {
+        "pages": [
+          1350
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "quote": "For every 0.1 increase in utility, the risk of death decreased by 36%."
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Device-related complication (any)",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Device related complication"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 31,
+          "patients": 26,
+          "percentage": 9.8,
+          "total": 266
+        },
+        {
+          "arm_id": "control",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 0
+        }
+      ],
+      "period": "overall",
+      "management": "",
+      "provenance": {
+        "pages": [
+          1350
+        ],
+        "tables": [
+          "Table 4"
+        ],
+        "quote": "There were 26 patients (9.7%) who had 31 complications."
+      }
+    },
+    {
+      "event_name": "Complication requiring IPC removal",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Therapeutic procedure complication"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "other medically important condition"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 15,
+          "patients": 15,
+          "percentage": 5.6,
+          "total": 266
+        },
+        {
+          "arm_id": "control",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 0
+        }
+      ],
+      "period": "overall",
+      "management": "IPC removal performed",
+      "provenance": {
+        "pages": [
+          1350
+        ],
+        "tables": [
+          "Table 4"
+        ],
+        "quote": "Fifteen patients (5.6%) had complications that required removal of the IPC."
+      }
+    },
+    {
+      "event_name": "Death",
+      "meddra": {
+        "soc": "General disorders and administration site conditions",
+        "pt": "Death"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "fatal"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 156,
+          "patients": 156,
+          "percentage": 58.6,
+          "total": 266
+        },
+        {
+          "arm_id": "control",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 0
+        }
+      ],
+      "period": "overall",
+      "management": "",
+      "provenance": {
+        "pages": [
+          1350
+        ],
+        "tables": [],
+        "quote": "One hundred fifty-six patients (58.6%) died (median follow-up, 3.5 months; range, 0-14.5 months)."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "ROBINS-I",
+    "overall_judgment": "moderate",
+    "domains": [
+      {
+        "name": "Confounding",
+        "judgment": "moderate",
+        "support_for_judgment": "Observational single-arm design; multivariable and time-dependent modeling used but no randomized comparator."
+      },
+      {
+        "name": "Selection of participants",
+        "judgment": "low",
+        "support_for_judgment": "Prospective cohort with prespecified inclusion/exclusion criteria."
+      },
+      {
+        "name": "Classification of interventions",
+        "judgment": "low",
+        "support_for_judgment": "All participants received IPC via a standardized protocol."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "low",
+        "support_for_judgment": "Standardized drainage and management algorithms."
+      },
+      {
+        "name": "Missing data",
+        "judgment": "some concerns",
+        "support_for_judgment": "Loss to follow-up present; LOCF used for repeated measures."
+      },
+      {
+        "name": "Measurement of outcomes",
+        "judgment": "low",
+        "support_for_judgment": "Validated instruments (SF-6D, Borg); standardized complication definitions."
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "low",
+        "support_for_judgment": "Outcomes prespecified; comprehensive reporting of primary and secondary outcomes."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "malignant pleural effusion",
+      "indwelling pleural catheter",
+      "PleurX",
+      "quality-adjusted life days",
+      "SF-6D",
+      "Borg dyspnea"
+    ],
+    "summary_tldr": "In a 266-patient prospective cohort of malignant pleural effusions treated with indwelling pleural catheters, median quality-adjusted survival was 95.1 QALDs; dyspnea improved markedly by 1 month, complications occurred in 9.7% (5.6% requiring catheter removal), and recurrence after elective removal for decreased drainage was uncommon.",
+    "clinical_relevance": "Supports IPCs as a palliative option that improves dyspnea with manageable complication rates and provides quantification of quality-adjusted survival."
+  }
+}

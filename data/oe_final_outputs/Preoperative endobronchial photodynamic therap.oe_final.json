@@ -1,0 +1,765 @@
+{
+  "source": {
+    "document_id": "Preoperative endobronchial photodynamic therapy improves resectability in initially irresectable (inoperable) locally advanced non small cell lung cancer",
+    "ingest_date": "2025-08-08T14:59:23.158705+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1016/j.pdpdt.2014.03.011"
+  },
+  "document": {
+    "metadata": {
+      "title": "Preoperative endobronchial photodynamic therapy improves resectability in initially irresectable (inoperable) locally advanced non small cell lung cancer",
+      "year": 2014,
+      "authors": [
+        "Andrey Akopov",
+        "Anatoly Rusanov",
+        "Andrey Gerasin",
+        "Nikita Kazakov",
+        "Margarita Urtenova",
+        "Ivan Chistyakov"
+      ],
+      "journal": "Photodiagnosis and Photodynamic Therapy",
+      "doi": "10.1016/j.pdpdt.2014.03.011",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Objectives: Prospective randomized trial to assess effectiveness and safety of neoadjuvant photodynamic therapy (PDT) plus chemotherapy versus chemotherapy alone, and the possibility for subsequent surgery in locally advanced NSCLC. Methods: Patients with stage IIIA/IIIB central NSCLC (main bronchus/distal trachea involvement) initially unresectable or functionally inoperable but potentially operable after neoadjuvant therapy were randomized to chemotherapy plus endobronchial PDT or chemotherapy alone, followed by surgery. PDT used chlorine E6 (Radachlorin) and 662 nm laser light before each of three chemotherapy cycles. Results: 42 patients were randomized (21 per arm). Groups were similar at baseline. No major PDT complications were observed. Partial response occurred in 19/21 (90%) with PDT and 16/21 (76%) without (p = 0.460 in abstract; radiologic partial response p = 0.158 in text). These patients underwent thoracotomy; unresectable tumor at thoracotomy occurred in 3 patients in the No-PDT arm. There were 14 pneumonectomies and 5 lobectomies in the PDT arm vs 10 pneumonectomies and 3 lobectomies in the No-PDT arm. R0 resection was higher with PDT (89%) vs No-PDT (54%) (p = 0.038). Conclusions: Neoadjuvant PDT with chemotherapy is effective, safe, and improves resectability and resection completeness in stage III central NSCLC.",
+      "methods": "Design: Prospective randomized trial comparing preoperative endobronchial PDT plus chemotherapy versus chemotherapy alone for downstaging stage IIIA/IIIB central NSCLC (7th TNM). Eligibility: ≥18 years; distal trachea and/or main bronchus involvement; initially unresectable or functionally inoperable but potentially operable after neoadjuvant therapy; histologic confirmation; staging with bronchoscopy and CT; mediastinoscopy if nodes >1.0 cm; selective PET-CT to exclude distant metastases; spirometry and DLCO. Treatment: Chemotherapy paclitaxel 200 mg/m2 IV over 3 h plus carboplatin AUC < 6 IV over 1 h every 21 days for 3 cycles (dose modifications per toxicity). PDT: Radachlorin (chlorine E6) 1 mg/kg IV over 30 min; 2 h later 662 nm endoluminal laser via flexible bronchoscope to 150 J/cm2; administered 24-48 h prior to each chemotherapy cycle. Response assessed 2 weeks after completion (RECIST for radiology; endoscopic CR/partial/no response definitions). Surgery offered 3-6 weeks after last cycle to patients with complete or partial response. Statistics: Fisher’s exact test; p < 0.05 significant.",
+      "results": "42 patients randomized (PDT n = 21; No-PDT n = 21); baseline balanced for age, sex, ECOG, stage IIIA/IIIB, histology. Reasons for initial unresectability/inoperability included tracheal involvement (n = 19), functional intolerance to pneumonectomy (n = 10), T4 mediastinal invasion (n = 6), multiple N2 (n = 5), N3 (n = 2). FEV1 at baseline: 69 ± 17% predicted (PDT) vs 71 ± 19% (No-PDT). PDT sessions averaged 11.5 min (range 9-14). PDT complications: hemoptysis in 2/21 (10%), minor. Chemotherapy completed in 36/42 (86%); discontinuations in 6 (3 per group) due to toxicity (n = 5) or progression (n = 1). Partial radiographic response: 19/21 (90%) vs 16/21 (76%), p = 0.158; endoscopic CR: 7/21 (33%) vs 2/21 (10%), p = 0.054; fewer non-responders with PDT. In functionally inoperable patients (PDT 6; No-PDT 4), FEV1 modestly improved; 5/6 (PDT) and 3/4 (No-PDT) underwent lobectomy instead of pneumonectomy due to main bronchus tumor disappearance. Tracheal recanalization in those with initial tracheal involvement: 9/9 (100%) PDT vs 7/10 (70%) No-PDT, p = 0.124. Thoracotomy performed in 19 (PDT) and 16 (No-PDT); resections achieved in 19 and 13, respectively; exploratory thoracotomy 0 vs 3, p = 0.086. R0 resection among resections: 17/19 (89%) PDT vs 7/13 (54%) No-PDT, p = 0.038; all R1 margins involved bronchial stump; no R2. Post-surgery deaths: 1 per group (pneumonia in PDT; COPD exacerbation in No-PDT), both after pneumonectomy. One tracheobronchial anastomosis failure in PDT, treated conservatively."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with stage IIIA/IIIB central NSCLC involving distal trachea and/or main bronchi, initially unresectable or functionally inoperable but potentially resectable after neoadjuvant therapy.",
+      "inclusion_criteria": [
+        "Age ≥ 18 years",
+        "Histologically confirmed NSCLC",
+        "Stage IIIA or IIIB (7th TNM)",
+        "Central tumor involving distal trachea and/or main bronchi",
+        "Initially unresectable or functionally inoperable but potentially operable after neoadjuvant therapy",
+        "Staging with bronchoscopy and CT",
+        "Mediastinoscopy if regional lymph nodes > 1.0 cm",
+        "Selective PET-CT to exclude distant metastases",
+        "Pulmonary function testing with spirometry and DLCO"
+      ],
+      "exclusion_criteria": [
+        "Distant metastases on staging"
+      ]
+    },
+    "intervention": {
+      "text": "Neoadjuvant endobronchial photodynamic therapy plus chemotherapy",
+      "details": "Radachlorin (chlorine E6) 1 mg/kg IV over 30 min; endoluminal 662 nm laser to 150 J/cm2 delivered 2 h later via flexible bronchoscope; PDT performed 24-48 h before each of three chemotherapy cycles. Chemotherapy: paclitaxel 200 mg/m2 IV over 3 h + carboplatin AUC < 6 IV over 1 h every 21 days × 3 cycles (dose modifications per toxicity)."
+    },
+    "comparison": {
+      "text": "Neoadjuvant chemotherapy alone",
+      "details": "Paclitaxel 200 mg/m2 IV over 3 h + carboplatin AUC < 6 IV over 1 h every 21 days × 3 cycles (dose modifications per toxicity)."
+    },
+    "outcomes": [
+      {
+        "name": "R0 resection among those undergoing resection",
+        "type": "primary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "RCT",
+    "allocation": "randomized",
+    "blinding": "open-label",
+    "sites_count": 1,
+    "countries": [
+      "RU"
+    ],
+    "sample_size": {
+      "planned": 42,
+      "enrolled": 42,
+      "analyzed": 42
+    },
+    "analysis_populations": [
+      {
+        "name": "ITT",
+        "description": "All randomized patients",
+        "n": 42
+      },
+      {
+        "name": "Thoracotomy set",
+        "description": "All patients who underwent thoracotomy after neoadjuvant therapy",
+        "n": 35
+      },
+      {
+        "name": "Resection set",
+        "description": "All patients who underwent tumor resection (excluding exploratory thoracotomy)",
+        "n": 32
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "PDT + chemotherapy",
+      "n_randomized": 21,
+      "n_analyzed": 21,
+      "n_completed": 18
+    },
+    {
+      "arm_id": "control",
+      "name": "Chemotherapy alone",
+      "n_randomized": 21,
+      "n_analyzed": 21,
+      "n_completed": 18
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "r0_resection_among_resections",
+      "name": "R0 resection among those undergoing resection",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "PT3W",
+      "timepoint_label": "At surgery (3-6 weeks after last cycle)",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 17,
+            "total": 19
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 7,
+            "total": 13
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "adjusted": false,
+        "p_value": 0.038,
+        "p_operator": "="
+      },
+      "analysis": {
+        "model": "Fisher's exact test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Resection set",
+        "missing_handling": "Complete-case (only patients with resection)"
+      },
+      "provenance": {
+        "pages": [
+          262
+        ],
+        "tables": [
+          "Table 4"
+        ],
+        "table_number": 4,
+        "quote": "Preoperative PDT allowed significantly higher proportion of patients to be offered radical (R0) resection in comparison with No-PDT arm in 17 of 19 (89%) patients vs. seven of 16 patients (54%) (p = 0.038)."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 1.662
+        },
+        "odds_ratio": {
+          "est": 7.286
+        },
+        "arr": 0.356,
+        "nnt": 2.8
+      }
+    },
+    {
+      "concept_id": "any_resection_among_randomized",
+      "name": "Underwent any tumor resection (vs no resection)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "PT3W",
+      "timepoint_label": "At surgery (3-6 weeks after last cycle)",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 19,
+            "total": 21
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 13,
+            "total": 21
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Descriptive; Fisher's exact test not reported",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT"
+      },
+      "provenance": {
+        "pages": [
+          262
+        ],
+        "tables": [
+          "Table 4"
+        ],
+        "table_number": 4,
+        "quote": "Resections 19 (90%) vs 13 (62%)."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 1.462
+        },
+        "odds_ratio": {
+          "est": 5.846
+        },
+        "arr": 0.286,
+        "nnt": 3.5
+      }
+    },
+    {
+      "concept_id": "endoscopic_complete_response_post_neoadj",
+      "name": "Endoscopic complete response (no visible luminal tumor) post-neoadjuvant",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P2W",
+      "timepoint_label": "2 weeks post-neoadjuvant therapy",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 7,
+            "total": 21
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 2,
+            "total": 21
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "adjusted": false,
+        "p_value": 0.054,
+        "p_operator": "="
+      },
+      "analysis": {
+        "model": "Fisher's exact test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT"
+      },
+      "provenance": {
+        "pages": [
+          261,
+          262
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "Post-treatment bronchoscopy showed complete disappearance of the tumor in seven patients after PDT (33%) and only two without PDT treatment (10%) (p = 0.054)."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 3.5
+        },
+        "odds_ratio": {
+          "est": 4.75
+        },
+        "arr": 0.238,
+        "nnt": 4.2
+      }
+    },
+    {
+      "concept_id": "radiographic_partial_response_recist_post_neoadj",
+      "name": "Radiographic partial response by RECIST post-neoadjuvant",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P2W",
+      "timepoint_label": "2 weeks post-neoadjuvant therapy",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 19,
+            "total": 21
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 16,
+            "total": 21
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "adjusted": false,
+        "p_value": 0.158,
+        "p_operator": "="
+      },
+      "analysis": {
+        "model": "Fisher's exact test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT"
+      },
+      "provenance": {
+        "pages": [
+          261
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "Patients in PDT arm had higher rate of partial radiological (p = 0.158)... 19 (90%) vs 16 (76%)."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 1.188
+        },
+        "odds_ratio": {
+          "est": 2.969
+        },
+        "arr": 0.143,
+        "nnt": 7.0
+      }
+    },
+    {
+      "concept_id": "tracheal_recanalization_post_neoadj_in_tracheal_involvement",
+      "name": "Complete tracheal recanalization among those with initial tracheal involvement",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P2W",
+      "timepoint_label": "2 weeks post-neoadjuvant therapy",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 9,
+            "total": 9
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 7,
+            "total": 10
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "adjusted": false,
+        "p_value": 0.124,
+        "p_operator": "="
+      },
+      "analysis": {
+        "model": "Fisher's exact test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Patients with initial tracheal involvement"
+      },
+      "provenance": {
+        "pages": [
+          261
+        ],
+        "quote": "Neoadjuvant treatment led to complete recanalisation of trachea... nine out of nine (100%) of PDT arm and seven out of 10 (70%) of No-PDT arm, p = 0.124."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 1.429
+        },
+        "arr": 0.3,
+        "nnt": 3.3
+      }
+    },
+    {
+      "concept_id": "exploratory_thoracotomy_rate",
+      "name": "Exploratory thoracotomy (unresectable at surgery requiring exploration only)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "PT3W",
+      "timepoint_label": "At surgery (3-6 weeks after last cycle)",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 0,
+            "total": 21
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 3,
+            "total": 21
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "adjusted": false,
+        "p_value": 0.086,
+        "p_operator": "="
+      },
+      "analysis": {
+        "model": "Fisher's exact test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT"
+      },
+      "provenance": {
+        "pages": [
+          262
+        ],
+        "tables": [
+          "Table 4"
+        ],
+        "table_number": 4,
+        "quote": "Exploratory thoracotomy 0 vs 3 (14%), p = 0.086."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.0
+        },
+        "odds_ratio": {
+          "est": 0.0
+        },
+        "arr": -0.143,
+        "nnh": 7.0
+      }
+    },
+    {
+      "concept_id": "unresectable_at_thoracotomy",
+      "name": "Unresectable tumor identified at thoracotomy",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "PT3W",
+      "timepoint_label": "At thoracotomy (3-6 weeks after last cycle)",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 0,
+            "total": 19
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 3,
+            "total": 16
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Descriptive; Fisher's exact test not reported",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Thoracotomy set"
+      },
+      "provenance": {
+        "pages": [
+          260
+        ],
+        "quote": "After thoracotomy tumor was unresectable in 3 pts of No-PDT arm (19%)."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.0
+        },
+        "odds_ratio": {
+          "est": 0.0
+        },
+        "arr": -0.188,
+        "nnh": 5.3
+      }
+    },
+    {
+      "concept_id": "postoperative_mortality_thoracotomy_set",
+      "name": "Postoperative mortality",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "Post-surgery (timing not specified)",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 1,
+            "total": 19
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 1,
+            "total": 16
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Descriptive; Fisher's exact test not reported",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Thoracotomy set"
+      },
+      "provenance": {
+        "pages": [
+          262
+        ],
+        "quote": "There was one post-surgery death in each group. Causes of death were pneumonia and COPD exacerbation. Both patients had pneumonectomy."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.842
+        },
+        "odds_ratio": {
+          "est": 0.833
+        },
+        "arr": -0.01,
+        "nnh": 101.3
+      }
+    },
+    {
+      "concept_id": "lobectomy_in_functionally_inoperable",
+      "name": "Lobectomy instead of pneumonectomy in functionally inoperable patients",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "PT3W",
+      "timepoint_label": "At surgery (3-6 weeks after last cycle)",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 5,
+            "total": 6
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 3,
+            "total": 4
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Descriptive; Fisher's exact test not reported",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Patients initially functionally inoperable"
+      },
+      "provenance": {
+        "pages": [
+          261
+        ],
+        "quote": "8 of these 10 patients (5 in the PDT arm and 3 in the No-PDT one) unfit for pneumonectomy... were able to have lobectomies instead due to tumor disappearance from main bronchus."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 1.111
+        },
+        "odds_ratio": {
+          "est": 1.667
+        },
+        "arr": 0.083,
+        "nnt": 12.0
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Hemoptysis",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Hemoptysis"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 2,
+          "patients": 2,
+          "percentage": 9.5,
+          "total": 21
+        },
+        {
+          "arm_id": "control",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 21
+        }
+      ],
+      "period": "During PDT treatment period",
+      "management": "Managed without hospital admission",
+      "provenance": {
+        "pages": [
+          261
+        ],
+        "quote": "Complications of PDT were observed in 2 (10%) out of 21 irradiated patients who developed hemoptysis. This complication was regarded as minor and did not require hospital admission."
+      }
+    },
+    {
+      "event_name": "Pneumonia (postoperative, fatal)",
+      "meddra": {
+        "soc": "Infections and infestations",
+        "pt": "Pneumonia"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "death"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 1,
+          "patients": 1,
+          "percentage": 5.3,
+          "total": 19
+        },
+        {
+          "arm_id": "control",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 16
+        }
+      ],
+      "period": "Postoperative period (after pneumonectomy)",
+      "management": "",
+      "provenance": {
+        "pages": [
+          262
+        ],
+        "quote": "There was one post-surgery death in each group. Causes of death were pneumonia and COPD exacerbation. Both patients had pneumonectomy."
+      }
+    },
+    {
+      "event_name": "Chronic obstructive pulmonary disease exacerbation (postoperative, fatal)",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Chronic obstructive pulmonary disease"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "death"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 19
+        },
+        {
+          "arm_id": "control",
+          "events": 1,
+          "patients": 1,
+          "percentage": 6.3,
+          "total": 16
+        }
+      ],
+      "period": "Postoperative period (after pneumonectomy)",
+      "management": "",
+      "provenance": {
+        "pages": [
+          262
+        ],
+        "quote": "There was one post-surgery death in each group. Causes of death were pneumonia and COPD exacerbation. Both patients had pneumonectomy."
+      }
+    },
+    {
+      "event_name": "Tracheobronchial anastomosis failure",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Anastomotic leak"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 1,
+          "patients": 1,
+          "percentage": 4.8,
+          "total": 21
+        },
+        {
+          "arm_id": "control",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 21
+        }
+      ],
+      "period": "Postoperative",
+      "management": "Treated conservatively",
+      "provenance": {
+        "pages": [
+          262
+        ],
+        "quote": "One patient from PDT arm had tracheobronchial anastomosis failure treated conservatively."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "RoB 2",
+    "overall_judgment": "some concerns",
+    "domains": [
+      {
+        "name": "Randomization process",
+        "judgment": "some concerns",
+        "support_for_judgment": "Randomized allocation stated; no details on sequence generation or allocation concealment."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "some concerns",
+        "support_for_judgment": "Open-label design; 3 per group discontinued chemotherapy due to toxicity/progression."
+      },
+      {
+        "name": "Missing outcome data",
+        "judgment": "low",
+        "support_for_judgment": "Outcome data provided for all randomized or for defined subsets (thoracotomy/resection)."
+      },
+      {
+        "name": "Measurement of the outcome",
+        "judgment": "some concerns",
+        "support_for_judgment": "Endoscopic and surgical outcomes potentially subject to assessor awareness; blinding not reported."
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "some concerns",
+        "support_for_judgment": "Primary outcome not pre-specified; several outcomes reported without clear hierarchical specification."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "photodynamic therapy",
+      "PDT",
+      "NSCLC",
+      "neoadjuvant",
+      "bronchoscopy",
+      "Radachlorin",
+      "chlorine E6",
+      "endobronchial"
+    ],
+    "summary_tldr": "In stage III central NSCLC, adding endobronchial PDT to neoadjuvant chemotherapy increased R0 resection rate (89% vs 54%; p = 0.038) without major PDT-related complications.",
+    "clinical_relevance": "Suggests neoadjuvant endobronchial PDT can convert initially unresectable/inoperable central NSCLC to operability and improve resection completeness."
+  }
+}

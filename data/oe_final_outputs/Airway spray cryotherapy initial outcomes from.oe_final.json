@@ -1,0 +1,523 @@
+{
+  "source": {
+    "document_id": "Airway spray cryotherapy initial outcomes from",
+    "ingest_date": "2025-08-08T09:36:24.212674+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1016/j.athoracsur.2012.01.112"
+  },
+  "document": {
+    "metadata": {
+      "title": "Airway Spray Cryotherapy: Initial Outcomes From a Multiinstitutional Registry",
+      "year": 2012,
+      "authors": [
+        "David J. Finley",
+        "Joe Dycoco",
+        "Saiyad Sarkar",
+        "William S. Krimsky",
+        "John T. Sherwood",
+        "Dominic Dekeratry",
+        "Gordon Downie",
+        "Joel Atwood",
+        "Hiran C. Fernando",
+        "Valerie W. Rusch"
+      ],
+      "journal": "Annals of Thoracic Surgery",
+      "doi": "10.1016/j.athoracsur.2012.01.112",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Background: Spray cryotherapy (SCT) uses a noncontact system to deliver liquid nitrogen (2 to 4 psi) through an endoscopic catheter. Rapid freezing and thawing of tissue causes cellular death and is also hemostatic. We report the preliminary results from 6 institutions in which SCT was used for the treatment of malignant airway tumors. Methods: SCT was performed on patients with symptomatic airway tumors and reviewed retrospectively. Airway narrowing was graded as 25% or smaller, 26% to 50%, 51% to 75%, and exceeding 75%. All events were documented and assessed. Results: Eighty patients (45 male [56%]) underwent 114 treatments. Median age was 66 years (range, 15 to 90 years). All patients were treated with minimal blood loss. Fifty-eight percent of the cases were outpatient procedures. Airway obstruction exceeded 75% in most of the lesions treated. There were 21 intraoperative events (19%), including hypotension, bradycardia and tachycardia, ST segment changes, desaturation, and an airway tear. Three pneumothoraces occurred, one requiring emergency chest tube placement. Two intraoperative deaths were associated with bradycardia. Three postoperative deaths occurred in patients who were transitioned to comfort care. All but 1 patient had airway patency after treatment. Conclusions: SCT can be used in patients with highly vascular tumors, with reduced bleeding complications and a low overall complication rate. Caution is needed before SCT is used on a widespread basis, given the intraoperative complications. Although the potential benefit of SCT is considerable, this needs to be confirmed in larger studies.",
+      "methods": "Retrospective review of patients with malignant airway tumors treated with spray cryotherapy (SCT) at 6 institutions (July 2008 to September 2010). Patients with benign strictures were excluded. Patients could receive concomitant endobronchial treatments (eg, mechanical debridement). Airway obstruction was graded in quartiles by estimated cross-sectional area before and after treatment. Complications were recorded and graded per NCI CTCAE v3.0. SCT was delivered using the CSA System (Model CC2-NAM) via a 7F catheter through a therapeutic flexible bronchoscope, with emphasis on ensuring adequate passive gas venting. Treatments typically used 5-second sprays until >50% of visible mucosa was frozen, followed by complete thaw with a minimum 30-second wait before subsequent cycles. Ventilation was held during SCT with an open circuit confirmed; SCT was aborted if adequate venting could not be assured.",
+      "results": "Eighty patients underwent 114 SCT procedures; median age 66 years (range 15-90), 56% male. Most had stage IV disease (73.5%) and significant comorbidity burden (75%). Data on airway occlusion were available for 83 procedures; 74% had >75% occlusion pre-treatment; only 8 had >75% narrowing after treatment. Luminal patency was not achieved in 1 patient. Significant bleeding (≥50 mL) occurred in 1 treatment and was controlled with SCT; all others had minimal blood loss (≤20 mL); no perioperative transfusions. Conscious sedation was used in 16 procedures (14%); rigid bronchoscopy in 52 (46%); flexible bronchoscopy in 100%. SCT was performed as an outpatient in 58% of cases. Of admitted patients, 69% went to a standard floor and 27% to intermediate/ICU; 109/114 procedures led to discharge (95.6%). Complications occurred in 22/114 procedures (19.3%): hypotension 13 (11.4%), bradycardia 6 (5.3%), desaturation 7 (6.1%), pneumothorax 3 (2.6%; chest tube in 1), massive hemoptysis 1 (controlled with SCT), airway tear 1 (no intervention), cardiac arrest 1 (survived). Grade ≥3 complications occurred in 10 patients (8.8%), including 5 deaths (4.4%): 2 intraoperative and 3 postoperative in patients transitioned to comfort care."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Patients with symptomatic malignant airway tumors treated at 6 U.S. institutions.",
+      "inclusion_criteria": [
+        "Symptomatic airway tumors (malignant airway tumors)",
+        "Underwent spray cryotherapy (SCT) between July 2008 and September 2010",
+        "Data available for retrospective review"
+      ],
+      "exclusion_criteria": [
+        "Benign strictures"
+      ]
+    },
+    "intervention": {
+      "text": "Spray cryotherapy (SCT) with liquid nitrogen via flexible bronchoscope",
+      "details": "CSA Medical CryoSpray Ablation System (Model CC2-NAM); 7F catheter; noncontact spray of liquid nitrogen at 2-4 psi; cycles typically 5 seconds when >50% of visible mucosa frozen; complete thaw with ≥30-second wait between cycles; ventilation held with open circuit and passive venting; general anesthesia or conscious sedation; often combined with mechanical debridement."
+    },
+    "comparison": {
+      "text": "None (single-arm registry)",
+      "details": "Observational, non-comparative study; other endobronchial modalities could be used adjunctively."
+    },
+    "outcomes": [
+      {
+        "name": "Airway luminal patency after treatment",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Perioperative complications (CTCAE v3.0)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Significant intraoperative bleeding (≥50 mL)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Hospital discharge after procedure",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "observational retrospective registry",
+    "allocation": "non-randomized",
+    "blinding": "none",
+    "sites_count": 6,
+    "countries": [
+      "US"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 80,
+      "analyzed": 80
+    },
+    "analysis_populations": [
+      {
+        "name": "treated",
+        "description": "All patients who underwent SCT",
+        "n": 80
+      },
+      {
+        "name": "procedures",
+        "description": "All SCT procedures performed",
+        "n": 114
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "Spray cryotherapy (SCT) cohort",
+      "n_randomized": 0,
+      "n_analyzed": 114,
+      "n_completed": 109
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "airway_patency_immediate",
+      "name": "Airway luminal patency achieved immediately after treatment",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Immediate post-procedure",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 79,
+            "total": 80
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "treated (patients)",
+        "missing_handling": "not reported"
+      },
+      "provenance": {
+        "pages": [
+          200
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "All but 1 patient had airway patency after treatment."
+      }
+    },
+    {
+      "concept_id": "significant_intraop_bleeding",
+      "name": "Significant intraoperative bleeding ≥50 mL",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Intraoperative",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 1,
+            "total": 114
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "procedures",
+        "missing_handling": "not applicable"
+      },
+      "provenance": {
+        "pages": [
+          200
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "Significant bleeding (≥ 50 mL) occurred in only one treatment and was treated successfully with SCT."
+      }
+    },
+    {
+      "concept_id": "hospital_discharge_after_procedure",
+      "name": "Discharged home after procedure",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Index hospitalization outcome",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 109,
+            "total": 114
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "procedures",
+        "missing_handling": "not applicable"
+      },
+      "provenance": {
+        "pages": [
+          200
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "All but 3 of these patients were discharged home, for a 95.6% discharge rate (109 of 114 procedures led to discharge)."
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Hypotension",
+      "meddra": {
+        "soc": "Vascular disorders",
+        "pt": "Hypotension"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 13,
+          "patients": 13,
+          "percentage": 11.4,
+          "total": 114
+        }
+      ],
+      "period": "Intraoperative",
+      "management": "Self-limited; supportive measures as needed",
+      "provenance": {
+        "pages": [
+          201
+        ],
+        "tables": [
+          "Table 4"
+        ],
+        "quote": "Hypotension 13 (11.4%)"
+      }
+    },
+    {
+      "event_name": "Bradycardia",
+      "meddra": {
+        "soc": "Cardiac disorders",
+        "pt": "Bradycardia"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 6,
+          "patients": 6,
+          "percentage": 5.3,
+          "total": 114
+        }
+      ],
+      "period": "Intraoperative",
+      "management": "Self-limited in most cases",
+      "provenance": {
+        "pages": [
+          201
+        ],
+        "tables": [
+          "Table 4"
+        ],
+        "quote": "Bradycardia 6 (5.3%)"
+      }
+    },
+    {
+      "event_name": "Oxygen desaturation",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Hypoxia"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 7,
+          "patients": 7,
+          "percentage": 6.1,
+          "total": 114
+        }
+      ],
+      "period": "Intraoperative",
+      "management": "Self-limited; supportive oxygenation/ventilation",
+      "provenance": {
+        "pages": [
+          201
+        ],
+        "tables": [
+          "Table 4"
+        ],
+        "quote": "Desaturation 7 (6.1%)"
+      }
+    },
+    {
+      "event_name": "Pneumothorax",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Pneumothorax"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "other_medically_important_condition"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 3,
+          "patients": 3,
+          "percentage": 2.6,
+          "total": 114
+        }
+      ],
+      "period": "Perioperative (intra/post-operative)",
+      "management": "Chest tube placement in 1/3 cases",
+      "provenance": {
+        "pages": [
+          201
+        ],
+        "tables": [
+          "Table 4"
+        ],
+        "quote": "Pneumothorax 3; Chest tube placement 1"
+      }
+    },
+    {
+      "event_name": "Massive hemoptysis",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Haemoptysis"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "life_threatening"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 1,
+          "patients": 1,
+          "percentage": 0.9,
+          "total": 114
+        }
+      ],
+      "period": "Intraoperative (during mechanical debridement)",
+      "management": "Controlled successfully with SCT",
+      "provenance": {
+        "pages": [
+          201
+        ],
+        "tables": [
+          "Table 4"
+        ],
+        "quote": "Massive hemoptysis 1 (treated successfully with SCT)"
+      }
+    },
+    {
+      "event_name": "Airway tear",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Tracheal injury"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 1,
+          "patients": 1,
+          "percentage": 0.9,
+          "total": 114
+        }
+      ],
+      "period": "Intraoperative (during rigid mechanical debridement)",
+      "management": "No intervention required",
+      "provenance": {
+        "pages": [
+          200
+        ],
+        "tables": [],
+        "quote": "one airway tear during rigid mechanical debridement (no intervention required)"
+      }
+    },
+    {
+      "event_name": "Cardiac arrest",
+      "meddra": {
+        "soc": "Cardiac disorders",
+        "pt": "Cardiac arrest"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "life_threatening"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 1,
+          "patients": 1,
+          "percentage": 0.9,
+          "total": 114
+        }
+      ],
+      "period": "Intraoperative",
+      "management": "Resuscitated; discharged after brief ICU stay",
+      "provenance": {
+        "pages": [
+          200
+        ],
+        "tables": [],
+        "quote": "one cardiac arrest... successfully resuscitated and discharged"
+      }
+    },
+    {
+      "event_name": "Intraoperative death",
+      "meddra": {
+        "soc": "General disorders and administration site conditions",
+        "pt": "Death intraoperative"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "death"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 2,
+          "patients": 2,
+          "percentage": 1.8,
+          "total": 114
+        }
+      ],
+      "period": "Intraoperative",
+      "management": "Not applicable",
+      "provenance": {
+        "pages": [
+          201
+        ],
+        "tables": [
+          "Table 4"
+        ],
+        "quote": "Intra-op death 2"
+      }
+    },
+    {
+      "event_name": "Postoperative death",
+      "meddra": {
+        "soc": "General disorders and administration site conditions",
+        "pt": "Death postoperative"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "death"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 3,
+          "patients": 3,
+          "percentage": 2.6,
+          "total": 114
+        }
+      ],
+      "period": "Postoperative (within index hospitalization, comfort care)",
+      "management": "Comfort care; deaths at 1, 5, and 7 days",
+      "provenance": {
+        "pages": [
+          201
+        ],
+        "tables": [
+          "Table 4"
+        ],
+        "quote": "Post-op death (comfort care) 3"
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "RoB 2",
+    "overall_judgment": "high",
+    "domains": [
+      {
+        "name": "Randomization process",
+        "judgment": "high",
+        "support_for_judgment": "Non-randomized, retrospective registry with single-arm design"
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "high",
+        "support_for_judgment": "Concomitant endobronchial treatments were frequently used; intervention exposure not controlled"
+      },
+      {
+        "name": "Missing outcome data",
+        "judgment": "some concerns",
+        "support_for_judgment": "Airway occlusion data available for 83/114 procedures"
+      },
+      {
+        "name": "Measurement of the outcome",
+        "judgment": "some concerns",
+        "support_for_judgment": "Airway narrowing assessed by visual estimation of cross-sectional area"
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "some concerns",
+        "support_for_judgment": "Descriptive outcomes reported without prespecified primary endpoint or statistical plan"
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "spray cryotherapy",
+      "airway",
+      "bronchoscopy",
+      "malignant airway tumor",
+      "liquid nitrogen",
+      "interventional pulmonology"
+    ],
+    "summary_tldr": "In a 6-center retrospective registry (80 patients, 114 procedures), spray cryotherapy achieved immediate airway patency in 79/80 patients with low bleeding (1/114 ≥50 mL) and a 19.3% overall complication rate, including pneumothorax in 3/114 and 5 perioperative deaths.",
+    "clinical_relevance": "SCT may offer hemostatic tumor debulking for malignant airway obstruction, usable with high oxygen requirements and around implants; intraoperative cardiopulmonary events warrant caution."
+  }
+}

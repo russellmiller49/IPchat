@@ -1,0 +1,107 @@
+{
+  "source": {
+    "document_id": "Pleural controversy  Closed needle pleural bio",
+    "ingest_date": "2025-08-08T14:54:43.058151+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1111/j.1440-1843.2011.01973.x"
+  },
+  "document": {
+    "metadata": {
+      "title": "Pleural controversy: Closed needle pleural biopsy or thoracoscopy—Which first?",
+      "year": 2011,
+      "authors": [
+        "Coenraad F.N. Koegelenberg",
+        "Andreas H. Diacon"
+      ],
+      "journal": "Respirology",
+      "doi": "10.1111/j.1440-1843.2011.01973.x",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "The most efficient and cost-effective approach to the diagnosis of pleural exudates remains controversial. Important considerations include the respective diagnostic yields of thoracocentesis, closed pleural biopsy and thoracoscopy; the incremental gain in diagnostic yield when sequentially combining these investigations; and the role of various image modalities. The diagnostic yield of thoracocentesis is in the order of 60% for malignancy and >90% for tuberculosis. A second aspiration may increase the yield for malignancy, but a third is generally superfluous. Many authorities consider thoracoscopy the investigation of choice in exudative pleural effusions where a thoracocentesis was nondiagnostic and particularly when malignancy is suspected. It allows for the direct inspection of the pleura and for talc poudrage. Thoracoscopy has a diagnostic yield of 91-95% for malignant disease and as high as 100% for pleural tuberculosis. Access to thoracoscopy is, however, limited in many parts of the world, as significant resources and expertise are required. Blind closed pleural biopsy has a yield of 80% for tuberculosis and <60% for pleural malignancy. Recent studies suggest that CT and/or ultrasound guidance may improve the yield, particularly for malignancy, where it may be as high as 88% and 83%, respectively. A second thoracocentesis combined with an image-assisted pleural biopsy with either an Abrams needle or cutting needle, depending on the setting, may therefore be an acceptable alternative to thoracoscopy. With such an approach, thoracoscopy may potentially be reserved for cases not diagnosed by means of closed pleural biopsy.",
+      "methods": "Invited narrative review of diagnostic strategies for exudative pleural effusions. The authors summarize historical context, procedural techniques, guideline recommendations, and diagnostic performance of thoracocentesis, closed needle pleural biopsy (blind and image-guided), and medical thoracoscopy. Evidence cited includes observational cohorts, randomized comparisons of biopsy techniques, and guideline statements. No systematic search strategy or meta-analytic methods are described.",
+      "results": "Key findings summarized: (1) Thoracocentesis: cytology yields approximately 55-60% for malignancy; a second aspiration may add approximately 27% yield while a third adds approximately 5%. For tuberculosis in high-incidence areas, a single thoracocentesis with lymphocytic predominance and elevated ADA can diagnose >90% of cases; pleural fluid smear and culture for Mycobacterium tuberculosis have sensitivities <50%. Ultrasound guidance improves success (up to 97%) and reduces pneumothorax risk. (2) Thoracoscopy: medical thoracoscopy yields 91-95% for malignant disease and up to 100% for pleural tuberculosis; major complications occur in 2-3% and mortality approximately 0.4%; addition of cytology or blind biopsy to thoracoscopy adds approximately 1% yield for malignancy. (3) Closed needle pleural biopsy: blind Abrams-type biopsy yields <60% for malignancy and approximately 80% for tuberculosis (up to 87% with ≥6 specimens). Image guidance improves performance: ultrasound-guided cutting needle biopsy yields up to 87% for all pleural pathologies (77% malignancy); ultrasound-assisted Abrams biopsy had higher tissue adequacy than ultrasound-assisted Tru-cut in one randomized study (91.0% vs 78.7%, P = 0.015) and higher yield for tuberculosis (81.8% vs 65.2%, P = 0.022), with comparable yields for malignancy (Abrams 83.3%). CT-guided pleural biopsy shows sensitivity around 87% for pleural thickening and up to 93% for mesothelioma; in randomized comparison, CT-guided Abrams biopsy sensitivity 87.5% vs thoracoscopy 94.1% (P = 0.252), with similar performance when pleural thickening ≥10 mm."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with exudative pleural effusions undergoing diagnostic evaluation for suspected malignancy or tuberculosis.",
+      "inclusion_criteria": [
+        "Exudative pleural effusion by Light’s criteria",
+        "Clinical suspicion of pleural malignancy or pleural tuberculosis",
+        "Candidates for pleural fluid analysis and tissue sampling"
+      ],
+      "exclusion_criteria": [
+        "Transudative pleural effusions",
+        "Patients not suitable for invasive pleural procedures due to instability or contraindications"
+      ]
+    },
+    "intervention": {
+      "text": "Medical thoracoscopy",
+      "details": "Local anesthesia and conscious sedation; direct pleural inspection with targeted biopsies; option for talc poudrage; typical diagnostic yield 91-95% for malignancy and up to 100% for pleural tuberculosis; complications approximately 2-3% major; mortality approximately 0.4%."
+    },
+    "comparison": {
+      "text": "Closed needle pleural biopsy",
+      "details": "Abrams needle or cutting needle; performed blind or with ultrasound/CT guidance; blind yield <60% for malignancy and approximately 80% for tuberculosis; image-guided yields up to 83-88% for malignancy depending on modality."
+    },
+    "outcomes": [
+      {
+        "name": "Diagnostic yield for malignancy",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Diagnostic yield for pleural tuberculosis",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Procedure-related complications (major complications, mortality)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Incremental yield of repeat thoracocentesis",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "narrative_review",
+    "allocation": "NA",
+    "blinding": "NA",
+    "sites_count": 0,
+    "countries": [],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": []
+  },
+  "arms": [],
+  "outcomes_normalized": [],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "Not applicable",
+    "overall_judgment": "NA",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "pleural effusion",
+      "thoracoscopy",
+      "closed needle pleural biopsy",
+      "Abrams needle",
+      "ultrasound-guided biopsy",
+      "CT-guided pleural biopsy",
+      "adenosine deaminase",
+      "pleural tuberculosis",
+      "malignant pleural effusion"
+    ],
+    "summary_tldr": "Narrative review: After nondiagnostic thoracocentesis, thoracoscopy offers the highest diagnostic yield (approximately 91-95% for malignancy; up to 100% for pleural tuberculosis), while image-guided closed pleural biopsies provide a viable alternative where thoracoscopy access is limited.",
+    "clinical_relevance": "Supports diagnostic pathways for exudative pleural effusions by balancing yield, safety, and resource availability; suggests using image-guided pleural biopsy after a nondiagnostic first thoracocentesis, reserving thoracoscopy for unresolved cases."
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "source": {
+    "document_id": "Occupational adverse effects and protective factors in bronchoscopy ",
+    "ingest_date": "2025-08-08T14:42:08.477391+00:00",
+    "trial_registration_id": null,
+    "pmid": null,
+    "doi": "10.21037/jtd.2019.03.73"
+  },
+  "document": {
+    "metadata": {
+      "title": "Occupational adverse effects and protective factors in bronchoscopy",
+      "year": 2019,
+      "authors": [
+        "Kai Chen",
+        "Chong Bai"
+      ],
+      "journal": "Journal of Thoracic Disease",
+      "doi": "10.21037/jtd.2019.03.73",
+      "pmid": null
+    },
+    "sections": {
+      "abstract": "The application of bronchoscopy has resolved a series of diagnostic and treatment challenges in pulmonary diseases. However, the occupational adverse effects experienced by healthcare workers in interventional pulmonology should receive increasing attention. Various aspects of adverse effects in bronchoscopy are often neglected, and healthcare workers frequently ignore guidelines for personal protection against factors such as radiation, smoke, pathogenic microbiological aerosols, cryogenic gas, etc. Thus, there is an urgent need to conduct additional research to establish standards for occupational adverse effects and protective measures related to bronchoscopy.",
+      "methods": "Narrative review of occupational hazards and protective measures related to bronchoscopy and interventional pulmonology. The article describes radiation exposure during X-ray-guided bronchoscopy, CT/CT-fluoroscopy procedures, and radioactive particle implantation; hazards from surgical smoke and laser electromagnetic radiation; and recommended protective strategies, citing selected observational studies and guidelines (e.g., ICRP, NIOSH).",
+      "results": "Key findings summarized: (1) Occupational radiation exposure in bronchoscopy is generally low per procedure but cumulative exposure warrants adherence to protection principles (time, distance, shielding). Reported operator doses include median 0.4 µSv per EBUS with fluoroscopy and 12 µSv for EBUS-GS with 7.6 min fluoroscopy; CT fluoroscopy increases operator dose relative to conventional CT. ICRP recommends ≤20 mSv/year occupational limit. (2) Radioactive particle implantation with 125I shows surface dose attenuation over distance and time, approaching background at 50 cm and by 6 months; protective measures and post-operative precautions outlined. (3) Surgical smoke from laser/electrocautery/argon plasma contains ultrafine particles, chemicals (e.g., CO, acrylonitrile, benzene), viable pathogens/viruses, and possibly cancer cells; NIOSH recommends smoke evacuators with 31-46 m/s capture velocity and placement within 5 cm of the source; high-filtration masks and eye/skin protection are advised. (4) Lasers pose eye/skin beam hazards; protective eyewear and controls are required."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Healthcare workers (physicians, assistants, nurses, technicians) involved in bronchoscopy and interventional pulmonology procedures",
+      "inclusion_criteria": [],
+      "exclusion_criteria": []
+    },
+    "intervention": {
+      "text": "Protective measures for occupational hazards in bronchoscopy",
+      "details": "Radiation protection (time, distance, shielding with 0.50 mm lead equivalence for X-ray; 0.18-0.25 mm for radioactive particle implantation), training, room/device management; smoke evacuation (high-efficiency filtration, 31-46 m/s capture, ≤5 cm from source), high-filtration masks, goggles, gloves, gowns; laser safety (protective eyewear, controls)."
+    },
+    "comparison": {
+      "text": "Absence or suboptimal use of protective measures",
+      "details": "Usual practices without dedicated radiation shielding, smoke evacuation, or laser-specific protective controls."
+    },
+    "outcomes": [
+      {
+        "name": "Occupational exposure levels and associated adverse effects",
+        "type": "primary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Narrative review",
+    "allocation": null,
+    "blinding": null,
+    "sites_count": 0,
+    "countries": [],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": []
+  },
+  "arms": [],
+  "outcomes_normalized": [],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "Not applicable",
+    "overall_judgment": "unclear",
+    "domains": [
+      {
+        "name": "Study design appropriateness",
+        "judgment": "unclear",
+        "support_for_judgment": "Narrative review without systematic search or explicit risk-of-bias assessment."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "bronchoscopy",
+      "occupational exposure",
+      "radiation",
+      "fluoroscopy",
+      "CT fluoroscopy",
+      "radioactive particles",
+      "I-125",
+      "laser",
+      "surgical smoke",
+      "NIOSH",
+      "ICRP",
+      "protective equipment"
+    ],
+    "summary_tldr": "Narrative review highlighting occupational hazards in bronchoscopy—radiation, surgical smoke, and laser risks—and practical protective measures (shielding, smoke evacuation, PPE).",
+    "clinical_relevance": "Raises awareness and provides pragmatic guidance to reduce occupational risks for bronchoscopy teams."
+  }
+}

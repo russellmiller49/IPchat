@@ -1,0 +1,103 @@
+{
+  "source": {
+    "document_id": "BTS guideline for diagnostic flexible bronchoscopy in adults",
+    "ingest_date": "2025-08-08T10:32:09.710449+00:00",
+    "trial_registration_id": null,
+    "pmid": null,
+    "doi": "10.1136/thoraxjnl-2013-203618"
+  },
+  "document": {
+    "metadata": {
+      "title": "British Thoracic Society guideline for diagnostic flexible bronchoscopy in adults",
+      "year": 2013,
+      "authors": [
+        "I A Du Rand",
+        "J Blaikley",
+        "R Booton",
+        "N Chaudhuri",
+        "V Gupta",
+        "S Khalid",
+        "S Mandal",
+        "J Martin",
+        "J Mills",
+        "N Navani",
+        "N M Rahman",
+        "J M Wrightson",
+        "M Munavvar"
+      ],
+      "journal": "Thorax",
+      "doi": "10.1136/thoraxjnl-2013-203618",
+      "pmid": null
+    },
+    "sections": {
+      "abstract": "The British Thoracic Society (BTS) 2013 guideline provides evidence-graded recommendations for the safe performance of diagnostic flexible bronchoscopy in adults. Guidance covers monitoring, sedation and topical anaesthesia, management of complications (hypoxaemia, arrhythmias, bleeding, pneumothorax, fever/infection), use in specific medical conditions (asthma, COPD, ischaemic heart disease, haemoptysis, older adults, immunosuppressed patients), diagnostic sampling strategies for lung cancer, interstitial lung disease and infections, the intensive care setting, and disinfection/decontamination procedures. Recommendations are graded (A-D) with good practice points, emphasizing continuous monitoring, cautious sedation, appropriate sampling to maximize diagnostic yield, and robust decontamination processes.",
+      "methods": "This is a clinical practice guideline developed by the BTS Bronchoscopy Guideline Group. Recommendations are based on systematic appraisal of the literature and expert consensus, with evidence graded using the BTS grading system (Grade A-D) and good practice points (√) where evidence is limited but consensus is strong.",
+      "results": "The guideline issues specific recommendations across domains: monitoring (vital signs and pulse oximetry), hypoxaemia management (thresholds for supplemental oxygen), arrhythmia risk management, coagulation and antithrombotic management before biopsy, indications for imaging after transbronchial biopsy, fever/infection management (no routine antibiotic prophylaxis), sedation strategies (midazolam preferred; propofol only by trained practitioners; opioid co-sedation considerations), topical anaesthesia with lidocaine (dose minimization and monitoring for toxicity), sampling to optimize diagnostic yield in malignancy and ILD, diagnostic approaches in immunocompromised and immunocompetent hosts with pneumonia/TB, ICU considerations (device sizing, monitoring, NIV/CPAP use), and comprehensive disinfection protocols (AER use, avoidance of aldehydes, tracking and validation)."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults undergoing diagnostic flexible bronchoscopy in hospital and ICU settings",
+      "inclusion_criteria": [
+        "Adults requiring diagnostic flexible bronchoscopy",
+        "Patients with suspected lung cancer, interstitial lung disease, or pulmonary infection",
+        "Mechanically ventilated or non-invasively ventilated adults when diagnostic bronchoscopy is considered"
+      ],
+      "exclusion_criteria": [
+        "Pediatric patients",
+        "Patients undergoing exclusively therapeutic bronchoscopic procedures outside diagnostic scope"
+      ]
+    },
+    "intervention": {
+      "text": "Diagnostic flexible bronchoscopy with recommended monitoring, sedation, topical anaesthesia, sampling, and disinfection practices",
+      "details": "Use of continuous pulse oximetry; cautious titrated midazolam sedation (with or without short-acting opioids); lidocaine topical anaesthesia via spray-as-you-go or cricothyroid; appropriate sampling techniques (biopsy, brushing, washings, BAL, TBLB, EBB) per indication; adherence to AER-based decontamination."
+    },
+    "comparison": {
+      "text": "Alternative or non-recommended practices and non-invasive diagnostic strategies",
+      "details": "Examples include unsedated procedures per patient preference, blind catheter aspiration for suspected VAP prior to bronchoscopy, or non-invasive testing for infection where appropriate."
+    },
+    "outcomes": [
+      {
+        "name": "Safety and diagnostic yield of flexible bronchoscopy across indications",
+        "type": "primary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Guideline",
+    "allocation": null,
+    "blinding": null,
+    "sites_count": 0,
+    "countries": [
+      "UK"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": []
+  },
+  "arms": [],
+  "outcomes_normalized": [],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "Not applicable",
+    "overall_judgment": "not_applicable",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "flexible bronchoscopy",
+      "British Thoracic Society",
+      "sedation",
+      "lidocaine",
+      "diagnostic yield",
+      "infection control",
+      "ICU bronchoscopy"
+    ],
+    "summary_tldr": "BTS 2013 guideline provides graded, evidence-based recommendations to optimize safety, sedation, sampling, and decontamination in adult diagnostic flexible bronchoscopy.",
+    "clinical_relevance": "Defines standard-of-care practices for adult diagnostic bronchoscopy in the UK, guiding safe sedation, monitoring, sampling for cancer/ILD/infection, ICU use, and rigorous disinfection."
+  }
+}

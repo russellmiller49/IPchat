@@ -1,0 +1,519 @@
+{
+  "source": {
+    "document_id": "fistula Okuda-2017-Risk factor of bronchopleural fistu",
+    "ingest_date": "2025-08-08T12:30:10.685059+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1007/s11748-017-0846-1"
+  },
+  "document": {
+    "metadata": {
+      "title": "Risk factor of bronchopleural fistula after general thoracic surgery: review article",
+      "year": 2017,
+      "authors": [
+        "Masaya Okuda",
+        "Tetsuhiko Go",
+        "Hiroyasu Yokomise"
+      ],
+      "journal": "General Thoracic and Cardiovascular Surgery",
+      "doi": "10.1007/s11748-017-0846-1",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Objective The aim of this article was to clarify recent risk factors for the early bronchopleural fistula after anatomical lung resection. Methods Reports on early bronchopleural fistula after anatomical lung resection in adults, including information on risk factors, published between 2006 and 2016 were reviewed and our institutional data were evaluated. The early period was defined as within 30 days from surgery or as described early in the manuscript. Results A total of seven retrospective observational articles were selected. Four articles investigated lobectomy and pneumonectomy, while the other three articles investigated only pneumonectomy. The surgical procedure, preoperative therapy, complications after surgery, right side, patient age, past history, and tumor residuals were mentioned as risk factors of bronchopleural fistula. Our data concluded that neo-adjuvant therapy and a right lower lobe location were risk factors after a lobectomy, while a right side and complete pneumonectomy were risk factors after a pneumonectomy. Conclusions Although recent studies have reached nearly the same conclusions as older reports, continuous research of potential risk factor is needed as therapeutic procedures continue to evolve.",
+      "methods": "All recent literature published between 2006 and 2016 and pertaining to early BPF after anatomical lung resection in adults, including information about risk factors, was reviewed (Medline/PubMed search with keywords “bronchopleural fistula,” “risk factor,” and “lung resection”). Exclusions: radiofrequency ablation, microwave coagulation therapy, children/infants, chronic BPF, or insufficient contents. Early BPF was defined as within 30 days of surgery or as described as “early.” Institutional cohort: 1114 consecutive NSCLC patients who underwent anatomical lung resection (April 1999-August 2015, Kagawa University Hospital). Risk factors evaluated: sex, age, past medical history, preoperative therapy, tumor location, histology, procedure, reinforcement. Fisher’s exact test, chi-squared test, and unpaired t test were used. Logistic regression was used for risk factor analysis; variables with p<0.2 in univariate were entered into multivariate; significance p<0.05.",
+      "results": "Seven retrospective observational studies (four mixed lobectomy+pneumonectomy; three pneumonectomy-only) reported risk factors including residual tumor at the bronchial stump, age, respiratory complications, pneumonectomy procedure, neoadjuvant therapy, diabetes mellitus, and acute exacerbation of interstitial pneumonia. Meta-analyses identified residual tumor, neoadjuvant radio/chemoradiotherapy, diabetes mellitus, and COPD as risks. Institutional multivariable results (all cases) identified hypertension (OR 4.38), prior malignancy (OR 7.79), right lower lobe location (OR 5.48), and pneumonectomy (OR 24.72) as significant. In lobectomy-only analysis, right lower lobe location (OR 16.07) and neoadjuvant chemoradiotherapy (OR 11.86) were significant. In pneumonectomy-only analysis, right-side (OR 6.29) and completion pneumonectomy (OR 8.67) were significant. Overall BPF incidence in the institutional cohort was 20/1114 (1.8%)."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults undergoing anatomical lung resection for NSCLC; early postoperative period focused on early bronchopleural fistula (≤30 days).",
+      "inclusion_criteria": [
+        "Adult patients",
+        "Anatomical lung resection (lobectomy, bilobectomy, pneumonectomy)",
+        "Reports published 2006-2016 with risk factor data for early BPF",
+        "Institutional cohort: consecutive NSCLC resections (Apr 1999-Aug 2015)"
+      ],
+      "exclusion_criteria": [
+        "Radiofrequency ablation or microwave coagulation therapy",
+        "Children or infants",
+        "Chronic BPF",
+        "Insufficient data on risk factors"
+      ]
+    },
+    "intervention": {
+      "text": "Anatomical lung resection",
+      "details": "Lobectomy, bilobectomy, or pneumonectomy with or without bronchial stump reinforcement; some patients received neoadjuvant chemotherapy or chemoradiotherapy."
+    },
+    "comparison": {
+      "text": "Risk factor strata comparisons",
+      "details": "Comparisons across procedures (pneumonectomy vs lobectomy), laterality (right vs left), lobe location, neoadjuvant therapy vs none, and clinical covariates within multivariable logistic regression."
+    },
+    "outcomes": [
+      {
+        "name": "Early bronchopleural fistula (≤30 days post-surgery)",
+        "type": "primary",
+        "umls_cui": "C0006281"
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Narrative review with single-center retrospective cohort analysis",
+    "allocation": "non-randomized",
+    "blinding": "none",
+    "sites_count": 1,
+    "countries": [
+      "JP"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 1114,
+      "analyzed": 1114
+    },
+    "analysis_populations": [
+      {
+        "name": "All cases",
+        "description": "All consecutive NSCLC patients undergoing anatomical lung resection",
+        "n": 1114
+      },
+      {
+        "name": "Lobectomy subgroup",
+        "description": "Patients undergoing lobectomy or bilobectomy",
+        "n": 1037
+      },
+      {
+        "name": "Pneumonectomy subgroup",
+        "description": "Patients undergoing pneumonectomy (including completion pneumonectomy)",
+        "n": 77
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "overall",
+      "name": "All anatomical lung resections",
+      "n_randomized": 0,
+      "n_analyzed": 1114,
+      "n_completed": 0
+    },
+    {
+      "arm_id": "lobectomy",
+      "name": "Lobectomy",
+      "n_randomized": 0,
+      "n_analyzed": 1009,
+      "n_completed": 0
+    },
+    {
+      "arm_id": "bilobectomy",
+      "name": "Bilobectomy",
+      "n_randomized": 0,
+      "n_analyzed": 28,
+      "n_completed": 0
+    },
+    {
+      "arm_id": "pneumonectomy",
+      "name": "Pneumonectomy (including completion pneumonectomy)",
+      "n_randomized": 0,
+      "n_analyzed": 77,
+      "n_completed": 0
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "early_bpf_incidence_30d",
+      "name": "Bronchopleural fistula within 30 days",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P30D",
+      "timepoint_label": "30 days",
+      "groups": [
+        {
+          "arm_id": "overall",
+          "raw": {
+            "events": 20,
+            "total": 1114
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "overall",
+        "measure": "proportion",
+        "est": 0.017953,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All cases",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          681
+        ],
+        "tables": [
+          "Table 1"
+        ],
+        "table_number": 1,
+        "quote": "BPF Yes 20 1.8% (No 1094 98.2%)"
+      }
+    },
+    {
+      "concept_id": "bpf_risk_pneumonectomy_vs_other",
+      "name": "Association: Pneumonectomy vs other procedures for BPF (all cases)",
+      "type": "binary",
+      "outcome_type": "risk_factor",
+      "timepoint_iso8601": "P30D",
+      "timepoint_label": "30 days",
+      "groups": [],
+      "comparison": {
+        "ref_arm_id": "lobectomy",
+        "measure": "odds_ratio",
+        "est": 24.72,
+        "ci_lower": 5.94,
+        "ci_upper": 102.85,
+        "ci_level": 0.95,
+        "p_value": 0.001,
+        "p_operator": "<",
+        "adjusted": true
+      },
+      "analysis": {
+        "model": "Multivariable logistic regression",
+        "adjusted": true,
+        "covariates": [
+          "male gender",
+          "past history (hypertension)",
+          "past history (malignancy)",
+          "past history (COPD)",
+          "past history (tuberculosis)",
+          "steroid use",
+          "right middle lobe location",
+          "right lower lobe location",
+          "left upper lobe location",
+          "procedure (pneumonectomy)",
+          "histology",
+          "neoadjuvant chemoradiotherapy",
+          "reinforcement"
+        ],
+        "population": "All cases",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          682
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Procedure (pneumonectomy) OR 24.72 (95% CI 5.94-102.85), p<0.001"
+      }
+    },
+    {
+      "concept_id": "bpf_risk_right_lower_lobe_all",
+      "name": "Association: Right lower lobe location vs other lobes for BPF (all cases)",
+      "type": "binary",
+      "outcome_type": "risk_factor",
+      "timepoint_iso8601": "P30D",
+      "timepoint_label": "30 days",
+      "groups": [],
+      "comparison": {
+        "ref_arm_id": "lobectomy",
+        "measure": "odds_ratio",
+        "est": 5.48,
+        "ci_lower": 1.57,
+        "ci_upper": 19.07,
+        "ci_level": 0.95,
+        "p_value": 0.008,
+        "p_operator": "=",
+        "adjusted": true
+      },
+      "analysis": {
+        "model": "Multivariable logistic regression",
+        "adjusted": true,
+        "covariates": [
+          "variables in Table 2"
+        ],
+        "population": "All cases",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          682
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Right lower lobe location OR 5.48 (95% CI 1.57-19.07), p=0.008"
+      }
+    },
+    {
+      "concept_id": "bpf_risk_nacrt_lobectomy",
+      "name": "Association: Neoadjuvant chemoradiotherapy vs none for BPF (lobectomy subgroup)",
+      "type": "binary",
+      "outcome_type": "risk_factor",
+      "timepoint_iso8601": "P30D",
+      "timepoint_label": "30 days",
+      "groups": [],
+      "comparison": {
+        "ref_arm_id": "lobectomy",
+        "measure": "odds_ratio",
+        "est": 11.86,
+        "ci_lower": 1.45,
+        "ci_upper": 96.84,
+        "ci_level": 0.95,
+        "p_value": 0.021,
+        "p_operator": "=",
+        "adjusted": true
+      },
+      "analysis": {
+        "model": "Multivariable logistic regression",
+        "adjusted": true,
+        "covariates": [
+          "variables in Table 3 (lobectomy)"
+        ],
+        "population": "Lobectomy subgroup",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          682,
+          683
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "Lobectomy: NACRT OR 11.86 (95% CI 1.45-96.84), p=0.021"
+      }
+    },
+    {
+      "concept_id": "bpf_risk_right_lower_lobe_lobectomy",
+      "name": "Association: Right lower lobe location vs other lobes for BPF (lobectomy subgroup)",
+      "type": "binary",
+      "outcome_type": "risk_factor",
+      "timepoint_iso8601": "P30D",
+      "timepoint_label": "30 days",
+      "groups": [],
+      "comparison": {
+        "ref_arm_id": "lobectomy",
+        "measure": "odds_ratio",
+        "est": 16.07,
+        "ci_lower": 1.69,
+        "ci_upper": 152.36,
+        "ci_level": 0.95,
+        "p_value": 0.016,
+        "p_operator": "=",
+        "adjusted": true
+      },
+      "analysis": {
+        "model": "Multivariable logistic regression",
+        "adjusted": true,
+        "covariates": [
+          "variables in Table 3 (lobectomy)"
+        ],
+        "population": "Lobectomy subgroup",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          682,
+          683
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "Lobectomy: Right lower lobe location OR 16.07 (95% CI 1.69-152.36), p=0.016"
+      }
+    },
+    {
+      "concept_id": "bpf_risk_right_side_pneumonectomy",
+      "name": "Association: Right side vs left for BPF (pneumonectomy subgroup)",
+      "type": "binary",
+      "outcome_type": "risk_factor",
+      "timepoint_iso8601": "P30D",
+      "timepoint_label": "30 days",
+      "groups": [],
+      "comparison": {
+        "ref_arm_id": "pneumonectomy",
+        "measure": "odds_ratio",
+        "est": 6.29,
+        "ci_lower": 1.17,
+        "ci_upper": 33.33,
+        "ci_level": 0.95,
+        "p_value": 0.032,
+        "p_operator": "=",
+        "adjusted": true
+      },
+      "analysis": {
+        "model": "Multivariable logistic regression",
+        "adjusted": true,
+        "covariates": [
+          "variables in Table 3 (pneumonectomy)"
+        ],
+        "population": "Pneumonectomy subgroup",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          683
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "Pneumonectomy: Right side OR 6.29 (95% CI 1.17-33.33), p=0.032"
+      }
+    },
+    {
+      "concept_id": "bpf_risk_completion_pneumonectomy",
+      "name": "Association: Completion pneumonectomy vs standard pneumonectomy for BPF (pneumonectomy subgroup)",
+      "type": "binary",
+      "outcome_type": "risk_factor",
+      "timepoint_iso8601": "P30D",
+      "timepoint_label": "30 days",
+      "groups": [],
+      "comparison": {
+        "ref_arm_id": "pneumonectomy",
+        "measure": "odds_ratio",
+        "est": 8.67,
+        "ci_lower": 1.1,
+        "ci_upper": 68.23,
+        "ci_level": 0.95,
+        "p_value": 0.04,
+        "p_operator": "=",
+        "adjusted": true
+      },
+      "analysis": {
+        "model": "Multivariable logistic regression",
+        "adjusted": true,
+        "covariates": [
+          "variables in Table 3 (pneumonectomy)"
+        ],
+        "population": "Pneumonectomy subgroup",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          683
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "Pneumonectomy: Completion pneumonectomy OR 8.67 (95% CI 1.10-68.23), p=0.040"
+      }
+    },
+    {
+      "concept_id": "bpf_risk_hypertension_all",
+      "name": "Association: Past history of hypertension vs none for BPF (all cases)",
+      "type": "binary",
+      "outcome_type": "risk_factor",
+      "timepoint_iso8601": "P30D",
+      "timepoint_label": "30 days",
+      "groups": [],
+      "comparison": {
+        "ref_arm_id": "overall",
+        "measure": "odds_ratio",
+        "est": 4.38,
+        "ci_lower": 1.33,
+        "ci_upper": 14.35,
+        "ci_level": 0.95,
+        "p_value": 0.015,
+        "p_operator": "=",
+        "adjusted": true
+      },
+      "analysis": {
+        "model": "Multivariable logistic regression",
+        "adjusted": true,
+        "covariates": [
+          "variables in Table 2"
+        ],
+        "population": "All cases",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          682
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Past history (hypertension) OR 4.38 (95% CI 1.33-14.35), p=0.015"
+      }
+    },
+    {
+      "concept_id": "bpf_risk_prior_malignancy_all",
+      "name": "Association: Past history of malignancy vs none for BPF (all cases)",
+      "type": "binary",
+      "outcome_type": "risk_factor",
+      "timepoint_iso8601": "P30D",
+      "timepoint_label": "30 days",
+      "groups": [],
+      "comparison": {
+        "ref_arm_id": "overall",
+        "measure": "odds_ratio",
+        "est": 7.79,
+        "ci_lower": 2.13,
+        "ci_upper": 28.52,
+        "ci_level": 0.95,
+        "p_value": 0.002,
+        "p_operator": "=",
+        "adjusted": true
+      },
+      "analysis": {
+        "model": "Multivariable logistic regression",
+        "adjusted": true,
+        "covariates": [
+          "variables in Table 2"
+        ],
+        "population": "All cases",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          682
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Past history (malignancy) OR 7.79 (95% CI 2.13-28.52), p=0.002"
+      }
+    }
+  ],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "Not assessed",
+    "overall_judgment": "unclear",
+    "domains": [
+      {
+        "name": "Confounding (observational cohort)",
+        "judgment": "unclear",
+        "support_for_judgment": "Retrospective cohort with multivariable adjustment; residual confounding possible."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "bronchopleural fistula",
+      "risk factors",
+      "lobectomy",
+      "pneumonectomy",
+      "neoadjuvant chemoradiotherapy",
+      "completion pneumonectomy",
+      "right lower lobe"
+    ],
+    "summary_tldr": "In a 1114-patient cohort (BPF 20/1114, 1.8%), pneumonectomy (OR 24.72), right lower lobe location (OR 5.48), prior malignancy (OR 7.79), and hypertension (OR 4.38) increased early BPF risk; within subgroups, NACRT and right lower lobe (lobectomy) and right-sided or completion procedures (pneumonectomy) were significant.",
+    "clinical_relevance": "Highlights modifiable and non-modifiable risk factors for early bronchopleural fistula after anatomical lung resection to guide perioperative risk stratification and preventative measures."
+  }
+}

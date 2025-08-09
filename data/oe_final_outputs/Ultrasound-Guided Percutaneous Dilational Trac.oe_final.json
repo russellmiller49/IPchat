@@ -1,0 +1,391 @@
+{
+  "source": {
+    "document_id": "Ultrasound-Guided Percutaneous Dilational Tracheostomy SRMA JICM 2020",
+    "ingest_date": "2025-08-08T16:37:15.077308+00:00",
+    "trial_registration_id": "CRD42017064316",
+    "pmid": "",
+    "doi": "10.1177/0885066618755334"
+  },
+  "document": {
+    "metadata": {
+      "title": "Ultrasound-Guided Percutaneous Dilational Tracheostomy: A Systematic Review of Randomized Controlled Trials and Meta-Analysis",
+      "year": 2020,
+      "authors": [
+        "Andre L. N. Gobatto",
+        "Bruno A. M. P. Besen",
+        "Mino Cestari",
+        "Paolo Pelosi",
+        "Luiz M. S. Malbouisson"
+      ],
+      "journal": "Journal of Intensive Care Medicine",
+      "doi": "10.1177/0885066618755334",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Introduction: Percutaneous dilational tracheostomy (PDT) is a common and increasingly used procedure in the intensive care unit (ICU). It is usually performed with bronchoscopy guidance. Ultrasound has emerged as a useful tool in order to assist PDT, potentially improving its success rate and reducing procedural-related complications. Objective: To investigate whether the ultrasound-guided PDT is equivalent or superior to the bronchoscopy-guided or anatomical landmarks-guided PDT with regard to procedural-related and clinical complications. Methods: A systematic review of randomized clinical trials was conducted comparing an ultrasound-guided PDT to the control groups (either a bronchoscopy-guided PDT or an anatomical landmark- guided PDT) in patients undergoing a PDT in the ICU. The primary outcome was the incidence of major procedural-related and clinical complication rates. The secondary outcome was the incidence of minor complication rates. Random-effect meta-analyzes were used to pool the results. Results: Four studies fulfilled the inclusion criteria and they were analyzed. The studies included 588 participants. There were no differences in the major complication rates between the patients who were assigned to the ultrasound-guided PDT when compared to the control groups (pooled risk ratio [RR]: 0.48; 95% confidence interval [CI]: 0.13-1.71, I2 = 0%). The minor complication rates were not different between the groups, but they had a high heterogeneity (pooled RR: 0.49; 95% CI 0.16-1.50; I2 = 85%). The sensitivity analyzes that only included the randomized controlled trials that used a landmark-guided PDT as the control group showed lower rates of minor complications in the ultrasound-guided PDT group (pooled RR: 0.55; 95% CI: 0.31-0.98, I2 = 0%). Conclusion: The ultrasound-guided PDT seems to be safe and it is comparable to the bronchoscopy-guided PDT regarding the major and minor procedural-related or clinical complications. It also seems to reduce the minor complications when compared to the anatomical landmark-guided PDT.",
+      "methods": "Systematic review and meta-analysis of randomized controlled trials comparing real-time ultrasound-guided percutaneous dilational tracheostomy (PDT) versus control techniques (bronchoscopy-guided PDT or anatomical landmark-guided PDT). Databases searched from inception to April 2017 included Medline, Cochrane Central Register of Controlled Trials, LILACS, and SciELO without language restrictions. Additional sources: reference lists, conference abstracts (ATS, SCCM, ESICM 2010-2017), and trial registries. Eligibility: RCTs in adults undergoing elective PDT in ICUs, reporting at least one of bleeding, wound infection, mortality, mechanical ventilation duration, or ICU length of stay. Data extraction performed independently by two reviewers with third-party adjudication. Risk of bias assessed using the Cochrane Risk of Bias Tool. Binary outcomes pooled (random-effects) and expressed as pooled effect estimates with 95% CIs; heterogeneity quantified by Cochran Q and I2. Pre-specified sensitivity analyses stratified by control method (bronchoscopy vs landmark) and operator experience.",
+      "results": "Four single-center unblinded RCTs (n=588 randomized; n=561 analyzed) were included: two compared ultrasound-guided to anatomical landmark-guided PDT and two compared ultrasound-guided to bronchoscopy-guided PDT. Ultrasound guidance was real-time in all trials; three used the Griggs forceps dilator technique and one used the Ciaglia single dilator technique. Major complications: 10/561 (1.8%) overall; pooled RR 0.48 (95% CI 0.13-1.71; I2=0%), not significantly different between ultrasound-guided and controls. Minor complications: pooled rate 19.2% with high heterogeneity; pooled RR 0.49 (95% CI 0.16-1.50; I2=86%), not significantly different overall. Sensitivity analysis limited to landmark-guided controls showed fewer minor complications with ultrasound guidance (pooled RR 0.49; 95% CI 0.25-0.96; I2=0%). Procedure duration was reported in three trials; ultrasound guidance was generally faster, with a statistically significant difference in Yavuz et al. (18.6 ± 6.3 vs 24.1 ± 8.0 minutes; P = .001). Additional procedural metrics favored ultrasound in individual trials (fewer multiple attempts; higher first-pass success). Risk of bias: all studies unblinded; random sequence generation and allocation concealment clearly reported in two trials; funnel plot did not suggest publication bias."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adult ICU patients undergoing elective percutaneous dilational tracheostomy.",
+      "inclusion_criteria": [
+        "Randomized controlled trials",
+        "Adults in ICUs undergoing elective PDT",
+        "Reported at least one prespecified outcome (eg, bleeding, infection, mortality, ventilation duration, ICU length of stay)"
+      ],
+      "exclusion_criteria": [
+        "Nonrandomized studies",
+        "Pediatric populations",
+        "Surgical tracheostomy without percutaneous technique",
+        "Insufficient outcome reporting"
+      ]
+    },
+    "intervention": {
+      "text": "Ultrasound-guided percutaneous dilational tracheostomy",
+      "details": "Real-time ultrasound guidance for identification of cervical anatomy and vascular structures, selection of puncture site, and needle insertion during PDT (forceps dilator or single dilator technique)."
+    },
+    "comparison": {
+      "text": "Control PDT technique",
+      "details": "Either bronchoscopy-guided PDT or anatomical landmark-guided PDT performed per trial protocol."
+    },
+    "outcomes": [
+      {
+        "name": "Major procedural-related and clinical complications",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Minor procedural-related complications",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Procedure duration (minutes)",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Systematic review and meta-analysis of RCTs",
+    "allocation": "not applicable",
+    "blinding": "not applicable",
+    "sites_count": 4,
+    "countries": [],
+    "sample_size": {
+      "planned": 588,
+      "enrolled": 588,
+      "analyzed": 561
+    },
+    "analysis_populations": [
+      {
+        "name": "All included trials (as-analyzed)",
+        "description": "Participants analyzed across the four included RCTs as reported by each trial",
+        "n": 561
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "Ultrasound-guided PDT",
+      "n_randomized": 276,
+      "n_analyzed": 276,
+      "n_completed": 276
+    },
+    {
+      "arm_id": "control",
+      "name": "Control (bronchoscopy-guided or anatomical landmark-guided PDT)",
+      "n_randomized": 275,
+      "n_analyzed": 275,
+      "n_completed": 275
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "major_complications_any",
+      "name": "Major complications (composite)",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Periprocedural/in-hospital",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 3,
+            "total": 276
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 7,
+            "total": 275
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_ratio",
+        "est": 0.48,
+        "ci_lower": 0.13,
+        "ci_upper": 1.71,
+        "ci_level": 0.95,
+        "p_value": 0.264,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Random-effects (Mantel-Haenszel)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All included trials (as-analyzed)",
+        "missing_handling": "Not reported",
+        "heterogeneity_i2": 0
+      },
+      "provenance": {
+        "pages": [
+          447,
+          450
+        ],
+        "tables": [],
+        "quote": "There were no significant differences in the major complications... (pooled risk ratio [RR]: 0.48; 95% CI: 0.13-1.71, I2 = 0%)."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.427
+        },
+        "odds_ratio": {
+          "est": 0.421
+        },
+        "arr": -0.015,
+        "nnh": 68.6
+      }
+    },
+    {
+      "concept_id": "minor_complications_any",
+      "name": "Minor complications (composite)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Periprocedural/in-hospital",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 37,
+            "total": 276
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 67,
+            "total": 275
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_ratio",
+        "est": 0.49,
+        "ci_lower": 0.16,
+        "ci_upper": 1.5,
+        "ci_level": 0.95,
+        "p_value": 0.212,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Random-effects (Mantel-Haenszel)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All included trials (as-analyzed)",
+        "missing_handling": "Not reported",
+        "heterogeneity_i2": 86
+      },
+      "provenance": {
+        "pages": [
+          450
+        ],
+        "tables": [],
+        "quote": "The minor complications were not different... (pooled RR: 0.49; 95% CI: 0.16-1.50, I2 = 86%)."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.55
+        },
+        "odds_ratio": {
+          "est": 0.481
+        },
+        "arr": -0.11,
+        "nnh": 9.1
+      }
+    },
+    {
+      "concept_id": "minor_complications_any_landmark_control",
+      "name": "Minor complications (composite) - landmark-guided control only",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Periprocedural/in-hospital",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 15,
+            "total": 178
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 28,
+            "total": 181
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_ratio",
+        "est": 0.49,
+        "ci_lower": 0.25,
+        "ci_upper": 0.96,
+        "ci_level": 0.95,
+        "p_value": 0.038,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Random-effects (Mantel-Haenszel)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Sensitivity analysis: landmark-guided control trials only",
+        "missing_handling": "Not reported",
+        "heterogeneity_i2": 0
+      },
+      "provenance": {
+        "pages": [
+          450
+        ],
+        "tables": [],
+        "quote": "The sensitivity analyzes that included only the RCTs that used the landmark-guided PDT for the control group showed lower rates of total minor complications in the ultrasound-guided PDT group (pooled RR: 0.49; 95% CI: 0.25-0.96, I2 = 0%)."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.545
+        },
+        "odds_ratio": {
+          "est": 0.503
+        },
+        "arr": -0.07,
+        "nnh": 14.2
+      }
+    },
+    {
+      "concept_id": "procedure_duration_minutes",
+      "name": "Procedure duration",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "During procedure",
+      "unit": "min",
+      "unit_canonical": "minute",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": 18.6,
+            "sd": 6.3,
+            "total": 154
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "mean": 24.1,
+            "sd": 8.0,
+            "total": 157
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "mean_difference",
+        "est": -5.5,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.001,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Two-sample comparison within single RCT (Yavuz et al.)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Single trial (Yavuz et al.)"
+      },
+      "provenance": {
+        "pages": [
+          449
+        ],
+        "tables": [],
+        "quote": "18.6 + 6.3 minutes vs 24.1 + 8.0 minutes, P = .001."
+      }
+    }
+  ],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "Cochrane Risk of Bias (original tool)",
+    "overall_judgment": "some concerns",
+    "domains": [
+      {
+        "name": "Random sequence generation",
+        "judgment": "some concerns",
+        "support_for_judgment": "Two trials clearly reported randomization; others unclear."
+      },
+      {
+        "name": "Allocation concealment",
+        "judgment": "some concerns",
+        "support_for_judgment": "Concealment clearly reported in two trials; unclear in two."
+      },
+      {
+        "name": "Blinding of participants and personnel",
+        "judgment": "high",
+        "support_for_judgment": "All trials were unblinded due to the nature of the intervention."
+      },
+      {
+        "name": "Blinding of outcome assessment",
+        "judgment": "unclear",
+        "support_for_judgment": "Not consistently reported."
+      },
+      {
+        "name": "Incomplete outcome data",
+        "judgment": "low",
+        "support_for_judgment": "Analyses reported for most randomized patients; attrition minimal or explained."
+      },
+      {
+        "name": "Selective reporting",
+        "judgment": "low",
+        "support_for_judgment": "No clear evidence of selective reporting; outcomes prespecified."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "ultrasound-guided tracheostomy",
+      "percutaneous dilational tracheostomy",
+      "bronchoscopy-guided",
+      "landmark-guided",
+      "ICU",
+      "randomized controlled trial",
+      "meta-analysis"
+    ],
+    "summary_tldr": "Across 4 single-center RCTs (n=561 analyzed), ultrasound-guided PDT had similar major complications to controls overall and fewer minor complications versus landmark-guided PDT in sensitivity analysis.",
+    "clinical_relevance": "Ultrasound guidance is a safe alternative to bronchoscopy-guided PDT and may reduce minor complications relative to landmark-guided techniques."
+  }
+}

@@ -1,0 +1,366 @@
+{
+  "source": {
+    "document_id": "Clinical and quality of life outcomes vs. exte",
+    "ingest_date": "2025-08-08T10:38:04.348131+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1016/S0167-8140(00)00252-8"
+  },
+  "document": {
+    "metadata": {
+      "title": "Clinical and quality of life outcomes in the first United Kingdom randomized trial of endobronchial brachytherapy (intraluminal radiotherapy) vs. external beam radiotherapy in the palliative treatment of inoperable non-small cell lung cancer",
+      "year": 2000,
+      "authors": [
+        "Ron Stout",
+        "Philip Barber",
+        "Paul Burt",
+        "Penny Hopwood",
+        "Ric Swindell",
+        "Jackie Hodgetts",
+        "Lyn Lomax"
+      ],
+      "journal": "Radiotherapy and Oncology",
+      "doi": "10.1016/S0167-8140(00)00252-8",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Background and purpose: A randomized controlled trial was designed to evaluate the clinical and quality of life (QL) outcomes of patients receiving endobronchial brachytherapy (EBT) or external beam radiotherapy (XRT) as a primary palliative treatment in advanced lung cancer. Materials and methods: Ninety-nine patients presenting de novo with lung cancer were randomized to receive EBT or XRT. Eleven key symptoms or clinical signs were assessed by clinicians and patient ratings using self-assessment questionnaires were obtained at the same time. The primary endpoints were a comparison of EBT and XRT for symptom relief and acute and late side-effects (palliation) and their effect on patients' functional status and patient-rated QL outcomes. A secondary objective was a comparison of clinician assessments with patient self-reported symptoms. Results: Both treatments produced good levels of symptom relief. They were better for XRT at the expense of more acute morbidity. Late side-effects were similar. The functional status of patients was well maintained and changed similarly with time in both groups. XRT gave a better duration of palliation. Twenty-eight percent of XRT patients required EBT (at a median time of 304 days) whereas 51% of EBT patients subsequently had XRT (at a median of 125 days). There was a significant modest gain in median survival with initial XRT (287 vs. 250 days). When clinician and patient assessments were compared, doctors were found to underestimate the severity of breathlessness, anorexia, tiredness and nausea. Conclusions: Fractionated XRT is preferred to EBT as an initial treatment in better performance patients because it provides better overall and more sustained palliation with fewer retreatments and a modest gain in survival time. QL assessment is required in the evaluation of palliative treatments because clinicians frequently underestimate the incidence and severity of key symptoms.",
+      "methods": "Randomized, controlled, open-label trial conducted in the UK. The trial opened in July 1989 and closed in July 1993 after recruiting 108 patients with histologically confirmed inoperable NSCLC; 9 with relapse after surgery were excluded from this analysis, leaving 99 previously untreated patients. Patients were randomized to EBT or XRT. EBT: single HDR microSelectron exposure of 15 Gy at 1 cm from the iridium source, treating tumor length plus a 2 cm proximal and distal margin. XRT: 30 Gy delivered in 8 exposures over 10-12 days with parallel-opposed fields to tumor on CXR plus 2 cm margin. Clinician assessments and patient-reported questionnaires were collected at baseline and 4, 8, 16, 26, 38, and 52 weeks, then every 3 months. Primary endpoints: symptom relief, acute and late side effects (palliation), functional status, and patient-rated QL. Secondary: agreement between clinician and patient assessments. Statistical methods included chi-squared tests for contingency tables, Mann-Whitney U-tests for changes from baseline, and survival analysis (Kaplan-Meier; p-value reported).",
+      "results": "Both EBT and XRT produced good symptom relief, with trends favoring XRT for most symptoms. At 4 weeks (acute morbidity), clinician-assessed dysphagia favored EBT (85% vs 45% positive end-points; P < 0.001). At 8 weeks, clinician-assessed cough was relieved in 23/46 (50%) with EBT vs 31/46 (67%) with XRT; differences across symptoms favored XRT but were not statistically significant by clinician ratings. Patient-reported outcomes at 8 weeks favored XRT for chest pain (P = 0.003), anorexia (P = 0.003), tiredness (P = 0.0029), and nausea (P = 0.033); by 16 weeks only tiredness remained significant (P = 0.01). XRT provided longer duration of palliation: 25/49 (51%) of EBT patients required subsequent XRT (median 125 days), whereas 14/50 (28%) of XRT patients required subsequent EBT (median 304 days). No serious late morbidity was encountered; massive fatal haemoptysis occurred in 4 EBT and 3 XRT patients, all with local recurrence. Survival favored initial XRT: median 287 vs 250 days; 1-year 38% vs 22%, 2-year 10% vs 2% (P = 0.04). Clinician vs patient comparisons showed clinicians underestimated breathlessness, anorexia, tiredness, and nausea (e.g., breathlessness disagreement P < 0.001)."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with histologically confirmed, inoperable non-small cell lung cancer presenting de novo with endobronchial tumors and thoracic symptoms requiring palliation.",
+      "inclusion_criteria": [
+        "Histologically confirmed inoperable NSCLC",
+        "Endobronchial tumors",
+        "Thoracic symptoms limited to cough, haemoptysis, or breathlessness",
+        "WHO performance status 0-2 (ambulatory, capable of self-care, up and about >50% of waking hours)",
+        "No clinical evidence of malignant disease beyond the thorax (stage III without supraclavicular node involvement)"
+      ],
+      "exclusion_criteria": [
+        "Persistent chest pain or dysphagia due to mediastinal or chest wall involvement",
+        "Not fit to undergo therapeutic bronchoscopy or fractionated external beam radiotherapy",
+        "Evidence of malignant disease beyond the thorax",
+        "Relapsed after surgery (excluded from primary analysis)"
+      ]
+    },
+    "intervention": {
+      "text": "Endobronchial brachytherapy (EBT)",
+      "details": "Single HDR microSelectron session delivering 15 Gy at 1 cm from the iridium source within the bronchus, covering visible endobronchial tumor length plus 2 cm proximal and distal normal bronchus."
+    },
+    "comparison": {
+      "text": "External beam radiotherapy (XRT)",
+      "details": "30 Gy delivered as 8 exposures over 10-12 days using parallel-opposed fields to encompass tumor on chest X-ray plus 2 cm margin; outpatient basis."
+    },
+    "outcomes": [
+      {
+        "name": "Symptom palliation (relief, control, prevention) and acute/late side-effects; functional status and patient-rated QL",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Agreement between clinician assessments and patient self-reported symptoms",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Overall survival",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "RCT",
+    "allocation": "randomized",
+    "blinding": "open-label",
+    "sites_count": 2,
+    "countries": [
+      "UK"
+    ],
+    "sample_size": {
+      "planned": 108,
+      "enrolled": 108,
+      "analyzed": 99
+    },
+    "analysis_populations": [
+      {
+        "name": "All randomized",
+        "description": "All randomized patients (including those relapsed after surgery)",
+        "n": 108
+      },
+      {
+        "name": "Previously untreated randomized (primary analysis)",
+        "description": "De novo, previously untreated randomized patients",
+        "n": 99
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "Endobronchial brachytherapy (EBT)",
+      "n_randomized": 49,
+      "n_analyzed": 49,
+      "n_completed": 46
+    },
+    {
+      "arm_id": "control",
+      "name": "External beam radiotherapy (XRT)",
+      "n_randomized": 50,
+      "n_analyzed": 50,
+      "n_completed": 46
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "cough_palliation_8w_clinician",
+      "name": "Cough palliation at 8 weeks (clinician-assessed positive endpoint)",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P8W",
+      "timepoint_label": "8 weeks",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 23,
+            "total": 46
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 31,
+            "total": 46
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": -0.174,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Chi-squared test for 2x2 contingency",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Previously untreated randomized with clinician 8-week assessment",
+        "missing_handling": "Complete-case at the 8-week visit"
+      },
+      "provenance": {
+        "pages": [
+          325
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Cough was relieved in 50% of patients receiving EBT (23 positive and 23 negative symptom end-points out of 46) and in 67% of those treated with XRT (31 positive and 15 negative end-points out of 46)."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.742
+        },
+        "odds_ratio": {
+          "est": 0.484
+        },
+        "arr": -0.174,
+        "nnh": 5.8
+      }
+    },
+    {
+      "concept_id": "retreatment_required_followup",
+      "name": "Subsequent cross-over radiotherapy required during follow-up",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": null,
+      "timepoint_label": "During follow-up",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 25,
+            "total": 49
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 14,
+            "total": 50
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": 0.2302,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive between-arm comparison",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Previously untreated randomized",
+        "missing_handling": "All randomized de novo patients included"
+      },
+      "provenance": {
+        "pages": [
+          325
+        ],
+        "tables": [],
+        "quote": "Fifty-one percent of 49 patients treated initially with EBT required subsequent XRT ... The median time to retreatment was 125 days ... Twenty-eight percent (14 of 50) of the XRT group had subsequent EBT at a median time of 304 days."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 1.822
+        },
+        "odds_ratio": {
+          "est": 2.679
+        },
+        "arr": 0.23,
+        "nnt": 4.3
+      }
+    },
+    {
+      "concept_id": "overall_survival_median",
+      "name": "Overall survival (median days)",
+      "type": "time_to_event",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": null,
+      "timepoint_label": "Overall survival",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "median": 250,
+            "total": 49
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "median": 287,
+            "total": 50
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "median_difference",
+        "est": -37,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": 0.04,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Kaplan-Meier; log-rank test (p-value reported in text)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Previously untreated randomized",
+        "missing_handling": "All patients followed until death"
+      },
+      "provenance": {
+        "pages": [
+          326
+        ],
+        "tables": [],
+        "quote": "A modest, but statistically significant better survival was recorded in the XRT group, median survival 287 vs. 250 days ... P = 0.04."
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Massive haemoptysis (fatal)",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Haemoptysis"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "death"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 4,
+          "patients": 4,
+          "percentage": 8.163,
+          "total": 49
+        },
+        {
+          "arm_id": "control",
+          "events": 3,
+          "patients": 3,
+          "percentage": 6,
+          "total": 50
+        }
+      ],
+      "period": "During follow-up",
+      "management": "",
+      "provenance": {
+        "pages": [
+          325
+        ],
+        "tables": [],
+        "quote": "Massive fatal haemoptysis occurred in seven patients (four EBT, three XRT) and all had evidence of local tumour recurrence."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "RoB 2",
+    "overall_judgment": "some concerns",
+    "domains": [
+      {
+        "name": "Randomization process",
+        "judgment": "some concerns",
+        "support_for_judgment": "Randomized allocation stated; allocation concealment not described."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "some concerns",
+        "support_for_judgment": "Open-label design; subsequent cross-over retreatments occurred based on clinical need."
+      },
+      {
+        "name": "Missing outcome data",
+        "judgment": "some concerns",
+        "support_for_judgment": "Some missed 4-week assessments due to administrative error; 8-week assessments available for most."
+      },
+      {
+        "name": "Measurement of the outcome",
+        "judgment": "some concerns",
+        "support_for_judgment": "Clinician-reported outcomes with noted underestimation vs patient reports; patient-reported questionnaires used."
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "low",
+        "support_for_judgment": "Primary and secondary endpoints pre-specified; key outcomes reported."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "non-small cell lung cancer",
+      "endobronchial brachytherapy",
+      "external beam radiotherapy",
+      "palliative radiotherapy",
+      "randomized trial",
+      "quality of life"
+    ],
+    "summary_tldr": "In inoperable NSCLC requiring palliation, initial external beam radiotherapy provided more sustained symptom palliation, fewer retreatments, and a modest survival advantage over endobronchial brachytherapy, at the cost of more acute dysphagia.",
+    "clinical_relevance": "Supports using short-course external beam radiotherapy as initial palliation for better performance NSCLC patients with endobronchial disease, reserving brachytherapy for retreatment."
+  }
+}

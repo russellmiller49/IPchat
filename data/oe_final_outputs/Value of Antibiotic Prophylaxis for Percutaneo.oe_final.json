@@ -1,0 +1,442 @@
+{
+  "source": {
+    "document_id": "Value of Antibiotic Prophylaxis for Percutaneo",
+    "ingest_date": "2025-08-08T16:49:47.129087+00:00",
+    "trial_registration_id": "NCT01424085",
+    "pmid": "",
+    "doi": "10.1016/j.jvir.2017.08.018"
+  },
+  "document": {
+    "metadata": {
+      "title": "Value of Antibiotic Prophylaxis for Percutaneous Gastrostomy: A Double-Blind Randomized Trial",
+      "year": 2018,
+      "authors": [
+        "Christopher R. Ingraham",
+        "Guy E. Johnson",
+        "Emily L. Albrecht",
+        "Siddharth A. Padia",
+        "Eric J. Monroe",
+        "Brandon C. Perry",
+        "Ethan M. Dobrow",
+        "Daniel S. Hippe",
+        "Karim Valji"
+      ],
+      "journal": "Journal of Vascular and Interventional Radiology",
+      "doi": "10.1016/j.jvir.2017.08.018",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Purpose: To compare peristomal infection rates following percutaneous gastrostomy (PG) after a single dose of prophylactic antibiotics versus placebo and evaluate rates of peristomal infection in patients receiving concurrent antibiotics. Materials and Methods: This single-center, randomized trial (2012-2016) enrolled 122 patients referred for image-guided PG; all enrolled patients completed the study. Of enrolled patients, 68 were randomly assigned to receive either antibiotics (n = 34) or placebo (n = 34) before PG placement. The remaining 54 patients were taking pre-existing antibiotics and were assigned to an observation arm. Stoma sites were assessed for signs of infection by a blinded evaluator at early (between 3-5 d and 7-10 d) and late (between 14-17 d and 28-30 d) time points after the procedure. The primary outcome was peristomal infection. Results: Under intention-to-treat analysis, early infection rate was 11.8% (4/34 patients; 95% CI, 0.0%-9.4%) in the placebo arm and 0.0% (0/34 patients; 95% CI, 0.0%-8.4%) in the antibiotic arm (P = .057 for comparison of infections in the 2 arms). Under per-protocol analysis, early infection rate was 13.3% (4/30 patients; 95% CI, 4.4%-29.1%) in the placebo arm and 0.0% (0/32 patients; 95% CI, 0.0%-8.9%) in the antibiotic arm (P = .049). The number needed to treat to prevent 1 early infection was 8.5 and 7.5 from the 2 analyses, respectively. Conclusions: There is a trend toward reduction in rate of peristomal infection after PG when prophylactic antibiotics are administered.",
+      "methods": "Institutional review board approval was obtained to conduct this single-center, double-blind, randomized controlled trial (ClinicalTrials.gov identifier: NCT01424085). Randomization was performed by the pharmacy department using a random number generator to assign patients to antibiotic or placebo arms. All patients, operators, nursing staff, and study staff were blinded to assignments in the randomized arm. Between May 2012 and February 2016, 517 patients underwent PG. All nonpregnant, English-speaking patients ≥ 18 years old were eligible. Patients were eligible for randomization only if they had not received antibiotics within 48 hours before PG; patients already receiving antibiotics at enrollment for other infections entered an observation arm. Patients in the antibiotic arm received a single dose 30 minutes before the procedure: cefazolin 1 g IV (n = 30) or clindamycin 600 mg IV if β-lactam-allergic (n = 4). Placebo was equal-volume normal saline. All patients had a 16-F push-type Deutsch gastrostomy tube with 3 absorbable gastropexy sutures placed. Stoma sites were evaluated by a blinded evaluator at 3-5, 7-10, 14-17, and 28-30 days. A validated scoring system was used; infection was defined as score ≥ 8 or frank purulence. Primary outcome was peristomal infection during 30 days, categorized as early (≤ 10 days) and late (11-30 days). Analyses used mid-P Fisher exact tests. ITT included all randomized with known assignment and early follow-up; PP excluded patients who received post-enrollment antibiotics for other indications before the early time point.",
+      "results": "In ITT, early infections occurred in 4/34 placebo (11.8%; 95% CI, 3.9%-26.0%) and 0/34 antibiotics (0.0%; 95% CI, 0.0%-8.4%); difference 11.8% (95% CI, 0.5%-25.1%; P = .057). No late infections were observed in either randomized arm. In PP, early infections were 4/30 placebo (13.3%; 95% CI, 4.4%-29.1%) vs 0/32 antibiotics (0.0%; 95% CI, 0.0%-8.9%); difference 13.3% (95% CI, 1.0%-28.1%; P = .049). In the observation arm, early infections were 1/54 (1.9%; 95% CI, 0.1%-8.8%); this was similar to the antibiotic arm (1.9% vs 0.0%; P = .61) and tended to be lower than placebo in ITT (1.9% vs 11.8%; P = .078) and PP (1.9% vs 13.3%; P = .063). One late peristomal infection occurred in the observation arm between days 28-30. All patients had adequate early follow-up; some were lost during late follow-up (antibiotic 3/34, placebo 2/34, observation 5/54)."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults undergoing image-guided push-type percutaneous gastrostomy at a single US academic center (2012-2016).",
+      "inclusion_criteria": [
+        "Age ≥ 18 years",
+        "Nonpregnant",
+        "English-speaking",
+        "Provided informed consent",
+        "Randomization eligibility: no systemic antibiotics within 48 hours pre-procedure"
+      ],
+      "exclusion_criteria": [
+        "Pregnancy",
+        "Non-English-speaking",
+        "Unable to provide in-person consent",
+        "Received systemic antibiotics within 48 hours pre-procedure (excluded from randomization but eligible for observation arm)"
+      ]
+    },
+    "intervention": {
+      "text": "Single-dose prophylactic antibiotics prior to percutaneous gastrostomy",
+      "details": "Cefazolin 1 g IV once, or clindamycin 600 mg IV once if β-lactam allergy, administered 30 minutes before push-type percutaneous gastrostomy tube placement."
+    },
+    "comparison": {
+      "text": "Placebo",
+      "details": "Equal volume of normal saline IV administered 30 minutes before the procedure."
+    },
+    "outcomes": [
+      {
+        "name": "Peristomal wound infection within 30 days (early ≤10 days; late 11-30 days) defined by standardized stoma infection score ≥8 or frank purulence",
+        "type": "primary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "RCT",
+    "allocation": "randomized",
+    "blinding": "double-blind",
+    "sites_count": 1,
+    "countries": [
+      "US"
+    ],
+    "sample_size": {
+      "planned": 128,
+      "enrolled": 122,
+      "analyzed": 122
+    },
+    "analysis_populations": [
+      {
+        "name": "ITT",
+        "description": "All randomized patients with known assignment and early follow-up",
+        "n": 68
+      },
+      {
+        "name": "PP",
+        "description": "Randomized patients excluding those who received post-enrollment antibiotics for other infections before the early time point",
+        "n": 62
+      },
+      {
+        "name": "Observation",
+        "description": "Nonrandomized patients already on systemic antibiotics at enrollment",
+        "n": 54
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "antibiotic",
+      "name": "Prophylactic antibiotics (cefazolin or clindamycin) 30 minutes pre-PG",
+      "n_randomized": 34,
+      "n_analyzed": 34,
+      "n_completed": 31
+    },
+    {
+      "arm_id": "placebo",
+      "name": "Placebo (normal saline) 30 minutes pre-PG",
+      "n_randomized": 34,
+      "n_analyzed": 34,
+      "n_completed": 32
+    },
+    {
+      "arm_id": "observation",
+      "name": "Concurrent systemic antibiotics for other indications at time of PG (nonrandomized)",
+      "n_randomized": 0,
+      "n_analyzed": 54,
+      "n_completed": 49
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "peristomal_infection_early_10d_itt",
+      "name": "Early peristomal infection (≤10 days)",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P10D",
+      "timepoint_label": "≤10 days",
+      "groups": [
+        {
+          "arm_id": "antibiotic",
+          "raw": {
+            "events": 0,
+            "total": 34
+          }
+        },
+        {
+          "arm_id": "placebo",
+          "raw": {
+            "events": 4,
+            "total": 34
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "placebo",
+        "measure": "risk_difference",
+        "est": -0.118,
+        "ci_lower": -0.251,
+        "ci_upper": -0.005,
+        "ci_level": 0.95,
+        "p_value": 0.057,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Fisher exact test (mid-P)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT",
+        "missing_handling": "Complete case at ≤10 days (all randomized had early follow-up)"
+      },
+      "provenance": {
+        "pages": [
+          59
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "Early infections occurred in 4 of 34 patients (rate 11.8%) in the placebo arm and 0 of 34 patients (rate 0.0%) in the antibiotics arm... P = .057."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.0
+        },
+        "odds_ratio": {
+          "est": 0.0
+        },
+        "arr": -0.118,
+        "nnh": 8.5
+      }
+    },
+    {
+      "concept_id": "peristomal_infection_early_10d_pp",
+      "name": "Early peristomal infection (≤10 days) per-protocol",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P10D",
+      "timepoint_label": "≤10 days",
+      "groups": [
+        {
+          "arm_id": "antibiotic",
+          "raw": {
+            "events": 0,
+            "total": 32
+          }
+        },
+        {
+          "arm_id": "placebo",
+          "raw": {
+            "events": 4,
+            "total": 30
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "placebo",
+        "measure": "risk_difference",
+        "est": -0.133,
+        "ci_lower": -0.281,
+        "ci_upper": -0.01,
+        "ci_level": 0.95,
+        "p_value": 0.049,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Fisher exact test (mid-P)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "PP",
+        "missing_handling": "Excluded patients who received additional antibiotics for unrelated infections before ≤10-day assessment"
+      },
+      "provenance": {
+        "pages": [
+          59
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "Among the patients meeting the criteria for the PP analysis, early infections occurred in 4 of 30 patients (13.3%) in the placebo arm and 0 of 32 patients (0.0%) in the antibiotics arm... P = .049."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.0
+        },
+        "odds_ratio": {
+          "est": 0.0
+        },
+        "arr": -0.133,
+        "nnh": 7.5
+      }
+    },
+    {
+      "concept_id": "peristomal_infection_early_10d_obs_vs_placebo_itt",
+      "name": "Early peristomal infection (≤10 days): observation vs placebo (exploratory ITT)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P10D",
+      "timepoint_label": "≤10 days",
+      "groups": [
+        {
+          "arm_id": "observation",
+          "raw": {
+            "events": 1,
+            "total": 54
+          }
+        },
+        {
+          "arm_id": "placebo",
+          "raw": {
+            "events": 4,
+            "total": 34
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "placebo",
+        "measure": "risk_difference",
+        "est": -0.099,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.078,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Fisher exact test (mid-P)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Exploratory (nonrandomized vs randomized)",
+        "missing_handling": "Complete case at ≤10 days"
+      },
+      "provenance": {
+        "pages": [
+          59
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "Early infections occurred in 1 of 54 patients (1.9%) in the observation arm... tended to be lower than the infection rate in the placebo arm from the ITT analysis (1.9% vs 11.8%; P = .078)."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.157
+        },
+        "odds_ratio": {
+          "est": 0.142
+        },
+        "arr": -0.099,
+        "nnh": 10.1
+      }
+    },
+    {
+      "concept_id": "peristomal_infection_early_10d_obs_vs_antibiotic_itt",
+      "name": "Early peristomal infection (≤10 days): observation vs prophylactic antibiotics (exploratory ITT)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P10D",
+      "timepoint_label": "≤10 days",
+      "groups": [
+        {
+          "arm_id": "observation",
+          "raw": {
+            "events": 1,
+            "total": 54
+          }
+        },
+        {
+          "arm_id": "antibiotic",
+          "raw": {
+            "events": 0,
+            "total": 34
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "antibiotic",
+        "measure": "risk_difference",
+        "est": 0.019,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.61,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Fisher exact test (mid-P)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Exploratory (nonrandomized vs randomized)",
+        "missing_handling": "Complete case at ≤10 days"
+      },
+      "provenance": {
+        "pages": [
+          59
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "This infection rate was numerically similar to the infection rate in the prophylactic antibiotic arm (1.9% vs 0.0%; P = .61)."
+      },
+      "derived": {
+        "arr": 0.019,
+        "nnt": 54.0
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Device site infection (peristomal wound infection)",
+      "meddra": {
+        "soc": "Infections and infestations",
+        "pt": "Device site infection"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "antibiotic",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 34
+        },
+        {
+          "arm_id": "placebo",
+          "events": 4,
+          "patients": 4,
+          "percentage": 11.8,
+          "total": 34
+        },
+        {
+          "arm_id": "observation",
+          "events": 2,
+          "patients": 2,
+          "percentage": 3.7,
+          "total": 54
+        }
+      ],
+      "period": "0-30 days",
+      "management": "",
+      "provenance": {
+        "pages": [
+          59
+        ],
+        "tables": [],
+        "quote": "Early infections occurred in 4 of 34 patients in the placebo arm and 0 of 34 in the antibiotics arm... A single late infection (a peristomal infection) was observed in the observation arm between days 28 and 30."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "RoB 2",
+    "overall_judgment": "some concerns",
+    "domains": [
+      {
+        "name": "Randomization process",
+        "judgment": "low",
+        "support_for_judgment": "Random number generator used by pharmacy; allocation concealed; double-blind for randomized arms."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "some concerns",
+        "support_for_judgment": "Some randomized patients received antibiotics post-enrollment for unrelated infections prior to the early time point; addressed with per-protocol analysis."
+      },
+      {
+        "name": "Missing outcome data",
+        "judgment": "low",
+        "support_for_judgment": "All randomized patients had early (≤10 days) follow-up sufficient for primary early infection outcome; some late follow-up loss but no late infections in randomized arms."
+      },
+      {
+        "name": "Measurement of the outcome",
+        "judgment": "low",
+        "support_for_judgment": "Blinded evaluators used a standardized stoma infection scoring system."
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "some concerns",
+        "support_for_judgment": "Trial stopped early due to slow accrual and low event rates; exploratory comparisons reported."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "percutaneous gastrostomy",
+      "antibiotic prophylaxis",
+      "interventional radiology",
+      "stoma infection",
+      "push-type gastrostomy"
+    ],
+    "summary_tldr": "Single-dose prophylactic antibiotics before push-type percutaneous gastrostomy reduced early peristomal infections vs placebo (0/34 vs 4/34); ITT P = 0.057, PP P = 0.049.",
+    "clinical_relevance": "Supports use of prophylactic antibiotics to lower early peristomal infection risk after image-guided push-type gastrostomy."
+  }
+}

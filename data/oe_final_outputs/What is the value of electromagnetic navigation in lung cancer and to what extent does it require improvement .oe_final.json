@@ -1,0 +1,107 @@
+{
+  "source": {
+    "document_id": "What is the value of electromagnetic navigation in lung cancer and to what extent does it require improvement ",
+    "ingest_date": "2025-08-08T16:56:07.238879+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1080/17476348.2020.1748012"
+  },
+  "document": {
+    "metadata": {
+      "title": "What is the value of electromagnetic navigation in lung cancer and to what extent does it require improvement?",
+      "year": 2020,
+      "authors": [
+        "Brian D. Shaller",
+        "Thomas R. Gildea"
+      ],
+      "journal": "Expert Review of Respiratory Medicine",
+      "doi": "10.1080/17476348.2020.1748012",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Introduction: Lung nodules are being identified with increasing frequency. With this growing burden of nodules comes a growing need for diagnostic technologies extending beyond the current reach of conventional bronchoscopy. One such method for diagnosing peripheral lung lesions is electromagnetic navigational bronchoscopy (ENB), which comprises a set of tools designed to aid the bronchoscopist in identifying, accessing, and sampling peripheral lung lesions under virtual guidance. Areas covered: Herein we present an in-depth review of ENB, including commercially available electromagnetic navigation platforms, factors influencing diagnostic yield, adjunctive imaging and biopsy tools, potential risks, cost, technical shortcomings, and competing technologies. A review of the scientific literature was conducted primarily through PubMed, ScienceDirect, and Google Scholar, and pertinent publications and abstracts from the inception of electromagnetic navigation through early 2020 were considered. We also share our perspective on the future of ENB from both a diagnostic and a therapeutic standpoint. Expert opinion: ENB is currently a leading tool in the diagnostic evaluation of peripheral lung lesions. The future of ENB rests not only on its potential to expand into the therapeutic realm but also on its ability to keep pace with competing diagnostic and therapeutic technologies.",
+      "methods": "Narrative review. Literature searched primarily via PubMed, ScienceDirect, and Google Scholar. Pertinent publications and abstracts from the inception of electromagnetic navigation through early 2020 were considered. No predefined protocol, randomization, or meta-analytic synthesis was reported.",
+      "results": "The review describes three FDA-approved electromagnetic navigation platforms (superDimension, Veran SPiN, and Auris Monarch), outlines ENB workflow (planning, registration, navigation), factors influencing diagnostic yield (lesion size, location, bronchus sign, and biopsy modality), adjunctive tools (radial EBUS, fluoroscopy, cone-beam CT), risks (pneumothorax, bleeding, respiratory failure), and key limitations such as CT-to-body divergence. Reported diagnostic yield in the literature varies, with the largest recent prospective study cited at 73%. The authors discuss future directions including mitigation of CT-to-body divergence, integration with advanced imaging and fluoroscopic navigation, and potential therapeutic applications."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with peripheral lung nodules/lesions undergoing diagnostic evaluation for suspected lung cancer.",
+      "inclusion_criteria": [
+        "Suspicious peripheral lung nodule/lesion on CT",
+        "Lesion size commonly >8 mm when biopsy is considered per guidelines",
+        "Candidates for bronchoscopic tissue sampling"
+      ],
+      "exclusion_criteria": [
+        "Not specified in this narrative review"
+      ]
+    },
+    "intervention": {
+      "text": "Electromagnetic navigational bronchoscopy (ENB)",
+      "details": "Three-phase workflow: planning with CT-based 3D airway segmentation and path planning; registration aligning virtual map to patient using an electromagnetic field; navigation advancing an extended working channel and EM sensor to the target under virtual guidance, often with adjunctive imaging (e.g., radial EBUS, fluoroscopy) for confirmation and sampling."
+    },
+    "comparison": {
+      "text": "Alternative diagnostic approaches",
+      "details": "Transthoracic needle biopsy; conventional bronchoscopy without navigation; other advanced bronchoscopic approaches (robotic, fluoroscopic navigation, cone-beam CT guidance)."
+    },
+    "outcomes": [
+      {
+        "name": "Diagnostic yield of ENB for peripheral pulmonary lesions",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Procedure-related complications (e.g., pneumothorax, bleeding, respiratory failure)",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Review",
+    "allocation": "NA",
+    "blinding": "NA",
+    "sites_count": 0,
+    "countries": [],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": []
+  },
+  "arms": [],
+  "outcomes_normalized": [],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "Not applicable",
+    "overall_judgment": "unclear",
+    "domains": [
+      {
+        "name": "Selection of studies",
+        "judgment": "unclear",
+        "support_for_judgment": "Narrative review without explicit inclusion/exclusion criteria or systematic methods."
+      },
+      {
+        "name": "Risk of bias in included evidence",
+        "judgment": "unclear",
+        "support_for_judgment": "No formal appraisal of included studies reported."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "electromagnetic navigational bronchoscopy",
+      "ENB",
+      "lung cancer",
+      "peripheral pulmonary lesions",
+      "diagnostic yield",
+      "bronchus sign",
+      "cone-beam CT",
+      "fluoroscopic navigation",
+      "robotic bronchoscopy"
+    ],
+    "summary_tldr": "Narrative review of ENB platforms, workflow, performance (~73% yield in the largest recent prospective study), complications, and limitations including CT-to-body divergence.",
+    "clinical_relevance": "ENB is a widely used diagnostic approach for peripheral lung nodules; advancements aim to reduce CT-to-body divergence and integrate real-time imaging to improve accuracy and safety."
+  }
+}

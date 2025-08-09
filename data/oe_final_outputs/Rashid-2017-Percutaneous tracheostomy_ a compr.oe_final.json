@@ -1,0 +1,113 @@
+{
+  "source": {
+    "document_id": "Rashid-2017-Percutaneous tracheostomy_ a compr",
+    "ingest_date": "2025-08-08T15:06:28.457894+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.21037/jtd.2017.09.33"
+  },
+  "document": {
+    "metadata": {
+      "title": "Percutaneous tracheostomy: a comprehensive review",
+      "year": 2017,
+      "authors": [
+        "Ashraf O. Rashid",
+        "Shaheen Islam"
+      ],
+      "journal": "Journal of Thoracic Disease",
+      "doi": "10.21037/jtd.2017.09.33",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Tracheostomy is a common procedure. It can be done surgically or percutaneously by dilating the stoma using Seldinger technique. Percutaneous tracheostomy (PT) is now routinely performed by surgeons and non-surgeons such as intensivists and anesthesiologists in the intensive care units (ICU) all over the world. Although obesity, emergent tracheostomy, coagulopathy, inability to extend the neck and high ventilator demand (HVD) were initially thought to be a relative contraindication, recent data suggest safety of PT in these patient population. Ultrasound can be helpful in limited cases to identify the neck structure especially in patients with a difficult anatomy. Bronchoscopy during PT can shorten the duration and avoid complications. PT has favorable complication rate, lower infection rate, shorter procedural duration and is cost-effective. Experience with the technique and careful planning is needed to minimize any avoidable potential complication.",
+      "methods": "Narrative review of percutaneous tracheostomy (PT) techniques, indications, contraindications, peri-procedural approach, and complications. The authors describe the single-dilator modified Seldinger technique in detail and summarize observational studies, randomized comparisons to surgical tracheostomy (ST) in select settings, and meta-analyses regarding timing and safety in special populations (obesity, coagulopathy, cervical spine precautions, high ventilator settings).",
+      "results": "Key findings from included studies: In obesity, cohorts reported higher overall complication rates among obese vs non-obese patients (e.g., 43.8% vs 18.2% in a cohort with 73 obese of 474 total; and 15% vs 8% for BMI ≥30 vs <30), while other series found no significant differences between PT and ST in morbid obesity. PT was performed safely in severe thrombocytopenia (n=42; 2 major post-procedural bleedings requiring suturing) and coagulopathy without increased bleeding vs controls in another series (n=177). PT without neck extension was reported feasible after anterior cervical spine fixation, with randomized data (n=16) showing shorter procedure time for ultrasound-guided PT vs ST (8 vs 21 minutes) and similar perioperative complication rates. High ventilator settings (mean PEEP approximately 17 cmH2O, PaO2/FiO2 approximately 130) did not significantly worsen oxygenation during bronchoscopically guided PT, and retrospective data in high ventilator demand patients (n=14 of 177) showed similar hypoxia, airway loss, air-leak, and paratracheal placement rates vs non-HVD, but higher hypotension and need for extra-long tubes. Early vs late tracheostomy evidence is mixed: single-center RCTs suggested reductions in pneumonia, ICU length of stay, and mortality with early PT, whereas a meta-analysis of 9 RCTs (n=2072) found no significant differences in short- or long-term mortality, ICU length of stay, ventilator-associated pneumonia, or duration of mechanical ventilation. Bleeding was the most common early complication, and tracheo-innominate artery fistula is rare (<1%) but often fatal, typically occurring 3-4 weeks after tracheostomy."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Critically ill adults requiring tracheostomy, predominantly in ICU settings (medical-surgical, trauma, and postsurgical populations).",
+      "inclusion_criteria": [
+        "Adults requiring prolonged mechanical ventilation",
+        "Upper airway obstruction needing airway access",
+        "Need for secretion clearance"
+      ],
+      "exclusion_criteria": [
+        "Active anterior neck wall infection",
+        "Unstable patients not suitable for procedure"
+      ]
+    },
+    "intervention": {
+      "text": "Percutaneous tracheostomy (PT) using modified Seldinger techniques",
+      "details": "Single curved tapering dilator technique most commonly used; typically bronchoscopic guidance; local anesthesia with sedation and short-acting neuromuscular blockade; midline puncture between 1st-2nd or 2nd-3rd tracheal rings; guidewire dilation and tube insertion; ultrasound sometimes used for anatomy; ETT retracted under bronchoscopic guidance."
+    },
+    "comparison": {
+      "text": "Surgical tracheostomy (ST) or alternative PT techniques; standard care with prolonged intubation for timing comparisons",
+      "details": "Open surgical technique with anterior neck incision, strap muscle retraction, tracheal exposure and stoma creation; comparisons include procedural time, complication and infection rates, and outcomes by timing (early vs late tracheostomy)."
+    },
+    "outcomes": [
+      {
+        "name": "Periprocedural and early complications (bleeding, hypoxia, airway loss, air-leak, paratracheal placement)",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Infection (stomal/wound infection, ventilator-associated pneumonia)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Procedure duration",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Hemodynamic instability (hypotension)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Mortality and ICU length of stay (timing of tracheostomy)",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "narrative_review",
+    "allocation": "not_applicable",
+    "blinding": "not_applicable",
+    "sites_count": 0,
+    "countries": [],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": []
+  },
+  "arms": [],
+  "outcomes_normalized": [],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "Not applicable",
+    "overall_judgment": "not_applicable",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "percutaneous tracheostomy",
+      "surgical tracheostomy",
+      "ICU",
+      "obesity",
+      "coagulopathy",
+      "PEEP",
+      "bronchoscopy",
+      "ultrasound",
+      "complications",
+      "timing"
+    ],
+    "summary_tldr": "Narrative review: Percutaneous tracheostomy is widely feasible and generally safe, including in obesity, coagulopathy, limited neck extension, and high ventilator demand when performed by experienced teams, with mixed evidence on benefits of early timing.",
+    "clinical_relevance": "Supports bedside PT as a standard ICU airway procedure with careful patient selection and technique; highlights safety considerations and special populations."
+  }
+}

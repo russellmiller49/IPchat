@@ -1,0 +1,133 @@
+{
+  "source": {
+    "document_id": "The Art of Rigid Bronchoscopy and Airway Stenting",
+    "ingest_date": "2025-08-08T16:14:51.364474+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1016/j.ccm.2017.11.011"
+  },
+  "document": {
+    "metadata": {
+      "title": "The Art of Rigid Bronchoscopy and Airway Stenting",
+      "year": 2018,
+      "authors": [
+        "Antoinette Flannery",
+        "Cyrus Daneshvar",
+        "Hervé Dutau",
+        "David Breen"
+      ],
+      "journal": "Clin Chest Med",
+      "doi": "10.1016/j.ccm.2017.11.011",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Narrative review summarizing the history, current role, indications, techniques, and complications of rigid bronchoscopy and airway stenting in malignant and benign central airway disorders, including management of foreign bodies and hemoptysis.",
+      "methods": "Narrative review; no predefined systematic search or quantitative synthesis reported.",
+      "results": "No primary clinical trial results reported. Historical and contemporary case series and registry observations are summarized, including success rates of foreign body removal and outcomes of airway recanalization and stenting."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Patients with central airway disorders (malignant obstruction, benign stenosis, foreign body aspiration, hemoptysis).",
+      "inclusion_criteria": [
+        "Central airway obstruction (intrinsic, extrinsic, or mixed)",
+        "Benign airway disease (eg, post-tracheostomy or post-intubation tracheal stenosis)",
+        "Foreign body aspiration",
+        "Airway hemorrhage/hemoptysis requiring endoscopic management"
+      ],
+      "exclusion_criteria": [
+        "Not specified (narrative review)"
+      ]
+    },
+    "intervention": {
+      "text": "Rigid bronchoscopy and airway stenting",
+      "details": "Airway recanalization via laser-assisted mechanical debulking, electrocautery, argon plasma coagulation, dilation, and silicone stent placement under general anesthesia."
+    },
+    "comparison": {
+      "text": "Not applicable",
+      "details": "No direct comparator; narrative synthesis of case series and historical cohorts."
+    },
+    "outcomes": [
+      {
+        "name": "Procedural success (foreign body removal)",
+        "type": "primary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "narrative_review",
+    "allocation": "none",
+    "blinding": "none",
+    "sites_count": 0,
+    "countries": [],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": []
+  },
+  "arms": [
+    {
+      "arm_id": "brunings1915",
+      "name": "Foreign body removal with rigid bronchoscopy (Brünings 1915 case series)",
+      "n_randomized": 0,
+      "n_analyzed": 701,
+      "n_completed": 0
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "fbr_success_brunings1915",
+      "name": "Successful foreign body removal",
+      "type": "binary",
+      "outcome_type": "efficacy",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Immediate",
+      "groups": [
+        {
+          "arm_id": "brunings1915",
+          "raw": {
+            "events": 689,
+            "total": 701
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "case series",
+        "missing_handling": "not reported"
+      },
+      "provenance": {
+        "pages": [
+          150
+        ],
+        "tables": [],
+        "quote": "reported a success rate for foreign body removal of 98.3%, with failure to extract the aspirated material in only 12 out of 701 cases."
+      }
+    }
+  ],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "NA",
+    "overall_judgment": "not_applicable",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "rigid bronchoscopy",
+      "airway stents",
+      "central airway obstruction",
+      "interventional pulmonology",
+      "foreign body aspiration",
+      "hemoptysis",
+      "laser debulking",
+      "silicone stent"
+    ],
+    "summary_tldr": "Narrative review: Rigid bronchoscopy enables rapid, safe management of central airway obstruction and foreign bodies; historical case series report 98.3% success in foreign body removal (689/701).",
+    "clinical_relevance": "Supports use of rigid bronchoscopy as a cornerstone technique for malignant and benign central airway diseases, including stent placement and hemorrhage control."
+  }
+}

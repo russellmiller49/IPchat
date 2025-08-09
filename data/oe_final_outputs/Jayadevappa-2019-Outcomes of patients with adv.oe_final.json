@@ -1,0 +1,453 @@
+{
+  "source": {
+    "document_id": "Jayadevappa-2019-Outcomes of patients with adv",
+    "ingest_date": "2025-08-08T13:33:18.343505+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.21037/jtd.2019.04.60"
+  },
+  "document": {
+    "metadata": {
+      "title": "Outcomes of patients with advanced non-small cell lung cancer and airway obstruction treated with photodynamic therapy and non-photodynamic therapy ablation modalities",
+      "year": 2019,
+      "authors": [
+        "Ravishankar Jayadevappa",
+        "Sumedha Chhatre",
+        "Harmik J. Soukiasian",
+        "Septimiu Murgu"
+      ],
+      "journal": "Journal of Thoracic Disease",
+      "doi": "10.21037/jtd.2019.04.60",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Background: Non-small cell lung cancer (NSCLC) patients with central airway obstruction (CAO) may have better survival on systemic therapy if the airway patency is successfully restored by bronchoscopic interventions. It remains unclear which therapeutic bronchoscopic modality [laser, stenting, external beam radiation, brachytherapy and photodynamic therapy (PDT)] used for restoring airway patency positively affects outcomes in these patients. We analyzed the effectiveness of PDT in terms of mortality, and time to subsequent treatments in patients with stage III and IV NSCLC. Methods: Study used Surveillance, Epidemiology, and End Results (SEER) Medicare linked data. We categorized NSCLC patients diagnosed between 2000 and 2011 and with stage III and IV, into three treatment groups: PDT + radiation ± chemotherapy, non-PDT ablation therapy + radiation ± chemotherapy, and radiation + chemotherapy. We analyzed all-cause and cause-specific mortality using Cox proportional hazard models with an inverse probability weighted propensity score adjustment. Time to subsequent treatment was analyzed using GLM model. Results: For the PDT group, hazard for all-cause and cause-specific mortality was comparable to the radiation + chemotherapy group (HR =1.03, 95% CI: 0.73-1.45; and HR =1.04, 95% CI: 0.71-1.51, respectively). The non-PDT ablation group had higher hazard for all-cause (HR =1.22, 95% CI: 1.13-1.33) and cause-specific mortality (HR =1.10, 95% CI: 1.01-1.20), compared to the radiation + chemotherapy group. The PDT group had longer time to follow-up treatment, compared to non-PDT ablation group. Conclusions: In our exploratory study of stage III and IV NSCLC patients with CAO, addition of PDT demonstrated hazard of mortality comparable to radiation + chemotherapy group. However, addition of non-PDT ablation showed higher mortality compared to the radiation + chemotherapy group. Future studies should investigate the efficacy and effectiveness of multimodal therapy including radiation, chemo, immunotherapy and bronchoscopic interventions.",
+      "methods": "SEER-Medicare data from National Cancer Institute link the Medicare administrative claims data and clinical tumor registry data for Medicare enrollees residing in the SEER regions. In this retrospective cohort study, we extracted a cohort of patients aged 18 years or older, and diagnosed with stage III or IV NSCLC between 2000 and 2011. We identified three exclusive treatment groups using ICD-9 and HCPCS codes: PDT + radiation ± chemotherapy, non-PDT ablation (argon plasma coagulation, cryotherapy, laser) + radiation ± chemotherapy, and radiation + chemotherapy. Key outcomes were all-cause and lung cancer-specific mortality, and time to subsequent treatment (for PDT and non-PDT ablation groups). Mortality data were from SEER PEDSF; survivors at end of study (2013-12-31) were censored. We used Cox regression for mortality and GLM for time to subsequent treatment. To address non-random treatment assignment, we implemented inverse probability weighted propensity scores from a multinomial logistic regression including age, gender, race/ethnicity, marital status, geographic location, cancer stage, and Charlson comorbidity score. A matched cohort analysis (PDT as focal, 1:2 matched on age ±3 years, race, gender, comorbidity) was also performed.",
+      "results": "The cohort included 43,783 Medicare enrollees with stage III or IV NSCLC (diagnosed 2000-2011): 39 received PDT + radiation ± chemotherapy, 558 received non-PDT ablation + radiation ± chemotherapy, and 43,186 received radiation + chemotherapy. Unadjusted mean all-cause survival times were 505 days (SD 526) for PDT, 417 days (SD 497) for non-PDT ablation, and 502 days (SD 582) for radiation + chemotherapy. Unadjusted mean time to subsequent treatment was 147 days (SD 295) for PDT vs 98 days (SD 233) for non-PDT ablation (P=0.2048). In inverse probability weighted Cox models, compared with radiation + chemotherapy, PDT had similar all-cause mortality hazard (HR 1.03, 95% CI 0.73-1.45) and lung cancer-specific mortality hazard (HR 1.04, 95% CI 0.71-1.51). Non-PDT ablation had higher all-cause mortality hazard (HR 1.22, 95% CI 1.13-1.33) and higher lung cancer-specific mortality hazard (HR 1.10, 95% CI 1.01-1.20). In adjusted GLM, PDT was associated with 29.2-day longer time to follow-up treatment on average vs non-PDT ablation (P=0.4458). Matched cohort analyses were directionally consistent."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Medicare beneficiaries with stage III or IV non-small cell lung cancer (NSCLC), 18 years or older, identified in SEER-Medicare (diagnosed 2000-2011), treated with radiation and chemotherapy with or without bronchoscopic ablation for central airway obstruction.",
+      "inclusion_criteria": [
+        "Age ≥18 years",
+        "Diagnosis of NSCLC (SEER) between 2000 and 2011",
+        "Stage III or IV at diagnosis",
+        "Fee-for-service Medicare with claims available",
+        "Received one of: PDT + radiation ± chemotherapy; non-PDT ablation + radiation ± chemotherapy; radiation + chemotherapy"
+      ],
+      "exclusion_criteria": [
+        "Small cell lung cancer",
+        "Age <18 years",
+        "Missing diagnosis date",
+        "Surgery alone treatment",
+        "Chemotherapy alone treatment",
+        "No treatment",
+        "Radiation alone"
+      ]
+    },
+    "intervention": {
+      "text": "Photodynamic therapy (PDT) + radiation ± chemotherapy",
+      "details": "PDT identified via ICD-9/HCPCS procedure claims; combined with external beam radiation and possibly chemotherapy as per Medicare claims."
+    },
+    "comparison": {
+      "text": "Two comparators: (1) Non-PDT ablation + radiation ± chemotherapy; (2) Radiation + chemotherapy",
+      "details": "Non-PDT ablation modalities included argon plasma coagulation, cryotherapy, and laser per HCPCS/ICD-9 codes; radiation + chemotherapy without bronchoscopic ablation served as the primary reference group."
+    },
+    "outcomes": [
+      {
+        "name": "All-cause mortality",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Lung cancer-specific mortality",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Time to subsequent treatment (days) after ablation",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "retrospective cohort",
+    "allocation": "non-randomized",
+    "blinding": "none",
+    "sites_count": 20,
+    "countries": [
+      "US"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 43783,
+      "analyzed": 43783
+    },
+    "analysis_populations": [
+      {
+        "name": "PDT + radiation ± chemotherapy",
+        "description": "Patients receiving PDT ablation in addition to radiation ± chemotherapy",
+        "n": 39
+      },
+      {
+        "name": "Non-PDT ablation + radiation ± chemotherapy",
+        "description": "Patients receiving non-PDT ablation (argon plasma coagulation, cryotherapy, laser) in addition to radiation ± chemotherapy",
+        "n": 558
+      },
+      {
+        "name": "Radiation + chemotherapy",
+        "description": "Patients receiving radiation + chemotherapy without bronchoscopic ablation",
+        "n": 43186
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "pdt_rt_chemo",
+      "name": "PDT + radiation ± chemotherapy",
+      "n_randomized": 39,
+      "n_analyzed": 39,
+      "n_completed": 39
+    },
+    {
+      "arm_id": "nonpdt_ablation_rt_chemo",
+      "name": "Non-PDT ablation + radiation ± chemotherapy",
+      "n_randomized": 558,
+      "n_analyzed": 558,
+      "n_completed": 558
+    },
+    {
+      "arm_id": "rt_chemo",
+      "name": "Radiation + chemotherapy",
+      "n_randomized": 43186,
+      "n_analyzed": 43186,
+      "n_completed": 43186
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "all_cause_mortality_time_to_event",
+      "name": "All-cause mortality",
+      "type": "time_to_event",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "End of follow-up (censored at 2013-12-31)",
+      "groups": [
+        {
+          "arm_id": "pdt_rt_chemo"
+        },
+        {
+          "arm_id": "nonpdt_ablation_rt_chemo"
+        },
+        {
+          "arm_id": "rt_chemo"
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "rt_chemo",
+        "measure": "hazard_ratio",
+        "est": 1.03,
+        "ci_lower": 0.73,
+        "ci_upper": 1.45,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": true
+      },
+      "analysis": {
+        "model": "Cox proportional hazards with inverse probability weighted propensity scores",
+        "adjusted": true,
+        "covariates": [
+          "age",
+          "gender",
+          "race/ethnicity",
+          "marital status",
+          "geographic location",
+          "cancer stage",
+          "Charlson comorbidity score"
+        ],
+        "population": "All eligible patients in PDT + RT ± chemotherapy vs radiation + chemotherapy groups",
+        "missing_handling": "Censoring at end of study (2013-12-31) for survivors"
+      },
+      "provenance": {
+        "pages": [
+          4393
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "Compared to the RT + chemotherapy group, the propensity score adjusted hazard of all-cause mortality was similar for the PDT group (HR =1.03, 95% CI: 0.73-1.45)."
+      }
+    },
+    {
+      "concept_id": "all_cause_mortality_time_to_event_nonpdt",
+      "name": "All-cause mortality",
+      "type": "time_to_event",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "End of follow-up (censored at 2013-12-31)",
+      "groups": [
+        {
+          "arm_id": "nonpdt_ablation_rt_chemo"
+        },
+        {
+          "arm_id": "rt_chemo"
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "rt_chemo",
+        "measure": "hazard_ratio",
+        "est": 1.22,
+        "ci_lower": 1.13,
+        "ci_upper": 1.33,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": true
+      },
+      "analysis": {
+        "model": "Cox proportional hazards with inverse probability weighted propensity scores",
+        "adjusted": true,
+        "covariates": [
+          "age",
+          "gender",
+          "race/ethnicity",
+          "marital status",
+          "geographic location",
+          "cancer stage",
+          "Charlson comorbidity score"
+        ],
+        "population": "All eligible patients in non-PDT ablation + RT ± chemotherapy vs radiation + chemotherapy groups",
+        "missing_handling": "Censoring at end of study (2013-12-31) for survivors"
+      },
+      "provenance": {
+        "pages": [
+          4393
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "The non-PDT ablation group had higher hazard for all-cause (HR =1.22, 95% CI: 1.13-1.33) ... compared to the radiation + chemotherapy group."
+      }
+    },
+    {
+      "concept_id": "lung_cancer_specific_mortality_time_to_event",
+      "name": "Lung cancer-specific mortality",
+      "type": "time_to_event",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "End of follow-up (censored at 2013-12-31)",
+      "groups": [
+        {
+          "arm_id": "pdt_rt_chemo"
+        },
+        {
+          "arm_id": "rt_chemo"
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "rt_chemo",
+        "measure": "hazard_ratio",
+        "est": 1.04,
+        "ci_lower": 0.71,
+        "ci_upper": 1.51,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": true
+      },
+      "analysis": {
+        "model": "Cox proportional hazards with inverse probability weighted propensity scores",
+        "adjusted": true,
+        "covariates": [
+          "age",
+          "gender",
+          "race/ethnicity",
+          "marital status",
+          "geographic location",
+          "cancer stage",
+          "Charlson comorbidity score"
+        ],
+        "population": "All eligible patients in PDT + RT ± chemotherapy vs radiation + chemotherapy groups",
+        "missing_handling": "Censoring at end of study (2013-12-31) for survivors"
+      },
+      "provenance": {
+        "pages": [
+          4393
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "The propensity score adjusted hazard of cause-specific mortality for PDT group was comparable to that of the RT + chemotherapy group (HR =1.04, 95% CI: 0.71-1.51)."
+      }
+    },
+    {
+      "concept_id": "lung_cancer_specific_mortality_time_to_event_nonpdt",
+      "name": "Lung cancer-specific mortality",
+      "type": "time_to_event",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "End of follow-up (censored at 2013-12-31)",
+      "groups": [
+        {
+          "arm_id": "nonpdt_ablation_rt_chemo"
+        },
+        {
+          "arm_id": "rt_chemo"
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "rt_chemo",
+        "measure": "hazard_ratio",
+        "est": 1.1,
+        "ci_lower": 1.01,
+        "ci_upper": 1.2,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": true
+      },
+      "analysis": {
+        "model": "Cox proportional hazards with inverse probability weighted propensity scores",
+        "adjusted": true,
+        "covariates": [
+          "age",
+          "gender",
+          "race/ethnicity",
+          "marital status",
+          "geographic location",
+          "cancer stage",
+          "Charlson comorbidity score"
+        ],
+        "population": "All eligible patients in non-PDT ablation + RT ± chemotherapy vs radiation + chemotherapy groups",
+        "missing_handling": "Censoring at end of study (2013-12-31) for survivors"
+      },
+      "provenance": {
+        "pages": [
+          4393
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "However, the non-PDT ablation group had higher hazard of cause-specific mortality (HR =1.10, 95% CI: 1.01-1.20), compared to the RT + chemotherapy group."
+      }
+    },
+    {
+      "concept_id": "time_to_subsequent_treatment_days",
+      "name": "Time to subsequent treatment",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "unit": "days",
+      "unit_canonical": "day",
+      "groups": [
+        {
+          "arm_id": "pdt_rt_chemo",
+          "raw": {
+            "total": 39
+          }
+        },
+        {
+          "arm_id": "nonpdt_ablation_rt_chemo",
+          "raw": {
+            "total": 558
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "nonpdt_ablation_rt_chemo",
+        "measure": "mean_difference",
+        "est": 29.2,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.4458,
+        "p_operator": "=",
+        "adjusted": true
+      },
+      "analysis": {
+        "model": "Generalized linear model with inverse probability weighted propensity scores",
+        "adjusted": true,
+        "covariates": [
+          "age",
+          "gender",
+          "race/ethnicity",
+          "marital status",
+          "geographic location",
+          "cancer stage",
+          "Charlson comorbidity score"
+        ],
+        "population": "Patients in PDT and non-PDT ablation groups",
+        "missing_handling": "Not specified"
+      },
+      "provenance": {
+        "pages": [
+          4393,
+          4394
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "quote": "The propensity score adjusted regression showed that PDT group was associated with 29.2 days increase in time to follow-up treatment on average, however this increase was not statistically significant (P=0.4458)."
+      }
+    }
+  ],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "ROBINS-I",
+    "overall_judgment": "serious",
+    "domains": [
+      {
+        "name": "Bias due to confounding",
+        "judgment": "serious",
+        "support_for_judgment": "Non-randomized treatment assignment addressed with inverse probability weighting, but unmeasured confounding cannot be excluded."
+      },
+      {
+        "name": "Bias in selection of participants into the study",
+        "judgment": "moderate",
+        "support_for_judgment": "Cohort defined from SEER-Medicare claims with clear inclusion/exclusion, but treatment group membership may be influenced by clinical factors not captured in claims."
+      },
+      {
+        "name": "Bias in classification of interventions",
+        "judgment": "moderate",
+        "support_for_judgment": "Interventions identified via ICD-9/HCPCS claims; possible misclassification."
+      },
+      {
+        "name": "Bias due to deviations from intended interventions",
+        "judgment": "low",
+        "support_for_judgment": "Claims-based observational data; outcomes analyzed by initial treatment groups."
+      },
+      {
+        "name": "Bias due to missing data",
+        "judgment": "low",
+        "support_for_judgment": "Mortality from SEER is complete; censoring accounted for."
+      },
+      {
+        "name": "Bias in measurement of outcomes",
+        "judgment": "low",
+        "support_for_judgment": "All-cause and cause-specific mortality from SEER registries."
+      },
+      {
+        "name": "Bias in selection of the reported result",
+        "judgment": "low",
+        "support_for_judgment": "Outcomes and analyses prespecified in methods; both main and matched analyses reported."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "non-small cell lung cancer",
+      "photodynamic therapy",
+      "PDT",
+      "central airway obstruction",
+      "SEER-Medicare",
+      "propensity score",
+      "Cox proportional hazards",
+      "bronchoscopic ablation"
+    ],
+    "summary_tldr": "In stage III-IV NSCLC Medicare patients, PDT + radiation ± chemotherapy had mortality hazards similar to radiation + chemotherapy, while non-PDT ablation + radiation ± chemotherapy had higher mortality; PDT also showed a nonsignificant 29.2-day longer time to subsequent treatment vs non-PDT ablation.",
+    "clinical_relevance": "Findings suggest PDT may offer outcomes comparable to standard radiation + chemotherapy and potentially prolong time to next intervention among patients with endobronchial obstruction."
+  }
+}

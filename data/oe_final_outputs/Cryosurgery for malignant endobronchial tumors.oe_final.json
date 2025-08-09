@@ -1,0 +1,538 @@
+{
+  "source": {
+    "document_id": "Cryosurgery for malignant endobronchial tumors",
+    "ingest_date": "2025-08-08T11:21:20.889988+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": ""
+  },
+  "document": {
+    "metadata": {
+      "title": "Cryosurgery for Malignant Endobronchial Tumors: Analysis of Outcome",
+      "year": 2005,
+      "authors": [
+        "George Asimakopoulos",
+        "Julia Beeson",
+        "Joanna Evans",
+        "M. Omar Maiwand"
+      ],
+      "journal": "CHEST",
+      "doi": "",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Study objectives: The majority of lung cancer patients are unsuitable for curative surgery and often require palliation for symptoms caused by airway obstruction. This study analyzes the effects of endobronchial cryosurgery on obstructive endobronchial carcinoma. Design: Retrospective analysis of a prospective database. Setting: Tertiary thoracic surgical center. Patients: 329 patients with malignant primary or metastatic obstructive lung carcinoma treated over 5 years were grouped by treatment exposure: group A (n=172) had at least two cryosurgery sessions; group B (n=157) had one session. Intervention: Endobronchial cryosurgery under general anesthesia with a nitrous oxide cryoprobe applied to the tumor for two 3-min freezes per session. Measurements and results: Dyspnea, cough, and hemoptysis were significantly reduced within groups after cryosurgery (p<0.001). Group A showed significant improvements in lung function (PEF and FVC) and higher Karnofsky scores. Mean survival was 15 months (median 11) in group A vs 8.3 months (median 6) in group B (log-rank p=0.006). Thirty-day mortality was 2/172 (1.1%) in group A vs 17/157 (10.8%) in group B (p=0.0002). In univariate analyses, cryosurgery combined with external beam radiotherapy was associated with longer survival (p<0.01). Female sex was associated with greater improvements in Karnofsky score (p<0.02), FEV1 (p=0.003), and FVC (p<0.001). Conclusions: Endobronchial cryosurgery is a safe palliative option for obstructive endobronchial malignancies, improving symptoms, selected lung function parameters, performance status, and survival.",
+      "methods": "Design: Retrospective analysis of prospectively collected data (1996-2000) from a single tertiary thoracic center. Population: Consecutive patients with symptomatic obstructive endobronchial malignant tumors, largely inoperable due to advanced stage or poor functional status. Grouping: Group A (≥2 cryosurgery sessions; n=172) vs Group B (1 session; n=157). Intervention: Rigid bronchoscopy under short-acting IV general anesthesia with Venturi positive pressure ventilation; Joule-Thomson nitrous oxide cryoprobe achieving approximately -70°C at the tip; tumor frozen for 3 minutes per application, two applications per session; sessions typically spaced 2-6 weeks apart. Bleeding controlled with topical epinephrine 1:1,000; necrotic tissue removed as needed. Assessments: Symptoms (NYHA dyspnea class; graded cough and hemoptysis), lung function (PEF, FEV1, FVC), Karnofsky performance score, tumor histology and stage, adjuvant therapy, and survival. Follow-up typically at 2 weeks after each session and serially thereafter. Statistical analysis: Within-patient before/after comparisons by Wilcoxon matched-pairs signed-rank tests; categorical comparisons by Fisher exact or chi-square tests; continuous data by t test or Mann-Whitney U test as appropriate; survival by Kaplan-Meier and log-rank test; associations by univariate Cox regression (survival) and ordered logistic regression (other outcomes), followed by multivariate models. Significance threshold p≤0.05.",
+      "results": "Patients: 329 total (group A n=172; group B n=157), similar in sex, age, histology, and stage distribution, though group A received more radiotherapy. Most tumors were squamous; 67% (group A) and 77% (group B) were stage IIIb or IV at presentation. Adjuvant treatments in group A: radiotherapy 101/172 (57.7%), lung resection 12/172 (7.0%), chemotherapy 20/172 (11.6%); radiotherapy was less frequent in group B (45/157; 28.6%). Symptoms: In group A at first follow-up, dyspnea improved by ≥1 class in 87/172 (50.5%), cough improved in 88/172 (51.1%), and hemoptysis improved in 36/172 (20.9%). Reductions in dyspnea, cough, and hemoptysis were statistically significant within groups (p≤0.001). Lung function: In group A, PEF increased from 170±79 to 181±73 L (p=0.03) and FVC from 1.89±0.63 to 2.02±0.72 L (p=0.001) at first follow-up; FEV1 rose from 1.36±0.63 to 1.43±0.47 L (not significant). Karnofsky performance: Mean increased from 67±9 to 74±10 in group A, and from 67±10 to 73±11 in group B. Survival: Mean survival 15 months (median 11) in group A vs 8.3 months (median 6) in group B; log-rank p=0.006. Complications: No bronchial perforation. Immediate postoperative complications included bleeding (6/172 vs 8/157), new-onset atrial fibrillation (3/172 vs 6/157), and respiratory distress (4/172 vs 8/157). Thirty-day mortality was 2/172 vs 17/157 (p=0.0002)."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with symptomatic, obstructive, malignant endobronchial tumors (primary or metastatic) treated at a tertiary referral thoracic surgical center.",
+      "inclusion_criteria": [
+        "Endobronchial obstructive malignant tumor causing symptoms or likely to imminently cause symptoms",
+        "Underwent endobronchial cryosurgery",
+        "Assessed clinically and radiologically with available baseline and follow-up data"
+      ],
+      "exclusion_criteria": [
+        "Inability to undergo general anesthesia",
+        "Previously observed poor tumor response to cryosurgery"
+      ]
+    },
+    "intervention": {
+      "text": "Endobronchial cryosurgery, ≥2 sessions",
+      "details": "Rigid bronchoscopy under general anesthesia; nitrous oxide Joule-Thomson cryoprobe achieving approximately -70°C; probe applied to tumor for two 3-minute freezes per session; sessions typically 2-6 weeks apart; hemostasis with topical epinephrine; removal of necrotic tissue as needed."
+    },
+    "comparison": {
+      "text": "Endobronchial cryosurgery, single session",
+      "details": "Same procedural technique as intervention but only one treatment session, most often due to clinical condition precluding further sessions."
+    },
+    "outcomes": [
+      {
+        "name": "Overall survival",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Symptom improvement (dyspnea, cough, hemoptysis)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Lung function changes (PEF, FEV1, FVC)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Karnofsky performance score",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "30-day mortality",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "observational",
+    "allocation": "non-randomized",
+    "blinding": "none",
+    "sites_count": 1,
+    "countries": [
+      "UK"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 329,
+      "analyzed": 329
+    },
+    "analysis_populations": [
+      {
+        "name": "Full cohort",
+        "description": "All patients undergoing at least one cryosurgery session from 1996-2000",
+        "n": 329
+      },
+      {
+        "name": "Group A",
+        "description": "Patients completing at least two cryosurgery sessions",
+        "n": 172
+      },
+      {
+        "name": "Group B",
+        "description": "Patients undergoing only one cryosurgery session",
+        "n": 157
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "group_a",
+      "name": "≥2 cryosurgery sessions",
+      "n_randomized": 172,
+      "n_analyzed": 172,
+      "n_completed": 126
+    },
+    {
+      "arm_id": "group_b",
+      "name": "1 cryosurgery session",
+      "n_randomized": 157,
+      "n_analyzed": 157,
+      "n_completed": 32
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "thirty_day_mortality",
+      "name": "All-cause mortality within 30 days",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P30D",
+      "timepoint_label": "30 days",
+      "groups": [
+        {
+          "arm_id": "group_a",
+          "raw": {
+            "events": 2,
+            "total": 172
+          }
+        },
+        {
+          "arm_id": "group_b",
+          "raw": {
+            "events": 17,
+            "total": 157
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "group_b",
+        "measure": "risk_difference",
+        "est": -0.0967,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.0002,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Fisher exact test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Full cohort by treatment exposure",
+        "missing_handling": "Complete-case (all treated patients included)"
+      },
+      "provenance": {
+        "pages": [
+          2009
+        ],
+        "tables": [
+          "Table 1"
+        ],
+        "table_number": 1,
+        "quote": "30 d after cryosurgery: 2 (1.1) vs 17 (10.8), p = 0.0002"
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.107
+        },
+        "odds_ratio": {
+          "est": 0.097
+        },
+        "arr": -0.097,
+        "nnh": 10.3
+      }
+    },
+    {
+      "concept_id": "overall_survival_median_months",
+      "name": "Median overall survival",
+      "type": "time_to_event",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "Kaplan-Meier follow-up",
+      "groups": [
+        {
+          "arm_id": "group_a",
+          "raw": {
+            "median": 11,
+            "total": 172
+          }
+        },
+        {
+          "arm_id": "group_b",
+          "raw": {
+            "median": 6,
+            "total": 157
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "group_b",
+        "measure": "median_difference",
+        "est": 5,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.006,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Kaplan-Meier with log-rank test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Full cohort by treatment exposure"
+      },
+      "provenance": {
+        "pages": [
+          2009,
+          2010
+        ],
+        "tables": [
+          "Table 1",
+          "Figure 1"
+        ],
+        "quote": "Mean survival 15 months (median, 11) for group A and 8.3 months (median, 6) for group B (p = 0.006)."
+      }
+    },
+    {
+      "concept_id": "pef_change_first_followup_group_a",
+      "name": "PEF change from baseline to first follow-up (Group A)",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P2W",
+      "unit": "L",
+      "unit_canonical": "liter",
+      "groups": [
+        {
+          "arm_id": "group_a",
+          "raw": {
+            "mean": 11,
+            "total": 172
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "group_a",
+        "measure": "within_group_change",
+        "est": 11,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.03,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Wilcoxon matched-pairs signed-rank test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Group A only; paired pre/post within-subject",
+        "missing_handling": "Complete-case among those with both measurements"
+      },
+      "provenance": {
+        "pages": [
+          2010
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "quote": "A significant increase in mean PEF from 170 ± 79 to 181 ± 73 L (p = 0.03) at first follow-up was recorded in group A."
+      }
+    },
+    {
+      "concept_id": "fvc_change_first_followup_group_a",
+      "name": "FVC change from baseline to first follow-up (Group A)",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P2W",
+      "unit": "L",
+      "unit_canonical": "liter",
+      "groups": [
+        {
+          "arm_id": "group_a",
+          "raw": {
+            "mean": 0.13,
+            "total": 172
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "group_a",
+        "measure": "within_group_change",
+        "est": 0.13,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.001,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Wilcoxon matched-pairs signed-rank test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Group A only; paired pre/post within-subject",
+        "missing_handling": "Complete-case among those with both measurements"
+      },
+      "provenance": {
+        "pages": [
+          2010
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "quote": "There was also a small but statistically significant increase in FVC from 1.89 ± 0.63 to 2.02 ± 0.72 L at first follow-up (p = 0.001)."
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Procedural hemorrhage",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Procedural haemorrhage"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "required intervention"
+      ],
+      "groups": [
+        {
+          "arm_id": "group_a",
+          "events": 6,
+          "patients": 6,
+          "percentage": 3.5,
+          "total": 172
+        },
+        {
+          "arm_id": "group_b",
+          "events": 8,
+          "patients": 8,
+          "percentage": 5,
+          "total": 157
+        }
+      ],
+      "period": "peri-procedural",
+      "management": "",
+      "provenance": {
+        "pages": [
+          2009
+        ],
+        "tables": [
+          "Table 1"
+        ],
+        "quote": "Bleeding 6 (3.5) vs 8 (5.0)"
+      }
+    },
+    {
+      "event_name": "Atrial fibrillation",
+      "meddra": {
+        "soc": "Cardiac disorders",
+        "pt": "Atrial fibrillation"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "other medically important condition"
+      ],
+      "groups": [
+        {
+          "arm_id": "group_a",
+          "events": 3,
+          "patients": 3,
+          "percentage": 1.7,
+          "total": 172
+        },
+        {
+          "arm_id": "group_b",
+          "events": 6,
+          "patients": 6,
+          "percentage": 3.8,
+          "total": 157
+        }
+      ],
+      "period": "peri-procedural",
+      "management": "",
+      "provenance": {
+        "pages": [
+          2009
+        ],
+        "tables": [
+          "Table 1"
+        ],
+        "quote": "New onset of atrial fibrillation 3 (1.7) vs 6 (3.8)"
+      }
+    },
+    {
+      "event_name": "Respiratory distress",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Respiratory distress"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "hospitalization"
+      ],
+      "groups": [
+        {
+          "arm_id": "group_a",
+          "events": 4,
+          "patients": 4,
+          "percentage": 2.3,
+          "total": 172
+        },
+        {
+          "arm_id": "group_b",
+          "events": 8,
+          "patients": 8,
+          "percentage": 5,
+          "total": 157
+        }
+      ],
+      "period": "peri-procedural",
+      "management": "",
+      "provenance": {
+        "pages": [
+          2009
+        ],
+        "tables": [
+          "Table 1"
+        ],
+        "quote": "Respiratory distress 4 (2.3) vs 8 (5.0)"
+      }
+    },
+    {
+      "event_name": "Death",
+      "meddra": {
+        "soc": "General disorders and administration site conditions",
+        "pt": "Death"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "death"
+      ],
+      "groups": [
+        {
+          "arm_id": "group_a",
+          "events": 2,
+          "patients": 2,
+          "percentage": 1.1,
+          "total": 172
+        },
+        {
+          "arm_id": "group_b",
+          "events": 17,
+          "patients": 17,
+          "percentage": 10.8,
+          "total": 157
+        }
+      ],
+      "period": "0-30 days",
+      "management": "",
+      "provenance": {
+        "pages": [
+          2009
+        ],
+        "tables": [
+          "Table 1"
+        ],
+        "quote": "30 d after cryosurgery 2 (1.1) vs 17 (10.8), p = 0.0002"
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "ROBINS-I",
+    "overall_judgment": "serious",
+    "domains": [
+      {
+        "name": "Bias due to confounding",
+        "judgment": "serious",
+        "support_for_judgment": "Non-randomized exposure to 1 vs ≥2 sessions; differential receipt of radiotherapy; prognostic differences likely."
+      },
+      {
+        "name": "Bias in selection of participants",
+        "judgment": "serious",
+        "support_for_judgment": "Group B often clinically unable to undergo a second session, indicating selection on prognosis."
+      },
+      {
+        "name": "Bias in classification of interventions",
+        "judgment": "low",
+        "support_for_judgment": "Clear and objective classification by number of cryosurgery sessions."
+      },
+      {
+        "name": "Bias due to deviations from intended interventions",
+        "judgment": "moderate",
+        "support_for_judgment": "Adjuvant therapies varied in timing and type."
+      },
+      {
+        "name": "Bias due to missing data",
+        "judgment": "moderate",
+        "support_for_judgment": "Follow-up attendance lower in group B; some outcomes not assessed in all."
+      },
+      {
+        "name": "Bias in measurement of outcomes",
+        "judgment": "moderate",
+        "support_for_judgment": "Symptom scales subjective and unblinded; objective lung function measured."
+      },
+      {
+        "name": "Bias in selection of the reported result",
+        "judgment": "low",
+        "support_for_judgment": "Pre-specified outcomes per database; multiple outcomes reported with appropriate tests."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "cryosurgery",
+      "endobronchial",
+      "lung cancer",
+      "bronchoscopy",
+      "palliation",
+      "airway obstruction"
+    ],
+    "summary_tldr": "In a single-center observational cohort, patients receiving ≥2 cryosurgery sessions had longer survival (median 11 vs 6 months; p=0.006) and lower 30-day mortality (2/172 vs 17/157; p=0.0002) than those receiving a single session; symptoms and select lung function parameters improved within groups.",
+    "clinical_relevance": "Supports endobronchial cryosurgery as a palliative option for obstructive endobronchial malignancies with acceptable safety and symptomatic benefit; multiple sessions may be associated with better outcomes in selected patients."
+  }
+}

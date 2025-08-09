@@ -1,0 +1,442 @@
+{
+  "source": {
+    "document_id": "Safety and Feasibility of Interventional Pulmonologists Performing Bedside Percutaneous Endoscopic Gastrostomy Tube Placement",
+    "ingest_date": "2025-08-08T15:36:07.411748+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1378/chest.12-2550"
+  },
+  "document": {
+    "metadata": {
+      "title": "Safety and Feasibility of Interventional Pulmonologists Performing Bedside Percutaneous Endoscopic Gastrostomy Tube Placement",
+      "year": 2013,
+      "authors": [
+        "Lonny Yarmus",
+        "Christopher Gilbert",
+        "Noah Lechtzin",
+        "Melhem Imad",
+        "Armin Ernst",
+        "David Feller-Kopman"
+      ],
+      "journal": "CHEST",
+      "doi": "10.1378/chest.12-2550",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Background: Prior to the 1980s, permanent feeding tube placement was limited to an open surgical procedure until Gauderer and colleagues described the safe placement of percutaneous endoscopic gastrostomy (PEG) tubes. This procedure has since expanded beyond the realm of surgeons to include gastroenterologists, thoracic surgeons, and interventional radiologists. In some academic centers, interventional pulmonologists (IPs) also perform this procedure. We describe the safety and feasibility of PEG tube placement by IPs in a critically ill population. Methods: Prospectively collected data of patients in a medical ICU undergoing PEG tube placement from 2003 to 2007 at a tertiary-care center were reviewed. Inclusion criteria included all PEG tube insertions performed or attempted by the IP team. Data were collected on mortality, PEG tube removal rate, total number of days with PEG tube, and complication rates. Follow-up included hospital length of stay and phone contact after discharge. Procedural and long-term PEG-related complications were recorded. Results: Seventy-two patients were studied. PEG tube insertion was completed successfully in 70 (97.2%), with follow-up data in 69 of these 70. Thirty-day mortality was approximately 11% with eight deaths. No deaths or immediate complications were attributed to PEG tube placement. PEG tube removal occurred in 27 patients, with a median time to removal of 76 days. Conclusions: Bedside PEG tube placement can be performed safely and effectively by trained IPs. Because percutaneous tracheostomy is currently performed by IPs, the ability to place both PEG and tracheostomy tubes at the same time has the potential for decreased costs, anesthesia exposure, procedural times, ventilator times, and ICU days.",
+      "methods": "Prospective database review of all PEG placements performed or attempted by the interventional pulmonology team in a single tertiary-care medical ICU from February 2003 to April 2007. All procedures were performed at the bedside under anesthesiologist-administered IV anesthesia and muscle relaxation. Prophylactic antibiotics were used per guidelines. The pull-through technique was used with commercial PEG kits. Enteral feeding was allowed 4 hours post-procedure unless clinically contraindicated. Outcomes collected: mortality, PEG removal rate, total PEG days, procedural and long-term complications. Procedural complications defined as bleeding (requiring suturing, packing, transfusion, or surgery), inability to complete the procedure once an abdominal incision was made, unintentional abdominal organ puncture, or death within 24 hours. Long-term complications included cellulitis, peritonitis, and PEG malfunction. Mortality rates were estimated by Kaplan-Meier. Credentialing required supervision of the first 20 PEGs by surgeons/gastroenterologists; thereafter IPs performed independently.",
+      "results": "Seventy-two patients (median age 70 years; 40 women) were included. PEG was successfully completed in 70/72 (97.2%). Follow-up was available in 69/70 successful cases. No immediate procedural complications or procedure-attributed deaths occurred. One minor long-term complication (cellulitis) occurred (approximately 1.4%). Thirty-day mortality was reported as ~11% (eight patients). One-year mortality was reported as 33 deaths; the table shows 47.1% (33/70), while narrative text notes a Kaplan-Meier estimate of 75.7%. PEG tube removal occurred in 27 patients; median time to removal 76 days. Median PEG days 90; median follow-up 91 days. Mean procedure duration after initial 20 cases was 15.8 minutes (range 8-25). Two procedures were aborted (inadequate transillumination; inability to advance gastroscope)."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Critically ill adult medical ICU patients requiring long-term enteral nutrition, undergoing bedside PEG placement.",
+      "inclusion_criteria": [
+        "All PEG tube insertions performed or attempted by the interventional pulmonology team from 2003-2007",
+        "Hospitalized in the medical ICU"
+      ],
+      "exclusion_criteria": [
+        "No formal protocol exclusion criteria were specified",
+        "Operational practice exclusions (referred to surgery/GI): BMI > 50 kg/m2, significant ascites, concern for active peritonitis, prior gastric surgery (prior PEG excluded), uncorrectable coagulopathy, known GI pathology (eg, esophageal varices, gastric outlet obstruction), or inability to obtain adequate transillumination"
+      ]
+    },
+    "intervention": {
+      "text": "Bedside percutaneous endoscopic gastrostomy (PEG) placement by interventional pulmonologists",
+      "details": "Pull-through PEG technique under anesthesiologist-administered IV anesthesia with muscle relaxation at the ICU bedside; prophylactic antibiotics per guidelines; two commercial kits used per availability; enteral feeding permitted 4 hours post-procedure unless contraindicated."
+    },
+    "comparison": {
+      "text": "None (single-arm observational cohort)",
+      "details": "No concurrent control group; multidisciplinary teams (surgery, gastroenterology) performed PEG later in 2 aborted cases."
+    },
+    "outcomes": [
+      {
+        "name": "Procedural success (successful PEG placement at index procedure)",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Immediate procedural complications (within 24 h)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Long-term PEG-related complications (eg, cellulitis, peritonitis, tube malfunction)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "All-cause mortality at 30 days",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "All-cause mortality at 365 days",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "PEG tube removal during follow-up",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Observational cohort",
+    "allocation": "non-randomized",
+    "blinding": "none",
+    "sites_count": 1,
+    "countries": [
+      "US"
+    ],
+    "sample_size": {
+      "planned": 72,
+      "enrolled": 72,
+      "analyzed": 70
+    },
+    "analysis_populations": [
+      {
+        "name": "All attempted",
+        "description": "All patients in whom PEG placement was attempted by IPs",
+        "n": 72
+      },
+      {
+        "name": "Successful PEG cohort",
+        "description": "Patients with successful PEG placement",
+        "n": 70
+      },
+      {
+        "name": "Follow-up cohort",
+        "description": "Successful PEGs with available follow-up data",
+        "n": 69
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "Bedside PEG by interventional pulmonology team",
+      "n_randomized": 72,
+      "n_analyzed": 70,
+      "n_completed": 69
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "procedural_success_index",
+      "name": "Successful PEG tube insertion at index procedure",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Index procedure",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 70,
+            "total": 72
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Descriptive proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All attempted",
+        "missing_handling": "Not applicable"
+      },
+      "provenance": {
+        "pages": [
+          438
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "Bedside PEG tube insertion was successfully completed in 70 of the 72 patients (97.2%)."
+      }
+    },
+    {
+      "concept_id": "procedural_complications_24h",
+      "name": "Immediate procedural complications (within 24 h)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P1D",
+      "timepoint_label": "Within 24 hours of procedure",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 0,
+            "total": 70
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Descriptive proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Successful PEG cohort",
+        "missing_handling": "Not applicable"
+      },
+      "provenance": {
+        "pages": [
+          438
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "No procedural complications were associated with PEG tube placement."
+      }
+    },
+    {
+      "concept_id": "cellulitis_anytime_followup",
+      "name": "Cellulitis at PEG site during follow-up",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": null,
+      "timepoint_label": "During follow-up",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 1,
+            "total": 70
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Descriptive proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Successful PEG cohort",
+        "missing_handling": "Not described"
+      },
+      "provenance": {
+        "pages": [
+          438
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": null,
+        "quote": "Mild cellulitis around the PEG tube insertion site developed in one patient (1.4%)."
+      }
+    },
+    {
+      "concept_id": "mortality_30d_allcause",
+      "name": "All-cause mortality at 30 days",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P30D",
+      "timepoint_label": "30 days",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 8,
+            "total": 70
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Kaplan-Meier estimate; descriptive count provided",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Successful PEG cohort",
+        "missing_handling": "Patients censored if follow-up <30 days"
+      },
+      "provenance": {
+        "pages": [
+          438
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": null,
+        "quote": "Thirty-day mortality for the entire cohort was 11.94% (eight patients)."
+      }
+    },
+    {
+      "concept_id": "mortality_365d_allcause",
+      "name": "All-cause mortality at 365 days",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P365D",
+      "timepoint_label": "365 days",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 33,
+            "total": 70
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Kaplan-Meier and descriptive proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Successful PEG cohort",
+        "missing_handling": "Censoring for incomplete follow-up"
+      },
+      "provenance": {
+        "pages": [
+          438,
+          439
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": null,
+        "quote": "The 1-year mortality rate was 75.7% (33 deaths). [Table lists 365 d, % 47.1]"
+      }
+    },
+    {
+      "concept_id": "peg_removed_anytime",
+      "name": "PEG tube removal during follow-up",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": null,
+      "timepoint_label": "During follow-up",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 27,
+            "total": 70
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Descriptive proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Successful PEG cohort",
+        "missing_handling": "Not described"
+      },
+      "provenance": {
+        "pages": [
+          438
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "PEG tube removal occurred in 27 patients, with a median time to removal of 76 days."
+      }
+    },
+    {
+      "concept_id": "procedural_failure_index",
+      "name": "Failure to complete PEG insertion at index attempt",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Index procedure",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 2,
+            "total": 72
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Descriptive proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All attempted",
+        "missing_handling": "Not applicable"
+      },
+      "provenance": {
+        "pages": [
+          438
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "PEG tube insertion was not completed in two patients (2.8%)."
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Cellulitis at PEG insertion site",
+      "meddra": {
+        "soc": "Infections and infestations",
+        "pt": "Cellulitis"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 1,
+          "patients": 1,
+          "percentage": 1.4,
+          "total": 70
+        }
+      ],
+      "period": "Post-procedure through follow-up",
+      "management": "More frequent dressing changes; patient was already receiving antibiotics for an unrelated infection",
+      "provenance": {
+        "pages": [
+          438
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "Mild cellulitis around the PEG tube insertion site developed in one patient (1.4%)... No PEG tubes were removed as a result of infection or malfunction."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "ROBINS-I",
+    "overall_judgment": "serious",
+    "domains": [
+      {
+        "name": "Confounding",
+        "judgment": "serious",
+        "support_for_judgment": "Single-arm observational cohort of critically ill ICU patients without control group; high risk of confounding and selection bias."
+      },
+      {
+        "name": "Selection of participants",
+        "judgment": "moderate",
+        "support_for_judgment": "All attempted PEGs by IP team included; potential unrecorded referrals to other services."
+      },
+      {
+        "name": "Classification of interventions",
+        "judgment": "low",
+        "support_for_judgment": "Intervention clearly defined as bedside PEG by IPs using pull-through technique."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "low",
+        "support_for_judgment": "Standardized procedural protocol with anesthesia and antibiotics; no evidence of deviations impacting outcomes."
+      },
+      {
+        "name": "Missing data",
+        "judgment": "moderate",
+        "support_for_judgment": "Follow-up available in 69/70 successful PEGs; time-at-risk varies; potential censoring affects long-term outcomes."
+      },
+      {
+        "name": "Measurement of outcomes",
+        "judgment": "low",
+        "support_for_judgment": "Procedural outcomes and complications based on hospital records and follow-up calls; objective outcomes (mortality, completion, complications)."
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "moderate",
+        "support_for_judgment": "Descriptive reporting with some discrepancies between text and table for 1-year mortality."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "percutaneous endoscopic gastrostomy",
+      "PEG",
+      "interventional pulmonology",
+      "ICU",
+      "bedside procedure",
+      "complications",
+      "mortality"
+    ],
+    "summary_tldr": "In a single-center ICU cohort (n=72), interventional pulmonologists achieved 70/72 (97.2%) successful bedside PEG placements with no immediate procedural complications; 30-day mortality was 8/70 and PEG removal occurred in 27/70 during follow-up.",
+    "clinical_relevance": "Demonstrates feasibility and safety of bedside PEG by interventional pulmonologists, enabling potential combined PEG and tracheostomy in ICU to streamline care."
+  }
+}

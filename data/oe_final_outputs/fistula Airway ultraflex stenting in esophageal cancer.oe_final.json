@@ -1,0 +1,504 @@
+{
+  "source": {
+    "document_id": "fistula Airway ultraflex stenting in esophageal cancer",
+    "ingest_date": "2025-08-08T12:17:22.123399+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": ""
+  },
+  "document": {
+    "metadata": {
+      "title": "Airway Ultraflex Stenting in Esophageal Cancer with Esophagorespiratory Fistula",
+      "year": 2012,
+      "authors": [
+        "Fu-Tsai Chung",
+        "Horng-Chyuan Lin",
+        "Chun-Liang Chou",
+        "Hao-Cheng Chen",
+        "Chih-Hsi Kuo",
+        "Chih-Teng Yu",
+        "Shu-Min Lin",
+        "Han-Pin Kuo"
+      ],
+      "journal": "The American Journal of the Medical Sciences",
+      "doi": "",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Introduction: Esophagorespiratory fistula (ERF) caused by esophageal cancer has a poor prognosis. This study describes the clinical effects of airway ultraflex stenting as an alternative method for ERF caused by esophageal cancer. Methods: In an university-affiliated hospital, consecutive patients with ERF caused by esophageal cancer and confirmed by bronchoscopy were included. The demography, clinical manifestations and survival between groups with and without airway stenting were compared by case-control study. Results: From 2001 to 2007, 817 patients with esophageal cancer received bronchoscopy. Among these patients, 59 patients with ERF were included in this study. The demography and clinical manifestations between groups with and without airway stenting were similar, but survival improved in group with airway stenting, which was compared using log-rank test [P = 0.04; hazard ratio, 0.56; 95% confidence interval (CI), 0.31-0.99]. After adjusted with age and gender by multinominal logistic regression, airway stenting [adjusted odds ratio (OR), 5.2; P = 0.01; 95% CI, 1.4-18.8], performance status (adjusted OR, 6.1; P = 0.004; 95% CI, 1.8-20.8), further treatment (adjusted OR, 8.7; P = 0.001; 95% CI, 2.3-32.8) and prolonged pneumonia (adjusted OR, 0.14; P = 0.008; 95% CI, 0.03-0.59) remained as significant factors that impacted survival. Conclusions: Surgical treatment remains the first choice in patients with esophageal cancer with ERF; however, the authors provided an alternative airway stenting for those patients whom surgery is unsuitable. It improved survival in the group with airway stenting than those without. Performance status improvement and further treatment for esophageal cancer may improve survival, but prolonged pneumonia may worsen survival.",
+      "methods": "Design: Retrospective case-control study at a university-affiliated hospital (IRB no. 99-0337B). Patients: From August 2001 to March 2007, consecutive esophageal cancer patients underwent routine bronchoscopy; those with ERF on bronchoscopy and confirmed by esophagography were included. None were candidates for surgery or rigid bronchoscopic stenting. Decision for SEMS: No institutional standard; patients referred by oncologists were suggested SEMS unless they refused. Stent implantation: Covered Ultraflex (Boston Scientific) SEMS placed via flexible bronchoscopy under sedation (midazolam before 2006 or propofol with BIS after 2006) and local anesthesia without fluoroscopic guidance. Guidewire-assisted deployment under bronchoscopic visualization. Monitoring included SpO2, blood pressure, ECG. Assessment of 90-day mortality factors: performance status improvement, previous treatment at ERF diagnosis, stage IV at ERF diagnosis, ERF location, prolonged pneumonia, and receipt of further treatment after ERF diagnosis. Statistics: Nonparametric tests (Mann-Whitney U; chi-square/Fisher’s exact). Multinomial logistic regression adjusting for age and gender to identify independent factors impacting 90-day mortality (reported as adjusted ORs with 95% CI). Survival analyzed by Kaplan-Meier with log-rank test. Software: SPSS v10.0; Prism 4.",
+      "results": "Of 817 esophageal cancer patients undergoing bronchoscopy, 59 had ERF and were included; 31 received airway SEMS and 28 did not. Baseline demographics, fistula site, stage, and prior treatments were similar between groups. Clinical manifestations (dyspnea, chronic cough, hemoptysis, respiratory failure) did not differ significantly between groups. Median survival from ERF diagnosis was 30 days (IQR 15-103). Median survival was 69 days (IQR 16-120) with SEMS vs 21 days (IQR 6-73) without. Survival favored SEMS (log-rank P = 0.04; HR 0.56; 95% CI 0.31-0.99). Univariate comparisons showed performance status improvement (67.7% vs 0%; P < 0.0001), receipt of further treatment after ERF diagnosis (41.9% vs 3.6%; P = 0.0005), and less prolonged pneumonia (58.1% vs 96.4%; P = 0.0005) in the SEMS group. Ninety-day mortality counts were 13/31 (41.9%) with SEMS vs 4/28 (14.3%) without (P = 0.02). In multivariable analysis adjusted for age and gender, performance status improvement (adjusted OR 6.1; P = 0.004; 95% CI 1.8-20.8), receipt of further treatment after ERF diagnosis (adjusted OR 8.7; P = 0.001; 95% CI 2.3-32.8), and prolonged pneumonia (adjusted OR 0.14; P = 0.008; 95% CI 0.03-0.59) were independently associated with 90-day mortality. No life-threatening complications from the stenting procedure were reported; mean stent placement time was 16.7 minutes (range 11.6-27.9)."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with esophageal cancer and esophagorespiratory fistula (ERF) confirmed by bronchoscopy and esophagography at a university-affiliated hospital in Taiwan (2001-2007).",
+      "inclusion_criteria": [
+        "Diagnosis of esophageal cancer",
+        "ERF identified on bronchoscopy",
+        "ERF confirmed by esophagography"
+      ],
+      "exclusion_criteria": [
+        "Candidates for surgery or rigid bronchoscopic stenting (none included due to illness severity, high surgical risk, or refusal)"
+      ]
+    },
+    "intervention": {
+      "text": "Airway covered Ultraflex self-expandable metallic stent (SEMS) placement",
+      "details": "Covered Ultraflex SEMS (Boston Scientific) placed via flexible bronchoscopy under sedation and local anesthesia without fluoroscopic guidance; guidewire-assisted deployment under bronchoscopic visualization."
+    },
+    "comparison": {
+      "text": "No airway SEMS",
+      "details": "Conservative/standard oncologic care without airway stent; some patients received further cancer treatment after ERF diagnosis per oncologist judgment."
+    },
+    "outcomes": [
+      {
+        "name": "Overall survival from ERF diagnosis",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "90-day all-cause mortality",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Performance status improvement",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Receipt of further cancer treatment after ERF diagnosis",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Prolonged pneumonia",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Retrospective case-control",
+    "allocation": "non-randomized",
+    "blinding": "none",
+    "sites_count": 1,
+    "countries": [
+      "Taiwan"
+    ],
+    "sample_size": {
+      "planned": 59,
+      "enrolled": 59,
+      "analyzed": 59
+    },
+    "analysis_populations": [
+      {
+        "name": "All included",
+        "description": "All patients meeting inclusion criteria",
+        "n": 59
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "Airway Ultraflex SEMS",
+      "n_randomized": 0,
+      "n_analyzed": 31,
+      "n_completed": 31
+    },
+    {
+      "arm_id": "control",
+      "name": "No airway SEMS",
+      "n_randomized": 0,
+      "n_analyzed": 28,
+      "n_completed": 28
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "overall_survival_from_erf",
+      "name": "Overall survival from ERF diagnosis",
+      "type": "time_to_event",
+      "outcome_type": "primary",
+      "timepoint_iso8601": null,
+      "timepoint_label": "From ERF diagnosis to death/censoring",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "total": 31
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "total": 28
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "hazard_ratio",
+        "est": 0.56,
+        "ci_lower": 0.31,
+        "ci_upper": 0.99,
+        "ci_level": 0.95,
+        "p_value": 0.04,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Kaplan-Meier with log-rank test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All included",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          107
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "The proportion of patients surviving with and without self-expandable metallic stent (SEMS) were traced after esophagorespiratory fistula (ERF) was diagnosed with the Kaplan-Meier method (31% versus 25%; log-rank test, P = 0.04; hazard ratio, 0.56; 95% confidence interval, 0.31-0.99)."
+      }
+    },
+    {
+      "concept_id": "mortality_90d",
+      "name": "90-day all-cause mortality",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P90D",
+      "timepoint_label": "90 days after ERF diagnosis/management",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 13,
+            "total": 31
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 4,
+            "total": 28
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": 0.276,
+        "ci_lower": 0.06,
+        "ci_upper": 0.493,
+        "ci_level": 0.95,
+        "p_value": 0.02,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Fisher's exact test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All included",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          108
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "90-day mortality: 13 (41.9) vs 4 (14.3), P = 0.02"
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 2.935
+        },
+        "odds_ratio": {
+          "est": 4.333
+        },
+        "arr": 0.276,
+        "nnt": 3.6
+      }
+    },
+    {
+      "concept_id": "performance_status_improvement",
+      "name": "Performance status improvement",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P90D",
+      "timepoint_label": "Assessed after ERF diagnosis/management up to 90 days",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 21,
+            "total": 31
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 0,
+            "total": 28
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": 0.677,
+        "ci_lower": 0.512,
+        "ci_upper": 0.842,
+        "ci_level": 0.95,
+        "p_value": 0.0001,
+        "p_operator": "<",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Fisher's exact test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All included",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          108
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "Performance status improvement: 21 (67.7) vs 0 (0), P < 0.0001"
+      },
+      "derived": {
+        "arr": 0.677,
+        "nnt": 1.5
+      }
+    },
+    {
+      "concept_id": "further_treatment_after_erf",
+      "name": "Receipt of further cancer treatment after ERF diagnosis",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P90D",
+      "timepoint_label": "Within 90 days after ERF diagnosis",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 13,
+            "total": 31
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 1,
+            "total": 28
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": 0.384,
+        "ci_lower": 0.197,
+        "ci_upper": 0.57,
+        "ci_level": 0.95,
+        "p_value": 0.0005,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Fisher's exact test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All included",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          108
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "Received further treatment after ERF diagnosis: 13 (41.9) vs 1 (3.6), P = 0.0005"
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 11.742
+        },
+        "odds_ratio": {
+          "est": 19.5
+        },
+        "arr": 0.384,
+        "nnt": 2.6
+      }
+    },
+    {
+      "concept_id": "prolonged_pneumonia",
+      "name": "Prolonged pneumonia",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P90D",
+      "timepoint_label": "Within 90 days after ERF diagnosis",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 18,
+            "total": 31
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 27,
+            "total": 28
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": -0.383,
+        "ci_lower": -0.569,
+        "ci_upper": -0.197,
+        "ci_level": 0.95,
+        "p_value": 0.0005,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Fisher's exact test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All included",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          108
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "Prolonged pneumonia: 18 (58.1) vs 27 (96.4), P = 0.0005"
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.602
+        },
+        "odds_ratio": {
+          "est": 0.051
+        },
+        "arr": -0.384,
+        "nnh": 2.6
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Pneumonia",
+      "meddra": {
+        "soc": "Infections and infestations",
+        "pt": "Pneumonia"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "other_medically_important_condition"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 18,
+          "patients": 18,
+          "percentage": 58.1,
+          "total": 31
+        },
+        {
+          "arm_id": "control",
+          "events": 27,
+          "patients": 27,
+          "percentage": 96.4,
+          "total": 28
+        }
+      ],
+      "period": "Up to 90 days after ERF diagnosis",
+      "management": "",
+      "provenance": {
+        "pages": [
+          108
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "quote": "Prolonged pneumonia: 18 (58.1) vs 27 (96.4), P = 0.0005"
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "ROBINS-I",
+    "overall_judgment": "serious",
+    "domains": [
+      {
+        "name": "Bias due to confounding",
+        "judgment": "serious",
+        "support_for_judgment": "Non-randomized case-control with potential selection bias; differences in receipt of further treatment and performance status."
+      },
+      {
+        "name": "Bias in selection of participants into the study",
+        "judgment": "moderate",
+        "support_for_judgment": "Consecutive series with inclusion based on ERF; decision to refer for SEMS not standardized."
+      },
+      {
+        "name": "Bias in classification of interventions",
+        "judgment": "low",
+        "support_for_judgment": "Clear distinction between SEMS vs no SEMS."
+      },
+      {
+        "name": "Bias due to deviations from intended interventions",
+        "judgment": "moderate",
+        "support_for_judgment": "Further treatments after ERF differed between groups."
+      },
+      {
+        "name": "Bias due to missing data",
+        "judgment": "low",
+        "support_for_judgment": "All 59 included and analyzed."
+      },
+      {
+        "name": "Bias in measurement of outcomes",
+        "judgment": "low",
+        "support_for_judgment": "Mortality and survival objectively measured."
+      },
+      {
+        "name": "Bias in selection of the reported result",
+        "judgment": "moderate",
+        "support_for_judgment": "Limited reporting of effect sizes and no pre-specified primary outcome stated."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "esophagorespiratory fistula",
+      "esophageal cancer",
+      "airway stent",
+      "Ultraflex",
+      "self-expandable metallic stent",
+      "bronchoscopy",
+      "survival"
+    ],
+    "summary_tldr": "In 59 patients with ERF due to esophageal cancer, flexible bronchoscopic placement of covered Ultraflex airway stents was feasible and associated with improved overall survival (HR 0.56; P = 0.04) versus no stent; performance status improvement and receipt of further treatment were key predictors, while prolonged pneumonia worsened outcomes.",
+    "clinical_relevance": "Supports airway SEMS as a palliative option for unresectable esophageal cancer with ERF when surgery or rigid bronchoscopy is unsuitable; highlights importance of performance status and subsequent oncologic therapy."
+  }
+}

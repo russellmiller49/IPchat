@@ -1,0 +1,569 @@
+{
+  "source": {
+    "document_id": "Shi-2014-Outcome and safety of the Montgomery",
+    "ingest_date": "2025-08-08T15:54:17.641233+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1159/000362244"
+  },
+  "document": {
+    "metadata": {
+      "title": "Outcome and Safety of the Montgomery T-Tube for Laryngotracheal Stenosis: A Single-Center Retrospective Analysis of 546 Cases",
+      "year": 2014,
+      "authors": [
+        "Song Shi",
+        "Donghui Chen",
+        "Xiaoyu Li",
+        "Wu Wen",
+        "Xiaohua Shen",
+        "Feng Liu",
+        "Shicai Chen",
+        "Hongliang Zheng"
+      ],
+      "journal": "ORL; Journal for Oto-Rhino-Laryngology and Its Related Specialties",
+      "doi": "10.1159/000362244",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Objective: We retrospectively analyzed the surgical outcome and safety of the Montgomery T-tube for laryngotracheal stenosis. Methods: The patients with laryngotracheal stenosis who had undergone T-tube placement between 1996 and 2010 were reviewed. The severity of the stenosis was evaluated using the Cotton-Myer staging method. The primary endpoint was the rate of successful extubation and the secondary endpoint was safety. Results: 546 patients were eligible. T-tubes were successfully extubated in 342 patients 6-24 months following intubation. The initial extubation success rate was 62.3%. Laryngotracheal restenosis following extubation occurred in 192 patients, necessitating T-tube placement for a second time. The success rate for the second attempt was 58.9%. The overall success rate was 83.3%. Hemoptysis was reported in 8 patients, postoperative infection in 6 patients, wound dehiscence in 3 patients, laryngeal obstruction in 13 patients, aspiration in 12 patients, and postoperative tracheoesophageal fistula in 2 patients. Conclusion: This large clinical series demonstrated the safety and effectiveness of the T-tube for grade 1 and 2 stenosis with stenosed segments of <6 cm. For those being >6 cm, tracheal end-to-end anastomosis is not appropriate and long-term placement of a T-tube is recommended. Our findings provide useful guidance for preoperatively selecting patients with laryngotracheal stenosis of various causes and differing severity.",
+      "methods": "Retrospective review of patients with laryngotracheal stenosis who underwent Montgomery T-tube placement between May 1996 and May 2010 at Changhai Hospital, Shanghai, China. Inclusion criteria: diagnosed laryngotracheal stenosis with cross-sectional area of stenosis >70%, progressive breathing difficulty, and apparent inflammation or granulation on tracheoscopy. Tracheoscopy was performed in all; tracheal CT reconstruction as needed. Stenosis categorized by site (tracheal, laryngeal, laryngotracheal). Severity graded by Cotton-Myer staging. T-tube placement combined with surgery based on stenosis length/extent; sizes 10/12/14 mm selected per age/sex/body size and endoscopic/CT findings. Placement after laryngotracheofissure with preservation of normal mucosa, scar excision, and cartilage reduction; tube extended ~1 cm beyond both ends of stenosis. Adjunct procedures included laryngofissure, laser scar removal, cricoidectomy with laryngofissure, cricoid widening using hyoid bone if needed, and laser arytenoidectomy for bilateral vocal cord paralysis. Follow-up: clinic visits every 3 months in year 1, then every 6 months; extubation typically 6-12 months post-placement depending on stenosis; outcomes assessed up to 24 months. Primary endpoint: successful extubation rate. Secondary endpoint: safety (complications). Statistical analysis used SPSS 16.0; chi-square tests for group differences, ANOVA for three-group comparisons; significance at p < 0.05.",
+      "results": "546 patients met inclusion criteria. Median age 35 years (range 12-65); 337 male and 209 female. Causes: neck trauma 332 (60.8%), post-intubation 146 (26.7%), post-laryngotracheal tumor resection 35 (6.4%), chemical burns 25 (4.6%), unknown 8 (1.5%). Sites: tracheal 319 (58.4%), laryngeal 155 (28.4%), laryngotracheal 72 (13.2%). Cotton-Myer grade: I 338 (61.9%), II 118 (21.6%), III 69 (12.6%), IV 21 (3.9%). Mean follow-up 13 months (range 6-24); 12 (2.2%) lost to follow-up. Initial extubation success in 342 patients (62.6%) at 6-24 months post-intubation; initial success rate 62.3%. Restenosis after extubation in 192 patients (35.2%), requiring second T-tube; second extubation success in 113 (58.9%). Overall success 83.3%. By site, initial extubation success was higher in tracheal stenosis (76.2%) vs laryngeal (52.9%) and laryngotracheal (41.2%) (p < 0.05). By grade, initial success decreased with higher Cotton-Myer grades: I 70.4%, II 56.8%, III 44.9%, IV 28.6% (pairwise p < 0.05). Complications: hemoptysis 8 (1.5%), postoperative infection 6 (1.1%), wound dehiscence 3 (0.5%), laryngeal obstruction 13 (2.4%), aspiration 12 (2.2%), postoperative tracheoesophageal fistula 2 (0.4%)."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Patients with laryngotracheal stenosis treated at a single tertiary center undergoing Montgomery T-tube placement.",
+      "inclusion_criteria": [
+        "Diagnosed laryngotracheal stenosis with cross-sectional area reduction >70%",
+        "Progressive breathing difficulty",
+        "Apparent inflammation or granulation observed during tracheoscopy"
+      ],
+      "exclusion_criteria": []
+    },
+    "intervention": {
+      "text": "Montgomery T-tube placement with adjunct airway reconstructive procedures as indicated",
+      "details": "Silicone T-tube (10/12/14 mm diameter) selected by age/sex/body size and endoscopy/CT; laryngotracheofissure; scar excision; cartilage reduction; tube length ~1 cm beyond stenosis margins; adjuncts included laryngofissure, laser scar removal, cricoidectomy with laryngofissure, cricoid widening with hyoid bone, and laser arytenoidectomy when indicated; planned extubation typically 6-12 months post-placement with follow-up to 24 months."
+    },
+    "comparison": {
+      "text": "None (single-arm retrospective cohort)",
+      "details": "No concurrent control group"
+    },
+    "outcomes": [
+      {
+        "name": "Successful initial extubation",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Successful second extubation among those re-intubated",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Overall successful extubation by end of follow-up",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Restenosis after initial extubation requiring re-intubation",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Safety (postoperative complications)",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Retrospective cohort",
+    "allocation": "none",
+    "blinding": "none",
+    "sites_count": 1,
+    "countries": [
+      "China"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 546,
+      "analyzed": 546
+    },
+    "analysis_populations": [
+      {
+        "name": "All treated",
+        "description": "All included patients who underwent T-tube placement",
+        "n": 546
+      },
+      {
+        "name": "Second-intubation subgroup",
+        "description": "Patients with restenosis after initial extubation who underwent second T-tube placement",
+        "n": 192
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "Montgomery T-tube cohort",
+      "n_randomized": 0,
+      "n_analyzed": 546,
+      "n_completed": 534
+    },
+    {
+      "arm_id": "control",
+      "name": "No control (single-arm study)",
+      "n_randomized": 0,
+      "n_analyzed": 0,
+      "n_completed": 0
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "successful_initial_extubation",
+      "name": "Successful initial extubation after T-tube",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P24M",
+      "timepoint_label": "6-24 months post-intubation",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 342,
+            "total": 546
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 0,
+            "total": 0
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "single_group_proportion",
+        "est": 0.626,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated",
+        "missing_handling": "12 patients (2.2%) lost to follow-up; reported proportions use N=546",
+        "subgroup_analyses": [
+          {
+            "name": "By stenosis site (tracheal vs laryngeal vs laryngotracheal)",
+            "p_value": 0.05,
+            "p_operator": "<",
+            "test": "chi-square"
+          },
+          {
+            "name": "By Cotton-Myer grade (I vs II vs III vs IV)",
+            "p_value": 0.05,
+            "p_operator": "<",
+            "test": "chi-square"
+          }
+        ]
+      },
+      "provenance": {
+        "pages": [
+          317
+        ],
+        "tables": [],
+        "quote": "T-tubes were successfully extubated in 342 (62.6%) patients 6-24 months following intubation. The initial extubation success rate was 62.3%."
+      },
+      "derived": {
+        "arr": 0.626,
+        "nnt": 1.6
+      }
+    },
+    {
+      "concept_id": "successful_second_extubation",
+      "name": "Successful second extubation among those re-intubated",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P24M",
+      "timepoint_label": "Up to 24 months after second intubation",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 113,
+            "total": 192
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 0,
+            "total": 0
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "single_group_proportion",
+        "est": 0.589,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Second-intubation subgroup",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          317
+        ],
+        "tables": [],
+        "quote": "Laryngotracheal restenosis following extubation occurred in 192 patients, necessitating T-tube placement for a second time. The success rate for the second attempt was 58.9%."
+      },
+      "derived": {
+        "arr": 0.589,
+        "nnt": 1.7
+      }
+    },
+    {
+      "concept_id": "overall_successful_extubation",
+      "name": "Overall successful extubation by end of follow-up",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P24M",
+      "timepoint_label": "End of follow-up (up to 24 months)",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 455,
+            "total": 546
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 0,
+            "total": 0
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "single_group_proportion",
+        "est": 0.833,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated",
+        "missing_handling": "Not detailed; overall success reported by authors"
+      },
+      "provenance": {
+        "pages": [
+          317
+        ],
+        "tables": [
+          "Table 4"
+        ],
+        "table_number": 4,
+        "quote": "The overall success rate was 83.3%."
+      },
+      "derived": {
+        "arr": 0.833,
+        "nnt": 1.2
+      }
+    },
+    {
+      "concept_id": "restenosis_after_initial_extubation",
+      "name": "Restenosis after initial extubation requiring second T-tube",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P24M",
+      "timepoint_label": "After initial extubation during follow-up",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 192,
+            "total": 342
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 0,
+            "total": 0
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "single_group_proportion",
+        "est": 0.561,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Patients with successful initial extubation",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          317
+        ],
+        "tables": [],
+        "quote": "Laryngotracheal restenosis following extubation occurred in 192 patients, necessitating T-tube placement for a second time."
+      },
+      "derived": {
+        "arr": 0.561,
+        "nnt": 1.8
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Hemoptysis",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Haemoptysis"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 8,
+          "patients": 8,
+          "percentage": 1.5,
+          "total": 546
+        }
+      ],
+      "period": "Postoperative follow-up (up to 24 months)",
+      "management": "",
+      "provenance": {
+        "pages": [
+          319
+        ],
+        "tables": [],
+        "quote": "Hemoptysis was reported in 8 patients (1.5%)."
+      }
+    },
+    {
+      "event_name": "Postoperative infection",
+      "meddra": {
+        "soc": "Infections and infestations",
+        "pt": "Postoperative infection"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 6,
+          "patients": 6,
+          "percentage": 1.1,
+          "total": 546
+        }
+      ],
+      "period": "Postoperative follow-up (up to 24 months)",
+      "management": "",
+      "provenance": {
+        "pages": [
+          319
+        ],
+        "tables": [],
+        "quote": "Postoperative infection in 6 patients (1.1%)."
+      }
+    },
+    {
+      "event_name": "Wound dehiscence",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Wound dehiscence"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 3,
+          "patients": 3,
+          "percentage": 0.5,
+          "total": 546
+        }
+      ],
+      "period": "Postoperative follow-up (up to 24 months)",
+      "management": "",
+      "provenance": {
+        "pages": [
+          319
+        ],
+        "tables": [],
+        "quote": "Wound dehiscence in 3 patients (0.5%)."
+      }
+    },
+    {
+      "event_name": "Laryngeal obstruction",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Laryngeal obstruction"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 13,
+          "patients": 13,
+          "percentage": 2.4,
+          "total": 546
+        }
+      ],
+      "period": "Postoperative follow-up (up to 24 months)",
+      "management": "",
+      "provenance": {
+        "pages": [
+          319
+        ],
+        "tables": [],
+        "quote": "Laryngeal obstruction in 13 patients (2.4%)."
+      }
+    },
+    {
+      "event_name": "Pulmonary aspiration",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Pulmonary aspiration"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 12,
+          "patients": 12,
+          "percentage": 2.2,
+          "total": 546
+        }
+      ],
+      "period": "Postoperative follow-up (up to 24 months)",
+      "management": "",
+      "provenance": {
+        "pages": [
+          319
+        ],
+        "tables": [],
+        "quote": "Aspiration in 12 patients (2.2%)."
+      }
+    },
+    {
+      "event_name": "Tracheoesophageal fistula",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Tracheoesophageal fistula"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 2,
+          "patients": 2,
+          "percentage": 0.4,
+          "total": 546
+        }
+      ],
+      "period": "Postoperative follow-up (up to 24 months)",
+      "management": "",
+      "provenance": {
+        "pages": [
+          319
+        ],
+        "tables": [],
+        "quote": "Postoperative tracheoesophageal fistula in 2 patients (0.4%)."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "ROBINS-I",
+    "overall_judgment": "serious",
+    "domains": [
+      {
+        "name": "Confounding",
+        "judgment": "serious",
+        "support_for_judgment": "Single-arm retrospective cohort without control; potential confounding by indication and severity"
+      },
+      {
+        "name": "Selection of participants",
+        "judgment": "moderate",
+        "support_for_judgment": "Inclusion based on clinical criteria; retrospective identification may introduce selection bias"
+      },
+      {
+        "name": "Classification of interventions",
+        "judgment": "low",
+        "support_for_judgment": "All participants received the Montgomery T-tube"
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "moderate",
+        "support_for_judgment": "Adjunct surgical procedures varied by patient condition"
+      },
+      {
+        "name": "Missing data",
+        "judgment": "low",
+        "support_for_judgment": "Loss to follow-up reported as 12/546 (2.2%)"
+      },
+      {
+        "name": "Measurement of outcomes",
+        "judgment": "moderate",
+        "support_for_judgment": "Outcome assessment based on clinical follow-up; potential for assessment bias without blinding"
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "moderate",
+        "support_for_judgment": "Multiple subgroup analyses reported; no prespecified analysis plan"
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "Montgomery T-tube",
+      "laryngotracheal stenosis",
+      "tracheal stenosis",
+      "extubation success",
+      "complications",
+      "Cotton-Myer grade"
+    ],
+    "summary_tldr": "In a 546-patient retrospective cohort, Montgomery T-tube placement achieved 62.6% initial extubation success, 58.9% second-attempt success after restenosis, and 83.3% overall success, with low rates of complications.",
+    "clinical_relevance": "Findings support T-tube use particularly for Cotton-Myer grade I-II stenosis and suggest long-term T-tube placement for stenosis >6 cm where resection is unsuitable."
+  }
+}

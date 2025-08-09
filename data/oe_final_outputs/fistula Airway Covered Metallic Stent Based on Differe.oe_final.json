@@ -1,0 +1,621 @@
+{
+  "source": {
+    "document_id": "fistula Airway Covered Metallic Stent Based on Differe",
+    "ingest_date": "2025-08-08T12:13:54.044306+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": ""
+  },
+  "document": {
+    "metadata": {
+      "title": "Airway Covered Metallic Stent Based on Different Fistula Location and Size in Malignant Tracheoesophageal Fistula",
+      "year": 2015,
+      "authors": [
+        "Hongwu Wang",
+        "Meimei Tao",
+        "Nan Zhang",
+        "Dongmei Li",
+        "Hang Zou",
+        "Jieli Zhang",
+        "Lingfei Luo",
+        "Hongming Ma",
+        "Yunzhi Zhou"
+      ],
+      "journal": "The American Journal of the Medical Sciences",
+      "doi": "",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Background: Malignant tracheoesophageal fistula (MTEF) is a devastating complication of esophageal cancer, lung cancer or other carcinoma with a shorter life-span and poor life quality. The aim of this study was to assess the effect of airway stent insertion on MTEF patients. Methods: A total of 63 MTEF patients were included, 12 patients with lung cancer and 46 patients with esophageal cancers. Eight zones were proposed to classify various fistula locations. Airway stents were selected based on the various zones and fistula size. Results: Airway stents were successfully inserted in all patients, and both airway and esophageal stents in 8 patients. Most fistula were located in locations II (18/63, 28.6%), III (22/63, 34.9%), then VII (9/63, 14.3%). The stents included 10 (15.9%) I shaped, 8 (12.7%) L shaped and 45 (71.4%) Y shaped. Different stents were placed based on different locations and sizes of fistulas. Overall, mean survival time was 163 days (2-270 days). Most symptoms relieved after stent insertion. Mean Karnofsky score jumped from 43.0 ± 10.7 before stent placement to 66.7 ± 10.8 after stent insertion (P < 0.001). Complete closure was achieved in 45 patients (71.4%), and incomplete closure and leakage were found in 18 patients. Conclusions: Airway stent insertion provides an effective approach to improve symptoms and quality of life. The choice of stent based on different fistula location and size may be a reasonable way in clinical practice.",
+      "methods": "This investigation was a retrospective study approved by the Meitan General Hospital Institutional Review Board (IRB no. 2006.08). A total of 63 patients with malignant inoperable MTEF were treated using covered metallic airway stents from September 2006 to February 2014. Inclusion considered patients not suitable for surgery due to illness severity, higher surgical risk, or refusal, and who met at least one of: esophagus unsuitable for stenting, respiratory complications due to esophageal stent only, or airway stenosis. Airway stent choice (I-, L-, or Y-shaped Micro-Tech covered metallic stents) was based on an 8-zone airway location classification and fistula size (<1 cm vs >1 cm). Y stents were implanted with rigid bronchoscopy under general anesthesia; other stents with flexible bronchoscopy under general anesthesia. Baseline characteristics, fistula site, prior therapy, procedural success, symptom relief, and complications were recorded. Follow-up occurred at 1 month, then every 2 months or as needed; KPS was assessed pre-stent and at 1 month. Categorical data were analyzed with chi-square test; paired t test for manifestations before and after treatment; survival by Kaplan-Meier.",
+      "results": "All 63 patients underwent airway stent insertion; 8 patients (12.7%) also received esophageal stents. Fistula locations: II (18/63, 28.6%), III (22/63, 34.9%), VII (9/63, 14.3%). Stents used: I-shaped 10 (15.9%), L-shaped 8 (12.7%), Y-shaped 45 (71.4%); 34 Y-shaped stents were placed in locations II and III. Symptoms before vs after stent placement: dyspnea 25/63 (39.7%) vs 2/63 (3.2%), P < 0.001; cough 63/63 (100%) vs 15/63 (23.8%), P < 0.001; pulmonary infection 63/63 (100%) vs 10/63 (15.9%), P < 0.001. Mean KPS increased from 43.0 ± 10.7 to 66.7 ± 10.8 (P < 0.001). Complete fistula closure occurred in 45/63 (71.4%); 18 had incomplete closure/leakage but stents were not removed due to clinical improvement. Complications: all patients had secretions adherence; chest pain in 28/63 (44.5%), with 2 stent removals due to intolerable pain; stent migration in 2/63 at days 3 and 4, both repositioned; massive haemoptysis in 2 patients with double stenting at days 30 and 65, both fatal within 2 days; airway restenosis in 2/63 at days 60 and 85 due to tumor progression. Median survival from stent insertion was 163 days (range 2-270). Causes of death included haemoptysis (n=2), malnutrition/cachexia (n=35), pneumonia/respiratory failure (n=17; including 2 after stent removal), acute myocardial infarction (n=2), airway restenosis (n=2), unclear (n=5)."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with malignant, inoperable tracheoesophageal fistula treated at a single center.",
+      "inclusion_criteria": [
+        "Malignant tracheoesophageal fistula (MTEF)",
+        "Inoperable or not suitable for surgery due to illness severity, high surgical risk, or refusal",
+        "At least one of: esophagus unsuitable for stenting; respiratory complications due to esophageal stent only; airway stenosis"
+      ],
+      "exclusion_criteria": []
+    },
+    "intervention": {
+      "text": "Covered metallic airway stent implantation",
+      "details": "Micro-Tech (Nanjing, China) covered metallic airway stents (I-, L-, Y-shaped) selected based on an 8-zone airway location classification and fistula size (<1 cm vs >1 cm). Y-shaped stents via rigid bronchoscopy under general anesthesia; other stents via flexible bronchoscopy under general anesthesia. Additional esophageal stent placed if airway stent did not adequately close fistula."
+    },
+    "comparison": {
+      "text": "No concurrent control (single-arm pre-post comparison)",
+      "details": "Symptoms and KPS compared before and after stent placement within the same patients."
+    },
+    "outcomes": [
+      {
+        "name": "Symptom relief (dyspnea, cough, pulmonary infection) at 1 month",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Karnofsky Performance Status (KPS) change at 1 month",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Fistula complete closure after stenting",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Overall survival from stent insertion",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "retrospective cohort",
+    "allocation": "non-randomized",
+    "blinding": "open-label",
+    "sites_count": 1,
+    "countries": [
+      "CN"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 63,
+      "analyzed": 63
+    },
+    "analysis_populations": [
+      {
+        "name": "All treated",
+        "description": "All patients who received an airway stent",
+        "n": 63
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "After stent placement",
+      "n_randomized": 0,
+      "n_analyzed": 63,
+      "n_completed": 63
+    },
+    {
+      "arm_id": "control",
+      "name": "Before stent placement (pre-intervention baseline)",
+      "n_randomized": 0,
+      "n_analyzed": 63,
+      "n_completed": 63
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "dyspnea_present_1m",
+      "name": "Dyspnea present at 1 month",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P1M",
+      "timepoint_label": "1 month",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 2,
+            "total": 63
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 25,
+            "total": 63
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": -0.365,
+        "p_value": 0.001,
+        "p_operator": "<",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Chi-square test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          366
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "quote": "Dyspnea 25 (39.7%) versus 2 (3.2%); P = 0.000"
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.08
+        },
+        "odds_ratio": {
+          "est": 0.05
+        },
+        "arr": -0.365,
+        "nnh": 2.7
+      }
+    },
+    {
+      "concept_id": "cough_present_1m",
+      "name": "Cough present at 1 month",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P1M",
+      "timepoint_label": "1 month",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 15,
+            "total": 63
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 63,
+            "total": 63
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": -0.762,
+        "p_value": 0.001,
+        "p_operator": "<",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Chi-square test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          366
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "quote": "Cough 63 (100%) versus 15 (23.8%); P = 0.000"
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.238
+        },
+        "arr": -0.762,
+        "nnh": 1.3
+      }
+    },
+    {
+      "concept_id": "pulmonary_infection_present_1m",
+      "name": "Pulmonary infection present at 1 month",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P1M",
+      "timepoint_label": "1 month",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 10,
+            "total": 63
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 63,
+            "total": 63
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": -0.841,
+        "p_value": 0.001,
+        "p_operator": "<",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Chi-square test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          366
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "quote": "Pulmonary infection 63 (100%) versus 10 (15.9%); P = 0.000"
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.159
+        },
+        "arr": -0.841,
+        "nnh": 1.2
+      }
+    },
+    {
+      "concept_id": "kps_change_1m",
+      "name": "Karnofsky Performance Status (KPS) change at 1 month",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P1M",
+      "unit": "score",
+      "unit_canonical": "score",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": 66.7,
+            "sd": 10.8,
+            "total": 63
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "mean": 43.0,
+            "sd": 10.7,
+            "total": 63
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "mean_difference",
+        "est": 23.7,
+        "p_value": 0.001,
+        "p_operator": "<",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Paired t-test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          366
+        ],
+        "tables": [],
+        "quote": "Mean KPS was 43.0 ± 10.7 before stent placement and 66.7 ± 10.8 after stent placement (P = 0.000)"
+      }
+    },
+    {
+      "concept_id": "tef_complete_closure",
+      "name": "Complete fistula closure after stenting",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Post-procedure",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 45,
+            "total": 63
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          365
+        ],
+        "tables": [],
+        "quote": "Complete closure was achieved in 45 patients (71.4%), and incomplete closure and leakage were found in 18 patients."
+      }
+    },
+    {
+      "concept_id": "overall_survival_post_stent",
+      "name": "Overall survival from stent insertion",
+      "type": "time_to_event",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "From stent insertion",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "median": 163,
+            "min": 2,
+            "max": 270,
+            "total": 63
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Kaplan-Meier",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          366,
+          367
+        ],
+        "tables": [],
+        "quote": "The median survival time (from stent insertion to death) was 163 days (2-270 days)."
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Retention of tracheobronchial secretions",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Retention of tracheobronchial secretions"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 63,
+          "patients": 63,
+          "percentage": 100,
+          "total": 63
+        }
+      ],
+      "period": "Post-procedure (unspecified duration)",
+      "management": "Airway toilet as needed (not specified)",
+      "provenance": {
+        "pages": [
+          366
+        ],
+        "tables": [],
+        "quote": "All patients developed secretions adhered to the stents."
+      }
+    },
+    {
+      "event_name": "Chest pain",
+      "meddra": {
+        "soc": "General disorders and administration site conditions",
+        "pt": "Chest pain"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 28,
+          "patients": 28,
+          "percentage": 44.4,
+          "total": 63
+        }
+      ],
+      "period": "Within 2 weeks post-implant",
+      "management": "Stent removal in 2/28 due to intolerable pain; others resolved gradually without intervention",
+      "provenance": {
+        "pages": [
+          366
+        ],
+        "tables": [],
+        "quote": "Twenty-eight patients (44.5%) had chest pain and the airway stents were removed from 2 patients due to intolerable pain and the symptom relieved gradually in other patients within 2 weeks without any intervention."
+      }
+    },
+    {
+      "event_name": "Device migration",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Device migration"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "other_medically_important_event"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 2,
+          "patients": 2,
+          "percentage": 3.2,
+          "total": 63
+        }
+      ],
+      "period": "Days 3-4 post-implant",
+      "management": "Stents were repositioned",
+      "provenance": {
+        "pages": [
+          366
+        ],
+        "tables": [],
+        "quote": "Two patients developed stents migration at 3 and 4 days after the implantation and then stents were repositioned."
+      }
+    },
+    {
+      "event_name": "Granulation tissue",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Granulation tissue"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 25,
+          "patients": 25,
+          "percentage": 39.7,
+          "total": 63
+        }
+      ],
+      "period": "Post-procedure (follow-up; unspecified timing)",
+      "management": "Endoscopic management as indicated (follow-up more frequent if granulation tissue grew)",
+      "provenance": {
+        "pages": [
+          366
+        ],
+        "tables": [
+          "Table 2 (Complications)"
+        ],
+        "quote": "Granulation 25"
+      }
+    },
+    {
+      "event_name": "Haemoptysis",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Haemoptysis"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "death"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 2,
+          "patients": 2,
+          "percentage": 3.2,
+          "total": 63
+        }
+      ],
+      "period": "Days 30 and 65 post-implant (in double stenting)",
+      "management": "Fatal within 2 days after onset",
+      "provenance": {
+        "pages": [
+          366
+        ],
+        "tables": [],
+        "quote": "Massive haemoptysis occurred in 2 patients with double stenting at 30 and 65 days. Both patients died within 2 days after the onset of bleeding."
+      }
+    },
+    {
+      "event_name": "Airway restenosis",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Airway stenosis"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "other_medically_important_event"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 2,
+          "patients": 2,
+          "percentage": 3.2,
+          "total": 63
+        }
+      ],
+      "period": "Days 60 and 85 post-implant",
+      "management": "Patients refused further interventions; supportive therapy only",
+      "provenance": {
+        "pages": [
+          366
+        ],
+        "tables": [],
+        "quote": "Airway restenosis occurred in 2 patients due to the progression of tumor at 60 and 85 days. They refused any further adjustment except supportive therapy until death."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "ROBINS-I",
+    "overall_judgment": "serious",
+    "domains": [
+      {
+        "name": "Confounding",
+        "judgment": "serious",
+        "support_for_judgment": "Single-arm retrospective design without control group; no adjustment for confounders."
+      },
+      {
+        "name": "Selection of participants",
+        "judgment": "moderate",
+        "support_for_judgment": "Consecutive patients at a single center; eligibility based on clinical criteria but potential selection bias."
+      },
+      {
+        "name": "Classification of interventions",
+        "judgment": "low",
+        "support_for_judgment": "Intervention clearly defined as covered metallic airway stenting."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "moderate",
+        "support_for_judgment": "Some patients received additional esophageal stents based on response."
+      },
+      {
+        "name": "Missing data",
+        "judgment": "low",
+        "support_for_judgment": "Outcomes reported for all 63 patients; follow-up described."
+      },
+      {
+        "name": "Measurement of outcomes",
+        "judgment": "moderate",
+        "support_for_judgment": "Symptom outcomes based on clinical assessment; potential measurement bias not blinded."
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "moderate",
+        "support_for_judgment": "Pre-post comparisons reported; limited statistical detail and no prespecified protocol."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "malignant tracheoesophageal fistula",
+      "airway stent",
+      "covered metallic stent",
+      "Y-shaped stent",
+      "bronchoscopy",
+      "Karnofsky Performance Status"
+    ],
+    "summary_tldr": "In 63 patients with malignant tracheoesophageal fistula, covered metallic airway stents achieved 71.4% fistula closure, significantly reduced dyspnea, cough, and pulmonary infection at 1 month, and improved KPS by 23.7 points; median survival was 163 days.",
+    "clinical_relevance": "Supports airway stenting as effective palliation for malignant tracheoesophageal fistula with symptom relief and improved quality of life; stent selection guided by fistula location and size."
+  }
+}

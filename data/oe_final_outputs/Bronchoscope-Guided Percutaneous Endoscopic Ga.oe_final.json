@@ -1,0 +1,533 @@
+{
+  "source": {
+    "document_id": "Bronchoscope-Guided Percutaneous Endoscopic Ga",
+    "ingest_date": "2025-08-08T10:26:43.010817+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1177/0885066618800275"
+  },
+  "document": {
+    "metadata": {
+      "title": "Bronchoscope-Guided Percutaneous Endoscopic Gastrostomy Tube Placement by Interventional Pulmonologists: A Feasibility and Safety Study",
+      "year": 2020,
+      "authors": [
+        "Erik Folch",
+        "Fayez Kheir",
+        "Amit Mahajan",
+        "Daniel Alape",
+        "Omar Ibrahim",
+        "Eugene Shostak",
+        "Adnan Majid"
+      ],
+      "journal": "Journal of Intensive Care Medicine",
+      "doi": "10.1177/0885066618800275",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Background: Percutaneous endoscopic gastrostomy (PEG) tube placement is a procedure frequently done in the intensive care unit. The use of a traditional endoscope can be difficult in cases of esophageal stenosis and theoretically confers an increased risk of infection due to its complex architecture. We describe a technique using the bronchoscope, which allows navigation through stenotic esophageal lesions and also minimizes the risk of endoscopy-associated infections. Methods: Prospective series of patients who had PEG tube placement guided by a bronchoscope. Procedural outcomes including successful placement, duration of the entire procedure, time needed for passage of the bronchoscope from the oropharynx to the major curvature, PEG tube removal rate, and mortality were collected. Procedural adverse events, including infections and long-term PEG-related complications, were recorded. Results: A total of 84 patients underwent bronchoscope-guided PEG tube placement. Percutaneous endoscopic gastrostomy tube insertion was completed successfully in 82 (97.6%) patients. Percutaneous endoscopic gastrostomy tube placement was performed immediately following percutaneous tracheostomy in 82.1%. Thirty-day mortality and 1-year mortality were 11.9% and 31%, respectively. Overall, minor complications occurred in 2.4% of patients, while there were no major complications. No serious infectious complications were identified and no endoscope-associated hospital acquired infections were documented. Conclusions: The use of the bronchoscope can be safely and effectively used for PEG tube placement. The use of bronchoscope rather than a gastroscope has several advantages, which include the ease of navigating through complex aerodigestive disorders such as strictures and fistulas as well as decreased health-care utilization. In addition, it may have a theoretical advantage of minimizing infections related to complex endoscopes.",
+      "methods": "We conducted a review of prospectively collected data from October 2012 until July 2016 of all patients who had flexible bronchoscope-guided PEG tube placement at Beth Israel Deaconess Medical Center (IRB #2012P-000291). Consecutive adult critically ill medical ICU patients who required PEG tube placement and were hemodynamically stable were included. Exclusion criteria: uncorrectable coagulopathy, significant ascites, active peritonitis, esophageal varices, gastric outlet obstruction, and inability to adequately visualize gastrocutaneous transillumination and finger indentation. All patients received preoperative antibiotic prophylaxis per guidelines unless on acceptable antibiotics. Procedures used general IV anesthesia. If combined with percutaneous tracheostomy (PCT), PEG followed tracheostomy using the same bronchoscope. PEG was performed with the pull technique using a 5.9-mm Olympus therapeutic bronchoscope (2.8-mm channel). Oxygen (4-6 L/min) via suction port provided insufflation. Standard transillumination and finger indentation confirmed gastric apposition, followed by percutaneous needle-catheter entry, wire loop snaring, and pull-through placement of a 20F Ponsky Pull PEG tube. Outcomes collected: successful placement, total procedure duration, time from oropharynx to gastric cardia, PEG removal rate, infectious complications, adverse events (CTCAE major/minor), development of sepsis or soft tissue infection, and mortality. Descriptive statistics were used (SPSS v21; significance threshold p<0.05, though no hypothesis tests are reported).",
+      "results": "Eighty-four consecutive patients underwent bronchoscope-guided PEG placement. Median age 69 years (IQR 54-77); 64.3% men. Indications included sepsis (35%), prolonged respiratory failure (25%), stroke (16%), neuromuscular disease (7%), ARDS (7%), cardiac arrest (5%), malignancy (5%). Antithrombotic therapy: aspirin 34.5%, prophylactic heparin 46.4%, warfarin with INR>2 1.2%, clopidogrel 1.2%. PEG insertion succeeded in 82/84 (97.6%). Two procedures were aborted due to inadequate transillumination/finger indentation (concern for colonic interposition) and needle not visualized, respectively; both later received laparoscopic PEGs. Median mouth-to-stomach time 1.11 minutes (IQR 0.40-2), and median PEG procedure time 15.42 minutes (IQR 12.36-23.36). Median ICU stay 20 days (IQR 14-29); median hospital stay 24 days (IQR 17-34 reported in Table 2; 13-74 in text). Median follow-up 87 days (IQR 19-459). Thirty-day mortality 11.9% (10/84); 1-year mortality 31% (26/84). Minor complications occurred in 2/84 (2.4%): 1 mild cellulitis at the PEG site and 1 PEG tube malfunction; no major complications (bleeding, perforation, peritonitis, sepsis, aspiration, internal organ injury, death). No serious infectious complications and no endoscope-associated hospital-acquired infections were documented. PEG was performed immediately following PCT in 69/84 (82.1%). PEG was performed bedside in 49/84 (58.3%) and OR in 35/84 (41.7%). PEG removal occurred in 16 patients; median time to removal 152 days (IQR 96-240)."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Consecutive adult critically ill medical ICU patients requiring PEG placement and hemodynamically stable at a single US academic center (2012-2016).",
+      "inclusion_criteria": [
+        "Adult critically ill patients in medical ICU",
+        "Clinical indication for PEG as determined by attending intensivists",
+        "Hemodynamically stable to undergo the procedure"
+      ],
+      "exclusion_criteria": [
+        "Uncorrectable coagulopathy",
+        "Significant ascites",
+        "Active peritonitis",
+        "Esophageal varices",
+        "Gastric outlet obstruction",
+        "Inability to adequately visualize gastrocutaneous transillumination and finger indentation"
+      ]
+    },
+    "intervention": {
+      "text": "Bronchoscope-guided percutaneous endoscopic gastrostomy (PEG) using pull technique by interventional pulmonologists",
+      "details": "Therapeutic flexible bronchoscope (Olympus 5.9 mm, 2.8 mm channel); oxygen insufflation 4-6 L/min via suction port; pre-procedure antibiotic prophylaxis; general IV anesthesia; transillumination and finger indentation; 20F Ponsky Pull PEG kit; direct visualization to confirm proper tension; often performed immediately after percutaneous tracheostomy using same bronchoscope."
+    },
+    "comparison": {
+      "text": "",
+      "details": ""
+    },
+    "outcomes": [
+      {
+        "name": "Successful PEG placement",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Major complications (CTCAE grade 3-4)",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Minor complications (CTCAE grade 1-2)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Infectious complications including endoscope-associated hospital-acquired infections",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "30-day all-cause mortality",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "1-year all-cause mortality",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "PEG removal rate and time to removal",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "single-arm prospective case series",
+    "allocation": "non-randomized",
+    "blinding": "none",
+    "sites_count": 1,
+    "countries": [
+      "US"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 84,
+      "analyzed": 84
+    },
+    "analysis_populations": [
+      {
+        "name": "All treated",
+        "description": "All consecutive patients who underwent attempted bronchoscope-guided PEG placement",
+        "n": 84
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "Bronchoscope-guided PEG by interventional pulmonologists",
+      "n_randomized": 84,
+      "n_analyzed": 84,
+      "n_completed": 82
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "successful_peg_placement",
+      "name": "Successful PEG placement",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "PT0H",
+      "timepoint_label": "Periprocedural",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 82,
+            "total": 84
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          853
+        ],
+        "tables": [
+          "Results text"
+        ],
+        "quote": "Percutaneous endoscopic gastrostomy tube insertion was completed successfully in 82 (97.6%) of the 84 patients."
+      }
+    },
+    {
+      "concept_id": "any_major_complication_ctcae_3_4",
+      "name": "Any major complication (CTCAE grade 3-4: bleeding, peritonitis, sepsis, organ puncture)",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P87D",
+      "timepoint_label": "Median follow-up 87 days",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 0,
+            "total": 84
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          853
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "Overall, minor complications occurred in only 2.4% of patients, while there were no major complications such as perforation, sepsis, bleeding, peritonitis, or death."
+      }
+    },
+    {
+      "concept_id": "any_minor_complication_ctcae_1_2",
+      "name": "Any minor complication (CTCAE grade 1-2)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P87D",
+      "timepoint_label": "Median follow-up 87 days",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 2,
+            "total": 84
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          854
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "Minor complications, n (%) 2 (2.4): 1 cellulitis, 1 tube malfunction"
+      }
+    },
+    {
+      "concept_id": "peg_site_infection",
+      "name": "PEG site infection (cellulitis)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P87D",
+      "timepoint_label": "Median follow-up 87 days",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 1,
+            "total": 84
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          854
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "Minor complications, n (%) 2 (2.4): 1 cellulitis, 1 tube malfunction"
+      }
+    },
+    {
+      "concept_id": "endo_associated_hai",
+      "name": "Endoscope-associated hospital-acquired infection",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P87D",
+      "timepoint_label": "Median follow-up 87 days",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 0,
+            "total": 84
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          852
+        ],
+        "tables": [
+          "Abstract"
+        ],
+        "quote": "No serious infectious complications were identified and no endoscope-associated hospital acquired infections were documented."
+      }
+    },
+    {
+      "concept_id": "mortality_30d_allcause",
+      "name": "All-cause mortality at 30 days",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P30D",
+      "timepoint_label": "30 days",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 10,
+            "total": 84
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          854
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "Mortality at 30 days, n (%) 10 (11.9)"
+      }
+    },
+    {
+      "concept_id": "mortality_1y_allcause",
+      "name": "All-cause mortality at 1 year",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P1Y",
+      "timepoint_label": "1 year",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 26,
+            "total": 84
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          854
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "Mortality at 1 year, n (%) 26 (31)"
+      }
+    },
+    {
+      "concept_id": "peg_tube_removed_anytime",
+      "name": "PEG tube removal (any time during follow-up)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P87D",
+      "timepoint_label": "Median follow-up 87 days",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 16,
+            "total": 84
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          853
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "Percutaneous endoscopic gastrostomy tube removal occurred in 16 patients, with a median time to removal of 152 days (IQR: 96-240)."
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Cellulitis",
+      "meddra": {
+        "soc": "Infections and infestations",
+        "pt": "Cellulitis"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 1,
+          "patients": 1,
+          "percentage": 1.2,
+          "total": 84
+        }
+      ],
+      "period": "Index hospitalization and follow-up (median 87 days)",
+      "management": "Conservative management; no device removal; no major change in medical management",
+      "provenance": {
+        "pages": [
+          854
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "Minor complications, n (%) 2 (2.4): 1 cellulitis, 1 tube malfunction"
+      }
+    },
+    {
+      "event_name": "Device malfunction",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Device malfunction"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 1,
+          "patients": 1,
+          "percentage": 1.2,
+          "total": 84
+        }
+      ],
+      "period": "Index hospitalization and follow-up (median 87 days)",
+      "management": "Not specified; no device removal during treatment",
+      "provenance": {
+        "pages": [
+          854
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "Minor complications, n (%) 2 (2.4): 1 cellulitis, 1 tube malfunction"
+      }
+    },
+    {
+      "event_name": "Nosocomial infection",
+      "meddra": {
+        "soc": "Infections and infestations",
+        "pt": "Nosocomial infection"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 84
+        }
+      ],
+      "period": "Index hospitalization and follow-up (median 87 days)",
+      "management": "",
+      "provenance": {
+        "pages": [
+          852
+        ],
+        "tables": [
+          "Abstract"
+        ],
+        "quote": "No serious infectious complications were identified and no endoscope-associated hospital acquired infections were documented."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "ROBINS-I",
+    "overall_judgment": "serious",
+    "domains": [
+      {
+        "name": "Bias due to confounding",
+        "judgment": "serious",
+        "support_for_judgment": "Single-arm case series without comparator; outcomes are descriptive feasibility/safety."
+      },
+      {
+        "name": "Bias in selection of participants",
+        "judgment": "moderate",
+        "support_for_judgment": "Consecutive ICU patients reviewed by interventional pulmonology team; inclusion/exclusion applied prospectively."
+      },
+      {
+        "name": "Bias in classification of interventions",
+        "judgment": "low",
+        "support_for_judgment": "All patients received the same bronchoscope-guided PEG technique."
+      },
+      {
+        "name": "Bias due to deviations from intended interventions",
+        "judgment": "low",
+        "support_for_judgment": "Standardized protocol; antibiotics and anesthesia per guideline."
+      },
+      {
+        "name": "Bias due to missing data",
+        "judgment": "low",
+        "support_for_judgment": "Outcomes reported for all 84 patients; follow-up summarized with median 87 days."
+      },
+      {
+        "name": "Bias in measurement of outcomes",
+        "judgment": "low",
+        "support_for_judgment": "Procedural success and complications are objective and recorded prospectively."
+      },
+      {
+        "name": "Bias in selection of the reported result",
+        "judgment": "moderate",
+        "support_for_judgment": "Descriptive reporting without protocol registration; limited statistical analyses."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "bronchoscope-guided PEG",
+      "percutaneous endoscopic gastrostomy",
+      "interventional pulmonology",
+      "intensive care unit",
+      "complications",
+      "infection"
+    ],
+    "summary_tldr": "In a single-center prospective series (n=84), bronchoscope-guided PEG had 82/84 successful placements with 0 major complications, 2 minor complications, 30-day mortality 10/84, and 1-year mortality 26/84; no endoscope-associated hospital-acquired infections were observed.",
+    "clinical_relevance": "Findings support feasibility and safety of bronchoscope-guided PEG by interventional pulmonologists, potentially aiding access in esophageal stenosis and mitigating infection risks associated with complex endoscopes."
+  }
+}

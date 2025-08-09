@@ -1,0 +1,567 @@
+{
+  "source": {
+    "document_id": "Safety of diagnostic flexible bronchoscopy in patients with echocardiographic evidence of pulmonary hypertension",
+    "ingest_date": "2025-08-08T15:44:53.063904+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1016/j.resinv.2018.08.009"
+  },
+  "document": {
+    "metadata": {
+      "title": "Safety of diagnostic flexible bronchoscopy in patients with echocardiographic evidence of pulmonary hypertension",
+      "year": 2018,
+      "authors": [
+        "Tsukasa Ishiwata",
+        "Mitsuhiro Abe",
+        "Hajime Kasai",
+        "Jun Ikari",
+        "Naoko Kawata",
+        "Jiro Terada",
+        "Seiichiro Sakao",
+        "Yuji Tada",
+        "Nobuhiro Tanabe",
+        "Koichiro Tatsumi"
+      ],
+      "journal": "Respiratory Investigation",
+      "doi": "10.1016/j.resinv.2018.08.009",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Background: The presence of pulmonary hypertension (PH) and treatment with anticoagulant agents could potentially increase the risk for bleeding/hemodynamic complications associated with bronchoscopic procedures. The aim of this study was to assess the safety of diagnostic flexible bronchoscopy (FB) in patients with PH. Methods: A retrospective review of clinical records of patients with echocardiographic evidence of PH (right ventricular systolic pressure [RVSP] ≥ 40 mm Hg) who underwent diagnostic FB between 2004 and 2016 at a single facility in Japan was conducted. Patients with no clinical evidence suggestive of PH who underwent FB during the same period were enrolled as a pairwise-matched control group; factors used in matching included age, sex, and performed procedures. Results: Overall, there were 45 patients in the PH group and 90 patients in the control group. Six (13%) patients in the PH group had severe PH (RVSP ≥ 61 mm Hg). Forceps biopsies and transbronchial needle aspirations were performed in 62% and 13% of patients, respectively, in the PH group, and 58% and 13% of patients, respectively, in the control group. The total incidence of bleeding during FB was not significantly different between the two groups (18% versus 16%; p = 0.742). Vital signs recorded 2 h after FB were also not significantly different between the two groups. There were no episodes of cardiac arrhythmias or deaths associated with the FB procedures. Conclusions: The data suggest that diagnostic FB procedures can be performed safely in patients with echocardiographic evidence of PH.",
+      "methods": "Study design: Retrospective review of a prospectively maintained database and medical records at Chiba University Hospital. Patients who underwent diagnostic FB between April 2004 and December 2016 and had echocardiography within 3 months of FB were included. PH was defined as RVSP ≥ 40 mm Hg by Doppler echocardiography. Controls were pairwise matched 1:2 (age, sex, and procedures performed) and had no clinical evidence of PH. FB procedures included EBB, TBB, TBNA (including EBUS-TBNA), BAL, brushing, and observation. Monitoring included ECG, pulse oximetry, and noninvasive BP; oxygen at 2 L/min was given via nasal cannula. Conscious sedation with IV midazolam and/or pethidine; topical 1% lidocaine. Antithrombotic agents were routinely withdrawn; high embolic risk patients on oral anticoagulants received heparin bridging (stopped 4 h before FB, resumed immediately after). Complications were defined a priori: bleeding (mild = need for continuous suctioning; moderate = need to wedge bronchoscope; severe = need for additional interventions/ICU), hypoxemia (need for supplemental O2 by mask or intubation), hypotension (SBP < 80 mm Hg or vasopressor use), arrhythmias (new dysrhythmias). Statistical analysis used chi-squared or Fisher's exact tests for categorical variables and t-test or Mann-Whitney for continuous variables; two-sided p<0.05 threshold; SAS 9.4.",
+      "results": "A total of 45 PH patients and 90 matched controls were analyzed. PH severity: mild 28 (62%), moderate 11 (24%), severe 6 (13%). PH clinical classification: group 1 22 (49%), group 2 10 (22%), group 3 8 (18%), group 4 5 (11%). Antithrombotic agent use was higher in PH vs controls (44% vs 20%; p = 0.003); heparin bridging was more frequent (18% vs 2%; p = 0.002). EBB/TBB was performed in 62% (PH) vs 58% (controls); TBNA in 13% vs 13%; BAL in 38% vs 38%. Sedation doses were similar. Complications (PH vs control): any bleeding 8/45 (18%) vs 14/90 (16%), p = 0.742; mild bleeding 6/45 (13%) vs 12/90 (13%); moderate bleeding 2/45 (4%) vs 3/90 (3%); severe bleeding 0 vs 0. Hypoxemia 2/45 (4%) vs 5/90 (6%), p = 1.000. Hypotension 0/45 (0%) vs 1/90 (1%), p = 1.000. Arrhythmias 0 vs 0. No deaths or need for mechanical ventilation occurred. Late complications within 2 weeks: pneumonia 1 (PH) and ILD exacerbation 1 (control). In PH patients undergoing biopsy, bleeding occurred in moderate PH but not severe PH; no bleeding when a guide sheath was used. Vital signs 2 h post-FB did not differ significantly between groups."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults undergoing diagnostic flexible bronchoscopy at a single Japanese center with or without echocardiographic evidence of pulmonary hypertension",
+      "inclusion_criteria": [
+        "Underwent diagnostic flexible bronchoscopy between April 2004 and December 2016",
+        "Echocardiography performed within 3 months before or after bronchoscopy",
+        "PH group: RVSP ≥ 40 mm Hg by Doppler echocardiography",
+        "Control group: no clinical evidence suggestive of PH",
+        "Matched by age, sex, and bronchoscopic procedures performed"
+      ],
+      "exclusion_criteria": [
+        "Severe dyspnea despite supplemental oxygen (procedurally avoided)",
+        "Refractory hypotension (systolic blood pressure < 80 mm Hg)",
+        "Uncontrolled ventricular arrhythmias",
+        "Heart failure requiring catecholamine support"
+      ]
+    },
+    "intervention": {
+      "text": "Flexible bronchoscopy in patients with pulmonary hypertension (RVSP ≥ 40 mm Hg)",
+      "details": "FB under conscious sedation with continuous monitoring; supplemental oxygen 2 L/min via nasal cannula; topical 1% lidocaine; antithrombotics routinely withdrawn; heparin bridging for high embolic risk (stopped 4 h pre-FB, resumed immediately post-FB). Procedures included EBB, TBB (with/without guide sheath), TBNA/EBUS-TBNA, BAL, brushing, and observation."
+    },
+    "comparison": {
+      "text": "Flexible bronchoscopy in matched patients without pulmonary hypertension",
+      "details": "Matched 1:2 on age, sex, and procedures performed; identical procedural conduct, monitoring, sedation, and periprocedural antithrombotic management policies."
+    },
+    "outcomes": [
+      {
+        "name": "Any bleeding during bronchoscopy",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Hypoxemia during/after bronchoscopy",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Hypotension during/after bronchoscopy",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Cardiac arrhythmias during/after bronchoscopy",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Late complications within 14 days (e.g., pneumonia, ILD exacerbation)",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "observational retrospective cohort",
+    "allocation": "non-randomized",
+    "blinding": "none",
+    "sites_count": 1,
+    "countries": [
+      "Japan"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 135,
+      "analyzed": 135
+    },
+    "analysis_populations": [
+      {
+        "name": "Full analysis set",
+        "description": "All eligible patients meeting inclusion criteria with available outcomes",
+        "n": 135
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "Pulmonary hypertension (RVSP ≥ 40 mm Hg)",
+      "n_randomized": 0,
+      "n_analyzed": 45,
+      "n_completed": 45
+    },
+    {
+      "arm_id": "control",
+      "name": "No clinical evidence of pulmonary hypertension",
+      "n_randomized": 0,
+      "n_analyzed": 90,
+      "n_completed": 90
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "bronchoscopy_any_bleeding_during_procedure",
+      "name": "Any bleeding during bronchoscopy",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "PT0H",
+      "timepoint_label": "During procedure",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 8,
+            "total": 45
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 14,
+            "total": 90
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": 0.0222,
+        "p_value": 0.742,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "chi-squared test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Full analysis set",
+        "missing_handling": "Complete-case (no missing outcome reported)"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "Bleeding 8 (18) vs 14 (16), p = 0.742"
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 1.143
+        },
+        "odds_ratio": {
+          "est": 1.174
+        },
+        "arr": 0.022,
+        "nnt": 45.0
+      }
+    },
+    {
+      "concept_id": "bronchoscopy_hypoxemia_during_after",
+      "name": "Hypoxemia during/after bronchoscopy",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "PT2H",
+      "timepoint_label": "During procedure to 2 h post-procedure",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 2,
+            "total": 45
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 5,
+            "total": 90
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": -0.0111,
+        "p_value": 1,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Fisher's exact test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Full analysis set"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "Hypoxemia 2 (4) vs 5 (6), p = 1.000"
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.8
+        },
+        "odds_ratio": {
+          "est": 0.791
+        },
+        "arr": -0.011,
+        "nnh": 90.0
+      }
+    },
+    {
+      "concept_id": "bronchoscopy_hypotension_during_after",
+      "name": "Hypotension during/after bronchoscopy",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "PT2H",
+      "timepoint_label": "During procedure to 2 h post-procedure",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 0,
+            "total": 45
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 1,
+            "total": 90
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": -0.0111,
+        "p_value": 1,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Fisher's exact test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Full analysis set"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "Hypotension 0 (0) vs 1 (1), p = 1.000"
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.0
+        },
+        "odds_ratio": {
+          "est": 0.0
+        },
+        "arr": -0.011,
+        "nnh": 90.0
+      }
+    },
+    {
+      "concept_id": "bronchoscopy_arrhythmias_during_after",
+      "name": "Cardiac arrhythmias during/after bronchoscopy",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "PT2H",
+      "timepoint_label": "During procedure to 2 h post-procedure",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 0,
+            "total": 45
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 0,
+            "total": 90
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": 0,
+        "p_value": 1,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Fisher's exact test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Full analysis set"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [
+          "Table 3"
+        ],
+        "table_number": 3,
+        "quote": "Arrhythmias 0 (0) vs 0 (0), p = 1.000"
+      },
+      "derived": {
+        "arr": 0.0
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Procedural haemorrhage",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Procedural haemorrhage"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 8,
+          "patients": 8,
+          "percentage": 17.8,
+          "total": 45
+        },
+        {
+          "arm_id": "control",
+          "events": 14,
+          "patients": 14,
+          "percentage": 15.6,
+          "total": 90
+        }
+      ],
+      "period": "During procedure",
+      "management": "Managed with suctioning or bronchial wedging; no severe bleeding, no bronchial blockers or ICU admissions required.",
+      "provenance": {
+        "pages": [],
+        "tables": [
+          "Table 3"
+        ],
+        "quote": "Bleeding 8 (18) vs 14 (16); no severe bleeding events."
+      }
+    },
+    {
+      "event_name": "Hypoxia",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Hypoxia"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 2,
+          "patients": 2,
+          "percentage": 4.4,
+          "total": 45
+        },
+        {
+          "arm_id": "control",
+          "events": 5,
+          "patients": 5,
+          "percentage": 5.6,
+          "total": 90
+        }
+      ],
+      "period": "During procedure to 2 hours post-procedure",
+      "management": "Supplemental oxygen via mask as needed; no intubations reported.",
+      "provenance": {
+        "pages": [],
+        "tables": [
+          "Table 3"
+        ],
+        "quote": "Hypoxemia 2 (4) vs 5 (6), p = 1.000"
+      }
+    },
+    {
+      "event_name": "Hypotension",
+      "meddra": {
+        "soc": "Vascular disorders",
+        "pt": "Hypotension"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 45
+        },
+        {
+          "arm_id": "control",
+          "events": 1,
+          "patients": 1,
+          "percentage": 1.1,
+          "total": 90
+        }
+      ],
+      "period": "During procedure to 2 hours post-procedure",
+      "management": "Supportive management; no vasopressors reported in PH group.",
+      "provenance": {
+        "pages": [],
+        "tables": [
+          "Table 3"
+        ],
+        "quote": "Hypotension 0 (0) vs 1 (1), p = 1.000"
+      }
+    },
+    {
+      "event_name": "Pneumonia",
+      "meddra": {
+        "soc": "Infections and infestations",
+        "pt": "Pneumonia"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 1,
+          "patients": 1,
+          "percentage": 2.2,
+          "total": 45
+        },
+        {
+          "arm_id": "control",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 90
+        }
+      ],
+      "period": "0-14 days post-procedure",
+      "management": "",
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "With regard to late-phase complications developing within 2 weeks after FB, one patient in the PH group developed pneumonia..."
+      }
+    },
+    {
+      "event_name": "Interstitial lung disease",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Interstitial lung disease"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 45
+        },
+        {
+          "arm_id": "control",
+          "events": 1,
+          "patients": 1,
+          "percentage": 1.1,
+          "total": 90
+        }
+      ],
+      "period": "0-14 days post-procedure",
+      "management": "",
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "...and 1 in the control group developed exacerbation of interstitial lung disease."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "ROBINS-I",
+    "overall_judgment": "moderate",
+    "domains": [
+      {
+        "name": "Bias due to confounding",
+        "judgment": "moderate",
+        "support_for_judgment": "Retrospective observational design; matching on age, sex, and procedures performed, but no multivariable adjustment for comorbidities or antithrombotic use."
+      },
+      {
+        "name": "Bias in selection of participants",
+        "judgment": "low",
+        "support_for_judgment": "Consecutive patients with available echocardiography; clear inclusion window; matched controls from same period."
+      },
+      {
+        "name": "Bias in classification of interventions",
+        "judgment": "low",
+        "support_for_judgment": "PH status defined by echocardiographic RVSP threshold (≥40 mm Hg) with prespecified criteria."
+      },
+      {
+        "name": "Bias due to deviations from intended interventions",
+        "judgment": "low",
+        "support_for_judgment": "Standardized FB protocol and periprocedural management applied across groups."
+      },
+      {
+        "name": "Bias due to missing data",
+        "judgment": "low",
+        "support_for_judgment": "No indication of missing outcome data; all 135 analyzed."
+      },
+      {
+        "name": "Bias in measurement of outcomes",
+        "judgment": "low",
+        "support_for_judgment": "Procedural complications recorded contemporaneously; objective definitions for events."
+      },
+      {
+        "name": "Bias in selection of the reported result",
+        "judgment": "low",
+        "support_for_judgment": "All predefined complications reported with counts and p-values."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "flexible bronchoscopy",
+      "pulmonary hypertension",
+      "echocardiography",
+      "RVSP",
+      "bleeding",
+      "hypoxemia",
+      "safety"
+    ],
+    "summary_tldr": "In a single-center matched cohort (45 PH vs 90 controls), diagnostic flexible bronchoscopy had similar bleeding (8/45 vs 14/90; p=0.742) and low cardiopulmonary complication rates with no deaths.",
+    "clinical_relevance": "Findings support the procedural safety of diagnostic bronchoscopy under conscious sedation in patients with echocardiographic evidence of pulmonary hypertension when standard precautions, including antithrombotic management, are used."
+  }
+}

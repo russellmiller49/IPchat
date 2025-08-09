@@ -1,0 +1,627 @@
+{
+  "source": {
+    "document_id": "Results of Long-term Follow-up of Photodynamic Therapy for Roentgenographically Occult Bronchogenic Squamous Cell Carcinoma",
+    "ingest_date": "2025-08-08T15:14:58.938553+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1378/chest.08-2237"
+  },
+  "document": {
+    "metadata": {
+      "title": "Results of Long-term Follow-up of Photodynamic Therapy for Roentgenographically Occult Bronchogenic Squamous Cell Carcinoma",
+      "year": 2009,
+      "authors": [
+        "Chiaki Endo",
+        "Akira Miyamoto",
+        "Akira Sakurada",
+        "Hirokazu Aikawa",
+        "Motoyasu Sagawa",
+        "Masamai Sato",
+        "Yasuki Saito",
+        "Takashi Kondo"
+      ],
+      "journal": "Chest",
+      "doi": "10.1378/chest.08-2237",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Background: Photodynamic therapy (PDT) is considered a useful and minimally invasive modality for treating centrally located early lung cancer. To date, there has been limited information on the long-term outcome of patients treated with PDT, especially those who are medically operable. Methods: Beginning in 1994, patients with roentgenographically occult bronchogenic squamous cell carcinoma (ROSCC) who met our criteria underwent PDT at Tohoku University Hospital and were followed up through 2006. Our criteria were as follows: (1) ROSCC without distant metastasis; (2) medically operable by means of lobectomy or further resection; (3) longitudinal tumor length of < 10 mm; and (4) superficial bronchoscopic tumor findings. Results: A total of 48 patients with ROSCC underwent PDT. The complete response (CR) rate was 94% (45 of 48 of patients). Nine patients (20%) had local recurrence after CR. A total of 11 deaths was observed, with 6 resulting from multiple primary lung cancer and only 1 from the original ROSCC. The 5-year and 10-year overall survival rates for all 48 patients were 81% and 71%, respectively. The Cox proportional hazard model showed that only metachronous multiple primary lung cancer was an independent poor prognostic factor. Conclusions: PDT is thought to be a first-line modality for patients who have ROSCC with a tumor length of < 10 mm, even if the tumor is medically operable. Most local recurrence can be cured by active therapy such as surgery, radiotherapy, or PDT. Multiple primary lung cancer subsequent to PDT is an important issue from the viewpoint of survival.",
+      "methods": "PDT has been performed at Tohoku University Hospital since 1994. Workup included bronchoscopy, chest CT, upper abdominal CT/ultrasonography, brain CT/MRI, and bone scintigraphy. Eligibility: (1) no metastatic lesions; (2) longitudinal extent of ROSCC ≤ 10 mm; (3) distal edge visible by bronchoscopy; (4) bronchoscopic findings categorized as minute or hidden; (5) medically operable (lobectomy or more); and (6) informed consent. Bronchoscopic classification (remarkable, minute, hidden) per prior work; since 1997, autofluorescence bronchoscopy and endobronchial ultrasonography used. PDT protocol: porfimer sodium 2 mg/kg IV 48 h pre-irradiation; excimer dye laser via bronchoscope delivering 100 J/cm2 over 10-20 min. Bronchial toileting at day 7. Surveillance with bronchoscopy/biopsy/cytology at 1, 2, 3 months; then bronchoscopy, sputum cytology, chest CT every 3 months in year 1, every 6 months in years 2-5, then annually. CR defined as absence of tumor by biopsy or brushing cytology for ≥ 4 weeks. Local recurrence defined at the same lesion after CR. Multiple primary lung cancer per Martini and Melamed criteria. Survival endpoints (OS, RFS, DFS) by Kaplan-Meier; log-rank tests for subgroup comparisons. Cox proportional hazards model used for multivariable analysis; p ≤ 0.05 considered significant.",
+      "results": "Forty-eight medically operable men (mean age 70 years) with ROSCC underwent PDT (1994-2006). CR achieved in 45/48 (94%). There was no significant relationship between tumor response and tumor location (p = 0.64, Mann-Whitney U). Local recurrence after CR occurred in 9/45 (20%), with no significant association with location (p = 0.29, Mann-Whitney U); relapse-free interval 3-47 months (mean 25). Treatments for recurrence included radiotherapy (n=5), surgery (n=2), additional PDT (n=1), chemotherapy (n=1); 8/9 alive at last follow-up. Metachronous multiple primary lung cancer occurred in 10 patients (range 12-89 months after PDT; mean 45), with 5 deaths from metachronous cancers. Median follow-up for all 48 patients was 63 months (living patients, 70 months); 2 lost to follow-up (21 and 27 months). Deaths (n=11): original ROSCC (n=1), metachronous multiple lung cancer (n=5), synchronous multiple lung cancer (n=1), myocardial infarction (n=2), cerebral hemorrhage (n=1), unknown (n=1; counted as original lung cancer death in survival analysis). Five- and 10-year OS were 81% and 71%. OS did not differ by local recurrence (5-year OS 100% vs 76%; log-rank p = 0.62). Patients with metachronous multiple primary lung cancer had worse OS (5-year OS 56% vs 88%; log-rank p = 0.031). Five- and 10-year RFS were 60% and 54%; DFS 56% and 43%. In multivariable Cox analysis, metachronous multiple primary lung cancer was an independent poor prognostic factor (hazard ratio 1.99; 95% CI 1.01-4.03); tumor location, local recurrence, and tumor response were not significant."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Medically operable adults with roentgenographically occult bronchogenic squamous cell carcinoma (ROSCC) with superficial bronchoscopic findings and longitudinal tumor length ≤ 10 mm, without distant metastasis, treated at a single center in Japan.",
+      "inclusion_criteria": [
+        "ROSCC without distant metastasis",
+        "Longitudinal extent of ROSCC ≤ 10 mm",
+        "Distal edge of ROSCC visible by bronchoscopy",
+        "Bronchoscopic findings categorized as minute or hidden",
+        "Medically operable by lobectomy or more extensive resection",
+        "Provided informed consent"
+      ],
+      "exclusion_criteria": [
+        "Metastatic lesions present",
+        "Bronchoscopic finding categorized as remarkable",
+        "Distal edge not visible by bronchoscopy",
+        "Not medically operable"
+      ]
+    },
+    "intervention": {
+      "text": "Photodynamic therapy (PDT) with porfimer sodium and excimer dye laser",
+      "details": "Porfimer sodium 2 mg/kg IV 48 hours before bronchoscopy; excimer dye laser delivered via quartz fiber through bronchoscope to lesion at total energy 100 J/cm2 over 10-20 minutes; bronchial toileting at day 7; response assessment by cytology/biopsy at 1, 2, and 3 months; scheduled surveillance thereafter."
+    },
+    "comparison": {
+      "text": "None (single-arm cohort)",
+      "details": "No concurrent control group; subgroup analyses included local recurrence status and metachronous multiple primary lung cancer status."
+    },
+    "outcomes": [
+      {
+        "name": "Complete response rate after PDT",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Local recurrence after CR",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Metachronous multiple primary lung cancer incidence",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Overall survival (5-year and 10-year)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Relapse-free survival and disease-free survival",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "single-arm cohort",
+    "allocation": "nonrandomized",
+    "blinding": "none",
+    "sites_count": 1,
+    "countries": [
+      "Japan"
+    ],
+    "sample_size": {
+      "planned": 48,
+      "enrolled": 48,
+      "analyzed": 48
+    },
+    "analysis_populations": [
+      {
+        "name": "Treated cohort",
+        "description": "All patients who underwent PDT and had follow-up",
+        "n": 48
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "Photodynamic therapy (porfimer sodium + excimer dye laser)",
+      "n_randomized": 0,
+      "n_analyzed": 48,
+      "n_completed": 46
+    },
+    {
+      "arm_id": "with_metachronous",
+      "name": "With metachronous multiple primary lung cancer (subgroup)",
+      "n_randomized": 0,
+      "n_analyzed": 10,
+      "n_completed": 10
+    },
+    {
+      "arm_id": "without_metachronous",
+      "name": "Without metachronous multiple primary lung cancer (subgroup)",
+      "n_randomized": 0,
+      "n_analyzed": 38,
+      "n_completed": 38
+    },
+    {
+      "arm_id": "local_recurrence_positive",
+      "name": "Local recurrence or non-CR (subgroup)",
+      "n_randomized": 0,
+      "n_analyzed": 12,
+      "n_completed": 12
+    },
+    {
+      "arm_id": "local_recurrence_negative",
+      "name": "No local recurrence (subgroup)",
+      "n_randomized": 0,
+      "n_analyzed": 36,
+      "n_completed": 36
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "cr_rate_post_pdt",
+      "name": "Complete response after PDT",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P3M",
+      "timepoint_label": "1-3 months post-PDT (CR defined as ≥4 weeks tumor-free)",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 45,
+            "total": 48
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "",
+        "measure": "proportion",
+        "est": 0.9375,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Treated cohort",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          371
+        ],
+        "tables": [],
+        "quote": "Forty-five of the 48 patients (94%) achieved CR."
+      }
+    },
+    {
+      "concept_id": "local_recurrence_after_cr",
+      "name": "Local recurrence after complete response",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P47M",
+      "timepoint_label": "During follow-up (up to 47 months after PDT among CR patients)",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 9,
+            "total": 45
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "",
+        "measure": "proportion",
+        "est": 0.2,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "CR subgroup",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          371
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "quote": "Local recurrence after CR was found in 9 of the 45 CR patients (20%)."
+      }
+    },
+    {
+      "concept_id": "metachronous_multiple_primary_lung_cancer_incidence",
+      "name": "Metachronous multiple primary lung cancer (≥1 event)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P89M",
+      "timepoint_label": "During follow-up (up to 89 months after PDT)",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 10,
+            "total": 48
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "",
+        "measure": "proportion",
+        "est": 0.2083,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Treated cohort",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          371
+        ],
+        "tables": [
+          "Table 4"
+        ],
+        "quote": "During the follow-up period, a total of 10 patients had metachronous second primary lung cancers, and only 1 patient had metachronous third primary lung cancer."
+      }
+    },
+    {
+      "concept_id": "overall_survival_5y",
+      "name": "Overall survival at 5 years",
+      "type": "time_to_event",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P5Y",
+      "timepoint_label": "5 years after PDT",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "total": 48
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "",
+        "measure": "survival_probability",
+        "est": 0.81,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Kaplan-Meier",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Treated cohort"
+      },
+      "provenance": {
+        "pages": [
+          372
+        ],
+        "tables": [],
+        "quote": "The 5-year ... OS rates were 81% ... respectively."
+      }
+    },
+    {
+      "concept_id": "overall_survival_10y",
+      "name": "Overall survival at 10 years",
+      "type": "time_to_event",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P10Y",
+      "timepoint_label": "10 years after PDT",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "total": 48
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "",
+        "measure": "survival_probability",
+        "est": 0.71,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Kaplan-Meier",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Treated cohort"
+      },
+      "provenance": {
+        "pages": [
+          372
+        ],
+        "tables": [],
+        "quote": "The 5-year and 10-year OS rates were 81% and 71%, respectively."
+      }
+    },
+    {
+      "concept_id": "cox_metachronous_effect_on_os",
+      "name": "Effect of metachronous multiple primary lung cancer on overall survival (Cox model)",
+      "type": "time_to_event",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P10Y",
+      "timepoint_label": "Up to last follow-up",
+      "groups": [],
+      "comparison": {
+        "ref_arm_id": "",
+        "measure": "hazard_ratio",
+        "est": 1.99,
+        "ci_lower": 1.01,
+        "ci_upper": 4.03,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": true
+      },
+      "analysis": {
+        "model": "Cox proportional hazards",
+        "adjusted": true,
+        "covariates": [
+          "Tumor location (segmental or more peripheral bronchus)",
+          "Local recurrence",
+          "Tumor response (CR vs non-CR)",
+          "Metachronous multiple primary lung cancer"
+        ],
+        "population": "Treated cohort"
+      },
+      "provenance": {
+        "pages": [
+          373
+        ],
+        "tables": [
+          "Table 5"
+        ],
+        "quote": "The Cox proportional hazard model showed that metachronous multiple primary lung cancer was an independent poor prognostic factor (hazard ratio, 1.99; 95% confidence interval, 1.01 to 4.03)."
+      }
+    },
+    {
+      "concept_id": "os_logrank_by_metachronous",
+      "name": "Overall survival difference by metachronous multiple primary lung cancer status (log-rank)",
+      "type": "time_to_event",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P5Y",
+      "timepoint_label": "5-year OS comparison",
+      "groups": [
+        {
+          "arm_id": "with_metachronous",
+          "raw": {
+            "total": 10
+          }
+        },
+        {
+          "arm_id": "without_metachronous",
+          "raw": {
+            "total": 38
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "without_metachronous",
+        "measure": "log_rank",
+        "est": null,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.031,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Kaplan-Meier with log-rank test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Stratified by metachronous multiple primary lung cancer status"
+      },
+      "provenance": {
+        "pages": [
+          372
+        ],
+        "tables": [],
+        "quote": "The 5-year OS rate of patients with metachronous multiple lung cancer was 56%, which was statistically lower (p = 0.031 [log-rank test]) than that of patients without it (88%)."
+      }
+    },
+    {
+      "concept_id": "os_logrank_by_local_recurrence",
+      "name": "Overall survival difference by local recurrence status (log-rank)",
+      "type": "time_to_event",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P5Y",
+      "timepoint_label": "5-year OS comparison",
+      "groups": [
+        {
+          "arm_id": "local_recurrence_positive",
+          "raw": {
+            "total": 12
+          }
+        },
+        {
+          "arm_id": "local_recurrence_negative",
+          "raw": {
+            "total": 36
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "local_recurrence_negative",
+        "measure": "log_rank",
+        "est": null,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.62,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Kaplan-Meier with log-rank test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Stratified by local recurrence (includes non-CR)"
+      },
+      "provenance": {
+        "pages": [
+          372
+        ],
+        "tables": [],
+        "quote": "The 5-year survival rates of patients with and without local recurrence were 100% and 76%, respectively, indicating no statistically significant difference (log-rank test p = 0.62)."
+      }
+    },
+    {
+      "concept_id": "all_cause_mortality_followup",
+      "name": "All-cause mortality during follow-up",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P70M",
+      "timepoint_label": "By last follow-up (median follow-up for living 70 months; overall median 63 months)",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 11,
+            "total": 48
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "",
+        "measure": "proportion",
+        "est": 0.2292,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Treated cohort"
+      },
+      "provenance": {
+        "pages": [
+          371,
+          372
+        ],
+        "tables": [],
+        "quote": "Among these 48 patients, a total of 11 deaths were observed, with only 1 patient dying from the original ROSCC."
+      }
+    },
+    {
+      "concept_id": "death_due_to_original_roscc",
+      "name": "Death due to original ROSCC during follow-up",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P70M",
+      "timepoint_label": "By last follow-up",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 1,
+            "total": 48
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "",
+        "measure": "proportion",
+        "est": 0.0208,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Treated cohort"
+      },
+      "provenance": {
+        "pages": [
+          372
+        ],
+        "tables": [],
+        "quote": "Among these 48 patients, a total of 11 deaths were observed, with only 1 patient dying from the original ROSCC."
+      }
+    }
+  ],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "ROBINS-I",
+    "overall_judgment": "unclear",
+    "domains": [
+      {
+        "name": "Confounding",
+        "judgment": "unclear",
+        "support_for_judgment": "Single-arm observational cohort without control; multivariable Cox model included select covariates."
+      },
+      {
+        "name": "Selection of participants",
+        "judgment": "moderate",
+        "support_for_judgment": "Consecutive patients meeting predefined criteria at a single center; all medically operable but selected PDT after consent."
+      },
+      {
+        "name": "Classification of interventions",
+        "judgment": "low",
+        "support_for_judgment": "All patients received the same PDT protocol."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "low",
+        "support_for_judgment": "Standardized PDT procedure and follow-up schedule described."
+      },
+      {
+        "name": "Missing data",
+        "judgment": "low",
+        "support_for_judgment": "Only 2 patients lost to follow-up."
+      },
+      {
+        "name": "Measurement of outcomes",
+        "judgment": "low",
+        "support_for_judgment": "Objective assessments (biopsy/cytology; standardized imaging and bronchoscopy)."
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "low",
+        "support_for_judgment": "Predefined outcomes (OS, RFS, DFS, CR, recurrence) reported with full follow-up."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "photodynamic therapy",
+      "porfimer sodium",
+      "roentgenographically occult",
+      "squamous cell carcinoma",
+      "bronchus",
+      "autofluorescence bronchoscopy",
+      "endobronchial ultrasound"
+    ],
+    "summary_tldr": "In 48 medically operable patients with small superficial ROSCC treated with PDT, CR was 94% (45/48); local recurrence after CR was 20% (9/45). Five- and 10-year OS were 81% and 71%. Metachronous multiple primary lung cancer worsened OS (HR 1.99, 95% CI 1.01-4.03; log-rank p = 0.031).",
+    "clinical_relevance": "Supports PDT as a first-line, lung-sparing option for small superficial centrally located ROSCC even in operable patients; long-term survival is high, but vigilant surveillance for metachronous primaries is crucial."
+  }
+}

@@ -1,0 +1,317 @@
+{
+  "source": {
+    "document_id": "Aldaghlawi-2020-A Systematic Review of Digital",
+    "ingest_date": "2025-08-08T09:39:45.825998+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1016/j.chest.2019.11.046"
+  },
+  "document": {
+    "metadata": {
+      "title": "A Systematic Review of Digital Versus Analog Drainage for Air Leak Following Surgical Resection or Spontaneous Pneumothorax",
+      "year": 2020,
+      "authors": [
+        "Fadi Aldaghlawi",
+        "Jonathan S. Kurman",
+        "Jason A. Lilly",
+        "D. Kyle Hogarth",
+        "Jessica Donington",
+        "Mark K. Ferguson",
+        "Septimiu D. Murgu"
+      ],
+      "journal": "Chest",
+      "doi": "10.1016/j.chest.2019.11.046",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Background: The concerns regarding air leak following lung surgery or spontaneous pneumothorax include detection and duration. Prior studies have suggested that digital drainage systems permit a shorter chest tube duration and hospital length of stay (LOS) by earlier detection of air leak cessation. We conducted a systematic review to assess the impact of digital drainage on chest tube duration and hospital LOS following pulmonary surgery and spontaneous pneumothorax. Methods: Ovid MEDLINE, PubMed, Embase, the Cochrane Library, Scopus, and Google Scholar were searched from inception through January 2019. We included randomized controlled trials, cohort studies, and case series of adult patients using digital or traditional drainage devices for air leaks of either post-surgical or spontaneous pneumothorax origin. Results: Of 1,272 references reviewed, 23 articles were included. Nineteen articles addressed post-operative air leak, while 4 articles pertained to air leak after spontaneous pneumothorax. Thirteen studies were randomized controlled trials. Digital drainage resulted in significantly shorter chest tube duration in 8 of 18 studies and shorter hospital LOS in 6 of 14 studies for post-operative air leak. For post-pneumothorax air leak, digital drainage resulted in a significantly shorter chest tube duration in 2 of 3 studies and hospital LOS in 1 of 2 studies with an analog control group. Conclusions: Most studies show no significant differences in chest tube duration and hospital LOS with digital versus analog drainage systems for patients with air leak after pulmonary resection. For post spontaneous pneumothorax air leak, the limited published evidence suggests a shorter chest tube duration and hospital LOS with analog drainage systems.",
+      "methods": "The following population, intervention, comparison, and outcome (PICO) questions were developed to guide this systematic review: (1) Among patients with an air leak after thoracic surgery, do digital drainage devices compared with conventional drainage devices reduce chest tube duration and/or hospital LOS? (2) Among patients with an air leak after spontaneous pneumothorax, do digital drainage devices compared with conventional drainage devices reduce chest tube duration and/or hospital LOS? A comprehensive search of the literature was performed in January 2019 in Ovid MEDLINE, PubMed, Embase, the Cochrane Library, Scopus, and Google Scholar from inception. Bibliographies of relevant primary studies and systematic reviews were checked. Meeting abstracts were reviewed for subsequently published research. Inclusion: original research studies evaluating digital drainage devices in adults with ongoing air leak after pulmonary surgery or spontaneous pneumothorax, reporting chest tube duration and/or hospital LOS. Exclusion: systematic reviews, narrative reviews, meta-analyses, comments, case reports, crossover studies, letters, and editorials. Data were abstracted into an evidence table. Study quality was assessed using a modified Downs and Black checklist (maximum score 28). Heterogeneity in study types and outcomes precluded meta-analysis; therefore, results were synthesized qualitatively.",
+      "results": "A total of 1,272 references were identified; after removing 544 duplicates, 728 titles/abstracts were screened; 49 full texts were reviewed; 23 studies were included. Nineteen studies addressed post-operative air leak and four addressed spontaneous pneumothorax. Thirteen studies were randomized controlled trials. Quality assessment: mean Downs and Black score 21.13 (range 15-25); 16 good and 7 fair quality. Post-operative air leak: Digital systems yielded significantly shorter chest tube duration in 8 of 18 studies with an analog control; mean chest tube duration ranged 1.7-5.5 days (digital) vs 1.9-6.1 days (analog). Digital systems yielded significantly shorter hospital LOS in 6 of 14 studies with an analog control; mean LOS ranged 3.3-6.5 days (digital) vs 3.9-9.0 days (analog). Spontaneous pneumothorax: For chest tube duration, 2 of 3 studies with an analog control favored digital; means 47-96 hours (digital) vs 74-94 hours (analog). For LOS, 1 of 2 studies favored digital; means 3.5-5.1 days (digital) vs 4.0-7.0 days (analog). Chest tube re-insertion/recurrence was not different between groups in postoperative studies; in one spontaneous pneumothorax study, digital had lower recurrence/reinsertion (4.4% vs 14.0%, p=0.041). Cost: two postoperative studies and one pneumothorax study reported significant cost savings with digital systems (e.g., €476-€751 per hospitalization; ~€430 per patient for pneumothorax)."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with ongoing air leak after pulmonary surgery or after spontaneous pneumothorax.",
+      "inclusion_criteria": [
+        "Age ≥18 years",
+        "Ongoing air leak after pulmonary surgery or spontaneous pneumothorax",
+        "Use of digital or analog chest drainage systems",
+        "Reported chest tube duration and/or hospital length of stay"
+      ],
+      "exclusion_criteria": [
+        "Systematic reviews, narrative reviews, meta-analyses",
+        "Comments, letters, editorials",
+        "Case reports",
+        "Crossover studies",
+        "Non-English language reports"
+      ]
+    },
+    "intervention": {
+      "text": "Digital chest drainage systems",
+      "details": "Electronic systems providing continuous quantification of air flow and often intrapleural pressure, enabling objective algorithms for chest tube management."
+    },
+    "comparison": {
+      "text": "Analog (traditional) chest drainage systems",
+      "details": "Water-seal systems with numbered columns assessing bubbling; qualitative point-in-time assessment (e.g., Cerfolio scale)."
+    },
+    "outcomes": [
+      {
+        "name": "Chest tube duration",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Hospital length of stay",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Chest tube reinsertion or pneumothorax recurrence",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Cost",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "systematic_review",
+    "allocation": "N/A",
+    "blinding": "N/A",
+    "sites_count": 0,
+    "countries": [],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 23
+    },
+    "analysis_populations": [
+      {
+        "name": "Included studies",
+        "description": "All included original studies meeting eligibility criteria",
+        "n": 23
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "studies_postop",
+      "name": "Postoperative studies with analog control",
+      "n_randomized": 0,
+      "n_analyzed": 0,
+      "n_completed": 0
+    },
+    {
+      "arm_id": "studies_pneumo",
+      "name": "Spontaneous pneumothorax studies with analog control",
+      "n_randomized": 0,
+      "n_analyzed": 0,
+      "n_completed": 0
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "postop_ct_duration_digital_better",
+      "name": "Postoperative chest tube duration: studies with significantly shorter duration using digital vs analog",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Index hospitalization",
+      "groups": [
+        {
+          "arm_id": "studies_postop",
+          "raw": {
+            "events": 8,
+            "total": 18
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "studies_postop",
+        "measure": "proportion",
+        "est": 0.444,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive synthesis (count of studies with p<0.05 favoring digital)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Included postoperative studies with analog comparator",
+        "missing_handling": "Not applicable"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "Digital systems resulted in a significantly shorter chest tube duration in 8 of those studies... An analog control group was not included in one study."
+      }
+    },
+    {
+      "concept_id": "postop_los_digital_better",
+      "name": "Postoperative hospital length of stay: studies with significantly shorter LOS using digital vs analog",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Index hospitalization",
+      "groups": [
+        {
+          "arm_id": "studies_postop",
+          "raw": {
+            "events": 6,
+            "total": 14
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "studies_postop",
+        "measure": "proportion",
+        "est": 0.429,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive synthesis (count of studies with p<0.05 favoring digital)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Included postoperative studies with analog comparator",
+        "missing_handling": "Not applicable"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "Of the 14 studies that include an analog control group, digital systems resulted in a significantly shorter LOS in 6 of them."
+      }
+    },
+    {
+      "concept_id": "pneumo_ct_duration_digital_better",
+      "name": "Spontaneous pneumothorax chest tube duration: studies with significantly shorter duration using digital vs analog",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Index hospitalization",
+      "groups": [
+        {
+          "arm_id": "studies_pneumo",
+          "raw": {
+            "events": 2,
+            "total": 3
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "studies_pneumo",
+        "measure": "proportion",
+        "est": 0.667,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive synthesis (count of studies with p<0.05 favoring digital)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Included spontaneous pneumothorax studies with analog comparator",
+        "missing_handling": "Not applicable"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "In two of the three studies that included an analog control group, the digital systems resulted in a significantly shorter chest tube duration."
+      }
+    },
+    {
+      "concept_id": "pneumo_los_digital_better",
+      "name": "Spontaneous pneumothorax hospital length of stay: studies with significantly shorter LOS using digital vs analog",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Index hospitalization",
+      "groups": [
+        {
+          "arm_id": "studies_pneumo",
+          "raw": {
+            "events": 1,
+            "total": 2
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "studies_pneumo",
+        "measure": "proportion",
+        "est": 0.5,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": null,
+        "p_value": null,
+        "p_operator": "",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive synthesis (count of studies with p<0.05 favoring digital)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Included spontaneous pneumothorax studies with analog comparator",
+        "missing_handling": "Not applicable"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "In the two studies that include an analog control group, only one demonstrated a significantly shorter hospital LOS with the digital system."
+      }
+    }
+  ],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "Modified Downs and Black checklist",
+    "overall_judgment": "good_to_fair",
+    "domains": [
+      {
+        "name": "Reporting",
+        "judgment": "good",
+        "support_for_judgment": "Mean score 21.13/28; most items adequately reported across included studies."
+      },
+      {
+        "name": "External validity",
+        "judgment": "fair",
+        "support_for_judgment": "Mixed study designs and heterogeneity in populations and protocols."
+      },
+      {
+        "name": "Bias and confounding",
+        "judgment": "fair",
+        "support_for_judgment": "Combination of RCTs and observational studies; no meta-analysis due to heterogeneity."
+      },
+      {
+        "name": "Power",
+        "judgment": "fair",
+        "support_for_judgment": "Individual studies often small; review did not pool data."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "digital chest drainage",
+      "analog drainage",
+      "air leak",
+      "thoracic surgery",
+      "spontaneous pneumothorax",
+      "length of stay",
+      "chest tube duration"
+    ],
+    "summary_tldr": "Across 23 studies, digital drainage systems shortened chest tube duration in 8/18 postoperative and 2/3 spontaneous pneumothorax studies, and reduced hospital LOS in 6/14 postoperative and 1/2 pneumothorax studies.",
+    "clinical_relevance": "Digital drainage may facilitate earlier and more objective chest tube removal with potential LOS and cost reductions, though benefits are inconsistent and patient selection is important."
+  }
+}

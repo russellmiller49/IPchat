@@ -1,0 +1,512 @@
+{
+  "source": {
+    "document_id": "nd__yag_laser_therapy_in_lung_cancer__an_11_year.6",
+    "ingest_date": "2025-08-08T14:39:17.092767+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": ""
+  },
+  "document": {
+    "metadata": {
+      "title": "Nd:YAG Laser Therapy in Lung Cancer: An 11-Year Experience with 2,253 Applications in 1,585 Patients",
+      "year": 1994,
+      "authors": [
+        "Sergio Cavaliere",
+        "Pierfranco Foccoli",
+        "Carlo Toninelli",
+        "Salvato Feijo"
+      ],
+      "journal": "Journal of Bronchology",
+      "doi": "",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Between April 1982 and March 1993, 1,585 patients with significant symptoms of malignant airway obstruction were treated with 2,253 tracheobronchial neodymium (Nd):YAG laser resections performed by the first author only: 1,274 patients had non-small cell lung cancers, 91 small cell lung cancers, 105 metastatic tumors, 61 rare malignant tumors, and 81 unclassifiable carcinomas. More than 90% of the Nd:YAG laser resections were performed with rigid bronchoscopy under general anesthesia (sedation plus analgesia with spontaneous ventilation). Almost all the cases (93%) showed immediate good results based on clinical, radiological, and endoscopic follow-up. Rapid regrowth of tumor is the major limitation; in our series the median time between the first and the second treatment was 100 days. Complications have been few to date: 18 hemorrhages, 6 pneumothoraxes, and 10 deaths. The mortality rate was 0.44%. Although laser resection is a palliative treatment, since 1983 we have treated 19 carcinomas in situ and none has recurred. This is also the case for some early endoluminal metastases. Finally, 17 patients with bronchogenic carcinoma that seemed inoperable did have surgery after laser therapy and another 21 underwent less extensive surgery than initially planned. Nd:YAG laser photoresection, in experienced hands, can be used safely and successfully to open airways obstructed by tumor growth while controlling bleeding. Its primary use is in the trachea and in the main bronchi.",
+      "methods": "Rigid bronchoscopy with Nd:YAG laser photoresection was performed, primarily under general anesthesia with spontaneous ventilation. Technique: coagulation of the tumor at low power density, mechanical resection of the endoluminal mass with the bronchoscope tip, vaporization of the tumor stump at high power, and treatment of the surrounding wall at low power and long exposure (20-30 W, 4-5 s pulse duration, 1,000-3,000 J) to achieve a cytocidal effect in depth. The fiber tip was moved along the target and fired nearly parallel to the airway wall to avoid perforation. Anesthetic protocol: premedication diazepam 0.15 mg/kg and atropine 0.01 mg/kg; induction fentanyl 2.5 µg/kg and droperidol 125 µg/kg followed by propofol 2.5 mg/kg; mask ventilation at FiO2 = 1.0; succinylcholine 0.7 mg/kg; laryngotracheal local anesthesia with lidocaine 3-5 ml at 4%; rigid bronchoscope size 8.5; maintenance propofol 6 mg/kg/h and fentanyl bolus 2 µg/kg as needed. Silicone Dumon stents were placed after resection/dilation in selected cases with mixed extrinsic compression and intraluminal growth.",
+      "results": "From April 1982 to March 1993, 1,884 tracheobronchial tumors were treated by Nd:YAG laser, including 1,585 lung cancer patients (2,253 treatments), 143 tumors with uncertain prognosis, and 156 benign tumors. Among 1,419 bronchogenic carcinomas, immediate results were very good in 1,314 (93%) and unsatisfactory in 105 (7%), with results depending more on location and macroscopic appearance than histology. The median interval between the first and second treatment was 100 days (vs 29 days for a prior cohort treated with mechanical resection alone). Nineteen carcinomas in situ were treated with curative intent since 1983 and none recurred. Seventeen patients initially deemed inoperable underwent surgery after laser therapy, and 21 underwent less extensive surgery than initially planned. Complications among 2,253 malignant resections included hemorrhage >250 ml in 18, transient pneumothorax in 6, and 10 deaths (mortality 0.44%). Additional reported serious peri-procedural events: respiratory failure 12 (3 deaths), cardiac arrest 10 (4 deaths), myocardial infarction 4 (2 deaths), and pulmonary embolism 1 (1 death)."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Patients with significant symptoms of malignant tracheobronchial airway obstruction due to primary lung cancer, metastatic tumors, or rare malignant tumors treated at a single center.",
+      "inclusion_criteria": [
+        "Significant symptoms of malignant airway obstruction",
+        "Endoluminal tracheobronchial tumor amenable to bronchoscopic resection",
+        "Primarily nonsurgical/palliative cases; carcinoma in situ considered for curative endoscopic therapy"
+      ],
+      "exclusion_criteria": [
+        "Not explicitly reported"
+      ]
+    },
+    "intervention": {
+      "text": "Rigid bronchoscopic Nd:YAG laser photoresection (with mechanical debulking as needed)",
+      "details": "Nd:YAG laser via quartz fiber; coagulation then mechanical resection then vaporization; wall treated at 20-30 W, 4-5 s pulses, total energy 1,000-3,000 J; general anesthesia with spontaneous ventilation; anesthetic dosing: diazepam 0.15 mg/kg, atropine 0.01 mg/kg, fentanyl 2.5 µg/kg, droperidol 125 µg/kg, propofol 2.5 mg/kg induction and 6 mg/kg/h maintenance, succinylcholine 0.7 mg/kg; adjunctive stent placement in selected cases."
+    },
+    "comparison": {
+      "text": "None (single-arm case series)",
+      "details": "Descriptive outcomes without concurrent control group"
+    },
+    "outcomes": [
+      {
+        "name": "Immediate satisfactory result (significant improvement in ventilation) after first laser treatment",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Procedure-related mortality",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Carcinoma in situ recurrence after curative-intent laser",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Subsequent surgery enabled or downstaged after laser",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "case series",
+    "allocation": "non-randomized",
+    "blinding": "none",
+    "sites_count": 1,
+    "countries": [
+      "IT"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 1585,
+      "analyzed": 1585
+    },
+    "analysis_populations": [
+      {
+        "name": "All treated (lung cancer)",
+        "description": "All lung cancer patients who underwent Nd:YAG laser resection",
+        "n": 1585
+      },
+      {
+        "name": "Bronchogenic carcinoma subset",
+        "description": "Patients with primary bronchogenic carcinoma included in immediate results analysis",
+        "n": 1419
+      },
+      {
+        "name": "All malignant treatments",
+        "description": "Number of malignant tumor laser resections",
+        "n": 2253
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "laser_ndyag",
+      "name": "Nd:YAG laser photoresection (rigid bronchoscopy)",
+      "n_randomized": 0,
+      "n_analyzed": 1585,
+      "n_completed": 0
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "immediate_satisfactory_result_ventilation",
+      "name": "Immediate satisfactory result (significant improvement in ventilation) after first laser treatment",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Immediate post-procedure",
+      "groups": [
+        {
+          "arm_id": "laser_ndyag",
+          "raw": {
+            "events": 1314,
+            "total": 1419
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Bronchogenic carcinoma subset",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          105,
+          111
+        ],
+        "tables": [
+          "Table 5"
+        ],
+        "table_number": 5,
+        "quote": "For the 1,419 bronchogenic carcinomas we were able to report 1,314 (93%) very good immediate results based on clinical, radiological, and endoscopic follow-up."
+      }
+    },
+    {
+      "concept_id": "procedure_related_mortality",
+      "name": "Procedure-related mortality (per malignant laser resection)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Peri-procedural",
+      "groups": [
+        {
+          "arm_id": "laser_ndyag",
+          "raw": {
+            "events": 10,
+            "total": 2253
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All malignant treatments",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          105,
+          111
+        ],
+        "tables": [
+          "Table 6"
+        ],
+        "table_number": 6,
+        "quote": "Of 2,253 malignant tumoral resections... 10 deaths (mortality rate, 0.44%)."
+      }
+    },
+    {
+      "concept_id": "cis_recurrence_after_laser",
+      "name": "Carcinoma in situ recurrence after curative-intent Nd:YAG laser",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Follow-up (reported up to 4 years in cases)",
+      "groups": [
+        {
+          "arm_id": "laser_ndyag",
+          "raw": {
+            "events": 0,
+            "total": 19
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Carcinoma in situ cases since 1983",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          105,
+          111
+        ],
+        "tables": [],
+        "quote": "Although laser resection is a palliative treatment, since 1983 we have treated 19 carcinomas in situ and none has recurred."
+      }
+    },
+    {
+      "concept_id": "surgery_enabled_or_downstaged",
+      "name": "Subsequent surgery enabled or less extensive after laser",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Post-laser clinical course",
+      "groups": [
+        {
+          "arm_id": "laser_ndyag",
+          "raw": {
+            "events": 38,
+            "total": 1585
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated (lung cancer)",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          105,
+          111
+        ],
+        "tables": [],
+        "quote": "17 patients with bronchogenic carcinoma that seemed inoperable did have surgery after laser therapy and another 21 underwent less extensive surgery than initially planned."
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Hemorrhage >250 ml",
+      "meddra": {
+        "soc": "Vascular disorders",
+        "pt": "Haemorrhage"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "required intervention",
+        "hospitalization",
+        "life-threatening"
+      ],
+      "groups": [
+        {
+          "arm_id": "laser_ndyag",
+          "events": 18,
+          "patients": 18,
+          "percentage": 0.8,
+          "total": 2253
+        }
+      ],
+      "period": "Peri-procedural",
+      "management": "Not reported",
+      "provenance": {
+        "pages": [
+          105,
+          111
+        ],
+        "tables": [
+          "Table 6"
+        ],
+        "quote": "Hemorrhage >250 ml 18"
+      }
+    },
+    {
+      "event_name": "Pneumothorax",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Pneumothorax"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "hospitalization",
+        "required intervention"
+      ],
+      "groups": [
+        {
+          "arm_id": "laser_ndyag",
+          "events": 6,
+          "patients": 6,
+          "percentage": 0.3,
+          "total": 2253
+        }
+      ],
+      "period": "Peri-procedural",
+      "management": "Not reported",
+      "provenance": {
+        "pages": [
+          105,
+          111
+        ],
+        "tables": [
+          "Table 6"
+        ],
+        "quote": "Transient pneumothorax 6"
+      }
+    },
+    {
+      "event_name": "Respiratory failure",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Respiratory failure"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "life-threatening",
+        "hospitalization",
+        "death"
+      ],
+      "groups": [
+        {
+          "arm_id": "laser_ndyag",
+          "events": 12,
+          "patients": 12,
+          "percentage": 0.5,
+          "total": 2253
+        }
+      ],
+      "period": "Peri-procedural",
+      "management": "Not reported",
+      "provenance": {
+        "pages": [
+          105,
+          111
+        ],
+        "tables": [
+          "Table 6"
+        ],
+        "quote": "Respiratory failure 12 (3 deaths)"
+      }
+    },
+    {
+      "event_name": "Cardiac arrest",
+      "meddra": {
+        "soc": "Cardiac disorders",
+        "pt": "Cardiac arrest"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "life-threatening",
+        "death",
+        "hospitalization"
+      ],
+      "groups": [
+        {
+          "arm_id": "laser_ndyag",
+          "events": 10,
+          "patients": 10,
+          "percentage": 0.4,
+          "total": 2253
+        }
+      ],
+      "period": "Peri-procedural",
+      "management": "Not reported",
+      "provenance": {
+        "pages": [
+          105,
+          111
+        ],
+        "tables": [
+          "Table 6"
+        ],
+        "quote": "Cardiac arrest 10 (4 deaths)"
+      }
+    },
+    {
+      "event_name": "Myocardial infarction",
+      "meddra": {
+        "soc": "Cardiac disorders",
+        "pt": "Myocardial infarction"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "life-threatening",
+        "hospitalization",
+        "death"
+      ],
+      "groups": [
+        {
+          "arm_id": "laser_ndyag",
+          "events": 4,
+          "patients": 4,
+          "percentage": 0.2,
+          "total": 2253
+        }
+      ],
+      "period": "Peri-procedural",
+      "management": "Not reported",
+      "provenance": {
+        "pages": [
+          105,
+          111
+        ],
+        "tables": [
+          "Table 6"
+        ],
+        "quote": "Myocardial infarction 4 (2 deaths)"
+      }
+    },
+    {
+      "event_name": "Pulmonary embolism",
+      "meddra": {
+        "soc": "Vascular disorders",
+        "pt": "Pulmonary embolism"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "life-threatening",
+        "death",
+        "hospitalization"
+      ],
+      "groups": [
+        {
+          "arm_id": "laser_ndyag",
+          "events": 1,
+          "patients": 1,
+          "percentage": 0.0,
+          "total": 2253
+        }
+      ],
+      "period": "Peri-procedural",
+      "management": "Not reported",
+      "provenance": {
+        "pages": [
+          105,
+          111
+        ],
+        "tables": [
+          "Table 6"
+        ],
+        "quote": "Pulmonary embolism 1 (1 death)"
+      }
+    },
+    {
+      "event_name": "Death",
+      "meddra": {
+        "soc": "General disorders and administration site conditions",
+        "pt": "Death"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "death"
+      ],
+      "groups": [
+        {
+          "arm_id": "laser_ndyag",
+          "events": 10,
+          "patients": 10,
+          "percentage": 0.4,
+          "total": 2253
+        }
+      ],
+      "period": "Peri-procedural",
+      "management": "Not applicable",
+      "provenance": {
+        "pages": [
+          105,
+          111
+        ],
+        "tables": [
+          "Table 6"
+        ],
+        "quote": "10 deaths (mortality rate, 0.44%)."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "NIH Quality Assessment Tool for Case Series",
+    "overall_judgment": "serious",
+    "domains": [
+      {
+        "name": "Selection bias",
+        "judgment": "serious",
+        "support_for_judgment": "Single-center, single-operator case series without a control group; inclusion/exclusion criteria not prespecified."
+      },
+      {
+        "name": "Outcome measurement",
+        "judgment": "moderate",
+        "support_for_judgment": "Immediate outcomes based on clinical, radiological, and endoscopic assessment; no blinded assessment reported."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "Nd:YAG laser",
+      "bronchoscopic photoresection",
+      "lung cancer",
+      "airway obstruction",
+      "rigid bronchoscopy"
+    ],
+    "summary_tldr": "In 1,585 lung cancer patients (2,253 treatments), Nd:YAG laser bronchoscopy achieved immediate satisfactory airway improvement in 1,314/1,419 (93%) bronchogenic carcinomas with low peri-procedural mortality (10/2,253; 0.44%).",
+    "clinical_relevance": "Large single-center experience supports Nd:YAG laser as an effective palliative option to rapidly relieve central airway obstruction, enable adjunctive therapies, and occasionally allow curative treatment of carcinoma in situ."
+  }
+}

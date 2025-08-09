@@ -1,0 +1,125 @@
+{
+  "source": {
+    "document_id": "Transbronchial Cryobiopsy for the Diagnosis of",
+    "ingest_date": "2025-08-08T16:34:14.704918+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1016/j.chest.2019.10.048"
+  },
+  "document": {
+    "metadata": {
+      "title": "Transbronchial Cryobiopsy for the Diagnosis of Interstitial Lung Diseases: CHEST Guideline and Expert Panel Report",
+      "year": 2020,
+      "authors": [
+        "Fabien Maldonado",
+        "Sonye K. Danoff",
+        "Athol U. Wells",
+        "Thomas V. Colby",
+        "Jay H. Ryu",
+        "Moishe Liberman",
+        "Momen M. Wahidi",
+        "Lindsy Frazer",
+        "Juergen Hetzel",
+        "Otis B. Rickman",
+        "Felix J. F. Herth",
+        "Venerino Poletti",
+        "Lonny B. Yarmus"
+      ],
+      "journal": "CHEST",
+      "doi": "10.1016/j.chest.2019.10.048",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "BACKGROUND: Transbronchial cryobiopsy (TBC) is increasingly recognized as a potential alternative to surgical lung biopsy (SLB) for the diagnosis of interstitial lung disease (ILD). The goal of this analysis was to examine the literature on TBC as it relates to diagnostic utility and safety to provide evidence-based and expert guidance to clinicians. METHODS: Approved panelists developed key questions regarding the diagnostic utility and safety of TBC for the evaluation of ILD using the PICO (Population, Intervention, Comparator, Outcome) format. MEDLINE (via PubMed) and the Cochrane Library were systematically searched for relevant literature, which was supplemented by manual searches. References were screened for inclusion, and vetted evaluation tools were used to assess the quality of included studies, to extract data, and to grade the level of evidence supporting each recommendation or statement. Graded recommendations and ungraded consensus-based statements were drafted and voted on using a modified Delphi technique to achieve consensus. RESULTS: The systematic review and critical analysis of the literature based on four PICO questions resulted in six statements: two evidence-based graded recommendations and four ungraded consensus-based statements. CONCLUSIONS: Evidence of the utility and safety of TBC for the diagnosis of ILD is limited but suggests TBC is safer than SLB, and its contribution to the diagnosis obtained via multidisciplinary discussion is comparable to that of SLB, although the histological diagnostic yield appears higher with SLB (approximately 80% for TBC vs 95% for SLB). Additional research is needed to enhance knowledge regarding utility and safety of TBC, its role in the diagnostic algorithm of ILD, and the impact of technical aspects of the procedure on diagnostic yield and safety.",
+      "methods": "The expert panel drafted four key clinical questions using the PICO format. Systematic searches (November 2017) were conducted in MEDLINE (via PubMed) and the Cochrane Library, limited to English language and including systematic reviews, randomized controlled trials, and prospective and retrospective cohort studies; case reports and case series were excluded. Study selection involved two rounds (title/abstract, then full-text) by paired reviewers with consensus resolution. Data extraction was performed using structured tables with independent extraction and verification by paired panelists. Risk of bias was assessed using the Cochrane Risk of Bias tool (RCTs), Cochrane Bias Methods Group Tool for cohort studies, and the Documentation and Appraisal Review Tool for systematic reviews. Where appropriate, meta-analyses were conducted using OpenMeta[analyst] with random-effects (DerSimonian and Laird), reporting risk ratios for dichotomous outcomes and mean differences for continuous outcomes with 95% CIs; heterogeneity assessed by I2 and chi-squared tests. Certainty of evidence was graded per GRADE. Recommendations were developed and voted on via a modified Delphi process, with CHEST policy requiring ≥75% participation and ≥80% consensus.",
+      "results": "Six statements were issued: two graded recommendations and four ungraded consensus-based statements. The panel suggests TBC can provide histopathologic findings for multidisciplinary discussion diagnosis in suspected ILD (weak, very low-quality evidence). Biopsy of at least two different sites is suggested (weak, low-quality evidence), noting higher pneumothorax risk with two sites vs one (24.6% vs 15.2%). Consensus statements recommend positioning the cryoprobe tip 1 cm from the pleura, routine use of fluoroscopy, use of a bronchial blocker via endotracheal tube or rigid bronchoscope, and preferential use of a 1.9 mm cryoprobe. Overall, TBC appears safer than SLB, with comparable contribution to multidisciplinary diagnosis, though histological diagnostic yield appears higher with SLB (approximately 80% for TBC vs 95% for SLB)."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with suspected interstitial lung disease undergoing diagnostic evaluation where histopathology may be required.",
+      "inclusion_criteria": [
+        "Studies of adults with suspected or confirmed ILD undergoing transbronchial cryobiopsy and/or surgical lung biopsy",
+        "Prospective or retrospective cohort studies, randomized trials, and systematic reviews in English"
+      ],
+      "exclusion_criteria": [
+        "Case reports",
+        "Case series",
+        "Non-English publications"
+      ]
+    },
+    "intervention": {
+      "text": "Transbronchial cryobiopsy (TBC)",
+      "details": "Bronchoscopic cryobiopsy performed typically under fluoroscopic guidance with the cryoprobe tip positioned approximately 1 cm from the pleura; use of a bronchial blocker via endotracheal tube or rigid bronchoscope; sampling at least two different sites; preferential use of a 1.9 mm cryoprobe."
+    },
+    "comparison": {
+      "text": "Surgical lung biopsy (SLB) and alternative TBC techniques",
+      "details": "Comparators included SLB for diagnostic yield and safety; within-procedure comparisons included TBC at one site vs two sites, cryoprobe size (2.4 mm vs 1.9 mm), and use vs non-use of fluoroscopy/bronchial blocker."
+    },
+    "outcomes": [
+      {
+        "name": "Diagnostic yield (histopathology and contribution to multidisciplinary discussion)",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Procedure-related mortality",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Pneumothorax",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Bleeding (moderate to severe)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Need for chest tube",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Hospitalization or escalation of care",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "guideline_systematic_review",
+    "allocation": "NA",
+    "blinding": "NA",
+    "sites_count": null,
+    "countries": [],
+    "sample_size": {
+      "planned": null,
+      "enrolled": null,
+      "analyzed": null
+    },
+    "analysis_populations": []
+  },
+  "arms": [],
+  "outcomes_normalized": [],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "GRADE for certainty of evidence; risk of bias of included studies via Cochrane tools",
+    "overall_judgment": "not_applicable",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "interstitial lung disease",
+      "transbronchial cryobiopsy",
+      "surgical lung biopsy",
+      "bronchoscopy",
+      "guideline",
+      "CHEST"
+    ],
+    "summary_tldr": "CHEST guideline suggests TBC can inform ILD diagnosis with lower risk than SLB, though SLB has higher histologic yield (~95% vs ~80%). Two-site TBC improves yield but increases pneumothorax risk.",
+    "clinical_relevance": "Provides practical, GRADE-informed guidance on when and how to perform TBC for ILD diagnosis, including safety measures (fluoroscopy, bronchial blocker, probe size, distance from pleura)."
+  }
+}

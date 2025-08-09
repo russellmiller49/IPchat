@@ -1,0 +1,420 @@
+{
+  "source": {
+    "document_id": "Senitko-2019-Safety and Tolerability of Vacuum",
+    "ingest_date": "2025-08-08T15:48:19.465697+00:00",
+    "trial_registration_id": "NCT03496987",
+    "pmid": "",
+    "doi": "10.1097/LBR.0000000000000556"
+  },
+  "document": {
+    "metadata": {
+      "title": "Safety and Tolerability of Vacuum vs Manual Drainage During Thoracentesis: A Randomized Trial",
+      "year": 2019,
+      "authors": [
+        "Michal Senitko",
+        "Amrik S. Ray",
+        "Terrence E. Murphy",
+        "Katy L.B. Araujo",
+        "Kyle Bramley",
+        "Erin M. Debiasi",
+        "Margaret A. Pisani",
+        "Kelsey Cameron",
+        "Jonathan T. Puchalski"
+      ],
+      "journal": "Journal of Bronchology & Interventional Pulmonology",
+      "doi": "10.1097/LBR.0000000000000556",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Background: Pleural effusions may be aspirated manually or via vacuum during thoracentesis. This study compares the safety, pain level, and time involved for these techniques. Methods: We randomized 100 patients receiving ultrasound-guided unilateral thoracentesis in an academic medical center from December 2015 through September 2017 to either vacuum or manual drainage. Without using pleural manometry, the effusion was drained completely or until development of refractory symptoms. Measurements included self-reported pain before and during the procedure (from 0-10), time for completion of drainage, and volume removed. Primary outcomes were rates of all-cause complications and of early termination of procedure with secondary outcomes of change in pain score, drainage time, volume removed, and inverse rate of removal. Results: Patient characteristics in the manual (n=49) and vacuum (n=51) groups were similar. Rate of all-cause complications was higher in the vacuum group (5 vs 0, p=0.03): pneumothorax (n=3), surgically treated hemothorax with subsequent death (n=1) and re-expansion pulmonary edema causing respiratory failure (n=1), as was rate of early termination (8 vs 1, p=0.018). The vacuum group exhibited greater pain during drainage (p<0.05), shorter drainage time (p<0.01), no association with volume removed (p>0.05), and lower inverse rate of removal (p<=0.01). Conclusion: Despite requiring less time, vacuum aspiration during thoracentesis was associated with higher rates of complication and of early termination of procedure and greater pain. While larger studies are needed, this pilot study suggests that manual aspiration provides greater safety and patient comfort.",
+      "methods": "A prospective randomized single-center trial (Yale-New Haven Hospital) enrolled adult inpatients from December 2015 through September 2017 undergoing ultrasound-guided unilateral thoracentesis. Participants were randomized to manual syringe aspiration with a one-way valve and drainage bag (Safe-T-Centesis Carefusion kit) or to vacuum drainage via an evacuated container (Baxter). Pleural manometry was not used. Drainage aimed for complete evacuation; procedures were terminated early only for refractory symptoms (e.g., intolerable chest pain or cough) or device malfunction. Outcomes recorded included self-reported pain (Numeric Pain Rating Scale 0-10) before and during drainage, drainage time (seconds), and net volume removed (mL). Complications were defined a priori as post-procedure pneumothorax, hemothorax, radiographic re-expansion pulmonary edema, and post-procedure respiratory failure. Statistical analysis used t-tests for continuous variables, chi-square or Fisher’s exact tests for categorical variables, and intercept-only negative binomial regression to estimate rates of primary outcomes. For secondary continuous outcomes, multivariable linear regression adjusted for exudative effusion, loculation, malignancy, and recent cardiac procedure; significant findings were checked via Wilcoxon tests. Significance threshold p<0.05.",
+      "results": "One hundred patients were randomized: manual n=49, vacuum n=51, with similar baseline characteristics and predominantly exudative effusions. All-cause complications were higher with vacuum (5 vs 0, p=0.03), consisting of pneumothorax (n=3, none requiring chest tube), surgically treated hemothorax with subsequent death (n=1), and re-expansion pulmonary edema causing respiratory failure (n=1). Early termination was more frequent with vacuum (8 vs 1; p=0.02), most due to symptoms; one vacuum case was due to vacuum system malfunction. Two additional vacuum patients had pneumothorax ex vacuo related to malignancy (non-expandable lung) and were not considered complications. After multivariable adjustment, vacuum drainage was associated with greater increase in pain during drainage (approximately 1 point higher), shorter drainage time, no significant difference in volume removed, and a lower inverse rate of removal."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adult inpatients undergoing ultrasound-guided unilateral thoracentesis at a tertiary academic hospital.",
+      "inclusion_criteria": [
+        "Age > 18 years",
+        "Radiographic evidence of pleural effusion",
+        "Clinically indicated thoracentesis",
+        "Ability to provide informed consent and report pain"
+      ],
+      "exclusion_criteria": [
+        "Refused enrollment",
+        "Unable to verbalize pain (non-English speaking or altered mental status)",
+        "Known trapped lung",
+        "Bilateral thoracentesis planned",
+        "History of pleurodesis or pleural procedure other than thoracentesis"
+      ]
+    },
+    "intervention": {
+      "text": "Vacuum drainage",
+      "details": "Thoracentesis catheter connected to an evacuated container (Baxter); continuous suction drainage without pleural manometry; otherwise standard technique and local anesthesia."
+    },
+    "comparison": {
+      "text": "Manual drainage",
+      "details": "Manual aspiration using 60 mL syringe with one-way valve and drainage into a bag (Safe-T-Centesis Carefusion kit); no pleural manometry; otherwise identical technique and local anesthesia."
+    },
+    "outcomes": [
+      {
+        "name": "All-cause complications (pneumothorax, hemothorax, re-expansion pulmonary edema, post-procedure respiratory failure)",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Early termination of procedure",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Change in pain score during drainage (NPRS 0-10)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Drainage time (seconds)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Volume removed (mL)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Inverse rate of removal (seconds per 100 mL)",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "RCT",
+    "allocation": "randomized",
+    "blinding": "open-label",
+    "sites_count": 1,
+    "countries": [
+      "US"
+    ],
+    "sample_size": {
+      "planned": 100,
+      "enrolled": 100,
+      "analyzed": 100
+    },
+    "analysis_populations": [
+      {
+        "name": "ITT",
+        "description": "All randomized participants",
+        "n": 100
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "Vacuum drainage",
+      "n_randomized": 51,
+      "n_analyzed": 51,
+      "n_completed": 43
+    },
+    {
+      "arm_id": "control",
+      "name": "Manual drainage",
+      "n_randomized": 49,
+      "n_analyzed": 49,
+      "n_completed": 48
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "all_cause_complications_post_thoracentesis",
+      "name": "All-cause complications (pneumothorax, hemothorax, re-expansion pulmonary edema, post-procedure respiratory failure)",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "PT0H",
+      "timepoint_label": "Post-procedure",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 5,
+            "total": 51
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 0,
+            "total": 49
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": 0.098,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.03,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Intercept-only negative binomial (rate comparison) and Fisher's exact test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT",
+        "missing_handling": "Complete-case; all randomized analyzed"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "Rate of all-cause complications was higher in the vacuum group (5 vs 0, p=0.03)."
+      },
+      "derived": {
+        "arr": 0.098,
+        "nnt": 10.2
+      }
+    },
+    {
+      "concept_id": "early_termination_of_procedure",
+      "name": "Early termination of procedure",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "PT0H",
+      "timepoint_label": "During procedure",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 8,
+            "total": 51
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 1,
+            "total": 49
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": 0.141,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.02,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Fisher's exact test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT",
+        "missing_handling": "Complete-case; all randomized analyzed"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "Vacuum has a higher rate of early termination of procedure (8 vs 1, p=0.02)."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 7.686
+        },
+        "odds_ratio": {
+          "est": 8.93
+        },
+        "arr": 0.136,
+        "nnt": 7.3
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Pneumothorax",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Pneumothorax"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 3,
+          "patients": 3,
+          "percentage": 5.9,
+          "total": 51
+        },
+        {
+          "arm_id": "control",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 49
+        }
+      ],
+      "period": "Post-procedure (in-hospital)",
+      "management": "No tube thoracostomy required (observation).",
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "Rate of all-cause complications was higher in the vacuum group (5 vs 0): pneumothorax (n=3)... The three patients with pneumothorax did not require tube thoracostomy."
+      }
+    },
+    {
+      "event_name": "Hemothorax",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Haemothorax"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "hospitalization",
+        "surgical intervention",
+        "death"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 1,
+          "patients": 1,
+          "percentage": 2,
+          "total": 51
+        },
+        {
+          "arm_id": "control",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 49
+        }
+      ],
+      "period": "Post-procedure (in-hospital)",
+      "management": "Surgical exploration performed.",
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "Surgically treated hemothorax with subsequent death (n=1)."
+      }
+    },
+    {
+      "event_name": "Re-expansion pulmonary edema",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Re-expansion pulmonary oedema"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "other medically important condition"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 1,
+          "patients": 1,
+          "percentage": 2,
+          "total": 51
+        },
+        {
+          "arm_id": "control",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 49
+        }
+      ],
+      "period": "Post-procedure (in-hospital)",
+      "management": "Non-invasive positive pressure ventilation.",
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "Re-expansion pulmonary edema causing respiratory failure (n=1)... One patient required non-invasive positive pressure ventilation due to acute respiratory failure related to re-expansion pulmonary edema."
+      }
+    },
+    {
+      "event_name": "Pneumothorax ex vacuo",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Pneumothorax"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 2,
+          "patients": 2,
+          "percentage": 3.9,
+          "total": 51
+        },
+        {
+          "arm_id": "control",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 49
+        }
+      ],
+      "period": "Post-procedure (in-hospital)",
+      "management": "Attributed to non-expandable lung related to malignancy; not counted as complications.",
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "Two additional vacuum patients had pneumothorax ex-vacuo related to malignancy."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "RoB 2",
+    "overall_judgment": "some concerns",
+    "domains": [
+      {
+        "name": "Randomization process",
+        "judgment": "low",
+        "support_for_judgment": "Participants were randomized to vacuum or manual drainage; groups were similar at baseline."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "some concerns",
+        "support_for_judgment": "Open-label design may influence early termination decisions and pain reporting; one vacuum termination due to device malfunction."
+      },
+      {
+        "name": "Missing outcome data",
+        "judgment": "low",
+        "support_for_judgment": "All 100 randomized participants were included in primary outcome analyses."
+      },
+      {
+        "name": "Measurement of the outcome",
+        "judgment": "low",
+        "support_for_judgment": "Complications and early termination were objectively ascertained; post-procedure radiographs routinely obtained."
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "low",
+        "support_for_judgment": "Primary and secondary outcomes were pre-specified; statistical methods reported."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "thoracentesis",
+      "vacuum drainage",
+      "manual drainage",
+      "pleural effusion",
+      "pneumothorax",
+      "hemothorax",
+      "re-expansion pulmonary edema",
+      "randomized trial"
+    ],
+    "summary_tldr": "In a single-center RCT (n=100), vacuum drainage during thoracentesis increased all-cause complications (5/51 vs 0/49; p=0.03) and early termination (8/51 vs 1/49; p=0.02) compared with manual drainage.",
+    "clinical_relevance": "Manual syringe aspiration may offer better safety and tolerability than vacuum suction for thoracentesis, with minimal trade-off in procedure time."
+  }
+}

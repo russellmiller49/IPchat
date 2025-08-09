@@ -1,0 +1,87 @@
+{
+  "source": {
+    "document_id": "Towards an optimization of bronchoscopic approaches to the PPN",
+    "ingest_date": "2025-08-08T16:28:02.673661+00:00",
+    "trial_registration_id": null,
+    "pmid": null,
+    "doi": "10.21037/jtd.2018.04.38"
+  },
+  "document": {
+    "metadata": {
+      "title": "Towards an optimization of bronchoscopic approaches to the diagnosis and treatment of the pulmonary nodules: a review",
+      "year": 2018,
+      "authors": [
+        "William S. Krimsky",
+        "Michael A. Pritchett",
+        "Kelvin K. W. Lau"
+      ],
+      "journal": "Journal of Thoracic Disease",
+      "doi": "10.21037/jtd.2018.04.38",
+      "pmid": null
+    },
+    "sections": {
+      "abstract": "The last several years have seen substantive improvements and innovation with respect to bronchoscopic approaches to the indeterminate pulmonary nodule both diagnostically and therapeutically. Indeed, these advances have only accelerated over the last year or two and extend across multiple domains and include improvements in imaging technologies and techniques, approaches and tools to access different areas of the lung, tools to acquire tissue as well as tools and methods to ablate tissue. Needless to say, there are a variety of different approaches in terms of how these issues are being solved along with differing levels of technology and infrastructure commitments necessary to utilize these various tools, with some of these approaches being farther along than others. This article reviews some of these recent advances in the domains of advanced imaging, approaches to accessing various parts of the lung, tools designed to acquire tissue, robotic endoscopy platforms, new approaches to tissue ablation as well as potential additions to these areas that are on the horizon.",
+      "methods": "Narrative review. The authors summarize recent advances and feasibility data across imaging (CBCT, augmented fluoroscopy, tomosynthesis), access techniques (BTPNA, TBAT), tools (flexible needles), robotic platforms, and ablation approaches relevant to bronchoscopic diagnosis and treatment of pulmonary nodules. No prespecified protocol, systematic search, meta-analysis, or statistical synthesis was reported.",
+      "results": "Key quantitative findings from cited studies include: (1) CBCT-assisted bronchoscopy: diagnostic yield 70% in 33 patients (average lesion 25 mm); another series reported 71.2% yield in 59 lesions (average 31 mm) with CBCT-confirmed forceps positioning associated with higher yield. ENB combined with CBCT showed diagnostic yield 87.7% for 57 nodules (median 15 mm), including 91.6% (11/12) for lesions ≤10 mm; an expanded single-center cohort (93 lesions, 75 patients) reported overall yield 93.5%. (2) Augmented fluoroscopy (LungVision): accurate localization and biopsy of 20 lesions (average 21.7 mm) with mean divergence from CBCT of 5 mm; a multicenter feasibility study in 85 patients showed 92% success and no periprocedural adverse events. (3) Tomosynthesis with ENB: in an animal model, correlation between tomosynthesis-derived position and HRCT was 0.926, whereas ENB alone showed correlation 0.048 (P<0.0001); in the NAVIGATE trial, 60% of 1,000 ENB cases had lesions visible on standard fluoroscopy, supporting value of fluoroscopic navigation and local re-registration. (4) BTPNA (Archimedes): first human trial enrolled 12, with procedure possible in 10 (85%); all 10 had successful transparenchymal access, biopsy, and diagnosis (average lesion 25 mm) with no pneumothorax or bronchopulmonary hemorrhage. A second human series enrolled 6, with 5 completed (average lesion 19.8 mm), all malignant; pneumothorax occurred in 2/5 (40%), with 1 chest tube required. (5) TBAT (CrossCountry): case series of 3 reached the lesion in all, 2 definitive diagnoses, no adverse events; another series of 12 lesions had 75% access (9/12), 66% diagnostic yield (8/12), and 1 pneumothorax requiring chest tube; after instituting a CBCT-based protocol, the next 7/7 were successful. (6) Thin convex probe EBUS: ex vivo and cadaveric studies demonstrated increased reach by 22 mm and improved access to segmental bronchi (right lung subsegments 98% vs 48%; left 91% vs 47%) compared with standard convex EBUS. (7) EMTTNA (SPiN Perc): in 24 patients (average lesion 20.3 mm), ENB alone was diagnostic in 33%; EMTTNA alone had 83% diagnostic yield with 21% pneumothorax; combined ENB+EBUS+EMTTNA yield was 92% (58% malignant, 42% benign)."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Patients with indeterminate pulmonary nodules undergoing bronchoscopic evaluation and related image-guided diagnostic procedures.",
+      "inclusion_criteria": [],
+      "exclusion_criteria": []
+    },
+    "intervention": {
+      "text": "Advanced bronchoscopic imaging and access techniques (e.g., CBCT-assisted bronchoscopy, augmented fluoroscopy, tomosynthesis, BTPNA, TBAT, EMTTNA, thin convex EBUS).",
+      "details": "Use of real-time imaging (CBCT, augmented fluoroscopy, tomosynthesis) and novel access/tools (BTPNA, TBAT, flexible needles) to localize and biopsy pulmonary nodules; some studies combine ENB with these modalities."
+    },
+    "comparison": {
+      "text": null,
+      "details": null
+    },
+    "outcomes": [
+      {
+        "name": "Diagnostic yield of bronchoscopic or percutaneous techniques for pulmonary nodules",
+        "type": "primary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Narrative review",
+    "allocation": null,
+    "blinding": null,
+    "sites_count": null,
+    "countries": [],
+    "sample_size": {
+      "planned": null,
+      "enrolled": null,
+      "analyzed": null
+    },
+    "analysis_populations": []
+  },
+  "arms": [],
+  "outcomes_normalized": [],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "Not applicable",
+    "overall_judgment": "unclear",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "bronchoscopy",
+      "pulmonary nodule",
+      "navigational bronchoscopy",
+      "cone beam CT",
+      "augmented fluoroscopy",
+      "tomosynthesis",
+      "BTPNA",
+      "TBAT",
+      "EMTTNA",
+      "EBUS"
+    ],
+    "summary_tldr": "Narrative review summarizing advances in image-guided bronchoscopic diagnosis of pulmonary nodules; CBCT-assisted approaches report diagnostic yields of approximately 70-94% in small series, with feasibility and safety data for BTPNA, TBAT, and EMTTNA.",
+    "clinical_relevance": "Provides clinicians with up-to-date options to improve localization and biopsy of pulmonary nodules, highlighting technologies that may mitigate CT-to-body divergence and enable future bronchoscopic ablation."
+  }
+}

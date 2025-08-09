@@ -1,0 +1,111 @@
+{
+  "source": {
+    "document_id": "Evaluation of individuals with pulmonary nodules when is it lung cancer",
+    "ingest_date": "2025-08-08T12:05:15.747532+00:00",
+    "trial_registration_id": "",
+    "pmid": "23649456",
+    "doi": "10.1378/chest.12-2351"
+  },
+  "document": {
+    "metadata": {
+      "title": "Evaluation of Individuals With Pulmonary Nodules: When Is It Lung Cancer? Diagnosis and Management of Lung Cancer, 3rd ed: American College of Chest Physicians Evidence-Based Clinical Practice Guidelines",
+      "year": 2013,
+      "authors": [
+        "Michael K. Gould",
+        "Jessica Donington",
+        "William R. Lynch",
+        "Peter J. Mazzone",
+        "David E. Midthun",
+        "David P. Naidich",
+        "Renda Soylemez Wiener"
+      ],
+      "journal": "CHEST",
+      "doi": "10.1378/chest.12-2351",
+      "pmid": "23649456"
+    },
+    "sections": {
+      "abstract": "Objectives: Update evidence-based recommendations for evaluation and management of individuals with solid pulmonary nodules and generate new recommendations for nonsolid nodules. Methods: Prior literature reviews were updated and evidence synthesized using the ACCP Lung Cancer Guidelines 3rd edition methods. Results: Recommendations were formulated for solid nodules >8 mm, solid nodules ≤8 mm, and subsolid nodules (pure ground-glass and part-solid). Key themes include estimating probability of malignancy, appropriate use of imaging (CT, PET), weighing benefits and harms of surveillance, nonsurgical biopsy, and surgical resection, and eliciting patient preferences. Conclusions: Individuals with pulmonary nodules should be evaluated by estimating malignancy probability, performing imaging to better characterize lesions, evaluating risks of management options, and eliciting preferences.",
+      "methods": "Searches of MEDLINE for chest CT imaging, PET imaging, transthoracic needle biopsy (TTNB), subsolid nodules, bronchoscopy, surgical complications, and methods to detect nodule growth were performed in October 2011 and updated through May 2012. Additional articles were identified from personal files and reference lists. Included studies comprised randomized trials, controlled observational studies, diagnostic accuracy studies, and cross-sectional studies linking morphology and outcomes. A multidisciplinary committee (pulmonologists, thoracic surgeons, radiologist) formulated questions, synthesized evidence, developed and graded recommendations using standardized ACCP methodology with iterative consensus.",
+      "results": "Recommendations cover: General approach (review prior imaging; no further evaluation for solid nodules stable ≥2 years), imaging (CT with thin sections for radiograph-detected nodules), solid nodules >8 mm (estimate pretest malignancy probability; use PET when 5%-65% risk; avoid PET when >65% risk; discuss risks/benefits; CT surveillance schedules; indications for nonsurgical biopsy vs surgical diagnosis), solid nodules ≤8 mm (size- and risk-based CT surveillance intervals), nonsolid nodules (≤5 mm: no further eval; >5 mm: annual CT ≥3 years), part-solid nodules (≤8 mm: CT at ~3, 12, 24 months then annually 1-3 years; >8 mm: repeat CT at 3 months then PET/biopsy/resection if persistent; >15 mm proceed to evaluation). Guidance provided for patients with a dominant nodule plus additional small nodules."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with indeterminate pulmonary nodules (solid or subsolid) identified on chest radiography or CT, including solitary nodules or a dominant nodule with additional small nodules.",
+      "inclusion_criteria": [
+        "Indeterminate pulmonary nodule up to 3 cm in diameter",
+        "Nodule visible on chest radiograph and/or CT",
+        "Solid or subsolid (pure ground-glass or part-solid) morphology",
+        "Solitary nodule or a dominant nodule with one or more additional small nodules"
+      ],
+      "exclusion_criteria": [
+        "Diffuse or multiple nodules >10 in number",
+        "Lung masses >3 cm",
+        "Nodules with benign features (eg, benign calcification pattern, intranodular fat of hamartoma, AVM with feeding vessel)",
+        "Symptomatic nodules managed elsewhere (eg, masses)"
+      ]
+    },
+    "intervention": {
+      "text": "ACCP guideline-directed evaluation and management",
+      "details": "Estimate pretest probability of malignancy; perform CT with thin sections; use PET for solid nodules >8 mm when malignancy probability is 5%-65%; avoid PET for high probability >65% (use for staging if malignancy suspected/confirmed); select surveillance CT intervals by size and risk; consider nonsurgical biopsy when imaging and probability are discordant or low-to-moderate probability; consider surgical diagnosis for high probability or strongly positive functional imaging; specific surveillance intervals for solid ≤8 mm, pure ground-glass, and part-solid nodules."
+    },
+    "comparison": {
+      "text": "Alternative management strategies",
+      "details": "Comparison across strategies of CT surveillance versus nonsurgical biopsy versus surgical resection, tailored by malignancy probability, imaging findings, and patient preferences."
+    },
+    "outcomes": [
+      {
+        "name": "Accurate characterization and timely diagnosis of malignant pulmonary nodules while minimizing unnecessary procedures and harms",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Appropriate use of imaging (CT, PET) by malignancy risk strata",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Procedure-related complications (eg, pneumothorax) and harms from surveillance",
+        "type": "safety",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Guideline",
+    "allocation": "none",
+    "blinding": "none",
+    "sites_count": 0,
+    "countries": [
+      "US"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": []
+  },
+  "arms": [],
+  "outcomes_normalized": [],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "Not applicable",
+    "overall_judgment": "not_applicable",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "pulmonary nodule",
+      "CT",
+      "PET",
+      "biopsy",
+      "surveillance",
+      "ground-glass nodule",
+      "part-solid nodule",
+      "ACCP guideline"
+    ],
+    "summary_tldr": "ACCP 2013 guideline provides risk-based algorithms for managing solid and subsolid pulmonary nodules, emphasizing malignancy probability estimation, appropriate imaging, surveillance intervals, and biopsy/surgery selection based on risk and patient preferences.",
+    "clinical_relevance": "Supports standardized, risk-stratified evaluation of indeterminate pulmonary nodules to balance early cancer detection against overdiagnosis and procedure-related harms."
+  }
+}

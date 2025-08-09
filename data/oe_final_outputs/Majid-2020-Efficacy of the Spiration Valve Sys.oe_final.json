@@ -1,0 +1,623 @@
+{
+  "source": {
+    "document_id": "Majid-2020-Efficacy of the Spiration Valve Sys",
+    "ingest_date": "2025-08-08T14:08:42.734219+00:00",
+    "trial_registration_id": "CRD42016040001",
+    "pmid": "31743827",
+    "doi": "10.1159/000504183"
+  },
+  "document": {
+    "metadata": {
+      "title": "Efficacy of the Spiration Valve System in Patients with Severe Heterogeneous Emphysema: A Systematic Review and Meta-Analysis",
+      "year": 2020,
+      "authors": [
+        "Adnan Majid",
+        "Gonzalo Labarca",
+        "Juan Pablo Uribe",
+        "Fayez Kheir",
+        "Cecilia Pacheco",
+        "Erik Folch",
+        "Michael A. Jantz",
+        "Hiren J. Mehta",
+        "Neal M. Patel",
+        "Felix J.F. Herth",
+        "Sebastian Fernandez-Bussy"
+      ],
+      "journal": "Respiration",
+      "doi": "10.1159/000504183",
+      "pmid": "31743827"
+    },
+    "sections": {
+      "abstract": "Background: Spiration Valve System (SVS) is an alternative for patients with severe heterogeneous emphysema; however, data about efficacy from randomized controlled trials (RCT) are unclear. Objectives: To explore both efficacy and safety of SVS in patients with severe emphysema and hyperinflation. Methods: We included PubMed, EMBASE, Cochrane database. All searches were performed until August 2019. Only RCTs were included for analysis. Risk of bias was assessed using Cochrane risk of bias tool. A meta-analysis evaluated change in forced expiratory volume in 1 s (FEV1), 6-min walking test (6MWT), residual volume, modified medical research council (mMRC) and Saint George respiratory questionnaire (SGRQ), all-cause mortality, risk of pneumothorax, and risk of acute exacerbation of chronic obstructive pulmonary disease (AECOPD). Quality of the evidence was rated using GRADE approach. Results: Four RCTs including 629 subjects were included. SVS showed an overall change of 0.03 L (-0.07 to 0.13, I2 = 90%) in the in FEV1 (L) and a 2.03% (-2.50 to 6.57, I2 = 96%) in the predicted FEV1 (%) compared to baseline; however, studies without collateral ventilation (CV) showed an improvement of 0.12 L (95% CI 0.09-0.015, I2 = 0%), This subgroup also reported better results in SGRQ -12.27 points (95% CI -15.84 to -8.70, I2 = 0%) and mMRC -0.54 (95% CI -0.74 to -0.33, I2 = 0%). We found no benefit in 6MWT mean difference = 4.56 m (95% CI -21.88 to 31.00, I2 = 73%). Relative risk of mortality was 2.54 (95% CI 0.81-7.96, I2 = 0%), for pneumothorax 3.3 (95% CI 0.61-18.12, I2 = 0%) and AECOPD 1.68 (95% CI 1.04-2.70, I2 = 0%). Conclusion: In patients with severe heterogeneous emphysema and hyperinflation without CV, SVS is an alternative that showed an improvement in pulmonary function, quality of life, and dyspnea score with an acceptable risk profile.",
+      "methods": "Systematic review and random-effects meta-analysis of RCTs following PRISMA and Cochrane Handbook guidance. Databases searched in August 2019 included MEDLINE, Lilacs, Trip Database, Directory of Open Access Journals, Cochrane database, and Epistemonikos; conference proceedings from ERS, ATS, and CHEST (2014-2018) were also searched. Inclusion: adult COPD with severe heterogeneous emphysema and hyperinflation by HRCT and PFT; intervention: Spiration Valve System; comparator: optimized standard of care; outcomes: FEV1 (L and % predicted), RV, SGRQ, mMRC, 6MWT, all-cause mortality, pneumothorax, AECOPD. Only RCTs were included. Data were pooled using DerSimonian-Laird random-effects models. Heterogeneity was assessed with I2. Prespecified subgroup analyses: collateral ventilation status (by HRCT fissure completeness), risk of bias, and follow-up time (3, 6, 12 months). Quality assessed with GRADE.",
+      "results": "Four multicenter parallel-group RCTs (n = 629; SVS n = 364, control n = 265) were included. Overall FEV1 (L) MD was 0.03 (95% CI -0.07 to 0.13; I2 = 90%; Z = 0.61; p = 0.54). Predicted FEV1 (%) MD was 2.03 (95% CI -2.50 to 6.57; I2 = 96%). In no-collateral-ventilation subgroups, FEV1 (L) MD was 0.12 (95% CI 0.09 to 0.15; I2 = 0%); SGRQ MD -12.27 (95% CI -15.84 to -8.70; I2 = 0%); mMRC MD -0.54 (95% CI -0.74 to -0.33; I2 = 0%). Overall SGRQ MD -6.50 (95% CI -16.05 to 3.04; I2 = 94%). mMRC overall MD -0.33 (95% CI -0.61 to -0.05; I2 = 65%). 6MWT MD 4.56 m (95% CI -21.88 to 31.00; I2 = 73%). At 12 months, FEV1 (L) MD 0.10 (95% CI 0.05 to 0.15); SGRQ MD -9.50 (95% CI -13.66 to -5.34); mMRC MD -0.80 (95% CI -1.05 to -0.55). Safety meta-analytic RRs: mortality 2.54 (95% CI 0.81-7.96; I2 = 0%), pneumothorax 3.33 (95% CI 0.61-18.12; I2 = 0%), AECOPD 1.68 (95% CI 1.04-2.70; I2 = 0%)."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with COPD and severe heterogeneous emphysema with hyperinflation evaluated for endobronchial valve therapy.",
+      "inclusion_criteria": [
+        "Adults with COPD per guideline criteria",
+        "Severe heterogeneous emphysema on HRCT (≥40% emphysema destruction in target lobe and ≥10% difference vs ipsilateral lobe)",
+        "Pulmonary hyperinflation (FEV1 < 45% predicted, TLC > 100% predicted, RV > 150% predicted)",
+        "Optimized medical management allowed"
+      ],
+      "exclusion_criteria": [
+        "Non-RCT study designs",
+        "Non-SVS bronchoscopic lung volume reduction techniques (e.g., Zephyr valves, vapor ablation, coils)",
+        "Populations without severe heterogeneous emphysema"
+      ]
+    },
+    "intervention": {
+      "text": "Spiration Valve System (SVS) endobronchial valves",
+      "details": "One-way endobronchial valves placed to occlude the target lobe to achieve atelectasis; in two trials, patients selected for fissure completeness > 90% on HRCT; Chartis was not used."
+    },
+    "comparison": {
+      "text": "Optimized standard of care",
+      "details": "Pharmacologic therapy, pulmonary rehabilitation, oxygen therapy per guidelines; no valve placement."
+    },
+    "outcomes": [
+      {
+        "name": "Change in FEV1 (L and % predicted)",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Change in Saint George’s Respiratory Questionnaire (SGRQ) total score",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Change in modified Medical Research Council (mMRC) dyspnea scale",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Change in 6-minute walk test distance (6MWT)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Change in residual volume (RV)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "All-cause mortality",
+        "type": "safety",
+        "umls_cui": ""
+      },
+      {
+        "name": "Pneumothorax",
+        "type": "safety",
+        "umls_cui": ""
+      },
+      {
+        "name": "Acute exacerbation of COPD (AECOPD)",
+        "type": "safety",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "systematic review and meta-analysis of RCTs",
+    "allocation": "randomized (included trials)",
+    "blinding": "varied; performance bias high/unclear across trials",
+    "sites_count": 4,
+    "countries": [
+      "multiple"
+    ],
+    "sample_size": {
+      "planned": 629,
+      "enrolled": 629,
+      "analyzed": 629
+    },
+    "analysis_populations": [
+      {
+        "name": "ITT",
+        "description": "All randomized participants across included trials",
+        "n": 629
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "Spiration Valve System",
+      "n_randomized": 364,
+      "n_analyzed": 364,
+      "n_completed": 364
+    },
+    {
+      "arm_id": "control",
+      "name": "Optimized standard of care",
+      "n_randomized": 265,
+      "n_analyzed": 265,
+      "n_completed": 265
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "fev1_absolute_change_12m",
+      "name": "Absolute FEV1 change",
+      "type": "continuous",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P12M",
+      "timepoint_label": "12 months",
+      "unit": "L",
+      "unit_canonical": "liter",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "total": 364
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "total": 265
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "mean_difference",
+        "est": 0.1,
+        "ci_lower": 0.05,
+        "ci_upper": 0.15,
+        "ci_level": 0.95
+      },
+      "analysis": {
+        "model": "random-effects (DerSimonian-Laird)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Adults with severe heterogeneous emphysema in RCTs",
+        "k_studies": 4,
+        "heterogeneity_i2": 0,
+        "notes": "12-month subgroup across included trials"
+      },
+      "provenance": {
+        "pages": [
+          66
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "At 12 months, MD 0.10 L (95% CI 0.05-0.15)."
+      }
+    },
+    {
+      "concept_id": "fev1_absolute_change_overall",
+      "name": "Absolute FEV1 change (overall across timepoints)",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P3M-P12M",
+      "timepoint_label": "Mixed (3-12 months)",
+      "unit": "L",
+      "unit_canonical": "liter",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "total": 364
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "total": 265
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "mean_difference",
+        "est": 0.03,
+        "ci_lower": -0.07,
+        "ci_upper": 0.13,
+        "ci_level": 0.95,
+        "p_value": 0.54,
+        "p_operator": "="
+      },
+      "analysis": {
+        "model": "random-effects (DerSimonian-Laird)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Adults with severe heterogeneous emphysema in RCTs",
+        "k_studies": 4,
+        "heterogeneity_i2": 90,
+        "tau2": 0.01,
+        "z_value": 0.61
+      },
+      "provenance": {
+        "pages": [
+          66
+        ],
+        "tables": [],
+        "quote": "Pooled data showed FEV1 improvement with a MD 0.03 L (95% CI -0.07 to 0.13, I2 = 90%). Test for overall effect; Z = 0.61 (p = 0.54)."
+      }
+    },
+    {
+      "concept_id": "fev1_percent_predicted_change_overall",
+      "name": "Predicted FEV1 percent change (overall)",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P3M-P12M",
+      "timepoint_label": "Mixed (3-12 months)",
+      "unit": "%",
+      "unit_canonical": "percent",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "total": 364
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "total": 265
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "mean_difference",
+        "est": 2.03,
+        "ci_lower": -2.5,
+        "ci_upper": 6.57,
+        "ci_level": 0.95
+      },
+      "analysis": {
+        "model": "random-effects (DerSimonian-Laird)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Adults with severe heterogeneous emphysema in RCTs",
+        "k_studies": 3,
+        "heterogeneity_i2": 96
+      },
+      "provenance": {
+        "pages": [
+          65
+        ],
+        "tables": [],
+        "quote": "The analysis showed a MD 2.03% (95% CI -2.50 to 6.57, I2 = 96%) in the predicted FEV1."
+      }
+    },
+    {
+      "concept_id": "fev1_absolute_change_no_cv",
+      "name": "Absolute FEV1 change in patients without collateral ventilation",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P3M-P12M",
+      "timepoint_label": "Mixed (3-12 months)",
+      "unit": "L",
+      "unit_canonical": "liter",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "total": 185
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "total": 94
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "mean_difference",
+        "est": 0.12,
+        "ci_lower": 0.09,
+        "ci_upper": 0.15,
+        "ci_level": 0.95,
+        "p_value": 1e-05,
+        "p_operator": "<"
+      },
+      "analysis": {
+        "model": "random-effects (DerSimonian-Laird)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "RCT subgroup with HRCT-confirmed absence of collateral ventilation",
+        "k_studies": 2,
+        "heterogeneity_i2": 0
+      },
+      "provenance": {
+        "pages": [
+          66,
+          67
+        ],
+        "tables": [
+          "Figure 4",
+          "Table 2"
+        ],
+        "quote": "In the subgroup without CV, SVS showed an improvement in FEV1 (L) of 0.12 L (95% CI 0.09-0.15, I2 = 0%)."
+      }
+    },
+    {
+      "concept_id": "sgrq_total_change_12m",
+      "name": "SGRQ total score change",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P12M",
+      "timepoint_label": "12 months",
+      "unit": "points",
+      "unit_canonical": "points",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "total": 364
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "total": 265
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "mean_difference",
+        "est": -9.5,
+        "ci_lower": -13.66,
+        "ci_upper": -5.34,
+        "ci_level": 0.95
+      },
+      "analysis": {
+        "model": "random-effects (DerSimonian-Laird)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Adults with severe heterogeneous emphysema in RCTs",
+        "k_studies": 4,
+        "heterogeneity_i2": 0
+      },
+      "provenance": {
+        "pages": [
+          66
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "At 12 months, SGRQ MD -9.50 (95% CI -13.66 to -5.34)."
+      }
+    },
+    {
+      "concept_id": "sgrq_total_change_no_cv",
+      "name": "SGRQ total score change in patients without collateral ventilation",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P3M-P12M",
+      "timepoint_label": "Mixed (3-12 months)",
+      "unit": "points",
+      "unit_canonical": "points",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "total": 185
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "total": 94
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "mean_difference",
+        "est": -12.27,
+        "ci_lower": -15.84,
+        "ci_upper": -8.7,
+        "ci_level": 0.95
+      },
+      "analysis": {
+        "model": "random-effects (DerSimonian-Laird)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "RCT subgroup with HRCT-confirmed absence of collateral ventilation",
+        "k_studies": 2,
+        "heterogeneity_i2": 0
+      },
+      "provenance": {
+        "pages": [
+          66
+        ],
+        "tables": [],
+        "quote": "Subgroup analysis by CV showed a MD -12.27 points (95% CI -15.84 to -8.70, I2 = 0%) in subjects without CV."
+      }
+    },
+    {
+      "concept_id": "mmrc_change_12m",
+      "name": "mMRC dyspnea scale change",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P12M",
+      "timepoint_label": "12 months",
+      "unit": "points",
+      "unit_canonical": "points",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "total": 364
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "total": 265
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "mean_difference",
+        "est": -0.8,
+        "ci_lower": -1.05,
+        "ci_upper": -0.55,
+        "ci_level": 0.95
+      },
+      "analysis": {
+        "model": "random-effects (DerSimonian-Laird)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Adults with severe heterogeneous emphysema in RCTs",
+        "k_studies": 4
+      },
+      "provenance": {
+        "pages": [
+          66
+        ],
+        "tables": [],
+        "quote": "At 12 months, the MD was -0.80 (95% CI -1.05 to -0.55)."
+      }
+    },
+    {
+      "concept_id": "mmrc_change_no_cv",
+      "name": "mMRC dyspnea scale change in patients without collateral ventilation",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P3M-P12M",
+      "timepoint_label": "Mixed (3-12 months)",
+      "unit": "points",
+      "unit_canonical": "points",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "total": 185
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "total": 94
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "mean_difference",
+        "est": -0.54,
+        "ci_lower": -0.74,
+        "ci_upper": -0.33,
+        "ci_level": 0.95
+      },
+      "analysis": {
+        "model": "random-effects (DerSimonian-Laird)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "RCT subgroup with HRCT-confirmed absence of collateral ventilation",
+        "k_studies": 2,
+        "heterogeneity_i2": 0
+      },
+      "provenance": {
+        "pages": [
+          66
+        ],
+        "tables": [],
+        "quote": "Subgroup analysis by CV showed a MD of -0.54 points (95% CI -0.74 to -0.33, I2 = 0%) in subjects without CV."
+      }
+    },
+    {
+      "concept_id": "sixmwt_change_overall",
+      "name": "6-minute walk distance change (overall)",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P3M-P12M",
+      "timepoint_label": "Mixed (3-12 months)",
+      "unit": "m",
+      "unit_canonical": "meter",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "total": 364
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "total": 265
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "mean_difference",
+        "est": 4.56,
+        "ci_lower": -21.88,
+        "ci_upper": 31,
+        "ci_level": 0.95
+      },
+      "analysis": {
+        "model": "random-effects (DerSimonian-Laird)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Adults with severe heterogeneous emphysema in RCTs",
+        "k_studies": 4,
+        "heterogeneity_i2": 73
+      },
+      "provenance": {
+        "pages": [
+          66
+        ],
+        "tables": [],
+        "quote": "We found no benefit in 6MWT mean difference = 4.56 m (95% CI -21.88 to 31.00, I2 = 73%)."
+      }
+    }
+  ],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "Cochrane risk of bias (randomized studies)",
+    "overall_judgment": "some concerns",
+    "domains": [
+      {
+        "name": "Randomization process",
+        "judgment": "low",
+        "support_for_judgment": "Parallel-group RCTs with random sequence generation and allocation concealment reported in most trials."
+      },
+      {
+        "name": "Deviations from intended interventions (performance bias)",
+        "judgment": "high",
+        "support_for_judgment": "High or unclear performance bias reported across all included studies."
+      },
+      {
+        "name": "Missing outcome data",
+        "judgment": "low",
+        "support_for_judgment": "Incomplete outcome data generally low and balanced."
+      },
+      {
+        "name": "Measurement of the outcome (detection bias)",
+        "judgment": "low",
+        "support_for_judgment": "Objective measures used; outcome assessment blinding generally adequate."
+      },
+      {
+        "name": "Selective reporting",
+        "judgment": "low",
+        "support_for_judgment": "Outcomes prespecified and reported consistently."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "Spiration Valve System",
+      "intrabronchial valve",
+      "bronchoscopic lung volume reduction",
+      "severe heterogeneous emphysema",
+      "COPD",
+      "randomized controlled trial",
+      "meta-analysis"
+    ],
+    "summary_tldr": "Across four RCTs (n = 629), SVS improved FEV1, SGRQ, and mMRC in patients without collateral ventilation, with modest or no effects on 6MWT and acceptable safety profile.",
+    "clinical_relevance": "Supports selecting emphysema patients without collateral ventilation for SVS to achieve meaningful improvements in lung function and quality of life."
+  }
+}

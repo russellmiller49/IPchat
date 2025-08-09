@@ -1,0 +1,696 @@
+{
+  "source": {
+    "document_id": "Deslee-2014-Lung volume reduction coil treatme",
+    "ingest_date": "2025-08-08T11:26:20.812706+00:00",
+    "trial_registration_id": "NCT01328899",
+    "pmid": "",
+    "doi": "10.1136/thoraxjnl-2014-205221"
+  },
+  "document": {
+    "metadata": {
+      "title": "Lung volume reduction coil treatment for patients with severe emphysema: a European multicentre trial",
+      "year": 2014,
+      "authors": [
+        "Gaëtan Deslee",
+        "Karin Klooster",
+        "Martin Hetzel",
+        "Franz Stanzel",
+        "Romain Kessler",
+        "Charles-Hugo Marquette",
+        "Christian Witt",
+        "Stefan Blaas",
+        "Wolfgang Gesierich",
+        "Felix J F Herth",
+        "Juergen Hetzel",
+        "Eva M van Rikxoort",
+        "Dirk-Jan Slebos"
+      ],
+      "journal": "Thorax",
+      "doi": "10.1136/thoraxjnl-2014-205221",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Background The lung volume reduction (LVR) coil is a minimally invasive bronchoscopic nitinol device designed to reduce hyperinflation and improve elastic recoil in severe emphysema. We investigated the feasibility, safety and efficacy of LVR coil treatment in a prospective multicentre cohort trial in patients with severe emphysema. Methods Patients were treated in 11 centres. Safety was evaluated by recording all adverse events, efficacy by the St George’s Respiratory Questionnaire (SGRQ) as primary endpoint, and pulmonary function testing, modified Medical Research Council dyspnoea score (mMRC) and 6-min walk distance (6MWD) up to 12 months after the final treatment. Results Sixty patients (60.9 ± 7.5 years, forced expiratory volume in 1 s (FEV1) 30.2 ± 6.3% pred) were bronchoscopically treated with coils (55 bilateral, 5 unilateral), with a median of 10 (range 5-15) coils per lobe. Within 30 days post-treatment, seven chronic obstructive pulmonary disease exacerbations (6.1%), six pneumonias (5.2%), four pneumothoraces (3.5%) and one haemoptysis (0.9%) occurred as serious adverse events. At 6 and 12 months, respectively, ΔSGRQ was -12.1±12.9 and -11.1±13.3 points, Δ6MWD was +29.7±74.1 m and +51.4±76 m, ΔFEV1 was +0.11 ±0.20 L and +0.11±0.30 L, and ΔRV (residual volume) was -0.65±0.90 L and -0.71±0.81 L (all p<0.01). Post hoc analyses showed significant responses for SGRQ, 6MWD and RV in patients with both heterogeneous and homogeneous emphysema. Conclusions LVR coil treatment results in significant clinical improvements in patients with severe emphysema, with a good safety profile and sustained results for up to 1 year. Trial registration number: NCT01328899.",
+      "methods": "This prospective open-label multicentre feasibility study was conducted in 11 hospitals in France, Germany and the Netherlands and was approved by the ethics committee at each site. The first patient was enrolled in December 2009 and the final patient in October 2011. The protocol required 12-month follow-up in the Netherlands and France and 6-month follow-up in Germany. Patients with COPD with upper or lower lobe predominant bilateral heterogeneous emphysema on chest CT scan as judged by the treating physician were considered for inclusion. All patients were intended to be treated bilaterally. LVR coil treatment used the RePneu nitinol device (seven sizes: 70-200 mm) delivered bronchoscopically under general anaesthesia with fluoroscopic guidance, aiming for even subsegmental distribution with approximately 10 coils per treated lobe. Contralateral procedures were performed at least 1 month later. Screening included clinical assessment, mMRC, SGRQ, echocardiogram, spirometry, body plethysmography, 6MWT, chest X-ray, and CT. Follow-up visits occurred at 1, 3, 6, and 12 months (the latter only in France and the Netherlands). The primary efficacy endpoint was change in SGRQ total score from baseline to 6 months. Secondary endpoints included FVC, FEV1, RV, RV/TLC, 6MWD, and mMRC. Safety captured device- and procedure-related adverse events. Statistical analyses used paired Student t tests for within-patient changes; linear regression explored associations of outcomes with baseline covariates (RV% pred, RV/TLC, FEV1% pred, FVC, age, TLCO, emphysema type). SAS 9.3 was used.",
+      "results": "Sixty patients were enrolled; baseline mean age 60.9±7.5 years, FEV1 0.83±0.25 L (30.17±6.32% predicted), RV 5.29±1.32 L (249.2±53.2% predicted), 6MWD 316±102 m, SGRQ 61.5±14.3. A total of 115 procedures were performed (1125 coils implanted), median 10 coils per lobe. No periprocedural serious adverse events, deaths, or respiratory failure occurred. Within 30 days post-treatment, serious AEs included COPD exacerbations (7 events; 6.1%), pneumonia (6; 5.2%), pneumothorax (4; 3.5%), and haemoptysis (1; 0.9%) per 115 procedures. At 6 months (overall evaluable N=58), mean changes from baseline were: SGRQ -12.1±12.9 points, 6MWD +29.7±74.1 m, FEV1 +0.11±0.20 L (n=54, p<0.001), RV -0.65±0.90 L (all p<0.01). At 12 months (evaluable N=34), changes were: SGRQ -11.1±13.3 points, 6MWD +51.4±76.0 m, FEV1 +0.11±0.30 L (p=0.037), RV -0.71±0.81 L (all p<0.01). Post hoc CT analyses indicated significant improvements at 12 months in both visually and quantitatively classified heterogeneous and homogeneous emphysema. Lower lobe treatment (n=10; 9 evaluable at 6 months) showed similar responses to upper lobe treatment for RV, 6MWD, and SGRQ; FEV1 change was smaller (+0.04±0.08 L vs +0.15±0.23 L; p=0.026). Multivariable analyses did not identify baseline predictors of SGRQ or 6MWD response at 6 months."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with severe COPD/emphysema with upper or lower lobe predominant bilateral heterogeneous emphysema, hyperinflation, and significant dyspnoea despite optimal medical therapy.",
+      "inclusion_criteria": [
+        ">35 years of age",
+        "CT scan indicates bilateral heterogeneous emphysema",
+        "Post-bronchodilator FEV1 <45% of predicted",
+        "Total lung capacity >100% of predicted",
+        "Residual volume >175% of predicted",
+        "mMRC >2 (0-4)",
+        "Stopped smoking for >8 weeks prior to study entry"
+      ],
+      "exclusion_criteria": [
+        "Change in FEV1 >20% post-bronchodilator",
+        "TLCO <20% of predicted",
+        "History of recurrent clinically significant respiratory infections",
+        "Pulmonary hypertension with right ventricular pressure >50 mm Hg",
+        "Inability to walk >140 m in 6 min",
+        "Previous LVR surgery, lung transplant or lobectomy",
+        "Clinically significant bronchiectasis",
+        "Giant bullae > one-third lung volume",
+        "Severely destructed homogeneous emphysema by CT scan",
+        "Antiplatelet or anticoagulant therapy not weaned prior to procedure"
+      ]
+    },
+    "intervention": {
+      "text": "RePneu lung volume reduction (LVR) coil treatment",
+      "details": "Bronchoscopic implantation of nitinol coils under general anaesthesia with fluoroscopic guidance; approximately 10 coils per target lobe, equal subsegmental distribution; seven sizes available (70-200 mm); staged bilateral treatment with contralateral lung treated ≥1 month later."
+    },
+    "comparison": {
+      "text": "Pre-post within-patient comparison (no external control)",
+      "details": "Open-label, single-arm study assessing changes from baseline at 6 and 12 months."
+    },
+    "outcomes": [
+      {
+        "name": "Change in SGRQ total score from baseline to 6 months",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Change in FEV1 from baseline",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Change in RV and RV/TLC from baseline",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Change in 6MWD from baseline",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Change in mMRC from baseline",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Change in FVC from baseline",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Prospective single-arm cohort",
+    "allocation": "nonrandomized",
+    "blinding": "open-label",
+    "sites_count": 11,
+    "countries": [
+      "France",
+      "Germany",
+      "Netherlands"
+    ],
+    "sample_size": {
+      "planned": 60,
+      "enrolled": 60,
+      "analyzed": 58
+    },
+    "analysis_populations": [
+      {
+        "name": "Safety",
+        "description": "All treated patients",
+        "n": 60
+      },
+      {
+        "name": "6-month efficacy",
+        "description": "All evaluable patients at 6 months",
+        "n": 58
+      },
+      {
+        "name": "12-month efficacy",
+        "description": "All evaluable patients at 12 months (sites with 12-month follow-up)",
+        "n": 34
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "RePneu LVR coil treatment",
+      "n_randomized": 60,
+      "n_analyzed": 58,
+      "n_completed": 34
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "sgrq_change_6m",
+      "name": "SGRQ total score change from baseline",
+      "type": "continuous",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P6M",
+      "unit": "points",
+      "unit_canonical": "point",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": -12.1,
+            "sd": 12.9,
+            "total": 58
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": "mean_change_from_baseline",
+        "est": -12.1,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.01,
+        "p_operator": "<",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "paired_t_test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "6-month efficacy cohort",
+        "missing_handling": "complete-case"
+      },
+      "provenance": {
+        "pages": [
+          980
+        ],
+        "tables": [],
+        "quote": "At 6 and 12 months, respectively, ΔSGRQ was -12.1±12.9 and -11.1±13.3 points (all p<0.01)."
+      }
+    },
+    {
+      "concept_id": "sgrq_change_12m",
+      "name": "SGRQ total score change from baseline",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P12M",
+      "unit": "points",
+      "unit_canonical": "point",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": -11.1,
+            "sd": 13.3,
+            "total": 34
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": "mean_change_from_baseline",
+        "est": -11.1,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.01,
+        "p_operator": "<",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "paired_t_test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "12-month efficacy cohort",
+        "missing_handling": "complete-case"
+      },
+      "provenance": {
+        "pages": [
+          980
+        ],
+        "tables": [],
+        "quote": "At 6 and 12 months, respectively, ΔSGRQ was -12.1±12.9 and -11.1±13.3 points (all p<0.01)."
+      }
+    },
+    {
+      "concept_id": "fev1_absolute_change_6m_overall",
+      "name": "FEV1 absolute change from baseline",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P6M",
+      "unit": "L",
+      "unit_canonical": "liter",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": 0.11,
+            "sd": 0.2,
+            "total": 54
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": "mean_change_from_baseline",
+        "est": 0.11,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.001,
+        "p_operator": "<",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "paired_t_test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "6-month efficacy cohort with FEV1 data",
+        "missing_handling": "complete-case"
+      },
+      "provenance": {
+        "pages": [
+          984
+        ],
+        "tables": [
+          "Table 4"
+        ],
+        "table_number": 4,
+        "quote": "FEV1, L +0.11±0.20 (n=54, p<0.001)"
+      }
+    },
+    {
+      "concept_id": "fev1_absolute_change_12m",
+      "name": "FEV1 absolute change from baseline",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P12M",
+      "unit": "L",
+      "unit_canonical": "liter",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": 0.11,
+            "sd": 0.3,
+            "total": 34
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": "mean_change_from_baseline",
+        "est": 0.11,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.037,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "paired_t_test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "12-month efficacy cohort with FEV1 data",
+        "missing_handling": "complete-case"
+      },
+      "provenance": {
+        "pages": [
+          984
+        ],
+        "tables": [
+          "Table 4"
+        ],
+        "table_number": 4,
+        "quote": "FEV1, L ... +0.11±0.30 (n=34, p=0.037)"
+      }
+    },
+    {
+      "concept_id": "sixmwd_change_6m",
+      "name": "6-minute walk distance change from baseline",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P6M",
+      "unit": "m",
+      "unit_canonical": "meter",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": 29.7,
+            "sd": 74.1,
+            "total": 58
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": "mean_change_from_baseline",
+        "est": 29.7,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.01,
+        "p_operator": "<",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "paired_t_test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "6-month efficacy cohort",
+        "missing_handling": "complete-case"
+      },
+      "provenance": {
+        "pages": [
+          980
+        ],
+        "tables": [],
+        "quote": "Δ6MWD was +29.7±74.1 m at 6 months (p<0.01)."
+      }
+    },
+    {
+      "concept_id": "sixmwd_change_12m",
+      "name": "6-minute walk distance change from baseline",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P12M",
+      "unit": "m",
+      "unit_canonical": "meter",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": 51.4,
+            "sd": 76.0,
+            "total": 34
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": "mean_change_from_baseline",
+        "est": 51.4,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.01,
+        "p_operator": "<",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "paired_t_test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "12-month efficacy cohort",
+        "missing_handling": "complete-case"
+      },
+      "provenance": {
+        "pages": [
+          980
+        ],
+        "tables": [],
+        "quote": "Δ6MWD was +51.4±76 m at 12 months (p<0.01)."
+      }
+    },
+    {
+      "concept_id": "rv_change_6m",
+      "name": "Residual volume change from baseline",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P6M",
+      "unit": "L",
+      "unit_canonical": "liter",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": -0.65,
+            "sd": 0.9,
+            "total": 58
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": "mean_change_from_baseline",
+        "est": -0.65,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.01,
+        "p_operator": "<",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "paired_t_test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "6-month efficacy cohort",
+        "missing_handling": "complete-case"
+      },
+      "provenance": {
+        "pages": [
+          980
+        ],
+        "tables": [],
+        "quote": "ΔRV was -0.65±0.90 L at 6 months (p<0.01)."
+      }
+    },
+    {
+      "concept_id": "rv_change_12m",
+      "name": "Residual volume change from baseline",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P12M",
+      "unit": "L",
+      "unit_canonical": "liter",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "mean": -0.71,
+            "sd": 0.81,
+            "total": 34
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": null,
+        "measure": "mean_change_from_baseline",
+        "est": -0.71,
+        "ci_lower": null,
+        "ci_upper": null,
+        "ci_level": 0.95,
+        "p_value": 0.01,
+        "p_operator": "<",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "paired_t_test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "12-month efficacy cohort",
+        "missing_handling": "complete-case"
+      },
+      "provenance": {
+        "pages": [
+          980
+        ],
+        "tables": [],
+        "quote": "ΔRV was -0.71±0.81 L at 12 months (p<0.01)."
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Chronic obstructive pulmonary disease exacerbation",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Chronic obstructive pulmonary disease exacerbation"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "hospitalization"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 7,
+          "patients": 7,
+          "percentage": 6.1,
+          "total": 115
+        }
+      ],
+      "period": "0-30 days post-procedure (per-procedure denominator)",
+      "management": "",
+      "provenance": {
+        "pages": [
+          980
+        ],
+        "tables": [],
+        "quote": "Within 30 days post-treatment, seven chronic obstructive pulmonary disease exacerbations (6.1%) occurred as serious adverse events."
+      }
+    },
+    {
+      "event_name": "Pneumonia",
+      "meddra": {
+        "soc": "Infections and infestations",
+        "pt": "Pneumonia"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "hospitalization"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 6,
+          "patients": 5,
+          "percentage": 5.2,
+          "total": 115
+        }
+      ],
+      "period": "0-30 days post-procedure (per-procedure denominator)",
+      "management": "",
+      "provenance": {
+        "pages": [
+          980
+        ],
+        "tables": [],
+        "quote": "Within 30 days post-treatment, six pneumonias (5.2%) occurred as serious adverse events."
+      }
+    },
+    {
+      "event_name": "Pneumothorax",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Pneumothorax"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "hospitalization"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 4,
+          "patients": 4,
+          "percentage": 3.5,
+          "total": 115
+        }
+      ],
+      "period": "0-30 days post-procedure (per-procedure denominator)",
+      "management": "",
+      "provenance": {
+        "pages": [
+          980
+        ],
+        "tables": [],
+        "quote": "Within 30 days post-treatment, four pneumothoraces (3.5%) occurred as serious adverse events."
+      }
+    },
+    {
+      "event_name": "Haemoptysis",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Haemoptysis"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "hospitalization"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 1,
+          "patients": 1,
+          "percentage": 0.9,
+          "total": 115
+        }
+      ],
+      "period": "0-30 days post-procedure (per-procedure denominator)",
+      "management": "",
+      "provenance": {
+        "pages": [
+          980
+        ],
+        "tables": [],
+        "quote": "Within 30 days post-treatment, one haemoptysis (0.9%) occurred as a serious adverse event."
+      }
+    },
+    {
+      "event_name": "Haemoptysis",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Haemoptysis"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 61,
+          "patients": 35,
+          "percentage": 53.0,
+          "total": 115
+        }
+      ],
+      "period": "0-30 days post-procedure (per-procedure denominator)",
+      "management": "",
+      "provenance": {
+        "pages": [
+          984
+        ],
+        "tables": [
+          "Table 3"
+        ],
+        "quote": "Mild haemoptysis (<5 mL): 61 events in 35 patients during the first month after each procedure (115 procedures total)."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "RoB 2",
+    "overall_judgment": "high",
+    "domains": [
+      {
+        "name": "Randomization process",
+        "judgment": "high",
+        "support_for_judgment": "Single-arm, nonrandomized, open-label cohort; no allocation concealment."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "some concerns",
+        "support_for_judgment": "Open-label; potential performance bias; standardized protocol used."
+      },
+      {
+        "name": "Missing outcome data",
+        "judgment": "some concerns",
+        "support_for_judgment": "At 12 months, only 34/60 had follow-up; reasons include protocol-defined exit at German sites."
+      },
+      {
+        "name": "Measurement of the outcome",
+        "judgment": "low",
+        "support_for_judgment": "Validated instruments (SGRQ, 6MWD, spirometry) with standardized assessments."
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "low",
+        "support_for_judgment": "Primary and secondary outcomes prespecified; all reported with statistics."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "emphysema",
+      "lung volume reduction coil",
+      "bronchoscopy",
+      "nitinol coil",
+      "COPD",
+      "hyperinflation"
+    ],
+    "summary_tldr": "In a multicentre single-arm cohort (n=60), bronchoscopic nitinol coils improved SGRQ (~-12 points at 6 months), 6MWD (~+30 to +51 m), FEV1 (~+0.11 L), and reduced RV (~-0.65 to -0.71 L) with acceptable 30-day serious AE rates.",
+    "clinical_relevance": "Provides evidence that LVR coils can improve symptoms, function, and hyperinflation in severe emphysema across heterogeneous and homogeneous patterns, expanding options beyond valve-based therapies."
+  }
+}

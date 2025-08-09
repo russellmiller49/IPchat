@@ -1,0 +1,436 @@
+{
+  "source": {
+    "document_id": "Respiratory infections increase the r",
+    "ingest_date": "2025-08-08T15:10:09.721390+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1378/chest.11-2005"
+  },
+  "document": {
+    "metadata": {
+      "title": "Respiratory Infections Increase the Risk of Granulation Tissue Formation Following Airway Stenting in Patients With Malignant Airway Obstruction",
+      "year": 2012,
+      "authors": [
+        "David E. Ost",
+        "Archan M. Shah",
+        "Xiudong Lei",
+        "Myrna C. B. Godoy",
+        "Carlos A. Jimenez",
+        "George A. Eapen",
+        "Pushan Jani",
+        "Andrew J. Larson",
+        "Mona G. Sarkiss",
+        "Rodolfo C. Morice"
+      ],
+      "journal": "CHEST",
+      "doi": "10.1378/chest.11-2005",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Background: The most serious complications of airway stenting are long term, including infection and granulation tissue formation. However, no studies had quantified the incidence rate of long-term complications for different stents. Methods: Retrospective cohort of all patients at a single cancer center receiving airway stents for malignant airway obstruction (January 2005-August 2010). Patients with >1 stent type in place simultaneously were excluded. Complications recorded: lower respiratory tract infections, migration, granulation tissue, mucus plugging requiring intervention, tumor overgrowth, fracture. Results: 172 patients with 195 stent procedures were included (Ultraflex 118, Aero 31, Dumon silicone 46). Aero stents increased infection risk (HR 1.98; 95% CI 1.03-3.81; p=0.041). Dumon silicone tube stents increased migration risk (HR 3.52; 95% CI 1.41-8.82; p=0.007). Silicone stents (HR 3.32; 95% CI 1.59-6.93; p=0.001) and lower respiratory tract infections (HR 5.69; 95% CI 2.60-12.42; p<0.001) increased risk of granulation tissue. Lower respiratory tract infections were associated with decreased survival (HR 1.57; 95% CI 1.11-2.21; p=0.011). Conclusions: Stent type is associated with different risks of infection, migration, and granulation tissue; infections confer substantial morbidity and mortality and are strongly linked to granulation tissue formation.",
+      "methods": "Design: Retrospective cohort at The University of Texas MD Anderson Cancer Center. Population: All patients undergoing airway stenting for malignant central airway obstruction from January 2005 to August 2010. Exclusions: concurrent use of >1 stent type. Data abstraction: standardized forms with predefined definitions in a codebook; radiologist blinded to clinical data reviewed CTs. Interventions: Expandable metal stents placed with flexible/rigid bronchoscopy; silicone stents placed with rigid bronchoscopy; no perioperative or prophylactic antibiotics/steroids. Outcomes: Primary—time to lower respiratory tract infection (clinical diagnosis requiring antibiotics; pneumonia vs acute bronchitis classification per imaging). Secondary—time to migration, granulation tissue, mucus plugging requiring bronchoscopic cleaning, tumor overgrowth, stent fracture (all bronchoscopically confirmed except infections). Statistical analysis: Time-to-event measured from implantation to event; censoring at last follow-up. Univariate Cox models; time-varying covariates (e.g., infection) coded 0 until event then 1. Variables with p<0.10 entered multivariable extended Cox models with backward elimination (retain p<0.05). Kaplan-Meier plots. Two-sided p<0.05 significant. Software: SAS 9.1 and S-Plus 7.0.",
+      "results": "Stents: Ultraflex 118/195 (60%), Aero 31/195 (16%), Dumon silicone 46/195 (24%; 28 Y, 18 tube). Events among 195 procedures: lower respiratory tract infection in 73 (106 total infection episodes); granulation tissue 38; mucus impaction 48; hemoptysis 17; migration 27 (among 167 procedures after excluding 28 Y stents); fracture 4; new fistula 2; tumor overgrowth 25. Infections: median time 1 month (0-35); 45% outpatient, 34% admitted to floor, 21% ICU; 13% required mechanical ventilation; 11% required stent removal; 23% died within 14 days of infection. Multivariable: Aero vs Ultraflex increased infection risk (HR 1.98; 95% CI 1.03-3.81; p=0.041). Migration: silicone tube stents vs Ultraflex HR 3.52 (95% CI 1.41-8.82; p=0.007). Granulation: silicone stents HR 3.32 (95% CI 1.59-6.93; p=0.001) and time-varying infection HR 5.69 (95% CI 2.60-12.42; p<0.001). Mucus impaction: left-sided location increased risk; older age and post-stent chemotherapy decreased risk. Survival (172 patients; median follow-up 3 months): lower respiratory tract infection increased mortality HR 1.57 (95% CI 1.11-2.21; p=0.011); silicone and tracheal stents associated with lower mortality; pre-stent radiation associated with higher mortality."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with malignant central airway obstruction undergoing therapeutic airway stenting at a tertiary cancer center.",
+      "inclusion_criteria": [
+        "Airway stenting performed for malignant airway obstruction",
+        "Stent placed between January 2005 and August 2010",
+        "Single stent type in place at any one time"
+      ],
+      "exclusion_criteria": [
+        "More than one stent type in place concurrently",
+        "Stent models with too few cases for analysis (e.g., Montgomery T-tube, Polyflex)"
+      ]
+    },
+    "intervention": {
+      "text": "Aero self-expanding metal stent (Merit Endotek)",
+      "details": "Placed via flexible or rigid bronchoscopy; no prophylactic antibiotics or steroids."
+    },
+    "comparison": {
+      "text": "Ultraflex self-expanding metal stent (Boston Scientific)",
+      "details": "Placed via flexible or rigid bronchoscopy; served as reference in Cox models."
+    },
+    "outcomes": [
+      {
+        "name": "Time to lower respiratory tract infection",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Time to stent migration",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Time to granulation tissue formation",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Time to mucus plugging requiring intervention",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Overall survival",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Retrospective cohort",
+    "allocation": "non-randomized",
+    "blinding": "none",
+    "sites_count": 1,
+    "countries": [
+      "US"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 195,
+      "analyzed": 195
+    },
+    "analysis_populations": [
+      {
+        "name": "Procedures cohort",
+        "description": "All stent procedures",
+        "n": 195
+      },
+      {
+        "name": "Patients cohort",
+        "description": "Unique patients receiving stents",
+        "n": 172
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "Aero self-expanding metal stent",
+      "n_randomized": 31,
+      "n_analyzed": 31,
+      "n_completed": 31
+    },
+    {
+      "arm_id": "control",
+      "name": "Ultraflex self-expanding metal stent (reference)",
+      "n_randomized": 118,
+      "n_analyzed": 118,
+      "n_completed": 118
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "time_to_lrt_infection_aero_vs_ultraflex",
+      "name": "Time to lower respiratory tract infection",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P35M",
+      "timepoint_label": "Up to 35 months",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "total": 31
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "total": 118
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "hazard_ratio",
+        "est": 1.98,
+        "ci_lower": 1.03,
+        "ci_upper": 3.81,
+        "ci_level": 0.95,
+        "p_value": 0.041,
+        "p_operator": "=",
+        "adjusted": true
+      },
+      "analysis": {
+        "model": "Cox proportional hazards",
+        "adjusted": true,
+        "covariates": [
+          "stent type"
+        ],
+        "population": "All stent procedures (n=195); multivariable extended Cox with backward elimination",
+        "missing_handling": "Censored at last follow-up"
+      },
+      "provenance": {
+        "pages": [
+          1475
+        ],
+        "tables": [
+          "Table 4",
+          "Table 5"
+        ],
+        "table_number": 5,
+        "quote": "Aero stents (hazard ratio [HR] 5 1.98; 95% CI, 1.03-3.81; P5 .041) had a significant effect on infection risk."
+      }
+    },
+    {
+      "concept_id": "time_to_granulation_infection_effect",
+      "name": "Effect of lower respiratory tract infection on time to granulation tissue",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P36M",
+      "timepoint_label": "Up to 36 months",
+      "groups": [],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "hazard_ratio",
+        "est": 5.69,
+        "ci_lower": 2.6,
+        "ci_upper": 12.42,
+        "ci_level": 0.95,
+        "p_value": 0.001,
+        "p_operator": "<",
+        "adjusted": true
+      },
+      "analysis": {
+        "model": "Extended Cox with time-varying covariate",
+        "adjusted": true,
+        "covariates": [
+          "time-varying lower respiratory tract infection",
+          "stent type"
+        ],
+        "population": "All stent procedures (n=195)",
+        "missing_handling": "Censored at last follow-up"
+      },
+      "provenance": {
+        "pages": [
+          1476
+        ],
+        "tables": [
+          "Tables 8 and 9"
+        ],
+        "quote": "Lower respiratory tract infection (HR 5 5.69; 95% CI, 2.60-12.42; P , .001) was associated with increased risk for granulation."
+      }
+    },
+    {
+      "concept_id": "time_to_migration_silicone_vs_ultraflex",
+      "name": "Time to stent migration (silicone tube vs Ultraflex)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P36M",
+      "timepoint_label": "Up to 36 months",
+      "groups": [],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "hazard_ratio",
+        "est": 3.52,
+        "ci_lower": 1.41,
+        "ci_upper": 8.82,
+        "ci_level": 0.95,
+        "p_value": 0.007,
+        "p_operator": "=",
+        "adjusted": true
+      },
+      "analysis": {
+        "model": "Cox proportional hazards",
+        "adjusted": true,
+        "covariates": [
+          "stent type"
+        ],
+        "population": "Procedures excluding Y stents (n=167)",
+        "missing_handling": "Censored at last follow-up"
+      },
+      "provenance": {
+        "pages": [
+          1475
+        ],
+        "tables": [
+          "Tables 6 and 7"
+        ],
+        "quote": "Silicone tube stents (HR 5 3.52; 95% CI, 1.41-8.82; P5 .007) had a significant effect on migration risk."
+      }
+    },
+    {
+      "concept_id": "overall_lrt_infection_incidence",
+      "name": "Any lower respiratory tract infection (patients with ≥1 episode)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P35M",
+      "timepoint_label": "Up to 35 months",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 73,
+            "total": 195
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "incidence_proportion",
+        "est": 0.3744,
+        "ci_lower": 0,
+        "ci_upper": 0,
+        "ci_level": 0.95,
+        "p_value": 0,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive incidence proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All stent procedures (n=195)"
+      },
+      "provenance": {
+        "pages": [
+          1476
+        ],
+        "tables": [
+          "Table 1"
+        ],
+        "quote": "Lower respiratory tract infection (time varying): Yes 73 (37.44%) among 195 procedures."
+      }
+    },
+    {
+      "concept_id": "overall_granulation_incidence",
+      "name": "Granulation tissue formation (any occurrence)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P36M",
+      "timepoint_label": "Up to 36 months",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 38,
+            "total": 195
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "incidence_proportion",
+        "est": 0.1949,
+        "ci_lower": 0,
+        "ci_upper": 0,
+        "ci_level": 0.95,
+        "p_value": 0,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive incidence proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All stent procedures (n=195)"
+      },
+      "provenance": {
+        "pages": [
+          1476
+        ],
+        "tables": [
+          "Table 1"
+        ],
+        "quote": "Granulation: Yes 38 (19.49%) among 195 procedures."
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Lower respiratory tract infection",
+      "meddra": {
+        "soc": "Infections and infestations",
+        "pt": "Lower respiratory tract infection"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "hospitalization",
+        "life-threatening",
+        "death"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 106,
+          "patients": 73,
+          "percentage": 37.44,
+          "total": 195
+        }
+      ],
+      "period": "From implantation to 35 months",
+      "management": "Antibiotics in all; bronchoscopy as needed; ICU admission in 22/106; mechanical ventilation in 14/106; stent removal in 12/106.",
+      "provenance": {
+        "pages": [
+          1476,
+          1477
+        ],
+        "tables": [
+          "Table 3",
+          "Table 1"
+        ],
+        "quote": "Seventy-three patients had 106 lower respiratory tract infections... Admitted to hospital floor 36 (34%), ICU 22 (21%); Mechanical ventilation 14 (13%); Stent removal required 12 (11%); Death within 14 d of infection 24 (23%)."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "ROBINS-I",
+    "overall_judgment": "serious",
+    "domains": [
+      {
+        "name": "Confounding",
+        "judgment": "serious",
+        "support_for_judgment": "Non-randomized retrospective cohort with potential residual confounding; multivariable Cox models used but unmeasured confounding likely."
+      },
+      {
+        "name": "Selection of participants",
+        "judgment": "moderate",
+        "support_for_judgment": "Consecutive cases at a single center; exclusions when multiple stent types present."
+      },
+      {
+        "name": "Classification of interventions",
+        "judgment": "low",
+        "support_for_judgment": "Stent type clearly identified from procedural records."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "low",
+        "support_for_judgment": "Usual care; no prophylactic antibiotics or steroids administered per protocol."
+      },
+      {
+        "name": "Missing data",
+        "judgment": "moderate",
+        "support_for_judgment": "Censoring at last follow-up; short median follow-up (3 months) could affect event capture."
+      },
+      {
+        "name": "Measurement of outcomes",
+        "judgment": "low",
+        "support_for_judgment": "Bronchoscopic confirmation for most structural outcomes; infections defined by clinical criteria and treatment."
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "low",
+        "support_for_judgment": "Pre-specified outcomes with comprehensive reporting of hazard ratios and incidence."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "airway stent",
+      "malignant airway obstruction",
+      "Aero stent",
+      "Ultraflex stent",
+      "silicone stent",
+      "granulation tissue",
+      "lower respiratory tract infection",
+      "bronchoscopy"
+    ],
+    "summary_tldr": "In a single-center cohort (195 stent procedures), Aero stents doubled infection risk vs Ultraflex (HR 1.98), silicone stents tripled migration risk and granulation risk; infections markedly increased granulation risk (HR 5.69) and mortality (HR 1.57).",
+    "clinical_relevance": "Stent selection influences long-term complications; preventing and promptly treating respiratory infections may reduce granulation and improve outcomes after airway stenting for malignant obstruction."
+  }
+}

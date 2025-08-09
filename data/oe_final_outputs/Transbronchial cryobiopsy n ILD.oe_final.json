@@ -1,0 +1,191 @@
+{
+  "source": {
+    "document_id": "Transbronchial cryobiopsy n ILD",
+    "ingest_date": "2025-08-08T16:34:38.736489+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1097/LBR.0000000000000716"
+  },
+  "document": {
+    "metadata": {
+      "title": "Transbronchial Cryobiopsy in Interstitial Lung Diseases: State-of-the-Art Review for the Interventional Pulmonologist",
+      "year": 2021,
+      "authors": [
+        "Sameer K. Avasarala",
+        "Athol U. Wells",
+        "Thomas V. Colby",
+        "Fabien Maldonado"
+      ],
+      "journal": "Journal of Bronchology & Interventional Pulmonology",
+      "doi": "10.1097/LBR.0000000000000716",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Interstitial lung diseases are a heterogeneous group of disorders that are often difficult to diagnose precisely. Clinical, laboratory, radiographic, and histologic information may be needed to arrive at the correct diagnosis. The multidisciplinary discussion has been proven to be useful in this patient group. Transbronchial cryobiopsy has become a popular method for obtaining tissue samples. Over the last decade, substantial research has assessed the feasibility, safety, and diagnostic endpoints of transbronchial cryobiopsy in patients with interstitial lung disease. Data continue to mount to support its use, reflected in guidelines and expert panel reports. Patient selection, procedural performance, and appropriate specimen handling are critical for success. A coordinated approach by pulmonologists with expertise in interstitial lung diseases, interventional pulmonologists, and thoracic pathologists is essential. This evidence-based narrative review addresses transbronchial cryobiopsies from these three perspectives and uses current literature to address nine common procedural questions.",
+      "methods": "MEDLINE and Cochrane Library were searched using the term \"cryobiopsy\" from 2009 through 2020. A total of 352 articles were found. Fifteen duplicates were removed. Seventy-four articles were excluded for reasons including non-parenchymal applications, other specialties or animal studies, lack of English full text, clinical trial registrations, duplicity, and microscopic applications of cryotechnology. After exclusions, 263 articles were selected for review; many were included in meta-analyses and guidelines and not individually referenced.",
+      "results": "Meta-analyses report acceptable diagnostic yield for transbronchial cryobiopsy (TBC) in diffuse parenchymal lung disease: Sethi et al. analyzed 27 studies (1443 patients) with an overall yield of 72.9%; Sharp et al. (11 studies, 704 patients) reported 84.4%; Johannson et al. (11 studies, 731 patients) reported a pooled estimate of 79% (range 74%-98%); Ravaglia et al. (15 studies, 781 patients) reported 81%; the 2019 ACCP Guideline pooled estimate was 82.5%. In multidisciplinary discussion (MDD), adding TBC histology increased highly confident IPF diagnosis from 29% to 63% in a cohort of 117 fibrotic ILD patients (+34%). In a prospective multicenter study with sequential TBC and SLB, TBC-sourced information was useful to MDD in 48 of 65 patients (75%). Diagnostic concordance between TBC and SLB varied: an early prospective study found full histologic concordance in 8 of 21 cases (38%); a larger multicenter study reported raw agreement between TBC and SLB of 70.8% for guideline-refined pattern (weighted κ 0.70, 95% CI 0.55-0.86), 69.2% for specific histologic pattern (κ 0.47, 0.30-0.64), and 76.9% for final MDD diagnosis (κ 0.62, 0.47-0.78). Safety signals favored TBC: hospital length of stay was longer with SLB (6.1 vs 2.6 days). Mortality due to adverse events was higher with SLB than TBC (2.7% vs 0.3%). Elective SLB in-hospital mortality was 1.7% (nonelective 16%). SLB 30-day mortality up to 16.7% was observed in a single-center series of patients ultimately diagnosed with UIP. TBC 30-day mortality ranged 0%-4.0%; 90-day mortality 2.5% in one report; meta-analysis procedural mortality 0.3%; ACCP estimated 0.5%. TBC pneumothorax and severe bleeding were estimated at <10% and 0.3%, respectively; SLB bleeding was infrequent and often minimal (<20 mL)."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with suspected interstitial lung disease undergoing evaluation in which histology may be required to support multidisciplinary discussion.",
+      "inclusion_criteria": [
+        "Suspected interstitial lung disease requiring tissue diagnosis",
+        "Cases with indeterminate clinical and radiologic findings"
+      ],
+      "exclusion_criteria": [
+        "Not applicable (narrative review of published studies)"
+      ]
+    },
+    "intervention": {
+      "text": "Transbronchial cryobiopsy (TBC)",
+      "details": "Bronchoscopic cryotechnology to freeze and extract larger parenchymal biopsy specimens, minimizing crush artifact; performed by experienced interventional pulmonologists with appropriate safety measures."
+    },
+    "comparison": {
+      "text": "Surgical lung biopsy (SLB) and conventional transbronchial forceps biopsy (TBB)",
+      "details": "SLB via open or video-assisted thoracoscopic approaches; TBB using standard forceps with smaller specimens and lower diagnostic yield."
+    },
+    "outcomes": [
+      {
+        "name": "Diagnostic yield",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Multidisciplinary discussion utility",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Histologic/MDD concordance between TBC and SLB",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Mortality",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Pneumothorax",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Severe bleeding",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Hospital length of stay",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "narrative_review",
+    "allocation": "none",
+    "blinding": "none",
+    "sites_count": 0,
+    "countries": [],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 263,
+      "analyzed": 263
+    },
+    "analysis_populations": [
+      {
+        "name": "Included studies",
+        "description": "All studies meeting inclusion for narrative synthesis after screening",
+        "n": 263
+      }
+    ]
+  },
+  "arms": [],
+  "outcomes_normalized": [
+    {
+      "concept_id": "tbc_mdd_utility",
+      "name": "Addition of TBC-sourced information deemed useful in MDD",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "During multidisciplinary discussion",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 48,
+            "total": 65
+          }
+        }
+      ],
+      "analysis": {
+        "model": "single proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Patients undergoing sequential TBC and SLB in a prospective multicenter study (Troy et al.)",
+        "missing_handling": "not reported"
+      },
+      "provenance": {
+        "pages": [
+          83
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "the addition of TBC sourced information was deemed useful in the MDD process in 75% (48/65) of patients."
+      }
+    },
+    {
+      "concept_id": "tbc_slb_full_histologic_concordance",
+      "name": "Full histologic concordance between TBC and SLB (single-pathologist assessment)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Per-procedure assessment",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 8,
+            "total": 21
+          }
+        }
+      ],
+      "analysis": {
+        "model": "single proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Patients with sequential TBC followed by SLB in an earlier prospective comparative study (Romagnoli et al.)",
+        "missing_handling": "not reported"
+      },
+      "provenance": {
+        "pages": [
+          84
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "the histologic diagnoses for TBC and SLB were fully concordant in only 8 of the 21 cases (38% agreement)."
+      }
+    }
+  ],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "Not applicable (narrative review)",
+    "overall_judgment": "unclear",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "interstitial lung disease",
+      "transbronchial cryobiopsy",
+      "surgical lung biopsy",
+      "bronchoscopy",
+      "diagnostic yield",
+      "safety",
+      "multidisciplinary discussion"
+    ],
+    "summary_tldr": "Across meta-analyses, TBC achieves roughly 79%-84% diagnostic yield and lower mortality (≈0.3%-0.5%) compared with SLB (≈2.7%), supporting TBC as a safer alternative for ILD tissue diagnosis.",
+    "clinical_relevance": "Supports adoption of transbronchial cryobiopsy as a reasonable alternative to surgical lung biopsy to inform MDD in ILD workups with improved safety."
+  }
+}

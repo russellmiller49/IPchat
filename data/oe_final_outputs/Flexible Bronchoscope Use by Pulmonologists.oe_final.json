@@ -1,0 +1,705 @@
+{
+  "source": {
+    "document_id": "Flexible Bronchoscope Use by Pulmonologists",
+    "ingest_date": "2025-08-08T12:42:08.639802+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1097/LBR.0000000000000434"
+  },
+  "document": {
+    "metadata": {
+      "title": "Flexible Bronchoscope Use by Pulmonologists in Collaboration With Gastroenterologists for Placement of Percutaneous Endoscopic Gastrostomy Via Transnasal Route in Patients With Head and Neck Cancer: A 10-Year Experience in a Single Cancer Institution",
+      "year": 2018,
+      "authors": [
+        "Paulo J.L. Mota",
+        "Jorge Dionísio",
+        "José Duro da Costa",
+        "Sandra Faias"
+      ],
+      "journal": "Journal of Bronchology & Interventional Pulmonology",
+      "doi": "10.1097/LBR.0000000000000434",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "This study evaluated a 10-year experience with percutaneous endoscopic gastrostomy through a transnasal route (TN-PEG) using an adapted flexible bronchoscope in head and neck cancer patients without oral access. In a retrospective analysis of consecutive patients between 2005 and 2014, demographics, TN-PEG outcomes, indications (prophylactic/palliative), clinical need for bronchoscopy (trismus, oropharyngeal obstruction), tumor location, complications, and overall survival were reviewed. Of 40 TN-PEG procedures performed by 1 of 3 pulmonologists, 39 were successfully placed with no immediate complications. Complications were mostly minor and none required surgery or PEG removal. Operators demonstrated a rapid learning curve. Combined TN-PEG placement by a gastroenterologist and a pulmonologist appears safe and useful when oral access is precluded.",
+      "methods": "Retrospective single-center review of head and neck cancer patients referred between 2005 and 2014 for PEG placement using the pull method via a transnasal route due to inability to intubate through the oral cavity. The pulmonologist performed transnasal esophagogastroscopy using a 600 mm length, 5.3 mm outer diameter flexible bronchoscope with a 2.2 mm working channel and an adapted Luer lock 3-way stopcock connected to high-pressure vacuum and oxygen systems to allow suction and insufflation. A pediatric endoscopic loop was passed to retrieve the guidewire. The gastroenterologist performed the abdominal portion, including transillumination confirmation, gastric cannulation, and PEG pull-through. Demographics, indication, procedural success, clinical factors (trismus/oropharyngeal obstruction), tumor site, complications (early <7 days, late >7 days), and survival were recorded. Inclusion and exclusion criteria followed standard PEG criteria with added requirement for severe trismus or oral/pharyngeal obstruction.",
+      "results": "Forty patients were referred; TN-PEG was successfully placed in 39, with 1 failure due to lack of transillumination. The cohort included 30 men and 9 women with mean age 55 years. Indication was palliative in 27 of 39 and prophylactic in 12 of 39. The transnasal approach was needed for trismus in 25 of 39 and oropharyngeal obstruction in 14 of 39. Tumor sites included nasal cavity/paranasal sinus (2), oral cavity (17), oropharynx (14), larynx (3), hypopharynx (1), facial cutaneous melanoma with muscle involvement (1), and skull base metastasis with masticatory compromise (1). Complications occurred in 9 of 39: early (<7 days) local infections in 4, and late (>7 days) events in 5 (3 local infections, 1 extrusion, 1 Buried Bumper syndrome). No complications required surgery or PEG removal. No immediate (first 24 hours) mechanical or traumatic complications occurred. At follow-up, 10 of 39 were alive (7 in remission), and 29 had died (27 disease progression, 2 unrelated)."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Head and neck cancer patients requiring PEG for nutritional support with oral access precluded by severe trismus or oropharyngeal obstruction, managed at a single cancer center.",
+      "inclusion_criteria": [
+        "Patients unable to move food from mouth to stomach",
+        "Severe trismus",
+        "Oral or pharyngeal obstruction"
+      ],
+      "exclusion_criteria": [
+        "Gut decompression in abdominal malignancies",
+        "Uncorrected coagulopathy or thrombocytopenia",
+        "Ascites",
+        "Intraabdominal perforation",
+        "Abdominal wall infection at selected site",
+        "Complete esophageal obstruction",
+        "Severe hypoxemia",
+        "Hemodynamic instability"
+      ]
+    },
+    "intervention": {
+      "text": "Transnasal percutaneous endoscopic gastrostomy (TN-PEG) using an adapted flexible bronchoscope",
+      "details": "Pulmonologist performs transnasal esophagogastroscopy using a 600 mm length, 5.3 mm outer diameter flexible bronchoscope with a 2.2 mm channel adapted with a Luer lock 3-way stopcock connected to vacuum and oxygen for suction/insufflation; pediatric endoscopic loop to retrieve guidewire; gastroenterologist performs abdominal puncture, transillumination confirmation, guidewire placement, and pull-through PEG insertion."
+    },
+    "comparison": {
+      "text": "None (single-arm retrospective case series)",
+      "details": ""
+    },
+    "outcomes": [
+      {
+        "name": "Technical success of TN-PEG placement",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Immediate complications within 24 hours",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Early local infection within 7 days",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Late complications (>7 days): local infection, extrusion, buried bumper",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "All-cause mortality at end of follow-up",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "retrospective case series",
+    "allocation": "non-randomized",
+    "blinding": "none",
+    "sites_count": 1,
+    "countries": [
+      "Portugal"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 40,
+      "analyzed": 40
+    },
+    "analysis_populations": [
+      {
+        "name": "All referred",
+        "description": "All patients referred for TN-PEG attempt",
+        "n": 40
+      },
+      {
+        "name": "Placed TN-PEG",
+        "description": "Patients with successful TN-PEG placement",
+        "n": 39
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "tnpeg",
+      "name": "Transnasal PEG using adapted flexible bronchoscope",
+      "n_randomized": 0,
+      "n_analyzed": 39,
+      "n_completed": 39
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "technical_success_tnpeg",
+      "name": "Technical success of TN-PEG placement",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Procedure day",
+      "groups": [
+        {
+          "arm_id": "tnpeg",
+          "raw": {
+            "events": 39,
+            "total": 40
+          }
+        }
+      ],
+      "analysis": {
+        "model": "single-arm proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All referred",
+        "missing_handling": "not applicable"
+      },
+      "provenance": {
+        "pages": [
+          75
+        ],
+        "tables": [],
+        "quote": "In 40 TN-PEG procedures, executed by 1 of 3 pulmonologists, 39 were successfully placed and there were no immediate complications."
+      }
+    },
+    {
+      "concept_id": "immediate_complications_24h",
+      "name": "Immediate complications within 24 hours",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P1D",
+      "timepoint_label": "First 24 hours",
+      "groups": [
+        {
+          "arm_id": "tnpeg",
+          "raw": {
+            "events": 0,
+            "total": 39
+          }
+        }
+      ],
+      "analysis": {
+        "model": "single-arm proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Placed TN-PEG",
+        "missing_handling": "not applicable"
+      },
+      "provenance": {
+        "pages": [
+          76
+        ],
+        "tables": [],
+        "quote": "No immediate (first 24 h) mechanical or traumatic complications occurred, particularly with the use of the adapted suction/insufflation device."
+      }
+    },
+    {
+      "concept_id": "early_local_infection_7d",
+      "name": "Early local infection within 7 days",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P7D",
+      "timepoint_label": "Within 7 days",
+      "groups": [
+        {
+          "arm_id": "tnpeg",
+          "raw": {
+            "events": 4,
+            "total": 39
+          }
+        }
+      ],
+      "analysis": {
+        "model": "single-arm proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Placed TN-PEG",
+        "missing_handling": "not applicable"
+      },
+      "provenance": {
+        "pages": [
+          75
+        ],
+        "tables": [],
+        "quote": "Complications occurred in 9/39 patients: early (less than a week after the procedure) in 4/9 (local infection treated pharmacologically)"
+      }
+    },
+    {
+      "concept_id": "late_local_infection_gt7d",
+      "name": "Late local infection after 7 days",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "After 7 days",
+      "groups": [
+        {
+          "arm_id": "tnpeg",
+          "raw": {
+            "events": 3,
+            "total": 39
+          }
+        }
+      ],
+      "analysis": {
+        "model": "single-arm proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Placed TN-PEG",
+        "missing_handling": "not applicable"
+      },
+      "provenance": {
+        "pages": [
+          75
+        ],
+        "tables": [],
+        "quote": "late in 5/9 (3 cases of local infections, 1 case of extrusion, 1 Buried Bumper syndrome)."
+      }
+    },
+    {
+      "concept_id": "device_extrusion",
+      "name": "PEG tube extrusion (late)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "After 7 days",
+      "groups": [
+        {
+          "arm_id": "tnpeg",
+          "raw": {
+            "events": 1,
+            "total": 39
+          }
+        }
+      ],
+      "analysis": {
+        "model": "single-arm proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Placed TN-PEG"
+      },
+      "provenance": {
+        "pages": [
+          75
+        ],
+        "tables": [],
+        "quote": "late in 5/9 (3 cases of local infections, 1 case of extrusion, 1 Buried Bumper syndrome)."
+      }
+    },
+    {
+      "concept_id": "buried_bumper_syndrome",
+      "name": "Buried Bumper syndrome",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "After 7 days",
+      "groups": [
+        {
+          "arm_id": "tnpeg",
+          "raw": {
+            "events": 1,
+            "total": 39
+          }
+        }
+      ],
+      "analysis": {
+        "model": "single-arm proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Placed TN-PEG"
+      },
+      "provenance": {
+        "pages": [
+          75
+        ],
+        "tables": [],
+        "quote": "late in 5/9 (3 cases of local infections, 1 case of extrusion, 1 Buried Bumper syndrome)."
+      }
+    },
+    {
+      "concept_id": "any_complication",
+      "name": "Any complication",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "During follow-up",
+      "groups": [
+        {
+          "arm_id": "tnpeg",
+          "raw": {
+            "events": 9,
+            "total": 39
+          }
+        }
+      ],
+      "analysis": {
+        "model": "single-arm proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Placed TN-PEG"
+      },
+      "provenance": {
+        "pages": [
+          75
+        ],
+        "tables": [],
+        "quote": "Complications occurred in 9/39 patients"
+      }
+    },
+    {
+      "concept_id": "surgery_required_for_complication",
+      "name": "Surgery required for complication",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "During follow-up",
+      "groups": [
+        {
+          "arm_id": "tnpeg",
+          "raw": {
+            "events": 0,
+            "total": 39
+          }
+        }
+      ],
+      "analysis": {
+        "model": "single-arm proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Placed TN-PEG"
+      },
+      "provenance": {
+        "pages": [
+          75
+        ],
+        "tables": [],
+        "quote": "All except 1 complication were minor, but no surgery or PEG removal was required."
+      }
+    },
+    {
+      "concept_id": "peg_removal_required",
+      "name": "PEG removal required due to complication",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "During follow-up",
+      "groups": [
+        {
+          "arm_id": "tnpeg",
+          "raw": {
+            "events": 0,
+            "total": 39
+          }
+        }
+      ],
+      "analysis": {
+        "model": "single-arm proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Placed TN-PEG"
+      },
+      "provenance": {
+        "pages": [
+          75
+        ],
+        "tables": [],
+        "quote": "All except 1 complication were minor, but no surgery or PEG removal was required."
+      }
+    },
+    {
+      "concept_id": "all_cause_mortality_end_followup",
+      "name": "All-cause mortality at end of follow-up",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "End of follow-up",
+      "groups": [
+        {
+          "arm_id": "tnpeg",
+          "raw": {
+            "events": 29,
+            "total": 39
+          }
+        }
+      ],
+      "analysis": {
+        "model": "single-arm proportion",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Placed TN-PEG"
+      },
+      "provenance": {
+        "pages": [
+          76
+        ],
+        "tables": [],
+        "quote": "On follow-up, 10/39 patients were alive and 7 were in remission. In all 29 patients died, 27 because of disease progression and 2 others because of unrelated causes."
+      }
+    },
+    {
+      "concept_id": "disease_progression_deaths",
+      "name": "Deaths due to disease progression",
+      "type": "binary",
+      "outcome_type": "tertiary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "End of follow-up",
+      "groups": [
+        {
+          "arm_id": "tnpeg",
+          "raw": {
+            "events": 27,
+            "total": 39
+          }
+        }
+      ],
+      "analysis": {
+        "model": "single-arm count",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Placed TN-PEG"
+      },
+      "provenance": {
+        "pages": [
+          76
+        ],
+        "tables": [],
+        "quote": "29 patients died, 27 because of disease progression and 2 others because of unrelated causes."
+      }
+    },
+    {
+      "concept_id": "alive_end_followup",
+      "name": "Alive at end of follow-up",
+      "type": "binary",
+      "outcome_type": "tertiary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "End of follow-up",
+      "groups": [
+        {
+          "arm_id": "tnpeg",
+          "raw": {
+            "events": 10,
+            "total": 39
+          }
+        }
+      ],
+      "analysis": {
+        "model": "single-arm count",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Placed TN-PEG"
+      },
+      "provenance": {
+        "pages": [
+          76
+        ],
+        "tables": [],
+        "quote": "On follow-up, 10/39 patients were alive and 7 were in remission."
+      }
+    },
+    {
+      "concept_id": "remission_end_followup",
+      "name": "Remission at end of follow-up",
+      "type": "binary",
+      "outcome_type": "tertiary",
+      "timepoint_iso8601": "",
+      "timepoint_label": "End of follow-up",
+      "groups": [
+        {
+          "arm_id": "tnpeg",
+          "raw": {
+            "events": 7,
+            "total": 39
+          }
+        }
+      ],
+      "analysis": {
+        "model": "single-arm count",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Placed TN-PEG"
+      },
+      "provenance": {
+        "pages": [
+          76
+        ],
+        "tables": [],
+        "quote": "On follow-up, 10/39 patients were alive and 7 were in remission."
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Local infection (early)",
+      "meddra": {
+        "soc": "Infections and infestations",
+        "pt": "Infection"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "tnpeg",
+          "events": 4,
+          "patients": 4,
+          "percentage": 10.3,
+          "total": 39
+        }
+      ],
+      "period": "0-7 days",
+      "management": "Treated pharmacologically",
+      "provenance": {
+        "pages": [
+          75
+        ],
+        "tables": [],
+        "quote": "early (less than a week after the procedure) in 4/9 (local infection treated pharmacologically)"
+      }
+    },
+    {
+      "event_name": "Local infection (late)",
+      "meddra": {
+        "soc": "Infections and infestations",
+        "pt": "Infection"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "tnpeg",
+          "events": 3,
+          "patients": 3,
+          "percentage": 7.7,
+          "total": 39
+        }
+      ],
+      "period": ">7 days",
+      "management": "",
+      "provenance": {
+        "pages": [
+          75
+        ],
+        "tables": [],
+        "quote": "late in 5/9 (3 cases of local infections, 1 case of extrusion, 1 Buried Bumper syndrome)."
+      }
+    },
+    {
+      "event_name": "Device extrusion",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Device extrusion"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "tnpeg",
+          "events": 1,
+          "patients": 1,
+          "percentage": 2.6,
+          "total": 39
+        }
+      ],
+      "period": ">7 days",
+      "management": "",
+      "provenance": {
+        "pages": [
+          75
+        ],
+        "tables": [],
+        "quote": "late in 5/9 (3 cases of local infections, 1 case of extrusion, 1 Buried Bumper syndrome)."
+      }
+    },
+    {
+      "event_name": "Buried bumper syndrome",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Buried bumper syndrome"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "tnpeg",
+          "events": 1,
+          "patients": 1,
+          "percentage": 2.6,
+          "total": 39
+        }
+      ],
+      "period": ">7 days",
+      "management": "Typically managed by replacing the PEG tube over a guidewire or repeating endoscopic placement",
+      "provenance": {
+        "pages": [
+          75
+        ],
+        "tables": [],
+        "quote": "Buried Bumper syndrome is a complication that occurs when the internal bumper of a PEG tube erodes and migrates... This complication is solved by replacing the PEG tube through the same route using a guidewire or... repeating the endoscopic procedure."
+      }
+    },
+    {
+      "event_name": "Immediate mechanical or traumatic complications",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Procedure related complication"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "tnpeg",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 39
+        }
+      ],
+      "period": "0-1 days",
+      "management": "",
+      "provenance": {
+        "pages": [
+          76
+        ],
+        "tables": [],
+        "quote": "No immediate (first 24 h) mechanical or traumatic complications occurred"
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "ROBINS-I",
+    "overall_judgment": "serious",
+    "domains": [
+      {
+        "name": "Bias due to confounding",
+        "judgment": "serious",
+        "support_for_judgment": "Single-arm retrospective design without comparator; outcomes influenced by disease severity and indication (prophylactic vs palliative)."
+      },
+      {
+        "name": "Bias in selection of participants",
+        "judgment": "moderate",
+        "support_for_judgment": "Consecutive referrals reported, but only patients referred for TN-PEG considered; 1 failed due to lack of transillumination."
+      },
+      {
+        "name": "Bias in classification of interventions",
+        "judgment": "low",
+        "support_for_judgment": "All patients received the same TN-PEG technique with clear procedural description."
+      },
+      {
+        "name": "Bias due to deviations from intended interventions",
+        "judgment": "low",
+        "support_for_judgment": "No deviations reported; standardized collaboration between pulmonology and gastroenterology."
+      },
+      {
+        "name": "Bias due to missing data",
+        "judgment": "low",
+        "support_for_judgment": "Event counts and denominators reported for all key outcomes."
+      },
+      {
+        "name": "Bias in measurement of outcomes",
+        "judgment": "low",
+        "support_for_judgment": "Objective procedural outcomes and clearly defined complications."
+      },
+      {
+        "name": "Bias in selection of the reported result",
+        "judgment": "unclear",
+        "support_for_judgment": "No protocol available; limited reporting typical of brief retrospective reports."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "transnasal PEG",
+      "flexible bronchoscope",
+      "head and neck cancer",
+      "trismus",
+      "oropharyngeal obstruction",
+      "percutaneous endoscopic gastrostomy"
+    ],
+    "summary_tldr": "In a 10-year single-center case series, TN-PEG using an adapted flexible bronchoscope achieved 97.5% technical success with 0% immediate complications; 9 of 39 had mostly minor late complications.",
+    "clinical_relevance": "Provides a practical, collaborative approach for PEG placement when oral access is not possible, using equipment commonly available in pulmonology."
+  }
+}

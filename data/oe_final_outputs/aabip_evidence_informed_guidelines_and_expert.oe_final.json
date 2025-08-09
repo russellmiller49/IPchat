@@ -1,0 +1,133 @@
+{
+  "source": {
+    "document_id": "aabip_evidence_informed_guidelines_and_expert",
+    "ingest_date": "2025-08-08T09:28:17.749330+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1097/LBR.0000000000000707"
+  },
+  "document": {
+    "metadata": {
+      "title": "AABIP Evidence-informed Guidelines and Expert Panel Report for the Management of Indwelling Pleural Catheters",
+      "year": 2020,
+      "authors": [
+        "Russell J. Miller",
+        "Ara A. Chrissian",
+        "Y.C. Gary Lee",
+        "Najib M. Rahman",
+        "Momen M. Wahidi",
+        "Alain Tremblay",
+        "David W. Hsia",
+        "Francisco A. Almeida",
+        "Samira Shojaee",
+        "Lakshmi Mudambi",
+        "Adam R. Belanger",
+        "Harmeet Bedi",
+        "Yaron B. Gesthalter",
+        "Margaret Gaynor",
+        "Karen L. MacKenney",
+        "Sandra Z. Lewis",
+        "Roberto F. Casal"
+      ],
+      "journal": "Journal of Bronchology & Interventional Pulmonology",
+      "doi": "10.1097/LBR.0000000000000707",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Background: While the efficacy of indwelling pleural catheters for palliation of malignant pleural effusions is supported by relatively robust evidence, there is less clarity surrounding the postinsertion management. Methods: The Trustworthy Consensus-Based Statement approach was utilized to develop unbiased, scientifically valid guidance for the management of patients with malignant effusions treated with indwelling pleural catheters. A comprehensive electronic database search of PubMed was performed based on a priori crafted PICO questions (Population/Intervention/Comparator/Outcomes paradigm). Manual searches of the literature were performed to identify additional relevant literature. Dual screenings at the title, abstract, and full-text levels were performed. Identified studies were then assessed for quality based on a combination of validated tools. Appropriateness for data pooling and formation of evidence-based recommendations was assessed using predetermined criteria. All panel members participated in development of the final recommendations utilizing the modified Delphi technique. Results: A total of 7 studies were identified for formal quality assessment, all of which were deemed to have a high risk of bias. There was insufficient evidence to allow for data pooling and formation of any evidence-based recommendations. Panel consensus resulted in 11 ungraded consensus-based recommendations. Conclusion: This manuscript was developed to provide clinicians with guidance on the management of patients with indwelling pleural catheters placed for palliation of malignant pleural effusions. Through a systematic and rigorous process, management suggestions were developed based on the best available evidence with augmentation by expert opinion when necessary. In addition, these guidelines highlight important gaps in knowledge which require further study.",
+      "methods": "The American Association for Bronchoscopy and Interventional Pulmonology employed the Trustworthy Consensus-Based Statement approach. Panel composition included interventional pulmonologists and advanced-practice providers with screening for conflicts of interest and training on the process. PICO questions were developed across three categories: routine management of IPC patients, mechanical complications, and infectious complications. A comprehensive PubMed search (January 2000 to January 2019) supplemented by manual searches was conducted. Inclusion criteria were English-language publications using IPCs for malignant or suspected malignant pleural effusion and clinical trials, well-conducted retrospective studies, meta-analyses, or systematic reviews; exclusions were expert reviews, case reports, and retrospective studies or case series with fewer than 50 patients. Dual screening at title/abstract and full-text levels with adjudication was performed. Quality was assessed using RoB 2 for RCTs, ROBINS-I for nonrandomized studies, and SURE for case series. Data pooling required at least 2 fair-quality studies with comparable outcomes; this threshold was not met. A modified Delphi process with anonymous voting (consensus defined as ≥80% agree/strongly agree and minimum 75% response) generated final ungraded consensus-based suggestions.",
+      "results": "Seven studies met criteria for quality assessment, including 2 randomized controlled trials, 3 nonrandomized intervention studies, and 2 case series. All assessed studies exhibited high/serious risk of bias, precluding quantitative pooling and evidence-based recommendations. The panel produced 11 ungraded consensus-based recommendations addressing IPC drainage frequency, management of catheter dysfunction and infections, and follow-up care. The guidelines also identified key knowledge gaps requiring further research."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with malignant pleural effusions managed with indwelling pleural catheters in outpatient or inpatient settings.",
+      "inclusion_criteria": [
+        "Use of indwelling pleural catheter for malignant or suspected malignant pleural effusion",
+        "Studies published in English",
+        "Clinical trials, well-conducted retrospective studies, systematic reviews, or meta-analyses"
+      ],
+      "exclusion_criteria": [
+        "Expert reviews",
+        "Case reports",
+        "Retrospective studies or case series with fewer than 50 patients"
+      ]
+    },
+    "intervention": {
+      "text": "Post-insertion management strategies for indwelling pleural catheters",
+      "details": "Approaches including drainage frequency (e.g., daily vs symptom-based), management of catheter obstruction, prevention and treatment of infections, and follow-up protocols."
+    },
+    "comparison": {
+      "text": "Alternative IPC management strategies",
+      "details": "Less frequent or symptom-based drainage schedules, differing approaches to mechanical and infectious complications, and variable monitoring strategies."
+    },
+    "outcomes": [
+      {
+        "name": "Quality of life",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Pleurodesis success and catheter removal",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Catheter-related infections",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Catheter dysfunction/obstruction",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Healthcare utilization (hospitalizations, procedures)",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "consensus-based guideline",
+    "allocation": "",
+    "blinding": "",
+    "sites_count": 0,
+    "countries": [],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": []
+  },
+  "arms": [],
+  "outcomes_normalized": [],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "Multiple (RoB 2, ROBINS-I, SURE)",
+    "overall_judgment": "high",
+    "domains": [
+      {
+        "name": "Overall included evidence",
+        "judgment": "high",
+        "support_for_judgment": "All 7 included studies had high/serious risk of bias; heterogeneity and quality precluded data pooling and evidence-based recommendations."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "indwelling pleural catheter",
+      "malignant pleural effusion",
+      "drainage schedule",
+      "catheter infection",
+      "catheter obstruction",
+      "pleurodesis",
+      "AABIP",
+      "consensus guideline"
+    ],
+    "summary_tldr": "AABIP consensus guideline provides 11 ungraded, expert-informed suggestions for post-insertion management of indwelling pleural catheters in malignant pleural effusions; evidence base insufficient for pooled analyses.",
+    "clinical_relevance": "Offers practical, transparent guidance for IPC management (drainage frequency, complication management, follow-up) when high-quality comparative evidence is lacking."
+  }
+}

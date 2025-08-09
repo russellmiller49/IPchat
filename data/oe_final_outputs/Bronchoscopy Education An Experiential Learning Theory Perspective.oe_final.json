@@ -1,0 +1,100 @@
+{
+  "source": {
+    "document_id": "Bronchoscopy Education An Experiential Learning Theory Perspective",
+    "ingest_date": "2025-08-08T10:32:08.584695+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1016/j.ccm.2017.11.002"
+  },
+  "document": {
+    "metadata": {
+      "title": "Bronchoscopy Education: An Experiential Learning Theory Perspective",
+      "year": 2018,
+      "authors": [
+        "Septimiu D. Murgu",
+        "Jonathan S. Kurman",
+        "Omar Hasan"
+      ],
+      "journal": "Clinics in Chest Medicine",
+      "doi": "10.1016/j.ccm.2017.11.002",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "This perspective outlines how Kolb’s Experiential Learning Model (ELM) can be applied to bronchoscopy education to improve knowledge acquisition, retention, and translation into clinical practice. The authors argue that traditional lecture-based CME is insufficient for changing clinician behavior and emphasize learner-centered approaches including problem-based learning (PBL), flipped classroom models, simulation with defined roles and checklists, immediate feedback, and spaced education strategies. The article describes aligning curricula with Kolb’s quadrants (diverging, assimilating, converging, accommodating), implementing interactive methods (audience response systems, case-based discussions), and leveraging web-based precourse materials to maximize active learning during live sessions.",
+      "methods": "Narrative educational perspective and synthesis of pedagogical approaches applied to bronchoscopy training; describes frameworks (Kolb’s ELM), instructional modalities (PBL, flipped classroom, simulation), and implementation strategies (surveys/pretests, ARS, role assignment, checklists, spaced education). No primary interventional study or statistical analyses were performed.",
+      "results": "No original experiments or randomized comparisons were conducted. The article summarizes published evidence and experiential observations suggesting: (1) lecture-based CME has poor impact on behavior change and knowledge retention; (2) PBL and interactive techniques improve retention and satisfaction; (3) flipped classroom models are preferred by learners and can improve test scores and attendance; (4) simulation with structured workflows and immediate feedback enhances skills practice; and (5) blended learning (online plus live) may outperform single-modality approaches. No quantitative trial outcomes are reported."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Physicians and trainees involved in bronchoscopy (pulmonary and critical care) participating in continuing medical education or procedural training programs.",
+      "inclusion_criteria": [
+        "Healthcare professionals learning bronchoscopy",
+        "Participants in CME or structured bronchoscopy courses"
+      ],
+      "exclusion_criteria": [
+        "Not applicable for this narrative perspective"
+      ]
+    },
+    "intervention": {
+      "text": "Experiential Learning Model-based bronchoscopy curriculum",
+      "details": "Curriculum aligned with Kolb’s quadrants incorporating flipped classroom (preclass online materials), problem-based learning, simulation with role assignment (bronchoscopist/assistants/checklist reader), interactive case discussions using audience response systems, immediate feedback via checklists/assessment tools, and spaced education post-course."
+    },
+    "comparison": {
+      "text": "Traditional lecture-based instruction",
+      "details": "Didactic, one-size-fits-all lectures with minimal active participation and limited interactivity."
+    },
+    "outcomes": [
+      {
+        "name": "Knowledge retention",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Learner satisfaction and engagement",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Behavior change/clinical practice application",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Narrative review",
+    "allocation": "none",
+    "blinding": "none",
+    "sites_count": 0,
+    "countries": [],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": []
+  },
+  "arms": [],
+  "outcomes_normalized": [],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "",
+    "overall_judgment": "not_applicable",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "bronchoscopy",
+      "education",
+      "experiential learning theory",
+      "flipped classroom",
+      "problem-based learning",
+      "simulation",
+      "checklists",
+      "spaced education"
+    ],
+    "summary_tldr": "Narrative perspective advocating Kolb’s Experiential Learning Model for bronchoscopy education, emphasizing flipped classroom, PBL, simulation, immediate feedback, and spaced education to improve retention and application; no interventional trial data reported.",
+    "clinical_relevance": "Provides a structured, learner-centered framework to design bronchoscopy curricula that may enhance skill acquisition, retention, and translation into clinical practice."
+  }
+}

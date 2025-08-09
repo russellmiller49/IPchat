@@ -1,0 +1,105 @@
+{
+  "source": {
+    "document_id": "Physiologic Evaluation of the Patient With Lung Cancer",
+    "ingest_date": "2025-08-08T14:52:06.073140+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1378/chest.12-2395"
+  },
+  "document": {
+    "metadata": {
+      "title": "Physiologic Evaluation of the Patient With Lung Cancer Being Considered for Resectional Surgery: Diagnosis and Management of Lung Cancer, 3rd ed: American College of Chest Physicians Evidence-Based Clinical Practice Guidelines",
+      "year": 2013,
+      "authors": [
+        "Alessandro Brunelli",
+        "Anthony W. Kim",
+        "Kenneth I. Berger",
+        "Doreen J. Addrizzo-Harris"
+      ],
+      "journal": "CHEST",
+      "doi": "10.1378/chest.12-2395",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Background: This section of the guidelines provides an evidence-based approach to the preoperative physiologic assessment of a patient being considered for surgical resection of lung cancer. Methods: Current guidelines and medical literature were identified by computerized search and evaluated using standardized methods; recommendations were framed per the ACCP Guidelines Oversight Committee. Results: Assessment should begin with cardiovascular evaluation and spirometry to measure FEV1 and diffusing capacity for carbon monoxide (DLCO). Predicted postoperative (PPO) lung functions should be calculated. If both %PPO FEV1 and %PPO DLCO are >60%, the patient is low risk and no further tests are indicated. If either %PPO FEV1 or %PPO DLCO is between 30% and 60%, a low-technology exercise test (stair climb or shuttle walk) should be performed; satisfactory performance (stair climbing altitude >22 m or shuttle walk distance >400 m) indicates low risk. A cardiopulmonary exercise test (CPET) is indicated when PPO FEV1 or PPO DLCO (or both) are <30%, or when the low-technology test is not satisfactory. Peak oxygen consumption (O2peak) <10 mL/kg/min or 35% predicted indicates high risk of mortality and long-term disability with major anatomic resection; O2peak >20 mL/kg/min or 75% predicted indicates low risk. Conclusions: Careful preoperative physiologic assessment identifies patients at increased risk with standard lung cancer resection and supports informed decision-making, recognizing that surgery for early-stage lung cancer is the most effective treatment.",
+      "methods": "The writing committee updated prior ACCP recommendations through a formal process. Evidence questions were drafted in PICO format. Searches (mostly 2005 onward, without strict date limits) were conducted in PubMed, Google Scholar, and Scopus, supplemented by references from the prior ACCP guideline. Original research of all evidence levels in peer-reviewed publications and systematic reviews were considered. Recommendations were graded using standardized ACCP methodology, reviewed by the Lung Cancer Panel and Thoracic Oncology Network, and approved by the ACCP Guidelines Oversight Committee and Board of Regents. Outcomes prioritized were patient-important measures.",
+      "results": "Key recommendations: measure FEV1 and DLCO in all surgical candidates and calculate %PPO values. If both %PPO FEV1 and %PPO DLCO are >60%, no further testing is recommended (low risk). If either is <60% but both are ≥30%, perform a low-technology exercise test (stair climb or shuttle walk); satisfactory performance (stair climb >22 m or shuttle walk >400 m) indicates low risk. If %PPO FEV1 <30% or %PPO DLCO <30%, or if low-technology test performance is unsatisfactory (stair climb <22 m or shuttle walk <400 m), perform CPET. O2max <10 mL/kg/min or <35% predicted denotes high risk for perioperative death and cardiopulmonary complications with major anatomic resection; O2max >20 mL/kg/min or >75% predicted indicates low risk. Additional guidance includes multidisciplinary team assessment, full evaluation regardless of advanced age, preoperative cardiology evaluation for increased cardiovascular risk, repeat PFTs with DLCO after neoadjuvant therapy, combined LVRS and cancer resection for suitable upper-lobe emphysema cases, tobacco dependence treatment for active smokers, and pulmonary rehabilitation for high-risk patients."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with lung cancer who are potential candidates for curative-intent surgical resection.",
+      "inclusion_criteria": [
+        "Diagnosed or suspected lung cancer",
+        "Considered for curative surgical resection (lobectomy or greater, or sublobar where applicable)",
+        "Able to undergo pulmonary function testing"
+      ],
+      "exclusion_criteria": [
+        "Not considered for surgical management",
+        "Contraindications to exercise testing or CPET per clinical judgment"
+      ]
+    },
+    "intervention": {
+      "text": "Preoperative physiologic assessment algorithm",
+      "details": "Measure FEV1 and DLCO, calculate %PPO values; if both >60% no further testing; if 30%-60% perform low-technology exercise test (stair climb or shuttle walk); if <30% or low-tech test unsatisfactory, perform CPET; use O2max thresholds to stratify risk and guide surgical approach."
+    },
+    "comparison": {
+      "text": "Not applicable (guideline recommendations)",
+      "details": "No formal comparator; recommendations synthesize evidence to guide preoperative risk stratification."
+    },
+    "outcomes": [
+      {
+        "name": "Perioperative mortality",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Perioperative cardiopulmonary complications",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Long-term pulmonary disability",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Guideline",
+    "allocation": "none",
+    "blinding": "none",
+    "sites_count": 0,
+    "countries": [],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": []
+  },
+  "arms": [],
+  "outcomes_normalized": [],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "Not applicable",
+    "overall_judgment": "not_applicable",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "lung cancer",
+      "preoperative assessment",
+      "FEV1",
+      "DLCO",
+      "predicted postoperative",
+      "stair climbing test",
+      "shuttle walk test",
+      "CPET",
+      "O2max",
+      "perioperative risk"
+    ],
+    "summary_tldr": "ACCP 2013 guideline recommends FEV1 and DLCO with %PPO-based triage to low-tech exercise tests and CPET; O2max <10 mL/kg/min indicates high surgical risk.",
+    "clinical_relevance": "Provides a practical, evidence-based algorithm to stratify perioperative risk and guide surgical decision-making for lung cancer resection candidates."
+  }
+}

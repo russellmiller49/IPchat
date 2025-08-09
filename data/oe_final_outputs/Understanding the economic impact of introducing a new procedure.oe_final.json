@@ -1,0 +1,641 @@
+{
+  "source": {
+    "document_id": "Understanding the economic impact of introducing a new procedure",
+    "ingest_date": "2025-08-08T16:40:26.038762+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1378/chest.11-0254"
+  },
+  "document": {
+    "metadata": {
+      "title": "Understanding the Economic Impact of Introducing a New Procedure: Calculating Downstream Revenue of Endobronchial Ultrasound With Transbronchial Needle Aspiration as a Model",
+      "year": 2012,
+      "authors": [
+        "Nicholas J. Pastis",
+        "Suzanne Simkovich",
+        "Gerard A. Silvestri"
+      ],
+      "journal": "Chest",
+      "doi": "10.1378/chest.11-0254",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Over the last decade, endobronchial ultrasound (EBUS) evolved into a validated and powerful diagnostic tool. Although it is integral to medical care in some health-care systems, others struggle to justify its purchase based on diminishing reimbursement. In analyzing its value to a health-care system, looking at procedural reimbursement alone will grossly underestimate its economic impact. Downstream revenue has been defined by administrators as revenue captured after patients use one hospital service and then use others. By analyzing consecutive EBUS cases and taking downstream revenue into account, 2400000 in collections was attributed to 97 patients who were newly referred for this procedure.",
+      "methods": "Retrospective review of 200 consecutive EBUS-TBNA procedures performed at the Medical University of South Carolina between 2008 and 2009 (start date June 30, 2008). Patients were classified as established patients (EPs) or new patients (NPs) to the health-care system within 30 days of EBUS-TBNA. NPs were subdivided into new patient brief interaction (NPBI: <6 visits, no hospitalizations) and new patient continued care (NPCC). For NPs, collections (professional and technical) were obtained for services from 30 days prior to 180 days after the index procedure, restricted to services directly related to the EBUS-TBNA referral and subsequent diagnosis/treatment. For EPs, downstream services directly related to the EBUS-TBNA within 180 days were counted; collections were not calculated. Data abstracted included radiologic studies, consults, pathology, hospitalizations, procedures, and treatments.",
+      "results": "Of 200 patients, 97 were EPs and 103 were NPs (59 NPBI, 44 NPCC). Lung cancer was present in 49% overall and metastatic cancer in 7%. Among NPs in the 30 days prior to EBUS-TBNA, there were 30 radiologic studies, 94 consults, and 28 procedures. Post-procedure encounters (within 180 days) included, for NPBI/NPCC/EP respectively: radiologic studies 22/275/305; consults 88/459/470; hospitalizations 0/33/31; procedures 14/44/61; radiation therapy 0/240/310; chemotherapy 0/88/88. The hospital collections attributable to NPs were 2400000, including 1970000 in technical fees and 440000 in professional fees. Private insurance accounted for 31% of payer mix. Approximately 43% of NPs (44/103) remained in-system for continued care (NPCC)."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Patients undergoing EBUS-TBNA at a single academic medical center (MUSC) during 2008-2009, including both established patients and patients newly referred to the system.",
+      "inclusion_criteria": [
+        "Underwent EBUS-TBNA at MUSC during the study window",
+        "For NPs: referral from non-MUSC-affiliated physicians within 30 days of index procedure"
+      ],
+      "exclusion_criteria": [
+        "None explicitly stated; all consecutive EBUS-TBNA cases in the period were reviewed"
+      ]
+    },
+    "intervention": {
+      "text": "Introduction and use of EBUS-TBNA service",
+      "details": "Procedures performed with Olympus BF-UC160F-OL8 bronchoscope, NA-201SX-4022 single-use needles, and EU-C60 ultrasound processor; downstream services within 30 days prior to and 180 days after the procedure were tracked for NPs."
+    },
+    "comparison": {
+      "text": "Established patients and NP subgroups",
+      "details": "Encounter patterns compared between NP continued care (NPCC) and established patients (EPs); NP brief interaction (NPBI) summarized separately."
+    },
+    "outcomes": [
+      {
+        "name": "Downstream collections attributable to NPs (30 days prior through 180 days post)",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Retention of new patients for continued care within the system",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Counts of diagnostic and therapeutic encounters post EBUS-TBNA (radiology, consults, hospitalizations, procedures, radiation therapy, chemotherapy)",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Retrospective cohort",
+    "allocation": "non-randomized",
+    "blinding": "none",
+    "sites_count": 1,
+    "countries": [
+      "US"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 200,
+      "analyzed": 200
+    },
+    "analysis_populations": [
+      {
+        "name": "EP",
+        "description": "Established patients",
+        "n": 97
+      },
+      {
+        "name": "NP",
+        "description": "All new patients",
+        "n": 103
+      },
+      {
+        "name": "NPBI",
+        "description": "New patient, brief interaction (<6 visits, no hospitalizations)",
+        "n": 59
+      },
+      {
+        "name": "NPCC",
+        "description": "New patient, continued care",
+        "n": 44
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "New patient, continued care (NPCC)",
+      "n_randomized": 44,
+      "n_analyzed": 44,
+      "n_completed": 44
+    },
+    {
+      "arm_id": "control",
+      "name": "Established patients (EP)",
+      "n_randomized": 97,
+      "n_analyzed": 97,
+      "n_completed": 97
+    },
+    {
+      "arm_id": "npbi",
+      "name": "New patient, brief interaction (NPBI)",
+      "n_randomized": 59,
+      "n_analyzed": 59,
+      "n_completed": 59
+    },
+    {
+      "arm_id": "np_all",
+      "name": "All new patients (NP)",
+      "n_randomized": 103,
+      "n_analyzed": 103,
+      "n_completed": 103
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "np_retained_for_care_180d",
+      "name": "Retention of new patients for continued care within 180 days",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P180D",
+      "timepoint_label": "180 days",
+      "groups": [
+        {
+          "arm_id": "np_all",
+          "raw": {
+            "events": 44,
+            "total": 103
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive summary",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All new patients (NP) referred for EBUS-TBNA, services within 30 days prior to and 180 days after procedure",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          510
+        ],
+        "tables": [],
+        "quote": "Having an EBUS-TBNA program led to the referral of NPs to our health-care system (52% of EBUS-TBNA referrals), of which a significant proportion (43%) stayed in our system."
+      }
+    },
+    {
+      "concept_id": "total_collections_np_180d",
+      "name": "Total collections attributable to NPs (30 days prior through 180 days post)",
+      "type": "continuous",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P180D",
+      "timepoint_label": "30 days prior through 180 days post",
+      "unit": "USD",
+      "unit_canonical": "USD",
+      "groups": [
+        {
+          "arm_id": "np_all",
+          "raw": {
+            "sum": 2400000,
+            "total": 103,
+            "mean": 23300.970873786
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive financial aggregation",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All new patients (NP) referred for EBUS-TBNA; collections include professional and technical fees related to index referral and care within window",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          508
+        ],
+        "tables": [],
+        "quote": "The collections received by the hospital that were attributable to NPs who underwent EBUS-TBNA were $2.4 million."
+      }
+    },
+    {
+      "concept_id": "technical_collections_np_180d",
+      "name": "Technical fee collections attributable to NPs (30 days prior through 180 days post)",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P180D",
+      "timepoint_label": "30 days prior through 180 days post",
+      "unit": "USD",
+      "unit_canonical": "USD",
+      "groups": [
+        {
+          "arm_id": "np_all",
+          "raw": {
+            "sum": 1970000,
+            "total": 103,
+            "mean": 19174
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive financial aggregation",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All new patients (NP)",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          508
+        ],
+        "tables": [],
+        "quote": "Of this, $1.97 million was generated from technical fees ... Therefore, the downstream collections from technical fees per EBUS-TBNA were $19,174."
+      }
+    },
+    {
+      "concept_id": "professional_collections_np_180d",
+      "name": "Professional fee collections attributable to NPs (30 days prior through 180 days post)",
+      "type": "continuous",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P180D",
+      "timepoint_label": "30 days prior through 180 days post",
+      "unit": "USD",
+      "unit_canonical": "USD",
+      "groups": [
+        {
+          "arm_id": "np_all",
+          "raw": {
+            "sum": 440000,
+            "total": 103,
+            "mean": 4271.844660194
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive financial aggregation",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All new patients (NP)",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          508
+        ],
+        "tables": [],
+        "quote": "Of this, $1.97 million was generated from technical fees and $440,000 from professional fees."
+      }
+    },
+    {
+      "concept_id": "radiologic_studies_post_180d",
+      "name": "Radiologic studies within 180 days after EBUS-TBNA",
+      "type": "count",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P180D",
+      "timepoint_label": "180 days",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "count": 275,
+            "total_patients": 44
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "count": 305,
+            "total_patients": 97
+          }
+        },
+        {
+          "arm_id": "npbi",
+          "raw": {
+            "count": 22,
+            "total_patients": 59
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive summary",
+        "adjusted": false,
+        "covariates": [],
+        "population": "As-treated groups by patient category",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          510
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Radiologic studies: NPBI 22; NPCC 275; EPs 305."
+      }
+    },
+    {
+      "concept_id": "consults_post_180d",
+      "name": "Consults within 180 days after EBUS-TBNA",
+      "type": "count",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P180D",
+      "timepoint_label": "180 days",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "count": 459,
+            "total_patients": 44
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "count": 470,
+            "total_patients": 97
+          }
+        },
+        {
+          "arm_id": "npbi",
+          "raw": {
+            "count": 88,
+            "total_patients": 59
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive summary",
+        "adjusted": false,
+        "covariates": [],
+        "population": "As-treated groups by patient category",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          510
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Consults: NPBI 88; NPCC 459; EPs 470."
+      }
+    },
+    {
+      "concept_id": "hospitalizations_post_180d",
+      "name": "Hospitalizations within 180 days after EBUS-TBNA",
+      "type": "count",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P180D",
+      "timepoint_label": "180 days",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "count": 33,
+            "total_patients": 44
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "count": 31,
+            "total_patients": 97
+          }
+        },
+        {
+          "arm_id": "npbi",
+          "raw": {
+            "count": 0,
+            "total_patients": 59
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive summary",
+        "adjusted": false,
+        "covariates": [],
+        "population": "As-treated groups by patient category",
+        "missing_handling": "Hospitalizations during index inpatient stay for EPs not counted unless directly related to EBUS-TBNA"
+      },
+      "provenance": {
+        "pages": [
+          510
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Hospitalizations: NPBI 0; NPCC 33; EPs 31."
+      }
+    },
+    {
+      "concept_id": "procedures_post_180d",
+      "name": "Procedures (surgery, IR, other endoscopy) within 180 days after EBUS-TBNA",
+      "type": "count",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P180D",
+      "timepoint_label": "180 days",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "count": 44,
+            "total_patients": 44
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "count": 61,
+            "total_patients": 97
+          }
+        },
+        {
+          "arm_id": "npbi",
+          "raw": {
+            "count": 14,
+            "total_patients": 59
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive summary",
+        "adjusted": false,
+        "covariates": [],
+        "population": "As-treated groups by patient category",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          510
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Procedures: NPBI 14; NPCC 44; EPs 61."
+      }
+    },
+    {
+      "concept_id": "radiation_therapy_post_180d",
+      "name": "Radiation therapy sessions within 180 days after EBUS-TBNA",
+      "type": "count",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P180D",
+      "timepoint_label": "180 days",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "count": 240,
+            "total_patients": 44
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "count": 310,
+            "total_patients": 97
+          }
+        },
+        {
+          "arm_id": "npbi",
+          "raw": {
+            "count": 0,
+            "total_patients": 59
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive summary",
+        "adjusted": false,
+        "covariates": [],
+        "population": "As-treated groups by patient category",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          510
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Radiation therapy: NPBI 0; NPCC 240; EPs 310."
+      }
+    },
+    {
+      "concept_id": "chemotherapy_post_180d",
+      "name": "Chemotherapy treatments within 180 days after EBUS-TBNA",
+      "type": "count",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P180D",
+      "timepoint_label": "180 days",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "count": 88,
+            "total_patients": 44
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "count": 88,
+            "total_patients": 97
+          }
+        },
+        {
+          "arm_id": "npbi",
+          "raw": {
+            "count": 0,
+            "total_patients": 59
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive summary",
+        "adjusted": false,
+        "covariates": [],
+        "population": "As-treated groups by patient category",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          510
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Chemotherapy: NPBI 0; NPCC 88; EPs 88."
+      }
+    },
+    {
+      "concept_id": "prior30d_np_encounters",
+      "name": "NP encounters in 30 days prior to EBUS-TBNA (radiology, consults, procedures)",
+      "type": "count",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P30D",
+      "timepoint_label": "30 days prior",
+      "groups": [
+        {
+          "arm_id": "np_all",
+          "raw": {
+            "radiology": 30,
+            "consults": 94,
+            "procedures": 28,
+            "total_patients": 103
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive summary",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All new patients (NP)",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          508
+        ],
+        "tables": [],
+        "quote": "Additionally, in the 30 days prior to EBUS-TBNA, the NPs underwent 30 radiologic studies, 94 consults, and 28 procedures that were done as part of the EBUS-TBNA referral."
+      }
+    }
+  ],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "ROBINS-I",
+    "overall_judgment": "serious",
+    "domains": [
+      {
+        "name": "Confounding",
+        "judgment": "serious",
+        "support_for_judgment": "No control for confounding; descriptive, non-comparative financial analysis."
+      },
+      {
+        "name": "Selection of participants",
+        "judgment": "moderate",
+        "support_for_judgment": "Consecutive cases at a single center; classification into NP/EP could introduce selection differences."
+      },
+      {
+        "name": "Classification of interventions",
+        "judgment": "low",
+        "support_for_judgment": "Clear operational definitions for NP, NPBI, NPCC, and EP categories."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "low",
+        "support_for_judgment": "Observational financial analysis; no protocolized interventions beyond standard care."
+      },
+      {
+        "name": "Missing data",
+        "judgment": "unclear",
+        "support_for_judgment": "Extent of missing billing/collections data not reported."
+      },
+      {
+        "name": "Measurement of outcomes",
+        "judgment": "moderate",
+        "support_for_judgment": "Collections obtained from hospital billing systems; potential misclassification of relatedness to index procedure."
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "moderate",
+        "support_for_judgment": "Primary focus on NPs; EP financial data not reported; window limited to 180 days."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "endobronchial ultrasound",
+      "EBUS-TBNA",
+      "downstream revenue",
+      "health economics",
+      "bronchoscopy",
+      "hospital collections"
+    ],
+    "summary_tldr": "In 200 consecutive EBUS-TBNA cases, 103 new patients generated 2400000 in downstream collections (1970000 technical; 440000 professional), with 44/103 (43%) retained for continued care.",
+    "clinical_relevance": "Demonstrates that evaluating downstream revenue can justify capital investment in EBUS-TBNA despite limited direct procedural reimbursement."
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "source": {
+    "document_id": "Valipour-2014-Expert statement_ pneumothorax a",
+    "ingest_date": "2025-08-08T16:45:36.761506+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1159/000360642"
+  },
+  "document": {
+    "metadata": {
+      "title": "Expert Statement: Pneumothorax Associated with Endoscopic Valve Therapy for Emphysema - Potential Mechanisms, Treatment Algorithm, and Case Examples",
+      "year": 2014,
+      "authors": [
+        "Arschang Valipour",
+        "Dirk-Jan Slebos",
+        "Hugo G. de Oliveira",
+        "Ralf Eberhardt",
+        "Lutz Freitag",
+        "Gerard J. Criner",
+        "Felix J.F. Herth"
+      ],
+      "journal": "Respiration",
+      "doi": "10.1159/000360642",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "The use of endoscopically placed unidirectional valves for the treatment of emphysema is increasing. With better patient selection, there is also an increased likelihood of complications associated with the procedure, such as postprocedural pneumothorax. There is, however, little evidence of pneumothorax management in patients with severe COPD and emphysema. This report describes an expert recommendation that has been developed to outline pneumothorax management after valve placement to inform physicians and patients of the risk-benefit profile and to assist them in decision making. Skilled and aggressive pneumothorax management is necessary in this patient population, and by following these recommendations traumatic scenarios, prolonged drainage, extended hospitalizations, and/or surgery might be avoided in many cases.",
+      "methods": "Expert statement based on clinical experience and review of published studies on endobronchial valve therapy and pneumothorax. The authors propose a practical management algorithm classifying pneumothorax by size and symptoms and outlining steps including observation, chest drain insertion with suction, consideration of small- versus large-bore tubes, imaging confirmation with chest radiography and CT, adjunctive medical therapy, and staged removal of one or all valves when indicated. Recommendations for managing prolonged air leaks include pleurodesis, Heimlich valve, or surgery depending on patient status and local expertise.",
+      "results": "Pneumothorax rates after EBV vary by patient selection and degree of lobar exclusion. In early randomized cohorts with frequent incomplete occlusion, 90-day pneumothorax rates were approximately 4-5%. In case series achieving complete lobar exclusion, rates up to 29% were observed, and in current clinical practice with selection for absent collateral ventilation, rates up to 30% are reported. Pneumothorax typically occurs within 90 days of valve insertion; the median onset is 2 days and median duration is 11.5 days. Most cases resolve with observation or chest tube drainage. Patients experiencing pneumothorax often demonstrate substantial target lobar volume reduction, with reported mean reductions around 65%."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with severe emphysema considered for or treated with endobronchial valve therapy, characterized by hyperinflation and impaired gas exchange and exercise capacity.",
+      "inclusion_criteria": [
+        "Severe emphysema with hyperinflation",
+        "Impaired gas exchange and exercise capacity",
+        "Target lobe with little or no collateral ventilation"
+      ],
+      "exclusion_criteria": []
+    },
+    "intervention": {
+      "text": "Endobronchial one-way valve therapy for bronchoscopic lung volume reduction",
+      "details": "Unilateral placement of unidirectional valves in segments of a hyperinflated target lobe with little or no collateral ventilation to induce lobar volume reduction; includes application of an expert-derived algorithm for recognition and management of postprocedural pneumothorax."
+    },
+    "comparison": {
+      "text": "None",
+      "details": "Expert guidance document without a concurrent comparator group."
+    },
+    "outcomes": [
+      {
+        "name": "Pneumothorax incidence, timing, and management outcomes after EBV therapy",
+        "type": "primary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Guideline/Expert statement",
+    "allocation": "none",
+    "blinding": "none",
+    "sites_count": 0,
+    "countries": [
+      "AT",
+      "NL",
+      "BR",
+      "DE",
+      "US"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": []
+  },
+  "arms": [],
+  "outcomes_normalized": [],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "NA",
+    "overall_judgment": "NA",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "emphysema",
+      "endobronchial valve",
+      "bronchoscopic lung volume reduction",
+      "pneumothorax",
+      "management algorithm",
+      "COPD"
+    ],
+    "summary_tldr": "Expert recommendations outline mechanisms and a stepwise algorithm to recognize and manage pneumothorax after endobronchial valve therapy; pneumothorax typically presents within 2 days and often resolves with observation or chest tube.",
+    "clinical_relevance": "Provides a practical, safety-focused management pathway to reduce morbidity and avoid unnecessary surgery in high-risk COPD patients undergoing valve-based lung volume reduction."
+  }
+}

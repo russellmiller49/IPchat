@@ -1,0 +1,106 @@
+{
+  "source": {
+    "document_id": "Advances in IP",
+    "ingest_date": "2025-08-08T09:31:56.339006+00:00",
+    "trial_registration_id": null,
+    "pmid": null,
+    "doi": "10.1016/j.ccm.2017.11.016"
+  },
+  "document": {
+    "metadata": {
+      "title": "Advances in Interventional Pulmonology",
+      "year": 2018,
+      "authors": [
+        "Alastair J. Moore",
+        "Rachel M. Mercer",
+        "Ali I. Musani"
+      ],
+      "journal": "Clinics in Chest Medicine",
+      "doi": "10.1016/j.ccm.2017.11.016",
+      "pmid": null
+    },
+    "sections": {
+      "abstract": "Interventional pulmonology (IP) has rapidly advanced, enabling diagnosis and staging of lung malignancy in a single setting and expanding therapeutic options for both malignant and nonmalignant airway disease. Endobronchial ultrasound (EBUS) has reduced the need for surgical mediastinal exploration, including access to extrathoracic sites such as the left adrenal via the esophagus. Imaging-enhanced bronchoscopy modalities (autofluorescence bronchoscopy, narrow band imaging, high-magnification bronchovideoscopy, and optical coherence tomography) improve visualization of premalignant and early malignant airway lesions. For peripheral pulmonary nodules, technologies such as radial probe EBUS, ultrathin bronchoscopes, electromagnetic navigation bronchoscopy, virtual bronchoscopic navigation, and novel transparenchymal access approaches increase diagnostic reach with low complication rates. Therapeutically, bronchoscopic debulking, thermal ablation, microdebriders, photodynamic therapy, stenting innovations, and navigationally guided therapies continue to evolve. The field’s rapid growth necessitates standardized training and continuous skill maintenance.",
+      "methods": "Narrative review of advances in diagnostic and therapeutic interventional pulmonology, summarizing published evidence including pooled diagnostic performance metrics, randomized and nonrandomized studies, meta-analyses, and technology descriptions. No systematic search strategy or quantitative synthesis was reported.",
+      "results": "Key findings summarized: Combining white light bronchoscopy with autofluorescence bronchoscopy increases sensitivity for intraepithelial lesions (pooled relative sensitivity 2.04) and for invasive cancer (1.15), with a relative specificity of 0.65 compared to white light alone. Narrow band imaging shows pooled sensitivity of 80% and specificity of 84% for premalignant airway lesions and may outperform autofluorescence bronchoscopy. Optical coherence tomography can differentiate dysplasia from invasive carcinoma and quantify airway remodeling. For mediastinal staging, EBUS-TBNA samples nodal stations 2, 3, 4, 7, 10, and 11 and, when combined with endoscopic esophageal ultrasound, achieves a reported sensitivity of 93%, potentially obviating mediastinoscopy in up to two-thirds of patients with lower complication rates. For peripheral nodules, radial probe EBUS achieves diagnostic yields >70%; ultrathin bronchoscopes show higher yields than thin bronchoscopes (74% vs 59%); electromagnetic navigation bronchoscopy yields 65% with pooled sensitivity for malignancy of 71%; and virtual bronchoscopic navigation combined with radial probe EBUS increases yields from 67% to >80%. A novel bronchoscopic transparenchymal access technique appears feasible and safe. Therapeutic bronchoscopy effectively relieves malignant central airway obstruction using immediate-effect (mechanical debulking, argon plasma coagulation, laser) and delayed-effect (cryotherapy, brachytherapy, photodynamic therapy) modalities; microdebriders offer rapid debulking. Photodynamic therapy is established for central tumors, with navigational approaches under development for peripheral targets. Percutaneous thermal ablation for stage IA non-small cell lung cancer has reported overall survival rates of 86.3% at 1 year and 69.8% at 2 years."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults undergoing diagnostic or therapeutic interventional pulmonology for suspected or confirmed lung malignancy or airway disease.",
+      "inclusion_criteria": [
+        "Adults with suspected or confirmed lung cancer requiring diagnostic evaluation or staging",
+        "Adults with solitary pulmonary nodules requiring tissue diagnosis",
+        "Adults with central airway obstruction due to malignant or benign etiologies",
+        "Adults with airway diseases (e.g., asthma, emphysema) considered for bronchoscopic therapies"
+      ],
+      "exclusion_criteria": [
+        "Not applicable (narrative review; no predefined study-level criteria)"
+      ]
+    },
+    "intervention": {
+      "text": "Interventional pulmonology diagnostic and therapeutic procedures",
+      "details": "Diagnostic: white light bronchoscopy with image-enhancement (autofluorescence bronchoscopy, narrow band imaging, high-magnification bronchovideoscopy), optical coherence tomography, EBUS-TBNA, radial probe EBUS, ultrathin bronchoscopes, electromagnetic navigation bronchoscopy, virtual bronchoscopic navigation, bronchoscopic transparenchymal nodule access. Therapeutic: mechanical debulking, thermal ablation (argon plasma coagulation, laser), cryotherapy, brachytherapy, photodynamic therapy, microdebrider bronchoscopy, tracheobronchial stenting, navigational guidance for fiducial placement and local therapies."
+    },
+    "comparison": {
+      "text": "Conventional approaches and surgical alternatives",
+      "details": "Comparators include white light bronchoscopy alone, CT and PET-CT imaging alone without invasive sampling, mediastinoscopy, transthoracic needle biopsy for peripheral nodules, and percutaneous approaches for local tumor therapy."
+    },
+    "outcomes": [
+      {
+        "name": "Diagnostic yield and accuracy for lung cancer detection and staging",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Procedure-related complications (e.g., pneumothorax, bleeding)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Therapeutic efficacy for central airway obstruction (symptom relief, patency)",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "narrative_review",
+    "allocation": "not_applicable",
+    "blinding": "not_applicable",
+    "sites_count": 0,
+    "countries": [],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": []
+  },
+  "arms": [],
+  "outcomes_normalized": [],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "Not applicable",
+    "overall_judgment": "not_applicable",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "interventional pulmonology",
+      "EBUS",
+      "radial probe EBUS",
+      "electromagnetic navigation bronchoscopy",
+      "virtual bronchoscopic navigation",
+      "autofluorescence bronchoscopy",
+      "narrow band imaging",
+      "optical coherence tomography",
+      "central airway obstruction",
+      "photodynamic therapy",
+      "microdebrider bronchoscopy",
+      "lung cancer staging"
+    ],
+    "summary_tldr": "Narrative review detailing rapid advances in diagnostic and therapeutic interventional pulmonology, including EBUS-based mediastinal staging, enhanced endobronchial imaging, and navigational techniques that expand reach to peripheral nodules with low complication rates.",
+    "clinical_relevance": "Supports selection of minimally invasive bronchoscopic techniques for accurate lung cancer staging and peripheral nodule diagnosis, and outlines evolving therapeutic tools for central airway obstruction."
+  }
+}

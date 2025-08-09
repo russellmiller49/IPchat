@@ -1,0 +1,5369 @@
+{
+  "version": {
+    "json_export": "203",
+    "page_segmentation": "5",
+    "schema": "1.1.0",
+    "structure": "1.1099.0",
+    "table_structure": "5"
+  },
+  "extended_metadata": {
+    "ID_instance": "D9 05 FD B7 61 BA B2 11 0A 00 67 45 8B 6B C6 23 ",
+    "ID_permanent": "42 39 20 35 38 20 46 39 20 42 37 20 36 31 20 42 41 20 42 32 20 31 31 20 30 41 20 30 30 20 36 37 20 34 35 20 38 42 20 36 42 20 43 36 20 32 33 20 ",
+    "has_acroform": false,
+    "has_embedded_files": false,
+    "is_XFA": false,
+    "is_certified": false,
+    "is_encrypted": false,
+    "is_digitally_signed": false,
+    "language": "en-US",
+    "page_count": 1,
+    "pdf_version": "1.6",
+    "pdfa_compliance_level": "",
+    "pdfua_compliance_level": ""
+  },
+  "elements": [
+    {
+      "Bounds": [
+        288.0,
+        933.1100006103516,
+        323.8999938964844,
+        968.8489990234375
+      ],
+      "ObjectID": 449,
+      "Page": 0,
+      "Path": "//Document/Sect/Figure",
+      "attributes": {
+        "BBox": [
+          287.98799999999756,
+          933.1229999999923,
+          323.86699999999837,
+          968.8819999999832
+        ],
+        "Placement": "Block"
+      }
+    },
+    {
+      "Bounds": [
+        222.41000366210938,
+        910.5299987792969,
+        393.2635498046875,
+        926.4900054931641
+      ],
+      "Font": {
+        "alt_family_name": "Calibri",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Calibri",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ABCDEE+Calibri-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 450,
+      "Page": 0,
+      "Path": "//Document/Sect/P",
+      "Text": "Lung‐RADS® Version 1.1 ",
+      "TextSize": 15.960006713867188,
+      "attributes": {
+        "LineHeight": 19.125,
+        "TextAlign": "Center"
+      }
+    },
+    {
+      "Bounds": [
+        195.1699981689453,
+        892.6600036621094,
+        419.6941375732422,
+        904.6600036621094
+      ],
+      "Font": {
+        "alt_family_name": "Calibri",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Calibri",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ABCDEE+Calibri-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 451,
+      "Page": 0,
+      "Path": "//Document/Sect/P[2]",
+      "Text": "Assessment Categories Release date: 2019 ",
+      "TextSize": 12.0,
+      "attributes": {
+        "LineHeight": 14.375,
+        "SpaceAfter": 6.5,
+        "TextAlign": "Center"
+      }
+    },
+    {
+      "Bounds": [
+        44.8800048828125,
+        249.37159729003906,
+        557.4900970458984,
+        889.3931274414062
+      ],
+      "ObjectID": 452,
+      "Page": 0,
+      "Path": "//Document/Sect/Table",
+      "attributes": {
+        "BBox": [
+          40.67829999999958,
+          295.8289999999979,
+          508.778999999995,
+          891.484999999986
+        ],
+        "NumCol": 6,
+        "NumRow": 20,
+        "Placement": "Block",
+        "SpaceAfter": 11.625
+      },
+      "filePaths": [
+        "tables/fileoutpart0.xlsx"
+      ]
+    },
+    {
+      "Bounds": [
+        68.42399597167969,
+        868.0516052246094,
+        110.72244262695312,
+        884.8331146240234
+      ],
+      "ObjectID": 929,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR/TH",
+      "attributes": {
+        "BBox": [
+          39.83839999999873,
+          862.4459999999963,
+          135.11499999999796,
+          891.484999999986
+        ],
+        "BackgroundColor": [
+          0.192153999999995,
+          0.2392119999999948,
+          0.3097989999999981
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 0,
+        "Height": 29,
+        "InlineAlign": "Center",
+        "RowIndex": 0,
+        "Width": 95.25
+      }
+    },
+    {
+      "Bounds": [
+        71.06399536132812,
+        877.2915954589844,
+        108.11231994628906,
+        884.8331146240234
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "Arial-BoldMT",
+        "subset": false,
+        "weight": 700
+      },
+      "HasClip": true,
+      "ObjectID": 972,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR/TH/P/Sub",
+      "Text": "Category ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "Placement": "Block"
+      }
+    },
+    {
+      "Bounds": [
+        68.42399597167969,
+        868.0516052246094,
+        110.72244262695312,
+        875.5931243896484
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "Arial-BoldMT",
+        "subset": false,
+        "weight": 700
+      },
+      "HasClip": true,
+      "ObjectID": 973,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR/TH/P/Sub[2]",
+      "Text": "Descriptor ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "Placement": "Block"
+      }
+    },
+    {
+      "Bounds": [
+        144.5,
+        863.4915924072266,
+        169.3182830810547,
+        889.3931274414062
+      ],
+      "ObjectID": 930,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR/TH[2]",
+      "attributes": {
+        "BBox": [
+          135.11499999999796,
+          862.4459999999963,
+          175.67299999999523,
+          891.484999999986
+        ],
+        "BackgroundColor": [
+          0.192153999999995,
+          0.2392119999999948,
+          0.3097989999999981
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 1,
+        "Height": 29,
+        "InlineAlign": "Start",
+        "RowIndex": 0,
+        "Width": 40.5
+      }
+    },
+    {
+      "Bounds": [
+        144.74000549316406,
+        881.8515930175781,
+        167.09725952148438,
+        889.3931274414062
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "Arial-BoldMT",
+        "subset": false,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 959,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR/TH[2]/P",
+      "Text": "Lung-",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        144.5,
+        872.7315979003906,
+        169.24717712402344,
+        880.2731170654297
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "Arial-BoldMT",
+        "subset": false,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 960,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR/TH[2]/P[2]",
+      "Text": "RADS ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        144.74000549316406,
+        863.4915924072266,
+        169.3182830810547,
+        871.0331268310547
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "Arial-BoldMT",
+        "subset": false,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 961,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR/TH[2]/P[3]",
+      "Text": "Score ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        241.85000610351562,
+        872.7315979003906,
+        277.57171630859375,
+        880.2731170654297
+      ],
+      "ObjectID": 931,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR/TH[3]",
+      "attributes": {
+        "BBox": [
+          175.67299999999523,
+          862.4459999999963,
+          342.2259999999951,
+          891.484999999986
+        ],
+        "BackgroundColor": [
+          0.192153999999995,
+          0.2392119999999948,
+          0.3097989999999981
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 2,
+        "Height": 29,
+        "InlineAlign": "Center",
+        "RowIndex": 0,
+        "Width": 166.375
+      }
+    },
+    {
+      "Bounds": [
+        241.85000610351562,
+        872.7315979003906,
+        277.57171630859375,
+        880.2731170654297
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "Arial-BoldMT",
+        "subset": false,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 954,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR/TH[3]/P",
+      "Text": "Findings ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        376.8699951171875,
+        872.7315979003906,
+        428.07676696777344,
+        880.2731170654297
+      ],
+      "ObjectID": 932,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR/TH[4]",
+      "attributes": {
+        "BBox": [
+          342.2259999999951,
+          862.4459999999963,
+          459.22099999999045,
+          891.484999999986
+        ],
+        "BackgroundColor": [
+          0.192153999999995,
+          0.2392119999999948,
+          0.3097989999999981
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 3,
+        "Height": 29,
+        "InlineAlign": "Center",
+        "RowIndex": 0,
+        "Width": 117
+      }
+    },
+    {
+      "Bounds": [
+        376.8699951171875,
+        872.7315979003906,
+        428.07676696777344,
+        880.2731170654297
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "Arial-BoldMT",
+        "subset": false,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 949,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR/TH[4]/P",
+      "Text": "Management ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        462.6999969482422,
+        868.0516052246094,
+        508.7450714111328,
+        884.8331146240234
+      ],
+      "ObjectID": 933,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR/TH[5]",
+      "attributes": {
+        "BBox": [
+          459.22099999999045,
+          862.4459999999963,
+          508.778999999995,
+          891.484999999986
+        ],
+        "BackgroundColor": [
+          0.192153999999995,
+          0.2392119999999948,
+          0.3097989999999981
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 4,
+        "Height": 29,
+        "InlineAlign": "Center",
+        "RowIndex": 0,
+        "Width": 49.5
+      }
+    },
+    {
+      "Bounds": [
+        462.6999969482422,
+        868.0516052246094,
+        508.7450714111328,
+        884.8331146240234
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "Arial-BoldMT",
+        "subset": false,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 942,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR/TH[5]/P",
+      "Text": "Risk of Malignancy ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "LineHeight": 9.25,
+        "TextAlign": "Center"
+      }
+    },
+    {
+      "Bounds": [
+        512.8600006103516,
+        863.4915924072266,
+        557.4900970458984,
+        889.3931274414062
+      ],
+      "ObjectID": 934,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR/TH[6]",
+      "attributes": {
+        "BBox": [
+          508.778999999995,
+          862.4459999999963,
+          559.0569999999716,
+          891.484999999986
+        ],
+        "BackgroundColor": [
+          0.192153999999995,
+          0.2392119999999948,
+          0.3097989999999981
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 5,
+        "Height": 29,
+        "InlineAlign": "Start",
+        "RowIndex": 0,
+        "Width": 50.25
+      }
+    },
+    {
+      "Bounds": [
+        512.8600006103516,
+        863.4915924072266,
+        557.4900970458984,
+        889.3931274414062
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "Arial-BoldMT",
+        "subset": false,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "fr",
+      "ObjectID": 935,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR/TH[6]/P",
+      "Text": "Est. Population Prevalence ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "LineHeight": 9.125
+      }
+    },
+    {
+      "Bounds": [
+        67.82400512695312,
+        839.0115966796875,
+        112.42991638183594,
+        846.5531158447266
+      ],
+      "ObjectID": 893,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[2]/TD",
+      "attributes": {
+        "BBox": [
+          40.67829999999958,
+          824.1669999999867,
+          135.11499999999796,
+          862.4459999999963
+        ],
+        "BackgroundColor": [
+          0.8509829999999852,
+          0.8509829999999852,
+          0.8509829999999852
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 0,
+        "Height": 38.25,
+        "InlineAlign": "Center",
+        "RowIndex": 1,
+        "RowSpan": 2,
+        "Width": 94.375
+      }
+    },
+    {
+      "Bounds": [
+        67.82400512695312,
+        839.0115966796875,
+        112.42991638183594,
+        846.5531158447266
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "Arial-BoldMT",
+        "subset": false,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 924,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[2]/TD/P",
+      "Text": "Incomplete ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        153.86000061035156,
+        839.0115966796875,
+        160.5653533935547,
+        846.5531158447266
+      ],
+      "ObjectID": 894,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[2]/TD[2]",
+      "attributes": {
+        "BBox": [
+          135.11499999999796,
+          824.1669999999867,
+          175.67299999999523,
+          862.4459999999963
+        ],
+        "BackgroundColor": [
+          0.8509829999999852,
+          0.8509829999999852,
+          0.8509829999999852
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 1,
+        "Height": 38.25,
+        "InlineAlign": "Center",
+        "RowIndex": 1,
+        "RowSpan": 2,
+        "Width": 40.5
+      }
+    },
+    {
+      "Bounds": [
+        153.86000061035156,
+        839.0115966796875,
+        160.5653533935547,
+        846.5531158447266
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "Arial-BoldMT",
+        "subset": false,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 919,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[2]/TD[2]/P",
+      "Text": "0 ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        177.13999938964844,
+        843.4515991210938,
+        335.04559326171875,
+        860.2331237792969
+      ],
+      "ObjectID": 895,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[2]/TD[3]",
+      "attributes": {
+        "BBox": [
+          175.67299999999523,
+          843.2469999999739,
+          342.2259999999951,
+          862.4459999999963
+        ],
+        "BackgroundColor": [
+          1,
+          1,
+          1
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 2,
+        "Height": 19.25,
+        "InlineAlign": "Start",
+        "RowIndex": 1,
+        "Width": 166.375
+      }
+    },
+    {
+      "Bounds": [
+        177.13999938964844,
+        843.4515991210938,
+        335.04559326171875,
+        860.2331237792969
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ArialMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 914,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[2]/TD[3]/P",
+      "Text": "Prior chest CT examination(s) being located for comparison ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "LineHeight": 9.25
+      }
+    },
+    {
+      "Bounds": [
+        345.5500030517578,
+        825.0915985107422,
+        450.51226806640625,
+        860.2331237792969
+      ],
+      "ObjectID": 896,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[2]/TD[4]",
+      "attributes": {
+        "BBox": [
+          342.2259999999951,
+          824.1669999999867,
+          459.22099999999045,
+          862.4459999999963
+        ],
+        "BackgroundColor": [
+          1,
+          1,
+          1
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 3,
+        "Height": 38.25,
+        "InlineAlign": "Start",
+        "RowIndex": 1,
+        "RowSpan": 2,
+        "Width": 117
+      }
+    },
+    {
+      "Bounds": [
+        345.5500030517578,
+        825.0915985107422,
+        450.51226806640625,
+        860.2331237792969
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ArialMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 909,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[2]/TD[4]/P",
+      "Text": "Additional lung cancer screening CT images and/or comparison to prior chest CT examinations is needed ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "LineHeight": 9.25
+      }
+    },
+    {
+      "Bounds": [
+        465.2200012207031,
+        838.8916015625,
+        478.6387634277344,
+        846.4331207275391
+      ],
+      "ObjectID": 897,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[2]/TD[5]",
+      "attributes": {
+        "BBox": [
+          459.22099999999045,
+          824.1669999999867,
+          508.778999999995,
+          862.4459999999963
+        ],
+        "BackgroundColor": [
+          1,
+          1,
+          1
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 4,
+        "Height": 38.25,
+        "InlineAlign": "Center",
+        "RowIndex": 1,
+        "RowSpan": 2,
+        "Width": 49.5
+      }
+    },
+    {
+      "Bounds": [
+        465.2200012207031,
+        838.8916015625,
+        478.6387634277344,
+        846.4331207275391
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ArialMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 904,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[2]/TD[5]/P",
+      "Text": "n/a ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        514.7799987792969,
+        838.8916015625,
+        528.5413360595703,
+        846.4331207275391
+      ],
+      "ObjectID": 898,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[2]/TD[6]",
+      "attributes": {
+        "BBox": [
+          508.778999999995,
+          824.1669999999867,
+          559.0569999999716,
+          862.4459999999963
+        ],
+        "BackgroundColor": [
+          1,
+          1,
+          1
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 5,
+        "Height": 38.25,
+        "InlineAlign": "Center",
+        "RowIndex": 1,
+        "RowSpan": 2,
+        "Width": 50.25
+      }
+    },
+    {
+      "Bounds": [
+        514.7799987792969,
+        838.8916015625,
+        528.5413360595703,
+        846.4331207275391
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ArialMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 899,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[2]/TD[6]/P",
+      "Text": "1% ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        177.13999938964844,
+        832.7716064453125,
+        318.1294403076172,
+        840.3131256103516
+      ],
+      "ObjectID": 887,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[3]/TD",
+      "attributes": {
+        "BBox": [
+          175.67299999999523,
+          824.1669999999867,
+          342.2259999999951,
+          843.2469999999739
+        ],
+        "BackgroundColor": [
+          1,
+          1,
+          1
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 2,
+        "Height": 19.125,
+        "InlineAlign": "Start",
+        "RowIndex": 2,
+        "Width": 166.375
+      }
+    },
+    {
+      "Bounds": [
+        177.13999938964844,
+        832.7716064453125,
+        318.1294403076172,
+        840.3131256103516
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ArialMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 888,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[3]/TD/P",
+      "Text": "Part or all of lungs cannot be evaluated ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        61.55999755859375,
+        777.5715942382812,
+        121.81871032714844,
+        822.0731201171875
+      ],
+      "ObjectID": 849,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[4]/TD",
+      "attributes": {
+        "BBox": [
+          40.67829999999958,
+          776.6489999999758,
+          135.11499999999796,
+          824.1669999999867
+        ],
+        "BackgroundColor": [
+          0.7058869999999899,
+          0.7725519999999904,
+          0.9058839999999861
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 0,
+        "Height": 47.5,
+        "InlineAlign": "Center",
+        "RowIndex": 3,
+        "RowSpan": 2,
+        "Width": 94.375
+      }
+    },
+    {
+      "Bounds": [
+        73.82400512695312,
+        814.5316009521484,
+        109.44119262695312,
+        822.0731201171875
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "Arial-BoldMT",
+        "subset": false,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 880,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[4]/TD/P",
+      "Text": "Negative ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        61.55999755859375,
+        777.5715942382812,
+        121.81871032714844,
+        803.4731140136719
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ArialMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 881,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[4]/TD/P[2]",
+      "Text": "No nodules and definitely benign nodules ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "LineHeight": 9.125,
+        "TextAlign": "Center"
+      }
+    },
+    {
+      "Bounds": [
+        153.86000061035156,
+        796.0516052246094,
+        160.5653533935547,
+        803.5931243896484
+      ],
+      "ObjectID": 850,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[4]/TD[2]",
+      "attributes": {
+        "BBox": [
+          135.11499999999796,
+          776.6489999999758,
+          175.67299999999523,
+          824.1669999999867
+        ],
+        "BackgroundColor": [
+          0.7058869999999899,
+          0.7725519999999904,
+          0.9058839999999861
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 1,
+        "Height": 47.5,
+        "InlineAlign": "Center",
+        "RowIndex": 3,
+        "RowSpan": 2,
+        "Width": 40.5
+      }
+    },
+    {
+      "Bounds": [
+        153.86000061035156,
+        796.0516052246094,
+        160.5653533935547,
+        803.5931243896484
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "Arial-BoldMT",
+        "subset": false,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 875,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[4]/TD[2]/P",
+      "Text": "1 ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        177.13999938964844,
+        814.4116058349609,
+        237.26312255859375,
+        821.953125
+      ],
+      "ObjectID": 851,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[4]/TD[3]",
+      "attributes": {
+        "BBox": [
+          175.67299999999523,
+          813.0079999999725,
+          342.2259999999951,
+          824.1669999999867
+        ],
+        "BackgroundColor": [
+          1,
+          1,
+          1
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 2,
+        "Height": 11.125,
+        "InlineAlign": "Start",
+        "RowIndex": 3,
+        "Width": 166.375
+      }
+    },
+    {
+      "Bounds": [
+        177.13999938964844,
+        814.4116058349609,
+        237.26312255859375,
+        821.953125
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ArialMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 870,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[4]/TD[3]/P",
+      "Text": "No lung nodules ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        347.8300018310547,
+        717.8115997314453,
+        432.8047637939453,
+        743.7131195068359
+      ],
+      "ObjectID": 852,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[4]/TD[4]",
+      "attributes": {
+        "BBox": [
+          342.2259999999951,
+          638.6549999999988,
+          459.22099999999045,
+          824.1669999999867
+        ],
+        "BackgroundColor": [
+          1,
+          1,
+          1
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 3,
+        "Height": 185.5,
+        "InlineAlign": "Start",
+        "RowIndex": 3,
+        "RowSpan": 7,
+        "Width": 117
+      }
+    },
+    {
+      "Bounds": [
+        347.8300018310547,
+        717.8115997314453,
+        432.8047637939453,
+        743.7131195068359
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ArialMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 865,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[4]/TD[4]/P",
+      "Text": "Continue annual screening with LDCT in 12 months ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "LineHeight": 9.125,
+        "TextAlign": "Center"
+      }
+    },
+    {
+      "Bounds": [
+        463.05999755859375,
+        726.9315948486328,
+        483.8354187011719,
+        734.4731140136719
+      ],
+      "ObjectID": 853,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[4]/TD[5]",
+      "attributes": {
+        "BBox": [
+          459.22099999999045,
+          638.6549999999988,
+          508.778999999995,
+          824.1669999999867
+        ],
+        "BackgroundColor": [
+          1,
+          1,
+          1
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 4,
+        "Height": 185.5,
+        "InlineAlign": "Center",
+        "RowIndex": 3,
+        "RowSpan": 7,
+        "Width": 49.5
+      }
+    },
+    {
+      "Bounds": [
+        463.05999755859375,
+        726.9315948486328,
+        483.8354187011719,
+        734.4731140136719
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ArialMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 860,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[4]/TD[5]/P",
+      "Text": "< 1% ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        513.9400024414062,
+        726.9315948486328,
+        532.1410217285156,
+        734.4731140136719
+      ],
+      "ObjectID": 854,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[4]/TD[6]",
+      "attributes": {
+        "BBox": [
+          508.778999999995,
+          638.6549999999988,
+          559.0569999999716,
+          824.1669999999867
+        ],
+        "BackgroundColor": [
+          1,
+          1,
+          1
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 5,
+        "Height": 185.5,
+        "InlineAlign": "Center",
+        "RowIndex": 3,
+        "RowSpan": 7,
+        "Width": 50.25
+      }
+    },
+    {
+      "Bounds": [
+        513.9400024414062,
+        726.9315948486328,
+        532.1410217285156,
+        734.4731140136719
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ArialMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 855,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[4]/TD[6]/P",
+      "Text": "90% ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        177.13999938964844,
+        784.7716064453125,
+        314.52752685546875,
+        810.7931213378906
+      ],
+      "ObjectID": 843,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[5]/TD",
+      "attributes": {
+        "BBox": [
+          175.67299999999523,
+          776.6489999999758,
+          342.2259999999951,
+          813.0079999999725
+        ],
+        "BackgroundColor": [
+          1,
+          1,
+          1
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 2,
+        "Height": 36.375,
+        "InlineAlign": "Start",
+        "RowIndex": 4,
+        "Width": 166.375
+      }
+    },
+    {
+      "Bounds": [
+        177.13999938964844,
+        784.7716064453125,
+        314.52752685546875,
+        810.7931213378906
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ArialMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 844,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[5]/TD/P",
+      "Text": "Nodule(s) with specific calcifications: complete, central, popcorn, concentric rings and fat containing nodules ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "LineHeight": 9.25
+      }
+    },
+    {
+      "Bounds": [
+        45.24000549316406,
+        670.9815979003906,
+        133.34231567382812,
+        743.1131134033203
+      ],
+      "ObjectID": 815,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[6]/TD",
+      "attributes": {
+        "BBox": [
+          40.67829999999958,
+          638.6549999999988,
+          135.11499999999796,
+          776.6489999999758
+        ],
+        "BackgroundColor": [
+          0.4352869999999882,
+          0.6745149999999853,
+          0.2745059999999881
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 0,
+        "Height": 138,
+        "InlineAlign": "Center",
+        "RowIndex": 5,
+        "RowSpan": 5,
+        "Width": 94.375
+      }
+    },
+    {
+      "Bounds": [
+        45.47999572753906,
+        726.3316040039062,
+        133.011474609375,
+        743.1131134033203
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "Arial-BoldMT",
+        "subset": false,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 832,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[6]/TD/P",
+      "Text": "Benign Appearance or Behavior ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "LineHeight": 9.25,
+        "TextAlign": "Center"
+      }
+    },
+    {
+      "Bounds": [
+        45.24000549316406,
+        670.9815979003906,
+        133.34231567382812,
+        715.3931274414062
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ArialMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 833,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[6]/TD/P[2]/StyleSpan",
+      "Text": "Nodules with a very low likelihood of becoming a clinically active cancer due to size or lack of growth ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "LineHeight": 9.25,
+        "TextAlign": "Center"
+      }
+    },
+    {
+      "Bounds": [
+        153.02000427246094,
+        703.2915954589844,
+        159.72535705566406,
+        710.8331146240234
+      ],
+      "ObjectID": 816,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[6]/TD[2]",
+      "attributes": {
+        "BBox": [
+          135.11499999999796,
+          638.6549999999988,
+          175.67299999999523,
+          776.6489999999758
+        ],
+        "BackgroundColor": [
+          0.4352869999999882,
+          0.6745149999999853,
+          0.2745059999999881
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 1,
+        "Height": 138,
+        "InlineAlign": "Center",
+        "RowIndex": 5,
+        "RowSpan": 5,
+        "Width": 40.5
+      }
+    },
+    {
+      "Bounds": [
+        153.02000427246094,
+        703.2915954589844,
+        159.72535705566406,
+        710.8331146240234
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "Arial-BoldMT",
+        "subset": false,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 827,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[6]/TD[2]/P",
+      "Text": "2 ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        177.3800048828125,
+        757.6515960693359,
+        328.2136993408203,
+        774.5531158447266
+      ],
+      "ObjectID": 817,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[6]/TD[3]",
+      "attributes": {
+        "BBox": [
+          175.67299999999523,
+          755.0499999999884,
+          342.2259999999951,
+          776.6489999999758
+        ],
+        "BackgroundColor": [
+          1,
+          1,
+          1
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 2,
+        "Height": 21.625,
+        "InlineAlign": "Start",
+        "RowIndex": 5,
+        "Width": 166.375
+      }
+    },
+    {
+      "Bounds": [
+        177.3800048828125,
+        767.0115966796875,
+        328.2136993408203,
+        774.5531158447266
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": true,
+        "monospaced": false,
+        "name": "Arial-ItalicMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 818,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[6]/TD[3]/P",
+      "Text": "Perifissural nodule(s) (See Footnote 11) ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        193.82000732421875,
+        757.6515960693359,
+        266.80238342285156,
+        766.0091247558594
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ArialMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 819,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[6]/TD[3]/P[2]",
+      "Text": "< 10 mm (524 mm3) ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        177.13999938964844,
+        726.9315948486328,
+        280.00238037109375,
+        752.953125
+      ],
+      "ObjectID": 799,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[7]/TD",
+      "attributes": {
+        "BBox": [
+          175.67299999999523,
+          726.7309999999998,
+          342.2259999999951,
+          755.0499999999884
+        ],
+        "BackgroundColor": [
+          1,
+          1,
+          1
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 2,
+        "Height": 28.375,
+        "InlineAlign": "Start",
+        "RowIndex": 6,
+        "Width": 166.375
+      }
+    },
+    {
+      "Bounds": [
+        177.13999938964844,
+        745.4116058349609,
+        239.86802673339844,
+        752.953125
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "Arial-BoldMT",
+        "subset": false,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 800,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[7]/TD/P",
+      "Text": "Solid nodule(s): ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        259.8500061035156,
+        739.6815948486328,
+        262.65223693847656,
+        744.4091186523438
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ArialMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 809,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[7]/TD/P[2]/Sub/Reference",
+      "Text": "3",
+      "TextSize": 5.0399932861328125,
+      "attributes": {
+        "BaselineShift": 3,
+        "TextPosition": "Sup"
+      }
+    },
+    {
+      "Bounds": [
+        192.13999938964844,
+        736.0516052246094,
+        267.5223846435547,
+        744.4091186523438
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ArialMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 803,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[7]/TD/P[2]/Sub",
+      "Text": "< 6 mm (< 113 mm ) ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "Placement": "Block"
+      }
+    },
+    {
+      "Bounds": [
+        272.3300018310547,
+        730.5615997314453,
+        275.1322326660156,
+        735.2891235351562
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ArialMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 806,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[7]/TD/P[2]/Sub[2]/Reference",
+      "Text": "3",
+      "TextSize": 5.0399932861328125,
+      "attributes": {
+        "BaselineShift": 3,
+        "TextPosition": "Sup"
+      }
+    },
+    {
+      "Bounds": [
+        192.13999938964844,
+        726.9315948486328,
+        280.00238037109375,
+        735.2891235351562
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ArialMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 804,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[7]/TD/P[2]/Sub[2]",
+      "Text": "new < 4 mm (< 34 mm ) ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "Placement": "Block"
+      }
+    },
+    {
+      "Bounds": [
+        177.13999938964844,
+        697.7716064453125,
+        327.81394958496094,
+        723.7931213378906
+      ],
+      "ObjectID": 789,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[8]/TD",
+      "attributes": {
+        "BBox": [
+          175.67299999999523,
+          697.5729999999749,
+          342.2259999999951,
+          726.7309999999998
+        ],
+        "BackgroundColor": [
+          1,
+          1,
+          1
+        ],
+        "BlockAlign": "After",
+        "ColIndex": 2,
+        "Height": 29.125,
+        "InlineAlign": "Start",
+        "RowIndex": 7,
+        "Width": 166.375
+      }
+    },
+    {
+      "Bounds": [
+        177.13999938964844,
+        716.2516021728516,
+        256.77613830566406,
+        723.7931213378906
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "Arial-BoldMT",
+        "subset": false,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 790,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[8]/TD/P",
+      "Text": "Part solid nodule(s): ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        190.6999969482422,
+        697.7716064453125,
+        327.81394958496094,
+        715.3691253662109
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ArialMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 791,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[8]/TD/P[2]",
+      "Text": "< 6 mm total diameter (< 113 mm 3) on baseline screening ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "LineHeight": 9.25
+      }
+    },
+    {
+      "Bounds": [
+        177.13999938964844,
+        659.4615936279297,
+        334.91851806640625,
+        694.7531127929688
+      ],
+      "ObjectID": 775,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[9]/TD",
+      "attributes": {
+        "BBox": [
+          175.67299999999523,
+          658.5739999999932,
+          342.2259999999951,
+          697.5729999999749
+        ],
+        "BackgroundColor": [
+          1,
+          1,
+          1
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 2,
+        "Height": 39,
+        "InlineAlign": "Start",
+        "RowIndex": 8,
+        "Width": 166.375
+      }
+    },
+    {
+      "Bounds": [
+        266.0899963378906,
+        681.5715942382812,
+        268.8922424316406,
+        686.2991180419922
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ArialMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 784,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[9]/TD/P/Sub/Reference",
+      "Text": "3",
+      "TextSize": 5.0399932861328125,
+      "attributes": {
+        "BaselineShift": 3,
+        "TextPosition": "Sup"
+      }
+    },
+    {
+      "Bounds": [
+        177.13999938964844,
+        677.9416046142578,
+        287.89910888671875,
+        694.7531127929688
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "Arial-BoldMT",
+        "subset": false,
+        "weight": 700
+      },
+      "HasClip": true,
+      "ObjectID": 778,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[9]/TD/P/Sub",
+      "Text": "Non solid nodule(s) (GGN): <30 mm (<14137 mm ) OR ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "Placement": "Block"
+      }
+    },
+    {
+      "Bounds": [
+        270.0500030517578,
+        672.3316040039062,
+        272.85223388671875,
+        677.0591125488281
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ArialMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 781,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[9]/TD/P/Sub[2]/Reference",
+      "Text": "3",
+      "TextSize": 5.0399932861328125,
+      "attributes": {
+        "BaselineShift": 3,
+        "TextPosition": "Sup"
+      }
+    },
+    {
+      "Bounds": [
+        189.5,
+        659.4615936279297,
+        334.91851806640625,
+        677.6099243164062
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ArialMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 779,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[9]/TD/P/Sub[2]",
+      "Text": "≥ 30 mm (≥ 14137 mm ) and unchanged or slowly growing ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "Placement": "Block"
+      }
+    },
+    {
+      "Bounds": [
+        177.25999450683594,
+        639.6616058349609,
+        341.573486328125,
+        657.8099212646484
+      ],
+      "ObjectID": 769,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[10]/TD",
+      "attributes": {
+        "BBox": [
+          175.67299999999523,
+          638.6549999999988,
+          342.2259999999951,
+          658.5739999999932
+        ],
+        "BackgroundColor": [
+          1,
+          1,
+          1
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 2,
+        "Height": 19.875,
+        "InlineAlign": "Start",
+        "RowIndex": 9,
+        "Width": 166.375
+      }
+    },
+    {
+      "Bounds": [
+        177.25999450683594,
+        639.6616058349609,
+        341.573486328125,
+        657.8099212646484
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "Arial-BoldMT",
+        "subset": false,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 770,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[10]/TD/P",
+      "Text": "Category 3 or 4 nodules unchanged for ≥ 3 months ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "LineHeight": 9.25
+      }
+    },
+    {
+      "Bounds": [
+        44.8800048828125,
+        544.5016021728516,
+        129.9029998779297,
+        625.9631195068359
+      ],
+      "ObjectID": 717,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[11]/TD",
+      "attributes": {
+        "BBox": [
+          40.67829999999958,
+          532.9389999999839,
+          135.11499999999796,
+          638.6549999999988
+        ],
+        "BackgroundColor": [
+          1,
+          1,
+          0
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 0,
+        "Height": 105.75,
+        "InlineAlign": "Center",
+        "RowIndex": 10,
+        "RowSpan": 3,
+        "Width": 94.375
+      }
+    },
+    {
+      "Bounds": [
+        54.47999572753906,
+        618.4216003417969,
+        120.27131652832031,
+        625.9631195068359
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "Arial-BoldMT",
+        "subset": false,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 758,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[11]/TD/P",
+      "Text": "Probably Benign ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        44.8800048828125,
+        544.5016021728516,
+        129.9029998779297,
+        607.3631134033203
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ArialMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 759,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[11]/TD/P[2]",
+      "Text": "Probably benign finding(s) ‐ short term follow up suggested; includes nodules with a low likelihood of becoming a clinically active cancer ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "LineHeight": 9.25,
+        "TextAlign": "Center"
+      }
+    },
+    {
+      "Bounds": [
+        153.02000427246094,
+        581.4615936279297,
+        159.72535705566406,
+        589.0031127929688
+      ],
+      "ObjectID": 718,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[11]/TD[2]",
+      "attributes": {
+        "BBox": [
+          135.11499999999796,
+          532.9389999999839,
+          175.67299999999523,
+          638.6549999999988
+        ],
+        "BackgroundColor": [
+          1,
+          1,
+          0
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 1,
+        "Height": 105.75,
+        "InlineAlign": "Center",
+        "RowIndex": 10,
+        "RowSpan": 3,
+        "Width": 40.5
+      }
+    },
+    {
+      "Bounds": [
+        153.02000427246094,
+        581.4615936279297,
+        159.72535705566406,
+        589.0031127929688
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "Arial-BoldMT",
+        "subset": false,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 753,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[11]/TD[2]/P",
+      "Text": "3 ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        177.25999450683594,
+        601.2615966796875,
+        332.9423828125,
+        636.5231170654297
+      ],
+      "ObjectID": 719,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[11]/TD[3]",
+      "attributes": {
+        "BBox": [
+          175.67299999999523,
+          601.0969999999797,
+          342.2259999999951,
+          638.6549999999988
+        ],
+        "BackgroundColor": [
+          1,
+          1,
+          1
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 2,
+        "Height": 37.5,
+        "InlineAlign": "Start",
+        "RowIndex": 10,
+        "Width": 166.375
+      }
+    },
+    {
+      "Bounds": [
+        177.25999450683594,
+        628.9815979003906,
+        239.98802185058594,
+        636.5231170654297
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "Arial-BoldMT",
+        "subset": false,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 738,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[11]/TD[3]/P",
+      "Text": "Solid nodule(s): ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        309.88999938964844,
+        623.2516021728516,
+        312.69224548339844,
+        627.9791259765625
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ArialMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 747,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[11]/TD[3]/P[2]/Sub/Reference",
+      "Text": "3",
+      "TextSize": 5.0399932861328125,
+      "attributes": {
+        "BaselineShift": 3,
+        "TextPosition": "Sup"
+      }
+    },
+    {
+      "Bounds": [
+        188.05999755859375,
+        610.6215972900391,
+        326.4783172607422,
+        628.5299224853516
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "Arial-BoldMT",
+        "subset": false,
+        "weight": 700
+      },
+      "HasClip": true,
+      "ObjectID": 741,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[11]/TD[3]/P[2]/Sub",
+      "Text": "≥ 6 to < 8 mm (≥ 113 to < 268 mm ) at baseline OR ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "Placement": "Block"
+      }
+    },
+    {
+      "Bounds": [
+        325.27000427246094,
+        604.8916015625,
+        328.0722351074219,
+        609.6191253662109
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ArialMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 744,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[11]/TD[3]/P[2]/Sub[2]/Reference",
+      "Text": "3",
+      "TextSize": 5.0399932861328125,
+      "attributes": {
+        "BaselineShift": 3,
+        "TextPosition": "Sup"
+      }
+    },
+    {
+      "Bounds": [
+        189.5,
+        601.2615966796875,
+        332.9423828125,
+        609.6191253662109
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ArialMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 742,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[11]/TD[3]/P[2]/Sub[2]",
+      "Text": "new 4 mm to < 6 mm (34 to < 113 mm ) ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "Placement": "Block"
+      }
+    },
+    {
+      "Bounds": [
+        373.75,
+        581.3415985107422,
+        428.0281066894531,
+        588.8831176757812
+      ],
+      "ObjectID": 720,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[11]/TD[4]",
+      "attributes": {
+        "BBox": [
+          342.2259999999951,
+          532.9389999999839,
+          459.22099999999045,
+          638.6549999999988
+        ],
+        "BackgroundColor": [
+          1,
+          1,
+          1
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 3,
+        "Height": 105.75,
+        "InlineAlign": "Start",
+        "RowIndex": 10,
+        "RowSpan": 3,
+        "Width": 117
+      }
+    },
+    {
+      "Bounds": [
+        373.75,
+        581.3415985107422,
+        428.0281066894531,
+        588.8831176757812
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ArialMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 733,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[11]/TD[4]/P",
+      "Text": "6 month LDCT ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        473.5,
+        581.2451171875,
+        494.3413391113281,
+        589.2851257324219
+      ],
+      "ObjectID": 721,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[11]/TD[5]",
+      "attributes": {
+        "BBox": [
+          459.22099999999045,
+          532.9389999999839,
+          508.778999999995,
+          638.6549999999988
+        ],
+        "BackgroundColor": [
+          1,
+          1,
+          1
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 4,
+        "Height": 105.75,
+        "InlineAlign": "Center",
+        "RowIndex": 10,
+        "RowSpan": 3,
+        "Width": 49.5
+      }
+    },
+    {
+      "Bounds": [
+        473.5,
+        581.2451171875,
+        494.3413391113281,
+        589.2851257324219
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ArialMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 728,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[11]/TD[5]/P",
+      "Text": "1‐2% ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        526.6600036621094,
+        581.3415985107422,
+        540.4213409423828,
+        588.8831176757812
+      ],
+      "ObjectID": 722,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[11]/TD[6]",
+      "attributes": {
+        "BBox": [
+          508.778999999995,
+          532.9389999999839,
+          559.0569999999716,
+          638.6549999999988
+        ],
+        "BackgroundColor": [
+          1,
+          1,
+          1
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 5,
+        "Height": 105.75,
+        "InlineAlign": "Center",
+        "RowIndex": 10,
+        "RowSpan": 3,
+        "Width": 50.25
+      }
+    },
+    {
+      "Bounds": [
+        526.6600036621094,
+        581.3415985107422,
+        540.4213409423828,
+        588.8831176757812
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ArialMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 723,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[11]/TD[6]/P",
+      "Text": "5% ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        177.13999938964844,
+        562.9815979003906,
+        339.6391143798828,
+        598.2431182861328
+      ],
+      "ObjectID": 703,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[12]/TD",
+      "attributes": {
+        "BBox": [
+          175.67299999999523,
+          562.0979999999981,
+          342.2259999999951,
+          601.0969999999797
+        ],
+        "BackgroundColor": [
+          1,
+          1,
+          1
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 2,
+        "Height": 39,
+        "InlineAlign": "Start",
+        "RowIndex": 11,
+        "Width": 166.375
+      }
+    },
+    {
+      "Bounds": [
+        177.13999938964844,
+        590.7015991210938,
+        254.1923065185547,
+        598.2431182861328
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "Arial-BoldMT",
+        "subset": false,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 704,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[12]/TD/P",
+      "Text": "Part solid nodule(s) ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        189.02000427246094,
+        562.9815979003906,
+        339.6391143798828,
+        590.2499237060547
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ArialMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 705,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[12]/TD/P[2]",
+      "Text": "≥ 6 mm total diameter (≥ 113 mm 3) with solid component < 6 mm (< 113 mm 3) OR new < 6 mm total diameter (< 113 mm 3) ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "LineHeight": 9.125
+      }
+    },
+    {
+      "Bounds": [
+        177.25999450683594,
+        533.8215942382812,
+        314.0139465332031,
+        559.9631195068359
+      ],
+      "ObjectID": 693,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[13]/TD",
+      "attributes": {
+        "BBox": [
+          175.67299999999523,
+          532.9389999999839,
+          342.2259999999951,
+          562.0979999999981
+        ],
+        "BackgroundColor": [
+          1,
+          1,
+          1
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 2,
+        "Height": 29.125,
+        "InlineAlign": "Start",
+        "RowIndex": 12,
+        "Width": 166.375
+      }
+    },
+    {
+      "Bounds": [
+        177.25999450683594,
+        552.4216003417969,
+        254.24293518066406,
+        559.9631195068359
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "Arial-BoldMT",
+        "subset": false,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 694,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[13]/TD/P",
+      "Text": "Non solid nodule(s) ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        189.02000427246094,
+        533.8215942382812,
+        314.0139465332031,
+        551.9699249267578
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ArialMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 695,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[13]/TD/P[2]",
+      "Text": "(GGN) ≥ 30 mm (≥ 14137 mm 3) on baseline CT or new ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "LineHeight": 9.25
+      }
+    },
+    {
+      "Bounds": [
+        45.24000549316406,
+        452.20159912109375,
+        132.40164184570312,
+        496.6031188964844
+      ],
+      "ObjectID": 639,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[14]/TD",
+      "attributes": {
+        "BBox": [
+          40.67829999999958,
+          417.02399999999034,
+          135.11499999999796,
+          532.9389999999839
+        ],
+        "BackgroundColor": [
+          0.9254909999999938,
+          0.486266999999998,
+          0.1882319999999993
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 0,
+        "Height": 115.875,
+        "InlineAlign": "Center",
+        "RowIndex": 13,
+        "RowSpan": 3,
+        "Width": 94.375
+      }
+    },
+    {
+      "Bounds": [
+        66.38400268554688,
+        489.0615997314453,
+        111.45623779296875,
+        496.6031188964844
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "Arial-BoldMT",
+        "subset": false,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 684,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[14]/TD/P",
+      "Text": "Suspicious ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        45.24000549316406,
+        452.20159912109375,
+        132.40164184570312,
+        478.1031188964844
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ArialMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 685,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[14]/TD/P[2]",
+      "Text": "Findings for which additional diagnostic testing is recommended ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "LineHeight": 9.125,
+        "TextAlign": "Center"
+      }
+    },
+    {
+      "Bounds": [
+        149.77999877929688,
+        470.6815948486328,
+        162.5603790283203,
+        478.2231140136719
+      ],
+      "ObjectID": 640,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[14]/TD[2]",
+      "attributes": {
+        "BBox": [
+          135.11499999999796,
+          417.02399999999034,
+          175.67299999999523,
+          532.9389999999839
+        ],
+        "BackgroundColor": [
+          0.9254909999999938,
+          0.486266999999998,
+          0.1882319999999993
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 1,
+        "Height": 115.875,
+        "InlineAlign": "Center",
+        "RowIndex": 13,
+        "RowSpan": 3,
+        "Width": 40.5
+      }
+    },
+    {
+      "Bounds": [
+        149.77999877929688,
+        470.6815948486328,
+        162.5603790283203,
+        478.2231140136719
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "Arial-BoldMT",
+        "subset": false,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 679,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[14]/TD[2]/P",
+      "Text": "4A ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        177.25999450683594,
+        486.4216003417969,
+        339.09771728515625,
+        530.8031158447266
+      ],
+      "ObjectID": 641,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[14]/TD[3]",
+      "attributes": {
+        "BBox": [
+          175.67299999999523,
+          486.2609999999986,
+          342.2259999999951,
+          532.9389999999839
+        ],
+        "BackgroundColor": [
+          1,
+          1,
+          1
+        ],
+        "BlockAlign": "After",
+        "ColIndex": 2,
+        "Height": 46.625,
+        "InlineAlign": "Start",
+        "RowIndex": 13,
+        "Width": 166.375
+      }
+    },
+    {
+      "Bounds": [
+        177.25999450683594,
+        523.2615966796875,
+        239.98802185058594,
+        530.8031158447266
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "Arial-BoldMT",
+        "subset": false,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 662,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[14]/TD[3]/P",
+      "Text": "Solid nodule(s): ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        320.3300018310547,
+        517.5316009521484,
+        323.1322326660156,
+        522.2591247558594
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ArialMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 673,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[14]/TD[3]/P[2]/Sub/Reference",
+      "Text": "3",
+      "TextSize": 5.0399932861328125,
+      "attributes": {
+        "BaselineShift": 3,
+        "TextPosition": "Sup"
+      }
+    },
+    {
+      "Bounds": [
+        190.4600067138672,
+        504.90159606933594,
+        339.09771728515625,
+        522.8099212646484
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "Arial-BoldMT",
+        "subset": false,
+        "weight": 700
+      },
+      "HasClip": true,
+      "ObjectID": 665,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[14]/TD[3]/P[2]/Sub",
+      "Text": "≥ 8 to < 15 mm (≥ 268 to < 1767 mm ) at baseline OR ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "Placement": "Block"
+      }
+    },
+    {
+      "Bounds": [
+        288.4100036621094,
+        499.2915954589844,
+        291.2122344970703,
+        504.0191192626953
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ArialMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 668,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[14]/TD[3]/P[2]/Sub[2]/Reference",
+      "Text": "3",
+      "TextSize": 5.0399932861328125,
+      "attributes": {
+        "BaselineShift": 3,
+        "TextPosition": "Sup"
+      }
+    },
+    {
+      "Bounds": [
+        315.4100036621094,
+        490.0516052246094,
+        318.2122344970703,
+        494.77911376953125
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ArialMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 669,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[14]/TD[3]/P[2]/Sub[2]/Reference[2]",
+      "Text": "3",
+      "TextSize": 5.0399932861328125,
+      "attributes": {
+        "BaselineShift": 3,
+        "TextPosition": "Sup"
+      }
+    },
+    {
+      "Bounds": [
+        190.4600067138672,
+        486.4216003417969,
+        323.08238220214844,
+        504.0191192626953
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ArialMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 666,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[14]/TD[3]/P[2]/Sub[2]",
+      "Text": "growing < 8 mm (< 268 mm ) OR new 6 to < 8 mm (113 to < 268 mm ) ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "Placement": "Block"
+      }
+    },
+    {
+      "Bounds": [
+        343.75,
+        461.32159423828125,
+        459.4857940673828,
+        487.3631134033203
+      ],
+      "ObjectID": 642,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[14]/TD[4]",
+      "attributes": {
+        "BBox": [
+          342.2259999999951,
+          417.02399999999034,
+          459.22099999999045,
+          532.9389999999839
+        ],
+        "BackgroundColor": [
+          1,
+          1,
+          1
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 3,
+        "Height": 115.875,
+        "InlineAlign": "Start",
+        "RowIndex": 13,
+        "RowSpan": 3,
+        "Width": 117
+      }
+    },
+    {
+      "Bounds": [
+        343.75,
+        461.32159423828125,
+        459.4857940673828,
+        487.3631134033203
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ArialMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 655,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[14]/TD[4]/P",
+      "Text": "3 month LDCT; PET/CT may be used when there is a ≥ 8 mm (≥ 268 mm 3) solid component ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "LineHeight": 9.25,
+        "TextAlign": "Center"
+      }
+    },
+    {
+      "Bounds": [
+        471.94000244140625,
+        470.3451232910156,
+        497.2210235595703,
+        478.38511657714844
+      ],
+      "ObjectID": 643,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[14]/TD[5]",
+      "attributes": {
+        "BBox": [
+          459.22099999999045,
+          417.02399999999034,
+          508.778999999995,
+          532.9389999999839
+        ],
+        "BackgroundColor": [
+          1,
+          1,
+          1
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 4,
+        "Height": 115.875,
+        "InlineAlign": "Center",
+        "RowIndex": 13,
+        "RowSpan": 3,
+        "Width": 49.5
+      }
+    },
+    {
+      "Bounds": [
+        471.94000244140625,
+        470.3451232910156,
+        497.2210235595703,
+        478.38511657714844
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ArialMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 650,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[14]/TD[5]/P",
+      "Text": "5‐15% ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        527.3800048828125,
+        470.5615997314453,
+        541.1413421630859,
+        478.1031188964844
+      ],
+      "ObjectID": 644,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[14]/TD[6]",
+      "attributes": {
+        "BBox": [
+          508.778999999995,
+          417.02399999999034,
+          559.0569999999716,
+          532.9389999999839
+        ],
+        "BackgroundColor": [
+          1,
+          1,
+          1
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 5,
+        "Height": 115.875,
+        "InlineAlign": "Center",
+        "RowIndex": 13,
+        "RowSpan": 3,
+        "Width": 50.25
+      }
+    },
+    {
+      "Bounds": [
+        527.3800048828125,
+        470.5615997314453,
+        541.1413421630859,
+        478.1031188964844
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ArialMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 645,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[14]/TD[6]/P",
+      "Text": "2% ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        177.25999450683594,
+        429.6416015625,
+        337.7423858642578,
+        483.2831268310547
+      ],
+      "ObjectID": 621,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[15]/TD",
+      "attributes": {
+        "BBox": [
+          175.67299999999523,
+          429.3839999999909,
+          342.2259999999951,
+          486.2609999999986
+        ],
+        "BackgroundColor": [
+          1,
+          1,
+          1
+        ],
+        "BlockAlign": "After",
+        "ColIndex": 2,
+        "Height": 56.875,
+        "InlineAlign": "Start",
+        "RowIndex": 14,
+        "Width": 166.375
+      }
+    },
+    {
+      "Bounds": [
+        177.25999450683594,
+        475.74159240722656,
+        256.9623718261719,
+        483.2831268310547
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "Arial-BoldMT",
+        "subset": false,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 622,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[15]/TD/P",
+      "Text": "Part solid nodule(s): ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        189.3800048828125,
+        448.12159729003906,
+        331.95068359375,
+        475.3899230957031
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "Arial-BoldMT",
+        "subset": false,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 623,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[15]/TD/P[2]",
+      "Text": "≥ 6 mm (≥ 113 mm 3) with solid component ≥ 6 mm to < 8 mm (≥ 113 to < 268 mm3) OR ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "LineHeight": 9.125
+      }
+    },
+    {
+      "Bounds": [
+        330.07000732421875,
+        442.5115966796875,
+        332.8722381591797,
+        447.23912048339844
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ArialMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 628,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[15]/TD/P[3]/Sub/Reference",
+      "Text": "3",
+      "TextSize": 5.0399932861328125,
+      "attributes": {
+        "BaselineShift": 3,
+        "TextPosition": "Sup"
+      }
+    },
+    {
+      "Bounds": [
+        187.10000610351562,
+        429.6416015625,
+        337.7423858642578,
+        447.23912048339844
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ArialMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 626,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[15]/TD/P[3]/Sub",
+      "Text": "with a new or growing < 4 mm (< 34 mm ) solid component ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "Placement": "Block"
+      }
+    },
+    {
+      "Bounds": [
+        177.25999450683594,
+        418.6015930175781,
+        264.10003662109375,
+        426.14312744140625
+      ],
+      "ObjectID": 615,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[16]/TD",
+      "attributes": {
+        "BBox": [
+          175.67299999999523,
+          417.02399999999034,
+          342.2259999999951,
+          429.3839999999909
+        ],
+        "BackgroundColor": [
+          1,
+          1,
+          1
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 2,
+        "Height": 12.375,
+        "InlineAlign": "Start",
+        "RowIndex": 15,
+        "Width": 166.375
+      }
+    },
+    {
+      "Bounds": [
+        177.25999450683594,
+        418.6015930175781,
+        264.10003662109375,
+        426.14312744140625
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "Arial-BoldMT",
+        "subset": false,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 616,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[16]/TD/P",
+      "Text": "Endobronchial nodule ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        51.47999572753906,
+        324.40159606933594,
+        126.26988220214844,
+        387.26312255859375
+      ],
+      "ObjectID": 561,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[17]/TD",
+      "attributes": {
+        "BBox": [
+          40.67829999999958,
+          295.8289999999979,
+          135.11499999999796,
+          417.02399999999034
+        ],
+        "BackgroundColor": [
+          1,
+          0,
+          0
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 0,
+        "Height": 121.25,
+        "InlineAlign": "Center",
+        "RowIndex": 16,
+        "RowSpan": 3,
+        "Width": 94.375
+      }
+    },
+    {
+      "Bounds": [
+        56.63999938964844,
+        379.7216033935547,
+        121.29684448242188,
+        387.26312255859375
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "Arial-BoldMT",
+        "subset": false,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 606,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[17]/TD/P",
+      "Text": "Very Suspicious ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        51.47999572753906,
+        324.40159606933594,
+        126.26988220214844,
+        368.7831268310547
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ArialMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 607,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[17]/TD/P[2]",
+      "Text": "Findings for which additional diagnostic testing and/or tissue sampling is recommended ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "LineHeight": 9.25,
+        "TextAlign": "Center"
+      }
+    },
+    {
+      "Bounds": [
+        149.77999877929688,
+        372.7615966796875,
+        162.19859313964844,
+        380.30311584472656
+      ],
+      "ObjectID": 562,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[17]/TD[2]",
+      "attributes": {
+        "BBox": [
+          135.11499999999796,
+          337.8269999999902,
+          175.67299999999523,
+          417.02399999999034
+        ],
+        "BackgroundColor": [
+          1,
+          0,
+          0
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 1,
+        "Height": 79.25,
+        "InlineAlign": "Center",
+        "RowIndex": 16,
+        "RowSpan": 2,
+        "Width": 40.5
+      }
+    },
+    {
+      "Bounds": [
+        149.77999877929688,
+        372.7615966796875,
+        162.19859313964844,
+        380.30311584472656
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "Arial-BoldMT",
+        "subset": false,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 601,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[17]/TD[2]/P",
+      "Text": "4B ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        177.25999450683594,
+        388.77728271484375,
+        341.3423767089844,
+        414.8631134033203
+      ],
+      "ObjectID": 563,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[17]/TD[3]",
+      "attributes": {
+        "BBox": [
+          175.67299999999523,
+          385.3449999999866,
+          342.2259999999951,
+          417.02399999999034
+        ],
+        "BackgroundColor": [
+          1,
+          1,
+          1
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 2,
+        "Height": 31.625,
+        "InlineAlign": "Start",
+        "RowIndex": 16,
+        "Width": 166.375
+      }
+    },
+    {
+      "Bounds": [
+        177.25999450683594,
+        407.32159423828125,
+        237.3509063720703,
+        414.8631134033203
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "Arial-BoldMT",
+        "subset": false,
+        "weight": 700
+      },
+      "HasClip": true,
+      "ObjectID": 588,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[17]/TD[3]/P/Sub",
+      "Text": "Solid nodule(s) ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "Placement": "Block"
+      }
+    },
+    {
+      "Bounds": [
+        268.3699951171875,
+        401.83160400390625,
+        271.1722412109375,
+        406.5591125488281
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ArialMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 595,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[17]/TD[3]/P/Sub[2]/Reference",
+      "Text": "3",
+      "TextSize": 5.0399932861328125,
+      "attributes": {
+        "BaselineShift": 3,
+        "TextPosition": "Sup"
+      }
+    },
+    {
+      "Bounds": [
+        192.25999450683594,
+        398.1372833251953,
+        290.1791076660156,
+        407.10992431640625
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "Arial-BoldMT",
+        "subset": false,
+        "weight": 700
+      },
+      "HasClip": true,
+      "ObjectID": 589,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[17]/TD[3]/P/Sub[2]",
+      "Text": "≥ 15 mm (≥ 1767 mm ) OR ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "Placement": "Block"
+      }
+    },
+    {
+      "Bounds": [
+        333.6699981689453,
+        392.4716033935547,
+        336.4722442626953,
+        397.1991271972656
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ArialMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 592,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[17]/TD[3]/P/Sub[3]/Reference",
+      "Text": "3",
+      "TextSize": 5.0399932861328125,
+      "attributes": {
+        "BaselineShift": 3,
+        "TextPosition": "Sup"
+      }
+    },
+    {
+      "Bounds": [
+        192.13999938964844,
+        388.77728271484375,
+        341.3423767089844,
+        397.7499237060547
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ArialMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 590,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[17]/TD[3]/P/Sub[3]",
+      "Text": "new or growing, and ≥ 8 mm (≥ 268 mm ) ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "Placement": "Block"
+      }
+    },
+    {
+      "Bounds": [
+        345.9100036621094,
+        296.8176727294922,
+        458.9518585205078,
+        414.7431182861328
+      ],
+      "ObjectID": 564,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[17]/TD[4]",
+      "attributes": {
+        "BBox": [
+          342.2259999999951,
+          295.8289999999979,
+          459.22099999999045,
+          417.02399999999034
+        ],
+        "BackgroundColor": [
+          1,
+          1,
+          1
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 3,
+        "Height": 121.25,
+        "InlineAlign": "Start",
+        "RowIndex": 16,
+        "RowSpan": 3,
+        "Width": 117
+      }
+    },
+    {
+      "Bounds": [
+        346.6300048828125,
+        351.9372863769531,
+        458.2573547363281,
+        414.7431182861328
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ArialMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 577,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[17]/TD[4]/P",
+      "Text": "Chest CT with or without contrast, PET/CT and/or tissue sampling depending on the *probability of malignancy and comorbidities. PET/CT may be used when there is a ≥ 8 mm (≥ 268 mm 3) solid component. ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "LineHeight": 9.25,
+        "TextAlign": "Center"
+      }
+    },
+    {
+      "Bounds": [
+        345.9100036621094,
+        296.8176727294922,
+        458.9518585205078,
+        350.4231262207031
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": true,
+        "monospaced": false,
+        "name": "Arial-ItalicMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 578,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[17]/TD[4]/P[2]",
+      "Text": "For new large nodules that develop on an annual repeat screening CT, a 1 month LDCT may be recommended to address potentially infectious or inflammatory conditions ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "LineHeight": 9.25,
+        "TextAlign": "Center"
+      }
+    },
+    {
+      "Bounds": [
+        473.02000427246094,
+        352.00160217285156,
+        498.23350524902344,
+        359.5431213378906
+      ],
+      "ObjectID": 565,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[17]/TD[5]",
+      "attributes": {
+        "BBox": [
+          459.22099999999045,
+          295.8289999999979,
+          508.778999999995,
+          417.02399999999034
+        ],
+        "BackgroundColor": [
+          1,
+          1,
+          1
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 4,
+        "Height": 121.25,
+        "InlineAlign": "Center",
+        "RowIndex": 16,
+        "RowSpan": 3,
+        "Width": 49.5
+      }
+    },
+    {
+      "Bounds": [
+        473.02000427246094,
+        352.00160217285156,
+        498.23350524902344,
+        359.5431213378906
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ArialMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 572,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[17]/TD[5]/P",
+      "Text": "> 15% ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        528.2200012207031,
+        352.00160217285156,
+        541.9813385009766,
+        359.5431213378906
+      ],
+      "ObjectID": 566,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[17]/TD[6]",
+      "attributes": {
+        "BBox": [
+          508.778999999995,
+          295.8289999999979,
+          559.0569999999716,
+          417.02399999999034
+        ],
+        "BackgroundColor": [
+          1,
+          1,
+          1
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 5,
+        "Height": 121.25,
+        "InlineAlign": "Center",
+        "RowIndex": 16,
+        "RowSpan": 3,
+        "Width": 50.25
+      }
+    },
+    {
+      "Bounds": [
+        528.2200012207031,
+        352.00160217285156,
+        541.9813385009766,
+        359.5431213378906
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ArialMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 567,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[17]/TD[6]/P",
+      "Text": "2% ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        177.25999450683594,
+        338.08160400390625,
+        334.1423797607422,
+        382.46311950683594
+      ],
+      "ObjectID": 545,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[18]/TD",
+      "attributes": {
+        "BBox": [
+          175.67299999999523,
+          337.8269999999902,
+          342.2259999999951,
+          385.3449999999866
+        ],
+        "BackgroundColor": [
+          1,
+          1,
+          1
+        ],
+        "BlockAlign": "After",
+        "ColIndex": 2,
+        "Height": 47.5,
+        "InlineAlign": "Start",
+        "RowIndex": 17,
+        "Width": 166.375
+      }
+    },
+    {
+      "Bounds": [
+        177.25999450683594,
+        374.9216003417969,
+        275.01025390625,
+        382.46311950683594
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "Arial-BoldMT",
+        "subset": false,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 546,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[18]/TD/P",
+      "Text": "Part solid nodule(s) with: ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        192.13999938964844,
+        365.6172790527344,
+        334.1423797607422,
+        374.5899200439453
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ArialMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 547,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[18]/TD/P[2]",
+      "Text": "a solid component ≥ 8 mm (≥ 268 mm 3) ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        192.13999938964844,
+        356.5615997314453,
+        206.3891143798828,
+        364.1031188964844
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "Arial-BoldMT",
+        "subset": false,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 548,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[18]/TD/P[3]",
+      "Text": "OR ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        192.13999938964844,
+        338.08160400390625,
+        325.7223815917969,
+        356.10992431640625
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ArialMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 549,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[18]/TD/P[4]",
+      "Text": "a new or growing ≥ 4 mm (≥ 34 mm 3) solid component ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "LineHeight": 9.125
+      }
+    },
+    {
+      "Bounds": [
+        151.22000122070312,
+        312.28160095214844,
+        163.1964569091797,
+        319.8231201171875
+      ],
+      "ObjectID": 533,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[19]/TD",
+      "attributes": {
+        "BBox": [
+          135.11499999999796,
+          295.8289999999979,
+          175.67299999999523,
+          337.8269999999902
+        ],
+        "BackgroundColor": [
+          0.8392179999999883,
+          0,
+          0
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 1,
+        "Height": 42,
+        "InlineAlign": "Center",
+        "RowIndex": 18,
+        "Width": 40.5
+      }
+    },
+    {
+      "Bounds": [
+        151.22000122070312,
+        312.28160095214844,
+        163.1964569091797,
+        319.8231201171875
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "Arial-BoldMT",
+        "subset": false,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 540,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[19]/TD/P",
+      "Text": "4X ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        177.25999450683594,
+        302.9216003417969,
+        317.8151550292969,
+        328.8231201171875
+      ],
+      "ObjectID": 534,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[19]/TD[2]",
+      "attributes": {
+        "BBox": [
+          175.67299999999523,
+          295.8289999999979,
+          342.2259999999951,
+          337.8269999999902
+        ],
+        "BackgroundColor": [
+          1,
+          1,
+          1
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 2,
+        "Height": 42,
+        "InlineAlign": "Start",
+        "RowIndex": 18,
+        "Width": 166.375
+      }
+    },
+    {
+      "Bounds": [
+        177.25999450683594,
+        302.9216003417969,
+        317.8151550292969,
+        328.8231201171875
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ArialMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 535,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[19]/TD[2]/P",
+      "Text": "Category 3 or 4 nodules with additional features or imaging findings that increases the suspicion of malignancy ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "LineHeight": 9.125
+      }
+    },
+    {
+      "Bounds": [
+        48.36000061035156,
+        249.37159729003906,
+        130.729736328125,
+        293.7831268310547
+      ],
+      "ObjectID": 495,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[20]/TD",
+      "attributes": {
+        "BBox": [
+          40.67829999999958,
+          247.47099999999773,
+          135.11499999999796,
+          295.8289999999979
+        ],
+        "BackgroundColor": [
+          1,
+          1,
+          1
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 0,
+        "Height": 48.375,
+        "InlineAlign": "Center",
+        "RowIndex": 19,
+        "Width": 94.375
+      }
+    },
+    {
+      "Bounds": [
+        77.78399658203125,
+        286.24159240722656,
+        101.405517578125,
+        293.7831268310547
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "Arial-BoldMT",
+        "subset": false,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 526,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[20]/TD/P",
+      "Text": "Other ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        48.36000061035156,
+        249.37159729003906,
+        130.729736328125,
+        284.5431213378906
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ArialMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 527,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[20]/TD/P[2]",
+      "Text": "Clinically Significant or Potentially Clinically Significant Findings (non lung cancer) ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "LineHeight": 9.25,
+        "TextAlign": "Center"
+      }
+    },
+    {
+      "Bounds": [
+        153.3800048828125,
+        267.88160705566406,
+        160.9778594970703,
+        275.4231262207031
+      ],
+      "ObjectID": 496,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[20]/TD[2]",
+      "attributes": {
+        "BBox": [
+          135.11499999999796,
+          247.47099999999773,
+          175.67299999999523,
+          295.8289999999979
+        ],
+        "BackgroundColor": [
+          1,
+          1,
+          1
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 1,
+        "Height": 48.375,
+        "InlineAlign": "Center",
+        "RowIndex": 19,
+        "Width": 40.5
+      }
+    },
+    {
+      "Bounds": [
+        153.3800048828125,
+        267.88160705566406,
+        160.9778594970703,
+        275.4231262207031
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "Arial-BoldMT",
+        "subset": false,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 521,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[20]/TD[2]/P",
+      "Text": "S ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        187.82000732421875,
+        263.20159912109375,
+        331.85536193847656,
+        281.4649200439453
+      ],
+      "ObjectID": 497,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[20]/TD[3]",
+      "attributes": {
+        "BBox": [
+          175.67299999999523,
+          247.47099999999773,
+          342.2259999999951,
+          295.8289999999979
+        ],
+        "BackgroundColor": [
+          1,
+          1,
+          1
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 2,
+        "Height": 48.375,
+        "InlineAlign": "Start",
+        "RowIndex": 19,
+        "Width": 166.375
+      }
+    },
+    {
+      "Bounds": [
+        187.82000732421875,
+        263.20159912109375,
+        331.85536193847656,
+        281.4649200439453
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "Arial-BoldMT",
+        "subset": false,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 516,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[20]/TD[3]/P",
+      "Text": "Modifier ‐ may add on to category 0‐4 coding ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "LineHeight": 9.25,
+        "TextAlign": "Center"
+      }
+    },
+    {
+      "Bounds": [
+        349.75,
+        263.20159912109375,
+        455.06898498535156,
+        279.8631134033203
+      ],
+      "ObjectID": 498,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[20]/TD[4]",
+      "attributes": {
+        "BBox": [
+          342.2259999999951,
+          247.47099999999773,
+          459.22099999999045,
+          295.8289999999979
+        ],
+        "BackgroundColor": [
+          1,
+          1,
+          1
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 3,
+        "Height": 48.375,
+        "InlineAlign": "Start",
+        "RowIndex": 19,
+        "Width": 117
+      }
+    },
+    {
+      "Bounds": [
+        349.75,
+        263.20159912109375,
+        455.06898498535156,
+        279.8631134033203
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ArialMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 511,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[20]/TD[4]/P",
+      "Text": "As appropriate to the specific finding ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "LineHeight": 9.125,
+        "TextAlign": "Center"
+      }
+    },
+    {
+      "Bounds": [
+        478.8999938964844,
+        267.7615966796875,
+        492.3187561035156,
+        275.30311584472656
+      ],
+      "ObjectID": 499,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[20]/TD[5]",
+      "attributes": {
+        "BBox": [
+          459.22099999999045,
+          247.47099999999773,
+          508.778999999995,
+          295.8289999999979
+        ],
+        "BackgroundColor": [
+          1,
+          1,
+          1
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 4,
+        "Height": 48.375,
+        "InlineAlign": "Center",
+        "RowIndex": 19,
+        "Width": 49.5
+      }
+    },
+    {
+      "Bounds": [
+        478.8999938964844,
+        267.7615966796875,
+        492.3187561035156,
+        275.30311584472656
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ArialMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 506,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[20]/TD[5]/P",
+      "Text": "n/a ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        526.0599975585938,
+        267.7615966796875,
+        544.2610321044922,
+        275.30311584472656
+      ],
+      "ObjectID": 500,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[20]/TD[6]",
+      "attributes": {
+        "BBox": [
+          508.778999999995,
+          247.47099999999773,
+          559.0569999999716,
+          295.8289999999979
+        ],
+        "BackgroundColor": [
+          1,
+          1,
+          1
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 5,
+        "Height": 48.375,
+        "InlineAlign": "Center",
+        "RowIndex": 19,
+        "Width": 50.25
+      }
+    },
+    {
+      "Bounds": [
+        526.0599975585938,
+        267.7615966796875,
+        544.2610321044922,
+        275.30311584472656
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ArialMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 501,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[20]/TD[6]/P",
+      "Text": "10% ",
+      "TextSize": 8.039993286132812,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        36.0,
+        222.93919372558594,
+        133.42027282714844,
+        229.01744079589844
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": true,
+        "monospaced": false,
+        "name": "Arial-BoldItalicMT",
+        "subset": false,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 453,
+      "Page": 0,
+      "Path": "//Document/Sect/P[3]",
+      "Text": "IMPORTANT NOTES FOR USE: ",
+      "TextSize": 6.4799957275390625
+    },
+    {
+      "Bounds": [
+        45.0,
+        214.75999450683594,
+        277.83221435546875,
+        220.85743713378906
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ArialMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 454,
+      "Page": 0,
+      "Path": "//Document/Sect/Footnote",
+      "Text": "1) Negative screen: does not mean that an individual does not have lung cancer ",
+      "TextSize": 6.4799957275390625
+    },
+    {
+      "Bounds": [
+        45.0,
+        206.47999572753906,
+        503.89215087890625,
+        212.5774383544922
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ArialMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 455,
+      "Page": 0,
+      "Path": "//Document/Sect/Footnote[2]",
+      "Text": "2) Size: To calculate nodule mean diameter, measure both the long and short axis to one decimal point, and report mean nodule diameter to one decimal point ",
+      "TextSize": 6.4799957275390625
+    },
+    {
+      "Bounds": [
+        45.0,
+        198.1999969482422,
+        340.24586486816406,
+        204.2974395751953
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ArialMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 456,
+      "Page": 0,
+      "Path": "//Document/Sect/Footnote[3]",
+      "Text": "3) Size Thresholds: apply to nodules at first detection, and that grow and reach a higher size category ",
+      "TextSize": 6.4799957275390625
+    },
+    {
+      "Bounds": [
+        45.0,
+        189.9199981689453,
+        200.68922424316406,
+        196.702880859375
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ArialMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 457,
+      "Page": 0,
+      "Path": "//Document/Sect/Footnote[4]",
+      "Text": "4) Growth: an increase in size of > 1.5 mm (> 2 mm 3) ",
+      "TextSize": 6.4799957275390625
+    },
+    {
+      "Bounds": [
+        45.0,
+        181.46144104003906,
+        370.30592346191406,
+        187.94143676757812
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ArialMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 458,
+      "Page": 0,
+      "Path": "//Document/Sect/Footnote[5]",
+      "Text": "5) Exam Category: each exam should be coded 0‐4 based on the nodule(s) with the highest degree of suspicion ",
+      "TextSize": 6.4799957275390625
+    },
+    {
+      "Bounds": [
+        45.0,
+        173.0614471435547,
+        232.4838104248047,
+        179.54144287109375
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ArialMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 459,
+      "Page": 0,
+      "Path": "//Document/Sect/Footnote[6]",
+      "Text": "6) Exam Modifiers: S modifier may be added to the 0‐4 category ",
+      "TextSize": 6.4799957275390625
+    },
+    {
+      "Bounds": [
+        45.0,
+        158.1392059326172,
+        567.5555114746094,
+        171.65744018554688
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ArialMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 460,
+      "Page": 0,
+      "Path": "//Document/Sect/Footnote[7]",
+      "Text": "7) Lung Cancer Diagnosis: Once a patient is diagnosed with lung cancer, further management (including additional imaging such as PET/CT) may be performed for purposes of lung cancer staging; this is no longer screening ",
+      "TextSize": 6.4799957275390625
+    },
+    {
+      "Bounds": [
+        45.0,
+        150.0800018310547,
+        420.91432189941406,
+        156.1774444580078
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ArialMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 461,
+      "Page": 0,
+      "Path": "//Document/Sect/Footnote[8]",
+      "Text": "8) Practice audit definitions: a negative screen is defined as categories 1 and 2; a positive screen is defined as categories 3 and 4 ",
+      "TextSize": 6.4799957275390625
+    },
+    {
+      "Bounds": [
+        45.0,
+        133.65919494628906,
+        528.8924407958984,
+        147.65744018554688
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ArialMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 462,
+      "Page": 0,
+      "Path": "//Document/Sect/Footnote[9]",
+      "Text": "9) Category 4B Management: this is predicated on the probability of malignancy based on patient evaluation, patient preference and risk of malignancy; radiologists are encouraged to use the McWilliams et al assessment tool when making recommendations ",
+      "TextSize": 6.4799957275390625
+    },
+    {
+      "Bounds": [
+        45.0,
+        109.65919494628906,
+        571.2954711914062,
+        131.4574432373047
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ArialMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 463,
+      "Page": 0,
+      "Path": "//Document/Sect/Footnote[10]",
+      "Text": "10) Category 4X: nodules with additional imaging findings that increase the suspicion of lung cancer, such as spiculation, GGN that doubles in size in 1 year, enlarged lymph nodes etc 11) Solid nodules with smooth margins, an oval, lentiform or triangular shape, and maximum diameter less than 10 mm or 524 mm 3 (perifissural nodules) should be classified as category 2 ",
+      "TextSize": 6.4799957275390625
+    },
+    {
+      "Bounds": [
+        45.0,
+        101.47999572753906,
+        474.17344665527344,
+        107.57743835449219
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ArialMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 464,
+      "Page": 0,
+      "Path": "//Document/Sect/Footnote[11]",
+      "Text": "12) Category 3 and 4A nodules that are unchanged on interval CT should be coded as category 2, and individuals returned to screening in 12 months ",
+      "TextSize": 6.4799957275390625
+    },
+    {
+      "Bounds": [
+        45.0,
+        93.44400024414062,
+        129.71237182617188,
+        99.54144287109375
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ArialMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 465,
+      "Page": 0,
+      "Path": "//Document/Sect/Footnote[12]",
+      "Text": "13) LDCT: low dose chest CT ",
+      "TextSize": 6.4799957275390625
+    },
+    {
+      "Bounds": [
+        152.55999755859375,
+        82.18319702148438,
+        405.17999267578125,
+        93.50599670410156
+      ],
+      "ClipBounds": [
+        152.55999755859375,
+        82.23199462890625,
+        405.17999267578125,
+        93.50599670410156
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": true,
+        "monospaced": false,
+        "name": "Arial-BoldItalicMT",
+        "subset": false,
+        "weight": 700
+      },
+      "HasClip": true,
+      "ObjectID": 427,
+      "Page": 0,
+      "Path": "//Document/Sect/Footnote[13]/StyleSpan/Reference",
+      "Text": "https://www.acr.org/Clinical-Resources/Reporting-and-Data-Systems/Lung-Rads ",
+      "TextSize": 6.4799957275390625
+    },
+    {
+      "Bounds": [
+        45.0,
+        82.18319702148438,
+        405.17999267578125,
+        93.50599670410156
+      ],
+      "ClipBounds": [
+        152.55999755859375,
+        82.23199462890625,
+        405.17999267578125,
+        93.50599670410156
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": true,
+        "monospaced": false,
+        "name": "Arial-BoldItalicMT",
+        "subset": false,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 466,
+      "Page": 0,
+      "Path": "//Document/Sect/Footnote[13]",
+      "Text": "*Additional resources available at - ",
+      "TextSize": 6.4799957275390625
+    },
+    {
+      "Bounds": [
+        143.13999938964844,
+        70.9031982421875,
+        384.2200012207031,
+        82.23199462890625
+      ],
+      "ClipBounds": [
+        143.13999938964844,
+        70.95799255371094,
+        384.2200012207031,
+        82.23199462890625
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": true,
+        "monospaced": false,
+        "name": "Arial-BoldItalicMT",
+        "subset": false,
+        "weight": 700
+      },
+      "HasClip": true,
+      "ObjectID": 428,
+      "Page": 0,
+      "Path": "//Document/Sect/Footnote[14]/StyleSpan/Reference",
+      "Text": "https://brocku.ca/lung-cancer-screening-and-risk-prediction/risk-calculators/ ",
+      "TextSize": 6.4799957275390625
+    },
+    {
+      "Bounds": [
+        45.0,
+        70.9031982421875,
+        384.2200012207031,
+        82.23199462890625
+      ],
+      "ClipBounds": [
+        143.13999938964844,
+        70.95799255371094,
+        384.2200012207031,
+        82.23199462890625
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": true,
+        "monospaced": false,
+        "name": "Arial-BoldItalicMT",
+        "subset": false,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 446,
+      "Page": 0,
+      "Path": "//Document/Sect/Footnote[14]",
+      "Text": "*Link to Lung-RADS calculator - ",
+      "TextSize": 6.4799957275390625,
+      "attributes": {
+        "SpaceAfter": 18
+      }
+    },
+    {
+      "Bounds": [
+        283.5,
+        21.600006103515625,
+        350.8000030517578,
+        54.600006103515625
+      ],
+      "ObjectID": 467,
+      "Page": 0,
+      "Path": "//Document/Sect/Figure[2]",
+      "attributes": {
+        "BBox": [
+          283.4279999999999,
+          21.64009999999962,
+          350.7459999999992,
+          54.63879999999881
+        ],
+        "Placement": "Block"
+      }
+    }
+  ],
+  "pages": [
+    {
+      "boxes": {
+        "CropBox": [
+          0.0,
+          0.0,
+          612.0,
+          1008.0
+        ],
+        "MediaBox": [
+          0.0,
+          0.0,
+          612.0,
+          1008.0
+        ]
+      },
+      "height": 1008.0,
+      "is_scanned": false,
+      "page_number": 0,
+      "rotation": 0,
+      "width": 612.0
+    }
+  ]
+}

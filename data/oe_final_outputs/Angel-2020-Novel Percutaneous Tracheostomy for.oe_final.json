@@ -1,0 +1,489 @@
+{
+  "source": {
+    "document_id": "Angel-2020-Novel Percutaneous Tracheostomy for",
+    "ingest_date": "2025-08-08T09:48:54.043237+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1016/j.athoracsur.2020.04.010"
+  },
+  "document": {
+    "metadata": {
+      "title": "Novel Percutaneous Tracheostomy for Critically Ill Patients With COVID-19",
+      "year": 2020,
+      "authors": [
+        "Luis Angel",
+        "Zachary N. Kon",
+        "Stephanie H. Chang",
+        "Samaan Rafeq",
+        "Saketh Palasamudram Shekar",
+        "Brian Mitzman",
+        "Nancy Amoroso",
+        "Ronald Goldenberg",
+        "Kimberly Sureau",
+        "Deane E. Smith",
+        "Robert J. Cerfolio"
+      ],
+      "journal": "The Annals of Thoracic Surgery",
+      "doi": "10.1016/j.athoracsur.2020.04.010",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Background: Coronavirus 2019 (COVID-19) is a worldwide pandemic, with many patients requiring prolonged mechanical ventilation. Tracheostomy is not recommended by current guidelines as it is considered a superspreading event owing to aerosolization that unduly risks health care workers. Methods: Patients with severe COVID-19 who were on mechanical ventilation for 5 days or longer were evaluated for percutaneous dilational tracheostomy. We developed a novel percutaneous tracheostomy technique that placed the bronchoscope alongside the endotracheal tube, not inside it, improving visualization during the procedure and allowing continued standard mechanical ventilation after positioning the inflated endotracheal tube cuff in the distal trachea to mitigate aerosolization risk. Results: From March 10 to April 15, 2020, 270 patients required invasive mechanical ventilation; 98 underwent percutaneous dilational tracheostomy. Mean time from intubation to procedure was 10.6 ± 5 days. At reporting, 32 patients (33%) no longer required mechanical ventilatory support, 19 (19%) had their tracheostomy tube downsized, and 8 (8%) were decannulated. Forty (41%) remained on full ventilator support, 19 (19%) were weaning, and 7 (7%) died of respiratory and multiorgan failure. Tracheostomy-related bleeding occurred in 5 patients; none of the health care providers had symptoms or tested positive for COVID-19. Conclusions: The novel percutaneous tracheostomy technique appears safe and effective for COVID-19 patients and safe for health care workers.",
+      "methods": "Institutional analysis of all ICU patients at NYU Langone Health Manhattan campus (Mar 10-Apr 15, 2020) with confirmed COVID-19 and severe respiratory failure requiring mechanical ventilation. Entry criteria for percutaneous dilational tracheostomy (PDT): COVID-19 positive, on mechanical ventilation ≥5 days with anticipated prolonged need or on ECMO >1 day; isolated respiratory failure except acute renal failure on dialysis/CRRT. Recommended ventilator settings for PDT: PEEP ≤12 mm Hg, FiO2 ≤60%, RR ≤25 breaths/min, PaCO2 ≤60 mm Hg. Exclusion: uncorrected coagulopathy, BMI >45 kg/m2, multiorgan failure. Novel PDT performed at bedside with full PPE. Bronchoscope inserted adjacent to ETT and advanced anterior to ETT through vocal cords; ETT cuff deflated and advanced to distal trachea, reinflated, ventilation restarted; needle, guidewire, and dilators used under bronchoscopic visualization; tracheostomy tube inserted with ventilation paused only briefly during open-air steps.",
+      "results": "Of 270 intubated patients, 130 were evaluated for tracheostomy; 98 underwent bedside PDT with the novel technique. Mean age 57 years; 80 (82%) male; mean BMI 31 kg/m2; mean PaO2/FiO2 ratio 132 at intubation. The novel technique was successful in 96/98 (98%); 2 required standard PDT under apneic conditions while on ECMO due to inadequate visualization from severe edema. Six additional patients underwent open tracheostomy (not part of the 98). Mean time from start of mechanical ventilation to PDT was 10.6 ± 5 days. Mean follow-up after starting mechanical ventilation was 18 ± 5 days; after PDT, 11 ± 6 days. At follow-up: 40/98 (41%) on full ventilator support; 19/98 (19%) weaning; 32/98 (33%) off mechanical ventilatory support (4 discharged, 17 on noncritical care floors, 11 in ICU on trach collar); 19/98 (19%) downsized; 8/98 (8%) decannulated; 7/98 (7%) died of respiratory and multiorgan failure. Intraprocedural complications were not observed. Bleeding occurred in 5/98 (5.1%) within 48 hours (all on anticoagulation; 3 on ECMO); 1 required surgical exploration. Two accidental tracheostomy tube removals occurred. Among 8 tracheostomy team members, 4 tested by RT-PCR were negative; none had symptoms or missed work."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Critically ill adult patients with confirmed COVID-19 requiring invasive mechanical ventilation in the ICU at a single academic center.",
+      "inclusion_criteria": [
+        "Confirmed COVID-19 by nasopharyngeal RT-PCR",
+        "On mechanical ventilation for 5 or more days",
+        "Anticipated prolonged need for mechanical ventilation or ECMO for more than 1 day",
+        "Isolated respiratory failure (acute renal failure on dialysis/CRRT allowed)",
+        "Recommended ventilator settings for procedure: PEEP ≤12 mm Hg, FiO2 ≤60%, RR ≤25 breaths/min, PaCO2 ≤60 mm Hg"
+      ],
+      "exclusion_criteria": [
+        "Uncorrected coagulopathy",
+        "Body mass index >45 kg/m2",
+        "Multiorgan failure"
+      ]
+    },
+    "intervention": {
+      "text": "Novel percutaneous dilational tracheostomy (PDT) technique with bronchoscope alongside ETT",
+      "details": "Bedside PDT using flexible bronchoscope inserted adjacent to and anterior to the ETT through the vocal cords to visualize subglottic space, with ETT cuff advanced and reinflated in distal trachea to maintain ventilation and minimize aerosolization; ultrasound guidance used to select insertion site; dilation with short dilator and Ciaglia Blue Rhino; brief ventilator standby during open-air steps; full PPE for staff."
+    },
+    "comparison": {
+      "text": "None (single-arm case series)",
+      "details": "No randomized or concurrent control group; two patients required standard PDT under apneic conditions due to edema; six separate patients underwent open tracheostomy (not included in the 98)."
+    },
+    "outcomes": [
+      {
+        "name": "Feasibility: successful completion of novel PDT",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "All-cause mortality by early follow-up",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Liberation from mechanical ventilation by early follow-up",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Decannulation by early follow-up",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Tracheostomy-related bleeding within 48 hours",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Accidental tracheostomy tube removal",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "observational",
+    "allocation": "non-randomized",
+    "blinding": "none",
+    "sites_count": 1,
+    "countries": [
+      "US"
+    ],
+    "sample_size": {
+      "planned": null,
+      "enrolled": 98,
+      "analyzed": 98
+    },
+    "analysis_populations": [
+      {
+        "name": "All treated",
+        "description": "All patients who underwent the novel PDT technique",
+        "n": 98
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "Novel percutaneous dilational tracheostomy",
+      "n_randomized": 0,
+      "n_analyzed": 98,
+      "n_completed": 98
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "procedure_success_novel_pdt",
+      "name": "Successful completion of novel percutaneous tracheostomy",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Intra-procedure",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 96,
+            "total": 98
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive statistics",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated",
+        "missing_handling": "Not applicable"
+      },
+      "provenance": {
+        "pages": [
+          1007
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "The described technique was successful in 96 patients (98%)."
+      }
+    },
+    {
+      "concept_id": "all_cause_mortality_early",
+      "name": "All-cause mortality by early follow-up after PDT",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P11D",
+      "timepoint_label": "Mean 11 days post-PDT (±6)",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 7,
+            "total": 98
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive statistics",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated",
+        "missing_handling": "Not applicable"
+      },
+      "provenance": {
+        "pages": [
+          1008
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "Seven patients (7%) died as result of respiratory and multiorgan failure."
+      }
+    },
+    {
+      "concept_id": "ventilator_liberation_early",
+      "name": "Off mechanical ventilatory support by early follow-up",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P11D",
+      "timepoint_label": "Mean 11 days post-PDT (±6)",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 32,
+            "total": 98
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive statistics",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated",
+        "missing_handling": "Not applicable"
+      },
+      "provenance": {
+        "pages": [
+          1008
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "Thirty-two patients (33%) are not requiring mechanical ventilatory support..."
+      }
+    },
+    {
+      "concept_id": "decannulated_early",
+      "name": "Tracheostomy decannulated by early follow-up",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P11D",
+      "timepoint_label": "Mean 11 days post-PDT (±6)",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 8,
+            "total": 98
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive statistics",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated",
+        "missing_handling": "Not applicable"
+      },
+      "provenance": {
+        "pages": [
+          1008
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "8 (8%) have had the tracheostomy tubes removed."
+      }
+    },
+    {
+      "concept_id": "intraprocedural_complications_any",
+      "name": "Intraprocedural complications (any)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P0D",
+      "timepoint_label": "Intra-procedure",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 0,
+            "total": 98
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive statistics",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated",
+        "missing_handling": "Not applicable"
+      },
+      "provenance": {
+        "pages": [
+          1009
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "No intraprocedural complications were noted..."
+      }
+    },
+    {
+      "concept_id": "bleeding_within_48h",
+      "name": "Tracheostomy-related bleeding within 48 hours",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P2D",
+      "timepoint_label": "Within 48 hours post-procedure",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 5,
+            "total": 98
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive statistics",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated",
+        "missing_handling": "Not applicable"
+      },
+      "provenance": {
+        "pages": [
+          1008,
+          1009
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "Bleeding after tracheostomy was present in 5 patients... 5 of those patients (5.1%) had bleeding within the first 48 hours..."
+      }
+    },
+    {
+      "concept_id": "accidental_trach_tube_removal",
+      "name": "Accidental tracheostomy tube removal",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P11D",
+      "timepoint_label": "During early follow-up",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 2,
+            "total": 98
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive statistics",
+        "adjusted": false,
+        "covariates": [],
+        "population": "All treated",
+        "missing_handling": "Not applicable"
+      },
+      "provenance": {
+        "pages": [
+          1008
+        ],
+        "tables": [],
+        "table_number": null,
+        "quote": "Two accidental tracheostomy tube removals occurred during the study..."
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Tracheostomy site haemorrhage",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Tracheostomy site haemorrhage"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 5,
+          "patients": 5,
+          "percentage": 5.1,
+          "total": 98
+        }
+      ],
+      "period": "0-48 hours",
+      "management": "Bedside packing around tracheostomy; anticoagulation was present in all 5; 3 were on ECMO",
+      "provenance": {
+        "pages": [
+          1008,
+          1009
+        ],
+        "tables": [],
+        "quote": "Bleeding after tracheostomy was present in 5 patients, all of whom were receiving anticoagulation therapy and 3 were on ECMO support."
+      }
+    },
+    {
+      "event_name": "Tracheostomy site haemorrhage requiring surgical intervention",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Postprocedural haemorrhage"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "other_medically_important_condition"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 1,
+          "patients": 1,
+          "percentage": 1,
+          "total": 98
+        }
+      ],
+      "period": "0-48 hours",
+      "management": "Surgical exploration performed",
+      "provenance": {
+        "pages": [
+          1008
+        ],
+        "tables": [],
+        "quote": "Of those 5 patients, 1 required surgical exploration..."
+      }
+    },
+    {
+      "event_name": "Accidental device removal",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Device dislocation"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 2,
+          "patients": 2,
+          "percentage": 2,
+          "total": 98
+        }
+      ],
+      "period": "Early follow-up",
+      "management": "Not specified",
+      "provenance": {
+        "pages": [
+          1008
+        ],
+        "tables": [],
+        "quote": "Two accidental tracheostomy tube removals occurred during the study..."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "ROBINS-I",
+    "overall_judgment": "serious",
+    "domains": [
+      {
+        "name": "Confounding",
+        "judgment": "serious",
+        "support_for_judgment": "Single-arm observational design without control group; outcomes may be influenced by disease severity, ECMO use, and concurrent anticoagulation."
+      },
+      {
+        "name": "Selection of participants",
+        "judgment": "moderate",
+        "support_for_judgment": "Eligibility criteria applied to ICU COVID-19 patients but clinician judgment used; some patients received open tracheostomy."
+      },
+      {
+        "name": "Classification of interventions",
+        "judgment": "low",
+        "support_for_judgment": "Intervention clearly described and consistently applied at a single center."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "low",
+        "support_for_judgment": "Two patients required standard PDT under apneic conditions due to edema; reported transparently."
+      },
+      {
+        "name": "Missing data",
+        "judgment": "low",
+        "support_for_judgment": "Outcomes reported for all 98 patients with stated mean follow-up."
+      },
+      {
+        "name": "Measurement of outcomes",
+        "judgment": "low",
+        "support_for_judgment": "Objective procedural and clinical outcomes collected in ICU setting."
+      },
+      {
+        "name": "Selection of reported results",
+        "judgment": "moderate",
+        "support_for_judgment": "Early outcomes reported; longer-term outcomes not available."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "COVID-19",
+      "percutaneous tracheostomy",
+      "bronchoscopy",
+      "aerosolization",
+      "ICU",
+      "mechanical ventilation"
+    ],
+    "summary_tldr": "In 98 ventilated COVID-19 patients, a novel bedside percutaneous tracheostomy technique had 96/98 procedural success, 5/98 early bleeds (1 surgical), 7/98 deaths by ~11 days, and no provider infections reported.",
+    "clinical_relevance": "Demonstrates feasibility and early safety of a modified percutaneous tracheostomy technique designed to reduce aerosolization risk to health care workers during the COVID-19 pandemic."
+  }
+}

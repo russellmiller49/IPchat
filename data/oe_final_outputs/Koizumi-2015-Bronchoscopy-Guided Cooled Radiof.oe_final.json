@@ -1,0 +1,473 @@
+{
+  "source": {
+    "document_id": "Koizumi-2015-Bronchoscopy-Guided Cooled Radiof",
+    "ingest_date": "2025-08-08T13:56:34.149995+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1159/000430825"
+  },
+  "document": {
+    "metadata": {
+      "title": "Bronchoscopy-Guided Cooled Radiofrequency Ablation as a Novel Intervention Therapy for Peripheral Lung Cancer",
+      "year": 2015,
+      "authors": [
+        "Tomonobu Koizumi",
+        "Kenji Tsushima",
+        "Tsuyoshi Tanabe",
+        "Toshihiko Agatsuma",
+        "Toshiki Yokoyama",
+        "Michiko Ito",
+        "Shintaro Kanda",
+        "Takashi Kobayashi",
+        "Masanori Yasuo"
+      ],
+      "journal": "Respiration",
+      "doi": "10.1159/000430825",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Background: Our previous animal and preliminary human studies indicated that bronchoscopy-guided cooled radio-frequency ablation (RFA) for the lung is a safe and feasible procedure without major complications. Objectives: The present study was performed to evaluate the safety, effectiveness and feasibility of computed tomography (CT)-guided bronchoscopy cooled RFA in patients with medically inoperable non-small-cell lung cancer (NSCLC). Methods: Patients with pathologically diagnosed NSCLC, who had no lymph node involvement or distant metastases (T1-2aN0M0) but were not surgical candidates because of comorbidities (e.g. synchronous multiple nodules, advanced age, cardiovascular disease, poor pulmonary function, etc.) were enrolled in the present study. The diagnosis and location between the nearest bronchus and target tumor were made by CT-guided bronchoscopy before the treatment. A total of 28 bronchoscopy-guided cooled RFA procedures were performed in 20 patients. After treatment, serial CT imaging was performed as follow-up. Results: Eleven lesions showed significant reductions in tumor size and 8 lesions showed stability, resulting in a local control rate of 82.6%. The median progression-free survival was 35 months (95% confidence interval: 22-45 months), and the 5-year overall survival was 61.5% (95% confidence interval: 36-87%). Three patients developed an acute ablation-related reaction (fever, chest pain) and required hospitalization but improved with conservative treatment. There were no other adverse events in the present study. Conclusions: CT-guided bronchoscopy cooled RFA is applicable for only highly selected subjects; however, our trial may be an alternative strategy, especially for disease local control in medically inoperable patients with stage I NSCLC.",
+      "methods": "This study was conducted according to the principles of the Declaration of Helsinki and approved by the Institutional Review Board (Shinshu University No. 847). Written informed consent was obtained. Patients with pathologically diagnosed NSCLC (clinical stage T1-2aN0M0) who were medically inoperable or refused surgery were enrolled (July 2006-April 2012). Staging used the sixth TNM edition with thin-slice CT for tumor size/bronchus relationship, contrast-enhanced chest CT for nodal assessment, and abdominal/brain CT, bone scan or FDG-PET for metastasis evaluation. A custom cooled-electrode catheter (10-mm active tip with 5 beads; internal cold-water perfusion 50 ml/min at 4 °C) was connected to a monopolar RF generator with impedance control. Output/temperature limits were 20 W/60 °C until September 2009 and 30 W/70 °C thereafter. RFA was delivered for 50 s per application under spontaneous breathing. Procedures were performed under local anesthesia with flexible bronchoscopy and low-dose CT guidance to position the catheter tip within the tumor (target impedance <300 Ω). RFA was performed 2-3 times per patient; low-dose CT was used 4-5 times focusing on the target. Follow-up CT occurred at 1, 3, 6, and 12 months, then at least every 6 months. Responses were assessed by RECIST; stable disease required at least 6 months of stability. Overall survival (OS) was measured from first RFA to death/last follow-up (patient-level). Progression-free interval (PFI) was measured from first RFA to radiologic progression (lesion-level). Kaplan-Meier methods were used.",
+      "results": "Twenty patients (9 men, 11 women; mean age 75.9 years, range 58-88) with 23 lesions were treated by CT-guided bronchoscopy cooled RFA. Histology: 12 adenocarcinomas, 6 squamous cell carcinomas, 1 undifferentiated; some had synchronous lesions. Median tumor size was 24 mm (range 12-45). Initial responses (23 lesions): partial response in 11, stable disease in 8, progressive disease in 4, giving a local tumor control rate of 82.6% (19/23). Local progression occurred in 12 lesions during follow-up; 5 lesions underwent repeat RFA. Additional therapies after progression included radiotherapy/SBRT (3 patients) and chemotherapy (1 patient). Median PFI was 35 months (95% CI 22-45). Five-year OS by Kaplan-Meier in 20 patients was 61.5% (95% CI 36-87). Six patients died: 3 from lung cancer progression (OS 27.5, 40.5, and 50 months), 2 from pneumonia unrelated to lung cancer (OS 5 and 34 months), and 1 from another malignancy (OS 23 months). Safety: no serious intra-procedural toxicities; two patients had transient chest pain during RFA leading to brief pauses. No hypoxemia, arrhythmia, bleeding, or pneumothorax occurred. An acute ablation-related reaction with radiographic consolidation plus fever and chest pain occurred in 3 patients 2-3 days post-procedure, requiring hospitalization; all improved with conservative treatment."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with pathologically confirmed stage I NSCLC (T1-2aN0M0) who were medically inoperable or refused surgery, evaluated with CT-based staging and absent nodal/distant disease.",
+      "inclusion_criteria": [
+        "Pathologically diagnosed NSCLC",
+        "Clinical stage T1-2aN0M0 per 6th TNM edition",
+        "Medically inoperable OR refused thoracic surgery",
+        "Tumor-bronchus relationship evaluable on thin-slice CT",
+        "No lymph node involvement on contrast-enhanced chest CT",
+        "No distant metastases on abdominal/brain CT, bone scan or FDG-PET"
+      ],
+      "exclusion_criteria": [
+        "Lymph node involvement",
+        "Distant metastases"
+      ]
+    },
+    "intervention": {
+      "text": "CT-guided bronchoscopy-guided cooled radiofrequency ablation (RFA)",
+      "details": "Flexible bronchoscopy under local anesthesia with low-dose CT guidance. Custom cooled-electrode catheter (10-mm active tip; 5 beads; internal 4 °C water perfusion at 50 ml/min). Monopolar RF generator with impedance control, output up to 20 W/60 °C (until Sep 2009) then 30 W/70 °C. RFA applications of 50 s each under spontaneous breathing, typically 2-3 applications per patient; current pulsing to avoid charring. Target tip placement confirmed by CT and impedance <300 Ω."
+    },
+    "comparison": {
+      "text": "None (single-arm study)",
+      "details": "No control or comparator arm; outcomes summarized descriptively and via Kaplan-Meier."
+    },
+    "outcomes": [
+      {
+        "name": "Local tumor control (PR+SD by RECIST at ≥6 months)",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Progression-free interval (lesion-level Kaplan-Meier)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Overall survival (patient-level Kaplan-Meier)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Adverse events (procedure-related complications)",
+        "type": "safety",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Single-arm interventional case series",
+    "allocation": "non-randomized",
+    "blinding": "open-label",
+    "sites_count": 1,
+    "countries": [
+      "Japan"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 20,
+      "analyzed": 20
+    },
+    "analysis_populations": [
+      {
+        "name": "Treated patients",
+        "description": "All enrolled patients who received bronchoscopy-guided cooled RFA",
+        "n": 20
+      },
+      {
+        "name": "Treated lesions",
+        "description": "All lesions treated with RFA and evaluated for response",
+        "n": 23
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "CT-guided bronchoscopy-guided cooled RFA",
+      "n_randomized": 0,
+      "n_analyzed": 20,
+      "n_completed": 20
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "local_control_recist_6m",
+      "name": "Local tumor control (PR+SD by RECIST)",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P6M",
+      "timepoint_label": "6 months",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 19,
+            "total": 23
+          }
+        }
+      ],
+      "comparison": {
+        "measure": "single_arm_proportion",
+        "est": 0.826,
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Treated lesions",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          51
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "Stable disease was also observed in 8 lesions, thus resulting in a local tumor control rate of 82.6% (19/23 lesions)."
+      }
+    },
+    {
+      "concept_id": "lesion_pfi_km_median",
+      "name": "Progression-free interval (lesion-level)",
+      "type": "time_to_event",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "NA",
+      "timepoint_label": "Median time to progression",
+      "unit": "months",
+      "unit_canonical": "month",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "median": 35,
+            "ci_lower": 22,
+            "ci_upper": 45,
+            "total": 23
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Kaplan-Meier",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Treated lesions"
+      },
+      "provenance": {
+        "pages": [
+          52
+        ],
+        "tables": [],
+        "quote": "The median PFI was 35 months (95% confidence interval: 22-45 months)."
+      }
+    },
+    {
+      "concept_id": "overall_survival_5y_km",
+      "name": "Overall survival at 5 years (Kaplan-Meier estimate)",
+      "type": "time_to_event",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P60M",
+      "timepoint_label": "60 months",
+      "unit": "proportion",
+      "unit_canonical": "proportion",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "km_estimate": 0.615,
+            "ci_lower": 0.36,
+            "ci_upper": 0.87,
+            "timepoint_months": 60,
+            "total": 20
+          }
+        }
+      ],
+      "analysis": {
+        "model": "Kaplan-Meier",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Treated patients"
+      },
+      "provenance": {
+        "pages": [
+          52
+        ],
+        "tables": [],
+        "quote": "The 5-year survival rate was 61.5% (95% confidence interval: 36-87%)."
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Lung consolidation",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Lung consolidation"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "hospitalization"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 3,
+          "patients": 3,
+          "percentage": 15,
+          "total": 20
+        }
+      ],
+      "period": "0-30 days",
+      "management": "Conservative treatment; hospitalization required; resolved",
+      "provenance": {
+        "pages": [
+          52
+        ],
+        "tables": [],
+        "quote": "Radiographic consolidation, probably induced by an acute ablation-related reaction, was observed in 3 cases... required hospitalization, but improved with conservative treatment."
+      }
+    },
+    {
+      "event_name": "Pyrexia",
+      "meddra": {
+        "soc": "General disorders and administration site conditions",
+        "pt": "Pyrexia"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "hospitalization"
+      ],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 3,
+          "patients": 3,
+          "percentage": 15,
+          "total": 20
+        }
+      ],
+      "period": "0-7 days",
+      "management": "Conservative treatment; resolved",
+      "provenance": {
+        "pages": [
+          52
+        ],
+        "tables": [],
+        "quote": "They presented fever 2-3 days after treatment and required hospitalization, but improved with conservative treatment."
+      }
+    },
+    {
+      "event_name": "Chest pain",
+      "meddra": {
+        "soc": "General disorders and administration site conditions",
+        "pt": "Chest pain"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 2,
+          "patients": 2,
+          "percentage": 10,
+          "total": 20
+        }
+      ],
+      "period": "intra-procedural",
+      "management": "Procedure paused and catheter repositioned; RFA continued without sequelae",
+      "provenance": {
+        "pages": [
+          52
+        ],
+        "tables": [],
+        "quote": "Two patients complained of weak chest pain during the treatment. In these cases, RFA was stopped immediately. We slightly drew the catheter, and RFA was continued."
+      }
+    },
+    {
+      "event_name": "Pneumothorax",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Pneumothorax"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 20
+        }
+      ],
+      "period": "0-30 days",
+      "management": "",
+      "provenance": {
+        "pages": [
+          52
+        ],
+        "tables": [],
+        "quote": "Neither bleeding nor pneumothorax occurred."
+      }
+    },
+    {
+      "event_name": "Hypoxaemia",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Hypoxaemia"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 20
+        }
+      ],
+      "period": "intra-procedural",
+      "management": "",
+      "provenance": {
+        "pages": [
+          52
+        ],
+        "tables": [],
+        "quote": "There were no specific toxicities, such as hypoxemia or arrhythmia, during CT-guided bronchoscopy cooled RFA."
+      }
+    },
+    {
+      "event_name": "Arrhythmia",
+      "meddra": {
+        "soc": "Cardiac disorders",
+        "pt": "Arrhythmia"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 20
+        }
+      ],
+      "period": "intra-procedural",
+      "management": "",
+      "provenance": {
+        "pages": [
+          52
+        ],
+        "tables": [],
+        "quote": "There were no specific toxicities, such as hypoxemia or arrhythmia, during CT-guided bronchoscopy cooled RFA."
+      }
+    },
+    {
+      "event_name": "Pulmonary haemorrhage",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Pulmonary haemorrhage"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 20
+        }
+      ],
+      "period": "0-30 days",
+      "management": "",
+      "provenance": {
+        "pages": [
+          52
+        ],
+        "tables": [],
+        "quote": "Neither bleeding nor pneumothorax occurred."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "ROBINS-I",
+    "overall_judgment": "serious",
+    "domains": [
+      {
+        "name": "Confounding",
+        "judgment": "serious",
+        "support_for_judgment": "Single-arm design without control; outcomes may be influenced by patient selection and natural history."
+      },
+      {
+        "name": "Selection of participants",
+        "judgment": "moderate",
+        "support_for_judgment": "Highly selected medically inoperable or surgery-refusing patients; inclusion applied consistently."
+      },
+      {
+        "name": "Classification of interventions",
+        "judgment": "low",
+        "support_for_judgment": "All participants received the same bronchoscopy-guided cooled RFA protocol."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "low",
+        "support_for_judgment": "Procedures followed protocol; minor intra-procedural pauses did not alter intended intervention."
+      },
+      {
+        "name": "Missing data",
+        "judgment": "low",
+        "support_for_judgment": "Outcomes reported for all treated lesions/patients with extended follow-up."
+      },
+      {
+        "name": "Measurement of outcomes",
+        "judgment": "moderate",
+        "support_for_judgment": "RECIST and CT-based assessments performed; potential assessor bias due to open-label single-arm design."
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "moderate",
+        "support_for_judgment": "Pre-specified outcomes not registered; reporting appears consistent with study aims."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "bronchoscopy-guided radiofrequency ablation",
+      "cooled RFA",
+      "non-small-cell lung cancer",
+      "medically inoperable",
+      "CT-guided bronchoscopy",
+      "stage I NSCLC"
+    ],
+    "summary_tldr": "In 20 patients (23 lesions) with medically inoperable stage I NSCLC, CT-guided bronchoscopy cooled RFA achieved 82.6% local control, median lesion-level PFI 35 months, and 5-year OS 61.5%; 3 patients had transient ablation-related reactions requiring hospitalization.",
+    "clinical_relevance": "Suggests a feasible local therapy option for highly selected medically inoperable early-stage NSCLC patients when surgery or SBRT is unsuitable."
+  }
+}

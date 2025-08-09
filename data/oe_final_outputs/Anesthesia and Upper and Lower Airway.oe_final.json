@@ -1,0 +1,99 @@
+{
+  "source": {
+    "document_id": "Anesthesia and Upper and Lower Airway",
+    "ingest_date": "2025-08-08T09:44:32.649298+00:00",
+    "trial_registration_id": null,
+    "pmid": null,
+    "doi": "10.1016/j.aan.2014.08.011"
+  },
+  "document": {
+    "metadata": {
+      "title": "Anesthesia and Upper and Lower Airway Management for Advanced Diagnostic and Therapeutic Bronchoscopy",
+      "year": 2014,
+      "authors": [
+        "Basem Abdelmalak",
+        "Sonali Sethi",
+        "Thomas R. Gildea"
+      ],
+      "journal": "Advances in Anesthesia",
+      "doi": "10.1016/j.aan.2014.08.011",
+      "pmid": null
+    },
+    "sections": {
+      "abstract": "This narrative review summarizes evolving advanced diagnostic and therapeutic bronchoscopy techniques and their anesthesia and airway management implications. Optical techniques (autofluorescence, narrow-band imaging, probe-based confocal endomicroscopy), endobronchial ultrasound (radial and linear convex probe), and electromagnetic navigation bronchoscopy are described with indications, equipment, and typical anesthesia approaches. Therapeutic interventional bronchoscopy for central airway obstruction is reviewed, including classification (intrinsic, extrinsic, mixed), immediate and delayed ablative tools, and the role and complications of airway stents. The authors emphasize that most patients undergoing these multimodality procedures are high risk; procedures are often prolonged and require precise positioning and large-bore instruments, favoring general anesthesia, close anesthesiologist-pulmonologist communication, vigilance, and preparedness.",
+      "methods": "Narrative, non-systematic review of advanced bronchoscopic technologies and related anesthetic management strategies based on clinical experience and published literature. The article describes procedural techniques, typical intraoperative considerations (airway devices, ventilation strategies), risks, and complications. No predefined protocol, study selection criteria, or quantitative synthesis was performed.",
+      "results": "No quantitative outcomes or comparative analyses are reported. The review highlights that linear convex probe EBUS for mediastinal staging often requires general anesthesia (commonly via large endotracheal tube ≥8.5 mm or supraglottic airway) and can last 120 minutes or more depending on nodal stations sampled. Radial probe EBUS and transbronchial biopsy carry pneumothorax risk, theoretically increased with positive pressure ventilation, though not definitively proven. Therapeutic bronchoscopy for malignant central airway obstruction prioritizes expeditious airway security, often via rigid bronchoscopy with mechanical debulking and adjunctive ablative modalities. Airway stents are frequently necessary for extrinsic or mixed lesions but can cause granulation tissue, secretion-related obstruction, bacterial overgrowth, and migration, necessitating future interventions."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults undergoing advanced diagnostic (EBUS, electromagnetic navigation bronchoscopy, optical imaging) or therapeutic interventional bronchoscopy (debulking, ablation, airway stenting) for lung cancer diagnosis/staging or malignant central airway obstruction.",
+      "inclusion_criteria": [
+        "Patients requiring advanced bronchoscopy for mediastinal staging, peripheral lesion sampling, or central airway obstruction management"
+      ],
+      "exclusion_criteria": [
+        "Not applicable (narrative review; no patient enrollment)"
+      ]
+    },
+    "intervention": {
+      "text": "General anesthesia and advanced airway management for multimodality bronchoscopy",
+      "details": "Use of large-bore endotracheal tube (≥8.5 mm ID) or supraglottic airway to accommodate EBUS scope and instruments; controlled ventilation; readiness for rigid bronchoscopy, jet ventilation, and hemostasis during therapeutic interventions."
+    },
+    "comparison": {
+      "text": "Moderate sedation without intubation",
+      "details": "Typically used for simpler flexible bronchoscopy and some optical diagnostics; selected centers perform EBUS or navigation transorally under moderate sedation depending on expertise and case length."
+    },
+    "outcomes": [
+      {
+        "name": "Procedural safety (hypoxemia, pneumothorax, bleeding, airway obstruction)",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Procedural success (airway patency restoration, adequate staging/tissue diagnosis)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Stent-related complications (granulation tissue, secretion obstruction, infection, migration)",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "narrative_review",
+    "allocation": "not_applicable",
+    "blinding": "not_applicable",
+    "sites_count": 0,
+    "countries": [
+      "US"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": []
+  },
+  "arms": [],
+  "outcomes_normalized": [],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "N/A",
+    "overall_judgment": "not_applicable",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "bronchoscopy",
+      "endobronchial ultrasound",
+      "electromagnetic navigation bronchoscopy",
+      "airway stents",
+      "rigid bronchoscopy",
+      "anesthesia"
+    ],
+    "summary_tldr": "Narrative review: General anesthesia is often preferred for complex, prolonged multimodality bronchoscopic procedures (e.g., EBUS staging, navigation) with detailed airway management strategies and discussion of therapeutic bronchoscopy and stent complications.",
+    "clinical_relevance": "Provides practical guidance for anesthesiologists and pulmonologists on safe airway and anesthetic management during advanced bronchoscopy in high-risk patients."
+  }
+}

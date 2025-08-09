@@ -1,0 +1,463 @@
+{
+  "source": {
+    "document_id": "Clinical trial of photodynamic therapy for per",
+    "ingest_date": "2025-08-08T10:42:40.437697+00:00",
+    "trial_registration_id": "UMIN000021501",
+    "pmid": "",
+    "doi": "10.1016/j.pdpdt.2020.101698"
+  },
+  "document": {
+    "metadata": {
+      "title": "Clinical trial of photodynamic therapy for peripheral-type lung cancers using a new laser device in a pilot study",
+      "year": 2020,
+      "authors": [
+        "Jitsuo Usuda",
+        "Tatsuya Inoue",
+        "Takaaki Tsuchida",
+        "Keishi Ohtani",
+        "Sachio Maehara",
+        "Norihiko Ikeda",
+        "Yoshinobu Ohsaki",
+        "Takaaki Sasaki",
+        "Kiyoshi Oka"
+      ],
+      "journal": "Photodiagnosis and Photodynamic Therapy",
+      "doi": "10.1016/j.pdpdt.2020.101698",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Introduction/Aim: Photodynamic therapy (PDT) involves the use of a tumor-specific photosensitizer and laser irradiation, and is one of the treatment options recommended for early centrally located lung cancers, but not yet for peripheral-type lung cancers. We developed a new laser probe, the composite-type optical fiberscope (COF), which allows accurate laser irradiation of a cancer lesion with simultaneous visualization of the lesion. In this study, we attempted a new endobronchial PDT technique using the new laser probe, and evaluated the effectiveness and feasibility of this novel PDT technique for peripheral lung cancers. Methods: This phase I study was conducted in 7 patients with peripheral lung cancers (primary tumor ≤20 mm in diameter). We performed endobronchial PDT for these patients using the new laser probe and talaporfin sodium as the photosensitizer. Results: We performed PDT for 3 patients with peripheral lung cancer using a laser dose of 50 J/cm2 at 120 mW, and confirmed the feasibility of using this dose. Then, we escalated the laser dose to 100 J/cm2 in 4 additional patients. A total of 7 patients met our inclusion criteria. Evaluation at 2 weeks and 3 months after the PDT revealed no complication such as pneumonia or pneumothorax. At the evaluation conducted 6 months later, we found CR in 3 cases and SD in the remaining 4 cases. Conclusion: PDT was found to be a feasible and non-invasive treatment modality for early peripheral-type lung cancer. In the future, PDT could become a standard treatment option for peripheral-type lung cancer.",
+      "methods": "This was a phase-I, single-arm, multicenter clinical trial at 4 hospitals in Japan (UMIN000021501). Adults ≥20 years with cytologically or histologically confirmed peripheral non-small cell lung cancer, clinical stage IA (7th TNM), lesion ≤20 mm on CT, no nodal or distant metastasis, ECOG PS 0-2, and unsuitable for or declining surgery or radiation therapy were enrolled. Talaporfin sodium (Laserphyrin) 40 mg/m2 was administered intravenously 4-6 hours prior to laser irradiation. Under general anesthesia, a guide sheath was navigated to the lesion using ENB/VBN and R-EBUS. A composite-type optical fiberscope (COF; 1.0 mm OD; 0.4 mm laser fiber; ~10,000 image fibers with 0.5 mm lens) was introduced through the guide sheath for simultaneous visualization and 664 nm diode laser irradiation at 50 J/cm2 or 100 J/cm2 at 150 mW/cm2. If the tumor cross-sectional area exceeded 1.0 cm2, multiple irradiation directions were used. Primary endpoint was the rate of grade ≥2 adverse events within 90 days (CTCAE v4). Secondary endpoints: local progression-free survival (PFS) at 90 days and 1 year, and adverse events up to 1 year. TBLB at 3 months and serial chest CT at 3, 6, 9, and 12 months assessed response and control.",
+      "results": "Seven patients (5 men, 2 women; mean age 77.1 years [72-90]; 6 adenocarcinoma, 1 squamous cell carcinoma; average lesion size 16.7 mm [13.6-20]) underwent talaporfin-PDT with the COF. The first 3 patients received 50 J/cm2 and the remaining 4 received 100 J/cm2. Ninety days after PDT, the occurrence rate of grade ≥2 adverse events was 0%. One patient had grade 1 skin photosensitivity; there were no pneumothorax, hemothorax, or pneumonia. At 3 months, 4 patients had CR and 3 had SD; at 6 months, 3 CR and 4 SD; at 1 year, 4 CR and 3 SD. Local-progression-free survival rate at 90 days and 1 year was 100%."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with peripheral-type non-small cell lung cancer, clinical stage IA, lesion ≤20 mm on CT, no nodal or distant metastasis, unsuitable for or declining surgery or radiation therapy, ECOG PS 0-2.",
+      "inclusion_criteria": [
+        "Age ≥20 years",
+        "Cytology or histology confirmed non-small cell lung cancer by transbronchial lung biopsy",
+        "Clinical stage IA (7th TNM)",
+        "Lesion diameter ≤20 mm on CT",
+        "No hilar/mediastinal lymph node metastasis",
+        "No distant metastasis",
+        "Unsuitable for or declining surgery or radiation therapy",
+        "ECOG performance status 0-2",
+        "Provided written informed consent"
+      ],
+      "exclusion_criteria": []
+    },
+    "intervention": {
+      "text": "Endobronchial photodynamic therapy with talaporfin sodium using a composite-type optical fiberscope (COF)",
+      "details": "Talaporfin sodium 40 mg/m2 IV 4-6 hours pre-irradiation; 664 nm diode laser via COF through guide sheath under general anesthesia; dose 50 J/cm2 (first 3 patients) or 100 J/cm2 (next 4 patients) at 150 mW/cm2; R-EBUS/ENB guidance; multiple directions if cross-sectional area >1.0 cm2."
+    },
+    "comparison": {
+      "text": "None (single-arm study)",
+      "details": "Descriptive feasibility and efficacy assessment without a control arm."
+    },
+    "outcomes": [
+      {
+        "name": "Rate of grade ≥2 adverse events within 90 days",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Local progression-free survival at 90 days",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Local progression-free survival at 1 year",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Complete response rate at 3 months",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Complete response rate at 6 months",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Complete response rate at 1 year",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Single-arm phase I",
+    "allocation": "nonrandomized",
+    "blinding": "open-label",
+    "sites_count": 4,
+    "countries": [
+      "Japan"
+    ],
+    "sample_size": {
+      "planned": 7,
+      "enrolled": 7,
+      "analyzed": 7
+    },
+    "analysis_populations": [
+      {
+        "name": "Safety",
+        "description": "All treated patients",
+        "n": 7
+      },
+      {
+        "name": "Efficacy",
+        "description": "All treated patients with post-baseline assessment",
+        "n": 7
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "Talaporfin-PDT using composite-type optical fiberscope (COF)",
+      "n_randomized": 7,
+      "n_analyzed": 7,
+      "n_completed": 7
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "ae_grade2plus_90d",
+      "name": "Grade ≥2 adverse events within 90 days",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P90D",
+      "timepoint_label": "90 days",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 0,
+            "total": 7
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Safety",
+        "missing_handling": "not applicable"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "Ninety days after the PDT, the occurrence rate of adverse events of grade 2 or higher severity was 0%."
+      }
+    },
+    {
+      "concept_id": "local_pfs_90d",
+      "name": "Local-progression-free at 90 days",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P90D",
+      "timepoint_label": "90 days",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 7,
+            "total": 7
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Efficacy",
+        "missing_handling": "not applicable"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "As the secondary endpoint, the local-progression-free survival rate at 90 days ... was 100%."
+      }
+    },
+    {
+      "concept_id": "local_pfs_12m",
+      "name": "Local-progression-free at 1 year",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P12M",
+      "timepoint_label": "1 year",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 7,
+            "total": 7
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Efficacy",
+        "missing_handling": "not applicable"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "As the secondary endpoint, the local-progression-free survival rate at ... 1 year after the PDT was 100%."
+      }
+    },
+    {
+      "concept_id": "cr_rate_3m",
+      "name": "Complete response at 3 months",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P3M",
+      "timepoint_label": "3 months",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 4,
+            "total": 7
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Efficacy",
+        "missing_handling": "not applicable"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [
+          "Table 1"
+        ],
+        "quote": "At 3 months after the PDT, 4 patients showed CR."
+      }
+    },
+    {
+      "concept_id": "cr_rate_6m",
+      "name": "Complete response at 6 months",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P6M",
+      "timepoint_label": "6 months",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 3,
+            "total": 7
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Efficacy",
+        "missing_handling": "not applicable"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "At the evaluation conducted 6 months later, we found CR in 3 cases and SD in the remaining 4 cases."
+      }
+    },
+    {
+      "concept_id": "cr_rate_12m",
+      "name": "Complete response at 1 year",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P12M",
+      "timepoint_label": "1 year",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 4,
+            "total": 7
+          }
+        }
+      ],
+      "analysis": {
+        "model": "descriptive",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Efficacy",
+        "missing_handling": "not applicable"
+      },
+      "provenance": {
+        "pages": [],
+        "tables": [
+          "Table 1"
+        ],
+        "quote": "At 1 year after the PDT also, CR was observed in 4 patients."
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Photosensitivity reaction",
+      "meddra": {
+        "soc": "Skin and subcutaneous tissue disorders",
+        "pt": "Photosensitivity reaction"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 1,
+          "patients": 1,
+          "percentage": 14.3,
+          "total": 7
+        }
+      ],
+      "period": "0-90 days",
+      "management": "",
+      "provenance": {
+        "pages": [],
+        "tables": [
+          "Table 1"
+        ],
+        "quote": "One patient (Case 2) showed photosensitivity; no other treatment-related complications were encountered."
+      }
+    },
+    {
+      "event_name": "Pneumothorax",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Pneumothorax"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 7
+        }
+      ],
+      "period": "0-90 days",
+      "management": "",
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "Evaluation at 2 weeks and 3 months after the PDT revealed no complication such as pneumonia or pneumothorax."
+      }
+    },
+    {
+      "event_name": "Hemothorax",
+      "meddra": {
+        "soc": "Respiratory, thoracic and mediastinal disorders",
+        "pt": "Haemothorax"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 7
+        }
+      ],
+      "period": "0-90 days",
+      "management": "",
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "There were no major complications such as pneumothorax, hemothorax or pneumonia."
+      }
+    },
+    {
+      "event_name": "Pneumonia",
+      "meddra": {
+        "soc": "Infections and infestations",
+        "pt": "Pneumonia"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 7
+        }
+      ],
+      "period": "0-90 days",
+      "management": "",
+      "provenance": {
+        "pages": [],
+        "tables": [],
+        "quote": "Evaluation at 2 weeks and 3 months after the PDT revealed no complication such as pneumonia or pneumothorax."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "ROBINS-I",
+    "overall_judgment": "serious",
+    "domains": [
+      {
+        "name": "Bias due to confounding",
+        "judgment": "serious",
+        "support_for_judgment": "Single-arm design without comparator; outcomes assessed descriptively."
+      },
+      {
+        "name": "Bias in selection of participants",
+        "judgment": "moderate",
+        "support_for_judgment": "Eligibility restricted to patients unsuitable for or declining surgery/RT; potential selection bias."
+      },
+      {
+        "name": "Bias in classification of interventions",
+        "judgment": "low",
+        "support_for_judgment": "All patients received the same PDT protocol with predefined dose-escalation."
+      },
+      {
+        "name": "Bias due to deviations from intended interventions",
+        "judgment": "low",
+        "support_for_judgment": "Protocolized dosing; no deviations reported."
+      },
+      {
+        "name": "Bias due to missing data",
+        "judgment": "low",
+        "support_for_judgment": "All 7 patients analyzed for safety and efficacy with planned follow-up."
+      },
+      {
+        "name": "Bias in measurement of outcomes",
+        "judgment": "moderate",
+        "support_for_judgment": "Open-label; outcomes included imaging/biopsy which are objective but may be subject to assessment bias."
+      },
+      {
+        "name": "Bias in selection of the reported result",
+        "judgment": "moderate",
+        "support_for_judgment": "Primary and secondary endpoints prespecified; small pilot study."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "photodynamic therapy",
+      "talaporfin",
+      "peripheral lung cancer",
+      "bronchoscopy",
+      "composite optical fiberscope",
+      "endobronchial"
+    ],
+    "summary_tldr": "In a 7-patient, single-arm phase I pilot in Japan, endobronchial talaporfin-PDT using a new 1.0 mm composite fiberscope had 0/7 grade ≥2 AEs at 90 days, local-PFS 100% at 90 days and 1 year, and CR in 4/7 at 3 months and 1 year.",
+    "clinical_relevance": "Demonstrates feasibility and safety of a minimally invasive bronchoscopic PDT approach for small peripheral NSCLC using a novel laser probe."
+  }
+}

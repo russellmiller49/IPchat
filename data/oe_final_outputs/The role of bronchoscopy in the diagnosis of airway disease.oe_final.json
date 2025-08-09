@@ -1,0 +1,102 @@
+{
+  "source": {
+    "document_id": "The role of bronchoscopy in the diagnosis of airway disease",
+    "ingest_date": "2025-08-08T16:22:41.576185+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.21037/jtd.2016.12.68"
+  },
+  "document": {
+    "metadata": {
+      "title": "The role of bronchoscopy in the diagnosis of airway disease",
+      "year": 2016,
+      "authors": [
+        "Tyler J. Paradis",
+        "Jennifer Dixon",
+        "Brandon H. Tieu"
+      ],
+      "journal": "Journal of Thoracic Disease",
+      "doi": "10.21037/jtd.2016.12.68",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Endoscopy of the airway is a valuable tool for the evaluation and management of airway disease. It can be used to evaluate many different bronchopulmonary diseases including airway foreign bodies, tumors, infectious and inflammatory conditions, airway stenosis, and bronchopulmonary hemorrhage. Traditionally, options for evaluation were limited to flexible and rigid bronchoscopy. Recently, more sophisticated technology has led to the development of endobronchial ultrasound (EBUS) and electromagnetic navigational bronchoscopy (ENB). These technological advances, combined with increasing provider experience have resulted in a higher diagnostic yield with endoscopic biopsies. This review will focus on the role of bronchoscopy, including EBUS, ENB, and rigid bronchoscopy in the diagnosis of bronchopulmonary diseases. In addition, it will cover the anesthetic considerations, equipment, diagnostic yield, and potential complications.",
+      "methods": "Narrative review of bronchoscopy techniques (flexible and rigid bronchoscopy), endobronchial ultrasound (EBUS), and electromagnetic navigational bronchoscopy (ENB), including indications, procedural considerations, diagnostic yields from cited studies, and complications. No primary data collection or meta-analysis performed.",
+      "results": "Flexible bronchoscopy is widely used for diagnostic visualization, secretion clearance, biopsy, and foreign body retrieval. Reported adverse event rates are low (bleeding approximately 0.12%, pneumothorax approximately 0.1-0.16%, mortality approximately 0-0.02%). For suspected lung cancer with visible endobronchial lesion, flexible bronchoscopy forceps biopsy has high diagnostic yield, which increases with adjunctive brushings. EBUS techniques include radial and convex probe; EBUS-TBNA demonstrates high accuracy for mediastinal lymph node sampling and can be performed with low complication rates (approximately 0-3%). Compared with mediastinoscopy, EBUS-TBNA provides comparable or superior sensitivity and accuracy for specific nodal stations and can sample N1 nodes and certain parenchymal lesions. CT-guided percutaneous lung biopsy carries higher pneumothorax risk (approximately 15%, with about 40% of those requiring chest tube) relative to endoscopic approaches. Diagnostic yield of EBUS for peripheral pulmonary lesions is influenced by lesion size (>20 mm), presence of a bronchus sign, nodule solidity, and probe position."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Patients with suspected or known bronchopulmonary diseases undergoing endoscopic evaluation and biopsy.",
+      "inclusion_criteria": [
+        "Clinical scenarios requiring airway visualization or biopsy (e.g., suspected airway tumors, foreign bodies, mediastinal or hilar lymphadenopathy, peripheral pulmonary lesions, interstitial lung disease assessment, airway trauma, hemoptysis)",
+        "Adults or pediatric patients as appropriate for scope size"
+      ],
+      "exclusion_criteria": [
+        "Not specified; relative contraindications to sedation include severe gastroesophageal reflux, aspiration risk, respiratory compromise, and extreme anxiety"
+      ]
+    },
+    "intervention": {
+      "text": "Bronchoscopic techniques (flexible bronchoscopy, rigid bronchoscopy, EBUS [radial and convex probe], ENB)",
+      "details": "Procedure-specific approaches include topical anesthesia and sedation or general anesthesia; EBUS-TBNA with 21-22G needles typically uses 3-5 passes; ventilatory strategies for rigid bronchoscopy may include jet ventilation with precautions to avoid barotrauma."
+    },
+    "comparison": {
+      "text": "Alternative diagnostic approaches",
+      "details": "Surgical mediastinoscopy for mediastinal lymph node sampling; CT-guided percutaneous biopsy for lung nodules."
+    },
+    "outcomes": [
+      {
+        "name": "Diagnostic yield/accuracy of bronchoscopic techniques",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Procedure-related complications (bleeding, hypoxia, pneumothorax, mortality)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Anesthetic and ventilatory considerations impacting safety",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Narrative review",
+    "allocation": "not_applicable",
+    "blinding": "not_applicable",
+    "sites_count": 0,
+    "countries": [],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": []
+  },
+  "arms": [],
+  "outcomes_normalized": [],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "Not applicable",
+    "overall_judgment": "not_applicable",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "bronchoscopy",
+      "flexible bronchoscopy",
+      "rigid bronchoscopy",
+      "endobronchial ultrasound",
+      "EBUS",
+      "electromagnetic navigational bronchoscopy",
+      "ENB",
+      "mediastinoscopy",
+      "lung cancer staging",
+      "peripheral pulmonary lesions"
+    ],
+    "summary_tldr": "Narrative review describing indications, techniques, yields, and complications of flexible/rigid bronchoscopy, EBUS, and ENB; EBUS-TBNA offers high accuracy for mediastinal staging with low complication rates and advantages over mediastinoscopy.",
+    "clinical_relevance": "Summarizes contemporary bronchoscopic diagnostic approaches and anesthetic considerations to guide selection between endoscopic and percutaneous/surgical diagnostics."
+  }
+}

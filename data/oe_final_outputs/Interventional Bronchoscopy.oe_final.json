@@ -1,0 +1,120 @@
+{
+  "source": {
+    "document_id": "Interventional Bronchoscopy",
+    "ingest_date": "2025-08-08T13:27:11.881581+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1164/rccm.201907-1292SO"
+  },
+  "document": {
+    "metadata": {
+      "title": "Interventional Bronchoscopy",
+      "year": 2020,
+      "authors": [
+        "Gerard J. Criner",
+        "Ralf Eberhardt",
+        "Sebastian Fernandez-Bussy",
+        "Daniela Gompelmann",
+        "Fabien Maldonado",
+        "Neal Patel",
+        "Pallav L. Shah",
+        "Dirk-Jan Slebos",
+        "Arschang Valipour",
+        "Momen M. Wahidi",
+        "Mark Weir",
+        "Felix J. Herth"
+      ],
+      "journal": "American Journal of Respiratory and Critical Care Medicine",
+      "doi": "10.1164/rccm.201907-1292SO",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "For over 150 years, bronchoscopy, especially flexible bronchoscopy, has been a mainstay for airway inspection, the diagnosis of airway lesions, therapeutic aspiration of airway secretions, and transbronchial biopsy to diagnose parenchymal lung disorders. Its utility for the diagnosis of peripheral pulmonary nodules and therapeutic treatments besides aspiration of airway secretions, however, has been limited. Challenges to the wider use of flexible bronchoscopy have included difficulty in navigating to the lung periphery, the avoidance of vasculature structures when performing diagnostic biopsies, and the ability to biopsy a lesion under direct visualization. The last 10-15 years have seen major advances in thoracic imaging, navigational platforms to direct the bronchoscopist to lung lesions, and the ability to visualize lesions during biopsy. Moreover, multiple new techniques have either become recently available or are currently being investigated to treat a broad range of airway and lung parenchymal diseases, such as asthma, emphysema, and chronic bronchitis, or to alleviate recurrent exacerbations. New bronchoscopic therapies are also being investigated to not only diagnose, but possibly treat, malignant peripheral lung nodules. As a result, flexible bronchoscopy is now able to provide a new and expanding armamentarium of diagnostic and therapeutic tools to treat patients with a variety of lung diseases. This State-of-the-Art review succinctly reviews these techniques and provides clinicians an organized approach to their role in the diagnosis and treatment of a range of lung diseases.",
+      "methods": "State-of-the-Art narrative review. The article summarizes advances in imaging, navigational platforms, and therapeutic bronchoscopic techniques for lung diseases using published studies including meta-analyses, multicenter cohorts, and device-specific reports. No formal head-to-head comparative effectiveness or cost-effectiveness analyses were performed by the authors; the review highlights that technologies have not been directly compared for diagnostic yield or cost effectiveness.",
+      "results": "Key findings summarized include: radial EBUS is widely used for real-time lesion confirmation; a large evaluation (>1,400 patients) reported specificity 1.00 and sensitivity 0.73 for lung cancer diagnosis, with yield influenced by lesion size, probe position, and fluoroscopy use. A multicenter controlled trial comparing thin bronchoscope plus rEBUS versus standard bronchoscopy plus fluoroscopy showed diagnostic yields of 49% versus 37%, not statistically significant. Combining rEBUS with ENB improves diagnostic yield over either modality alone. ENB meta-analyses report diagnostic accuracies around 70-75%; the NAVIGATE study (n=1,157) reported 94% navigation completion and a diagnostic yield of 73%. Virtual bronchoscopic navigation can achieve yields around 80% in solitary pulmonary nodules, with performance dependent on lesion size, lobar location, and the bronchus sign. Transparenchymal nodule access systems (e.g., Archimedes, TBAT) aim to reach lesions lacking a bronchus sign; yields depend on lesion size and may approach 100% when combined with rEBUS/ENB and CBCT, at the expense of increased procedure time and radiation. CT bronchoscopy and CBCT can address CT-to-body divergence and improve tool-target alignment; reported navigational and diagnostic yields include 91% and 70%, respectively, with higher yields in malignant lesions near the pleura. Therapeutic applications span emphysema (endobronchial valves, coils, thermal vapor ablation, polymeric agents), asthma (bronchial thermoplasty), chronic bronchitis (rheoplasty, cryospray, microdebrider), total lung denervation, malignant nodule ablation (radiofrequency, microwave, cryoablation, photodynamic therapy, brachytherapy, chemoinjection), and airway patency interventions (stenting, bronchoplasty, electrocautery, debridement). Complications noted across therapies include pneumothorax, exacerbations, pneumonia, granulation tissue, and bleeding."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults undergoing diagnostic or therapeutic flexible bronchoscopy for peripheral pulmonary nodules, lung cancer staging, obstructive airway diseases (asthma, COPD with emphysema or chronic bronchitis), and other airway/lung parenchymal disorders.",
+      "inclusion_criteria": [
+        "Patients with peripheral pulmonary nodules or lung lesions requiring bronchoscopic diagnosis",
+        "Patients requiring mediastinal lymph node staging",
+        "Patients with obstructive lung diseases (asthma, emphysema, chronic bronchitis) considered for interventional bronchoscopy",
+        "Patients with malignant airway or solitary pulmonary nodules being considered for bronchoscopic therapy"
+      ],
+      "exclusion_criteria": [
+        "Not specified in this narrative review"
+      ]
+    },
+    "intervention": {
+      "text": "Interventional bronchoscopy techniques",
+      "details": "Imaging and navigation (rEBUS, convex EBUS, fluoroscopy, CT, CBCT, ENB, VBN, augmented fluoroscopy, transparenchymal nodule access, ultrathin/robotic bronchoscopy) and therapeutic modalities (endobronchial valves, coils, thermal vapor ablation, polymeric agents, bronchial thermoplasty, rheoplasty, liquid nitrogen metered cryospray, microdebrider, total lung denervation, radiofrequency/microwave/cryoablation, photodynamic therapy, brachytherapy, chemoinjection, stenting, bronchoplasty, debridement)."
+    },
+    "comparison": {
+      "text": "Conventional bronchoscopy, fluoroscopy-guided techniques, or no navigation; alternative interventional modalities or standard medical therapy depending on context.",
+      "details": "Comparators vary by modality; direct head-to-head comparisons among technologies are generally lacking."
+    },
+    "outcomes": [
+      {
+        "name": "Diagnostic yield of bronchoscopic approaches for peripheral pulmonary lesions",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Sensitivity and specificity for lung cancer diagnosis",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Procedure completion and navigation success",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Adverse events (e.g., pneumothorax, bleeding, pneumonia, exacerbations)",
+        "type": "safety",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "narrative_review",
+    "allocation": "NA",
+    "blinding": "NA",
+    "sites_count": 0,
+    "countries": [],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 0,
+      "analyzed": 0
+    },
+    "analysis_populations": []
+  },
+  "arms": [],
+  "outcomes_normalized": [],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "Not applicable",
+    "overall_judgment": "not_applicable",
+    "domains": []
+  },
+  "retrieval": {
+    "keywords": [
+      "bronchoscopy",
+      "interventional bronchoscopy",
+      "radial EBUS",
+      "electromagnetic navigation bronchoscopy",
+      "virtual bronchoscopic navigation",
+      "augmented fluoroscopy",
+      "cone beam CT",
+      "transparenchymal nodule access",
+      "emphysema",
+      "asthma",
+      "chronic bronchitis",
+      "lung cancer"
+    ],
+    "summary_tldr": "Narrative review of contemporary imaging, navigation, and therapeutic interventional bronchoscopy techniques for lung lesions and obstructive lung diseases; technologies can enhance diagnostic yield and enable minimally invasive therapies, though direct comparative data are limited.",
+    "clinical_relevance": "Provides clinicians an organized overview of evolving bronchoscopic tools and techniques that may improve diagnosis and offer less invasive treatments for lung diseases."
+  }
+}

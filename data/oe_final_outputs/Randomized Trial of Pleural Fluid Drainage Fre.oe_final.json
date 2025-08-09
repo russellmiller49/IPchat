@@ -1,0 +1,250 @@
+{
+  "source": {
+    "document_id": "Randomized Trial of Pleural Fluid Drainage Fre",
+    "ingest_date": "2025-08-08T15:03:27.824215+00:00",
+    "trial_registration_id": "NCT00978939",
+    "pmid": "",
+    "doi": "10.1164/rccm.201607-1404OC"
+  },
+  "document": {
+    "metadata": {
+      "title": "Randomized Trial of Pleural Fluid Drainage Frequency in Patients with Malignant Pleural Effusions: The ASAP Trial",
+      "year": 2017,
+      "authors": [
+        "Momen M. Wahidi",
+        "Chakravarthy Reddy",
+        "Lonny Yarmus",
+        "David Feller-Kopman",
+        "Ali Musani",
+        "R. Wesley Shepherd",
+        "Hans Lee",
+        "Rabih Bechara",
+        "Carla Lamb",
+        "Scott Shofer",
+        "Kamran Mahmood",
+        "Gaetane Michaud",
+        "Jonathan Puchalski",
+        "Samaan Rafeq",
+        "Stephen M. Cattaneo",
+        "John Mullon",
+        "Steven Leh",
+        "Martin Mayse",
+        "Samantha M. Thomas",
+        "Bercedis Peterson",
+        "Richard W. Light"
+      ],
+      "journal": "American Journal of Respiratory and Critical Care Medicine",
+      "doi": "10.1164/rccm.201607-1404OC",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Rationale: Patients with malignant pleural effusions have significant dyspnea and shortened life expectancy. Indwelling pleural catheters allow patients to drain pleural fluid at home and can lead to autopleurodesis. The optimal drainage frequency to achieve autopleurodesis and freedom from catheter has not been determined. Objectives: To determine whether an aggressive daily drainage strategy is superior to the current standard every other day drainage of pleural fluid in achieving autopleurodesis. Methods: Patients were randomized to either an aggressive drainage (daily drainage; n = 73) or standard drainage (every other day drainage; n = 76) of pleural fluid via a tunneled pleural catheter. Measurements and Main Results: The primary outcome was the incidence of autopleurodesis following the placement of the indwelling pleural catheters. The rate of autopleurodesis, defined as complete or partial response based on symptomatic and radiographic changes, was greater in the aggressive drainage arm than the standard drainage arm (47% vs. 24%, respectively; P = 0.003). Median time to autopleurodesis was shorter in the aggressive arm (54 d; 95% confidence interval, 34-83) as compared with the standard arm (90 d; 95% confidence interval, 70 to nonestimable). Rate of adverse events, quality of life, and patient satisfaction were not significantly different between the two arms. Conclusions: Among patients with malignant pleural effusion, daily drainage of pleural fluid via an indwelling pleural catheter led to a higher rate of autopleurodesis and faster time to liberty from catheter. Clinical trial registered with www.clinicaltrials.gov (NCT 00978939).",
+      "methods": "Randomized, single-blinded, phase IV, multicenter trial at 12 U.S. centers (2009-2013). Adults with symptomatic recurrent malignant pleural effusion and documented malignant involvement (by cytology or biopsy) or recurrent effusion with no other cause were eligible. Key exclusions included life expectancy <30 days (KPS <30), trapped lung, loculated effusion, prior ipsilateral pleurodesis/surgery, chylothorax, pleural infection, inability to perform home drainage, uncorrectable coagulopathy, skin infection at insertion site, and pregnancy. Patients were randomized (block randomization stratified by center) to aggressive daily drainage (up to 1 L/day) vs standard every-other-day drainage (up to 1 L) using PleurX catheter vacuum bottles. Drainage stopped with cessation of flow or symptoms (cough, dyspnea, chest tightness/pain). Chest radiographs were independently scored by treating physicians and by a blinded pulmonologist (0-5 effusion scale). Autopleurodesis required ≤50 ml on three consecutive drainages, appropriate radiographic score (CR 0-1, PR 2-5), and lack of symptoms. Catheter dysfunction was distinguished from autopleurodesis via saline flush and, if needed, intraluminal alteplase. Secondary endpoints included time to autopleurodesis (TTAP), KPS, SF-36, satisfaction, and adverse events. Analyses used chi-square test of proportions (one-sided alpha 0.025) for the primary outcome; TTAP compared by log-rank test. SAS 9.3 used for analyses.",
+      "results": "Patients were randomized to aggressive daily drainage (n = 73) or standard every-other-day drainage (n = 76). The primary endpoint of autopleurodesis (CR or PR) by 12 weeks occurred in 34/73 (47%) vs 18/76 (24%); difference 0.23 (95% CI 0.08-0.38); P = 0.003. Complete response occurred in 22/73 (30%) vs 12/76 (16%); difference 0.14 (95% CI 0.01-0.28); P = 0.037. Median TTAP was 54 days (95% CI 34-83) in the aggressive arm vs 90 days (95% CI 70 to nonestimable) in the standard arm. Final outcomes by 12 weeks included CR 22/73 (30%) vs 12/76 (16%), PR 12/73 (16%) vs 6/76 (8%), no response 12/73 (16%) vs 10/76 (13%), inability to complete 9/73 (12%) vs 22/76 (29%), and death before 12 weeks 18/73 (25%) vs 26/76 (34%). Adverse event rates, quality of life, and patient satisfaction did not differ significantly between arms."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults with symptomatic recurrent malignant pleural effusion requiring indwelling pleural catheter management.",
+      "inclusion_criteria": [
+        "Age ≥18 years",
+        "Known malignancy with malignant pleural effusion confirmed by cytology or pleural biopsy OR recurrent pleural effusion with no other identifiable cause",
+        "Symptomatic from effusion (dyspnea, cough, or chest pain)",
+        "Symptomatic improvement after therapeutic thoracentesis",
+        "Symptom recurrence with effusion recurrence after thoracentesis"
+      ],
+      "exclusion_criteria": [
+        "Projected life expectancy <30 days (KPS <30)",
+        "Radiographic trapped lung",
+        "Loculated pleural effusion",
+        "Previous surgery or attempted pleurodesis on the affected side",
+        "Chylothorax",
+        "Pleural infection",
+        "Inability to perform home drainage",
+        "Uncorrectable bleeding disorder",
+        "Skin infection at intended insertion site",
+        "Pregnancy"
+      ]
+    },
+    "intervention": {
+      "text": "Aggressive daily pleural fluid drainage via indwelling pleural catheter",
+      "details": "Home drainage using PleurX vacuum bottles, up to 1 L per session, performed daily; drainage paused with cessation of flow or symptoms."
+    },
+    "comparison": {
+      "text": "Standard every-other-day pleural fluid drainage via indwelling pleural catheter",
+      "details": "Home drainage using PleurX vacuum bottles, up to 1 L per session, performed every other day; drainage paused with cessation of flow or symptoms."
+    },
+    "outcomes": [
+      {
+        "name": "Autopleurodesis (complete or partial response) by 12 weeks",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Time to autopleurodesis (days)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Quality of life (SF-36)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Karnofsky Performance Status",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Adverse events",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "RCT",
+    "allocation": "randomized",
+    "blinding": "single-blind",
+    "sites_count": 12,
+    "countries": [
+      "US"
+    ],
+    "sample_size": {
+      "planned": 150,
+      "enrolled": 149,
+      "analyzed": 149
+    },
+    "analysis_populations": [
+      {
+        "name": "ITT",
+        "description": "All randomized participants analyzed by assigned group",
+        "n": 149
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "intervention",
+      "name": "Aggressive drainage (daily up to 1 L via IPC)",
+      "n_randomized": 73,
+      "n_analyzed": 73,
+      "n_completed": 46
+    },
+    {
+      "arm_id": "control",
+      "name": "Standard drainage (every other day up to 1 L via IPC)",
+      "n_randomized": 76,
+      "n_analyzed": 76,
+      "n_completed": 28
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "autopleurodesis_cr_or_pr_12w",
+      "name": "Autopleurodesis (complete or partial response) by 12 weeks",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P12W",
+      "timepoint_label": "12 weeks",
+      "groups": [
+        {
+          "arm_id": "intervention",
+          "raw": {
+            "events": 34,
+            "total": 73
+          }
+        },
+        {
+          "arm_id": "control",
+          "raw": {
+            "events": 18,
+            "total": 76
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "control",
+        "measure": "risk_difference",
+        "est": 0.23,
+        "ci_lower": 0.08,
+        "ci_upper": 0.38,
+        "ci_level": 0.95,
+        "p_value": 0.003,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Chi-square test of proportions",
+        "adjusted": false,
+        "covariates": [],
+        "population": "ITT",
+        "missing_handling": "All randomized included in denominators; participants without CR/PR counted as non-responders."
+      },
+      "provenance": {
+        "pages": [
+          1052
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Complete or partial response, n (%): 34 (47) vs 18 (24); 0.23 (0.08-0.38); 0.003"
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 1.967
+        },
+        "odds_ratio": {
+          "est": 2.809
+        },
+        "arr": 0.229,
+        "nnt": 4.4
+      }
+    }
+  ],
+  "safety_normalized": [],
+  "risk_of_bias": {
+    "tool": "RoB 2",
+    "overall_judgment": "some concerns",
+    "domains": [
+      {
+        "name": "Randomization process",
+        "judgment": "low",
+        "support_for_judgment": "Centralized block randomization stratified by center."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "some concerns",
+        "support_for_judgment": "Participants and treating clinicians unblinded; adherence to drainage schedule could be influenced."
+      },
+      {
+        "name": "Missing outcome data",
+        "judgment": "low",
+        "support_for_judgment": "Primary analysis used all randomized with non-responders including deaths and early withdrawals."
+      },
+      {
+        "name": "Measurement of the outcome",
+        "judgment": "some concerns",
+        "support_for_judgment": "Primary outcome incorporated symptoms; however, blinded radiographic review mitigated bias."
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "low",
+        "support_for_judgment": "Outcomes and analysis plan prespecified; results reported for primary and key secondary endpoints."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "malignant pleural effusion",
+      "indwelling pleural catheter",
+      "pleurodesis",
+      "drainage frequency",
+      "autopleurodesis",
+      "randomized trial"
+    ],
+    "summary_tldr": "Daily IPC drainage increased autopleurodesis 34/73 (47%) vs 18/76 (24%) at 12 weeks and shortened median time to autopleurodesis (54 vs 90 days).",
+    "clinical_relevance": "Supports daily home drainage via IPC to expedite autopleurodesis and earlier catheter freedom without increasing adverse events."
+  }
+}

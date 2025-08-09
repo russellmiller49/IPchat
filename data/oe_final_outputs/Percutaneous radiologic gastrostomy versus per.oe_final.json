@@ -1,0 +1,830 @@
+{
+  "source": {
+    "document_id": "Percutaneous radiologic gastrostomy versus per",
+    "ingest_date": "2025-08-08T14:50:30.485498+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1016/j.ejrad.2005.02.007"
+  },
+  "document": {
+    "metadata": {
+      "title": "Percutaneous radiologic gastrostomy versus percutaneous endoscopic gastrostomy: A comparison of indications, complications and outcomes in 370 patients",
+      "year": 2005,
+      "authors": [
+        "Anne M. Silas",
+        "Lindsay F. Pearce",
+        "Lisa S. Lestina",
+        "Margaret R. Grove",
+        "Anna Tosteson",
+        "Wendy D. Manganiello",
+        "Michael A. Bettmann",
+        "Stuart R. Gordon"
+      ],
+      "journal": "European Journal of Radiology",
+      "doi": "10.1016/j.ejrad.2005.02.007",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Objective: Percutaneous access to the stomach can be achieved by endoscopic or fluoroscopic methods. Our objective was to compare indications, complications, efficacy and outcomes of these two techniques. Methods: Records of 370 patients with feeding tubes placed either endoscopically by gastroenterology, or fluoroscopically by radiology, at our university-based tertiary care center over a 54-month period were reviewed. Results: 177 gastrostomies were placed endoscopically and 193 fluoroscopically. Nutrition was the most common indication in each group (94 and 92%), but the most common underlying diagnosis was neurologic impairment in the endoscopic group (n = 89, 50%) and malignancy in the fluoroscopic group (n = 134, 69%) (p < 0.001). Complications in the first 30 days were more common with fluoroscopic placement (23% versus 11%, p = 0.002), with infection most frequent. Correlates of late complications were inpatient status (OR 0.26, 95% CI: 0.13-0.51) and a diagnosis of malignancy (OR 2.2, 95% CI: 1.03-4.84). Average follow-up time was 108 days in the fluoroscopic group and 174 days in the endoscopic group. Conclusions: Both endoscopic and fluoroscopic gastrostomy tube placement are safe and effective. Outpatient status was associated with greater early and late complication rates; minor complications such as infection were greater in the fluoroscopic group, while malignancy was associated with late complications.",
+      "methods": "Retrospective single-center study of consecutive patients undergoing percutaneous gastrostomy placement from February 1997 to August 2001. A total of 193 gastrostomy tubes were placed fluoroscopically (PRG) by radiology and 177 endoscopically (PEG) by gastroenterology. Data were abstracted from electronic and paper medical records and supplemented by telephone follow-up with patients, next-of-kin, and primary care providers. Complications were classified as early (≤30 days) or late (>30 days), and as major (requiring surgery or hospitalization, causing permanent sequelae, or death) or minor (requiring minor/no treatment without permanent sequelae). PRG technique used conscious sedation, T-fastener gastropexy, and no routine prophylactic antibiotics; PEG used the pull technique with prophylactic cefotetan 1 g IV. Statistical comparisons used chi-square tests and t-tests; multivariable logistic regression identified correlates of early and late complications.",
+      "results": "Of 370 patients, 177 received PEG and 193 received PRG. Mean age was 68 ± 15 (PEG) versus 63 ± 14 (PRG). Male sex was 56.5% (PEG) and 59.1% (PRG). Indications were predominantly nutrition (PEG 94.4%, PRG 91.7%). Dysphagia was more common in PEG (67.8% vs 45.6%, p < 0.001); malignancy was more common in PRG (69.4% vs 23.2%, p < 0.001). Inpatient status was more frequent for PEG (91.0% vs 68.9%, p < 0.001). Early complications occurred in 19/177 (10.8%) PEG vs 44/193 (22.8%) PRG (p = 0.038), with early infections in 3/177 vs 14/193 (p = 0.012). Late complications occurred in 17/177 (10.1%) PEG vs 46/193 (23.8%) PRG (p = 0.002), with higher late tube dislodgement (2/177 vs 12/193, p = 0.012) and leakage (1/177 vs 10/193, p = 0.011) in PRG. Major complications: early 2 PEG vs 3 PRG; late 0 PEG vs 1 PRG. No procedure-attributable deaths; mortality reported as 8/177 (4.5%) vs 6/193 (3.1%) within 7 days in table. Logistic regression found outpatient status associated with higher early and late complications, and malignancy associated with late complications (OR 2.2, 95% CI 1.03-4.84). Follow-up averaged 174 days (PEG) and 108 days (PRG)."
+    }
+  },
+  "pico": {
+    "population": {
+      "text": "Adults undergoing percutaneous gastrostomy placement at a single tertiary academic center between 1997 and 2001.",
+      "inclusion_criteria": [
+        "Patients with gastrostomy tubes placed endoscopically (PEG) or fluoroscopically (PRG) during the study period",
+        "Availability of medical records and/or telephone follow-up"
+      ],
+      "exclusion_criteria": [
+        "Contraindications to PRG included ascites, intra-abdominal tumor displacing the stomach, or altered gastric anatomy due to prior resection or stapling",
+        "Patients not receiving PEG or PRG at the center during the study window"
+      ]
+    },
+    "intervention": {
+      "text": "Percutaneous radiologic gastrostomy (PRG)",
+      "details": "Fluoroscopic placement with gastric insufflation (effervescent crystals or nasogastric catheter), 2-3 T-fastener gastropexy sutures, pigtail locking catheter; local anesthesia with conscious sedation (midazolam, fentanyl). No routine prophylactic antibiotics. Feeding started after 24 h."
+    },
+    "comparison": {
+      "text": "Percutaneous endoscopic gastrostomy (PEG)",
+      "details": "Pull technique with endoscopic transillumination, local anesthesia, prophylactic cefotetan 1 g IV, external bolster securing. Feeding started after 24 h."
+    },
+    "outcomes": [
+      {
+        "name": "Early complications (≤30 days) overall",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Late complications (>30 days) overall",
+        "type": "primary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Early infection",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Late tube fell/pulled out (inadvertent removal)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Late leakage",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Major complications (early and late)",
+        "type": "secondary",
+        "umls_cui": ""
+      },
+      {
+        "name": "Mortality within 7 days",
+        "type": "secondary",
+        "umls_cui": ""
+      }
+    ]
+  },
+  "design": {
+    "study_type": "Retrospective cohort",
+    "allocation": "non-randomized",
+    "blinding": "none",
+    "sites_count": 1,
+    "countries": [
+      "US"
+    ],
+    "sample_size": {
+      "planned": 0,
+      "enrolled": 370,
+      "analyzed": 370
+    },
+    "analysis_populations": [
+      {
+        "name": "Full cohort",
+        "description": "All patients with PEG or PRG placed during study period",
+        "n": 370
+      }
+    ]
+  },
+  "arms": [
+    {
+      "arm_id": "prg",
+      "name": "Percutaneous radiologic gastrostomy (PRG)",
+      "n_randomized": 193,
+      "n_analyzed": 193,
+      "n_completed": 193
+    },
+    {
+      "arm_id": "peg",
+      "name": "Percutaneous endoscopic gastrostomy (PEG)",
+      "n_randomized": 177,
+      "n_analyzed": 177,
+      "n_completed": 177
+    }
+  ],
+  "outcomes_normalized": [
+    {
+      "concept_id": "early_complications_overall_30d",
+      "name": "Any early complication within 30 days",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P30D",
+      "timepoint_label": "within 30 days",
+      "groups": [
+        {
+          "arm_id": "peg",
+          "raw": {
+            "events": 19,
+            "total": 177
+          }
+        },
+        {
+          "arm_id": "prg",
+          "raw": {
+            "events": 44,
+            "total": 193
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "peg",
+        "p_value": 0.038,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Chi-square test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Full cohort",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          87,
+          88
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Early complications overall: 19/177 (10.8%) PEG vs 44/193 (22.8%) PRG; p = 0.038."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.471
+        },
+        "odds_ratio": {
+          "est": 0.407
+        },
+        "arr": -0.121,
+        "nnh": 8.3
+      }
+    },
+    {
+      "concept_id": "late_complications_overall_gt30d",
+      "name": "Any late complication after 30 days",
+      "type": "binary",
+      "outcome_type": "primary",
+      "timepoint_iso8601": "P31D",
+      "timepoint_label": "after 30 days",
+      "groups": [
+        {
+          "arm_id": "peg",
+          "raw": {
+            "events": 17,
+            "total": 177
+          }
+        },
+        {
+          "arm_id": "prg",
+          "raw": {
+            "events": 46,
+            "total": 193
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "peg",
+        "p_value": 0.002,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Chi-square test",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Full cohort",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          87,
+          88
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Late complications overall: 17/177 (10.1%) PEG vs 46/193 (23.8%) PRG; p = 0.002."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.403
+        },
+        "odds_ratio": {
+          "est": 0.34
+        },
+        "arr": -0.142,
+        "nnh": 7.0
+      }
+    },
+    {
+      "concept_id": "early_infection_30d",
+      "name": "Early peristomal infection within 30 days (requiring oral antibiotics)",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P30D",
+      "timepoint_label": "within 30 days",
+      "groups": [
+        {
+          "arm_id": "peg",
+          "raw": {
+            "events": 3,
+            "total": 177
+          }
+        },
+        {
+          "arm_id": "prg",
+          "raw": {
+            "events": 14,
+            "total": 193
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "peg",
+        "p_value": 0.012,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Chi-square test (Fisher's exact when needed)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Full cohort",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          87,
+          88
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Early infection: 3/177 (1.7%) PEG vs 14/193 (7.3%) PRG; p = 0.012."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.234
+        },
+        "odds_ratio": {
+          "est": 0.22
+        },
+        "arr": -0.056,
+        "nnh": 18.0
+      }
+    },
+    {
+      "concept_id": "late_tube_displacement_gt30d",
+      "name": "Late inadvertent tube removal (fell/pulled out) after 30 days",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P31D",
+      "timepoint_label": "after 30 days",
+      "groups": [
+        {
+          "arm_id": "peg",
+          "raw": {
+            "events": 2,
+            "total": 177
+          }
+        },
+        {
+          "arm_id": "prg",
+          "raw": {
+            "events": 12,
+            "total": 193
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "peg",
+        "p_value": 0.012,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Chi-square test (Fisher's exact when needed)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Full cohort",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          87,
+          88
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Late tube fell/pulled out: 2/177 (1.1%) PEG vs 12/193 (6.2%) PRG; p = 0.012."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.182
+        },
+        "odds_ratio": {
+          "est": 0.172
+        },
+        "arr": -0.051,
+        "nnh": 19.7
+      }
+    },
+    {
+      "concept_id": "late_leakage_gt30d",
+      "name": "Late leakage after 30 days",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P31D",
+      "timepoint_label": "after 30 days",
+      "groups": [
+        {
+          "arm_id": "peg",
+          "raw": {
+            "events": 1,
+            "total": 177
+          }
+        },
+        {
+          "arm_id": "prg",
+          "raw": {
+            "events": 10,
+            "total": 193
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "peg",
+        "p_value": 0.011,
+        "p_operator": "=",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Chi-square test (Fisher's exact when needed)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Full cohort",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          87,
+          88
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Late leakage: 1/177 (0.6%) PEG vs 10/193 (5.2%) PRG; p = 0.011."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.109
+        },
+        "odds_ratio": {
+          "est": 0.104
+        },
+        "arr": -0.046,
+        "nnh": 21.7
+      }
+    },
+    {
+      "concept_id": "major_complications_early_30d",
+      "name": "Major complications within 30 days",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P30D",
+      "timepoint_label": "within 30 days",
+      "groups": [
+        {
+          "arm_id": "peg",
+          "raw": {
+            "events": 2,
+            "total": 177
+          }
+        },
+        {
+          "arm_id": "prg",
+          "raw": {
+            "events": 3,
+            "total": 193
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "peg",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive; between-group comparison by chi-square (p-value not reported)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Full cohort",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          86,
+          87
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Major complications: early 2 (1.1%) PEG vs 3 (1.6%) PRG."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.727
+        },
+        "odds_ratio": {
+          "est": 0.724
+        },
+        "arr": -0.004,
+        "nnh": 235.6
+      }
+    },
+    {
+      "concept_id": "major_complications_late_gt30d",
+      "name": "Major complications after 30 days",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P31D",
+      "timepoint_label": "after 30 days",
+      "groups": [
+        {
+          "arm_id": "peg",
+          "raw": {
+            "events": 0,
+            "total": 177
+          }
+        },
+        {
+          "arm_id": "prg",
+          "raw": {
+            "events": 1,
+            "total": 193
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "peg",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive; between-group comparison by chi-square (p-value not reported)",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Full cohort",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          86
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "The single late major complication occurred in a PRG patient four months after tube removal."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 0.0
+        },
+        "odds_ratio": {
+          "est": 0.0
+        },
+        "arr": -0.005,
+        "nnh": 193.0
+      }
+    },
+    {
+      "concept_id": "mortality_within_7d",
+      "name": "Mortality within 7 days",
+      "type": "binary",
+      "outcome_type": "secondary",
+      "timepoint_iso8601": "P7D",
+      "timepoint_label": "within 7 days",
+      "groups": [
+        {
+          "arm_id": "peg",
+          "raw": {
+            "events": 8,
+            "total": 177
+          }
+        },
+        {
+          "arm_id": "prg",
+          "raw": {
+            "events": 6,
+            "total": 193
+          }
+        }
+      ],
+      "comparison": {
+        "ref_arm_id": "peg",
+        "adjusted": false
+      },
+      "analysis": {
+        "model": "Descriptive; between-group comparison not reported",
+        "adjusted": false,
+        "covariates": [],
+        "population": "Full cohort",
+        "missing_handling": "Not reported"
+      },
+      "provenance": {
+        "pages": [
+          87,
+          88
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "table_number": 2,
+        "quote": "Mortality within 7 days: 8/177 (4.5%) PEG vs 6/193 (3.1%) PRG."
+      },
+      "derived": {
+        "risk_ratio": {
+          "est": 1.454
+        },
+        "odds_ratio": {
+          "est": 1.475
+        },
+        "arr": 0.014,
+        "nnt": 70.9
+      }
+    }
+  ],
+  "safety_normalized": [
+    {
+      "event_name": "Stoma site infection (early, minor)",
+      "meddra": {
+        "soc": "Infections and infestations",
+        "pt": "Stoma site infection"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "peg",
+          "events": 3,
+          "patients": 3,
+          "percentage": 1.7,
+          "total": 177
+        },
+        {
+          "arm_id": "prg",
+          "events": 14,
+          "patients": 14,
+          "percentage": 7.3,
+          "total": 193
+        }
+      ],
+      "period": "0-30 days",
+      "management": "Oral antibiotics; no surgical intervention",
+      "provenance": {
+        "pages": [
+          87,
+          88
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "Early infection: 3/177 (1.7%) PEG vs 14/193 (7.3%) PRG; p = 0.012."
+      }
+    },
+    {
+      "event_name": "Device dislocation (late; tube fell/pulled out)",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Device dislocation"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "peg",
+          "events": 2,
+          "patients": 2,
+          "percentage": 1.1,
+          "total": 177
+        },
+        {
+          "arm_id": "prg",
+          "events": 12,
+          "patients": 12,
+          "percentage": 6.2,
+          "total": 193
+        }
+      ],
+      "period": ">30 days",
+      "management": "Tube replacement by healthcare provider",
+      "provenance": {
+        "pages": [
+          87,
+          88
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "Late tube fell/pulled out: 2/177 (1.1%) PEG vs 12/193 (6.2%) PRG; p = 0.012."
+      }
+    },
+    {
+      "event_name": "Stoma leakage (late, minor)",
+      "meddra": {
+        "soc": "Gastrointestinal disorders",
+        "pt": "Stoma leakage"
+      },
+      "serious": false,
+      "seriousness_criteria": [],
+      "groups": [
+        {
+          "arm_id": "peg",
+          "events": 1,
+          "patients": 1,
+          "percentage": 0.6,
+          "total": 177
+        },
+        {
+          "arm_id": "prg",
+          "events": 10,
+          "patients": 10,
+          "percentage": 5.2,
+          "total": 193
+        }
+      ],
+      "period": ">30 days",
+      "management": "Local treatment and care",
+      "provenance": {
+        "pages": [
+          87,
+          88
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "Late leakage: 1/177 (0.6%) PEG vs 10/193 (5.2%) PRG; p = 0.011."
+      }
+    },
+    {
+      "event_name": "Procedural complication (serious; composite major early)",
+      "meddra": {
+        "soc": "Injury, poisoning and procedural complications",
+        "pt": "Procedural complication"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "hospitalization",
+        "surgery"
+      ],
+      "groups": [
+        {
+          "arm_id": "peg",
+          "events": 2,
+          "patients": 2,
+          "percentage": 1.1,
+          "total": 177
+        },
+        {
+          "arm_id": "prg",
+          "events": 3,
+          "patients": 3,
+          "percentage": 1.6,
+          "total": 193
+        }
+      ],
+      "period": "0-30 days",
+      "management": "Includes cases requiring surgical repair, IV antibiotics, hemodynamic support as described",
+      "provenance": {
+        "pages": [
+          86,
+          87
+        ],
+        "tables": [
+          "Table 2"
+        ],
+        "quote": "Major complications occurred early in 2 PEG and 3 PRG patients; narrative details include surgical repair for gastric perforation and hospitalization for extensive cellulitis."
+      }
+    },
+    {
+      "event_name": "Hepatic injury due to gastrostomy tract (serious; late)",
+      "meddra": {
+        "soc": "Hepatobiliary disorders",
+        "pt": "Liver injury"
+      },
+      "serious": true,
+      "seriousness_criteria": [
+        "surgery"
+      ],
+      "groups": [
+        {
+          "arm_id": "peg",
+          "events": 0,
+          "patients": 0,
+          "percentage": 0,
+          "total": 177
+        },
+        {
+          "arm_id": "prg",
+          "events": 1,
+          "patients": 1,
+          "percentage": 0.5,
+          "total": 193
+        }
+      ],
+      "period": ">30 days",
+      "management": "Surgical excision of tract and oversewing of fistula; hematoma evacuation",
+      "provenance": {
+        "pages": [
+          86
+        ],
+        "tables": [],
+        "quote": "The single late major complication occurred in a PRG patient: gastrostomy tract passed through the left lobe of the liver; tract excised, hematoma evacuated, fistula oversewn."
+      }
+    }
+  ],
+  "risk_of_bias": {
+    "tool": "ROBINS-I",
+    "overall_judgment": "serious",
+    "domains": [
+      {
+        "name": "Confounding",
+        "judgment": "serious",
+        "support_for_judgment": "Non-randomized retrospective comparison with baseline imbalances (e.g., malignancy more common in PRG; inpatient status differed)."
+      },
+      {
+        "name": "Selection of participants",
+        "judgment": "moderate",
+        "support_for_judgment": "Consecutive single-center cohort; inclusion based on receipt of PEG or PRG."
+      },
+      {
+        "name": "Classification of interventions",
+        "judgment": "low",
+        "support_for_judgment": "Intervention modality (PEG vs PRG) clearly recorded; all attempts technically successful."
+      },
+      {
+        "name": "Deviations from intended interventions",
+        "judgment": "low",
+        "support_for_judgment": "No indication of systematic deviations."
+      },
+      {
+        "name": "Missing data",
+        "judgment": "moderate",
+        "support_for_judgment": "Follow-up durations differed between groups (PEG 174 days vs PRG 108 days)."
+      },
+      {
+        "name": "Measurement of outcomes",
+        "judgment": "moderate",
+        "support_for_judgment": "Outcomes from records and phone follow-up; potential detection/reporting bias."
+      },
+      {
+        "name": "Selection of the reported result",
+        "judgment": "low",
+        "support_for_judgment": "Predefined early/late, major/minor categories with tabulated counts."
+      }
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "percutaneous endoscopic gastrostomy",
+      "PEG",
+      "percutaneous radiologic gastrostomy",
+      "PRG",
+      "complications",
+      "infection",
+      "gastrostomy"
+    ],
+    "summary_tldr": "In a single-center retrospective cohort (PEG n=177, PRG n=193), early and late complications were more frequent after PRG, driven by higher minor infections, tube dislodgement, and leakage; major complications were uncommon and similar between groups.",
+    "clinical_relevance": "Findings inform choice of gastrostomy technique and aftercare, highlighting higher minor complication rates with fluoroscopic PRG versus endoscopic PEG."
+  }
+}

@@ -171,15 +171,16 @@ def _cached_answer(system_prompt: str, user_prompt: str, model: str) -> str:
             {"role": "system", "content": system_prompt},
             {"role": "user", "content": user_prompt},
         ],
-        "temperature": 0.2,
         "timeout": 30,
     }
     
-    # GPT-5 and newer models use max_completion_tokens
+    # GPT-5 and newer models have different parameters
     if "gpt-5" in model or "o1" in model:
         completion_params["max_completion_tokens"] = 900
+        # GPT-5 only supports default temperature (1)
     else:
         completion_params["max_tokens"] = 900
+        completion_params["temperature"] = 0.2
     
     resp = client.chat.completions.create(**completion_params)
     return resp.choices[0].message.content

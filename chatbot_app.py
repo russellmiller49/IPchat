@@ -164,16 +164,24 @@ def get_chunk_text(chunk_id: str) -> str:
 
 @lru_cache(maxsize=256)
 def _cached_answer(system_prompt: str, user_prompt: str, model: str) -> str:
-    resp = client.chat.completions.create(
-        model=model,
-        messages=[
+    # Use appropriate parameter based on model
+    completion_params = {
+        "model": model,
+        "messages": [
             {"role": "system", "content": system_prompt},
             {"role": "user", "content": user_prompt},
         ],
-        temperature=0.2,
-        max_tokens=900,
-        timeout=30,
-    )
+        "temperature": 0.2,
+        "timeout": 30,
+    }
+    
+    # GPT-5 and newer models use max_completion_tokens
+    if "gpt-5" in model or "o1" in model:
+        completion_params["max_completion_tokens"] = 900
+    else:
+        completion_params["max_tokens"] = 900
+    
+    resp = client.chat.completions.create(**completion_params)
     return resp.choices[0].message.content
 
 

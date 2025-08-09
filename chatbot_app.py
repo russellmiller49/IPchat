@@ -178,12 +178,25 @@ def _cached_answer(system_prompt: str, user_prompt: str, model: str) -> str:
     if "gpt-5" in model or "o1" in model:
         completion_params["max_completion_tokens"] = 900
         # GPT-5 only supports default temperature (1)
+        # Note: GPT-5 may not exist yet, falling back to gpt-4o if needed
     else:
         completion_params["max_tokens"] = 900
         completion_params["temperature"] = 0.2
     
-    resp = client.chat.completions.create(**completion_params)
-    return resp.choices[0].message.content
+    try:
+        resp = client.chat.completions.create(**completion_params)
+        return resp.choices[0].message.content
+    except Exception as e:
+        # If GPT-5 fails, try with GPT-4o
+        if "gpt-5" in model:
+            print(f"GPT-5 failed ({e}), falling back to gpt-4o-2024-08-06")
+            completion_params["model"] = "gpt-4o-2024-08-06"
+            completion_params["max_tokens"] = 900
+            completion_params.pop("max_completion_tokens", None)
+            completion_params["temperature"] = 0.2
+            resp = client.chat.completions.create(**completion_params)
+            return resp.choices[0].message.content
+        raise
 
 
 def generate_answer(query: str, context: List[Dict]) -> str:
@@ -257,7 +270,13 @@ if prompt := st.chat_input("Ask about interventional pulmonology research..."):
         with st.spinner("Generating answer..."):
             answer = generate_answer(prompt, search_results)
 
-        st.markdown(answer)
+        # Only show answer if it's not an error
+        if answer and not answer.startswith("Error"):
+            st.markdown(answer)
+        else:
+            st.error(answer if answer else "No answer generated. Please try again.")
+            # Still show sources even if answer generation failed
+            st.info("However, I found these relevant sources for your query:")
 
         # Collect sources from top results
         doc_ids = list({r.get("document_id", "Unknown") for r in search_results[:5]})
@@ -266,7 +285,7 @@ if prompt := st.chat_input("Ask about interventional pulmonology research..."):
         # Save assistant message
         st.session_state.messages.append({
             "role": "assistant",
-            "content": answer,
+            "content": answer if answer else "Failed to generate answer, but sources are available below.",
             "sources": sources
         })
 

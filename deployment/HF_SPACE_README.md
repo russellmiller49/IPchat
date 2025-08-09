@@ -1,23 +1,16 @@
 ---
-title: Bronchmonkey (Lite)
+title: Bronchmonkey (Lite, GPT‑5 Ready)
 sdk: docker
 app_port: 8501
 ---
 
 # Deploy to Hugging Face Spaces (Docker)
 
-1) Create a **Docker Space** and push this repo/branch to it.
-2) Add **Secrets** (Settings → Variables):
-   - `OPENAI_API_KEY`: your key
-   - (optional) `GEN_MODEL`: defaults to `gpt-4o-mini`
-   - (optional) `EMBED_MODEL`: defaults to `intfloat/e5-small-v2`
-   - (optional) `DATABASE_URL`: if you plan to use the SQL features
-3) Enable **Persistent Storage** and set an environment variable:
-   - `HF_HOME=/data/.huggingface`  (so models stay cached across restarts)
-4) The Space exposes only one public port (Streamlit on `8501`). The FastAPI
-   server runs privately on `localhost:8000` inside the container.
-5) Build and run — you should see the Streamlit UI.
-
-Notes:
-- For fastest cold-starts, we pre-download the embedding model in the Dockerfile.
-- If you later switch to a different embedding model, rebuild the Space.
+1) Create a **Docker Space** on HF and push this branch.
+2) Add **Variables/Secrets**:
+   - `OPENAI_API_KEY` (required)
+   - Optional: `GEN_MODEL` default (e.g., `gpt-5-mini`)
+   - Optional: `EMBED_MODEL` (defaults to `intfloat/e5-small-v2`)
+   - Optional: `HF_HOME=/data/.huggingface` (enable Persistent Storage so cache survives restarts)
+3) Build and run—Streamlit on port `8501`; FastAPI runs privately on `localhost:8000` in the same container.
+4) Use the **sidebar** to switch between **Fast (gpt-5-mini)** and **Max (gpt-5)** at runtime.

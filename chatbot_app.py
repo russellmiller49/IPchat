@@ -180,15 +180,24 @@ def get_chunk_text(chunk_id: str) -> str:
 
 @lru_cache(maxsize=256)
 def _cached_answer(system_prompt: str, user_prompt: str, model: str) -> str:
-    return chat_complete(
-        model=model,
-        messages=[
+    # Build params based on model
+    params = {
+        "model": model,
+        "messages": [
             {"role": "system", "content": system_prompt},
             {"role": "user", "content": user_prompt},
         ],
-        temperature=0.2,
-        max_tokens=900,
-    )
+    }
+    
+    # GPT-5 and o1 models use different parameters
+    if "gpt-5" in model or "o1" in model:
+        params["max_completion_tokens"] = depth_config.max_tokens if depth_mode else 900
+        # GPT-5 doesn't support custom temperature
+    else:
+        params["max_tokens"] = depth_config.max_tokens if depth_mode else 900
+        params["temperature"] = 0.2
+    
+    return chat_complete(**params)
 
 
 def generate_answer(query: str, context: List[Dict], use_depth: bool = False) -> str:

@@ -45,8 +45,9 @@ Include:
 Output one query per line, no numbering or bullets."""
 
     try:
+        # Use GPT-4 mini for expansion since GPT-5 may not exist
         response = chat_complete_fn(
-            model="gpt-5-mini",
+            model="gpt-4o-mini",
             messages=[
                 {"role": "system", "content": system_prompt},
                 {"role": "user", "content": user_prompt}
@@ -271,15 +272,21 @@ Provide a CORRECTED version that addresses any issues found.
 If the draft is accurate, return it with minor improvements for clarity."""
 
     try:
-        improved = chat_complete_fn(
-            model=model,
-            messages=[
+        # Build params without temperature for GPT-5
+        params = {
+            "model": model,
+            "messages": [
                 {"role": "system", "content": "You are a medical evidence quality reviewer."},
                 {"role": "user", "content": critique_prompt}
             ],
-            temperature=0.1,
-            max_tokens=1200
-        )
+            "max_tokens": 1200
+        }
+        
+        # Only add temperature for non-GPT-5 models
+        if "gpt-5" not in model and "o1" not in model:
+            params["temperature"] = 0.1
+            
+        improved = chat_complete_fn(**params)
         return improved
     except Exception as e:
         print(f"Critique pass failed: {e}")

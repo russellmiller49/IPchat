@@ -1,0 +1,15 @@
+version: "3.8"
+services:
+  app:
+    build: .
+    container_name: bronchmonkey-lite
+    environment:
+      OPENAI_API_KEY: ${OPENAI_API_KEY}
+      GEN_MODEL: ${GEN_MODEL:-gpt-5-mini}  # Use gpt-5 for depth mode
+      EMBED_MODEL: ${EMBED_MODEL:-intfloat/e5-small-v2}
+    volumes:
+      - ./data:/app/data
+      - ./assets:/app/assets
+    ports:
+      - "8501:8501"
+    restart: unless-stopped

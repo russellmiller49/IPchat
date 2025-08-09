@@ -6,14 +6,15 @@ Requires:
   pip install sentence-transformers faiss-cpu
 
 Usage:
+  EMBED_MODEL=intfloat/e5-small-v2 \
   python indexing/build_faiss.py \
-      --chunks data/chunks/chunks.jsonl \
-      --out-dir data/index \
-      --model intfloat/e5-large-v2
+    --chunks data/chunks/chunks.jsonl \
+    --out-dir data/index \
+    --model intfloat/e5-small-v2
 """
-
 import argparse
 import json
+import os
 from pathlib import Path
 from typing import List, Dict
 
@@ -33,7 +34,11 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--chunks", type=Path, default=Path("data/chunks/chunks.jsonl"))
     parser.add_argument("--out-dir", type=Path, default=Path("data/index"))
-    parser.add_argument("--model", type=str, default="intfloat/e5-large-v2")
+    parser.add_argument(
+        "--model",
+        type=str,
+        default=os.getenv("EMBED_MODEL", "intfloat/e5-small-v2"),
+    )
     args = parser.parse_args()
 
     args.out_dir.mkdir(parents=True, exist_ok=True)
@@ -44,7 +49,9 @@ def main():
     import faiss
 
     model = SentenceTransformer(args.model)
-    vecs = model.encode(texts, normalize_embeddings=True, batch_size=64, show_progress_bar=True)
+    vecs = model.encode(
+        texts, normalize_embeddings=True, batch_size=64, show_progress_bar=True
+    )
     vecs = np.asarray(vecs, dtype="float32")
 
     index = faiss.IndexFlatIP(vecs.shape[1])
@@ -54,11 +61,12 @@ def main():
     faiss.write_index(index, str(args.out_dir / "faiss.index"))
     with (args.out_dir / "meta.jsonl").open("w", encoding="utf-8") as f:
         for c in chunks:
-            f.write(json.dumps({"chunk_id": c["chunk_id"], "document_id": c["document_id"]}) + "\n")
-
+            f.write(
+                json.dumps({"chunk_id": c["chunk_id"], "document_id": c["document_id"]})
+                + "\n"
+            )
     print(f"Indexed {len(chunks)} chunks → {args.out_dir}")
 
 
 if __name__ == "__main__":
     main()
-

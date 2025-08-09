@@ -1,23 +1,22 @@
 #!/usr/bin/env python3
 """
-Chunk trials and chapters into ~800-token passages with overlap.
+Chunk trials and chapters into ~450-token passages with overlap.
 
 Outputs JSONL to data/chunks/chunks.jsonl with fields:
-  chunk_id, document_id, text, source, pages, section_path,
-  table_number, figure_number, trial_signals
+  chunk_id, document_id, text, source, pages, section_path, table_number, figure_number, trial_signals
 
 Usage:
   python chunking/chunker.py \
-      --trials-dir data/complete_extractions \
-      --chapters-dir Textbooks \
-      --out data/chunks/chunks.jsonl
+    --trials-dir data/complete_extractions \
+    --chapters-dir Textbooks \
+    --out data/chunks/chunks.jsonl
 """
-
 import json
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Dict, Iterable, List, Optional, Tuple
 import re
+import os
 
 
 def iter_json_files(root: Path) -> Iterable[Path]:
@@ -33,9 +32,9 @@ def tokenize(text: str) -> List[str]:
 
 def sliding_windows(tokens: List[str], size: int, overlap: int) -> Iterable[Tuple[int, List[str]]]:
     if size <= 0:
-        size = 800
+        size = int(os.getenv("CHUNK_SIZE", "450"))
     if overlap < 0:
-        overlap = 120
+        overlap = int(os.getenv("CHUNK_OVERLAP", "80"))
     step = max(1, size - overlap)
     i = 0
     while i < len(tokens):
@@ -43,9 +42,16 @@ def sliding_windows(tokens: List[str], size: int, overlap: int) -> Iterable[Tupl
         i += step
 
 
-def chunk_text(text: str, base_id: str, pages: Optional[List[int]] = None, section_path: Optional[List[str]] = None):
+def chunk_text(
+    text: str,
+    base_id: str,
+    pages: Optional[List[int]] = None,
+    section_path: Optional[List[str]] = None,
+):
+    size = int(os.getenv("CHUNK_SIZE", "450"))
+    overlap = int(os.getenv("CHUNK_OVERLAP", "80"))
     toks = tokenize(text)
-    for idx, window in sliding_windows(toks, size=850, overlap=120):
+    for idx, window in sliding_windows(toks, size=size, overlap=overlap):
         yield {
             "chunk_id": f"{base_id}#{idx}",
             "document_id": base_id.split("#")[0],
@@ -55,7 +61,7 @@ def chunk_text(text: str, base_id: str, pages: Optional[List[int]] = None, secti
             "section_path": section_path or [],
             "table_number": None,
             "figure_number": None,
-            "trial_signals": {}
+            "trial_signals": {},
         }
 
 
@@ -66,7 +72,7 @@ def trial_text_blocks(data: Dict) -> Iterable[Tuple[str, str, List[int]]]:
         sections = doc.get("sections") or {}
     else:
         sections = data.get("sections") or {}
-    
+
     # Prefer structured sections
     for name in ["abstract", "introduction", "methods", "results", "discussion", "conclusion"]:
         texts = sections.get(name) or []
@@ -111,13 +117,7 @@ def process_trials(trials_dir: Path) -> Iterable[Dict]:
                 ch["trial_signals"] = signals
                 yield ch
 
-        # ------------------------------------------------------------------
-        # Additionally index adverse event rows so that incidence questions
-        # such as "what percent had pneumothorax" are retrievable by the
-        # vector store. We convert each adverse-event dict into a short
-        # English sentence and store as its own chunk (without further
-        # token splitting) to keep the numeric signal intact.
-        # ------------------------------------------------------------------
+        # Additionally index adverse event rows as atomic chunks to keep numeric signal
         aes = data.get("adverse_events") or []
         if isinstance(aes, list):
             for idx, evt in enumerate(aes):
@@ -128,7 +128,6 @@ def process_trials(trials_dir: Path) -> Iterable[Dict]:
                     ctrl_n = evt.get("control_n")
                     ctrl_pct = evt.get("control_percent")
                     serious = evt.get("serious")
-
                     parts = [f"Adverse Event: {event}."]
                     if int_n is not None:
                         parts.append(f"Intervention: {int_n} patients ({int_pct}%).")
@@ -136,9 +135,7 @@ def process_trials(trials_dir: Path) -> Iterable[Dict]:
                         parts.append(f"Control: {ctrl_n} patients ({ctrl_pct}%).")
                     if serious is not None:
                         parts.append("Serious." if serious else "Non-serious.")
-
                     text = " ".join(parts)
-
                     yield {
                         "chunk_id": f"{base_id}#ae{idx}",
                         "document_id": base_id,
@@ -180,6 +177,7 @@ def process_chapters(chapters_dir: Path) -> Iterable[Dict]:
 
 def main():
     import argparse
+
     out_default = Path("data/chunks/chunks.jsonl")
     parser = argparse.ArgumentParser()
     parser.add_argument("--trials-dir", type=Path, default=Path("data/complete_extractions"))
@@ -188,6 +186,7 @@ def main():
     args = parser.parse_args()
 
     args.out.parent.mkdir(parents=True, exist_ok=True)
+
     n = 0
     with args.out.open("w", encoding="utf-8") as f:
         for ch in process_trials(args.trials_dir):
@@ -196,6 +195,7 @@ def main():
         for ch in process_chapters(args.chapters_dir):
             f.write(json.dumps(ch, ensure_ascii=False) + "\n")
             n += 1
+
     print(f"Wrote {n} chunks → {args.out}")
 
 

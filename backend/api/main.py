@@ -4,13 +4,12 @@ FastAPI service for hybrid retrieval and answer composition.
 
 Endpoints:
   POST /search {query, k} → ranked chunks (FAISS-backed for now)
-  POST /answer {query}    → answer with citations (stub composition)
-  GET  /facets            → basic facets placeholder
+  POST /answer {query} → answer with citations (stub composition)
+  GET /facets → basic facets placeholder
 
 Run:
   uvicorn backend.api.main:app --reload --port 8000
 """
-
 from pathlib import Path
 from typing import List, Optional, Dict
 from fastapi import FastAPI
@@ -20,12 +19,10 @@ import os
 from indexing.search import FaissSearcher
 from indexing.hybrid_search import HybridSearcher
 
-
 INDEX_DIR = Path("data/index")
-EMBED_MODEL = "intfloat/e5-large-v2"
+EMBED_MODEL = os.getenv("EMBED_MODEL", "intfloat/e5-small-v2")
 
-
-app = FastAPI(title="Evidence Chatbot API", version="0.2.0")
+app = FastAPI(title="Evidence Chatbot API", version="0.3.0-lite")
 searcher: Optional[FaissSearcher] = None
 hybrid_searcher: Optional[HybridSearcher] = None
 
@@ -69,9 +66,7 @@ def ensure_hybrid_searcher() -> HybridSearcher:
     global hybrid_searcher
     if hybrid_searcher is None:
         hybrid_searcher = HybridSearcher(
-            INDEX_DIR, 
-            model_name=EMBED_MODEL,
-            database_url=os.getenv("DATABASE_URL")
+            INDEX_DIR, model_name=EMBED_MODEL, database_url=os.getenv("DATABASE_URL")
         )
     return hybrid_searcher
 
@@ -88,8 +83,9 @@ def post_search(req: SearchRequest):
                 chunk_id=r.chunk_id,
                 document_id=r.document_id,
                 source=r.source,
-                text_preview=r.text[:200] if r.text else None
-            ) for r in results
+                text_preview=r.text[:200] if r.text else None,
+            )
+            for r in results
         ]
     else:
         # Use vector-only search
@@ -97,11 +93,12 @@ def post_search(req: SearchRequest):
         raw = s.search(req.query, k=req.k)
         hits = [
             SearchHit(
-                score=score, 
-                chunk_id=meta["chunk_id"], 
+                score=score,
+                chunk_id=meta["chunk_id"],
                 document_id=meta["document_id"],
-                source="vector"
-            ) for score, meta in raw
+                source="vector",
+            )
+            for score, meta in raw
         ]
     return SearchResponse(hits=hits)
 
@@ -111,7 +108,7 @@ def post_answer(req: AnswerRequest):
     # Use hybrid search for better retrieval
     hs = ensure_hybrid_searcher()
     results = hs.search(req.query, k=req.k)
-    
+
     # Get unique citations from top results
     cits = []
     seen = set()
@@ -119,12 +116,12 @@ def post_answer(req: AnswerRequest):
         if r.document_id not in seen:
             cits.append(r.document_id)
             seen.add(r.document_id)
-    
+
     # In production: fetch full chunks text to compose grounded answer with strict citations.
     # For now, provide a more informative placeholder
     ans = (
         f"Found {len(results)} relevant results using hybrid search (vector + BM25 + SQL). "
-        f"Top result from {results[0].source if results else 'none'} with score {results[0].score:.3f if results else 0}. "
+        f"Top result from {results[0].source if results else 'none'} with score {results[0].score:.3f if results else 0}.\n"
         "Wire an LLM to compose an evidence-backed response using the retrieved chunks."
     )
     return AnswerResponse(answer=ans, citations=cits)
@@ -137,6 +134,5 @@ def get_facets():
         "interventions": [],
         "outcomes": [],
         "timepoints": ["P3M", "P6M", "P12M"],
-        "years": []
+        "years": [],
     }
-

@@ -37,7 +37,7 @@ load_dotenv()
 # Configuration
 API_BASE_URL = os.getenv("API_BASE_URL", "http://localhost:8000")
 DATABASE_URL = os.getenv("DATABASE_URL", "")
-GEN_MODEL = os.getenv("GEN_MODEL", "gpt-4o-mini")
+GEN_MODEL = os.getenv("GEN_MODEL", "gpt-5-2025-08-07")  # Using GPT-5 latest
 
 # Initialize OpenAI client
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))

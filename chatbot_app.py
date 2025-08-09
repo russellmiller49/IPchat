@@ -15,6 +15,11 @@ from dotenv import load_dotenv
 from utils.citations import extract_author_year, get_study_metadata, format_mla_citation
 from utils.openai_client import chat_complete
 from utils.streamlit_auth import check_password
+from utils.depth_mode import (
+    DepthConfig, expand_queries, multi_query_search,
+    rerank_hits, enforce_breadth, get_contrastive_prompt,
+    get_concise_prompt, critique_and_improve, verify_numeric_claims
+)
 
 load_dotenv()
 
@@ -24,23 +29,46 @@ check_password()
 API_BASE_URL = os.getenv("API_BASE_URL", "http://localhost:8000")
 DATABASE_URL = os.getenv("DATABASE_URL", "")
 
-# Sidebar model toggle:
-# - Default to gpt-5-mini (cheap+fast)
-# - Allow user to escalate to gpt-5
-# - Respect GEN_MODEL env if present as a third option
-env_model = os.getenv("GEN_MODEL", "").strip()
-options = ["Fast (gpt-5-mini)", "Max (gpt-5)"]
-if env_model and env_model not in ["gpt-5", "gpt-5-mini"]:
-    options.append(f"Env ({env_model})")
-st.set_page_config(page_title="Bronchmonkey", page_icon="", layout="wide")
-quality = st.sidebar.selectbox("Answer quality", options, index=0)
-if quality.startswith("Fast"):
-    GEN_MODEL = "gpt-5-mini"
-elif quality.startswith("Max"):
-    GEN_MODEL = "gpt-5"
+# Page config
+st.set_page_config(page_title="Bronchmonkey", page_icon="🐵", layout="wide")
+
+# Sidebar controls
+st.sidebar.title("⚙️ Settings")
+
+# Depth mode toggle
+depth_mode = st.sidebar.toggle(
+    "🔬 **Depth Mode**",
+    value=False,
+    help="Enable comprehensive analysis with multiple queries, reranking, and contrastive synthesis"
+)
+
+# Model selection changes with depth mode
+if depth_mode:
+    st.sidebar.info("📊 Depth Mode Active: Enhanced search & synthesis")
+    GEN_MODEL = "gpt-5"  # Force max model for depth
+    quality_label = "Max Quality (gpt-5)"
 else:
-    GEN_MODEL = env_model or "gpt-5-mini"
-st.sidebar.caption(f"LLM model: **{GEN_MODEL}**")
+    # Standard model toggle
+    env_model = os.getenv("GEN_MODEL", "").strip()
+    options = ["Fast (gpt-5-mini)", "Max (gpt-5)"]
+    if env_model and env_model not in ["gpt-5", "gpt-5-mini"]:
+        options.append(f"Env ({env_model})")
+    
+    quality = st.sidebar.selectbox("Answer quality", options, index=0)
+    if quality.startswith("Fast"):
+        GEN_MODEL = "gpt-5-mini"
+        quality_label = "Fast (gpt-5-mini)"
+    elif quality.startswith("Max"):
+        GEN_MODEL = "gpt-5"
+        quality_label = "Max (gpt-5)"
+    else:
+        GEN_MODEL = env_model or "gpt-5-mini"
+        quality_label = f"Custom ({GEN_MODEL})"
+
+st.sidebar.caption(f"**Model:** {quality_label}")
+
+# Initialize depth configuration
+depth_config = DepthConfig(depth_enabled=depth_mode)
 
 # Optional Postgres support for safety rows
 try:
@@ -163,9 +191,15 @@ def _cached_answer(system_prompt: str, user_prompt: str, model: str) -> str:
     )
 
 
-def generate_answer(query: str, context: List[Dict]) -> str:
+def generate_answer(query: str, context: List[Dict], use_depth: bool = False) -> str:
+    """Generate answer with optional depth mode enhancements"""
+    
+    # Apply breadth enforcement if in depth mode
+    if use_depth:
+        context = enforce_breadth(context, min_docs=depth_config.min_docs)
+    
     context_texts: List[str] = []
-    for i, hit in enumerate(context[:5], 1):
+    for i, hit in enumerate(context[:10 if use_depth else 5], 1):
         doc_id = hit.get("document_id", "Unknown")
         chunk_text = get_chunk_text(hit.get("chunk_id", ""))
         if not chunk_text:
@@ -189,15 +223,31 @@ def generate_answer(query: str, context: List[Dict]) -> str:
     if structured_notes:
         context_str += "\n\nStructured Safety Data:\n" + "\n".join(structured_notes)
 
-    system_prompt = (
-        "You are a medical evidence expert assistant for interventional pulmonology. "
-        "Use ONLY the provided context. Cite studies inline like (Author Year). "
-        "Prefer precise numbers and sample sizes from the text."
-    )
-    user_prompt = f"Question: {query}\n\nResearch Context:\n{context_str}\n\nWrite a concise, well-cited answer."
+    # Use appropriate prompt based on mode
+    system_prompt = get_contrastive_prompt() if use_depth else get_concise_prompt()
+    
+    user_prompt = f"Question: {query}\n\nResearch Context:\n{context_str}"
+    if use_depth:
+        user_prompt += "\n\nProvide a comprehensive analysis following the structured format."
+    else:
+        user_prompt += "\n\nWrite a concise, well-cited answer."
 
     try:
-        return _cached_answer(system_prompt, user_prompt, GEN_MODEL)
+        # Generate initial answer
+        answer = _cached_answer(system_prompt, user_prompt, depth_config.model if use_depth else GEN_MODEL)
+        
+        # Apply critique pass if in depth mode
+        if use_depth and depth_config.use_critique:
+            with st.spinner("Refining answer for nuance..."):
+                answer = critique_and_improve(query, context_str, answer, chat_complete, depth_config.model)
+        
+        # Verify numeric claims
+        if use_depth:
+            warnings = verify_numeric_claims(answer, context_str)
+            if warnings:
+                st.warning(f"⚠️ Some claims may need verification: {', '.join(warnings[:3])}")
+        
+        return answer
     except Exception as e:
         return f"Error generating answer: {e}"
 
@@ -217,19 +267,45 @@ if prompt := st.chat_input("Ask about BLVR outcomes, airway stents, thermoplasty
         st.markdown(prompt)
 
     with st.chat_message("assistant"):
-        with st.spinner("Searching evidence..."):
-            results = search_evidence(prompt, 10)
+        # Enhanced search in depth mode
+        if depth_mode:
+            with st.spinner("🔍 Expanding query and searching multiple angles..."):
+                # Expand queries
+                queries = expand_queries(prompt, chat_complete)
+                if len(queries) > 1:
+                    st.caption(f"Searching with {len(queries)} query variations")
+                
+                # Multi-query search
+                results = multi_query_search(queries, search_evidence, k_each=depth_config.k_each)
+                
+                # Rerank if enabled
+                if depth_config.use_reranker:
+                    with st.spinner("🎯 Reranking for relevance..."):
+                        results = rerank_hits(prompt, results, top_n=depth_config.top_k_final)
+        else:
+            # Standard search
+            with st.spinner("Searching evidence..."):
+                results = search_evidence(prompt, depth_config.k_each)
 
-        with st.spinner(f"Generating answer with {GEN_MODEL} ..."):
-            answer = generate_answer(prompt, results)
+        # Generate answer with appropriate mode
+        model_label = depth_config.model if depth_mode else GEN_MODEL
+        with st.spinner(f"Generating {'comprehensive analysis' if depth_mode else 'answer'} with {model_label}..."):
+            answer = generate_answer(prompt, results, use_depth=depth_mode)
 
         st.markdown(answer)
 
-        doc_ids = list({r.get("document_id", "Unknown") for r in results[:5]})
+        # Collect sources - more in depth mode
+        num_sources = 10 if depth_mode else 5
+        doc_ids = list({r.get("document_id", "Unknown") for r in results[:num_sources]})
         sources = [citation_mla(d) for d in doc_ids]
+        
+        # Show study diversity in depth mode
+        if depth_mode and len(doc_ids) > 1:
+            st.caption(f"📚 Synthesized from {len(doc_ids)} distinct studies")
+        
         st.session_state.messages.append({"role": "assistant", "content": answer, "sources": sources})
 
-        with st.expander("View Sources"):
+        with st.expander(f"View Sources ({len(sources)} studies)"):
             for s in sources:
                 st.write(f"• {s}")
 
@@ -248,6 +324,15 @@ with st.sidebar:
         st.caption(f"{count} chunks indexed")
     except Exception:
         st.caption("Index info unavailable")
+    
+    # Depth mode settings display
+    if depth_mode:
+        st.subheader("🔬 Depth Settings")
+        st.caption(f"• Queries expanded: Yes")
+        st.caption(f"• Min documents: {depth_config.min_docs}")
+        st.caption(f"• Reranking: {'Yes' if depth_config.use_reranker else 'No'}")
+        st.caption(f"• Critique pass: {'Yes' if depth_config.use_critique else 'No'}")
+        st.caption(f"• Max tokens: {depth_config.max_tokens}")
 
     if st.button("Clear Answer Cache"):
         _cached_answer.cache_clear()

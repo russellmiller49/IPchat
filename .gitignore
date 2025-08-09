@@ -1,33 +1,169 @@
-# OS and editor
-.DS_Store
-.idea/
-.vscode/
+# ==========================================
+# Environment and Sensitive Files
+# ==========================================
+# Never commit API keys or credentials
+.env
+.env.*
+!.env.example  # Keep the template
 
+# ==========================================
+# Generated Indexes (Can be rebuilt)
+# ==========================================
+# These are created by build scripts
+data/index/faiss.index
+data/index/bm25.pkl
+data/index/bm25_meta.jsonl
+data/index/meta.jsonl
+data/index/vocab.txt
+
+# Document chunks (generated from source data)
+data/chunks/
+
+# ==========================================
+# Large Data Files (Keep in repo for functionality)
+# ==========================================
+# IMPORTANT: These files ARE needed for the app to work
+# Users who clone the repo will need these files
+# Consider using Git LFS for these directories:
+# data/oe_final_outputs/  (292 extracted JSON files - REQUIRED)
+# data/input_articles/    (Original source files - optional)
+
+# Temporary/intermediate processing files
+data/oe_batch_outputs/
+# ------------------------------------------------------------------
+# Keep cleaned full-text extractions so that remote deployments can
+# rebuild chunks and indexes without external storage. If these files are
+# large (>100 MB total) consider Git LFS instead of the main repo.
+# ------------------------------------------------------------------
+#!data/complete_extractions/            # uncomment if using LFS include/exclude
+
+# By default we **do not** ignore this directory so JSON extractions are
+# committed. If you really need to exclude them locally, create a personal
+# .git/info/exclude entry instead of editing this file.
+data/pneumothorax_rates.json
+
+# ==========================================
 # Python
+# ==========================================
 __pycache__/
 *.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
 *.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
 .pytest_cache/
 .mypy_cache/
 .ruff_cache/
 .coverage*
+htmlcov/
+.tox/
+.hypothesis/
 
-# Environments
-.venv/
+# ==========================================
+# Virtual Environments
+# ==========================================
 venv/
+ENV/
 env/
-.env
-.env.*
+.venv/
+.virtualenv/
 
-# Data and outputs (large/generated)
-data/**
-!data/.gitkeep
+# ==========================================
+# IDE and Editor Files
+# ==========================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+.settings/
+*.sublime-project
+*.sublime-workspace
 
-# Node / misc
+# ==========================================
+# OS Files
+# ==========================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# ==========================================
+# Database
+# ==========================================
+*.db
+*.sqlite
+*.sqlite3
+postgres-data/
+
+# ==========================================
+# Logs and Temporary Files
+# ==========================================
+*.log
+logs/
+*.tmp
+tmp/
+temp/
+
+# ==========================================
+# Docker
+# ==========================================
+docker-compose.override.yml
+
+# ==========================================
+# Node (if you add any JS dependencies)
+# ==========================================
 node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
 
-# Codex/Claude local state
+# ==========================================
+# Jupyter Notebooks
+# ==========================================
+.ipynb_checkpoints/
+*.ipynb
+
+# ==========================================
+# Claude/Codex local state
+# ==========================================
 .claude/
 .codex/
 
+# ==========================================
+# Testing
+# ==========================================
+test_outputs/
+.pytest_cache/
+.coverage
+.coverage.*
+coverage.xml
+*.cover
 
+# ==========================================
+# Backup files
+# ==========================================
+*.bak
+*.backup
+*.old

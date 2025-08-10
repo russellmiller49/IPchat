@@ -43,6 +43,13 @@ depth_mode = st.sidebar.toggle(
     help="Enable comprehensive analysis with multiple queries, reranking, and contrastive synthesis"
 )
 
+# Debug mode toggle
+debug_mode = st.sidebar.toggle(
+    "🐛 **Debug Mode**",
+    value=False,
+    help="Show underlying reasoning, search strategy, and synthesis process"
+)
+
 # Model selection changes with depth mode
 if depth_mode:
     st.sidebar.info("📊 Depth Mode Active: Enhanced search & synthesis")
@@ -277,12 +284,15 @@ if prompt := st.chat_input("Ask about BLVR outcomes, airway stents, thermoplasty
         st.markdown(prompt)
 
     with st.chat_message("assistant"):
+        debug_data = {}  # Collect debug info
+        
         # Enhanced search in depth mode
         if depth_mode:
             with st.spinner("🔍 Expanding query and searching multiple angles..."):
                 # Expand queries
                 queries = expand_queries(prompt, chat_complete)
-                if len(queries) > 1:
+                debug_data["expanded_queries"] = queries
+                if len(queries) > 1 and not debug_mode:
                     st.caption(f"Searching with {len(queries)} query variations")
                 
                 # Multi-query search
@@ -297,12 +307,43 @@ if prompt := st.chat_input("Ask about BLVR outcomes, airway stents, thermoplasty
             with st.spinner("Searching evidence..."):
                 results = search_evidence(prompt, depth_config.k_each)
 
+        # Collect debug statistics
+        debug_data["num_chunks"] = len(results)
+        debug_data["unique_docs"] = len(set(r.get("document_id", r.get("chunk_id", ""))[:30] for r in results))
+        debug_data["model"] = depth_config.model if depth_mode else GEN_MODEL
+        debug_data["depth_mode"] = depth_mode
+
         # Generate answer with appropriate mode
         model_label = depth_config.model if depth_mode else GEN_MODEL
         with st.spinner(f"Generating {'comprehensive analysis' if depth_mode else 'answer'} with {model_label}..."):
             answer = generate_answer(prompt, results, use_depth=depth_mode)
 
         st.markdown(answer)
+        
+        # Show debug info if debug mode is on
+        if debug_mode:
+            with st.expander("🐛 Debug Information", expanded=True):
+                if "expanded_queries" in debug_data:
+                    st.subheader("Query Expansion")
+                    for i, q in enumerate(debug_data["expanded_queries"], 1):
+                        st.text(f"{i}. {q}")
+                
+                st.subheader("Search Statistics")
+                st.json({
+                    "Total chunks retrieved": debug_data.get("num_chunks", 0),
+                    "Unique documents": debug_data.get("unique_docs", 0),
+                    "Model used": debug_data.get("model", "unknown"),
+                    "Depth mode": debug_data.get("depth_mode", False)
+                })
+                
+                if results:
+                    st.subheader("Top Search Results")
+                    for i, res in enumerate(results[:3], 1):
+                        score = res.get("score", 0)
+                        source = res.get("chunk_id", "Unknown")
+                        st.text(f"{i}. Score: {score:.3f} | Source: {source[:50]}...")
+                        with st.container():
+                            st.caption(res.get("text_preview", res.get("text", ""))[:200] + "...")
 
         # Collect sources - more in depth mode
         num_sources = 10 if depth_mode else 5

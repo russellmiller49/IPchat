@@ -36,9 +36,10 @@ st.set_page_config(page_title="Bronchmonkey", page_icon="🐵", layout="wide")
 st.sidebar.title("⚙️ Settings")
 
 # Depth mode toggle
+DEPTH_FEATURES = os.getenv("DEPTH_FEATURES", "1") == "1"
 depth_mode = st.sidebar.toggle(
     "🔬 **Depth Mode**",
-    value=False,
+    value=DEPTH_FEATURES,
     help="Enable comprehensive analysis with multiple queries, reranking, and contrastive synthesis"
 )
 

@@ -13,7 +13,7 @@ from dotenv import load_dotenv
 
 # Local utilities
 from utils.citations import extract_author_year, get_study_metadata, format_mla_citation
-from utils.openai_client import chat_complete
+from utils.openai_client import chat_complete_text
 from utils.streamlit_auth import check_password
 from utils.depth_mode import (
     DepthConfig, expand_queries, multi_query_search,
@@ -22,6 +22,9 @@ from utils.depth_mode import (
 )
 
 load_dotenv()
+
+# Optional depth features flag (default OFF)
+DEPTH_FEATURES = os.getenv("DEPTH_FEATURES", "0") == "1"
 
 # Basic auth gate (uses BASIC_AUTH_USERS env like "alice:pw1,bob:pw2")
 check_password()
@@ -180,24 +183,16 @@ def get_chunk_text(chunk_id: str) -> str:
 
 @lru_cache(maxsize=256)
 def _cached_answer(system_prompt: str, user_prompt: str, model: str) -> str:
-    # Build params based on model
-    params = {
-        "model": model,
-        "messages": [
+    text, _info = chat_complete_text(
+        model=model,
+        messages=[
             {"role": "system", "content": system_prompt},
             {"role": "user", "content": user_prompt},
         ],
-    }
-    
-    # GPT-5 and o1 models use different parameters
-    if "gpt-5" in model or "o1" in model:
-        params["max_completion_tokens"] = depth_config.max_tokens if depth_mode else 900
-        # GPT-5 doesn't support custom temperature
-    else:
-        params["max_tokens"] = depth_config.max_tokens if depth_mode else 900
-        params["temperature"] = 0.2
-    
-    return chat_complete(**params)
+        temperature=0.2,
+        max_tokens=900,
+    )
+    return text
 
 
 def generate_answer(query: str, context: List[Dict], use_depth: bool = False) -> str:
@@ -248,7 +243,7 @@ def generate_answer(query: str, context: List[Dict], use_depth: bool = False) ->
         # Apply critique pass if in depth mode
         if use_depth and depth_config.use_critique:
             with st.spinner("Refining answer for nuance..."):
-                answer = critique_and_improve(query, context_str, answer, chat_complete, depth_config.model)
+                answer = critique_and_improve(query, context_str, answer, chat_complete_text, depth_config.model)
         
         # Verify numeric claims
         if use_depth:
@@ -280,7 +275,7 @@ if prompt := st.chat_input("Ask about BLVR outcomes, airway stents, thermoplasty
         if depth_mode:
             with st.spinner("🔍 Expanding query and searching multiple angles..."):
                 # Expand queries
-                queries = expand_queries(prompt, chat_complete)
+                queries = expand_queries(prompt, chat_complete_text)
                 if len(queries) > 1:
                     st.caption(f"Searching with {len(queries)} query variations")
                 

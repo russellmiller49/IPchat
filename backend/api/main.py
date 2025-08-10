@@ -71,6 +71,20 @@ def ensure_hybrid_searcher() -> HybridSearcher:
     return hybrid_searcher
 
 
+@app.get("/")
+def root():
+    return {
+        "message": "Bronchmonkey API is running",
+        "endpoints": {
+            "POST /search": "Search documents with hybrid retrieval",
+            "POST /answer": "Get AI-composed answer with citations",
+            "GET /facets": "Get search facets for filtering",
+            "GET /docs": "Interactive API documentation"
+        },
+        "status": "online"
+    }
+
+
 @app.post("/search", response_model=SearchResponse)
 def post_search(req: SearchRequest):
     if req.use_hybrid:

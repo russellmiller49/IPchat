@@ -1,12 +1,7 @@
 import os
+import json
+from pathlib import Path
 
-# A thin compatibility wrapper around the OpenAI Python SDK.
-# Works with both the new SDK (>=1.x, `from openai import OpenAI`) and the legacy SDK (<=0.28).
-#
-# Usage:
-#   from utils.openai_client import chat_complete
-#   text = chat_complete(model="gpt-5-mini", messages=[...], temperature=0.2, max_tokens=900)
-#
 _client = None
 _new_sdk = False
 
@@ -16,39 +11,57 @@ def _init():
     if not api_key:
         raise RuntimeError("OPENAI_API_KEY is not set")
     try:
-        # Attempt new SDK first
-        from openai import OpenAI  # type: ignore
+        from openai import OpenAI  # >=1.x
         _client = OpenAI(api_key=api_key)
         _new_sdk = True
     except Exception:
-        # Fallback to legacy SDK
-        import openai as openai_legacy  # type: ignore
+        import openai as openai_legacy  # <=0.28.x
         openai_legacy.api_key = api_key
         _client = openai_legacy
         _new_sdk = False
 
-def chat_complete(*, model: str, messages, **kwargs) -> str:
-    """Return text content from a chat completion across SDK versions."""
+def chat_complete_text(**kwargs):
+    """Return (text, info). Try Chat Completions, then fallback to Responses API. Never return empty string."""
     global _client, _new_sdk
     if _client is None:
         _init()
 
-    # Remove kwargs that may not exist in both SDKs
-    kwargs = dict(kwargs)
-    kwargs.pop("timeout", None)
-    kwargs.pop("request_timeout", None)
-    
-    # Handle GPT-5/o1 models that use max_completion_tokens instead of max_tokens
-    if _new_sdk and ("gpt-5" in model or "o1" in model):
-        if "max_tokens" in kwargs:
-            kwargs["max_completion_tokens"] = kwargs.pop("max_tokens")
+    info = {"route": None, "error": None, "raw": None}
+    text = ""
 
-    if _new_sdk:
-        # New SDK - no fallback, use GPT-5 models only
-        resp = _client.chat.completions.create(model=model, messages=messages, **kwargs)
-        return resp.choices[0].message.content or ""
-    else:
-        # Legacy SDK
-        resp = _client.ChatCompletion.create(model=model, messages=messages, **kwargs)
-        choice = resp["choices"][0]["message"]
-        return choice.get("content") or ""
+    try:
+        info["route"] = "chat.completions"
+        if _new_sdk:
+            resp = _client.chat.completions.create(**kwargs)
+            info["raw"] = resp.to_dict()
+            text = _extract_text(resp.choices[0].message.content)
+        else:
+            resp = _client.ChatCompletion.create(**kwargs)
+            info["raw"] = resp
+            text = _extract_text(resp["choices"][0]["message"]["content"])
+    except Exception as e:
+        info["error"] = str(e)
+
+    if not text:
+        try:
+            info["route"] = "responses.create"
+            if _new_sdk:
+                resp = _client.responses.create(model=kwargs["model"], input=kwargs["messages"])
+                info["raw"] = resp.to_dict()
+                text = _extract_text(getattr(resp, "output_text", None))
+        except Exception as e:
+            info["error"] = str(e)
+
+    Path("data").mkdir(exist_ok=True)
+    Path("data/last_llm_debug.json").write_text(json.dumps(info, indent=2), encoding="utf-8")
+
+    if not text:
+        text = "⚠️ I couldn't generate an answer. See data/last_llm_debug.json for details."
+    return text, info
+
+def _extract_text(content):
+    if isinstance(content, str):
+        return content.strip()
+    if isinstance(content, list):
+        return " ".join(str(c) for c in content if c).strip()
+    return ""

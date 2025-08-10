@@ -1,0 +1,102 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ipchat"
+version = "0.2.0"
+description = "Bronchmonkey - Interventional Pulmonology Research Assistant"
+readme = "README.md"
+authors = [
+    {name = "Russell Miller", email = "noreply@bronchmonkey.ai"}
+]
+license = {text = "MIT"}
+requires-python = ">=3.10"
+keywords = ["medical", "research", "rag", "bronchoscopy", "pulmonology"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Healthcare Industry",
+    "Topic :: Scientific/Engineering :: Medical Science Apps.",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+]
+
+dependencies = [
+    "pydantic>=2.0.0",
+    "pydantic-settings>=2.0.0",
+    "python-dotenv>=1.0.0",
+    "openai>=1.40.0",
+    "jsonschema>=4.23.0",
+    "pandas>=2.2.0",
+    "numpy>=1.24.0",
+    "tiktoken>=0.5.0",
+    "click>=8.1.0",
+    "rich>=13.0.0",
+]
+
+[project.optional-dependencies]
+full = [
+    "fastapi>=0.100.0",
+    "uvicorn[standard]>=0.23.0",
+    "psycopg2-binary>=2.9.0",
+    "sqlalchemy>=2.0.0",
+    "streamlit>=1.36.0",
+    "faiss-cpu>=1.7.4",
+    "rank-bm25>=0.2.2",
+    "sentence-transformers>=2.2.0",
+    "httpx>=0.24.0",
+]
+lite = [
+    "streamlit>=1.36.0",
+    "faiss-cpu>=1.7.4",
+    "rank-bm25>=0.2.2",
+    "sentence-transformers>=2.2.0",
+]
+space = [
+    "streamlit>=1.36.0",
+    "faiss-cpu>=1.7.4",
+    "rank-bm25>=0.2.2",
+    # Space uses pre-built indexes, minimal deps
+]
+dev = [
+    "pytest>=7.4.0",
+    "pytest-asyncio>=0.21.0",
+    "ruff>=0.1.0",
+    "black>=23.0.0",
+    "mypy>=1.5.0",
+    "httpx>=0.24.0",
+    "ipython>=8.0.0",
+]
+
+[project.scripts]
+ipchat = "ipchat.cli:main"
+bronchmonkey = "ipchat.cli:main"  # Alias for branding
+
+[project.urls]
+"Homepage" = "https://github.com/russellmiller49/IP_chat2"
+"Bug Tracker" = "https://github.com/russellmiller49/IP_chat2/issues"
+"Documentation" = "https://bronchmonkey.ai/docs"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["ipchat*"]
+exclude = ["tests*", "docs*", "data*", "bronchmonkey-space*"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+select = ["E", "F", "W", "I", "N", "B"]
+ignore = ["E501", "B008"]
+
+[tool.black]
+line-length = 100
+target-version = ["py310", "py311", "py312"]
+
+[tool.mypy]
+python_version = "3.10"
+warn_return_any = true
+warn_unused_configs = true
+disallow_untyped_defs = false
+ignore_missing_imports = true

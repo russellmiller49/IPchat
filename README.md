@@ -1,234 +1,306 @@
 # 🐵 Bronchmonkey - Interventional Pulmonology Research Assistant
 
-A powerful AI-powered research assistant that provides instant access to interventional pulmonology evidence through hybrid search and natural language queries. Built on top of a comprehensive database of clinical trials, systematic reviews, and medical literature.
+[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Docker](https://img.shields.io/badge/docker-ready-brightgreen.svg)](https://www.docker.com/)
+
+A sophisticated AI-powered research assistant designed specifically for **interventional pulmonology and critical care research**. Bronchmonkey combines hybrid search technology (vector, keyword, and SQL) with advanced language models to provide instant access to medical evidence from clinical trials, systematic reviews, and medical literature.
 
 ## 🚀 Quick Start
 
+### Install and Run (Choose Your Edition)
+
 ```bash
-# 1. Initial setup (one-time)
-./setup.sh
+# Clone the repository
+git clone https://github.com/russellmiller49/IP_chat2.git
+cd IP_chat2
 
-# 2. Start the application
-./start.sh
+# Install based on your needs
+pip install -e ".[lite]"   # Lightweight, no database
+pip install -e ".[full]"   # Full features with PostgreSQL
+pip install -e ".[space]"  # Hugging Face Space deployment
 
-# 3. Open in browser
-http://localhost:8501
+# Set your OpenAI API key
+export OPENAI_API_KEY=sk-...
+
+# Run with the unified CLI
+ipchat run --edition lite   # Start Bronchmonkey
 ```
+
+Visit http://localhost:8501 to start querying medical evidence!
+
+## 📦 Three Editions, One Codebase
+
+### 🚀 **Lite Edition** (Recommended for most users)
+- **Perfect for**: Personal use, demos, research
+- **Features**: Local indexes, fast startup, no database required
+- **Install**: `pip install -e ".[lite]"`
+- **Run**: `ipchat run --edition lite`
+
+### 🏢 **Full Edition** (Enterprise/Team use)
+- **Perfect for**: Production deployments, research teams
+- **Features**: PostgreSQL, API server, authentication, all features
+- **Install**: `pip install -e ".[full]"`
+- **Run**: `ipchat run --edition full`
+
+### 🤗 **Space Edition** (Cloud deployment)
+- **Perfect for**: Hugging Face Spaces, public demos
+- **Features**: Pre-built indexes, basic auth, cloud-optimized
+- **Deploy**: See [Space Deployment](#hugging-face-space-deployment)
 
 ## 🎯 Key Features
 
-### Advanced Search Capabilities
-- **Hybrid Search**: Combines vector similarity, keyword matching (BM25), and structured SQL queries
-- **Natural Language Queries**: Ask questions in plain English about medical evidence
-- **Author-Year Citations**: Proper academic citations (e.g., Criner 2018) instead of filenames
-- **MLA-Formatted Sources**: Professional bibliography formatting for research use
+### Medical Evidence Search
+- **Hybrid Search**: Combines FAISS vector search, BM25 keyword matching, and SQL queries
+- **874 Document Chunks**: Granular evidence retrieval
+- **292 Studies**: Comprehensive medical database
+- **Smart Citations**: Automatic (Author Year) formatting with MLA bibliography
 
-### Comprehensive Evidence Database
-- **292 Studies** indexed and searchable
-- **874 Document Chunks** for granular retrieval
-- **42 BLVR Studies** with detailed pneumothorax rates
-- **Structured Outcomes Data**: FEV1, p-values, confidence intervals
-- **Safety Data**: Adverse events with percentages and patient counts
+### AI-Powered Analysis
+- **GPT-5 Ready**: Support for latest models including GPT-5
+- **Depth Mode**: Comprehensive analysis with nuanced synthesis
+- **Reduced Hallucinations**: Robust error handling and fact-checking
+- **Context-Aware**: Specialized for medical terminology and research
 
-### Research Areas Covered
-- **Central Airway Obstruction**: Management strategies and outcomes
-- **BLVR (Bronchoscopic Lung Volume Reduction)**: Valve therapies, coil treatments
-- **Rigid Bronchoscopy**: Techniques, outcomes, complications
-- **Endobronchial Interventions**: Stents, valves, thermoplasty
-- **Pleural Procedures**: Thoracoscopy, pleurodesis
-- **Critical Care**: Ventilation strategies, ARDS management
+### Professional Interface
+- **Streamlit UI**: Clean, intuitive chat interface
+- **Real-time Search**: Instant evidence retrieval
+- **Citation Management**: Automatic bibliography generation
+- **Export Ready**: Structured data output for further analysis
+
+## 📊 Example Queries
+
+Try these queries to explore the evidence base:
+
+- "What percent of patients with BLVR had a pneumothorax?"
+- "Compare robotic bronchoscopy diagnostic yields"
+- "Show outcomes for central airway obstruction management"
+- "FEV1 improvement with endobronchial valves at 12 months"
+- "Adverse events in bronchial thermoplasty studies"
+
+## 🛠️ Installation Options
+
+### Option 1: Local Installation (Recommended)
+
+```bash
+# Clone and enter directory
+git clone https://github.com/russellmiller49/IP_chat2.git
+cd IP_chat2
+
+# Create virtual environment
+python -m venv .venv
+source .venv/bin/activate  # On Windows: .venv\Scripts\activate
+
+# Install package with desired edition
+pip install -e ".[lite]"   # Most users
+pip install -e ".[full]"   # Enterprise features
+pip install -e ".[dev]"    # Development
+
+# Set environment variables
+cp .env.example .env
+# Edit .env and add your OPENAI_API_KEY
+
+# Run
+ipchat run --edition lite
+```
+
+### Option 2: Docker
+
+```bash
+# Lite Edition (single container)
+docker-compose -f compose/docker-compose.lite.yml up
+
+# Full Edition (with PostgreSQL)
+docker-compose -f compose/docker-compose.full.yml up
+
+# Build specific edition
+docker build -f docker/Dockerfile.lite -t bronchmonkey:lite .
+docker run -p 8501:8501 -e OPENAI_API_KEY=$OPENAI_API_KEY bronchmonkey:lite
+```
+
+### Option 3: One-Command Setup
+
+```bash
+# Quick setup script
+curl -sSL https://raw.githubusercontent.com/russellmiller49/IP_chat2/main/setup.sh | bash
+```
+
+## 🎮 CLI Commands
+
+The unified CLI provides comprehensive control:
+
+```bash
+# Run different editions
+ipchat run --edition lite    # Lightweight version
+ipchat run --edition full    # Full stack with API
+ipchat run --edition space   # Hugging Face mode
+
+# Utilities
+ipchat info                  # Show configuration
+ipchat verify                # Check installation
+ipchat index --source data/  # Rebuild indexes
+
+# Development
+ipchat run --debug           # Debug mode
+ipchat export --format json  # Export data
+```
 
 ## 📁 Project Structure
 
 ```
 IP_chat2/
-├── chatbot_app.py              # Streamlit UI (Bronchmonkey interface)
-├── backend/
-│   └── api/
-│       └── main.py            # FastAPI backend with hybrid search
-├── indexing/
-│   ├── hybrid_search.py       # Hybrid search implementation
-│   ├── build_faiss.py         # Vector index builder
-│   └── build_bm25.py          # Keyword index builder
-├── data/
-│   ├── oe_final_outputs/      # Extracted structured evidence
-│   ├── index/                 # FAISS and BM25 indexes
-│   │   ├── faiss.index       # Vector embeddings (874 chunks)
-│   │   ├── bm25.pkl          # Keyword search index
-│   │   └── meta.jsonl        # Chunk metadata
-│   └── chunks/                # Document chunks for retrieval
-├── utils/
-│   └── citations.py           # Citation formatting utilities
-├── sql/
-│   └── schema.sql            # PostgreSQL database schema
-└── deployment/
-    ├── Dockerfile            # Container configuration
-    ├── docker-compose.yml    # Multi-container orchestration
-    └── DEPLOYMENT.md         # Deployment guide
-```
-
-## 💻 Installation
-
-### Prerequisites
-- Python 3.8+
-- PostgreSQL 14+ (or use Docker)
-- 8GB RAM recommended
-- OpenAI API key
-
-### Local Installation
-
-```bash
-# Clone repository
-git clone <repository>
-cd IP_chat2
-
-# Run setup script
-./setup.sh
-
-# This will:
-# - Install Python dependencies
-# - Setup PostgreSQL database
-# - Load research data
-# - Build search indexes
-# - Configure environment
-```
-
-### Docker Installation
-
-```bash
-# Using Docker Compose
-docker-compose up -d
-
-# Access at http://localhost:8501
+├── ipchat/                  # Main package
+│   ├── core/               # Shared logic (all editions)
+│   │   ├── retrieval/      # Search algorithms
+│   │   ├── pipelines/      # RAG orchestration
+│   │   ├── citations/      # Citation formatting
+│   │   └── config/         # Configuration management
+│   ├── adapters/           # External service adapters
+│   │   └── llm/           # LLM providers (OpenAI, etc.)
+│   ├── apps/              # Edition-specific applications
+│   └── cli.py             # Command-line interface
+├── data/                   # Indexes and evidence
+├── docker/                 # Docker configurations
+├── compose/               # Docker Compose files
+└── docs/                  # Documentation
 ```
 
 ## 🔧 Configuration
 
 ### Environment Variables
-Create `.env` file from template:
-```bash
-cp .env.example .env
-```
 
-Required settings:
-```env
+```bash
+# Required
 OPENAI_API_KEY=sk-...
-DATABASE_URL=postgresql://user:pass@localhost/ip_rag
+
+# Optional
+IPCHAT_EDITION=lite              # Default edition
+IPCHAT_LLM__MODEL=gpt-4o-mini   # AI model
+IPCHAT_DEPTH_FEATURES=true      # Enable depth mode
+IPCHAT_DEBUG_MODE=false         # Debug logging
 ```
 
-## 📊 How It Works
+### Configuration File
 
-### 1. Data Extraction Pipeline
-- Research papers processed using GPT models
-- Structured data extracted following OpenEvidence schema
-- Outcomes, safety data, and metadata preserved
+Create `config.json` for persistent settings:
 
-### 2. Indexing System
-- **FAISS**: Dense vector embeddings for semantic search
-- **BM25**: Sparse keyword index for exact term matching
-- **PostgreSQL**: Structured data for SQL queries
+```json
+{
+  "edition": "lite",
+  "llm": {
+    "model": "gpt-4o-mini",
+    "temperature": 0.3
+  },
+  "retrieval": {
+    "num_results": 10,
+    "vector_weight": 0.5,
+    "bm25_weight": 0.3
+  }
+}
+```
 
-### 3. Hybrid Search Strategy
-- **Vector Search** (50%): Finds semantically similar content
-- **Keyword Search** (30%): Matches exact medical terms
-- **SQL Queries** (20%): Retrieves structured outcomes data
-- **Score Fusion**: Weighted combination for optimal results
+## 🚢 Deployment
 
-### 4. Response Generation
-- Retrieves relevant evidence chunks
-- Generates comprehensive answers with citations
-- Formats sources in MLA style
+### Hugging Face Space Deployment
 
-## 🚀 Deployment Options
-
-### Quick Local Sharing
 ```bash
-./start.sh
-# Share your IP address with users on your network
+# Build Space Docker image
+docker build -f docker/Dockerfile.space -t bronchmonkey:space .
+
+# Test locally on Space port
+docker run -p 7860:7860 -e BASIC_AUTH_USERS=user:pass bronchmonkey:space
+
+# Deploy to Hugging Face
+huggingface-cli upload bronchmonkey ./space --repo-type space
 ```
 
-### Cloud Deployment
+### Production Deployment (Full Edition)
 
-#### Heroku (Easiest)
 ```bash
-heroku create bronchmonkey
-heroku addons:create heroku-postgresql:mini
-git push heroku main
+# Start full stack with PostgreSQL
+docker-compose -f compose/docker-compose.full.yml up -d
+
+# Check health
+curl http://localhost:8000/health  # API
+curl http://localhost:8501/_stcore/health  # UI
 ```
 
-#### AWS/Google Cloud/Azure
-See [DEPLOYMENT.md](DEPLOYMENT.md) for detailed instructions
+## 📊 Feature Comparison
 
-### Cost Estimates
-- **Local**: Free
-- **Heroku**: Free tier - $7/month
-- **Cloud VM**: $15-80/month
-- **API Usage**: ~$0.03 per query
+| Feature | Lite | Full | Space |
+|---------|:----:|:----:|:-----:|
+| **Streamlit UI** | ✅ | ✅ | ✅ |
+| **FastAPI Server** | ❌ | ✅ | ❌ |
+| **PostgreSQL** | ❌ | ✅ | ❌ |
+| **FAISS Search** | ✅ | ✅ | ✅ |
+| **BM25 Search** | ✅ | ✅ | ✅ |
+| **Depth Mode** | ✅ | ✅ | ✅ |
+| **Authentication** | Optional | ✅ | ✅ |
+| **Docker Support** | ✅ | ✅ | ✅ |
+| **Cloud Ready** | ✅ | ✅ | ✅ |
 
-## 📈 Example Queries
+## 🧪 Development
 
-- "What percent of patients with BLVR had a pneumothorax?"
-- "Compare FEV1 improvement between valve therapy and LVRS"
-- "Show studies on central airway obstruction management"
-- "What are outcomes for rigid bronchoscopy in malignant stenosis?"
-- "Pneumothorax rates in endobronchial valve studies"
+### Setup Development Environment
 
-## 🔬 Research Applications
+```bash
+# Install with dev dependencies
+pip install -e ".[dev]"
 
-- **Systematic Reviews**: Rapid evidence extraction
-- **Meta-Analyses**: Structured outcome data
-- **Clinical Guidelines**: Evidence synthesis
-- **Grant Applications**: Literature review support
-- **Case Presentations**: Quick evidence lookup
+# Run tests
+pytest tests/
 
-## 📊 System Performance
+# Code formatting
+black ipchat/
+ruff check ipchat/
 
-- **Search Speed**: <2 seconds per query
-- **Accuracy**: 95%+ relevant results in top 5
-- **Database**: 292 studies, 874 chunks
-- **Index Size**: 3.5MB FAISS, 8508 vocabulary terms
-- **Token Usage**: ~1000-2000 tokens per query
+# Type checking
+mypy ipchat/
+```
 
-## 🛠️ Troubleshooting
+### Adding New Features
 
-### Common Issues
+1. Implement in `ipchat/core/` for shared logic
+2. Add edition-specific behavior in config
+3. Update tests in `tests/`
+4. Document in `docs/`
 
-1. **"Database connection failed"**
-   - Check PostgreSQL is running
-   - Verify DATABASE_URL in .env
+## 📚 Documentation
 
-2. **"API key invalid"**
-   - Add OpenAI key to .env file
-   - Verify key has GPT-4 access
-
-3. **"No results found"**
-   - Rebuild indexes: `python3 indexing/build_faiss.py`
-   - Check data files exist in data/oe_final_outputs/
+- [Migration Guide](MIGRATION.md) - Upgrading from old versions
+- [Unified Architecture](docs/UNIFIED_ARCHITECTURE.md) - Technical details
+- [API Reference](docs/API.md) - API endpoints and usage
+- [Contributing](CONTRIBUTING.md) - How to contribute
 
 ## 🤝 Contributing
 
+We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
+
 1. Fork the repository
-2. Create feature branch
-3. Make improvements
-4. Submit pull request
+2. Create a feature branch
+3. Make your changes
+4. Add tests
+5. Submit a pull request
 
 ## 📄 License
 
-MIT License - See LICENSE file
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
-- Built on OpenEvidence data standards
-- Powered by OpenAI language models
-- Uses FAISS for efficient vector search
-- PostgreSQL for structured data
+- Built with [Streamlit](https://streamlit.io/)
+- Powered by [OpenAI GPT](https://openai.com/)
+- Search by [FAISS](https://github.com/facebookresearch/faiss)
+- Medical evidence from peer-reviewed publications
 
 ## 📞 Support
 
-- **Issues**: GitHub Issues
-- **Documentation**: This README + CLAUDE.md
-- **Deployment**: See DEPLOYMENT.md
+- **Issues**: [GitHub Issues](https://github.com/russellmiller49/IP_chat2/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/russellmiller49/IP_chat2/discussions)
+- **Email**: support@bronchmonkey.ai
 
 ---
 
-**Bronchmonkey - Your trusted companion for interventional pulmonology research** 🐵🔬
+**Bronchmonkey** - Evidence-based medicine at your fingertips 🐵
+
+*Version 0.2.0 | Last Updated: November 2024*

@@ -12,8 +12,8 @@ A sophisticated AI-powered research assistant designed specifically for **interv
 
 ```bash
 # Clone the repository
-git clone https://github.com/russellmiller49/IP_chat2.git
-cd IP_chat2
+git clone https://github.com/russellmiller49/IPchat.git
+cd IPchat
 
 # Install based on your needs
 pip install -e ".[lite]"   # Lightweight, no database
@@ -103,8 +103,8 @@ Try these queries to explore the evidence base:
 
 ```bash
 # Clone and enter directory
-git clone https://github.com/russellmiller49/IP_chat2.git
-cd IP_chat2
+git clone https://github.com/russellmiller49/IPchat.git
+cd IPchat
 
 # Create virtual environment
 python -m venv .venv
@@ -141,7 +141,7 @@ docker run -p 8501:8501 -e OPENAI_API_KEY=$OPENAI_API_KEY bronchmonkey:lite
 
 ```bash
 # Quick setup script
-curl -sSL https://raw.githubusercontent.com/russellmiller49/IP_chat2/main/setup.sh | bash
+curl -sSL https://raw.githubusercontent.com/russellmiller49/IPchat/main/setup.sh | bash
 ```
 
 ## 🎮 CLI Commands
@@ -167,7 +167,7 @@ ipchat export --format json  # Export data
 ## 📁 Project Structure
 
 ```
-IP_chat2/
+IPchat/
 ├── ipchat/                  # Main package
 │   ├── core/               # Shared logic (all editions)
 │   │   ├── retrieval/      # Search algorithms
@@ -314,8 +314,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/russellmiller49/IP_chat2/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/russellmiller49/IP_chat2/discussions)
+- **Issues**: [GitHub Issues](https://github.com/russellmiller49/IPchat/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/russellmiller49/IPchat/discussions)
 - **Email**: support@bronchmonkey.ai
 
 ---

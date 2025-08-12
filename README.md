@@ -54,6 +54,25 @@ Visit http://localhost:8501 to start querying medical evidence!
 - **Hybrid Search**: Combines FAISS vector search, BM25 keyword matching, and SQL queries
 - **874 Document Chunks**: Granular evidence retrieval
 - **292 Studies**: Comprehensive medical database
+
+### Textbook Content Extraction
+Extract structured clinical content from medical textbook chapters:
+
+```bash
+# Extract content from a textbook chapter
+python -m ipchat.cli extract-textbook \
+  --pdf "path/to/chapter.pdf" \
+  --adobe-json "path/to/chapter.json" \
+  --out outputs/
+```
+
+The textbook extractor:
+- **Validates source type**: Rejects research articles (detects Abstract/Methods/Results sections)
+- **Extracts structured content**: Procedures, algorithms, clinical guidelines, drug information
+- **Preserves provenance**: Page numbers, table/figure references with Adobe Extract paths
+- **Schema-validated output**: Ensures data quality with Pydantic models
+
+Output includes clinical procedures, treatment algorithms, guidelines with evidence levels, drug information, tables/figures, and clinical cases - all with page-level provenance tracking.
 - **Smart Citations**: Automatic (Author Year) formatting with MLA bibliography
 
 ### AI-Powered Analysis

@@ -1,0 +1,190 @@
+{
+  "$defs": {
+    "AlgorithmDecision": {
+      "properties": {
+        "question": {"type": "string"},
+        "options": {"default": [], "items": {"type": "string"}, "type": "array"},
+        "actions": {"default": [], "items": {"type": "string"}, "type": "array"}
+      },
+      "required": ["question"],
+      "type": "object"
+    },
+    "Algorithm": {
+      "properties": {
+        "id": {"anyOf": [{"type": "string"}, {"type": "null"}], "default": null},
+        "title": {"type": "string"},
+        "purpose": {"anyOf": [{"type": "string"}, {"type": "null"}], "default": null},
+        "decision_points": {"default": [], "items": {"$ref": "#/$defs/AlgorithmDecision"}, "type": "array"},
+        "pages": {"default": [], "items": {"type": "integer"}, "type": "array"}
+      },
+      "required": ["title"],
+      "type": "object"
+    },
+    "BoxBlock": {
+      "properties": {
+        "box_id": {"anyOf": [{"type": "string"}, {"type": "null"}], "default": null},
+        "title": {"anyOf": [{"type": "string"}, {"type": "null"}], "default": null},
+        "kind": {"anyOf": [{"enum": ["tip", "warning", "pearl", "note"], "type": "string"}, {"type": "null"}], "default": null},
+        "content": {"type": "string"},
+        "page": {"anyOf": [{"type": "integer"}, {"type": "null"}], "default": null}
+      },
+      "required": ["content"],
+      "type": "object"
+    },
+    "ChapterMetadata": {
+      "properties": {
+        "title": {"type": "string"},
+        "authors": {"default": [], "items": {"type": "string"}, "type": "array"},
+        "chapter_number": {"anyOf": [{"type": "string"}, {"type": "null"}], "default": null},
+        "learning_objectives": {"default": [], "items": {"type": "object"}, "type": "array"},
+        "key_points": {"default": [], "items": {"type": "object"}, "type": "array"}
+      },
+      "required": ["title"],
+      "type": "object"
+    },
+    "ClinicalCase": {
+      "properties": {
+        "case_id": {"anyOf": [{"type": "string"}, {"type": "null"}], "default": null},
+        "presentation": {"type": "string"},
+        "history": {"anyOf": [{"type": "string"}, {"type": "null"}], "default": null},
+        "examination_findings": {"anyOf": [{"type": "string"}, {"type": "null"}], "default": null},
+        "investigations": {"default": [], "items": {"type": "string"}, "type": "array"},
+        "diagnosis": {"anyOf": [{"type": "string"}, {"type": "null"}], "default": null},
+        "management": {"anyOf": [{"type": "string"}, {"type": "null"}], "default": null},
+        "outcome": {"anyOf": [{"type": "string"}, {"type": "null"}], "default": null},
+        "learning_points": {"default": [], "items": {"type": "string"}, "type": "array"},
+        "page_range": {"default": [], "items": {"type": "integer"}, "type": "array"}
+      },
+      "required": ["presentation"],
+      "type": "object"
+    },
+    "ClinicalGuideline": {
+      "properties": {
+        "guideline": {"type": "string"},
+        "category": {"anyOf": [{"type": "string"}, {"type": "null"}], "default": null},
+        "recommendation_grade": {"anyOf": [{"type": "string"}, {"type": "null"}], "default": null},
+        "evidence_level": {"anyOf": [{"type": "string"}, {"type": "null"}], "default": null},
+        "details": {"anyOf": [{"type": "string"}, {"type": "null"}], "default": null},
+        "page": {"anyOf": [{"type": "integer"}, {"type": "null"}], "default": null}
+      },
+      "required": ["guideline"],
+      "type": "object"
+    },
+    "Definition": {
+      "properties": {
+        "term": {"type": "string"},
+        "definition": {"type": "string"},
+        "context": {"anyOf": [{"type": "string"}, {"type": "null"}], "default": null},
+        "page": {"anyOf": [{"type": "integer"}, {"type": "null"}], "default": null}
+      },
+      "required": ["term", "definition"],
+      "type": "object"
+    },
+    "DrugInfo": {
+      "properties": {
+        "drug_name": {"type": "string"},
+        "drug_class": {"anyOf": [{"type": "string"}, {"type": "null"}], "default": null},
+        "indications": {"default": [], "items": {"type": "string"}, "type": "array"},
+        "dosage": {"anyOf": [{"type": "string"}, {"type": "null"}], "default": null},
+        "contraindications": {"default": [], "items": {"type": "string"}, "type": "array"},
+        "side_effects": {"default": [], "items": {"type": "string"}, "type": "array"},
+        "page": {"anyOf": [{"type": "integer"}, {"type": "null"}], "default": null}
+      },
+      "required": ["drug_name"],
+      "type": "object"
+    },
+    "FigureBlock": {
+      "properties": {
+        "figure_id": {"anyOf": [{"type": "string"}, {"type": "null"}], "default": null},
+        "title": {"anyOf": [{"type": "string"}, {"type": "null"}], "default": null},
+        "caption": {"anyOf": [{"type": "string"}, {"type": "null"}], "default": null},
+        "kind": {"anyOf": [{"enum": ["photo", "fluoro", "endoscopic", "diagram", "algorithm"], "type": "string"}, {"type": "null"}], "default": null},
+        "clinical_significance": {"anyOf": [{"type": "string"}, {"type": "null"}], "default": null},
+        "page": {"anyOf": [{"type": "integer"}, {"type": "null"}], "default": null},
+        "asset_path": {"anyOf": [{"type": "string"}, {"type": "null"}], "default": null},
+        "bbox": {"anyOf": [{"items": {"type": "number"}, "type": "array"}, {"type": "null"}], "default": null}
+      },
+      "type": "object"
+    },
+    "Procedure": {
+      "properties": {
+        "name": {"type": "string"},
+        "indications": {"default": [], "items": {"type": "string"}, "type": "array"},
+        "contraindications": {"default": [], "items": {"type": "string"}, "type": "array"},
+        "required_equipment": {"default": [], "items": {"type": "string"}, "type": "array"},
+        "steps": {"default": [], "items": {"$ref": "#/$defs/ProcedureStep"}, "type": "array"},
+        "complications": {"default": [], "items": {"type": "string"}, "type": "array"},
+        "page_range": {"default": [], "items": {"type": "integer"}, "type": "array"}
+      },
+      "required": ["name"],
+      "type": "object"
+    },
+    "ProcedureStep": {
+      "properties": {
+        "step_number": {"type": "integer"},
+        "description": {"type": "string"},
+        "critical_points": {"default": [], "items": {"type": "string"}, "type": "array"}
+      },
+      "required": ["step_number", "description"],
+      "type": "object"
+    },
+    "Provenance": {
+      "properties": {
+        "pdf_path": {"type": "string"},
+        "adobe_json_path": {"type": "string"},
+        "file_hash": {"type": "string"},
+        "model": {"type": "string"},
+        "extracted_at": {"type": "string"}
+      },
+      "required": ["pdf_path", "adobe_json_path", "file_hash", "model", "extracted_at"],
+      "type": "object"
+    },
+    "Reference": {
+      "properties": {
+        "citation": {"type": "string"},
+        "doi": {"anyOf": [{"type": "string"}, {"type": "null"}], "default": null},
+        "pmid": {"anyOf": [{"type": "string"}, {"type": "null"}], "default": null},
+        "ref_type": {"anyOf": [{"type": "string"}, {"type": "null"}], "default": null},
+        "page": {"anyOf": [{"type": "integer"}, {"type": "null"}], "default": null}
+      },
+      "required": ["citation"],
+      "type": "object"
+    },
+    "SummaryBlock": {
+      "properties": {
+        "chapter_summary": {"anyOf": [{"type": "string"}, {"type": "null"}], "default": null},
+        "clinical_pearls": {"default": [], "items": {"type": "string"}, "type": "array"},
+        "practice_recommendations": {"default": [], "items": {"type": "string"}, "type": "array"},
+        "future_directions": {"anyOf": [{"type": "string"}, {"type": "null"}], "default": null}
+      },
+      "type": "object"
+    },
+    "TableBlock": {
+      "properties": {
+        "table_id": {"anyOf": [{"type": "string"}, {"type": "null"}], "default": null},
+        "title": {"anyOf": [{"type": "string"}, {"type": "null"}], "default": null},
+        "description": {"anyOf": [{"type": "string"}, {"type": "null"}], "default": null},
+        "headers": {"default": [], "items": {"type": "string"}, "type": "array"},
+        "rows": {"default": [], "items": {"items": {"type": "string"}, "type": "array"}, "type": "array"},
+        "footnotes": {"default": [], "items": {"type": "string"}, "type": "array"},
+        "clinical_relevance": {"anyOf": [{"type": "string"}, {"type": "null"}], "default": null},
+        "page": {"anyOf": [{"type": "integer"}, {"type": "null"}], "default": null},
+        "source_xlsx": {"anyOf": [{"type": "string"}, {"type": "null"}], "default": null},
+        "bbox": {"anyOf": [{"items": {"type": "number"}, "type": "array"}, {"type": "null"}], "default": null}
+      },
+      "type": "object"
+    }
+  },
+  "properties": {
+    "chapter_metadata": {"$ref": "#/$defs/ChapterMetadata"},
+    "clinical_content": {"type": "object"},
+    "structured_data": {"type": "object"},
+    "clinical_cases": {"default": [], "items": {"$ref": "#/$defs/ClinicalCase"}, "type": "array"},
+    "definitions": {"default": [], "items": {"$ref": "#/$defs/Definition"}, "type": "array"},
+    "references": {"default": [], "items": {"$ref": "#/$defs/Reference"}, "type": "array"},
+    "summary": {"$ref": "#/$defs/SummaryBlock"},
+    "provenance": {"$ref": "#/$defs/Provenance"}
+  },
+  "required": ["chapter_metadata", "clinical_content", "structured_data", "summary", "provenance"],
+  "type": "object"
+}

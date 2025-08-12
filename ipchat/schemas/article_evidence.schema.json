@@ -1,0 +1,278 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Medical Evidence OpenEvidence Schema",
+  "description": "Structured medical evidence extraction schema for OpenEvidence-level answers",
+  "type": "object",
+  "required": ["source", "document", "pico", "arms", "outcomes_normalized"],
+  "properties": {
+    "source": {
+      "type": "object",
+      "required": ["document_id", "ingest_date", "trial_registration_id"],
+      "properties": {
+        "document_id": {"type": "string"},
+        "ingest_date": {"type": "string", "format": "date-time"},
+        "trial_registration_id": {"type": "string"},
+        "pmid": {"type": "string"},
+        "doi": {"type": "string"}
+      }
+    },
+    "document": {
+      "type": "object",
+      "required": ["metadata", "sections"],
+      "properties": {
+        "metadata": {
+          "type": "object",
+          "required": ["title", "year", "authors", "journal"],
+          "properties": {
+            "title": {"type": "string"},
+            "year": {"type": "integer"},
+            "authors": {"type": "array", "items": {"type": "string"}},
+            "journal": {"type": "string"},
+            "publication_date": {"type": "string", "format": "date"}
+          }
+        },
+        "sections": {
+          "type": "object",
+          "properties": {
+            "abstract": {"type": "string"},
+            "background": {"type": "string"},
+            "methods": {"type": "string"},
+            "results": {"type": "string"},
+            "discussion": {"type": "string"},
+            "conclusion": {"type": "string"}
+          }
+        }
+      }
+    },
+    "pico": {
+      "type": "object",
+      "required": ["population", "intervention", "comparison", "outcomes"],
+      "properties": {
+        "population": {
+          "type": "object",
+          "properties": {
+            "text": {"type": "string"},
+            "codes": {"type": "array", "items": {"type": "string"}},
+            "inclusion_criteria": {"type": "array", "items": {"type": "string"}},
+            "exclusion_criteria": {"type": "array", "items": {"type": "string"}}
+          }
+        },
+        "intervention": {
+          "type": "object",
+          "properties": {
+            "text": {"type": "string"},
+            "codes": {"type": "array", "items": {"type": "string"}},
+            "details": {"type": "string"}
+          }
+        },
+        "comparison": {
+          "type": "object",
+          "properties": {
+            "text": {"type": "string"},
+            "codes": {"type": "array", "items": {"type": "string"}},
+            "details": {"type": "string"}
+          }
+        },
+        "outcomes": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "name": {"type": "string"},
+              "type": {"type": "string", "enum": ["primary", "secondary", "safety"]},
+              "umls_cui": {"type": "string"}
+            }
+          }
+        }
+      }
+    },
+    "design": {
+      "type": "object",
+      "required": ["study_type", "allocation", "blinding", "duration"],
+      "properties": {
+        "study_type": {"type": "string"},
+        "allocation": {"type": "string"},
+        "blinding": {"type": "string"},
+        "duration": {
+          "type": "object",
+          "properties": {
+            "enrollment_period": {"type": "string"},
+            "follow_up": {"type": "string"},
+            "primary_endpoint_time": {"type": "string"}
+          }
+        },
+        "sites_count": {"type": "integer"},
+        "countries": {"type": "array", "items": {"type": "string"}},
+        "sample_size": {
+          "type": "object",
+          "properties": {
+            "planned": {"type": "integer"},
+            "enrolled": {"type": "integer"},
+            "analyzed": {"type": "integer"}
+          }
+        }
+      }
+    },
+    "arms": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["arm_id", "name"],
+        "properties": {
+          "arm_id": {"type": "string"},
+          "name": {"type": "string"},
+          "description": {"type": "string"},
+          "n_randomized": {"type": ["integer", "null"]},
+          "n_analyzed": {"type": ["integer", "null"]},
+          "n_completed": {"type": ["integer", "null"]},
+          "exposure_details": {"type": "string"}
+        }
+      }
+    },
+    "outcomes_normalized": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["concept_id", "name", "type", "timepoint_iso8601"],
+        "properties": {
+          "concept_id": {"type": "string"},
+          "name": {"type": "string"},
+          "type": {"type": "string", "enum": ["binary", "continuous", "time_to_event", "ordinal"]},
+          "outcome_type": {"type": "string", "enum": ["primary", "secondary", "exploratory"]},
+          "timepoint_iso8601": {"type": "string"},
+          "timepoint_label": {"type": "string"},
+          "groups": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "arm_id": {"type": "string"},
+                "raw": {
+                  "type": "object",
+                  "properties": {
+                    "events": {"type": ["integer", "null"]},
+                    "total": {"type": ["integer", "null"]},
+                    "mean": {"type": ["number", "null"]},
+                    "sd": {"type": ["number", "null"]},
+                    "median": {"type": ["number", "null"]},
+                    "iqr": {"type": ["array", "null"]},
+                    "person_time": {"type": ["number", "null"]}
+                  }
+                }
+              }
+            }
+          },
+          "comparison": {
+            "type": "object",
+            "properties": {
+              "ref_arm_id": {"type": "string"},
+              "measure": {"type": "string"},
+              "est": {"type": ["number", "null"]},
+              "unit": {"type": "string"},
+              "ci_lower": {"type": ["number", "null"]},
+              "ci_upper": {"type": ["number", "null"]},
+              "ci_level": {"type": "number"},
+              "p_value": {"type": ["number", "string", "null"]},
+              "adjusted": {"type": "boolean"},
+              "adjustment_factors": {"type": "array", "items": {"type": "string"}}
+            }
+          },
+          "provenance": {
+            "type": "object",
+            "properties": {
+              "pages": {"type": "array", "items": {"type": "integer"}},
+              "tables": {"type": "array", "items": {"type": "string"}},
+              "figures": {"type": "array", "items": {"type": "string"}},
+              "quote": {"type": "string"},
+              "section": {"type": "string"}
+            }
+          }
+        }
+      }
+    },
+    "safety_normalized": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["event_name"],
+        "properties": {
+          "event_name": {"type": "string"},
+          "meddra": {
+            "type": "object",
+            "properties": {
+              "soc": {"type": "string"},
+              "pt": {"type": "string"},
+              "code": {"type": "string"}
+            }
+          },
+          "serious": {"type": "boolean"},
+          "severity": {"type": "string"},
+          "relationship": {"type": "string"},
+          "groups": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "arm_id": {"type": "string"},
+                "events": {"type": ["integer", "null"]},
+                "patients": {"type": ["integer", "null"]},
+                "rate": {"type": ["number", "null"]},
+                "percentage": {"type": ["number", "null"]},
+                "person_time": {"type": ["number", "null"]}
+              }
+            }
+          },
+          "period": {"type": "string"},
+          "management": {"type": "string"},
+          "provenance": {
+            "type": "object",
+            "properties": {
+              "pages": {"type": "array", "items": {"type": "integer"}},
+              "tables": {"type": "array", "items": {"type": "string"}},
+              "quote": {"type": "string"}
+            }
+          }
+        }
+      }
+    },
+    "risk_of_bias": {
+      "type": "object",
+      "properties": {
+        "tool": {"type": "string"},
+        "overall_judgment": {"type": "string"},
+        "domains": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "name": {"type": "string"},
+              "judgment": {"type": "string", "enum": ["low", "some_concerns", "high"]},
+              "support_for_judgment": {"type": "string"}
+            }
+          }
+        }
+      }
+    },
+    "grade": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "outcome_concept_id": {"type": "string"},
+          "rating": {"type": "string", "enum": ["high", "moderate", "low", "very_low"]},
+          "reasons": {"type": "array", "items": {"type": "string"}}
+        }
+      }
+    },
+    "retrieval": {
+      "type": "object",
+      "required": ["keywords", "summary_tldr"],
+      "properties": {
+        "keywords": {"type": "array", "items": {"type": "string"}},
+        "summary_tldr": {"type": "string"},
+        "clinical_relevance": {"type": "string"},
+        "embedding_ref": {"type": "string"}
+      }
+    }
+  }
+}

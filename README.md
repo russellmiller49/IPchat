@@ -175,7 +175,7 @@ OPENAI_API_KEY=sk-...
 
 # Optional
 IPCHAT_EDITION=lite              # Default edition
-IPCHAT_LLM__MODEL=gpt-4o-mini   # AI model
+IPCHAT_LLM__MODEL=gpt-5-mini    # AI model
 IPCHAT_DEPTH_FEATURES=true      # Enable depth mode
 IPCHAT_DEBUG_MODE=false         # Debug logging
 ```
@@ -188,7 +188,7 @@ Create `config.json` for persistent settings:
 {
   "edition": "lite",
   "llm": {
-    "model": "gpt-4o-mini",
+    "model": "gpt-5-mini",
     "temperature": 0.3
   },
   "retrieval": {

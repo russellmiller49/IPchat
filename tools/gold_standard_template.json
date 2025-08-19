@@ -1,0 +1,267 @@
+{
+  "chapter_metadata": {
+    "title": "Chapter Title",
+    "authors": ["Author 1", "Author 2"],
+    "source": "Book/Journal Source",
+    "page_range": {
+      "start": 1,
+      "end": 10
+    },
+    "abstract_key_points": [
+      "Key point 1 from abstract/introduction",
+      "Key point 2 summarizing chapter focus",
+      "Key point 3 about main concepts"
+    ]
+  },
+  
+  "definitions": [
+    {
+      "term": "Abbreviation",
+      "definition": "Full definition",
+      "present_in_source": true,
+      "reference": "[1] or [Chapter Text]"
+    }
+  ],
+  
+  "diagnostic_approaches": [
+    {
+      "name": "Diagnostic Test/Modality Name",
+      "purpose": "Why this test is used",
+      "criteria_or_scoring": [
+        "Criterion 1 with threshold",
+        "Criterion 2 with cutoff value"
+      ],
+      "performance": {
+        "sensitivity": {
+          "value": 0.95,
+          "unit": "proportion"
+        },
+        "specificity": {
+          "value": 0.85,
+          "unit": "proportion"
+        },
+        "ppv": {
+          "value": 0.90,
+          "unit": "proportion"
+        },
+        "npv": {
+          "value": 0.92,
+          "unit": "proportion"
+        }
+      },
+      "interpretation": "How to interpret results in clinical practice",
+      "limitations": [
+        "False positives in X condition",
+        "Reduced accuracy in Y population"
+      ],
+      "when_to_use": "Clinical scenarios for application",
+      "reference": "[Reference number]"
+    }
+  ],
+  
+  "risk_models": [
+    {
+      "model_name": "Model Name (e.g., Mayo, Brock)",
+      "setting": "Where/when model applies",
+      "cohort": {
+        "n": 1000,
+        "prevalence_malignancy": "25%"
+      },
+      "predictors": [
+        "Age",
+        "Smoking history",
+        "Clinical feature 1",
+        "Clinical feature 2"
+      ],
+      "performance": {
+        "auc": 0.85,
+        "sensitivity": 0.90,
+        "specificity": 0.80
+      },
+      "notes": "Additional context or limitations",
+      "reference": "[15]"
+    }
+  ],
+  
+  "clinical_guidelines": [
+    {
+      "organization": "ACCP/BTS/Other",
+      "year": 2024,
+      "risk_bands": {
+        "low": "<5%",
+        "intermediate": "5-65%",
+        "high": ">65%"
+      },
+      "recommendations": [
+        {
+          "population": "Patient group description",
+          "action": "Recommended action/intervention",
+          "evidence_level": "Grade A/B/C",
+          "reference": "[14]"
+        }
+      ],
+      "shared_decision_making": "Notes on patient preference integration",
+      "comparison_to_other_guidelines": "How this differs from other guidelines",
+      "reference": "[Guideline reference]"
+    }
+  ],
+  
+  "treatment_algorithms": [
+    {
+      "title": "Algorithm name",
+      "figure_id": "Fig. 1",
+      "type": "flowchart/decision_tree/algorithm",
+      "summary": "Text description of algorithm flow",
+      "key_decision_points": [
+        "Decision point 1 and branching logic",
+        "Decision point 2 and outcomes"
+      ],
+      "reference": "[Reference]"
+    }
+  ],
+  
+  "technology_and_technique": [
+    {
+      "topic": "Procedural technique or technology",
+      "summary": "Key findings, yields, safety outcomes with specific percentages",
+      "diagnostic_yield": "69% (meta-analysis of 16,000 patients)",
+      "complications": "2% pneumothorax rate",
+      "comparison": "vs other modalities if available",
+      "reference": "[46]"
+    }
+  ],
+  
+  "guideline_adherence": {
+    "problems_observed": [
+      {
+        "finding": "Main adherence issue",
+        "details": "44% of low-risk patients underwent unnecessary procedures",
+        "study_population": "Community practice, n=500",
+        "reference": "[28]"
+      }
+    ],
+    "implication": "Overall impact on patient care and recommendations"
+  },
+  
+  "tables": [
+    {
+      "title": "Table title",
+      "headers": ["Column 1", "Column 2", "Column 3"],
+      "rows": [
+        ["Row 1 Col 1", "Row 1 Col 2", "Row 1 Col 3"],
+        ["Row 2 Col 1", "Row 2 Col 2", "Row 2 Col 3"]
+      ],
+      "clinical_interpretation": "What this table means for clinical practice",
+      "data_objects": [
+        {
+          "structured_row_1_key": "value",
+          "performance_metric": {
+            "value": 0.85,
+            "unit": "proportion"
+          }
+        }
+      ],
+      "footnotes": ["Footnote 1", "Footnote 2"],
+      "reference": "[Table source]"
+    }
+  ],
+  
+  "figures": [
+    {
+      "figure_id": "Fig. 1",
+      "title": "Figure title",
+      "type": "graph/chart/image/algorithm",
+      "page": 5,
+      "caption": "Full figure caption",
+      "key_points": [
+        "Main finding from figure",
+        "Important trend or pattern shown"
+      ],
+      "reference": "[Figure source]"
+    }
+  ],
+  
+  "clinical_pearls": [
+    {
+      "content": "High-yield clinical teaching point",
+      "context": "When this applies",
+      "evidence_level": "Strong/Moderate/Weak",
+      "reference": "[Source]"
+    }
+  ],
+  
+  "clinical_cases": [
+    {
+      "scenario": "Patient presentation or clinical situation",
+      "teaching_point": "Key lesson from this case",
+      "outcome": "What happened to the patient",
+      "reference": "[Case source]"
+    }
+  ],
+  
+  "procedures": [
+    {
+      "name": "Procedure name",
+      "indications": ["Indication 1", "Indication 2"],
+      "contraindications": ["Contraindication 1"],
+      "technique": "Step-by-step description",
+      "complications": [
+        {
+          "complication": "Pneumothorax",
+          "rate": "2-5%",
+          "management": "How to manage"
+        }
+      ],
+      "tips_and_tricks": ["Tip 1", "Tip 2"],
+      "reference": "[Procedure reference]"
+    }
+  ],
+  
+  "medications": [
+    {
+      "drug_name": "Generic name",
+      "brand_names": ["Brand 1", "Brand 2"],
+      "mechanism": "How it works",
+      "indications": ["Indication 1"],
+      "dosing": "Standard dosing regimen",
+      "side_effects": ["Common SE", "Serious SE"],
+      "contraindications": ["CI 1"],
+      "monitoring": "What to monitor",
+      "reference": "[Drug reference]"
+    }
+  ],
+  
+  "conclusion": {
+    "points": [
+      "Main take-home message 1",
+      "Main take-home message 2",
+      "Future directions or areas of uncertainty"
+    ],
+    "clinical_bottom_line": "One-sentence summary for clinicians",
+    "reference": "[Chapter Conclusion]"
+  },
+  
+  "references": [
+    "1. Author et al. Journal. Year;Volume:Pages.",
+    "2. Second reference in standard format."
+  ],
+  
+  "extraction_metadata": {
+    "source_pdf": "filename.pdf",
+    "adobe_json": "filename.json",
+    "extraction_date": "2024-08-19",
+    "model": "gpt-5",
+    "schema_version": "gold_standard_v1.0",
+    "enhancement_version": "1.0",
+    "notes": [
+      "Any special processing notes",
+      "Known limitations or issues"
+    ],
+    "quality_metrics": {
+      "completeness_score": 0.95,
+      "sections_extracted": 15,
+      "sections_enhanced": 5,
+      "references_linked": 45
+    }
+  }
+}

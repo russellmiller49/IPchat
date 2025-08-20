@@ -79,6 +79,48 @@ class TextbookGoldStandardEnhancer:
             'accuracy': r'accuracy[:\s]+([0-9.]+)%?',
             'auc': r'(?:auc|area.?under|c.?statistic)[:\s]+([0-9.]+)'
         }
+    
+    def _call_llm_json(self, system: str, user: str) -> Any:
+        """
+        Call OpenAI with strict JSON output, routing GPT-5 to Responses API
+        and others to Chat Completions.
+        """
+        if not self.client:
+            return None
+        
+        model = self.config.model
+        use_responses = model.lower().startswith("gpt-5") and not model.lower().startswith("gpt-5-chat")
+        
+        try:
+            if use_responses:
+                # GPT-5 via Responses API
+                resp = self.client.responses.create(
+                    model=model,
+                    input=f"{system}\n\n{user}",
+                    response_format={"type": "json_object"}
+                )
+                content = getattr(resp, "output_text", None) or str(resp)
+            else:
+                # Chat Completions API
+                resp = self.client.chat.completions.create(
+                    model=model,
+                    messages=[
+                        {"role": "system", "content": system},
+                        {"role": "user", "content": user}
+                    ],
+                    response_format={"type": "json_object"},
+                    temperature=0
+                )
+                content = resp.choices[0].message.content
+            
+            # Strip accidental fences
+            if content and content.strip().startswith("```"):
+                stripped = content.strip().strip("`")
+                content = stripped[4:].lstrip() if stripped.lower().startswith("json") else stripped
+            
+            return json.loads(content)
+        except Exception:
+            return None
         
     def enhance(self, 
                 input_json: Dict[str, Any], 
@@ -254,18 +296,11 @@ class TextbookGoldStandardEnhancer:
         """
         
         try:
-            response = self.client.chat.completions.create(
-                model=self.config.model,
-                messages=[
-                    {"role": "system", "content": "You are a medical textbook content extractor."},
-                    {"role": "user", "content": f"{prompt}\n\nText:\n{text[:8000]}"}
-                ],
-                response_format={"type": "json_object"},
-                temperature=0
+            result = self._call_llm_json(
+                "You are a medical textbook content extractor.",
+                f"{prompt}\n\nText:\n{text[:8000]}"
             )
-            
-            result = json.loads(response.choices[0].message.content)
-            return result if result.get('problems_observed') else {}
+            return result if result and result.get('problems_observed') else {}
             
         except Exception as e:
             if self.config.verbose:
@@ -297,17 +332,10 @@ class TextbookGoldStandardEnhancer:
         """
         
         try:
-            response = self.client.chat.completions.create(
-                model=self.config.model,
-                messages=[
-                    {"role": "system", "content": "You are a medical textbook content extractor."},
-                    {"role": "user", "content": f"{prompt}\n\nText:\n{text[:8000]}"}
-                ],
-                response_format={"type": "json_object"},
-                temperature=0
+            result = self._call_llm_json(
+                "You are a medical textbook content extractor.",
+                f"{prompt}\n\nText:\n{text[:8000]}"
             )
-            
-            result = json.loads(response.choices[0].message.content)
             return result if isinstance(result, list) else []
             
         except Exception as e:

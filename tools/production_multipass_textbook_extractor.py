@@ -600,7 +600,9 @@ def perform_extraction_pass_with_retry(
     model: str = "gpt-4o",
     max_retries: int = 3,
     schema_name: Optional[str] = None,
-    schema: Optional[dict] = None
+    schema: Optional[dict] = None,
+    pass_name: str = "unknown",
+    chunk_label: str = ""
 ) -> Dict[str, Any]:
     """
     Perform extraction pass with exponential backoff retry
@@ -629,36 +631,52 @@ def perform_extraction_pass_with_retry(
                 
                 if use_responses:
                     # --- GPT-5 via Responses API ---
-                    # Based on working article extractor: GPT-5 returns JSON by default
-                    # when properly prompted, no format specification needed
-                    
-                    # Combine system and user prompts for GPT-5
                     combined_prompt = f"{system_content}\n\n{user_prompt}"
                     
-                    print(f"\n  🚀 Calling GPT-5 Responses API (chunk {chunk_idx+1}/{len(chunks)}, pass {pass_name})...")
+                    # Use safe labels instead of undefined variables
+                    if chunk_label:
+                        print(f"\n  🚀 Calling GPT-5 Responses API ({chunk_label}, pass {pass_name})")
+                    else:
+                        print(f"\n  🚀 Calling GPT-5 Responses API (pass {pass_name})")
                     print(f"     Model: {model}")
                     print(f"     Input length: {len(combined_prompt)} chars")
                     
                     import time
                     start_time = time.time()
                     
-                    # Simple API call like the working article extractor
+                    # Ask GPT-5 for strict JSON with schema if available
+                    response_format = {"type": "json_object"}
+                    if schema:
+                        response_format = {
+                            "type": "json_schema",
+                            "json_schema": {
+                                "name": schema_name or "ExtractionSchema",
+                                "schema": schema
+                            }
+                        }
+                    
+                    # GPT-5 Responses API with proper JSON format
                     resp = client.responses.create(
                         model=model,
-                        input=combined_prompt  # Single combined input
-                        # No text.format parameter - GPT-5 handles JSON natively
-                        # No temperature/top_p - not supported by Responses API
-                        # No max_output_tokens - use default
+                        input=combined_prompt,
+                        response_format=response_format
                     )
                     
                     elapsed = time.time() - start_time
                     print(f"  ✅ GPT-5 response received in {elapsed:.1f} seconds")
                     
-                    # Get output text
-                    if hasattr(resp, 'output_text'):
-                        content = resp.output_text
-                    else:
-                        # Fallback for different response structure
+                    # Consolidate text from Responses API (handle different response structures)
+                    content = getattr(resp, "output_text", None)
+                    if not content and hasattr(resp, "output"):
+                        try:
+                            # Some SDKs expose a list of parts
+                            content = "".join(
+                                p.get("text", "") if isinstance(p, dict) else str(p)
+                                for p in (resp.output or [])
+                            )
+                        except Exception:
+                            content = None
+                    if not content:
                         content = str(resp)
                     
                 else:
@@ -689,10 +707,17 @@ def perform_extraction_pass_with_retry(
                     )
                     content = resp.choices[0].message.content
                 
-                # Remove accidental code fences
+                # Remove code fences and clamp to first JSON object if needed
                 if content and content.strip().startswith("```"):
                     stripped = content.strip().strip("`")
                     content = stripped[4:].lstrip() if stripped.lower().startswith("json") else stripped
+                
+                # Extract JSON even if there's extra text
+                if content and not content.strip().startswith("{"):
+                    import re
+                    m = re.search(r'\{.*\}', content, re.S)
+                    if m:
+                        content = m.group(0)
                 
                 return json.loads(content or "{}")
         
@@ -718,7 +743,10 @@ def extract_chunk_concurrent(
     
     results = {}
     
-    with ThreadPoolExecutor(max_workers=3) as executor:
+    # Lower concurrency for GPT-5 to avoid rate limits
+    max_workers = 2 if model.lower().startswith("gpt-5") else 3
+    
+    with ThreadPoolExecutor(max_workers=max_workers) as executor:
         futures = {}
         
         for pass_key in passes:
@@ -744,6 +772,9 @@ def extract_chunk_concurrent(
             # Get schema for structured outputs if available
             schema_name, schema = build_schema(pass_key)
             
+            # Create chunk label for debugging
+            chunk_label = f"pages {chunk['page_start']}-{chunk['page_end']}"
+            
             future = executor.submit(
                 perform_extraction_pass_with_retry,
                 chunk['text'],
@@ -751,7 +782,9 @@ def extract_chunk_concurrent(
                 xlsx_content=xlsx_content,
                 model=model,
                 schema_name=schema_name,
-                schema=schema
+                schema=schema,
+                pass_name=pass_key,
+                chunk_label=chunk_label
             )
             futures[future] = pass_key
         

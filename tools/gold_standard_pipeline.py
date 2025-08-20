@@ -142,11 +142,11 @@ class GoldStandardPipeline:
             # Direct function call instead of subprocess
             output_path = process_single_chapter(
                 pdf_path=pdf_path,
-                adobe_json=adobe_json_path,
+                adobe_json_path=adobe_json_path,  # Fixed parameter name
                 output_dir=self.output_dir / "raw_extractions",
-                title=title,
-                model=self.model,
-                verbose=self.verbose
+                chapter_title=title,  # Fixed parameter name
+                model=self.model
+                # Note: verbose not supported by process_single_chapter
             )
             
             return output_path

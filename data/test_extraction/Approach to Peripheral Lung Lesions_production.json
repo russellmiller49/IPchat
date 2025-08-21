@@ -1,0 +1,2332 @@
+{
+  "chapter_metadata": {
+    "title": {
+      "text": "Approach to Peripheral Lung Lesions",
+      "present_in_source": true,
+      "source_page": 1,
+      "source_excerpt": "Approach to Peripheral Lung Lesions",
+      "value": ""
+    },
+    "authors": [
+      {
+        "name": "Vidhya Y. Aroumougame",
+        "present_in_source": true,
+        "source_page": 1,
+        "source_excerpt": "Vidhya Y. Aroumougame, Kathryn J. Long, and Gerard A. Silvestri",
+        "page_range": "1-6"
+      },
+      {
+        "name": "Kathryn J. Long",
+        "present_in_source": true,
+        "source_page": 1,
+        "source_excerpt": "Vidhya Y. Aroumougame, Kathryn J. Long, and Gerard A. Silvestri",
+        "page_range": "1-6"
+      },
+      {
+        "name": "Gerard A. Silvestri",
+        "present_in_source": true,
+        "source_page": 1,
+        "source_excerpt": "Vidhya Y. Aroumougame, Kathryn J. Long, and Gerard A. Silvestri",
+        "page_range": "1-6"
+      }
+    ],
+    "chapter_number": {
+      "value": null,
+      "present_in_source": false,
+      "source_page": null,
+      "source_excerpt": null
+    },
+    "learning_objectives": [],
+    "key_points": [
+      {
+        "text": "Indeterminate pulmonary nodules (IPNs) are commonly encountered in interventional pulmonary practices. The challenge lies in how to proceed with diagnosis and man- agement. Radiographic characteristics can help differenti- ate benign from malignant nodules. Several risk- stratiﬁcation models have been developed based on the prevalence of cancer among different populations and can help determine the pretest probability of cancer (pCA). The American College of Chest Physicians (ACCP) and British Thoracic Society (BTS) have published guidelines incorporating the use of pCA to determine the next steps in diagnosis and treatment. Molecular biomarkers have been developed as additional diagnostic tools to determine risk of malignancy. Finally, obtaining a diagnosis requires a thoughtful approach to the technology available, the technique utilized, and appropriate patient selection to optimize diagnostic yield.",
+        "present_in_source": true,
+        "source_page": 1,
+        "source_excerpt": "Abstract Indeterminate pulmonary nodules (IPNs) are commonly encountered in interventional pulmonary practices. The challenge lies in how to proceed with diagnosis and man- agement.",
+        "page_range": "1-6"
+      },
+      {
+        "text": "The first step is to risk stratify IPNs using the model most appropriate to your setting.",
+        "present_in_source": true,
+        "source_page": 10,
+        "source_excerpt": "The first step is to risk stratify IPNs using the model most appropriate to your setting.",
+        "page_range": "7-11"
+      }
+    ],
+    "page_range": {
+      "start": 1,
+      "end": 11
+    }
+  },
+  "anatomical_content": {
+    "structures": []
+  },
+  "clinical_procedures": [],
+  "diagnostic_approaches": [
+    {
+      "name": "CT nodule size and malignancy risk percentages",
+      "purpose": "Estimate malignancy probability from size on CT",
+      "criteria_or_scoring": [
+        "Malignancy probability: <6 mm ≈1%",
+        "6–8 mm ≈1–2%"
+      ],
+      "how_to_perform": "Measure maximal diameter of the nodule on CT",
+      "interpretation": "Smaller nodules are more likely benign",
+      "sensitivity": null,
+      "specificity": null,
+      "limitations": null,
+      "when_to_use": "Initial risk assessment of indeterminate pulmonary nodules on CT",
+      "source_page": 2,
+      "source_excerpt": "probability of malignancy for nodules <6 mm around 1%, and for those 6–8 mm between 1% and 2%, respectively",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "name": "CT nodule density classification (solid vs subsolid; part-solid vs ground glass)",
+      "purpose": "Classify nodule type to inform risk and management",
+      "criteria_or_scoring": [
+        "Solid",
+        "subsolid (SSN) subdivided into part-solid and ground glass"
+      ],
+      "how_to_perform": "Assess nodule density on CT and classify",
+      "interpretation": "Prevalence of malignancy and growth patterns differ by category",
+      "sensitivity": null,
+      "specificity": null,
+      "limitations": null,
+      "when_to_use": "When describing and categorizing pulmonary nodules on CT",
+      "source_page": 2,
+      "source_excerpt": "Nodules are divided into two categories, solid and subsolid, with subsolid nodules (SSNs) further classiﬁed into part-solid and ground glass.",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "name": "Benign volume doubling time thresholds (CT growth kinetics)",
+      "purpose": "Differentiate benign nodules using growth rate",
+      "criteria_or_scoring": [
+        "Rapid VDT <30 days or very long VDT >400 days"
+      ],
+      "how_to_perform": "Calculate volume doubling time using serial imaging",
+      "interpretation": "Suggests benign etiology when very fast or very slow growth",
+      "sensitivity": null,
+      "specificity": null,
+      "limitations": null,
+      "when_to_use": "Longitudinal assessment of nodule growth on serial CT",
+      "source_page": 2,
+      "source_excerpt": "rapid volume doubling time (<30 days) or a very long volume doubling time (>400 days) [5].",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "name": "Malignant volume doubling time range (CT growth kinetics)",
+      "purpose": "Identify malignant nodules using growth rate",
+      "criteria_or_scoring": [
+        "VDT between 30 and 500 days"
+      ],
+      "how_to_perform": "Calculate volume doubling time using serial imaging",
+      "interpretation": "Growth within this interval suggests malignancy",
+      "sensitivity": null,
+      "specificity": null,
+      "limitations": null,
+      "when_to_use": "Longitudinal assessment of nodule growth on serial CT",
+      "source_page": 2,
+      "source_excerpt": "have a volume doubling time of between 30 and 500 days [5].",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "name": "TTNB and PET performance in subsolid nodules by solid component size",
+      "purpose": "Understand diagnostic yield of TTNB and PET in SSNs",
+      "criteria_or_scoring": [
+        "Yield lower unless solid component >8 mm"
+      ],
+      "how_to_perform": null,
+      "interpretation": "Small solid components in SSNs reduce PET activity and TTNB yield",
+      "sensitivity": null,
+      "specificity": null,
+      "limitations": [
+        "Lower diagnostic yield for SSNs with small or absent solid components"
+      ],
+      "when_to_use": "Considering TTNB or PET for subsolid nodules",
+      "source_page": 3,
+      "source_excerpt": "signiﬁcantly lower in SSNs unless the solid component is larger than 8 mm [4].",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "name": "Prognosis of malignant pure ground glass nodules (GGNs)",
+      "purpose": "Summarize outcome data for malignant pure GGNs",
+      "criteria_or_scoring": [],
+      "how_to_perform": null,
+      "interpretation": "Reported 100% 5-year survival for malignant pure GGNs",
+      "sensitivity": null,
+      "specificity": null,
+      "limitations": null,
+      "when_to_use": "When interpreting prognosis of pure GGNs",
+      "source_page": 3,
+      "source_excerpt": "reported a 100% 5-year survival for malignant pure GGNs [4].",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "name": "FDG-PET diagnostic accuracy (meta-analyses: 94–96% sensitivity; 78–86% specificity)",
+      "purpose": "Functional imaging to evaluate indeterminate pulmonary nodules",
+      "criteria_or_scoring": [],
+      "how_to_perform": "PET/CT allows functional and morphologic image capture and localization of FDG uptake",
+      "interpretation": "High sensitivity with moderate specificity for lung cancer detection",
+      "limitations": [
+        "False-positives with infection/inflammation",
+        "false-negatives with small lesions or certain histologies"
+      ],
+      "when_to_use": "Common functional test ordered for evaluation of an IPN",
+      "source_page": 3,
+      "source_excerpt": "sensitivity and speciﬁcity of FDG-PET to be 94–96% and 78–86%, respectively [8, 9].",
+      "present_in_source": true,
+      "page_range": "1-6",
+      "performance": {
+        "sensitivity": "94–96%",
+        "specificity": "78–86%"
+      }
+    },
+    {
+      "name": "FDG-PET accuracy in regions with endemic infectious lung disease",
+      "purpose": "Performance of PET in infectious endemic settings",
+      "criteria_or_scoring": [],
+      "how_to_perform": "FDG-PET as above",
+      "interpretation": "Lower accuracy; less useful in this setting",
+      "limitations": [
+        "Infectious endemic disease reduces specificity and sensitivity"
+      ],
+      "when_to_use": "When evaluating nodules in endemic infectious lung disease areas",
+      "source_page": 3,
+      "source_excerpt": "showed a sensitivity of 89% and speciﬁcity of 75% for diagnosing lung cancer, suggesting that PET is less useful in this setting [9].",
+      "present_in_source": true,
+      "page_range": "1-6",
+      "performance": {
+        "sensitivity": {
+          "value": 0.89,
+          "unit": "proportion"
+        },
+        "specificity": {
+          "value": 0.75,
+          "unit": "proportion"
+        }
+      }
+    },
+    {
+      "name": "FDG-PET SUV threshold",
+      "purpose": "Interpret PET uptake intensity for further evaluation",
+      "criteria_or_scoring": [
+        "SUV ≥2.5"
+      ],
+      "how_to_perform": "Obtain PET/CT and measure standardized uptake value (SUV)",
+      "interpretation": "SUV ≥2.5 is highly suggestive of infectious, inflammatory, or malignant process; warrants further evaluation",
+      "sensitivity": null,
+      "specificity": null,
+      "limitations": [
+        "Elevated uptake is not specific for malignancy"
+      ],
+      "when_to_use": "Interpreting PET results for IPNs",
+      "source_page": 3,
+      "source_excerpt": "A SUV of 2.5 or greater is highly suggestive of an infectious, inﬂammatory, or malignant process and warrants further evaluation",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "name": "FDG-PET uptake descriptive categories",
+      "purpose": "Alternate qualitative reporting of PET uptake",
+      "criteria_or_scoring": [
+        "Absent",
+        "mild",
+        "moderate",
+        "or high uptake",
+        "or report as SUV"
+      ],
+      "how_to_perform": "Radiology reports describe uptake category or provide SUV",
+      "interpretation": "Qualitative category conveys relative uptake intensity",
+      "sensitivity": null,
+      "specificity": null,
+      "limitations": null,
+      "when_to_use": "When PET reports are descriptive rather than numeric",
+      "source_page": 3,
+      "source_excerpt": "PET scan results can either be descriptive (absent, mild, moderate, or high) regarding uptake or be reported as a standardized uptake value (SUV).",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "name": "FDG-PET false negatives by lesion size",
+      "purpose": "Recognize PET limitations with small lesions",
+      "criteria_or_scoring": [
+        "Lesions smaller than 1 cm can be falsely negative"
+      ],
+      "how_to_perform": null,
+      "interpretation": "Spatial resolution limits detection in small lesions",
+      "sensitivity": null,
+      "specificity": null,
+      "limitations": [
+        "Small size may yield false-negative PET"
+      ],
+      "when_to_use": "Interpreting negative PET in small nodules",
+      "source_page": 3,
+      "source_excerpt": "such lesions smaller than 1 cm, due to limitations of spatial resolution [7].",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "name": "CT pseudocavitation with smooth thin (<4 mm) walls (benign characteristic)",
+      "purpose": "CT feature suggesting benign nodule",
+      "criteria_or_scoring": [
+        "Pseudocavitation with smooth thin (<4 mm) walls"
+      ],
+      "how_to_perform": "Assess wall thickness on CT",
+      "interpretation": "Listed among benign characteristics",
+      "sensitivity": null,
+      "specificity": null,
+      "limitations": null,
+      "when_to_use": "CT interpretation of nodule internal characteristics",
+      "source_page": 3,
+      "source_excerpt": "Pseudocavitation with smooth thin (<4 mm) walls",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "name": "CT pseudocavitation with thick (>16 mm) irregular walls (malignant characteristic)",
+      "purpose": "CT feature suggesting malignant nodule",
+      "criteria_or_scoring": [
+        "Pseudocavitation with thick (>16 mm) irregular walls"
+      ],
+      "how_to_perform": "Assess wall thickness on CT",
+      "interpretation": "Listed among malignant characteristics",
+      "sensitivity": null,
+      "specificity": null,
+      "limitations": null,
+      "when_to_use": "CT interpretation of nodule internal characteristics",
+      "source_page": 3,
+      "source_excerpt": "Pseudocavitation with thick (>16 mm) irregular walls",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "name": "Mayo Clinic Model (Swensen model)",
+      "purpose": "Calculate pretest probability of malignancy for incidentally detected nodules",
+      "criteria_or_scoring": [
+        "Predictors: age",
+        "smoking history",
+        "previous extrathoracic malignancy",
+        "nodule size (diameter)",
+        "spiculation",
+        "upper lobe location"
+      ],
+      "how_to_perform": "Apply model using listed predictors to compute pCA",
+      "interpretation": "Provides malignancy risk estimate to guide evaluation",
+      "sensitivity": null,
+      "specificity": null,
+      "limitations": null,
+      "when_to_use": "Incidentally detected nodules on imaging",
+      "source_page": 5,
+      "source_excerpt": "They examined 6 independent predictors of malignancy in 629 patients with nodules between 4 mm and 30 mm. The prevalence of malignancy in this cohort was 23%.",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "name": "Herder Model",
+      "purpose": "Refine malignancy risk by incorporating PET with clinical/radiographic predictors",
+      "criteria_or_scoring": [
+        "Predictors include age",
+        "smoking",
+        "previous extrathoracic malignancy",
+        "nodule size/location",
+        "spiculation",
+        "PET avidity (absent/faint",
+        "moderate",
+        "intense)"
+      ],
+      "how_to_perform": "Add PET uptake category to clinical and CT predictors",
+      "interpretation": "Addition of PET improved accuracy; increases pCA when PET positive",
+      "sensitivity": null,
+      "specificity": null,
+      "limitations": null,
+      "when_to_use": "Incidentally detected nodules when PET is available",
+      "source_page": 5,
+      "source_excerpt": "This study only included 106 patients, with a prevalence of malignancy of 57.5%.",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "name": "Brock University Model",
+      "purpose": "Estimate malignancy risk in screening-detected nodules",
+      "criteria_or_scoring": [
+        "Predictors: age",
+        "gender",
+        "family history of lung cancer",
+        "emphysema",
+        "nodule size/type (part-solid)",
+        "location (upper lobe)",
+        "number of nodules",
+        "spiculation"
+      ],
+      "how_to_perform": "Apply model to screening CT findings and demographics",
+      "interpretation": "Performs well in smaller nodules",
+      "sensitivity": null,
+      "specificity": null,
+      "limitations": null,
+      "when_to_use": "Screening population nodules",
+      "source_page": 5,
+      "source_excerpt": "The prevalence of malignancy in this population was lower than the other models at 5.5%.",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "name": "TREAT 1.0 Model",
+      "purpose": "Assess malignancy risk in patients referred for surgical evaluation; avoid unnecessary surgeries",
+      "criteria_or_scoring": [
+        "Includes radiographic changes",
+        "pulmonary function",
+        "symptomatology",
+        "and other variables"
+      ],
+      "how_to_perform": "Use model in thoracic surgery clinic population being considered for resection",
+      "interpretation": "Had better accuracy than the Mayo Clinic Model in this population",
+      "sensitivity": null,
+      "specificity": null,
+      "limitations": null,
+      "when_to_use": "High-risk patients referred for surgical resection consideration",
+      "source_page": 5,
+      "source_excerpt": "492 patients referred to thoracic surgical clinics… the prevalence of malignancy was 72% in this high-risk population.",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "name": "TREAT 2.0 Model",
+      "purpose": "Differentiate benign from malignant nodules in high-risk clinical settings",
+      "criteria_or_scoring": [
+        "Variables: age",
+        "BMI",
+        "gender",
+        "smoking",
+        "nodule size/location",
+        "edge characteristics",
+        "growth",
+        "cancer history",
+        "FEV1",
+        "pre-op symptoms",
+        "PET avidity",
+        "evaluation setting"
+      ],
+      "how_to_perform": "Apply model across pulmonary nodule/thoracic surgery clinic and surgical cohorts",
+      "interpretation": "Better differentiation than other calculators in this population",
+      "sensitivity": null,
+      "specificity": null,
+      "limitations": null,
+      "when_to_use": "High-risk patients in specialized clinics or surgical settings",
+      "source_page": 5,
+      "source_excerpt": "assess IPNs in 1401 high-risk patients… prevalence of malignancy in these cohorts were 90%, 42%, and 73%, respectively",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "name": "Physician assessment of pretest probability (pCA)",
+      "purpose": "Clinician-estimated malignancy risk using nodule features",
+      "criteria_or_scoring": [
+        "Based on nodule size",
+        "contour",
+        "and location"
+      ],
+      "how_to_perform": "Clinician integrates CT characteristics to estimate pCA",
+      "interpretation": "Outperformed the Mayo and VA models in distinguishing benign from malignant in one study",
+      "sensitivity": null,
+      "specificity": null,
+      "limitations": null,
+      "when_to_use": "In pulmonary nodule or thoracic surgery clinics",
+      "source_page": 5,
+      "source_excerpt": "clinician estimated pCA outperformed the Mayo and VA models… in a population of 337 patients with a cancer prevalence of 47%",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "name": "Lung-RADS classification (screening CT reporting)",
+      "purpose": "Standardize reporting and risk categorization for lung cancer screening CT",
+      "criteria_or_scoring": [
+        "Categories: 1–2 (negative)",
+        "3 (probably benign)",
+        "4A (suspicious)",
+        "4B (very suspicious)",
+        "4X (up score due to additional features)"
+      ],
+      "how_to_perform": "Assign Lung-RADS category to screening CT finding",
+      "interpretation": "As Lung-RADS score increases, cancer detection rate increases",
+      "sensitivity": null,
+      "specificity": null,
+      "limitations": null,
+      "when_to_use": "Lung cancer screening CT reporting",
+      "source_page": 6,
+      "source_excerpt": "Lung RADS categorizations are as follows: 1 and 2 (negative), 3 (probably benign), 4A (suspicious), 4B (very suspicious), and 4X…",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "name": "Volumetric growth definition (pulmonary nodule)",
+      "purpose": "Define radiographic growth between serial CT scans",
+      "criteria_or_scoring": [
+        "Growth is defined as a volume increase of at least 25% between scans"
+      ],
+      "how_to_perform": "Assess nodule volume change on serial CT scans",
+      "interpretation": "≥25% volume increase indicates growth",
+      "sensitivity": null,
+      "specificity": null,
+      "limitations": null,
+      "when_to_use": "When comparing serial CT scans during surveillance",
+      "source_page": 8,
+      "source_excerpt": "Growth is defined as a volume increase of at least 25% between scans [5].",
+      "present_in_source": true,
+      "page_range": "7-11"
+    },
+    {
+      "name": "Nodule Volume Doubling Time (VDT) cutoff",
+      "purpose": "Differentiate benign versus malignant pulmonary nodules",
+      "criteria_or_scoring": [
+        "Cutoff of 500 days for VDT"
+      ],
+      "how_to_perform": "Calculate VDT from serial volumetric CT measurements",
+      "interpretation": "Using 500-day cutoff: specificity 90%, sensitivity 91%, NPV 98%, PPV 67%",
+      "limitations": [
+        "Assumes exponential growth",
+        "not the case for all tumors. Volumetry cannot be accurately performed in nonsolid or part-solid lesions."
+      ],
+      "when_to_use": "To assess changes between serial CT scans",
+      "source_page": 8,
+      "source_excerpt": "Using a cutoff of 500 days, the specificity of this technique was 90%, sensitivity of 91%, NPV of 98%, and PPV of 67% [32].",
+      "present_in_source": true,
+      "page_range": "7-11",
+      "performance": {
+        "sensitivity": {
+          "value": 0.91,
+          "unit": "proportion"
+        },
+        "specificity": {
+          "value": 0.9,
+          "unit": "proportion"
+        }
+      }
+    },
+    {
+      "name": "Serial CT surveillance (noncontrast low-dose chest CT)",
+      "purpose": "Imaging modality for patients undergoing surveillance",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Use noncontrast low radiation dose chest CT",
+      "interpretation": null,
+      "sensitivity": null,
+      "specificity": null,
+      "limitations": null,
+      "when_to_use": "For most patients undergoing surveillance",
+      "source_page": 8,
+      "source_excerpt": "Noncontrast low radiation dose chest CT should be used for most patients undergoing surveillance.",
+      "present_in_source": true,
+      "page_range": "7-11"
+    },
+    {
+      "name": "PET/CT detection threshold for solid nodules",
+      "purpose": null,
+      "criteria_or_scoring": [
+        "Detection threshold is usually >8 mm"
+      ],
+      "how_to_perform": null,
+      "interpretation": null,
+      "sensitivity": null,
+      "specificity": null,
+      "limitations": null,
+      "when_to_use": "If solid component is greater than the PET/CT detection threshold",
+      "source_page": 7,
+      "source_excerpt": "the PET/CT detection threshold, [26] which is usually >8 mm.",
+      "present_in_source": true,
+      "page_range": "7-11"
+    },
+    {
+      "name": "Blood-based rule-out biomarker (LG3BP and C163A with clinical factors)",
+      "purpose": "Rule-out test to assess malignancy risk in intermediate risk pulmonary nodules",
+      "criteria_or_scoring": [
+        "Includes LG3BP",
+        "C163A and five clinical risk factors (age",
+        "smoking status",
+        "nodule diameter",
+        "edge characteristics",
+        "lobe location)"
+      ],
+      "how_to_perform": "Blood test with integrated clinical factors",
+      "interpretation": "Sensitivity 97%, specificity 44%, NPV 98% in intermediate-risk pulmonary nodules 8–30 mm",
+      "limitations": null,
+      "when_to_use": "Intermediate risk pulmonary nodules 8–30 mm in size",
+      "source_page": 9,
+      "source_excerpt": "demonstrated a sensitivity of 97%, specificity of 44%, and a negative predictive value (NPV) of 98% in patients presenting with intermediate risk pulmonary nodules 8–30 mm in size [37].",
+      "present_in_source": true,
+      "page_range": "7-11",
+      "performance": {
+        "sensitivity": {
+          "value": 0.97,
+          "unit": "proportion"
+        },
+        "specificity": {
+          "value": 0.44,
+          "unit": "proportion"
+        }
+      }
+    },
+    {
+      "name": "Seven-autoantibody panel",
+      "purpose": "Identify malignant lung nodules",
+      "criteria_or_scoring": [],
+      "how_to_perform": null,
+      "interpretation": "Increased the risk of malignancy 2.7-fold in intermediate risk nodules 4–20 mm",
+      "sensitivity": null,
+      "specificity": null,
+      "limitations": null,
+      "when_to_use": "Intermediate risk nodules 4–20 mm in size",
+      "source_page": 9,
+      "source_excerpt": "When applied to intermediate risk nodules 4–20 mm in size, a seven-autoantibody panel was shown to increase the risk of malignancy 2.7-fold [39].",
+      "present_in_source": true,
+      "page_range": "7-11"
+    },
+    {
+      "name": "Nasal swab genomic classifier (nasal squamous epithelium)",
+      "purpose": "Evaluate the probability of lung cancer in patients with IPNs who formerly or currently smoke",
+      "criteria_or_scoring": [
+        "Low-risk and high-risk classifier outputs"
+      ],
+      "how_to_perform": "Nasal swab to obtain nasal squamous epithelium",
+      "interpretation": "Low-risk: sensitivity 96%, specificity 42% (rule-out). High-risk: sensitivity 58%, specificity 90% (rule-in).",
+      "limitations": null,
+      "when_to_use": "Patients presenting with IPNs who formerly or currently smoke",
+      "source_page": 9,
+      "source_excerpt": "low-risk classifier demonstrated a sensitivity of 96% and specificity of 42% to rule out lung cancer, while the high-risk classifier had a sensitivity of 58% and a specificity of 90%",
+      "present_in_source": true,
+      "page_range": "7-11",
+      "performance": {
+        "sensitivity": "Low-risk 96%; High-risk 58%",
+        "specificity": "Low-risk 42%; High-risk 90%"
+      }
+    },
+    {
+      "name": "Guided bronchoscopy (pooled modalities)",
+      "purpose": "Evaluation of peripheral indeterminate pulmonary nodules",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Guided bronchoscopic techniques",
+      "interpretation": "Pooled diagnostic yield across modalities was 69%",
+      "sensitivity": null,
+      "specificity": null,
+      "limitations": [
+        "Had not improved over 20 years",
+        "varying prevalence of malignancy will impact diagnostic yield."
+      ],
+      "when_to_use": null,
+      "source_page": 9,
+      "source_excerpt": "The study found that the pooled diagnostic yield across all bronchoscopic modalities was 69%, which had not improved over 20 years [46].",
+      "present_in_source": true,
+      "page_range": "7-11"
+    },
+    {
+      "name": "Endobronchial ultrasound (EBUS) for mediastinal lymph nodes",
+      "purpose": null,
+      "criteria_or_scoring": [],
+      "how_to_perform": null,
+      "interpretation": "Had the highest diagnostic yield at 80%",
+      "sensitivity": null,
+      "specificity": null,
+      "limitations": null,
+      "when_to_use": "For mediastinal lymph nodes",
+      "source_page": 9,
+      "source_excerpt": "EBUS (for mediastinal lymph nodes) had the highest diagnostic yield at 80%",
+      "present_in_source": true,
+      "page_range": "7-11"
+    },
+    {
+      "name": "Bronchoscopy diagnostic yield by pretest probability of cancer (pCA)",
+      "purpose": "Relate bronchoscopy yield to pCA categories",
+      "criteria_or_scoring": [
+        "pCA categories: <10% and 10–60%"
+      ],
+      "how_to_perform": null,
+      "interpretation": "Lower yield (44% and 42%) in pCA <10% and 10–60%",
+      "sensitivity": null,
+      "specificity": null,
+      "limitations": null,
+      "when_to_use": null,
+      "source_page": 9,
+      "source_excerpt": "Nodules with pCA < 10% and 10–60% had a lower yield (44% and 42%).",
+      "present_in_source": true,
+      "page_range": "7-11"
+    },
+    {
+      "name": "Navigational bronchoscopy (VERITAS trial)",
+      "purpose": "Diagnosis of indeterminate lung nodules",
+      "criteria_or_scoring": [],
+      "how_to_perform": null,
+      "interpretation": "Diagnostic yield 76%; fewer complications (5.8% vs 31%) than CT-guided biopsy",
+      "sensitivity": null,
+      "specificity": null,
+      "limitations": null,
+      "when_to_use": null,
+      "source_page": 9,
+      "source_excerpt": "diagnostic yield of both approaches were equivalent (76%) and navigational bronchoscopy was associated with significantly less postprocedural complications (5.8% vs 31%) [45].",
+      "present_in_source": true,
+      "page_range": "7-11"
+    },
+    {
+      "name": "CT-guided transthoracic needle biopsy (TTNB) (VERITAS trial comparator)",
+      "purpose": "Diagnosis of indeterminate lung nodules",
+      "criteria_or_scoring": [],
+      "how_to_perform": null,
+      "interpretation": "Diagnostic yield 76%; higher complications (31%) than navigational bronchoscopy (5.8%)",
+      "sensitivity": null,
+      "specificity": null,
+      "limitations": null,
+      "when_to_use": null,
+      "source_page": 9,
+      "source_excerpt": "diagnostic yield of both approaches were equivalent (76%) and navigational bronchoscopy was associated with significantly less postprocedural complications (5.8% vs 31%) [45].",
+      "present_in_source": true,
+      "page_range": "7-11"
+    },
+    {
+      "name": "TTNB selection consideration (lesion near chest wall)",
+      "purpose": "Patient selection to optimize diagnostic approach",
+      "criteria_or_scoring": [],
+      "how_to_perform": null,
+      "interpretation": null,
+      "sensitivity": null,
+      "specificity": null,
+      "limitations": null,
+      "when_to_use": "A 1 cm tumor close to the chest wall may be better approached with TTNB",
+      "source_page": 10,
+      "source_excerpt": "a 1 cm tumor close to the chest wall may be better approached with TTNB than other bronchoscopic techniques.",
+      "present_in_source": true,
+      "page_range": "7-11"
+    },
+    {
+      "name": "Bronchus sign (predictor of bronchoscopy diagnostic yield)",
+      "purpose": "Identify factors associated with higher diagnostic yield",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Assess presence of a bronchus sign on imaging",
+      "interpretation": "Presence may promote a high diagnostic yield",
+      "sensitivity": null,
+      "specificity": null,
+      "limitations": null,
+      "when_to_use": "When selecting patients for bronchoscopy",
+      "source_page": 9,
+      "source_excerpt": "Other factors that may promote a high diagnostic yield include larger lesion size and presence of a bronchus sign [46].",
+      "present_in_source": true,
+      "page_range": "7-11"
+    },
+    {
+      "name": "Liquid biopsy (ctDNA or miRNA)",
+      "purpose": "Noninvasive molecular biomarker to further assess risk of malignancy",
+      "criteria_or_scoring": [],
+      "how_to_perform": null,
+      "interpretation": null,
+      "sensitivity": null,
+      "specificity": null,
+      "limitations": null,
+      "when_to_use": null,
+      "source_page": 9,
+      "source_excerpt": "liquid biopsies identifying circulating tumor DNA (ctDNA) or microRNA (miRNA)",
+      "present_in_source": true,
+      "page_range": "7-11"
+    },
+    {
+      "name": "Bronchial epithelial cell genomic classifiers",
+      "purpose": "Noninvasive molecular biomarker to assess IPNs",
+      "criteria_or_scoring": [],
+      "how_to_perform": null,
+      "interpretation": null,
+      "sensitivity": null,
+      "specificity": null,
+      "limitations": null,
+      "when_to_use": null,
+      "source_page": 9,
+      "source_excerpt": "bronchial or nasal epithelial cell genomic classifiers",
+      "present_in_source": true,
+      "page_range": "7-11"
+    },
+    {
+      "name": "Exhaled volatile organic compounds (VOCs)",
+      "purpose": "Noninvasive molecular biomarker candidate",
+      "criteria_or_scoring": [],
+      "how_to_perform": null,
+      "interpretation": null,
+      "sensitivity": null,
+      "specificity": null,
+      "limitations": null,
+      "when_to_use": null,
+      "source_page": 9,
+      "source_excerpt": "exhaled volatile organic compounds [35].",
+      "present_in_source": true,
+      "page_range": "7-11"
+    },
+    {
+      "name": "Brock risk assessment model",
+      "purpose": "Risk stratification of subsolid nodules >5 mm",
+      "criteria_or_scoring": [],
+      "how_to_perform": null,
+      "interpretation": null,
+      "sensitivity": null,
+      "specificity": null,
+      "limitations": null,
+      "when_to_use": "Risk-stratify SSNs >5 mm",
+      "source_page": 8,
+      "source_excerpt": "All SSNs >5 mm should be risk stratified with the Brock risk assessment model.",
+      "present_in_source": true,
+      "page_range": "7-11"
+    },
+    {
+      "name": "Herder model",
+      "purpose": "Assess risk after PET/CT",
+      "criteria_or_scoring": [],
+      "how_to_perform": null,
+      "interpretation": null,
+      "sensitivity": null,
+      "specificity": null,
+      "limitations": null,
+      "when_to_use": "After PET/CT to assess risk and determine next steps",
+      "source_page": 7,
+      "source_excerpt": "After the PET/CT is performed, the Herder model should be used to assess risk and determine next steps.",
+      "present_in_source": true,
+      "page_range": "7-11"
+    }
+  ],
+  "treatment_algorithms": [
+    {
+      "title": "ACCP 2013 Diagnostic Algorithm (figure reference)",
+      "condition": "pulmonary nodules (diagnostic algorithm referenced)",
+      "source_organization": "American College of Chest Physicians (ACCP)",
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 7,
+      "source_excerpt": "Fig. 1 American College of Chest Physicians 2013 Guidelines diagnostic algorithm.",
+      "present_in_source": true,
+      "page_range": "7-11"
+    }
+  ],
+  "clinical_guidelines": [
+    {
+      "title": "ACCP Guidelines – Solid Nodules: <8 mm without risk factors",
+      "condition": "Indeterminate pulmonary nodules – solid nodules",
+      "source_organization": "American College of Chest Physicians (ACCP)",
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "For solid nodules <8 mm without risk factors: choose CT surveillance based on the nodule size."
+      ],
+      "decision_points_and_pathways": [
+        "If solid nodule <8 mm and no risk factors: select CT surveillance based on size."
+      ],
+      "patient_population_criteria": "Solid nodules less than 8 mm without risk factors.",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": "CT surveillance based on nodule size.",
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 6,
+      "source_excerpt": "In patients with solid nodules less than 8 mm and without risk factors, CT surveillance should be chosen based on the nodule size",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "title": "ACCP Guidelines – Solid Nodules: Multiple nodules follow-up",
+      "condition": "Indeterminate pulmonary nodules – solid nodules",
+      "source_organization": "American College of Chest Physicians (ACCP)",
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "If multiple nodules are present, base follow-up on the size of the largest nodule."
+      ],
+      "decision_points_and_pathways": [
+        "Multiple nodules present: follow-up determined by largest nodule size."
+      ],
+      "patient_population_criteria": "Patients with multiple solid nodules.",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": "Follow-up schedule determined by largest nodule size.",
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 6,
+      "source_excerpt": "If there are multiple nodules, follow-up is based on the size of the largest nodule",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "title": "ACCP Guidelines – Solid Nodules: Very low risk (>8 mm) surveillance initiation",
+      "condition": "Indeterminate pulmonary nodules – solid nodules",
+      "source_organization": "American College of Chest Physicians (ACCP)",
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "For solid nodules >8 mm with pCA <5%, serial surveillance imaging is recommended."
+      ],
+      "decision_points_and_pathways": [
+        "Solid nodule >8 mm and pCA <5%: choose serial surveillance imaging."
+      ],
+      "patient_population_criteria": "Solid nodules larger than 8 mm with pretest probability <5%.",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": "Serial surveillance imaging per ACCP intervals.",
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 6,
+      "source_excerpt": "In patients with solid nodules larger than 8 mm, serial surveillance imaging is recommended for patients with very low risk (defined as having a pretest probability estimated to be <5%).",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "title": "ACCP Guidelines – Solid Nodules: Very low risk surveillance intervals",
+      "condition": "Indeterminate pulmonary nodules – solid nodules",
+      "source_organization": "American College of Chest Physicians (ACCP)",
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Schedule surveillance imaging at 3–6, 9–12, and 18–24 months."
+      ],
+      "decision_points_and_pathways": [
+        "Use surveillance intervals of 3–6, 9–12, and 18–24 months."
+      ],
+      "patient_population_criteria": "Very low risk solid nodules under surveillance.",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": "CT at 3–6, 9–12, and 18–24 months.",
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 6,
+      "source_excerpt": "at intervals of 3–6, 9–12, and 18–24 months",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "title": "ACCP Guidelines – Solid Nodules: Stop imaging after 2 years stability",
+      "condition": "Indeterminate pulmonary nodules – solid nodules",
+      "source_organization": "American College of Chest Physicians (ACCP)",
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "If a solid nodule is stable for 2 years, no further CT imaging is needed."
+      ],
+      "decision_points_and_pathways": [
+        "Solid nodule stable 2 years: discontinue CT imaging."
+      ],
+      "patient_population_criteria": "Solid nodules with 2 years of radiographic stability.",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": "None after 2 years of stability.",
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 6,
+      "source_excerpt": "For solid lesions that have been stable for 2 years, further CT imaging is not required.",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "title": "ACCP Guidelines – Solid Nodules: Intermediate risk (5–65%) initial evaluation",
+      "condition": "Indeterminate pulmonary nodules – solid nodules",
+      "source_organization": "American College of Chest Physicians (ACCP)",
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "For pCA 5–65%: perform PET scan or nonsurgical biopsy."
+      ],
+      "decision_points_and_pathways": [
+        "pCA 5–65%: choose PET or nonsurgical biopsy based on nodule size, location, and airway proximity."
+      ],
+      "patient_population_criteria": "Patients with pretest probability 5–65%.",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": "As per PET/biopsy results; consider surveillance when criteria met.",
+      "outcome_measures": null,
+      "alternative_approaches": [
+        "CT-guided biopsy or bronchoscopy depending on nodule factors."
+      ],
+      "source_page": 6,
+      "source_excerpt": "In patients with low to moderate pCA, between 5% and 65%, further evaluation should be performed to better elucidate if the lesion is malignant or benign with either PET scan or nonsurgical biopsy.",
+      "present_in_source": true,
+      "page_range": "1-6",
+      "_errors": [
+        "source_excerpt_too_long"
+      ]
+    },
+    {
+      "title": "ACCP Guidelines – Solid Nodules: When to use surveillance in intermediate risk",
+      "condition": "Indeterminate pulmonary nodules – solid nodules",
+      "source_organization": "American College of Chest Physicians (ACCP)",
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Advise surveillance CT when pCA <30–40% and lesion not PET avid or ≤15 Hounsfield units, or nondiagnostic needle biopsy and not PET avid."
+      ],
+      "decision_points_and_pathways": [
+        "If pCA <30–40% and PET negative/low attenuation, consider surveillance CT."
+      ],
+      "patient_population_criteria": "Intermediate-risk patients meeting PET/attenuation criteria.",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": "Surveillance CT per clinical judgment.",
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 6,
+      "source_excerpt": "pretest probability is <30–40% and the lesion is not PET avid or is not more than 15 Hounsfield units",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "title": "ACCP Guidelines – Solid Nodules: High risk (>65%) management",
+      "condition": "Indeterminate pulmonary nodules – solid nodules",
+      "source_organization": "American College of Chest Physicians (ACCP)",
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Do not use PET to characterize nodules; pursue surgical diagnosis."
+      ],
+      "decision_points_and_pathways": [
+        "pCA >65%: proceed to surgical diagnosis; avoid PET for characterization."
+      ],
+      "patient_population_criteria": "Patients with pretest probability >65%.",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": [
+        "Nonsurgical biopsy if tumor molecular testing needed pre-surgery."
+      ],
+      "source_page": 6,
+      "source_excerpt": "pretest probability is high, >65%, functional imaging (i.e., PET scan) to characterize the nodule is not recommended and surgical diagnosis should be pursued.",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "title": "ACCP Guidelines – Solid Nodules: Pre-surgical biopsy for molecular testing",
+      "condition": "Indeterminate pulmonary nodules – solid nodules",
+      "source_organization": "American College of Chest Physicians (ACCP)",
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Consider nonsurgical biopsy when tumor mutational analysis is recommended prior to surgery (clinical stage 1B–3A)."
+      ],
+      "decision_points_and_pathways": [
+        "High-risk with planned adjuvant/neoadjuvant therapy: obtain nonsurgical biopsy for molecular testing."
+      ],
+      "patient_population_criteria": "Patients with clinical stage 1B–3A where adjuvant/neoadjuvant therapy is considered.",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": [
+        "Proceed directly to surgery when molecular testing not required."
+      ],
+      "source_page": 6,
+      "source_excerpt": "reasonable to pursue a nonsurgical biopsy if tumor mutational analysis is recommended prior to surgery (patients with clinical stage 1B-3A) where adjuvant and neoadjuvant therapy is being considered",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "title": "ACCP Guidelines – Solid Nodules: PET for staging (not characterization) in high risk",
+      "condition": "Indeterminate pulmonary nodules – solid nodules",
+      "source_organization": "American College of Chest Physicians (ACCP)",
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Use PET prior to treatment for lung cancer staging purposes."
+      ],
+      "decision_points_and_pathways": [
+        "High-risk nodule: order PET for staging before treatment."
+      ],
+      "patient_population_criteria": "Patients proceeding to treatment for suspected lung cancer.",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": "Pre-treatment PET staging.",
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 6,
+      "source_excerpt": "PET imaging, while not recommended for distinguishing benign from malignant nodules in this setting, is still recommended prior to treatment for lung cancer staging purposes",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "title": "ACCP Guidelines – Solid Nodules: Management of growth on surveillance",
+      "condition": "Indeterminate pulmonary nodules – solid nodules",
+      "source_organization": "American College of Chest Physicians (ACCP)",
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "If a lesion grows on surveillance, perform nonsurgical biopsy or surgical resection unless comorbidities favor SBRT without tissue confirmation."
+      ],
+      "decision_points_and_pathways": [
+        "Growth observed: choose biopsy or resection; consider SBRT without tissue if procedures high risk."
+      ],
+      "patient_population_criteria": "Patients with solid nodules demonstrating growth on surveillance.",
+      "contraindications_and_exceptions": "High procedural risk may warrant SBRT without tissue confirmation.",
+      "monitoring_requirements": "Surveillance imaging to detect growth.",
+      "outcome_measures": null,
+      "alternative_approaches": [
+        "SBRT without tissue confirmation when comorbidities preclude biopsy/resection."
+      ],
+      "source_page": 6,
+      "source_excerpt": "For lesions that grow on surveillance imaging, nonsurgical biopsy or surgical resection should be performed unless the patient has comorbidities which make those procedures such high risk that treatment with stereotactic body radiation therapy (SBRT) is being considered without tissue confirmation",
+      "present_in_source": true,
+      "page_range": "1-6",
+      "_errors": [
+        "source_excerpt_too_long"
+      ]
+    },
+    {
+      "title": "ACCP Guidelines – Solid Nodules: PET avidity and biopsy results guiding surgery",
+      "condition": "Indeterminate pulmonary nodules – solid nodules",
+      "source_organization": "American College of Chest Physicians (ACCP)",
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Consider surgical diagnosis if a nodule is PET avid or if nonsurgical biopsy is suspicious for malignancy."
+      ],
+      "decision_points_and_pathways": [
+        "PET avid or suspicious nonsurgical biopsy: proceed to surgical diagnosis."
+      ],
+      "patient_population_criteria": "Patients with PET-avid nodules or suspicious biopsy findings.",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 6,
+      "source_excerpt": "Surgical diagnosis should be considered if a nodule is PET avid or if nonsurgical biopsy is suspicious for malignancy.",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "title": "ACCP Guidelines – Solid/Subsolid Nodules: Shared decision-making",
+      "condition": "Indeterminate pulmonary nodules",
+      "source_organization": "American College of Chest Physicians (ACCP)",
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Use shared decision-making throughout care to align with patient preferences and values."
+      ],
+      "decision_points_and_pathways": [
+        "Discuss options and preferences across risk categories and interventions."
+      ],
+      "patient_population_criteria": "All patients undergoing pulmonary nodule evaluation.",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": [
+        "Biopsy for peace of mind in low-risk; biopsy before surgery in high-risk if desired."
+      ],
+      "source_page": 6,
+      "source_excerpt": "Shared decision-making should be performed throughout the continuum of care, in line with the patient’s preferences and values.",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "title": "ACCP Guidelines – Subsolid Nodules: Pure ground glass <5 mm",
+      "condition": "Indeterminate pulmonary nodules – subsolid (pure ground glass)",
+      "source_organization": "American College of Chest Physicians (ACCP)",
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "For pure ground glass nodules <5 mm: no further follow-up."
+      ],
+      "decision_points_and_pathways": [
+        "Pure GGN <5 mm: stop follow-up."
+      ],
+      "patient_population_criteria": "Patients with pure ground glass nodules less than 5 mm.",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": "None.",
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 6,
+      "source_excerpt": "In patients with a pure ground glass nodule less than 5 mm in diameter, no further follow-up is recommended.",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "title": "ACCP Guidelines – Subsolid Nodules: Pure ground glass >5 mm",
+      "condition": "Indeterminate pulmonary nodules – subsolid (pure ground glass)",
+      "source_organization": "American College of Chest Physicians (ACCP)",
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "If pure ground glass nodule >5 mm: perform annual surveillance for at least 3 years."
+      ],
+      "decision_points_and_pathways": [
+        "Pure GGN >5 mm: annual surveillance ≥3 years."
+      ],
+      "patient_population_criteria": "Patients with pure ground glass nodules more than 5 mm.",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": "Annual surveillance for at least 3 years.",
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 6,
+      "source_excerpt": "If the lesion is more than 5 mm, annual surveillance is recommended for at least 3 years",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "title": "ACCP Guidelines – Subsolid Nodules: Definition of part-solid",
+      "condition": "Indeterminate pulmonary nodules – subsolid (part-solid)",
+      "source_organization": "American College of Chest Physicians (ACCP)",
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Define part-solid nodules as >50% ground glass."
+      ],
+      "decision_points_and_pathways": [
+        "Classify as part-solid if >50% ground glass."
+      ],
+      "patient_population_criteria": "Subsolid nodules with mixed attenuation.",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 6,
+      "source_excerpt": "Part solid is defined as >50% ground glass.",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "title": "ACCP Guidelines – Subsolid Nodules: Part-solid <8 mm follow-up",
+      "condition": "Indeterminate pulmonary nodules – subsolid (part-solid <8 mm)",
+      "source_organization": "American College of Chest Physicians (ACCP)",
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Repeat CT at 3, 12, and 24 months; then annual scans for an additional 1–3 years."
+      ],
+      "decision_points_and_pathways": [
+        "Part-solid <8 mm: scheduled CT at 3, 12, 24 months; then annual 1–3 years."
+      ],
+      "patient_population_criteria": "Patients with part-solid nodules less than 8 mm.",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": "CT at 3, 12, 24 months; annual 1–3 additional years.",
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 6,
+      "source_excerpt": "less than 8 mm in diameter, repeat CT imaging at 3, 12, and 24 months is advised with annual scans for an additional 1–3 years.",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "title": "ACCP Guidelines – Subsolid Nodules: Part-solid >8 mm management",
+      "condition": "Indeterminate pulmonary nodules – subsolid (part-solid >8 mm)",
+      "source_organization": "American College of Chest Physicians (ACCP)",
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Repeat CT in 3 months; if persistent/growth, evaluate with PET, biopsy, or resection."
+      ],
+      "decision_points_and_pathways": [
+        "Part-solid >8 mm: CT at 3 months; then PET/biopsy/resection if persists/grows."
+      ],
+      "patient_population_criteria": "Patients with part-solid nodules greater than 8 mm.",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": "CT at 3 months.",
+      "outcome_measures": null,
+      "alternative_approaches": [
+        "PET, nonsurgical biopsy, or resection after persistence/growth."
+      ],
+      "source_page": 6,
+      "source_excerpt": "part-solid nodule greater than 8 mm, repeat CT should occur in 3 months followed by further evaluation with PET, biopsy, or resection if it persists and/or grows.",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "title": "ACCP Guidelines – Subsolid Nodules: Avoid PET when solid component <8 mm",
+      "condition": "Indeterminate pulmonary nodules – subsolid (part-solid)",
+      "source_organization": "American College of Chest Physicians (ACCP)",
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Do not perform PET when the solid component is <8 mm."
+      ],
+      "decision_points_and_pathways": [
+        "Solid component <8 mm: avoid PET."
+      ],
+      "patient_population_criteria": "Part-solid nodules with small solid component (<8 mm).",
+      "contraindications_and_exceptions": "PET contraindicated for solid component <8 mm.",
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": [
+        "CT surveillance or other evaluation per size/growth."
+      ],
+      "source_page": 6,
+      "source_excerpt": "PET scan should not be performed in those nodules with a solid component of less than 8 mm.",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "title": "ACCP Guidelines – Subsolid Nodules: Part-solid >15 mm management",
+      "condition": "Indeterminate pulmonary nodules – subsolid (part-solid >15 mm)",
+      "source_organization": "American College of Chest Physicians (ACCP)",
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "For part-solid >15 mm: evaluate with PET, nonsurgical biopsy, or resection."
+      ],
+      "decision_points_and_pathways": [
+        "Part-solid >15 mm: proceed to PET/biopsy/resection."
+      ],
+      "patient_population_criteria": "Patients with part-solid nodules larger than 15 mm.",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": [
+        "PET, nonsurgical biopsy, or resection."
+      ],
+      "source_page": 6,
+      "source_excerpt": "If the part-solid nodule is larger than 15 mm, further evaluation with PET, nonsurgical biopsy, or resection is warranted",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "title": "BTS Guidelines – Use of calculators, volumetrics, and image-guided biopsy",
+      "condition": "Indeterminate pulmonary nodules",
+      "source_organization": "British Thoracic Society (BTS)",
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Incorporate nodule calculators in initial assessment and follow-up.",
+        "Use volumetric measurements for assessment and follow-up.",
+        "Provide guidance on image-guided biopsies."
+      ],
+      "decision_points_and_pathways": [
+        "Apply risk calculators and volumetrics at baseline and during follow-up."
+      ],
+      "patient_population_criteria": "Patients with indeterminate pulmonary nodules.",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": "Volumetric follow-up per BTS approach.",
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 6,
+      "source_excerpt": "incorporate the use of nodule calculators and volumetric measurements in both initial assessment and follow-up.",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "title": "Fleischner Society Guidelines – Mentioned",
+      "condition": "Indeterminate pulmonary nodules",
+      "source_organization": "Fleischner Society",
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 6,
+      "source_excerpt": "consistent with the Fleischner Society Guidelines discussed below.",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "title": "Lung-RADS categorization (screening CT reporting)",
+      "condition": "Lung cancer screening nodule categorization",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Use categories: 1 and 2 (negative), 3 (probably benign), 4A (suspicious), 4B (very suspicious), 4X (additional features increasing risk)."
+      ],
+      "decision_points_and_pathways": [
+        "Assign Lung-RADS category based on features; higher category indicates higher cancer risk."
+      ],
+      "patient_population_criteria": "Screening population chest CTs.",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 6,
+      "source_excerpt": "Lung RADS categorizations are as follows: 1 and 2 (negative), 3 (probably benign), 4A (suspicious), 4B (very suspicious), and 4X (category used to up score risk of cancer",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "title": "BTS Guidelines – Risk thresholds and surveillance of small solid nodules",
+      "condition": "solid indeterminate pulmonary nodules (IPNs)",
+      "source_organization": "British Thoracic Society (BTS)",
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Use Brock and Herder models to assess pCA in solid IPNs.",
+        "Risk thresholds: low (<10%), intermediate (10–70%), high (>70%).",
+        "Do not surveil nodules <5 mm or 80 mm3."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": "solid IPNs",
+      "contraindications_and_exceptions": "Do not recommend surveilling nodules less than 5 mm or 80 mm3.",
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 7,
+      "source_excerpt": "different risk thresholds for low- (<10%), intermediate- (10–70%), and high-risk nodules (>70%) and do not recommend surveilling nodules less than 5 mm or 80 mm3",
+      "present_in_source": true,
+      "page_range": "7-11"
+    },
+    {
+      "title": "BTS Guidelines – Follow-up duration for low-risk solid nodules",
+      "condition": "solid indeterminate pulmonary nodules (IPNs)",
+      "source_organization": "British Thoracic Society (BTS)",
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "If risk of malignancy is low (<10%), reduce follow-up period to 1 year."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": "solid IPNs with low risk of malignancy (<10%)",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": "Follow-up period reduced to one year for low-risk (<10%) nodules.",
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 7,
+      "source_excerpt": "They also suggest the follow-up period be reduced to one year if risk of malignancy is low, <10%",
+      "present_in_source": true,
+      "page_range": "7-11"
+    },
+    {
+      "title": "BTS Guidelines – Solid nodules: volumetric assessment and VDT-based management",
+      "condition": "solid indeterminate pulmonary nodules (IPNs)",
+      "source_organization": "British Thoracic Society (BTS)",
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "For pCA <10%: repeat CT with volumetric assessment and calculate VDT.",
+        "For VDT <400 days: further investigation (biopsy, imaging, or resection).",
+        "If VDT >600 days or <25% change in volume after 1 year: no further follow-up; consider yearly surveillance for VDT 400–600 days."
+      ],
+      "decision_points_and_pathways": [
+        "pCA <10%: repeat CT with volumetric assessment and VDT calculation.",
+        "VDT <400 days: proceed with biopsy/imaging/resection.",
+        "VDT 400–600 days: consider yearly surveillance.",
+        "VDT >600 days or <25% volume change at 1 year: stop follow-up."
+      ],
+      "patient_population_criteria": "solid IPNs, low pretest probability (<10%)",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": "Use volumetric assessment; consider yearly surveillance for VDT 400–600 days.",
+      "outcome_measures": null,
+      "alternative_approaches": "Further investigation with biopsy, imaging, or resection for VDT <400 days.",
+      "source_page": 7,
+      "source_excerpt": "VDT < 400 days is recommended for IPNs. If VDT is >600 days or less than 25% change in volume after 1 year, then no further follow-up is required",
+      "present_in_source": true,
+      "page_range": "7-11"
+    },
+    {
+      "title": "BTS Guidelines – Management when pCA >10% (solid component PET threshold and Herder model)",
+      "condition": "indeterminate pulmonary nodules (IPNs) with pCA >10%",
+      "source_organization": "British Thoracic Society (BTS)",
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "If risk of malignancy >10%: obtain PET if solid component > PET/CT detection threshold (usually >8 mm).",
+        "After PET/CT, use the Herder model to assess risk and determine next steps."
+      ],
+      "decision_points_and_pathways": [
+        "pCA >10% and solid component >8 mm: pursue PET/CT.",
+        "Post-PET: apply Herder model to guide next steps."
+      ],
+      "patient_population_criteria": "IPNs with risk of malignancy >10%",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 7,
+      "source_excerpt": "For nodules with risk of malignancy >10%, PET scan should be pursued if the solid component is greater than the PET/CT detection threshold, which is usually >8 mm.",
+      "present_in_source": true,
+      "page_range": "7-11"
+    },
+    {
+      "title": "BTS Guidelines – Subsolid nodules: follow-up threshold and risk stratification",
+      "condition": "subsolid nodules (SSNs)",
+      "source_organization": "British Thoracic Society (BTS)",
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Do not follow nodules <5 mm.",
+        "All SSNs >5 mm should be risk stratified with the Brock model."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": "Subsolid nodules; SSNs >5 mm for risk stratification",
+      "contraindications_and_exceptions": "Do not follow up nodules less than 5 mm.",
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 8,
+      "source_excerpt": "It is recommended that nodules less than 5 mm not be followed up. All SSNs >5 mm should be risk stratified with the Brock risk assessment model.",
+      "present_in_source": true,
+      "page_range": "7-11"
+    },
+    {
+      "title": "BTS Guidelines – Subsolid nodules: surveillance intervals and growth-triggered actions",
+      "condition": "subsolid nodules (SSNs)",
+      "source_organization": "British Thoracic Society (BTS)",
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "If pCA <10%: repeat CT at 1, 2, and 4 years.",
+        "If a GGN increases >2 mm: repeat CT in 6 months.",
+        "Resection or nonsurgical treatment of part-solid nodules if solid component enlarges or develops in a GGN."
+      ],
+      "decision_points_and_pathways": [
+        "pCA <10%: CT at 1, 2, 4 years.",
+        "GGN growth >2 mm: CT in 6 months.",
+        "Part-solid: treat if solid component enlarges or appears."
+      ],
+      "patient_population_criteria": "SSNs with pCA <10%; GGNs with interval growth",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": "CT surveillance at 1, 2, and 4 years for pCA <10%; 6-month CT for GGN growth >2 mm.",
+      "outcome_measures": null,
+      "alternative_approaches": "Resection or nonsurgical treatment for part-solid nodules with enlarging/new solid component.",
+      "source_page": 8,
+      "source_excerpt": "pCA <10%, repeat CT scan at 1, 2, and 4 years is recommended. If a GGN increases more than 2 mm, then repeat CT should be performed in 6 months.",
+      "present_in_source": true,
+      "page_range": "7-11"
+    },
+    {
+      "title": "ACCP Guidelines – Risk category thresholds for solid pulmonary nodules",
+      "condition": "solid pulmonary nodules",
+      "source_organization": "American College of Chest Physicians (ACCP)",
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Low risk: <5%",
+        "Intermediate risk: 5–65%",
+        "High risk: >65%"
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": "Management of Solid Pulmonary Nodules",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 7,
+      "source_excerpt": "Low risk <5% Intermediate risk 5–65% High risk >65%",
+      "present_in_source": true,
+      "page_range": "7-11"
+    },
+    {
+      "title": "BTS Guidelines – Risk category thresholds for solid pulmonary nodules",
+      "condition": "solid pulmonary nodules",
+      "source_organization": "British Thoracic Society (BTS)",
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Low risk: <10%",
+        "Intermediate risk: 10–70%",
+        "High risk: >70%"
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": "Management of Solid Pulmonary Nodules",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 7,
+      "source_excerpt": "Low risk <10% Intermediate risk 10–70% High risk >70%",
+      "present_in_source": true,
+      "page_range": "7-11"
+    },
+    {
+      "title": "ACCP Guidelines – Imaging follow-up threshold and surveillance period",
+      "condition": "solid pulmonary nodules",
+      "source_organization": "American College of Chest Physicians (ACCP)",
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Threshold for follow-up imaging: >6 mm.",
+        "Surveillance period: 2 years."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": "Management of Solid Pulmonary Nodules",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": "Surveillance period 2 years for nodules above threshold.",
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 7,
+      "source_excerpt": "Threshold for follow-up imaging >6 mm Surveillance period 2 years",
+      "present_in_source": true,
+      "page_range": "7-11"
+    },
+    {
+      "title": "BTS Guidelines – Imaging follow-up threshold and surveillance period",
+      "condition": "solid pulmonary nodules",
+      "source_organization": "British Thoracic Society (BTS)",
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Threshold for follow-up imaging: >80 mm3 or >6 mm diameter.",
+        "Surveillance period: 1 year."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": "Management of Solid Pulmonary Nodules",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": "Surveillance period 1 year for nodules above threshold.",
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 7,
+      "source_excerpt": "Threshold for follow-up imaging >80 mm3 or > 6 mm diameter Surveillance period 1 year",
+      "present_in_source": true,
+      "page_range": "7-11"
+    },
+    {
+      "title": "Fleischner Society Guidelines – Evaluation threshold by cancer risk",
+      "condition": "incidentally detected indeterminate pulmonary nodules (IPNs)",
+      "source_organization": "Fleischner Society",
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Limit evaluation if probability of lung cancer <1%.",
+        "Encourage further evaluation when risk >1%."
+      ],
+      "decision_points_and_pathways": [
+        "<1% risk: limit evaluation.",
+        ">1% risk: pursue further evaluation."
+      ],
+      "patient_population_criteria": "Incidentally detected IPNs; not for screen-detected nodules.",
+      "contraindications_and_exceptions": "Not intended for screen-detected nodules.",
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 8,
+      "source_excerpt": "aim to limit unnecessary evaluation of patients with less than 1% probability of lung cancer and encourages further evaluation when the risk is greater than 1% for IPNs",
+      "present_in_source": true,
+      "page_range": "7-11"
+    },
+    {
+      "title": "Fleischner Society Guidelines – Size-based follow-up recommendations",
+      "condition": "incidentally detected indeterminate pulmonary nodules (IPNs)",
+      "source_organization": "Fleischner Society",
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Provides surveillance intervals for nodules <6 mm if patient is high risk.",
+        "Recommends risk categorization for nodules >8 mm."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": "Incidentally detected IPNs; high-risk patients; nodules >8 mm",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": "Surveillance intervals for nodules <6 mm in high-risk patients (details per guideline).",
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 8,
+      "source_excerpt": "It provides surveillance intervals for nodules less than 6 mm if a patient is high risk and recommends risk categorization for nodules greater than 8 mm.",
+      "present_in_source": true,
+      "page_range": "7-11"
+    },
+    {
+      "title": "BTS Guidelines – Use of Brock and Herder models in solid IPNs",
+      "condition": "solid indeterminate pulmonary nodules (IPNs)",
+      "source_organization": "British Thoracic Society (BTS)",
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Utilize both the Brock and the Herder model to assess pCA in the algorithm for evaluation and management of solid IPNs."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": "solid IPNs",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 7,
+      "source_excerpt": "The BTS guidelines specifically utilize both the Brock and the Herder model to assess pCA in their algorithm for evaluation and management of solid IPNs",
+      "present_in_source": true,
+      "page_range": "7-11"
+    },
+    {
+      "title": "Standard of care for high pCA nodules – surgical referral and alternatives",
+      "condition": "indeterminate pulmonary nodules with high probability of malignancy",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "For pCA >65%: refer to surgery for resection if operable.",
+        "Nonsurgical biopsy may be performed prior to surgical evaluation.",
+        "If not surgical candidate or biopsy nondiagnostic/not possible: offer SBRT."
+      ],
+      "decision_points_and_pathways": [
+        "pCA >65% and operable: surgical resection.",
+        "Pre-op tissue confirmation or for staging/biomarkers as indicated.",
+        "Not operable or nondiagnostic biopsy: SBRT."
+      ],
+      "patient_population_criteria": "High probability of malignancy (pCA >65%) IPNs",
+      "contraindications_and_exceptions": "If patient is not operable, consider nonsurgical options.",
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": "SBRT for patients not able to undergo surgery or with nondiagnostic/not possible biopsy.",
+      "source_page": 9,
+      "source_excerpt": "In those with high probability of malignancy (pCA > 65%), a referral to surgery for resection of the nodule is the standard of care",
+      "present_in_source": true,
+      "page_range": "7-11"
+    }
+  ],
+  "drug_information": [],
+  "tables": [
+    {
+      "title": "Table 1 Differential diagnoses of solitary pulmonary nodules [47, 48]",
+      "headers": [
+        "Category",
+        "Entry"
+      ],
+      "rows": [
+        [
+          "Malignant",
+          "Primary lung cancer"
+        ],
+        [
+          "Malignant",
+          "Primary pulmonary lymphoma"
+        ],
+        [
+          "Malignant",
+          "Carcinoid"
+        ],
+        [
+          "Malignant",
+          "Metastasis"
+        ],
+        [
+          "Benign",
+          "Hamartoma"
+        ],
+        [
+          "Benign",
+          "Chondroma"
+        ],
+        [
+          "Infectious",
+          "Granuloma-TB, fungal"
+        ],
+        [
+          "Infectious",
+          "Nocardia"
+        ],
+        [
+          "Infectious",
+          "Round pneumonia"
+        ],
+        [
+          "Infectious",
+          "Septic emboli"
+        ],
+        [
+          "Infectious",
+          "Abscess"
+        ],
+        [
+          "Noninfectious",
+          "Rheumatoid nodule"
+        ],
+        [
+          "Noninfectious",
+          "Amyloidoma"
+        ],
+        [
+          "Noninfectious",
+          "Granulomatosis with polyangiitis"
+        ],
+        [
+          "Noninfectious",
+          "Bronchocele"
+        ],
+        [
+          "Vascular",
+          "AVM"
+        ],
+        [
+          "Vascular",
+          "Infarct"
+        ],
+        [
+          "Vascular",
+          "Hematoma"
+        ],
+        [
+          "Congenital",
+          "Bronchogenic cyst"
+        ],
+        [
+          "Congenital",
+          "Pulmonary sequestration"
+        ],
+        [
+          "Others",
+          "Pseudotumor"
+        ],
+        [
+          "Others",
+          "Subpleural lymph node"
+        ],
+        [
+          "Others",
+          "Pleural mass or plaque"
+        ]
+      ],
+      "units": null,
+      "units_present_in_source": false,
+      "footnotes": [
+        "Erasmus et al. [47], Cruickshank et al. [48]"
+      ],
+      "clinical_interpretation": null,
+      "clinical_interpretation_present_in_source": false,
+      "source_page": 2,
+      "source_excerpt": "Table 1 Differential diagnoses of solitary pulmonary nodules [47, 48]",
+      "content_provenance": "pdf_text",
+      "page_range": "1-6",
+      "data_objects": [
+        {
+          "category": "Malignant",
+          "entry": "Primary lung cancer"
+        },
+        {
+          "category": "Malignant",
+          "entry": "Primary pulmonary lymphoma"
+        },
+        {
+          "category": "Malignant",
+          "entry": "Carcinoid"
+        },
+        {
+          "category": "Malignant",
+          "entry": "Metastasis"
+        },
+        {
+          "category": "Benign",
+          "entry": "Hamartoma"
+        },
+        {
+          "category": "Benign",
+          "entry": "Chondroma"
+        },
+        {
+          "category": "Infectious",
+          "entry": "Granuloma-TB, fungal"
+        },
+        {
+          "category": "Infectious",
+          "entry": "Nocardia"
+        },
+        {
+          "category": "Infectious",
+          "entry": "Round pneumonia"
+        },
+        {
+          "category": "Infectious",
+          "entry": "Septic emboli"
+        },
+        {
+          "category": "Infectious",
+          "entry": "Abscess"
+        },
+        {
+          "category": "Noninfectious",
+          "entry": "Rheumatoid nodule"
+        },
+        {
+          "category": "Noninfectious",
+          "entry": "Amyloidoma"
+        },
+        {
+          "category": "Noninfectious",
+          "entry": "Granulomatosis with polyangiitis"
+        },
+        {
+          "category": "Noninfectious",
+          "entry": "Bronchocele"
+        },
+        {
+          "category": "Vascular",
+          "entry": "AVM"
+        },
+        {
+          "category": "Vascular",
+          "entry": "Infarct"
+        },
+        {
+          "category": "Vascular",
+          "entry": "Hematoma"
+        },
+        {
+          "category": "Congenital",
+          "entry": "Bronchogenic cyst"
+        },
+        {
+          "category": "Congenital",
+          "entry": "Pulmonary sequestration"
+        },
+        {
+          "category": "Others",
+          "entry": "Pseudotumor"
+        },
+        {
+          "category": "Others",
+          "entry": "Subpleural lymph node"
+        },
+        {
+          "category": "Others",
+          "entry": "Pleural mass or plaque"
+        }
+      ]
+    },
+    {
+      "title": "Table 2 Characteristics of benign and malignant pulmonary nodules [5, 14, 47, 49]",
+      "headers": [
+        "Characteristic",
+        "Benign",
+        "Malignant"
+      ],
+      "rows": [
+        [
+          "Size",
+          "Small (<2 cm)",
+          ">1  c  m  "
+        ],
+        [
+          "Margin",
+          "Smooth, well deﬁned",
+          "Irregular, \nLobulated \nSpiculated \nSunburst or corona \nradiata appearance "
+        ],
+        [
+          "Internal \ncharacteristics",
+          "Intranodular fat \nPseudocavitation with \nsmooth thin (<4 mm) \nwalls ",
+          "Pseudocavitation with \nthick (>16 mm) irregular \nwalls "
+        ],
+        [
+          "Calciﬁcation",
+          "Central \nDiffuse solid \nLaminated \nPopcorn-like",
+          "Diffuse and amorphous \nPunctate \nEccentric"
+        ],
+        [
+          "Volume \ndoubling time",
+          "<20–30 days (likely \ninfectious) \n>400 ",
+          "Between 30 and \n400 days"
+        ]
+      ],
+      "units": null,
+      "units_present_in_source": false,
+      "footnotes": [
+        "van Klaveren et al. [5], Gould et al. [14], Erasmus et al. [47, 49]"
+      ],
+      "clinical_interpretation": null,
+      "clinical_interpretation_present_in_source": false,
+      "source_page": 3,
+      "source_excerpt": "Table 2 Characteristics of benign and malignant pulmonary nodules [5, 14, 47, 49]",
+      "content_provenance": "pdf_text",
+      "page_range": "1-6",
+      "data_objects": [
+        {
+          "characteristic": "Size",
+          "benign": "Small (<2 cm)",
+          "malignant": ">1 c m"
+        },
+        {
+          "characteristic": "Margin",
+          "benign": "Smooth, well defined",
+          "malignant": "Irregular, Lobulated Spiculated Sunburst or corona radiata appearance"
+        },
+        {
+          "characteristic": "Internal characteristics",
+          "benign": "Intranodular fat Pseudocavitation with smooth thin (<4 mm) walls",
+          "malignant": "Pseudocavitation with thick (>16 mm) irregular walls"
+        },
+        {
+          "characteristic": "Calcification",
+          "benign": "Central Diffuse solid Laminated Popcorn-like",
+          "malignant": "Diffuse and amorphous Punctate Eccentric"
+        },
+        {
+          "characteristic": "Volume doubling time",
+          "benign": "<20–30 days (likely infectious) >400",
+          "malignant": "Between 30 and 400 days"
+        }
+      ]
+    },
+    {
+      "title": "Table 3 Prediction models",
+      "headers": [
+        "Model",
+        "Setting",
+        "Patients",
+        "Prevalence",
+        "Model characteristics",
+        "Predictors of malignancy"
+      ],
+      "rows": [
+        [
+          "Mayo or Swensen \nModel [15] ",
+          "Incidentally detected \nnodules ",
+          "629",
+          "23%",
+          "Age \nSmoking history \nExtra thoracic \nmalignancy \nNodule size \nSpiculation \nNodule location ",
+          "Age \nSmoking history \nExtra thoracic malignancy \nNodule size \nSpiculation \nNodule location "
+        ],
+        [
+          "Herder [16]",
+          "Incidentally detected \nnodules ",
+          "106",
+          "57.5%",
+          "Age \nSmoking history \nExtra thoracic \nmalignancy \nNodule size \nNodule location \nSpiculation \nPET-avidity ",
+          "Age \nSmoking history \nExtra thoracic malignancy \nSpiculation \nNodule location \nNodule size \nPET avidity "
+        ],
+        [
+          "Brock [17]",
+          "Screening population",
+          "1871",
+          "5.5%",
+          "Age \nGender \nFamily history of \nlung cancer \nEmphysema \nNodule size \nNodule type \nNodule location \nNumber of \nnodules \nSpiculation ",
+          "Age \nFemale \nFamily history of lung cancer \nEmphysema \nNodule size \nUpper lobe location \nPart-solid nodule \nLow nodule count \nSpiculation "
+        ],
+        [
+          "TREAT 1.0 [18]",
+          "Surgical evaluation for \nresection ",
+          "492",
+          "72%",
+          "Age \nGender \nBMI \nSmoking history \nHemoptysis \nPrevious \nmalignancy \nNodule size \nNodule growth \nSpiculation \nNodule location \nPet avidity ",
+          "Increased age \nNodule size \nNodule growth \nPrevious cancer \nPDG-PET avidity \nSpiculation "
+        ],
+        [
+          "TREAT 2.0 [19]",
+          "Pulmonary nodule clinic \nOutpatient thoracic surgery \nclinic \nInpatient surgical resection ",
+          "1401",
+          "70%",
+          "Age \nGender \nNodule location \nEvaluation setting \nPrevious cancer \nPre-Op symptoms \nPre-Op FEV1 \nBMI \nSmoking history \nNodule size \nPET avidity \nNodule growth \nNodule location \nSpiculation ",
+          "Increased age \nNodule size \nNodule growth \nPrevious cancer \nPDG-PET avidity \nSpiculation \nClinical setting \nPre-Op FEV1 \nPre-Op symptoms "
+        ],
+        [
+          "Physician \nAssessment [20] ",
+          "Pulmonary nodule or \nthoracic surgery clinic ",
+          "337",
+          "47%",
+          "Nodule size \nNodule contour \nNodule location ",
+          "Physician estimated pCA based on nodule \nsize, contour, and location. "
+        ]
+      ],
+      "units": null,
+      "units_present_in_source": false,
+      "footnotes": [
+        "Swensen et al. [15], Herder et al. [16], McWilliams et al. [17], Deppen et al. [18], Godfrey et al. [19], Tanner et al. [20]"
+      ],
+      "clinical_interpretation": null,
+      "clinical_interpretation_present_in_source": false,
+      "source_page": 4,
+      "source_excerpt": "Table 3 Prediction models",
+      "content_provenance": "pdf_text",
+      "page_range": "1-6",
+      "data_objects": [
+        {
+          "model": "Mayo or Swensen Model [15]",
+          "setting": "Incidentally detected nodules",
+          "patients": "629",
+          "prevalence": "23%",
+          "model_characteristics": "Age Smoking history Extrathoracic malignancy Nodule size Spiculation Nodule location",
+          "predictors_of_malignancy": "Age Smoking history Extrathoracic malignancy Nodule size Spiculation Nodule location"
+        },
+        {
+          "model": "Herder [16]",
+          "setting": "Incidentally detected nodules",
+          "patients": "106",
+          "prevalence": "57.5%",
+          "model_characteristics": "Age Smoking history Extrathoracic malignancy Nodule size Nodule location Spiculation PET-avidity",
+          "predictors_of_malignancy": "Age Smoking history Extrathoracic malignancy Spiculation Nodule location Nodule size PET avidity"
+        },
+        {
+          "model": "Brock [17]",
+          "setting": "Screening population",
+          "patients": "1871",
+          "prevalence": "5.5%",
+          "model_characteristics": "Age Gender Family history of lung cancer Emphysema Nodule size Nodule type Nodule location Number of nodules Spiculation",
+          "predictors_of_malignancy": "Age Female Family history of lung cancer Emphysema Nodule size Upper lobe location Part-solid nodule Low nodule count Spiculation"
+        },
+        {
+          "model": "TREAT 1.0 [18]",
+          "setting": "Surgical evaluation for resection",
+          "patients": "492",
+          "prevalence": "72%",
+          "model_characteristics": "Age Gender BMI Smoking history Hemoptysis Previous malignancy Nodule size Nodule growth Spiculation Nodule location Pet avidity",
+          "predictors_of_malignancy": "Increased age Nodule size Nodule growth Previous cancer FDG-PET avidity Spiculation"
+        },
+        {
+          "model": "TREAT 2.0 [19]",
+          "setting": "Pulmonary nodule clinic Outpatient thoracic surgery clinic Inpatient surgical resection",
+          "patients": "1401",
+          "prevalence": "70%",
+          "model_characteristics": "Age Gender Nodule location Evaluation setting Previous cancer Pre-Op symptoms Pre-Op FEV1 BMI Smoking history Nodule size PET avidity Nodule growth Nodule location Spiculation",
+          "predictors_of_malignancy": "Increased age Nodule size Nodule growth Previous cancer FDG-PET avidity Spiculation Clinical setting Pre-Op FEV1 Pre-Op symptoms"
+        },
+        {
+          "model": "Physician Assessment [20]",
+          "setting": "Pulmonary nodule or thoracic surgery clinic",
+          "patients": "337",
+          "prevalence": "47%",
+          "model_characteristics": "Nodule size Nodule contour Nodule location",
+          "predictors_of_malignancy": "Physician estimated pCA based on nodule size, contour, and location."
+        }
+      ]
+    },
+    {
+      "title": "Table 4 Comparison between American College of Chest Physicians and British Thoracic Society Guidelines for Management of Solid Pulmonary Nodules",
+      "headers": [
+        "",
+        "ACCP",
+        "BTS"
+      ],
+      "rows": [
+        [
+          "Low risk",
+          "<5%",
+          "<10%"
+        ],
+        [
+          "Intermediate risk",
+          "5–65%",
+          "10–70%"
+        ],
+        [
+          "High risk",
+          ">65%",
+          ">70%"
+        ],
+        [
+          "Threshold for follow-up imaging",
+          ">6  mm",
+          ">80 mm3 or > 6  mm  diameter"
+        ],
+        [
+          "Surveillance period",
+          "2 years",
+          "1 year"
+        ]
+      ],
+      "units": null,
+      "footnotes": [
+        "Gould et al. [14], Callister et al. [26]"
+      ],
+      "clinical_interpretation": null,
+      "source_page": 7,
+      "source_excerpt": "Low risk <5% <10%",
+      "content_provenance": "pdf_text",
+      "page_range": "7-11",
+      "data_objects": [
+        {
+          "column_0": "Low risk",
+          "accp": "<5%",
+          "bts": "<10%"
+        },
+        {
+          "column_0": "Intermediate risk",
+          "accp": "5–65%",
+          "bts": "10–70%"
+        },
+        {
+          "column_0": "High risk",
+          "accp": ">65%",
+          "bts": ">70%"
+        },
+        {
+          "column_0": "Threshold for follow-up imaging",
+          "accp": ">6 mm",
+          "bts": ">80 mm3 or > 6 mm diameter"
+        },
+        {
+          "column_0": "Surveillance period",
+          "accp": "2 years",
+          "bts": "1 year"
+        }
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "figure_id": "Fig. 1",
+      "title": "American College of Chest Physicians 2013 Guidelines diagnostic algorithm.",
+      "caption": "Fig. 1 American College of Chest Physicians 2013 Guidelines diagnostic algorithm. (Used with Permission from Gould et al. [14])",
+      "type": "algorithm",
+      "key_findings": [],
+      "clinical_significance": null,
+      "source_page": 7,
+      "source_excerpt": "Fig. 1 American College of Chest Physicians 2013 Guidelines diagnostic algorithm. (Used with Permission from Gould et al. [14])",
+      "present_in_source": true,
+      "page_range": "7-11"
+    }
+  ],
+  "clinical_cases": [
+    {
+      "content": "For example, a 1 cm tumor close to the chest wall may be better approached with TTNB than other bronchoscopic techniques.",
+      "source_page": 10,
+      "source_excerpt": "a 1 cm tumor close to the chest wall may be better approached with TTNB",
+      "present_in_source": true,
+      "page_range": "7-11"
+    }
+  ],
+  "definitions": [
+    {
+      "content": "Nodules are divided into two categories, solid and subsolid, with subsolid nodules (SSNs) further classified into part-solid and ground glass.",
+      "source_page": 2,
+      "source_excerpt": "Nodules are divided into two categories, solid and subsolid, with subsolid nodules (SSNs) further classified into part-solid and ground glass.",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "content": "Growth is defined as a volume increase of at least 25% between scans [5].",
+      "source_page": 8,
+      "source_excerpt": "Growth is defined as a volume increase of at least 25% between scans",
+      "present_in_source": true,
+      "page_range": "7-11"
+    },
+    {
+      "term": "pCA",
+      "definition": "pretest probability of cancer",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "IPN",
+      "definition": "indeterminate pulmonary nodule",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "SPN",
+      "definition": "solitary pulmonary nodule",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "VDT",
+      "definition": "volume doubling time",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "FDG",
+      "definition": "fluorodeoxyglucose",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "PET",
+      "definition": "positron emission tomography",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "EBUS",
+      "definition": "endobronchial ultrasound",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "TBNA",
+      "definition": "transbronchial needle aspiration",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "PPV",
+      "definition": "positive predictive value",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "NPV",
+      "definition": "negative predictive value",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "ACCP",
+      "definition": "American College of Chest Physicians",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "BTS",
+      "definition": "British Thoracic Society",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    }
+  ],
+  "clinical_pearls": [
+    {
+      "content": "Smaller nodules are more likely to be benign, with the probability of malignancy for nodules <6 mm around 1%, and for those 6–8 mm between 1% and 2%, respectively [4].",
+      "source_page": 2,
+      "source_excerpt": "Smaller nodules are more likely to be benign, with the probability of malignancy for nodules <6 mm around 1%, and for those 6–8 mm between 1% and 2%",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "content": "Methods suggested to enhance technique are increased focus on procedural training, frequent use of simulation to improve skills, and individualized feedback regarding operator skills [44].",
+      "source_page": 9,
+      "source_excerpt": "Methods suggested to enhance technique are increased focus on procedural training, frequent use of simulation to improve skills, and individualized feedback regarding operator skills",
+      "present_in_source": true,
+      "page_range": "7-11"
+    }
+  ],
+  "references": [
+    {
+      "citation": "[1]",
+      "authors": [],
+      "year": 2016,
+      "journal": null,
+      "doi_pmid": null,
+      "study_type": null,
+      "key_findings": null,
+      "source_page": 2,
+      "source_excerpt": "In 2016, approximately 12.7 million chest CT scans were performed in the United States [1],",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "citation": "Mahesh M, Ansari AJ, Mettler FA. Patient exposure from radiologic and nuclear medicine procedures in the United States and world- wide: 2009–2018. Radiology. 2023;307(1):e239006.",
+      "authors": [
+        "Mahesh M",
+        "Ansari AJ",
+        "Mettler FA"
+      ],
+      "year": 2023,
+      "journal": "Radiology",
+      "doi_pmid": null,
+      "study_type": null,
+      "key_findings": null,
+      "source_page": 10,
+      "source_excerpt": "Mahesh M, Ansari AJ, Mettler FA. Patient exposure from radiologic and nuclear medicine procedures in the United States and world- wide: 2009–2018.",
+      "present_in_source": true,
+      "page_range": "7-11"
+    }
+  ],
+  "summary": {
+    "clinical_applications": [],
+    "practice_recommendations": [
+      {
+        "content": "serial surveillance imaging is recommended for patients with very low risk (defined as having a pretest probability estimated to be <5%) at intervals of 3–6, 9–12, and 18–24 months [14].",
+        "source_page": 6,
+        "source_excerpt": "serial surveillance imaging is recommended … <5%) at intervals of 3–6, 9–12, and 18–24 months",
+        "present_in_source": true,
+        "page_range": "1-6"
+      },
+      {
+        "content": "They have different risk thresholds for low- (<10%), intermediate- (10–70%), and high-risk nodules (>70%) and do not recommend surveilling nodules less than 5 mm or 80 mm3 [26].",
+        "source_page": 7,
+        "source_excerpt": "do not recommend surveilling nodules less than 5 mm or 80 mm3",
+        "present_in_source": true,
+        "page_range": "7-11"
+      }
+    ],
+    "future_directions": [],
+    "controversies": []
+  },
+  "extraction_metadata": {
+    "source_pdf": "Textbooks\\Chapter pdfs\\Approach to Peripheral Lung Lesions.pdf",
+    "adobe_json": "Textbooks\\Chapter json\\Approach to Peripheral Lung Lesions.json",
+    "extraction_date": "2025-08-19T19:01:24.399537+00:00",
+    "text_pages": 11,
+    "chunks_processed": 2,
+    "model": "gpt-5",
+    "extractor_version": "production_multipass_v3.2_gpt5_simple",
+    "enhancements_applied": [
+      "ocr_cleanup",
+      "type_normalization",
+      "criteria_tokenization",
+      "guideline_deduplication",
+      "page_range_normalization",
+      "performance_metric_structuring",
+      "definition_enrichment"
+    ],
+    "passes_completed": 7
+  }
+}

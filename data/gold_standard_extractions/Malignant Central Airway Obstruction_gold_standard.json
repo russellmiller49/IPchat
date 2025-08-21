@@ -1,0 +1,1010 @@
+{
+  "chapter_metadata": {
+    "title": {
+      "value": "Malignant Central Airway Obstruction",
+      "present_in_source": false
+    },
+    "authors": [],
+    "chapter_number": {
+      "value": null,
+      "present_in_source": false
+    },
+    "learning_objectives": [],
+    "key_points": [],
+    "page_range": {
+      "start": 1,
+      "end": 10
+    },
+    "reference": "[Chapter Text]"
+  },
+  "anatomical_content": {
+    "structures": []
+  },
+  "clinical_procedures": [],
+  "diagnostic_approaches": [
+    {
+      "name": "MCAO diagnostic definition (≥50% central airway narrowing)",
+      "purpose": "Definition of MCAO",
+      "criteria_or_scoring": [
+        "50% or greater narrowing of the central airways",
+        "including trachea",
+        "mainstem bronchi",
+        "bronchus intermedius",
+        "and lobar bronchi"
+      ],
+      "how_to_perform": null,
+      "interpretation": null,
+      "limitations": null,
+      "when_to_use": null,
+      "source_page": 2,
+      "source_excerpt": "MCAO is defined as 50% or greater narrowing of the central airways, including trachea, mainstem bronchi, bronchus intermedius, and lobar bronchi",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Anatomical classification of MCAO (intrinsic, extrinsic, mixed)",
+      "purpose": "Classify MCAO by anatomy of airway compromise",
+      "criteria_or_scoring": [
+        "Intrinsic/endobronchial: within airway lumen",
+        "Extrinsic: entirely extraluminal due to mass effect",
+        "Mixed: both intrinsic and extrinsic components"
+      ],
+      "how_to_perform": null,
+      "interpretation": "Identifies pattern of obstruction (intrinsic, extrinsic, mixed)",
+      "limitations": null,
+      "when_to_use": null,
+      "source_page": 2,
+      "source_excerpt": "MCAO can be classified based on the anatomy of airway compromise into intrinsic or endobronchial, extrinsic, and mixed (Fig. 1) [1].",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[1]"
+    },
+    {
+      "name": "Clinical history and physical examination",
+      "purpose": "Establish diagnosis of MCAO and assess severity/trajectory",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Comprehensive clinical history and physical exam",
+      "interpretation": "Patients often present with dyspnea; stridor or unilateral wheeze on examination; positional aggravation with lying flat",
+      "limitations": null,
+      "when_to_use": "Diagnosis of MCAO",
+      "source_page": 2,
+      "source_excerpt": "The diagnosis of MCAO is established on the history, physical examination, and imaging [1, 4].",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Chest X-ray",
+      "purpose": "Initial imaging; may suggest abnormalities but limited for MCAO",
+      "criteria_or_scoring": [],
+      "how_to_perform": null,
+      "interpretation": "Findings may be nonspecific",
+      "limitations": [
+        "Airway anatomy is poorly defined",
+        "findings may be nonspecific"
+      ],
+      "when_to_use": null,
+      "source_page": 2,
+      "source_excerpt": "While chest X-rays may be readily available, the findings may be nonspecific as the airway anatomy is poorly defined [20].",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[20]"
+    },
+    {
+      "name": "Chest CT scan",
+      "purpose": "Diagnosing and characterizing MCAO",
+      "criteria_or_scoring": [],
+      "how_to_perform": "CT of the chest",
+      "interpretation": "Reliable for diagnosis and characterization",
+      "limitations": [
+        "May underestimate extent compared to bronchoscopy",
+        "may overestimate when mucus or blood masquerade as tissue obstruction",
+        "underdiagnosis occurs in real-world"
+      ],
+      "when_to_use": "Diagnosis and characterization of MCAO",
+      "source_page": 2,
+      "source_excerpt": "The computerized tomography (CT) of the chest remains the most reliable means of diagnosing and characterizing MCAO [4].",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[4]"
+    },
+    {
+      "name": "Assessment for patent distal airway (radiographic or bronchoscopic)",
+      "purpose": "Predict likelihood of successful relief of MCAO",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Assess distal airway patency on imaging or bronchoscopy",
+      "interpretation": "Indicator of successful relief; may portend more favorable bronchoscopic outcome",
+      "limitations": null,
+      "when_to_use": null,
+      "source_page": 3,
+      "source_excerpt": "Visualization of a patent distal airway either radiographically or bronchoscopically has been shown to be an indicator of successful relief of MCAO and may portend more favorable bronchoscopic outcome [19].",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[19]"
+    },
+    {
+      "name": "Duration of lobar atelectasis assessment",
+      "purpose": "Assess potential irreversibility of atelectatic lung",
+      "criteria_or_scoring": [],
+      "how_to_perform": null,
+      "interpretation": "Greater than four weeks may suggest the atelectatic lung is irredeemable",
+      "limitations": [
+        "Suggestive",
+        "not definitive"
+      ],
+      "when_to_use": null,
+      "source_page": 3,
+      "source_excerpt": "Duration of lobar atelectasis of greater than four weeks may suggest the atelectatic lung is irredeemable [20].",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[20]"
+    },
+    {
+      "name": "Spirometry with flow-volume loop analysis",
+      "purpose": "Functional testing to identify pattern of airway obstruction",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Spirometry (if feasible)",
+      "interpretation": "Expiratory flattening: variable intrathoracic; inspiratory: variable extrathoracic; combined: fixed obstruction",
+      "limitations": [
+        "May not be feasible in profound symptoms or acute respiratory failure"
+      ],
+      "when_to_use": null,
+      "source_page": 3,
+      "source_excerpt": "spirometry may show patterns of expiratory, inspiratory, or combined flow-volume loop flattening which have been associated with variable intrathoracic, variable extrathoracic, or fixed obstruction, respectively [4].",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[4]"
+    },
+    {
+      "name": "Mouth opening assessment (>3 finger breadths)",
+      "purpose": "Inform the difficulty of endotracheal tube placement or rigid bronchoscopy",
+      "criteria_or_scoring": [
+        "Normal >3 finger breadths"
+      ],
+      "how_to_perform": null,
+      "interpretation": null,
+      "limitations": null,
+      "when_to_use": "Pre-therapeutic bronchoscopy anesthesia assessment",
+      "source_page": 4,
+      "source_excerpt": "following components of examination can inform the difficulty of endotracheal tube placement or rigid bronchoscopy: 1. Mouth opening (normal >3 finger breadths) [36]",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[36]"
+    },
+    {
+      "name": "Dental assessment (teeth: loose, missing, or prominent)",
+      "purpose": "Inform the difficulty of endotracheal tube placement or rigid bronchoscopy",
+      "criteria_or_scoring": [
+        "Teeth",
+        "like loose",
+        "missing or prominent"
+      ],
+      "how_to_perform": null,
+      "interpretation": null,
+      "limitations": null,
+      "when_to_use": "Pre-therapeutic bronchoscopy anesthesia assessment",
+      "source_page": 4,
+      "source_excerpt": "following components of examination can inform the difficulty of endotracheal tube placement or rigid bronchoscopy: 2. Teeth, like loose, missing or prominent [36]",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[36]"
+    },
+    {
+      "name": "Modified Mallampati score",
+      "purpose": "Inform the difficulty of endotracheal tube placement or rigid bronchoscopy",
+      "criteria_or_scoring": [],
+      "how_to_perform": null,
+      "interpretation": null,
+      "limitations": null,
+      "when_to_use": "Pre-therapeutic bronchoscopy anesthesia assessment",
+      "source_page": 4,
+      "source_excerpt": "following components of examination can inform the difficulty of endotracheal tube placement or rigid bronchoscopy: 3. Modified Mallampati score [37, 38]",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Neck mobility assessment (>90°)",
+      "purpose": "Inform the difficulty of endotracheal tube placement or rigid bronchoscopy",
+      "criteria_or_scoring": [
+        "Normal >90°"
+      ],
+      "how_to_perform": null,
+      "interpretation": null,
+      "limitations": null,
+      "when_to_use": "Pre-therapeutic bronchoscopy anesthesia assessment",
+      "source_page": 4,
+      "source_excerpt": "following components of examination can inform the difficulty of endotracheal tube placement or rigid bronchoscopy: 4. Neck mobility (Normal >90°) [36]",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[36]"
+    },
+    {
+      "name": "Thyromental distance assessment (>3 finger breadths)",
+      "purpose": "Inform the difficulty of endotracheal tube placement or rigid bronchoscopy",
+      "criteria_or_scoring": [
+        "Normal >3 finger breadths"
+      ],
+      "how_to_perform": null,
+      "interpretation": null,
+      "limitations": null,
+      "when_to_use": "Pre-therapeutic bronchoscopy anesthesia assessment",
+      "source_page": 4,
+      "source_excerpt": "following components of examination can inform the difficulty of endotracheal tube placement or rigid bronchoscopy: 5. Thyromental distance (normal >3 finger breadths) [36]",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[36]"
+    },
+    {
+      "name": "Surveillance bronchoscopy after airway stent placement",
+      "purpose": "Detect stent-related complications after stent insertion.",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Routine surveillance bronchoscopy within three months of stent insertion or when patients are symptomatic.",
+      "interpretation": "Stent-related complications detected on bronchoscopy.",
+      "limitations": [
+        "The evidence is unclear about the role of surveillance bronchoscopies after airway stent placement."
+      ],
+      "when_to_use": "After airway stent placement.",
+      "source_page": 7,
+      "source_excerpt": "compared routine surveillance bronchoscopy within three months of stent insertion to bronchoscopy when patients were symptomatic.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 10
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "CT chest for stent surveillance and patency assessment",
+      "purpose": "Surveillance and assess stent patency.",
+      "criteria_or_scoring": [],
+      "how_to_perform": "CT chest.",
+      "interpretation": "Assess stent patency on surveillance imaging.",
+      "limitations": null,
+      "when_to_use": "For surveillance to assess stent patency.",
+      "source_page": 7,
+      "source_excerpt": "CT chest can be utilized for surveillance and assess stent patency [1, 60].",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 10
+      },
+      "reference": "[Chapter Text]"
+    }
+  ],
+  "treatment_algorithms": [
+    {
+      "title": "Suggested algorithm for the management of malignant central airway obstruction",
+      "condition": "malignant central airway obstruction",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Surgical Management (for Surgical Candidate).",
+        "Debridement/Ablation of Endobronchial Tumor.",
+        "Stent Placement for Extrinsic Obstruction or Tumor Recurrence.",
+        "Possible Local Bronchoscopic Therapy (photodynamic therapy, brachytherapy, cryotherapy, or intratumoral chemotherapy injection).",
+        "Systemic Chemotherapy + External Beam Radiation."
+      ],
+      "decision_points_and_pathways": [
+        "Surgical Candidate -> Surgical Management.",
+        "Non-surgical Candidate -> Debridement/Ablation of Endobronchial Tumor -> Stent Placement for Extrinsic Obstruction or Tumor Recurrence -> Possible Local Bronchoscopic Therapy -> Systemic Chemotherapy + External Beam Radiation."
+      ],
+      "patient_population_criteria": "Malignant central airway obstruction",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": [],
+      "source_page": 6,
+      "source_excerpt": "Fig. 5 Suggested algorithm for the management of malignant central airway obstruction. *Local bronchoscopic therapy may include photodynamic therapy, brachytherapy, cryotherapy, or intratumoral chemotherapy injection.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    }
+  ],
+  "clinical_guidelines": [
+    {
+      "title": "ACCP guideline: Rigid over flexible bronchoscopy for therapeutic interventions",
+      "condition": "central airway obstruction",
+      "source_organization": "American College of Chest Physicians (ACCP)",
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Use rigid bronchoscopy over flexible bronchoscopy for therapeutic interventions in central airway obstruction.",
+        "Consider rigid bronchoscopy particularly for large and proximal central airway tumors.",
+        "Flexible bronchoscope might be adequate for distal and smaller airway lesions and is used as an adjunct with almost all rigid bronchoscopy cases.",
+        "Silicone stents can only be deployed through rigid bronchoscopes."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": [
+        "Flexible bronchoscopy for distal and smaller airway lesions (used as an adjunct in most rigid bronchoscopy cases)."
+      ],
+      "source_page": 4,
+      "source_excerpt": "Therefore, the American College of Chest Physicians (ACCP) guidelines for management of central airway obstruction suggested rigid over ﬂexible bronchoscopy for therapeutic interventions [1].",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[1]"
+    },
+    {
+      "title": "ACCP guideline: Anesthetic approach for therapeutic bronchoscopy",
+      "condition": "central airway obstruction",
+      "source_organization": "American College of Chest Physicians (ACCP)",
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Use general anesthesia/deep sedation with paralytics for therapeutic bronchoscopy."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": [],
+      "source_page": 5,
+      "source_excerpt": "The ACCP guidelines suggest the use of general anesthesia/deep sedation with paralytics for therapeutic bronchoscopy [1].",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[1]"
+    },
+    {
+      "title": "ACCP guideline: Ventilator support during therapeutic bronchoscopy under general anesthesia",
+      "condition": "central airway obstruction",
+      "source_organization": "American College of Chest Physicians (ACCP)",
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Use either jet ventilation or controlled/spontaneous assisted ventilation for therapeutic bronchoscopy under general anesthesia."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": [],
+      "source_page": 5,
+      "source_excerpt": "The ACCP guidelines suggest the use of either jet or controlled/ spontaneous assisted ventilation for therapeutic bronchoscopy under general anesthesia [1].",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[1]"
+    },
+    {
+      "title": "General management recommendations for MCAO",
+      "condition": "malignant central airway obstruction",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Therapeutic bronchoscopy under general anesthesia is the main approach to management.",
+        "Use multimodality therapeutic bronchoscopy to maximize procedural success.",
+        "Treat with definitive chemoradiation and/or surgery.",
+        "Adopt a multidisciplinary, patient-centric approach."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": "Patients with malignant central airway obstruction",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": [],
+      "source_page": 1,
+      "source_excerpt": "The main approach to management is therapeutic bronchoscopy under general anesthesia. In addition, these patients should be treated with deﬁnitive chemoradiation and/or surgery.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "ACCP recommendations: Ablative therapies for airway patency in MCAO",
+      "condition": "Malignant Central Airway Obstruction (MCAO)",
+      "source_organization": "American College of Chest Physicians (ACCP)",
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Suggest tumor excision with ablative therapies to achieve airway patency."
+      ],
+      "decision_points_and_pathways": [
+        "If tumor causes airway obstruction, use ablative therapies to excise/debulk to restore patency."
+      ],
+      "patient_population_criteria": "Patients with malignant central airway obstruction requiring restoration of airway patency.",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 7,
+      "source_excerpt": "The ACCP guidelines suggest tumor excision with ablative therapies to achieve airway patency [1].",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 10
+      },
+      "reference": "[1]"
+    },
+    {
+      "title": "ACCP recommendations: Consider local therapies with delayed effect for MCAO",
+      "condition": "Malignant Central Airway Obstruction (MCAO)",
+      "source_organization": "American College of Chest Physicians (ACCP)",
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Consider local therapies (e.g., PDT, brachytherapy, cryotherapy) that prevent tumor regrowth for MCAO management in select patients."
+      ],
+      "decision_points_and_pathways": [
+        "If goal includes preventing tumor regrowth in MCAO, consider delayed-effect local therapies in select patients."
+      ],
+      "patient_population_criteria": "Select patients with MCAO where prevention of tumor regrowth is desired.",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 7,
+      "source_excerpt": "ACCP guide- lines suggests to consider these “local therapies” that prevent tumor regrowth for MCAO management in select patients [1].",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 10
+      },
+      "reference": "[1]"
+    },
+    {
+      "title": "ACCP recommendations: Airway stents for MCAO (indications and follow-up)",
+      "condition": "Malignant Central Airway Obstruction (MCAO)",
+      "source_organization": "American College of Chest Physicians (ACCP)",
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Consider airway stents in patients with extrinsic compression for palliation or while adjunct chemoradiation needs time to shrink the tumor.",
+        "In endobronchial CAO, use stents after tumor debridement in patients who failed initial chemoradiation or previous therapeutic bronchoscopies.",
+        "Carefully follow patients with airway stents and remove stents as soon as there is evidence of significant tumor regression.",
+        "Either routine surveillance or symptom-driven bronchoscopy is recommended after stent placement.",
+        "CT chest can be utilized for surveillance and assess stent patency."
+      ],
+      "decision_points_and_pathways": [
+        "If extrinsic compression present -> consider stent for palliation or while awaiting chemoradiation effect.",
+        "If endobronchial CAO post-debridement with failed initial chemoradiation/previous bronchoscopies -> consider stent.",
+        "Post-stent placement -> choose routine surveillance bronchoscopy or symptom-driven approach; use CT chest to assess patency.",
+        "If significant tumor regression -> remove stent."
+      ],
+      "patient_population_criteria": "Patients with extrinsic compression or endobronchial CAO after debridement with failed initial chemoradiation/previous bronchoscopies.",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": "Careful follow-up; routine or symptom-driven bronchoscopy; CT chest to assess stent patency; remove stent upon significant tumor regression.",
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 7,
+      "source_excerpt": "The airway stents should be considered in patients with extrinsic compression for palliation or while adjunct chemoradiation needs time to shrink the tumor [1].",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 10
+      },
+      "reference": "[1]"
+    },
+    {
+      "title": "Safety recommendations for immediate-effect ablative therapies",
+      "condition": "Central airway tumor ablation procedures",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Decrease the fraction of inhaled oxygen (FiO2) to ≤0.4 during ablative therapies.",
+        "Keep the active tip of ablative probes away from flammable devices like flexible bronchoscope or endotracheal tube."
+      ],
+      "decision_points_and_pathways": [
+        "Before activating ablative device -> reduce FiO2 to ≤0.4 and ensure tip is away from flammable equipment."
+      ],
+      "patient_population_criteria": "Patients undergoing immediate-effect ablative therapies (e.g., APC, laser, electrocautery) for airway tumors.",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": "Monitor oxygen concentration and device-tip positioning to reduce airway fire risk.",
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 7,
+      "source_excerpt": "decrease the fraction of inhaled oxygen (FiO2) to ≤0.4 and keep the active tip of the ablative probes away from flamma- ble devices… to decrease the risk of airway fire [1].",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 10
+      },
+      "_errors": [
+        "source_excerpt_too_long"
+      ],
+      "reference": "[1]"
+    },
+    {
+      "title": "Recommendations for EBRT in patients with MCAO and airway stents",
+      "condition": "Malignant Central Airway Obstruction (MCAO) receiving external beam radiation therapy (EBRT)",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Carefully plan radiation for central airway tumors and adjust dose to minimize toxicity.",
+        "For high-risk patients, avoid concurrent chemotherapy and EBRT.",
+        "Remove airway stents as soon as feasible in high-risk settings."
+      ],
+      "decision_points_and_pathways": [
+        "If central airway tumor planned for EBRT -> carefully plan and consider dose adjustment.",
+        "If patient is high-risk -> avoid concurrent chemo + EBRT and remove stent as soon as feasible."
+      ],
+      "patient_population_criteria": "Patients with central airway tumors, particularly those with airway stents and high risk for complications.",
+      "contraindications_and_exceptions": "Concurrent chemotherapy and EBRT should be avoided in high-risk patients.",
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 8,
+      "source_excerpt": "For high-risk patients, concurrent chemo- therapy and EBRT should be avoided, and stents should be removed as soon as feasible [61].",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 10
+      },
+      "reference": "[61]"
+    },
+    {
+      "title": "ACCP and societal guidelines: Surgical management for airway or lung malignancy and carcinoid",
+      "condition": "Airway or lung malignancy; pulmonary carcinoid tumors",
+      "source_organization": "American College of Chest Physicians (ACCP) (and other societal guidelines)",
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Surgery should be considered as a definitive management in all patients who are surgical candidates.",
+        "For carcinoid tumors, surgical resection should follow if the patient is a suitable candidate.",
+        "If not fit for surgery, therapeutic bronchoscopy can be considered as the primary management option."
+      ],
+      "decision_points_and_pathways": [
+        "If patient is a surgical candidate -> consider definitive surgical resection.",
+        "If carcinoid tumor and suitable candidate -> proceed with surgical resection.",
+        "If patient not fit for surgery -> consider therapeutic bronchoscopy as primary management."
+      ],
+      "patient_population_criteria": "Patients with airway or lung malignancy; patients with pulmonary carcinoid tumors who are surgical candidates or not fit for surgery.",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": "Therapeutic bronchoscopy as primary management when not fit for surgery.",
+      "source_page": 8,
+      "source_excerpt": "Surgery should be considered as a definitive management in all patients who are surgical candidates [1].",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 10
+      },
+      "reference": "[1]"
+    },
+    {
+      "title": "Photodynamic therapy (PDT) patient precautions",
+      "condition": "Photodynamic therapy for airway tumors",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "After PDT, patients need to avoid sunlight for up to eight weeks."
+      ],
+      "decision_points_and_pathways": [
+        "Post-PDT -> counsel to avoid sunlight for up to eight weeks."
+      ],
+      "patient_population_criteria": "Patients receiving photodynamic therapy for airway lesions.",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 7,
+      "source_excerpt": "PDT treatment is associated with photosensitivity and patients need to avoid sunlight for up to eight weeks after the treatment.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 10
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Airway stent maintenance: mucociliary clearance therapy",
+      "condition": "Patients with airway stents for MCAO",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Prescribe mucociliary clearance therapies like nebulized hypertonic saline or acetylcysteine to prevent mucus plugging of stents."
+      ],
+      "decision_points_and_pathways": [
+        "After stent placement -> initiate mucociliary clearance therapy to prevent mucus plugging."
+      ],
+      "patient_population_criteria": "Patients with airway stents placed for malignant central airway obstruction.",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 7,
+      "source_excerpt": "The patients should be prescribed mucociliary clearance therapies like nebulized hypertonic saline or acetylcysteine to prevent mucus plugging of the stents [11, 58].",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 10
+      },
+      "reference": "[Chapter Text]"
+    }
+  ],
+  "drug_information": [],
+  "tables": [],
+  "figures": [
+    {
+      "figure_id": "Fig. 1",
+      "title": null,
+      "caption": "Classiﬁcation of central airway obstruction. (a) Intrinsic or endobronchial, (b) extrinsic or extraluminal, and (c) mixed. (Adapted from Fig. 25.2 from previous chapter by Michaud)",
+      "type": null,
+      "key_findings": [
+        "Intrinsic or endobronchial",
+        "Extrinsic or extraluminal",
+        "Mixed"
+      ],
+      "clinical_significance": null,
+      "source_page": 3,
+      "source_excerpt": "Fig. 1 Classiﬁcation of central airway obstruction. (a) Intrinsic or endobronchial, (b) extrinsic or extraluminal, and (c) mixed.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    }
+  ],
+  "clinical_cases": [
+    {
+      "content": "Fig. 2 Intrinsic or endobronchial central airway obstruction. (a) CT chest showing endobronchial mass with significant tracheal obstruction, (b) bronchoscopic view, (c) insertion of electrocautery snare around the mass, (d) flexible electrocautery probe ablation, (e) flexible forceps debridement, and (f) carina after debridement of the tracheal mass. The mass was carcinoid tumor, and patient underwent subsequent surgical sleeve resection of the trachea and carinal reconstruction",
+      "source_page": 4,
+      "source_excerpt": "The mass was carcinoid tumor, and patient underwent subsequent surgical sleeve resection of the trachea and carinal reconstruction",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "content": "In a retrospective study of NSCLC patients with CAO, PDT with chemoradiation (n = 39) was compared to non-PDT ablation and chemoradiation (n = 558) [53]. Mean time for repeat intervention in PDT vs. non-PDT groups was 147 vs. 98 days (P = 0.20). All-cause mortality was lower in the PDT group.",
+      "source_page": 7,
+      "source_excerpt": "Mean time for repeat intervention in PDT vs. non-PDT groups was 147 vs. 98 days (P = 0.20).",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 10
+      },
+      "reference": "[53]"
+    }
+  ],
+  "definitions": [
+    {
+      "content": "It is defined as 50% or greater obstruction of trachea, mainstem bronchi, bronchus intermedius, and lobar bronchi.",
+      "source_page": 1,
+      "source_excerpt": "It is defined as 50% or greater obstruction of trachea, mainstem bronchi, bronchus intermedius, and lobar bronchi.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "content": "These modalities include contact electrocautery devices like ﬂexible and rigid probes, electrocautery snare, and knife [49].",
+      "source_page": 7,
+      "source_excerpt": "contact electrocautery devices like ﬂexible and rigid probes, electrocautery snare, and knife",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 10
+      },
+      "reference": "[49]"
+    },
+    {
+      "term": "pCA",
+      "definition": "pretest probability of cancer",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "IPN",
+      "definition": "indeterminate pulmonary nodule",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "SPN",
+      "definition": "solitary pulmonary nodule",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "VDT",
+      "definition": "volume doubling time",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "FDG",
+      "definition": "fluorodeoxyglucose",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "PET",
+      "definition": "positron emission tomography",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "EBUS",
+      "definition": "endobronchial ultrasound",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "TBNA",
+      "definition": "transbronchial needle aspiration",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "PPV",
+      "definition": "positive predictive value",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "NPV",
+      "definition": "negative predictive value",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "ACCP",
+      "definition": "American College of Chest Physicians",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "BTS",
+      "definition": "British Thoracic Society",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    }
+  ],
+  "clinical_pearls": [
+    {
+      "content": "Visualization of a patent distal airway either radiographically or bronchoscopically has been shown to be an indicator of successful relief of MCAO and may portend more favorable bronchoscopic outcome [19].",
+      "source_page": 3,
+      "source_excerpt": "Visualization of a patent distal airway either radiographically or bronchoscopically has been shown to be an indicator of successful relief of MCAO",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[19]"
+    },
+    {
+      "content": "Cryoprobe can be used for debridement, has been shown to be effective in several case series, and makes the debridement process more efficient compared to forceps [47, 48].",
+      "source_page": 7,
+      "source_excerpt": "Cryoprobe can be used for debridement, has been shown to be effective in several case series, and makes the debridement process more efﬁcient",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 10
+      },
+      "reference": "[Chapter Text]"
+    }
+  ],
+  "references": [
+    {
+      "citation": "[1, 2]",
+      "authors": [],
+      "year": null,
+      "journal": null,
+      "doi_pmid": null,
+      "study_type": null,
+      "key_findings": null,
+      "authors_present_in_source": false,
+      "year_present_in_source": false,
+      "journal_present_in_source": false,
+      "doi_pmid_present_in_source": false,
+      "study_type_present_in_source": false,
+      "key_findings_present_in_source": false,
+      "source_page": 2,
+      "source_excerpt": "Malignant central airway obstruction (MCAO) is deﬁned as 50% or greater narrowing of the central airways, including trachea, mainstem bronchi, bronchus intermedius, and lobar bronchi, by a malignancy [1, 2].",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "citation": "Mahmood K, Frazer-Green L, Gonzalez AV, et al. Management of central airway obstruction: an American College of Chest Physicians Clinical Practice Guideline. Chest. 2024;167(1):283–95.",
+      "authors": [
+        "Mahmood K",
+        "Frazer-Green L",
+        "Gonzalez AV",
+        "et al."
+      ],
+      "year": 2024,
+      "journal": "Chest.",
+      "doi_pmid": null,
+      "study_type": null,
+      "key_findings": null,
+      "source_page": 8,
+      "source_excerpt": "Chest. 2024;167(1):283–95.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 10
+      },
+      "reference": "[Chapter Text]"
+    }
+  ],
+  "summary": {
+    "clinical_applications": [],
+    "practice_recommendations": [
+      {
+        "content": "Therapeutic management of MCAO is multidisciplinary and multimodal; therapeutic bronchoscopy is the backbone of this approach [1, 2, 4].",
+        "source_page": 3,
+        "source_excerpt": "therapeutic bronchoscopy is the backbone of this approach",
+        "present_in_source": true,
+        "page_range": {
+          "start": 1,
+          "end": 6
+        },
+        "reference": "[Chapter Text]"
+      },
+      {
+        "content": "it is critical to decrease the fraction of inhaled oxygen (FiO2) to ≤0.4 and keep the active tip of the ablative probes away from ﬂamma- ble devices like ﬂexible bronchoscope or endotracheal tube to decrease the risk of airway ﬁre [1].",
+        "source_page": 7,
+        "source_excerpt": "FiO2) to ≤0.4 and keep the active tip of the ablative probes away",
+        "present_in_source": true,
+        "page_range": {
+          "start": 7,
+          "end": 10
+        },
+        "reference": "[1]"
+      }
+    ],
+    "future_directions": [],
+    "controversies": []
+  },
+  "extraction_metadata": {
+    "source_pdf": "Textbooks/Chapter pdfs/Malignant Central Airway Obstruction.pdf",
+    "adobe_json": null,
+    "extraction_date": "2025-08-21T08:17:20.055192+00:00",
+    "text_pages": 10,
+    "chunks_processed": 2,
+    "model": "gpt-5",
+    "extractor_version": "production_multipass_v3.2_gpt5_simple",
+    "enhancements_applied": [
+      "risk_model_separation",
+      "clinical_interpretation_addition",
+      "performance_metric_normalization",
+      "inline_reference_addition",
+      "duplicate_consolidation",
+      "missing_section_extraction"
+    ],
+    "passes_completed": 7,
+    "schema_version": "gold_standard_v1.0",
+    "enhancement_version": "1.0"
+  },
+  "risk_models": [],
+  "guideline_adherence": {
+    "problems_observed": [
+      {
+        "finding": "Wide variation in MCAO management across institutions and specialties",
+        "details": "Clinical practice varies widely, and this variation is associated with poorer patient outcomes.",
+        "reference": "1,6"
+      },
+      {
+        "finding": "Historical lack of standardized training and guidelines",
+        "details": "Standardization and accreditation of interventional pulmonology fellowships, competency tools for rigid bronchoscopy, and societal guidelines are recent developments; management is anticipated to improve with their adoption, implying prior inconsistency.",
+        "reference": "1,7-11"
+      },
+      {
+        "finding": "Insufficient multidisciplinary, patient-centric coordination",
+        "details": "The chapter emphasizes that outcomes are optimized with a multidisciplinary, patient-centric approach, indicating current gaps that negatively impact results.",
+        "reference": "1"
+      }
+    ],
+    "implication": "Non-standardized, variably coordinated care for MCAO is linked to worse outcomes; implementing guideline-based, multidisciplinary, and competency-driven management (including therapeutic bronchoscopy and definitive oncologic therapy) is expected to improve procedural success and patient survival."
+  },
+  "technology_and_technique": [
+    {
+      "topic": "Chest CT for MCAO diagnostic evaluation",
+      "summary": "CT of the chest is recommended as part of the initial assessment to define the site and extent of obstruction and to help distinguish intrinsic, extrinsic, or mixed disease. Diagnosis is established with history, physical examination, and imaging; MCAO is defined as ≥50% narrowing of trachea, mainstem bronchi, bronchus intermedius, or lobar bronchi.",
+      "reference": "[1,4]"
+    },
+    {
+      "topic": "Therapeutic bronchoscopy (general anesthesia; multimodality approach)",
+      "summary": "Therapeutic bronchoscopy under general anesthesia is the main management approach. A multimodality bronchoscopic strategy provides the best chance of procedural success. Specific diagnostic yield and safety percentages are not provided in the excerpt.",
+      "reference": "[1]"
+    },
+    {
+      "topic": "Anatomic classification to guide modality selection",
+      "summary": "Classifying obstruction as intrinsic (endobronchial), extrinsic, or mixed has direct implications for selecting therapeutic/diagnostic techniques. Patients with endobronchial obstruction have better survival than those with extrinsic or mixed disease, which may influence modality choice and expectations.",
+      "reference": "[1,14–16]"
+    },
+    {
+      "topic": "Patient selection and pre-procedure assessment",
+      "summary": "Before diagnostic or therapeutic procedures, assess symptom severity, respiratory compromise, patient reserve, and comorbidities. Many patients present in respiratory failure requiring mechanical ventilation. Evaluate for concurrent complications such as SVC syndrome or pulmonary arterial thrombus that may require treatment before or alongside airway intervention.",
+      "reference": "[17,18]"
+    },
+    {
+      "topic": "Epidemiology informing diagnostic likelihood",
+      "summary": "MCAO occurs in 13–17% of contemporary lung cancer cohorts (down from 20–30% in older studies), likely related to screening and a shift from central squamous to peripheral adenocarcinoma. These trends affect pretest probability and patient selection for bronchoscopic evaluation.",
+      "reference": "[4,5,12]"
+    },
+    {
+      "topic": "Standardization and multidisciplinary management to improve performance",
+      "summary": "Wide practice variation is linked to poor outcomes. Standardization via interventional pulmonology accreditation, competency tools for rigid bronchoscopy, and societal guidelines is expected to streamline management and improve outcomes; a multidisciplinary, patient-centric approach is emphasized.",
+      "reference": "[1,6–11]"
+    },
+    {
+      "topic": "Prognostic urgency (CAO as mortality risk factor)",
+      "summary": "Central airway obstruction is an independent risk factor for death in lung cancer, underscoring the need for timely diagnostic evaluation and intervention.",
+      "reference": "[5]"
+    }
+  ],
+  "conclusion": {
+    "points": [
+      "8\nAbstract\nMalignant central airway obstruction (MCAO) is seen in\n15–20% of lung cancer patients as well as with metastases\nfrom other cancers, like breast, kidney, etc",
+      "It is deﬁned as\n50% or greater obstruction of trachea, mainstem bronchi,\nbronchus intermedius, and lobar bronchi",
+      "The patients\nwith MCAO often present with life-threatening complica-\ntions and have a poor prognosis"
+    ],
+    "reference": "[Chapter Conclusion]"
+  }
+}

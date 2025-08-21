@@ -1,0 +1,1759 @@
+{
+  "chapter_metadata": {
+    "title": {
+      "value": "Cone Beam CT Guidance | source_page: 1 | source_excerpt: 'Cone Beam CT Guidance'",
+      "present_in_source": false
+    },
+    "authors": [],
+    "chapter_number": {
+      "value": "3 | source_page: 9 | source_excerpt: '3.6\nCost-Effectiveness'",
+      "present_in_source": false
+    },
+    "learning_objectives": [],
+    "key_points": [],
+    "page_range": {
+      "start": 1,
+      "end": 12
+    },
+    "reference": "[Chapter Text]"
+  },
+  "anatomical_content": {
+    "structures": []
+  },
+  "clinical_procedures": [],
+  "diagnostic_approaches": [
+    {
+      "name": "2D X-ray fluoroscopy–guided bronchoscopic biopsy of peripheral pulmonary lesions",
+      "purpose": "Facilitate diagnostic biopsies of suspicious peripheral pulmonary lesions or segments with interstitial pathology under 2D X-ray guidance.",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Advance instruments through the working channel beyond conventional bronchoscopic view under 2D X-ray fluoroscopy.",
+      "interpretation": null,
+      "limitations": [
+        "Coarse resolution of 2D X-ray imaging information in a 3D environment.",
+        "Does not give universal and unambiguous accurate guidance and outcome in peripheral pulmonary lesion diagnostics."
+      ],
+      "when_to_use": null,
+      "source_page": 2,
+      "source_excerpt": "lesions that were less than 20 mm, with a reported sensitivity of 14% and negative predictive value of 47%",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "performance": {
+        "performance": {
+          "sensitivity": {
+            "value": 0.14,
+            "unit": "proportion"
+          },
+          "npv": {
+            "value": 0.47,
+            "unit": "proportion"
+          }
+        }
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Fixed CBCT with augmented fluoroscopy (AF) as a single-tool navigation bronchoscopy",
+      "purpose": "Precise, near-real-time guidance for navigation, biopsy and treatment of small, peripheral pulmonary nodules.",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Overlay segmented target nodules and marked bronchial subsegments on live fluoroscopy; use different fluoroscopy angulations for guidance.",
+      "interpretation": "AF overlays 3D CBCT information on live 2D fluoroscopy to visualize target and tool relationships.",
+      "limitations": [
+        "Not fully real-time; CBCT acquired under breath-hold while fluoroscopy under ventilation.",
+        "Instrument manipulation can change positioning (millimeters to centimeters).",
+        "Insertion of bronchoscope/robot can cause lung deformation; subsequent scans may be needed."
+      ],
+      "when_to_use": "Can be used as a single device for navigation bronchoscopy to precisely guide extended working channels into the periphery of the lungs.",
+      "source_page": 1,
+      "source_excerpt": "This workflow has a high diagnostic yield of 78.2% (95% CI 71.5–83.7, intermediate definition) as published in a meta-analysis.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "performance": {
+        "performance": {
+          "accuracy": {
+            "value": 0.782,
+            "unit": "proportion"
+          }
+        }
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Augmented fluoroscopy overlay methods",
+      "purpose": "Visually relay the obtained 3D information from the CBCT scan back onto live 2D fluoroscopy.",
+      "criteria_or_scoring": [],
+      "how_to_perform": "1) Place markers/lines on CBCT volume then overlay on AF; 2) Overlay full CBCT volume on AF and adjust transparency.",
+      "interpretation": "Augmented overlay shows segmented targets and instrument positions over live fluoroscopy.",
+      "limitations": [
+        "Based on acquired 3D volume and not fully real-time.",
+        "Breath-hold CBCT vs ventilated fluoroscopy leads to mismatch.",
+        "Instrument/lung deformation can alter positions; may require additional scans."
+      ],
+      "when_to_use": null,
+      "source_page": 5,
+      "source_excerpt": "Manually placing markers or lines on the CBCT volume and subsequently augmenting that on AF when selecting the overlay mode, as facilitated by the vendor software.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Mobile CBCT systems for intraprocedural 3D imaging (without AF)",
+      "purpose": "Allow tool-in-lesion confirmation or directional support to adjust other navigation tools like robotic bronchoscopy systems.",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Acquire mobile CBCT 3D volume and integrate into a secondary guidance system; adjust navigation planning based on observed 3D information.",
+      "interpretation": "Use CBCT volume to confirm tool position relative to lesion and guide corrections.",
+      "limitations": [
+        "Do not provide options of augmented fluoroscopy.",
+        "Longer scan times; increased movement artifacts.",
+        "Do not know position relative to patient table; no precise 3D image-guided navigation.",
+        "Fewer options to limit dose or increase image quality."
+      ],
+      "when_to_use": null,
+      "source_page": 5,
+      "source_excerpt": "need for example 13 seconds (Medtronic O-arm, by 360 degrees rotation), 30 seconds (Siemens CIOS Spin, by 100 degrees rotation) or 48 seconds (Ziehm Vision RFD 3D imaging)",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Robotic-assisted bronchoscopy combined with CBCT imaging",
+      "purpose": "Compensate for CT-to-body divergence of robotic navigation guidance technology and increase diagnostic yield.",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Integrate CBCT with robotic bronchoscopy; after a CBCT scan, adjust navigation planning based on observed 3D information.",
+      "interpretation": "Combined system updates navigation to align with intraprocedural 3D anatomy.",
+      "limitations": null,
+      "when_to_use": null,
+      "source_page": 1,
+      "source_excerpt": "diagnostic yield ranging from 75% to 93% in the currently available literature.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "performance": {
+        "performance": {
+          "accuracy": {
+            "value": 0.75,
+            "unit": "proportion"
+          },
+          "notes": "accuracy: %–93%"
+        }
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "CBCT imaging added to ultrathin bronchoscopy",
+      "purpose": "Increase diagnostic yield for peripheral lesion sampling.",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Add CBCT imaging to an ultrathin bronchoscopy approach.",
+      "interpretation": null,
+      "limitations": null,
+      "when_to_use": null,
+      "source_page": 6,
+      "source_excerpt": "increased diagnostic yield from 50% to 70% in a pilot study of 20 patients",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "performance": {
+        "performance": {
+          "accuracy": {
+            "value": 0.5,
+            "unit": "proportion"
+          },
+          "notes": "accuracy: % to 70%"
+        }
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "CBCT added to electromagnetic navigation bronchoscopy (EMN)",
+      "purpose": "Improve navigation success in targeting peripheral lesions.",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Add CBCT to an EMN-based approach.",
+      "interpretation": null,
+      "limitations": null,
+      "when_to_use": null,
+      "source_page": 6,
+      "source_excerpt": "improved navigation success from 52.2% to 89.9%",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "performance": {
+        "performance": {
+          "accuracy": {
+            "value": 0.522,
+            "unit": "proportion"
+          },
+          "notes": "accuracy: % to 89.9% (navigation success)"
+        }
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "CBCT and AF as sole catheter-based guidance",
+      "purpose": "Increase diagnostic yield using CBCT and AF with a catheter approach.",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Use only CBCT and AF with a catheter approach for guidance.",
+      "interpretation": null,
+      "limitations": null,
+      "when_to_use": null,
+      "source_page": 6,
+      "source_excerpt": "diagnostic yield increased with experience, from 72% to 90% (n = 238 patients)",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "performance": {
+        "performance": {
+          "accuracy": {
+            "value": 0.72,
+            "unit": "proportion"
+          },
+          "notes": "accuracy: % to 90%"
+        }
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "CBCT-AF combined with EMN",
+      "purpose": "Achieve high diagnostic yield for peripheral lesion sampling.",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Combine CBCT augmented fluoroscopy with electromagnetic navigation.",
+      "interpretation": null,
+      "limitations": null,
+      "when_to_use": null,
+      "source_page": 6,
+      "source_excerpt": "reporting a diagnostic yield of 83.7% (n = 75 patients) when using CBCT-AF in combination with EMN",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "performance": {
+        "performance": {
+          "accuracy": {
+            "value": 0.8370000000000001,
+            "unit": "proportion"
+          }
+        }
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "CBCT and AF guidance added to rEBUS",
+      "purpose": "Increase diagnostic yield beyond rEBUS alone.",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Add CBCT and AF guidance to an rEBUS approach.",
+      "interpretation": null,
+      "limitations": null,
+      "when_to_use": null,
+      "source_page": 6,
+      "source_excerpt": "finding a significant diagnostic yield increase from 52.8% to 75.5% (performed by propensity score matching of patients, n = 53)",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "performance": {
+        "performance": {
+          "accuracy": {
+            "value": 0.528,
+            "unit": "proportion"
+          },
+          "notes": "accuracy: % to 75.5%"
+        }
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "CBCT-AF versus rEBUS for navigation success",
+      "purpose": "Compare navigation success rates between CBCT-AF and rEBUS-only approaches.",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Assess navigation success in CBCT-AF group versus rEBUS-only group.",
+      "interpretation": null,
+      "limitations": null,
+      "when_to_use": null,
+      "source_page": 6,
+      "source_excerpt": "found a navigation success rate of 96.5% in the CBCT-AF group versus 86.8% in the rEBUS only group",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "performance": {
+        "performance": {
+          "accuracy": {
+            "value": 0.965,
+            "unit": "proportion"
+          },
+          "notes": "accuracy: % vs 86.8% (navigation success)"
+        }
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "CBCT-based navigation bronchoscopy (CBCT-NB)",
+      "purpose": "Step-by-step imaging-guided navigation and sampling of peripheral pulmonary nodules.",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Preprocedural airway path planning; general inspection; insert preangulated EWC; CBCT spin and segmentation under breath-hold; correlate 3D CBCT with 2D fluoroscopy; confirm position (rEBUS/CBCT); tissue acquisition.",
+      "interpretation": "Needle or instrument visualized within the target lesion on CBCT confirms in-lesion sampling; rEBUS central positioning indicates correct location.",
+      "limitations": [
+        "Movement artifacts and atelectasis can obscure lesions",
+        "discrepancy between breath-hold CBCT and live fluoroscopy",
+        "requires optimized ventilation and careful timing."
+      ],
+      "when_to_use": "During navigation bronchoscopy requiring image-guided confirmation and sampling of peripheral lesions.",
+      "source_page": 9,
+      "source_excerpt": "should only be performed 5–7 s after initiating breath-hold due to the expected initial lung movement.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "CBCT spin and segmentation with fluoroscopy planning",
+      "purpose": "Segment target and pathway; plan optimal fluoroscopic views for navigation/sampling.",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Perform first CBCT spin on inspiratory breath-hold; segment target nodule and pathway; determine optimal fluoroscopy angles.",
+      "interpretation": "Segmented targets overlaid guide catheter trajectory under fluoroscopy.",
+      "limitations": [
+        "Requires accurate breath-hold and segmentation",
+        "mismatch possible with live breathing."
+      ],
+      "when_to_use": "After EWC insertion, before sampling, to plan imaging angles.",
+      "source_page": 8,
+      "source_excerpt": "The target nodule and pathway are segmented on your workstation, where optimal viewing angles for fluoroscopy can be determined.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Marking distal tip of the extended working channel (EWC) for 3D–2D correlation",
+      "purpose": "Correlate CBCT 3D projection with live 2D fluoroscopy.",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Mark the distal EWC tip on CBCT; correlate the mark with the visible catheter tip on fluoroscopy.",
+      "interpretation": "Helps place the segmented nodule in perspective with live imaging to guide positioning.",
+      "limitations": [
+        "Discrepancy exists between breath-hold scan and breathing patient fluoroscopy."
+      ],
+      "when_to_use": "When EWC is near the target to align CBCT with live fluoroscopy.",
+      "source_page": 8,
+      "source_excerpt": "When the extended working channel is in close proximity to the target nodule, mark the distal tip of the EWC.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Radial endobronchial ultrasound (rEBUS) for position confirmation",
+      "purpose": "Confirm catheter/instrument position relative to the lesion.",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Advance rEBUS probe via EWC to the target; assess probe position within lesion.",
+      "interpretation": "Central positioning of the rEBUS probe in the lesion confirms correct location.",
+      "limitations": null,
+      "when_to_use": "When catheter is at target and position confirmation is needed before sampling.",
+      "source_page": 8,
+      "source_excerpt": "rEBUS can provide confirmation; panel i shows central positioning of the rEBUS probe in the lesion.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "CBCT tool-in-lesion confirmation",
+      "purpose": "Verify sampling instrument is within the target lesion.",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Perform CBCT scan after positioning instrument; assess tool location relative to lesion.",
+      "interpretation": "Needle visualized within the lesion confirms that the sample is from the target.",
+      "limitations": null,
+      "when_to_use": "When rEBUS confirmation is absent or uncertain, or to confirm in-lesion sampling.",
+      "source_page": 8,
+      "source_excerpt": "Panel l shows a needle in the target lesion, confirming that the sample taken is from the lesion.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Rapid On-Site Evaluation (ROSE)",
+      "purpose": "Determine if the target lesion is being sampled successfully.",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Use immediate cytologic assessment of obtained samples during the procedure.",
+      "interpretation": "Adequate target material on ROSE suggests successful lesion sampling.",
+      "limitations": null,
+      "when_to_use": "Especially when instrument position has been confirmed with CBCT.",
+      "source_page": 8,
+      "source_excerpt": "Rapid On-Site Evaluation (ROSE) can help to determine if the target lesion is sampled successfully, especially when positioning of the sampling instrument has been confirmed with CBCT",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Navigation bronchoscopy (electromagnetic and tomosynthesis-guided)",
+      "purpose": "Diagnostic approach for indeterminate peripheral lung nodules.",
+      "criteria_or_scoring": [],
+      "how_to_perform": null,
+      "interpretation": null,
+      "limitations": [
+        "Fewer complications than CT-TTNB were reported in a randomized comparison."
+      ],
+      "when_to_use": "As an alternative to CT-guided transthoracic biopsy.",
+      "source_page": 9,
+      "source_excerpt": "they report that NB had significantly less complications (with 31% for CT-TTNB and 5.8% for NB procedures, p < 0.001) [28].",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[28]"
+    },
+    {
+      "name": "CT-guided transthoracic biopsy (CT-TTNB)",
+      "purpose": "Diagnostic biopsy for peripheral pulmonary lesions.",
+      "criteria_or_scoring": [],
+      "how_to_perform": null,
+      "interpretation": null,
+      "limitations": [
+        "Historically high diagnostic yield but a high rate of complications."
+      ],
+      "when_to_use": null,
+      "source_page": 9,
+      "source_excerpt": "It has historically been reported to have a relatively high diagnostic yield, but, also having a high rate of complications.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "CBCT with augmented fluoroscopy (AF)",
+      "purpose": "Near real-time confirmation/guidance of diagnostic tool positioning near/within target lesion.",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Use CBCT imaging with AF overlay to guide and confirm instrument location.",
+      "interpretation": "Real-time AF overlay guides tool to the lesion; high diagnostic yield reported.",
+      "limitations": null,
+      "when_to_use": "To increase yield during navigation bronchoscopy or as stand-alone guidance.",
+      "source_page": 10,
+      "source_excerpt": "CBCT with AF enables a near real-time confirmation or guidance of the correct positioning of the diagnostic tool near or within the target lesion, which results in a high diagnostic yield.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "_errors": [
+        "source_excerpt_too_long"
+      ],
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Cone-beam CT (CBCT) as a stand-alone system",
+      "purpose": "Imaging guidance without other navigation systems.",
+      "criteria_or_scoring": [],
+      "how_to_perform": null,
+      "interpretation": null,
+      "limitations": null,
+      "when_to_use": "When CBCT alone is used for navigation/confirmation.",
+      "source_page": 10,
+      "source_excerpt": "but CBCT can also be used as a stand-alone system.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Electromagnetic navigation technology (EMN)",
+      "purpose": "Navigation bronchoscopy technique used for diagnosis.",
+      "criteria_or_scoring": [],
+      "how_to_perform": null,
+      "interpretation": null,
+      "limitations": [
+        "Described among techniques with very low complication rates compared to TTNB."
+      ],
+      "when_to_use": "Widely utilized for navigation bronchoscopy.",
+      "source_page": 10,
+      "source_excerpt": "electromagnetic navigation technology (EMN), virtual bronchoscopy and ultrathin bronchoscopes are widely utilized for navigation bronchoscopy.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Virtual bronchoscopy",
+      "purpose": "Navigation bronchoscopy technique used for diagnosis.",
+      "criteria_or_scoring": [],
+      "how_to_perform": null,
+      "interpretation": null,
+      "limitations": [
+        "Included among techniques enabling diagnostic navigation with very low complication rates."
+      ],
+      "when_to_use": "Widely utilized for navigation bronchoscopy.",
+      "source_page": 10,
+      "source_excerpt": "electromagnetic navigation technology (EMN), virtual bronchoscopy and ultrathin bronchoscopes are widely utilized for navigation bronchoscopy.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Ultrathin bronchoscopes",
+      "purpose": "Navigation bronchoscopy technique used for diagnosis.",
+      "criteria_or_scoring": [],
+      "how_to_perform": null,
+      "interpretation": null,
+      "limitations": [
+        "Included among techniques enabling diagnostic navigation with very low complication rates."
+      ],
+      "when_to_use": "Widely utilized for navigation bronchoscopy.",
+      "source_page": 10,
+      "source_excerpt": "electromagnetic navigation technology (EMN), virtual bronchoscopy and ultrathin bronchoscopes are widely utilized for navigation bronchoscopy.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "CBCT-supported robotic-assisted bronchoscopy (ssRAB) – Benn 2021",
+      "purpose": null,
+      "criteria_or_scoring": [
+        "DY definition: Intermed"
+      ],
+      "how_to_perform": null,
+      "interpretation": null,
+      "limitations": null,
+      "when_to_use": null,
+      "source_page": 8,
+      "source_excerpt": "Benn [14] 2021 52 59 21.9 64 ssRAB (I) Fixed 86 Intermed",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "performance": {
+        "performance": {
+          "accuracy": {
+            "value": 0.86,
+            "unit": "proportion"
+          }
+        }
+      },
+      "reference": "[14]"
+    },
+    {
+      "name": "CBCT-supported robotic-assisted bronchoscopy (ssRAB) – Styrvoky 2022",
+      "purpose": null,
+      "criteria_or_scoring": [
+        "DY definition: Intermed"
+      ],
+      "how_to_perform": null,
+      "interpretation": null,
+      "limitations": null,
+      "when_to_use": null,
+      "source_page": 8,
+      "source_excerpt": "Styrvoky [13] 2022 200 209 (solid only) 22.6 64 ssRAB Fixed 91.4 Intermed",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "performance": {
+        "performance": {
+          "accuracy": {
+            "value": 0.914,
+            "unit": "proportion"
+          }
+        }
+      },
+      "reference": "[13]"
+    },
+    {
+      "name": "CBCT-supported robotic-assisted bronchoscopy (ssRAB) – Abia-Trujillo 2024",
+      "purpose": null,
+      "criteria_or_scoring": [
+        "DY definition: Intermed"
+      ],
+      "how_to_perform": null,
+      "interpretation": null,
+      "limitations": null,
+      "when_to_use": null,
+      "source_page": 8,
+      "source_excerpt": "Abia-Trujillo [15] 2024 105 117 (66% solid) 12.3 – ssRAB Mobile 83.8 Intermed",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "performance": {
+        "performance": {
+          "accuracy": {
+            "value": 0.838,
+            "unit": "proportion"
+          }
+        }
+      },
+      "reference": "[15]"
+    },
+    {
+      "name": "CBCT-supported robotic-assisted bronchoscopy (ssRAB) – Reisenauer 2022",
+      "purpose": null,
+      "criteria_or_scoring": [
+        "DY definition: Intermed"
+      ],
+      "how_to_perform": null,
+      "interpretation": null,
+      "limitations": null,
+      "when_to_use": null,
+      "source_page": 8,
+      "source_excerpt": "Reisenauer [16] 2022 30 30 17.5 – ssRAB Mobile 93.3 Intermed",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "performance": {
+        "performance": {
+          "accuracy": {
+            "value": 0.9329999999999999,
+            "unit": "proportion"
+          }
+        }
+      },
+      "reference": "[16]"
+    },
+    {
+      "name": "CBCT-supported robotic-assisted bronchoscopy (ssRAB) – Chambers 2023",
+      "purpose": null,
+      "criteria_or_scoring": [
+        "DY definition: Intermed"
+      ],
+      "how_to_perform": null,
+      "interpretation": null,
+      "limitations": null,
+      "when_to_use": null,
+      "source_page": 8,
+      "source_excerpt": "Chambers [17] 2023 75 79 20 – ssRAB Mobile (O) 77 Intermed",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "performance": {
+        "performance": {
+          "accuracy": {
+            "value": 0.77,
+            "unit": "proportion"
+          }
+        }
+      },
+      "reference": "[17]"
+    },
+    {
+      "name": "CBCT-supported bronchoscopy (EMN) – Cumbo-Nacheli 2022",
+      "purpose": null,
+      "criteria_or_scoring": [
+        "DY definition: Intermed"
+      ],
+      "how_to_perform": null,
+      "interpretation": null,
+      "limitations": null,
+      "when_to_use": null,
+      "source_page": 8,
+      "source_excerpt": "Cumbo-Nacheli [18] 2022 20 20 22 – EMN (M) NR 75 Intermed",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "performance": {
+        "performance": {
+          "accuracy": {
+            "value": 0.75,
+            "unit": "proportion"
+          }
+        }
+      },
+      "reference": "[18]"
+    },
+    {
+      "name": "CBCT-supported bronchoscopy (EMN-TiLT (G) Tomosynthesis) – Saghaie 2024",
+      "purpose": null,
+      "criteria_or_scoring": [
+        "DY definition: Strict"
+      ],
+      "how_to_perform": null,
+      "interpretation": null,
+      "limitations": null,
+      "when_to_use": null,
+      "source_page": 8,
+      "source_excerpt": "Saghaie [19] 2024 18 19 (90% solid) 20 78 EMN-TilT (G) Tomo 89.5 Strict",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "performance": {
+        "performance": {
+          "accuracy": {
+            "value": 0.895,
+            "unit": "proportion"
+          }
+        }
+      },
+      "reference": "[19]"
+    },
+    {
+      "name": "CBCT-supported robotic-assisted bronchoscopy (ssRAB) – Bruinen prelim ERS24 2024",
+      "purpose": null,
+      "criteria_or_scoring": [
+        "DY definition: Strict"
+      ],
+      "how_to_perform": null,
+      "interpretation": null,
+      "limitations": null,
+      "when_to_use": null,
+      "source_page": 8,
+      "source_excerpt": "Bruinen prelim ERS 24 [21] 2024 95 133 11.8 – ssRAB Fixed 85 Strict",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "performance": {
+        "performance": {
+          "accuracy": {
+            "value": 0.85,
+            "unit": "proportion"
+          }
+        }
+      },
+      "reference": "[21]"
+    },
+    {
+      "name": "CBCT-supported bronchoscopy (EMN (M), Fixed) – Shaller 2024",
+      "purpose": null,
+      "criteria_or_scoring": [
+        "DY definition: Intermed"
+      ],
+      "how_to_perform": null,
+      "interpretation": null,
+      "limitations": null,
+      "when_to_use": null,
+      "source_page": 8,
+      "source_excerpt": "Shaller [20] 2024 100 100 16 – EMN(M) Fixed 90% Intermed",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "performance": {
+        "performance": {
+          "accuracy": {
+            "value": 0.9,
+            "unit": "proportion"
+          }
+        }
+      },
+      "reference": "[20]"
+    }
+  ],
+  "treatment_algorithms": [],
+  "clinical_guidelines": [
+    {
+      "title": "Breath-hold CBCT scanning and patient immobility to optimize image quality and accuracy",
+      "condition": "CBCT-guided navigation bronchoscopy",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "To reduce movement artifacts, the scanning should preferably also be performed under breath-hold.",
+        "To retain the accuracy of the imaged volume, it is however imperative that the patient remains still on the table"
+      ],
+      "decision_points_and_pathways": [
+        "After having obtained a first or additional CBCT scan, ... determine at what angle and position the C-arm should be positioned to best help visualize and guide ... through real-time 2D fluoroscopic guidance."
+      ],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 4,
+      "source_excerpt": "To reduce movement artifacts, the scanning should preferably also be performed under breath-hold.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Managing CBCT-to-body divergence during augmented fluoroscopy",
+      "condition": "Augmented fluoroscopy (AF) with intraprocedural CBCT guidance",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "An often used (approximate) coping method is to also ensure that the instrument (tip) is highlighted and overlayed on the augmented fluoroscopy, along with the segmented target lesion.",
+        "a first CBCT scan that will be used for guidance should preferably already have instruments coarsely positioned in place as much and far as safely possible.",
+        "subsequent scans should ideally be used if there is uncertainty about the obtained positioning."
+      ],
+      "decision_points_and_pathways": [
+        "If there’s a mismatch because of CBCT to body divergence, the interventionalist can translate the relative position of lesion and instrument to the new information.",
+        "First, CBCT scanning is performed under breath hold, while consecutive intraprocedural 2D fluoroscopy is most often performed under mechanical ventilation."
+      ],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": "The upper lobes are herein less affected than the lower lobes.",
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 4,
+      "source_excerpt": "ensure that the instrument (tip) is highlighted and overlayed on the augmented fluoroscopy, along with the segmented target lesion.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Methods to overlay CBCT information on live fluoroscopy (Augmented Fluoroscopy)",
+      "condition": "Use of augmented fluoroscopy in CBCT-guided procedures",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Manually placing markers or lines on the CBCT volume and subsequently augmenting that on AF when selecting the overlay mode",
+        "By using the overlay function of the CBCT system. After having acquired a 3D volume, it can be fully overlaid on the AF image. An adjustment of the transparency of this volume ... allows the augmentation"
+      ],
+      "decision_points_and_pathways": [
+        "placing a marker at the distal tip of the extended working channel on the obtained 3D CBCT scan helps to understand what translation of positioning has occurred"
+      ],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 5,
+      "source_excerpt": "Augmenting CBCT imaging information on AF can be done by two methods:",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Use of mobile CBCT (mCBCT) with other navigation systems and planning updates",
+      "condition": "Navigation bronchoscopy with mobile CBCT systems",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "They therefore cannot easily serve as a sole navigation tool for navigation bronchoscopy in the strict sense.",
+        "when added to navigation devices like electromagnetic navigation systems or robotic systems, the availability of 3D CBCT capabilities is of added value",
+        "After a CBCT scan, the navigation planning can be adjusted based on the observed 3D information"
+      ],
+      "decision_points_and_pathways": [
+        "the integration into a secondary system does allow an update of their navigation guidance method."
+      ],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": "current mCBCT systems do not “know” its position relative to the patient table and therefore currently do not provide the options of augmented fluoroscopy.",
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 6,
+      "source_excerpt": "They therefore cannot easily serve as a sole navigation tool ... However, when added to navigation devices ... the availability of 3D CBCT capabilities is of added value",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Detector size preference for thoracic CBCT imaging",
+      "condition": "Equipment selection for CBCT systems imaging the thorax",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "A larger detector size is preferred (i.e., in the range of 20 inch diagonally)"
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 3,
+      "source_excerpt": "A larger detector size is preferred (i.e., in the range of 20 inch diagonally)",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "CBCT imaging as prerequisite for local treatments",
+      "condition": "Local treatments in interventional pulmonology",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "CBCT imaging is an essential prerequisite for all forms of local treatments."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 1,
+      "source_excerpt": "CBCT imaging is an essential prerequisite for all forms of local treatments.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Fixed CBCT systems as a single device for navigation bronchoscopy",
+      "condition": "Navigation bronchoscopy",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Fixed CBCT systems allow for detailed and accurate imaging and augmented fluoroscopy that can be used as a single device for navigation bronchoscopy to precisely guide extended working channels into the periphery of the lungs."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 6,
+      "source_excerpt": "can be used as a single device for navigation bronchoscopy to precisely guide extended working channels",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "British Thoracic Society 2015: Incidental PPL prevalence and cancer diagnosis rates",
+      "condition": "Incidental peripheral pulmonary nodules",
+      "source_organization": "British Thoracic Society",
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": [
+        "incidental peripheral pulmonary nodules (PPLs) were found in approximately 30% of all chest-CTs in Europe, 23% in North America and 36% Asia",
+        "ultimately leading to a lung cancer diagnosis in 0.2–4.0% of cases"
+      ],
+      "alternative_approaches": null,
+      "source_page": 2,
+      "source_excerpt": "BTS guidelines summarized in 2015 that incidental PPLs were found in approximately 30% Europe, 23% North America, 36% Asia, leading to lung cancer in 0.2–4.0%.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "CBCT-based navigation bronchoscopy: practical step-by-step workflow",
+      "condition": "CBCT-guided navigation bronchoscopy for peripheral pulmonary nodules",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Determine and memorize the optimal airway path toward the nodule on preprocedural CT; identify a trans-parenchymal exit point if no bronchus sign is present.",
+        "Perform general inspection bronchoscopy after sedation; sample any endobronchial abnormalities.",
+        "Insert the preangulated extended working channel (EWC); wedge the bronchoscope in the target subsegment and guide the EWC toward the nodule per the memorized path.",
+        "Perform the first CBCT spin on inspiratory breath-hold; segment the target nodule and pathway; determine optimal fluoroscopy viewing angles.",
+        "Mark the distal tip of the EWC to correlate 3D CBCT with live 2D fluoroscopy.",
+        "Confirm position at the target with rEBUS; if confirmation is absent or uncertain, acquire an additional CBCT and reposition as needed.",
+        "After confirmation, obtain sufficient tissue: multiple samples using both transbronchial needle and forceps; sample multiple sections; if positioning is doubtful, sample the lesion and its vicinity; use ROSE to assess adequacy."
+      ],
+      "decision_points_and_pathways": [
+        "If rEBUS shows central positioning in the lesion, proceed to sampling; if absent/uncertain, perform additional CBCT and reposition.",
+        "If EWC is in close proximity to the target, mark the distal tip to align 3D CBCT with 2D fluoroscopy before proceeding.",
+        "If positioning remains in doubt (on rEBUS and CBCT), expand sampling to include the segmented lesion and immediate vicinity."
+      ],
+      "patient_population_criteria": "Peripheral pulmonary nodule targeted for CBCT-guided navigation bronchoscopy",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": "Use rEBUS and CBCT to confirm tool-in-lesion; use ROSE to determine if the target lesion is sampled successfully.",
+      "outcome_measures": "Memorized plan helps navigating on 2D imaging and decreases navigation time needed.",
+      "alternative_approaches": null,
+      "source_page": 8,
+      "source_excerpt": "Step 4: CBCT spin and segmentation. After the EWC is inserted, the first CBCT spin is performed (panel g) on (inspiratory) breath-hold... rEBUS can provide confirmation;... obtain multiple samples...",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Ventilation Strategy for CBCT-guided procedures",
+      "condition": "Navigation bronchoscopy procedures where CBCT imaging will be performed",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Implement a dedicated ventilation protocol involving both induction of anesthesia and ventilation settings based on the cited studies to prevent atelectasis.",
+        "Perform CBCT under breath-hold, preferably at inspiration phase, while maintaining positive airway pressure.",
+        "Time CBCT image acquisition 5–7 s after initiating breath-hold to minimize movement artifacts.",
+        "Impose breath-hold episodes at similar levels of inspiration to reduce CT-body-divergence and aid image-guided biopsy."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": "Procedures with CBCT imaging; navigation bronchoscopy; obesity and posterior lung field lesions are particularly prone to atelectasis",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": "Reduce CT-body-divergence, prevent atelectasis, and aid image-guided biopsy in difficult cases.",
+      "alternative_approaches": null,
+      "source_page": 9,
+      "source_excerpt": "CBCT scanning is typically performed under breath-hold (preferably at inspiration phase and while maintaining positive airway pressure...) and should only be performed 5–7 s after initiating breath-hold...",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Equipment and object placement to reduce scatter during CBCT",
+      "condition": "CBCT imaging during navigation bronchoscopy",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Place devices, cables, and objects (metals and nonmetals) as far from the radiation field as possible to reduce scatter and improve image quality."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": "Reduced scatter improves CBCT image quality.",
+      "alternative_approaches": null,
+      "source_page": 8,
+      "source_excerpt": "Devices, cables and objects... are best placed as far from the radiation field as possible... any source of scattering can negatively influence the image quality.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Radiation safety and reporting in CBCT-guided bronchoscopy",
+      "condition": "Interventional pulmonology procedures using ionizing radiation (CBCT)",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Ensure education on ionizing radiation principles to protect patients and hospital staff.",
+        "Follow international reporting recommendations for consistent and accurate reporting on radiation dose and safety.",
+        "Optimize image protocols and use general safety precautions to minimize radiation exposure."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": "Report and compare Dose Area Product and effective dose per international recommendations.",
+      "outcome_measures": "DAP ranged 9.78–77.78 Gy*cm2; median effective dose 5.5 mSv (comparable to diagnostic chest CT).",
+      "alternative_approaches": null,
+      "source_page": 10,
+      "source_excerpt": "DAP... ranged from 9.78 Gy*cm2 to 77.78 Gy*cm2... The median effective dose... was 5.5 mSv... international reporting recommendations for consistent and accurate reporting on radiation dose and safety...",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Care pathway selection: TTNA vs CBCT-guided navigation bronchoscopy",
+      "condition": "Diagnosis of peripheral pulmonary nodules",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Both TTNA and CBCT-guided NB can be cost-effective when willingness to pay is 20,000–80,000 Euro per QALY (assuming similar diagnostic yields).",
+        "All cases not eligible for a TTNA approach should receive NB; consider others depending on local diagnostic expertise."
+      ],
+      "decision_points_and_pathways": [
+        "Is the case eligible for TTNA? If no, proceed with NB; if yes, select approach based on local diagnostic expertise and cost-effectiveness."
+      ],
+      "patient_population_criteria": "Peripheral pulmonary nodules; scenario with similar diagnostic yields for CBCT-guided NB and TTNA",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": "Cost-effectiveness expressed as willingness-to-pay per QALY; approach selection based on eligibility and expertise.",
+      "alternative_approaches": [],
+      "source_page": 10,
+      "source_excerpt": "both could be cost-effective... willingness to pay of 20.000 to 80.000 Euro per... QALY. It was concluded that all cases not eligible for a TTNA approach should receive NB...",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "CBCT facility utilization and sharing to improve cost-effectiveness",
+      "condition": "Implementation of CBCT (fixed/mobile) across departments",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Share CBCT facilities between departments to increase utilization and reduce procedural cost."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": "Hybrid OR utilization below normal OR: average 92% versus 48%; sharing may increase utilization and cost-effectiveness.",
+      "alternative_approaches": [],
+      "source_page": 9,
+      "source_excerpt": "utilization was still significantly below that of a normal OR (average of 92% versus 48% utilization, respectively). A mobile CBCT system is more flexibly repositioned...",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    }
+  ],
+  "drug_information": [],
+  "tables": [
+    {
+      "title": "Table 1 Overview of studies on CBCT-supported robotic-assisted bronchoscopy",
+      "headers": [
+        "Author",
+        "Year",
+        "Pts",
+        "Nodules",
+        "Mean size",
+        "Prevalence cancer",
+        "RAB system",
+        "Fixed/Mobile/ Tomo",
+        "DY/ Accuracy",
+        "DY deﬁnition"
+      ],
+      "rows": [
+        [
+          "Benn [14]",
+          "2021",
+          "52",
+          "59",
+          "21.9",
+          "64",
+          "ssRAB (I)",
+          "Fixed",
+          "86",
+          "Intermed"
+        ],
+        [
+          "Styrvoky [13]",
+          "2022",
+          "200",
+          "209 (solid only)",
+          "22.6",
+          "64",
+          "ssRAB",
+          "Fixed",
+          "91.4",
+          "Intermed"
+        ],
+        [
+          "Abia-Trujillo [15]",
+          "2024",
+          "105",
+          "117 (66% solid)",
+          "12.3",
+          "–",
+          "ssRAB",
+          "Mobile",
+          "83.8",
+          "Intermed"
+        ],
+        [
+          "Reisenauer [16]",
+          "2022",
+          "30",
+          "30",
+          "17.5",
+          "–",
+          "ssRAB",
+          "Mobile",
+          "93.3",
+          "Intermed"
+        ],
+        [
+          "Chambers [17]",
+          "2023",
+          "75",
+          "79",
+          "20",
+          "–",
+          "ssRAB",
+          "Mobile (O)",
+          "77",
+          "Intermed"
+        ],
+        [
+          "Cumbo-Nacheli [18]",
+          "2022",
+          "20",
+          "20",
+          "22",
+          "–",
+          "EMN (M)",
+          "NR",
+          "75",
+          "Intermed"
+        ],
+        [
+          "Saghaie [19]",
+          "2024",
+          "18",
+          "19 (90% solid)",
+          "20",
+          "78",
+          "EMN-TilT (G)",
+          "Tomo",
+          "89.5",
+          "Strict"
+        ],
+        [
+          "Bruinen prelim ERS 24 [21]",
+          "2024",
+          "95",
+          "133",
+          "11.8",
+          "–",
+          "ssRAB",
+          "Fixed",
+          "85",
+          "Strict"
+        ],
+        [
+          "Shaller [20]",
+          "2024",
+          "100",
+          "100",
+          "16",
+          "–",
+          "EMN(M)",
+          "Fixed",
+          "90%",
+          "Intermed"
+        ]
+      ],
+      "units": null,
+      "footnotes": [],
+      "clinical_interpretation": null,
+      "source_page": 8,
+      "source_excerpt": "Table 1 Overview of studies on CBCT-supported robotic-assisted bronchoscopy",
+      "content_provenance": "pdf_text",
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "data_objects": [
+        {
+          "author": "Benn [14]",
+          "year": "2021",
+          "pts": "52",
+          "nodules": "59",
+          "mean_size": "21.9",
+          "prevalence_cancer": "64",
+          "rab_system": "ssRAB (I)",
+          "fixed/mobile/_tomo": "Fixed",
+          "dy/_accuracy": "86",
+          "dy_definition": "Intermed"
+        },
+        {
+          "author": "Styrvoky [13]",
+          "year": "2022",
+          "pts": "200",
+          "nodules": "209 (solid only)",
+          "mean_size": "22.6",
+          "prevalence_cancer": "64",
+          "rab_system": "ssRAB",
+          "fixed/mobile/_tomo": "Fixed",
+          "dy/_accuracy": "91.4",
+          "dy_definition": "Intermed"
+        },
+        {
+          "author": "Abia-Trujillo [15]",
+          "year": "2024",
+          "pts": "105",
+          "nodules": "117 (66% solid)",
+          "mean_size": "12.3",
+          "prevalence_cancer": "–",
+          "rab_system": "ssRAB",
+          "fixed/mobile/_tomo": "Mobile",
+          "dy/_accuracy": "83.8",
+          "dy_definition": "Intermed"
+        },
+        {
+          "author": "Reisenauer [16]",
+          "year": "2022",
+          "pts": "30",
+          "nodules": "30",
+          "mean_size": "17.5",
+          "prevalence_cancer": "–",
+          "rab_system": "ssRAB",
+          "fixed/mobile/_tomo": "Mobile",
+          "dy/_accuracy": "93.3",
+          "dy_definition": "Intermed"
+        },
+        {
+          "author": "Chambers [17]",
+          "year": "2023",
+          "pts": "75",
+          "nodules": "79",
+          "mean_size": "20",
+          "prevalence_cancer": "–",
+          "rab_system": "ssRAB",
+          "fixed/mobile/_tomo": "Mobile (O)",
+          "dy/_accuracy": "77",
+          "dy_definition": "Intermed"
+        },
+        {
+          "author": "Cumbo-Nacheli [18]",
+          "year": "2022",
+          "pts": "20",
+          "nodules": "20",
+          "mean_size": "22",
+          "prevalence_cancer": "–",
+          "rab_system": "EMN (M)",
+          "fixed/mobile/_tomo": "NR",
+          "dy/_accuracy": "75",
+          "dy_definition": "Intermed"
+        },
+        {
+          "author": "Saghaie [19]",
+          "year": "2024",
+          "pts": "18",
+          "nodules": "19 (90% solid)",
+          "mean_size": "20",
+          "prevalence_cancer": "78",
+          "rab_system": "EMN-TilT (G)",
+          "fixed/mobile/_tomo": "Tomo",
+          "dy/_accuracy": "89.5",
+          "dy_definition": "Strict"
+        },
+        {
+          "author": "Bruinen prelim ERS 24 [21]",
+          "year": "2024",
+          "pts": "95",
+          "nodules": "133",
+          "mean_size": "11.8",
+          "prevalence_cancer": "–",
+          "rab_system": "ssRAB",
+          "fixed/mobile/_tomo": "Fixed",
+          "dy/_accuracy": "85",
+          "dy_definition": "Strict"
+        },
+        {
+          "author": "Shaller [20]",
+          "year": "2024",
+          "pts": "100",
+          "nodules": "100",
+          "mean_size": "16",
+          "prevalence_cancer": "–",
+          "rab_system": "EMN(M)",
+          "fixed/mobile/_tomo": "Fixed",
+          "dy/_accuracy": "90%",
+          "dy_definition": "Intermed"
+        }
+      ],
+      "reference": "[Chapter Text]"
+    }
+  ],
+  "figures": [
+    {
+      "figure_id": "Fig. 1",
+      "title": "Examples of mobile imaging systems capable of producing 3D CBCT images and 2D fluoroscopy.",
+      "caption": "Fig. 1 Examples of mobile imaging systems capable of producing 3D CBCT images and 2D fluoroscopy. (a) O-arm design of a mobile system capable of 3D CBCT imaging and 2D fluoroscopy. The O can be opened to allow pushing the system over the table. Image courtesy by Medtronic (Medtronic O-arm® Intra-operative imaging system). (b) A conventional C-arm design capable of producing 3D CBCT images as well as 2D fluoroscopy imaging. Image courtesy by Siemens Healthineers (Siemens Cios Spin imaging system)",
+      "type": null,
+      "key_findings": [
+        "(a) O-arm design of a mobile system capable of 3D CBCT imaging and 2D fluoroscopy.",
+        "The O can be opened to allow pushing the system over the table.",
+        "(b) A conventional C-arm design capable of producing 3D CBCT images as well as 2D fluoroscopy imaging."
+      ],
+      "clinical_significance": null,
+      "source_page": 5,
+      "source_excerpt": "Fig. 1 Examples of mobile imaging systems capable of producing 3D CBCT images and 2D fluoroscopy.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "figure_id": "Fig. 2",
+      "title": "CBCT-based navigation bronchoscopy. How to do it: practical step-by-step considerations for new CBCT-AF users [4].",
+      "caption": "Fig. 2 CBCT-based navigation bronchoscopy. How to do it: practical step-by-step considerations for new CBCT-AF users [4]. This ﬁgure represents the entire workﬂow of a patient undergoing a CBCT-guided navigation bronchoscopy (CBCT-NB). Step 1: preprocedural planning. Panels a–d show a peripheral pulmonary nodule in the right upper lobe on a preprocedural CT and PET-CT scan. The ﬁrst (preprocedural) step is to determine and memorize the optimal path through the airways toward the nodule based on the preprocedural CT, preferably on the axial slices. If no bronchus sign is present, it is advisable to try to determine your exit point for a trans-parenchymal approach as well. Fig. 2 (continued) The eventual navigation path might differ from the preprocedural mental plan made, but a memorized preprocedural plan significantly helps navigating on 2D imaging (augmented fluoroscopy) in 3D lungs and decreases navigation time needed. Step 2: General inspection. After the patient is sedated, the first step is a general inspec- tion bronchoscopy with a normal flexible bronchoscope. Any endo- bronchial abnormalities can be sampled. Step 3: Course navigation. After general inspection, the preangulated extended working channel (EWC) is inserted through the bronchoscope. The bronchoscope is wedged in the subsegment of the target nodule (predetermined on preprocedural CT) and the extended working channel is guided through as can be seen on panel e and f. Based on your predetermined memo- rized path initial course navigation in the direction of the nodule can be performed. Step 4: CBCT spin and segmentation. After the EWC is inserted, the first CBCT spin is performed (panel g) on (inspiratory) breath-hold. The target nodule and pathway are segmented on your workstation, where optimal viewing angles for fluoroscopy can be determined. When the extended working channel is in close proximity to the target nodule, mark the distal tip of the EWC. This mark helps correlate the projected image from the 3D CBCT with the real-life position on 2D fluoroscopy (panel h) as there will be a discrepancy between a breath-hold scan and fluoroscopy of the breathing patient. The mark can be correlated with the visible distal tip of the catheter and helps place the segmented nodule in perspective with the live imaging. Step 5: When the catheter is at the target nodule, position confirmation is important for optimal sampling. rEBUS can provide confirmation; panel i shows central positioning of the rEBUS probe in the lesion. In absence of rEBUS confirmation or when in doubt of positioning, an additional CBCT scan can help confirm the position and assist in repositioning if the extended working channel or sampling instrument need readjusting. Panel l shows a needle in the target lesion, confirming that the sample taken is from the lesion. The CBCT scan furthermore gives information on the optimal fluoroscopy angles for a progression and angulation view for optimal sampling. Step 6: Tissue acquisition. After position confir- mation, sufficient samples need to be taken (panels j–m). Even when there is a clear rEBUS image, it is advisable to obtain multiple samples with both transbronchial needle and forceps biopsy device. Aim to sample in multiple sections of the nodule. When there is doubt of optimal positioning (both on rEBUS and CBCT), obtain multiple sam- ples not only of the segmented lesion but also of the direct vicinity of the lesion to increase the chance of a diagnostic sample. Rapid On-Site Evaluation (ROSE) can help to determine if the target lesion is sampled successfully, especially when positioning of the sampling instrument has been confirmed with CBCT",
+      "type": null,
+      "key_findings": [
+        "Panels a–d show a peripheral pulmonary nodule in the right upper lobe on a preprocedural CT and PET-CT scan.",
+        "a memorized preprocedural plan significantly helps navigating on 2D imaging (augmented fluoroscopy) in 3D lungs and decreases navigation time needed.",
+        "panel i shows central positioning of the rEBUS probe in the lesion.",
+        "Panel l shows a needle in the target lesion, confirming that the sample taken is from the lesion.",
+        "The CBCT scan furthermore gives information on the optimal fluoroscopy angles for a progression and angulation view for optimal sampling.",
+        "Rapid On-Site Evaluation (ROSE) can help to determine if the target lesion is sampled successfully, especially when positioning of the sampling instrument has been confirmed with CBCT"
+      ],
+      "clinical_significance": "a memorized preprocedural plan significantly helps navigating on 2D imaging (augmented fluoroscopy) in 3D lungs and decreases navigation time needed; helps correlate the projected image from the 3D CBCT with the real-life position on 2D fluoroscopy; increase the chance of a diagnostic sample.",
+      "source_page": 7,
+      "source_excerpt": "Fig. 2 CBCT-based navigation bronchoscopy. How to do it: practical step-by-step considerations for new CBCT-AF users [4]. This figure represents the entire workflow of a patient undergoing a CBCT-guided navigation",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[4]"
+    },
+    {
+      "figure_id": "Fig. 3",
+      "title": "Example image of atelectasis occurring during navigation bronchoscopy because the ventilation protocol had not been implemented.",
+      "caption": "Fig. 3 Example image of atelectasis occurring during navigation bron- choscopy because the ventilation protocol had not been implemented. (a) Preprocedural CT of a patient with peripheral pulmonary lesion(s) in the right lower lobe. (b) Intraprocedural cone beam CT of the same patient, where atelectasis has completely shifted anatomy as well as obscured the targeted peripheral pulmonary lesion. The navigation bronchoscopy had to be aborted without on-site conﬁrmation of disease (follow-up end diagnosis: adenocarcinoma)",
+      "type": null,
+      "key_findings": [
+        "(a) Preprocedural CT of a patient with peripheral pulmonary lesion(s) in the right lower lobe.",
+        "atelectasis has completely shifted anatomy as well as obscured the targeted peripheral pulmonary lesion.",
+        "The navigation bronchoscopy had to be aborted without on-site conﬁrmation of disease",
+        "(follow-up end diagnosis: adenocarcinoma)"
+      ],
+      "clinical_significance": "atelectasis has completely shifted anatomy as well as obscured the targeted peripheral pulmonary lesion. The navigation bronchoscopy had to be aborted without on-site conﬁrmation of disease.",
+      "source_page": 9,
+      "source_excerpt": "Fig. 3 Example image of atelectasis occurring during navigation bronchoscopy because the ventilation protocol had not been implemented. (a) Preprocedural CT of a patient with peripheral pulmonary lesion(s) in the",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    }
+  ],
+  "clinical_cases": [
+    {
+      "content": "Example image of atelectasis occurring during navigation bronchoscopy because the ventilation protocol had not been implemented. (a) Preprocedural CT of a patient with peripheral pulmonary lesion(s) in the right lower lobe. (b) Intraprocedural cone beam CT of the same patient, where atelectasis has completely shifted anatomy as well as obscured the targeted peripheral pulmonary lesion. The navigation bronchoscopy had to be aborted without on-site conﬁrmation of disease (follow-up end diagnosis: adenocarcinoma)",
+      "source_page": 9,
+      "source_excerpt": "atelectasis has completely shifted anatomy as well as obscured the targeted peripheral pulmonary lesion",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    }
+  ],
+  "definitions": [
+    {
+      "content": "Cone beam computed tomography (CBCT) is a technique wherein an X-ray point source is used to create a cone beam of X-rays.",
+      "source_page": 3,
+      "source_excerpt": "Cone beam computed tomography (CBCT) is a technique wherein an X-ray point source is used to create a cone beam of X-rays.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "term": "pCA",
+      "definition": "pretest probability of cancer",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "IPN",
+      "definition": "indeterminate pulmonary nodule",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "SPN",
+      "definition": "solitary pulmonary nodule",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "VDT",
+      "definition": "volume doubling time",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "FDG",
+      "definition": "fluorodeoxyglucose",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "PET",
+      "definition": "positron emission tomography",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "EBUS",
+      "definition": "endobronchial ultrasound",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "TBNA",
+      "definition": "transbronchial needle aspiration",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "PPV",
+      "definition": "positive predictive value",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "NPV",
+      "definition": "negative predictive value",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "ACCP",
+      "definition": "American College of Chest Physicians",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "BTS",
+      "definition": "British Thoracic Society",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    }
+  ],
+  "clinical_pearls": [
+    {
+      "content": "An often used (approximate) coping method is to also ensure that the instrument (tip) is highlighted and overlayed on the augmented fluoroscopy, along with the segmented target lesion.",
+      "source_page": 4,
+      "source_excerpt": "An often used (approximate) coping method is to also ensure that the instrument (tip) is highlighted and overlayed on the augmented fluoroscopy",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "content": "The first (preprocedural) step is to determine and memorize the optimal path through the airways toward the nodule based on the preprocedural CT, preferably on the axial slices.",
+      "source_page": 7,
+      "source_excerpt": "determine and memorize the optimal path through the airways toward the nodule",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    }
+  ],
+  "references": [
+    {
+      "citation": "As van ‘t Westeinde et al. however found, the accuracy of taking biopsies of peripheral pulmonary lesions by extending tools beyond conventional therapeutic bronchoscopes under 2D X-ray guidance was limited in an unselected cohort of lesions that were less than 20 mm, with a reported sensitivity of 14% and negative predictive value of 47% [1].",
+      "authors": [
+        "van ‘t Westeinde et al."
+      ],
+      "year": null,
+      "journal": null,
+      "doi_pmid": null,
+      "study_type": null,
+      "key_findings": "Sensitivity 14% and negative predictive value 47% for lesions <20 mm using 2D X-ray guidance.",
+      "source_page": 2,
+      "source_excerpt": "reported sensitivity of 14% and negative predictive value of 47% [1].",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[1]"
+    },
+    {
+      "citation": "van’t Westeinde SC, Horeweg N, Vernhout RM, Groen HJM, Lammers JJ, Weenink C, et al. The role of conventional bronchoscopy in the workup of suspicious CT scan screen-detected pulmonary nodules. Chest. 2012;142(2):377–84.",
+      "authors": [
+        "van’t Westeinde SC",
+        "Horeweg N",
+        "Vernhout RM",
+        "Groen HJM",
+        "Lammers JJ",
+        "Weenink C"
+      ],
+      "year": "2012",
+      "journal": "Chest",
+      "doi_pmid": null,
+      "study_type": null,
+      "key_findings": null,
+      "source_page": 11,
+      "source_excerpt": "1. van’t Westeinde SC, Horeweg N, Vernhout RM, Groen HJM, Lammers JJ, Weenink C, et al. The role of conventional bronchos- copy in the workup of suspicious CT scan",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    }
+  ],
+  "summary": {
+    "clinical_applications": [],
+    "practice_recommendations": [
+      {
+        "content": "scanning should preferably also be performed under breath-hold.",
+        "source_page": 4,
+        "source_excerpt": "scanning should preferably also be performed under breath-hold.",
+        "present_in_source": true,
+        "page_range": {
+          "start": 1,
+          "end": 6
+        },
+        "reference": "[Chapter Text]"
+      },
+      {
+        "content": "It is essential to implement a dedicated protocol to optimize the conditions for navigation bronchoscopy that involves both induction of anesthesia and ventilation protocol based on the settings mentioned in these studies.",
+        "source_page": 8,
+        "source_excerpt": "It is essential to implement a dedicated protocol to optimize the conditions",
+        "present_in_source": true,
+        "page_range": {
+          "start": 7,
+          "end": 12
+        },
+        "reference": "[Chapter Text]"
+      }
+    ],
+    "future_directions": [],
+    "controversies": []
+  },
+  "extraction_metadata": {
+    "source_pdf": "Textbooks/Chapter pdfs/Cone Beam CT Guidance.pdf",
+    "adobe_json": null,
+    "extraction_date": "2025-08-21T04:47:55.498669+00:00",
+    "text_pages": 12,
+    "chunks_processed": 2,
+    "model": "gpt-5",
+    "extractor_version": "production_multipass_v3.2_gpt5_simple",
+    "enhancements_applied": [
+      "risk_model_separation",
+      "clinical_interpretation_addition",
+      "performance_metric_normalization",
+      "inline_reference_addition",
+      "duplicate_consolidation",
+      "missing_section_extraction"
+    ],
+    "passes_completed": 7,
+    "quality_issues": {
+      "tables": [
+        "Check footnotes presence: Table 1 Overview of studies on CBCT-supported robotic-assisted bronchoscopy"
+      ]
+    },
+    "schema_version": "gold_standard_v1.0",
+    "enhancement_version": "1.0"
+  },
+  "risk_models": [],
+  "guideline_adherence": {},
+  "technology_and_technique": [
+    {
+      "topic": "2D fluoroscopy-guided bronchoscopic biopsy (baseline performance)",
+      "summary": "For peripheral pulmonary lesions <20 mm, 2D X-ray–guided bronchoscopic biopsies had sensitivity 14% and negative predictive value 47%, indicating limited accuracy.",
+      "reference": "van ’t Westeinde et al. [1]"
+    },
+    {
+      "topic": "Fixed CBCT with augmented fluoroscopy for navigation bronchoscopy",
+      "summary": "Stand-alone CBCT navigation using augmented fluoroscopy achieved diagnostic yield 78.2% (95% CI 71.5–83.7) in meta-analysis; provides precise, near-real-time 3D guidance. Reported as low radiation exposure and cost-effective.",
+      "reference": "Meta-analysis summarized in chapter abstract"
+    },
+    {
+      "topic": "Mobile CBCT integrated with robotic-assisted bronchoscopy (RAB)",
+      "summary": "Integrating intraprocedural CBCT with RAB to compensate CT-to-body divergence shows diagnostic yields 75–93% across current literature.",
+      "reference": "Literature summary in chapter abstract"
+    },
+    {
+      "topic": "Comparative effectiveness: CBCT vs 2D fluoroscopy",
+      "summary": "CBCT-guided navigation bronchoscopy (yield 78.2%, 95% CI 71.5–83.7) markedly outperforms historical 2D fluoroscopy-guided bronchoscopic biopsies of <20 mm lesions (sensitivity 14%, NPV 47%).",
+      "reference": "Meta-analysis (CBCT) and van ’t Westeinde et al. [1]"
+    },
+    {
+      "topic": "Augmented fluoroscopy workflow tips",
+      "summary": "Overlay segmented target nodules and marked bronchial subsegments onto live fluoroscopy and use multiple C-arm angulations to translate 3D anatomy into 2D views; enables CBCT as a single-tool navigation strategy for accurate positioning.",
+      "reference": "Chapter methods description"
+    },
+    {
+      "topic": "Patient selection for image-guided bronchoscopy",
+      "summary": "Designed for small (<2 cm) peripheral pulmonary nodules, particularly at or beyond terminal bronchi. Incidental PPL prevalence: Europe ~30%, North America 23%, Asia 36; malignancy confirmed in 0.2–4.0% of incidental PPLs.",
+      "reference": "British Thoracic Society guidelines 2015 [2]"
+    },
+    {
+      "topic": "Safety and radiation",
+      "summary": "CBCT navigation bronchoscopy is reported to have low radiation exposure for patients and staff while allowing near-real-time confirmation of tool position.",
+      "reference": "Chapter abstract"
+    },
+    {
+      "topic": "Therapeutic applications/readiness",
+      "summary": "CBCT imaging is an essential prerequisite for all forms of local treatments of pulmonary nodules, supporting accurate delivery and verification.",
+      "reference": "Chapter abstract"
+    }
+  ],
+  "conclusion": {
+    "points": [
+      "and Future Developments",
+      "11\nAbstract\nCone beam CT (CBCT) technology in interventional\npulmonology\nis\nprimarily\nused\nfor\nadvanced,\n3-dimensional image guidance",
+      "It offers the possibility\nfor precise, near-real-time guidance for navigation, biopsy\nand treatment of small, peripheral pulmonary nodules",
+      "Fixed CBCT systems are available as ceiling mounted or\nrobotic ﬂoor-mounted systems and are integrated with the\npatient table"
+    ],
+    "reference": "[Chapter Conclusion]"
+  }
+}

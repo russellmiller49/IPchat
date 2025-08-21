@@ -43,10 +43,14 @@ class GoldStandardPipeline:
     def __init__(self, 
                  model: str = "gpt-4o",
                  output_dir: Path = Path("data/gold_standard_extractions"),
-                 verbose: bool = False):
+                 verbose: bool = False,
+                 enable_fallback: bool = True,
+                 fallback_model: str = "gpt-4o"):
         self.model = model
         self.output_dir = output_dir
         self.verbose = verbose
+        self.enable_fallback = enable_fallback
+        self.fallback_model = fallback_model
         self.output_dir.mkdir(parents=True, exist_ok=True)
         
         # Quality thresholds
@@ -105,10 +109,38 @@ class GoldStandardPipeline:
             source_text,
             adobe_json_path
         )
-        
+
         # Step 5: Validate quality
         print("\n🔍 Step 3: Validating quality...")
         quality_report = self._validate_quality(enhanced_data)
+
+        # Optional fallback if result is essentially empty/poor
+        if self.enable_fallback and self._looks_near_empty(enhanced_data) and quality_report.get('score', 0) < 0.6:
+            print("\n🛟 Fallback trigger: near-empty result detected; retrying extraction with fallback model",
+                  f"({self.fallback_model})…")
+            extraction_path_fb = self._run_extraction(
+                pdf_path, adobe_json_path, title, model_override=self.fallback_model
+            )
+            if extraction_path_fb and extraction_path_fb.exists():
+                with open(extraction_path_fb, 'r', encoding='utf-8') as f:
+                    extracted_fb = json.load(f)
+                enhanced_fb = self._enhance_extraction(extracted_fb, source_text, adobe_json_path)
+                quality_fb = self._validate_quality(enhanced_fb)
+
+                # If improved or at least populated, use fallback version
+                def populated(d: Dict) -> bool:
+                    return any(len(d.get(k, []) or []) > 0 for k in (
+                        'diagnostic_approaches', 'tables', 'references'))
+
+                if (quality_fb.get('score', 0) >= quality_report.get('score', 0)) or populated(enhanced_fb):
+                    print(f"✅ Fallback improved/filled content (score {quality_fb.get('score',0):.2f}); using fallback result")
+                    enhanced_data = enhanced_fb
+                    quality_report = quality_fb
+                    enhanced_data.setdefault('extraction_metadata', {})
+                    enhanced_data['extraction_metadata']['fallback_used'] = True
+                    enhanced_data['extraction_metadata']['fallback_model'] = self.fallback_model
+                else:
+                    print("⚠️ Fallback did not improve result; keeping original")
         
         # Step 6: Save enhanced version
         output_path = self.output_dir / f"{pdf_path.stem}_gold_standard.json"
@@ -135,7 +167,8 @@ class GoldStandardPipeline:
     def _run_extraction(self, 
                        pdf_path: Path,
                        adobe_json_path: Optional[Path],
-                       title: Optional[str]) -> Optional[Path]:
+                       title: Optional[str],
+                       model_override: Optional[str] = None) -> Optional[Path]:
         """Run the multi-pass extraction"""
         
         try:
@@ -145,7 +178,7 @@ class GoldStandardPipeline:
                 adobe_json_path=adobe_json_path,  # Fixed parameter name
                 output_dir=self.output_dir / "raw_extractions",
                 chapter_title=title,  # Fixed parameter name
-                model=self.model
+                model=(model_override or self.model)
                 # Note: verbose not supported by process_single_chapter
             )
             
@@ -154,6 +187,14 @@ class GoldStandardPipeline:
         except Exception as e:
             print(f"❌ Extraction error: {e}")
             return None
+
+    def _looks_near_empty(self, data: Dict) -> bool:
+        """Heuristic: no approaches, no tables, no references, but has default definitions."""
+        diag = len(data.get('diagnostic_approaches', []) or [])
+        tabs = len(data.get('tables', []) or [])
+        refs = len(data.get('references', []) or [])
+        defs = len(data.get('definitions', []) or [])
+        return (diag == 0 and tabs == 0 and refs == 0 and defs >= 10)
     
     def _extract_text_from_pdf(self, pdf_path: Path) -> str:
         """Extract text from PDF for enhancement"""
@@ -479,7 +520,9 @@ def main():
     pipeline = GoldStandardPipeline(
         model=args.model,
         output_dir=args.output_dir,
-        verbose=args.verbose
+        verbose=args.verbose,
+        enable_fallback=True,
+        fallback_model='gpt-4o'
     )
     
     # Process chapters

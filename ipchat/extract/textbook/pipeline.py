@@ -22,14 +22,32 @@ def _merge_text(pdf_pages, adobe_text: str) -> str:
         return adobe_text
     return "".join([f"\n[PAGE {p['page']}]\n{p['text']}" for p in pdf_pages])
 
+def _add_additional_properties_false(schema: Dict[str, Any]) -> Dict[str, Any]:
+    """Recursively add additionalProperties: false to all objects in schema"""
+    if isinstance(schema, dict):
+        if schema.get("type") == "object":
+            schema["additionalProperties"] = False
+        for key, value in schema.items():
+            if isinstance(value, dict):
+                _add_additional_properties_false(value)
+            elif isinstance(value, list):
+                for item in value:
+                    if isinstance(item, dict):
+                        _add_additional_properties_false(item)
+    return schema
+
 def _call_openai(prompt: str, schema: Dict[str, Any]) -> Dict[str, Any]:
     from openai import OpenAI
     client = OpenAI()
+    
+    # Use JSON mode without strict schema validation
     resp = client.chat.completions.create(
         model=os.getenv("OPENAI_MODEL", "gpt-4o-mini"),
-        messages=[{"role":"system","content":prompts.SYSTEM},
-                  {"role":"user","content":prompt}],
-        response_format={"type":"json_schema","json_schema":{"name":"textbook_chapter","schema":schema,"strict":True}},
+        messages=[
+            {"role":"system","content":prompts.SYSTEM},
+            {"role":"user","content":prompt + f"\n\nRespond with a valid JSON object following this schema:\n{json.dumps(schema, indent=2)}"}
+        ],
+        response_format={"type":"json_object"},
         temperature=0.1
     )
     return json.loads(resp.choices[0].message.content)
@@ -52,7 +70,8 @@ def extract_textbook(pdf_path: Path, adobe_json_path: Path, title: Optional[str]
         raise ValueError("Non-textbook source detected — use article extractor.")
 
     table_hints = parse_tables(adobe)
-    truncated = merged[:100000]
+    # Increase text limit for better extraction
+    truncated = merged[:200000]  # Increased from 100k to 200k
     prompt = prompts.USER_TEMPLATE.format(
         title=title or pdf_path.stem,
         table_hints=json.dumps(table_hints, ensure_ascii=False),

@@ -1,0 +1,77 @@
+{
+  "chapter_metadata": {
+    "title": {"value": "Approach to Peripheral Lung Lesions", "present_in_source": true},
+    "authors": [
+      {"name": "V. Y. Aroumougame"},
+      {"name": "S. V. Long"},
+      {"name": "G. A. Silvestri"}
+    ],
+    "chapter_number": {"value": "10", "present_in_source": true},
+    "page_range": {"start": 1, "end": 11}
+  },
+  "diagnostic_approaches": [
+    {
+      "name": "FDG-PET",
+      "interpretation": "In endemic infections, sensitivity 94% and specificity 78%.",
+      "present_in_source": true,
+      "source_page": 3,
+      "source_excerpt": "FDG-PET shows 94% sensitivity and 78% specificity...",
+      "page_range": "1-6"
+    },
+    {
+      "name": "Volumetric assessment",
+      "interpretation": "sensitivity 91% specificity 90% in surgical cohort",
+      "present_in_source": true,
+      "source_page": 5,
+      "source_excerpt": "Volumetric CT yielded sensitivity 91% and specificity 90%...",
+      "page_range": "4-5"
+    },
+    {
+      "name": "Mayo risk model",
+      "purpose": "risk estimation from clinical/radiologic data",
+      "criteria_or_scoring": ["age", "smoking", "size"],
+      "reference": ""
+    }
+  ],
+  "treatment_algorithms": [
+    {
+      "title": "Algorithm A",
+      "accuracy": "76% (both approaches)",
+      "present_in_source": true,
+      "source_page": 8,
+      "source_excerpt": "",
+      "page_range": "7-8"
+    }
+  ],
+  "clinical_guidelines": [
+    {
+      "title": "ACCP guideline for pulmonary nodules",
+      "specific_recommendations": ["..."]
+    }
+  ],
+  "definitions": [
+    {
+      "content": "An indeterminate pulmonary nodule is ...",
+      "source_page": 2,
+      "page_range": "2-2",
+      "present_in_source": true
+    },
+    {
+      "term": "VDT",
+      "definition": "volume doubling time"
+    }
+  ],
+  "conclusion": {
+    "points": [
+      "…… This is a messy line with dot leaders ……",
+      "10 References …",
+      "Overall, PET and volumetry complement each other in most contexts, with selection informed by risk and availability."
+    ]
+  },
+  "extraction_metadata": {
+    "source_pdf": "Textbooks\\Chapter pdfs\\Approach.pdf",
+    "adobe_json": "Textbooks\\Chapter json\\Approach.json"
+  },
+  "reference": "[5]"
+}
+

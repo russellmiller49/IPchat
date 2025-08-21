@@ -1,0 +1,131 @@
+{
+  "chapter_metadata": {
+    "title": {
+      "value": "Pneumothorax",
+      "present_in_source": false
+    },
+    "authors": [],
+    "chapter_number": {
+      "value": null,
+      "present_in_source": false
+    },
+    "learning_objectives": [],
+    "key_points": [],
+    "page_range": {
+      "start": 1,
+      "end": 1
+    }
+  },
+  "anatomical_content": {
+    "structures": []
+  },
+  "clinical_procedures": [],
+  "diagnostic_approaches": [],
+  "treatment_algorithms": [],
+  "clinical_guidelines": [],
+  "drug_information": [],
+  "tables": [],
+  "figures": [],
+  "clinical_cases": [],
+  "definitions": [
+    {
+      "term": "pCA",
+      "definition": "pretest probability of cancer",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "IPN",
+      "definition": "indeterminate pulmonary nodule",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "SPN",
+      "definition": "solitary pulmonary nodule",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "VDT",
+      "definition": "volume doubling time",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "FDG",
+      "definition": "fluorodeoxyglucose",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "PET",
+      "definition": "positron emission tomography",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "EBUS",
+      "definition": "endobronchial ultrasound",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "TBNA",
+      "definition": "transbronchial needle aspiration",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "PPV",
+      "definition": "positive predictive value",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "NPV",
+      "definition": "negative predictive value",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "ACCP",
+      "definition": "American College of Chest Physicians",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "BTS",
+      "definition": "British Thoracic Society",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    }
+  ],
+  "clinical_pearls": [],
+  "references": [],
+  "summary": {
+    "clinical_applications": [],
+    "practice_recommendations": [],
+    "future_directions": [],
+    "controversies": []
+  },
+  "extraction_metadata": {
+    "source_pdf": "Textbooks\\Chapter pdfs\\Pneumothorax.pdf",
+    "adobe_json": "Textbooks\\Chapter json\\Pneumothorax.json",
+    "extraction_date": "2025-08-21T16:35:29.747238+00:00",
+    "text_pages": 11,
+    "chunks_processed": 2,
+    "model": "gpt-4o",
+    "extractor_version": "production_multipass_v3.2_gpt5_simple",
+    "enhancements_applied": [
+      "ocr_cleanup",
+      "type_normalization",
+      "criteria_tokenization",
+      "guideline_deduplication",
+      "page_range_normalization",
+      "performance_metric_structuring",
+      "definition_enrichment"
+    ],
+    "passes_completed": 7
+  }
+}

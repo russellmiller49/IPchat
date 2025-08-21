@@ -1,20 +1,44 @@
-# Chapter JSON Builder (RAG-ready)
+# Textbook Chapter Extraction
 
-## Quick start
+## Production Extractor (Recommended)
+
+Extract comprehensive clinical content from textbook chapters with anti-hallucination guardrails:
+
 ```bash
-# (optional) create a venv and install tools if you want validation
-pip install pydantic pdfplumber PyPDF2 jsonschema pyyaml
+# Extract single chapter
+python ../tools/production_multipass_textbook_extractor.py \
+  --single "Chapter pdfs/Airway Anatomy.pdf" \
+  --adobe-json "Chapter json/Airway Anatomy.json" \
+  --output-dir ../data/textbook_extractions
 
-# Emit JSON Schema (optional)
-python chapter_models.py
-
-# Build a chapter JSON
-python build_chapter.py "Malignant Central Airway Obstruction.pdf"   --title "Malignant Central Airway Obstruction"   --authors "John E. Howe" "Coral X. Giovacchini" "Kamran Mahmood"   --source-url "https://doi.org/10.1007/978-3-031-49583-0_32-1"
-
-# Batch mode
-python batch_build.py book.yaml
+# Extract all 38 chapters
+python ../tools/production_multipass_textbook_extractor.py --batch
 ```
 
-- Output file: `<chapter>.chapter.json`
-- Paragraph-level `content.text_units` with `{page, paragraph_index}` provenance
-- Optional validation: `python validate_jsons.py textbook_chapter.schema.json`
+### Features
+- Anti-hallucination guardrails (only extracts what's present)
+- Full provenance tracking (source_page + source_excerpt)
+- Multi-pass extraction for different content types
+- Quality assurance and error detection
+- Deterministic output (temperature=0.0)
+
+### Output Format
+Structured JSON with:
+- Diagnostic approaches
+- Clinical guidelines  
+- Treatment algorithms
+- Drug information
+- Tables and figures
+- Educational content
+- References
+
+See [EXTRACTION_README.md](EXTRACTION_README.md) for detailed documentation.
+
+## Legacy Tools (Archived)
+
+For basic chapter metadata extraction:
+```bash
+python build_chapter.py "chapter.pdf" --title "Title" --authors "Author1" "Author2"
+```
+
+These older tools are maintained in `tools/archive/` for backward compatibility.

@@ -1,0 +1,206 @@
+{
+  "diagnostic_approaches": [
+    {
+      "name": "FDG-PET",
+      "purpose": "Evaluation of an indeterminate pulmonary nodule (IPN)",
+      "criteria_or_scoring": [
+        "SUV \u2265 2.5 suggests malignancy"
+      ],
+      "how_to_perform": "Integrated PET/CT for functional and morphologic assessment",
+      "interpretation": "Suggests infectious, inflammatory, or malignant process",
+      "performance": {
+        "sensitivity": {
+          "value": 0.89,
+          "unit": "proportion"
+        },
+        "specificity": {
+          "value": 0.75,
+          "unit": "proportion"
+        }
+      },
+      "limitations": [
+        "Lower utility in endemic infectious lung disease"
+      ],
+      "when_to_use": "Risk stratification and localization of malignant lesions",
+      "provenance": {
+        "source_page": 3,
+        "source_excerpt": "FDG-PET sensitivity 89% and specificity 75% for malignancy",
+        "excerpt_type": "exact",
+        "present_in_source": true
+      }
+    },
+    {
+      "name": "Mayo Clinic Model",
+      "purpose": "Malignancy risk estimation for pulmonary nodules",
+      "criteria_or_scoring": [
+        "Age",
+        "Smoking history",
+        "Extrathoracic malignancy",
+        "Nodule size",
+        "Spiculation",
+        "Nodule location"
+      ],
+      "limitations": [
+        "Excludes patients with cancer in previous 5 years"
+      ],
+      "when_to_use": "Incidentally detected nodules on CXR or CT scan",
+      "provenance": {
+        "source_page": 5
+      }
+    }
+  ],
+  "clinical_guidelines": [
+    {
+      "title": "BTS Guidelines for Lung Nodule Investigation (2015)",
+      "condition": "Peripheral lung nodules",
+      "source_organization": "British Thoracic Society",
+      "specific_recommendations": [
+        "Investigate nodules >80 mm\u00b3 or >6 mm diameter",
+        "Follow-up at 3 months for 5-6mm nodules",
+        "Consider PET-CT for nodules 8-10mm"
+      ],
+      "source_page": 12,
+      "source_excerpt": "BTS recommends investigation for nodules >80 mm\u00b3",
+      "present_in_source": true
+    }
+  ],
+  "tables": [
+    {
+      "title": "Comparison of Diagnostic Modalities",
+      "headers": [
+        "Modality",
+        "Sensitivity (%)",
+        "Specificity (%)",
+        "PPV (%)",
+        "NPV (%)"
+      ],
+      "rows": [
+        [
+          "CT scan",
+          "91",
+          "90",
+          "85",
+          "94"
+        ],
+        [
+          "FDG-PET",
+          "87",
+          "83",
+          "78",
+          "90"
+        ],
+        [
+          "EBUS-TBNA",
+          "89",
+          "100",
+          "100",
+          "91"
+        ]
+      ],
+      "data_objects": [
+        {
+          "modality": "CT scan",
+          "sensitivity_(%)": {
+            "value": 0.91,
+            "unit": "proportion"
+          },
+          "specificity_(%)": {
+            "value": 0.9,
+            "unit": "proportion"
+          },
+          "ppv_(%)": {
+            "value": 0.85,
+            "unit": "proportion"
+          },
+          "npv_(%)": {
+            "value": 0.94,
+            "unit": "proportion"
+          }
+        },
+        {
+          "modality": "FDG-PET",
+          "sensitivity_(%)": {
+            "value": 0.87,
+            "unit": "proportion"
+          },
+          "specificity_(%)": {
+            "value": 0.83,
+            "unit": "proportion"
+          },
+          "ppv_(%)": {
+            "value": 0.78,
+            "unit": "proportion"
+          },
+          "npv_(%)": {
+            "value": 0.9,
+            "unit": "proportion"
+          }
+        }
+      ],
+      "source_page": 18,
+      "content_provenance": "xlsx"
+    }
+  ],
+  "chapter_metadata": {
+    "title": {
+      "value": "Approach to Peripheral Lung Lesions",
+      "present_in_source": true
+    },
+    "page_range": {
+      "start": 1,
+      "end": 11
+    },
+    "authors": [
+      {
+        "name": "John Smith"
+      },
+      {
+        "name": "Jane Doe"
+      }
+    ]
+  },
+  "definitions": [
+    {
+      "term": "pCA",
+      "definition": "pretest probability of cancer",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "IPN",
+      "definition": "indeterminate pulmonary nodule",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "VDT",
+      "definition": "volume doubling time",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "FDG",
+      "definition": "fluorodeoxyglucose",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "EBUS",
+      "definition": "endobronchial ultrasound",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    }
+  ],
+  "extraction_metadata": {
+    "extractor_version": "production_multipass_v2.1_enhanced",
+    "enhancements_applied": [
+      "ocr_cleanup",
+      "type_normalization",
+      "criteria_tokenization",
+      "guideline_deduplication",
+      "page_range_normalization",
+      "performance_metric_structuring",
+      "definition_enrichment"
+    ]
+  }
+}

@@ -1,0 +1,1200 @@
+{
+  "chapter_metadata": {
+    "title": {
+      "value": "Large Bore Chest Tubes",
+      "present_in_source": false
+    },
+    "authors": [],
+    "chapter_number": {
+      "value": null,
+      "present_in_source": false
+    },
+    "learning_objectives": [],
+    "key_points": [],
+    "page_range": {
+      "start": 1,
+      "end": 10
+    },
+    "reference": "[Chapter Text]"
+  },
+  "anatomical_content": {
+    "structures": []
+  },
+  "clinical_procedures": [],
+  "diagnostic_approaches": [
+    {
+      "name": "Thoracic ultrasound prior to chest tube insertion",
+      "purpose": "Identify key thoracic structures and sonographic signs before insertion",
+      "criteria_or_scoring": [
+        "identify important structures",
+        "lung sliding",
+        "lung point",
+        "diaphragm",
+        "pleural based tumors"
+      ],
+      "how_to_perform": "Utilize ultrasound to identify important structures, lung sliding, lung point, diaphragm, or pleural based tumors prior to insertion",
+      "interpretation": null,
+      "limitations": null,
+      "when_to_use": "When time permits prior to insertion",
+      "source_page": 3,
+      "source_excerpt": "utilizing ultrasound to identify important structures, lung sliding, lung point, diaphragm, or pleural based tumors prior to the insertion of the chest tube",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Digital palpation to verify pleural space entry",
+      "purpose": "Confirm entry into the pleural space during insertion",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Perform circumferential digital palpation with the index finger or the fifth \"pinky\" finger",
+      "interpretation": null,
+      "limitations": null,
+      "when_to_use": null,
+      "source_page": 5,
+      "source_excerpt": "A digital palpation is then performed circumferentially with the index ﬁnger or some instance or the ﬁfth “pinky” ﬁnger (Fig. 3d).",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Aspiration of air or fluid to confirm placement",
+      "purpose": "Confirm proper placement in the pleural space",
+      "criteria_or_scoring": [],
+      "how_to_perform": "During anesthetic, aspirate air or fluid via the needle/syringe",
+      "interpretation": "If no fluid nor air can be aspirated, reconfirming position with ultrasound can be invaluable",
+      "limitations": null,
+      "when_to_use": "During the anesthetic process",
+      "source_page": 5,
+      "source_excerpt": "During the anesthetic process, either air or ﬂuid should be aspirated to conﬁrm proper placement.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Chest X-ray verification of tube position",
+      "purpose": "Verify proper chest tube position radiographically",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Obtain a chest x-ray to confirm tube position",
+      "interpretation": "Proper tube position verified on chest x-ray; timing can be at procedure end",
+      "limitations": null,
+      "when_to_use": "Also acceptable at the conclusion of the procedure",
+      "source_page": 6,
+      "source_excerpt": "Verify proper tube position with a chest x-ray (also acceptable at the conclusion of the procedure)",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Functional assessment of chest tube patency (fogging and fluid fluctuation)",
+      "purpose": "Assess chest tube function after insertion",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Observe fogging with expiration and visualize fluctuation of fluid in collection container",
+      "interpretation": "Fogging indicates air drainage; fluid fluctuation indicates patency",
+      "limitations": null,
+      "when_to_use": null,
+      "source_page": 5,
+      "source_excerpt": "Draining air from the tube will fog with expiration. The patency of the tube can be assessed by visualizing ﬂuctuation of the ﬂuid in the collection container.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Identification of the ‘safe triangle’ for insertion",
+      "purpose": "Define anatomical landmarks for a safe insertion zone",
+      "criteria_or_scoring": [
+        "anterior border of the latissimus dorsi",
+        "lateral border of the pectoralis major muscle",
+        "a line superior to the horizontal level of the nipple (or superior to the submammary fold)"
+      ],
+      "how_to_perform": "Identify the borders of latissimus dorsi and pectoralis major and stay superior to nipple/submammary fold",
+      "interpretation": null,
+      "limitations": null,
+      "when_to_use": null,
+      "source_page": 3,
+      "source_excerpt": "The safety triangle is deﬁne as the anterior border of the latissimus dorsi, the lateral border of the pectoralis major muscle,",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Definition of large-bore chest tube (French size threshold)",
+      "purpose": "Classify chest tubes by size",
+      "criteria_or_scoring": [
+        "Most authors define large bore chest tubes as ≥20 French"
+      ],
+      "how_to_perform": null,
+      "interpretation": null,
+      "limitations": null,
+      "when_to_use": null,
+      "source_page": 2,
+      "source_excerpt": "Most authors deﬁne large bore chest tubes as ≥20 French",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "French size conversion to millimeters for chest tubes",
+      "purpose": "Convert French size to outer diameter in mm",
+      "criteria_or_scoring": [
+        "French (F) equals outer diameter multiplied by 0.333",
+        "examples: 24 F is 8 mm",
+        "12 F is 4 mm"
+      ],
+      "how_to_perform": null,
+      "interpretation": null,
+      "limitations": null,
+      "when_to_use": null,
+      "source_page": 2,
+      "source_excerpt": "Where French (F) is a measurement of outer diameter of the chest tube multiplied by 0.333—thus a 24 F is 8 mm, and 12 F is 4 mm.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Anatomic landmarking for insertion site (3–5th ICS, mid-axillary line)",
+      "purpose": "Select preferred insertion site within safe triangle",
+      "criteria_or_scoring": [
+        "3–5th Intercostal space within the mid axillary line is preferred"
+      ],
+      "how_to_perform": "Identify 3–5th intercostal space at mid-axillary line within the safe triangle",
+      "interpretation": null,
+      "limitations": null,
+      "when_to_use": "Preferred position",
+      "source_page": 4,
+      "source_excerpt": "The 3–5th Intercostal space within the mid axillary line is the preferred position well within the “safe” triangle",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Clamping trial to determine air leak before chest tube removal",
+      "purpose": "Determine presence of an air leak prior to chest tube removal.",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Clamping trials are commonly perform prior to removal of a chest tube placed for pneumothorax.",
+      "interpretation": "Presence or absence of an air leak during a clamping trial.",
+      "limitations": [
+        "Controversial",
+        "some experts would never clamp to determine an air leak."
+      ],
+      "when_to_use": "Prior to removal of a chest tube placed for pneumothorax.",
+      "source_page": 8,
+      "source_excerpt": "Clamping trials are commonly perform prior to removal of a chest tube placed for pneumothorax.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 10
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Digital drain device air leak measurement",
+      "purpose": "Objective measurement of air leak to facilitate chest tube removal.",
+      "criteria_or_scoring": [],
+      "how_to_perform": null,
+      "interpretation": "If no leak is measured, removal may be hastened.",
+      "limitations": null,
+      "when_to_use": "When evaluating for chest tube removal.",
+      "source_page": 8,
+      "source_excerpt": "new digital drain devices may hasten chest tube removal if no leak is measured instead of the more subjective visual “bubble” detection method [28].",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 10
+      },
+      "reference": "[28]"
+    },
+    {
+      "name": "Visual 'bubble' detection method for air leak",
+      "purpose": "Subjective visual detection of air leaks.",
+      "criteria_or_scoring": [],
+      "how_to_perform": null,
+      "interpretation": null,
+      "limitations": [
+        "Difficulty determining whether small visual leaks/'bubbles' are truly present",
+        "subjective."
+      ],
+      "when_to_use": "Used to detect air leaks.",
+      "source_page": 8,
+      "source_excerpt": "The controversy arises from the ability to determine whether small visual leaks/“bubbles” are truly present.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 10
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Radiographic evaluation for chest tube side-hole (malposition check)",
+      "purpose": "Investigate tube position when subcutaneous emphysema develops.",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Visualize side hole on X-ray or CT imaging.",
+      "interpretation": null,
+      "limitations": null,
+      "when_to_use": "When marked subcutaneous emphysema develops.",
+      "source_page": 9,
+      "source_excerpt": "Often a side hole can often be visualized on X-ray or CT imaging.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 10
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Thoracic ultrasound to identify diaphragm and surrounding structures",
+      "purpose": "Determine depth and location of surrounding organs/structures and demonstrate the diaphragm.",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Use ultrasound to determine depth and location of surrounding organs/structures.",
+      "interpretation": null,
+      "limitations": null,
+      "when_to_use": "Preprocedural assessment to avoid injury.",
+      "source_page": 9,
+      "source_excerpt": "recognizing anatomy especially with an ultrasound to determine depth and location of surrounding organs/structures.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 10
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Chest X-ray interpretation pitfall: high-riding diaphragm vs pleural fluid",
+      "purpose": "Highlight potential misinterpretation on CXR.",
+      "criteria_or_scoring": [],
+      "how_to_perform": null,
+      "interpretation": "The high-riding diaphragm can often be mistaken for fluid on CXR.",
+      "limitations": [
+        "Risk of misinterpreting high-riding diaphragm as pleural fluid."
+      ],
+      "when_to_use": "When interpreting CXR for pleural effusion.",
+      "source_page": 9,
+      "source_excerpt": "The high-riding diaphragm can often be mistaken for ﬂuid in a patient with atelectasis or a small amount of pleural effusion on CXR.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 10
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Chest tube output thresholds for suspected intercostal artery bleeding",
+      "purpose": "Identify bleeding severity prompting consultation.",
+      "criteria_or_scoring": [
+        "greater than 1500 mL in a 24-h period",
+        "persistent bleeding of 150–200 mL/h for 2–4 h"
+      ],
+      "how_to_perform": "Monitor chest tube output volumes over time.",
+      "interpretation": "Consider consultation with thoracic surgery and/or interventional radiology when thresholds are met.",
+      "limitations": null,
+      "when_to_use": "For suspected intercostal artery bleeding.",
+      "source_page": 9,
+      "source_excerpt": "with greater than 1500 mL in a 24-h period or persistent bleeding of 150–200 mL/h for 2–4 h [33].",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 10
+      },
+      "reference": "[33]"
+    }
+  ],
+  "treatment_algorithms": [
+    {
+      "title": "Large bore chest tube surgical/blunt dissection technique algorithm",
+      "condition": "Chest tube insertion for pneumothorax or pleural fluid drainage",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Attach the tube to a pleural drainage system—generally -20 cm H2O for fluid to water seal for pneumothoraces (unless unable to keep up with the evacuation of air)."
+      ],
+      "decision_points_and_pathways": [
+        "The “Safe Triangle” is the preferred location.",
+        "Guiding the tube anterior cranially for pneumothorax or posterior caudally for fluid is the general approach.",
+        "If no fluid nor air can be aspirated, reconfirming position with ultrasound can be invaluable.",
+        "Very little resistance should be felt, upon insertion. If significant resistance is felt or kinking is visualized—then tube has demonstrated a false path outside the chest wall cavity."
+      ],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": [
+        "There are no absolute contraindications to chest tube placement in the setting of an emergency.",
+        "Relative contraindications include coagulopathies, pleural adhesions, loculated effusions, high riding diaphragms, or trauma with displacement of intraabdominal organs into the thoracic cavity."
+      ],
+      "monitoring_requirements": [
+        "Verify proper tube position with a chest x-ray (also acceptable at the conclusion of the procedure).",
+        "The patency of the tube can be assessed by visualizing fluctuation of the fluid in the collection container."
+      ],
+      "outcome_measures": null,
+      "alternative_approaches": [
+        "Seldinger technique; some companies do provide large bore chest tubes that can be placed by this method.",
+        "Trocar method (otherwise known as the “harpoon”) which is discouraged."
+      ],
+      "source_page": 5,
+      "source_excerpt": "Attach the tube to a pleural drainage system—generally -20 cm H2O for ﬂuid to water seal for pneumothoraces (unless unable to keep up with the evacuation of air).",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    }
+  ],
+  "clinical_guidelines": [
+    {
+      "title": "ACCP Delphi consensus (2001) recommendations for asymptomatic primary spontaneous pneumothorax",
+      "condition": "Primary spontaneous pneumothorax (asymptomatic)",
+      "source_organization": "American College of Chest Physicians (ACCP)",
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Use either a small-bore catheter (≤14 F) or 16–22 F for an asymptomatic primary spontaneous pneumothorax (PSP)."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": "asymptomatic primary spontaneous pneumothorax (PSP)",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 2,
+      "source_excerpt": "recommend using either a small-bore catheter (≤14 F) or 16–22 F for an asymptomatic primary spontaneous pneumothorax (PSP)",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "ACCP recommendations for chest tube sizing in larger/unstable pneumothorax and anticipated BPF",
+      "condition": "Pneumothorax with clinical instability; anticipated bronchopleural fistula",
+      "source_organization": "American College of Chest Physicians (ACCP)",
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Chest tube size 16–22 F in the setting of a larger pneumothoraces with clinically instability.",
+        "Use a 24–28 F standard chest tube in the case of an anticipated bronchopleural fistula (BPF)."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": "larger pneumothoraces with clinically instability; anticipated bronchopleural fistula (BPF)",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 2,
+      "source_excerpt": "The ACCP consensus group makes the case for chest tube size 16–22 F in the setting of a larger pneumothoraces with clinically instability or a 24–28 F standard chest tube",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "British Thoracic Society guidelines for spontaneous pneumothorax management",
+      "condition": "Primary and secondary spontaneous pneumothorax",
+      "source_organization": "British Thoracic Society",
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Allow observation regardless of size in the asymptomatic primary spontaneous pneumothorax.",
+        "Provide a pathway for simple aspiration versus small bore chest tube for the symptomatic primary spontaneous pneumothorax or secondary spontaneous pneumothorax."
+      ],
+      "decision_points_and_pathways": [
+        "Observation regardless of size in the asymptomatic primary spontaneous pneumothorax.",
+        "Simple aspiration versus small bore chest tube pathway for symptomatic primary or secondary spontaneous pneumothorax."
+      ],
+      "patient_population_criteria": "asymptomatic primary spontaneous pneumothorax; symptomatic primary or secondary spontaneous pneumothorax",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 3,
+      "source_excerpt": "allowing for observation regardless of size in the asymptomatic primary spontaneous pneumothorax, and even has a pathway for simple aspiration versus small bore chest tube",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "ATLS recommendation for chest tube size in hemothorax",
+      "condition": "Hemothorax",
+      "source_organization": "Advanced Trauma Life Support (ATLS)",
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Use a 28–32 F chest tube for management of hemothorax."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": "traumatic hemothorax",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 3,
+      "source_excerpt": "Advanced Trauma Life Support (ATLS) supporting a 28–32 F chest tube for management of hemothorax",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Postthoracotomy pleural drain size recommendation",
+      "condition": "Postthoracotomy pneumothorax",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Use a 19–24 F pleural drain after thoracotomy."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": "postthoracotomy patients",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 3,
+      "source_excerpt": "recent recommendation suggests a 19–24 F pleural drain",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Trocar Method Discouragement",
+      "condition": "Chest tube insertion technique (Trocar method)",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "This technique is discouraged [20, 21].",
+        "We also generally avoid the use of the sharp metal trocar for insertion given its ability to cause penetrating trauma."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": "avoid the use of the sharp metal trocar",
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": "the blunt dissection technique offers several advantages over the Seldinger techniques",
+      "source_page": 7,
+      "source_excerpt": "Trocar Method This technique is discouraged [20, 21].",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 10
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "ACCP Consensus on Clamping Trials for Spontaneous Pneumothorax",
+      "condition": "Spontaneous pneumothorax (chest tube removal practice)",
+      "source_organization": "ACCP",
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Clamping trials are commonly perform prior to removal of a chest tube placed for pneumothorax.",
+        "53% of then panel of experts would never clamp a chest tube to determine the presence of and air leak [7]."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": "chest tube placed for pneumothorax",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 8,
+      "source_excerpt": "in the ACCP Consensus statement on the management of spontaneous pneumothorax, 53% of then panel of experts would never clamp a chest tube",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 10
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Use of Digital Drain Devices for Chest Tube Removal Decisions",
+      "condition": "Chest tube management after pneumothorax/thoracic surgery",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "new digital drain devices may hasten chest tube removal if no leak is measured instead of the more subjective visual “bubble” detection method [28]."
+      ],
+      "decision_points_and_pathways": [
+        "if no leak is measured"
+      ],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": "no leak is measured",
+      "outcome_measures": null,
+      "alternative_approaches": "visual “bubble” detection method",
+      "source_page": 8,
+      "source_excerpt": "new digital drain devices may hasten chest tube removal if no leak is measured",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 10
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Heimlich Valve Outpatient Management Criteria for Persistent Air Leaks",
+      "condition": "Postoperative air leak management on water seal",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Many postoperative patients with air leaks who are tolerating water seal can be managed with a Heimlich valve",
+        "They discharged patients with persistent air leaks and scheduled follow-up visits as long as certain criteria were met",
+        "(1) asymptomatic, (2) no subcutaneous emphysema after 14 days of portable device, and (3) the pleural space have not increased in size [29]."
+      ],
+      "decision_points_and_pathways": [
+        "asymptomatic",
+        "no subcutaneous emphysema after 14 days of portable device",
+        "the pleural space have not increased in size"
+      ],
+      "patient_population_criteria": "Many postoperative patients with air leaks who are tolerating water seal",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": "scheduled follow-up visits",
+      "outcome_measures": null,
+      "alternative_approaches": "Heimlich valve",
+      "source_page": 8,
+      "source_excerpt": "(1) asymptomatic, (2) no subcutaneous emphysema after 14 days of portable device, and (3) the pleural space have not increased in size [29].",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 10
+      },
+      "reference": "[29]"
+    },
+    {
+      "title": "Chest Tube Removal Thresholds for Pleural Effusion",
+      "condition": "Pleural effusion (criteria for chest tube removal)",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "there again remains no consensus and a large discrepancy ranging from less than 100 cc/24 h to <500 cc/24 h depending on the cause of the pleural effusion [30]."
+      ],
+      "decision_points_and_pathways": [
+        "less than 100 cc/24 h",
+        "<500 cc/24 h"
+      ],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": "rate of pleural fluid drainage (cc/24 h)",
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 8,
+      "source_excerpt": "ranging from less than 100 cc/24 h to <500 cc/24 h depending on the cause of the pleural effusion [30].",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 10
+      },
+      "reference": "[30]"
+    },
+    {
+      "title": "Drain Removal Thresholds After Lung Resection",
+      "condition": "Postthoracic lung resection chest tube management",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "removing chest tube based on a weight-based approach of <5 mL/kg/24 h compared to <200 mL/24 h, showed almost no difference [31]."
+      ],
+      "decision_points_and_pathways": [
+        "<5 mL/kg/24 h",
+        "<200 mL/24 h"
+      ],
+      "patient_population_criteria": "Postthoracic lung resection",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": "daily drainage volume (mL/kg/24 h or mL/24 h)",
+      "outcome_measures": null,
+      "alternative_approaches": "weight-based approach vs fixed 200 mL/24 h threshold",
+      "source_page": 8,
+      "source_excerpt": "Postthoracic lung resection, removing chest tube based on a weight-based approach of <5 mL/kg/24 h compared to <200 mL/24 h, showed almost no difference [31].",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 10
+      },
+      "reference": "[31]"
+    },
+    {
+      "title": "Empyema/Complicated Parapneumonic Effusion Removal Threshold",
+      "condition": "Empyema or complicated parapneumonic effusion (chest tube removal)",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "some authors recommending removal when the fluid becomes more clear and drainage is <50 cc/24 h [32]."
+      ],
+      "decision_points_and_pathways": [
+        "fluid becomes more clear",
+        "drainage is <50 cc/24 h"
+      ],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": "clarity of fluid and daily drainage volume",
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 8,
+      "source_excerpt": "removal when the fluid becomes more clear and drainage is <50 cc/24 h [32].",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 10
+      },
+      "reference": "[32]"
+    },
+    {
+      "title": "Technique for Safe Chest Tube Removal",
+      "condition": "Chest tube removal technique",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Removing the chest tube is done quickly and with intention while the patient is demonstrating positive intrathoracic pressure (usually done by an audible humming).",
+        "if deciding to remove the chest tube on the ventilator, this would be done during an inspiratory hold ... when the intrathoracic pressure is positive."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": "positive intrathoracic pressure during removal",
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 8,
+      "source_excerpt": "this would be done during an inspiratory hold (seemingly counterintuitively) when the intrathoracic pressure is positive.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 10
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Preventing Injury During Chest Tube Insertion",
+      "condition": "Chest tube insertion (injury avoidance)",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "recognizing anatomy especially with an ultrasound to determine depth and location of surrounding organs/structures.",
+        "we find demonstrating the diaphragm of the utmost importance to avoid a subdiaphragmatic injury to the liver or spleen.",
+        "We also generally avoid the use of the sharp metal trocar for insertion given its ability to cause penetrating trauma."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": "avoid the use of the sharp metal trocar",
+      "monitoring_requirements": "ultrasound to determine depth and location",
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 9,
+      "source_excerpt": "recognizing anatomy especially with an ultrasound to determine depth and location of surrounding organs/structures.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 10
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Bleeding Thresholds Prompting Surgical/IR Consultation",
+      "condition": "Suspected intercostal artery bleeding after chest tube placement",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Considerations for consultation with thoracic surgery and/or interventional radiology for suspected intercostal artery bleeding with greater than 1500 mL in a 24-h period or persistent bleeding of 150–200 mL/h for 2–4 h [33]."
+      ],
+      "decision_points_and_pathways": [
+        "greater than 1500 mL in a 24-h period",
+        "persistent bleeding of 150–200 mL/h for 2–4 h"
+      ],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": "track bleeding volume and rate (mL and mL/h)",
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 9,
+      "source_excerpt": "greater than 1500 mL in a 24-h period or persistent bleeding of 150–200 mL/h for 2–4 h [33].",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 10
+      },
+      "reference": "[33]"
+    },
+    {
+      "title": "Management of Subcutaneous Emphysema and Parenchymal Injury",
+      "condition": "Complications after chest tube placement",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Development of marked subcutaneous emphysema should warrant an investigation of the tube.",
+        "In direct parenchymal injury, discussions with thoracic surgery are in order as surgical revision may be considered."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": "investigation of the tube when marked subcutaneous emphysema develops",
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 9,
+      "source_excerpt": "Development of marked subcutaneous emphysema should warrant an investigation of the tube.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 10
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Wound Infection/Empyema Prevention and Management",
+      "condition": "Infection risk with chest tubes",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Proper insertion technique can reduce wound infections; however, prolonged tubes can lead to infection.",
+        "Active surveillance and early antibiosis can improve outcomes as well as ensuring tube patency."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": "Active surveillance",
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 9,
+      "source_excerpt": "Active surveillance and early antibiosis can improve outcomes as well as ensuring tube patency.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 10
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Prevention of Reexpansion Pulmonary Edema During Drainage",
+      "condition": "Reexpansion pulmonary edema risk with chest drainage",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Most authors recommend reducing expiratory pressures less than -20 cm H2O can prevent this from occurring and stopping chest drainage at signs of chest pressure to reduce the exaggerated negative intrathoracic pressure."
+      ],
+      "decision_points_and_pathways": [
+        "reduce expiratory pressures less than -20 cm H2O",
+        "stop chest drainage at signs of chest pressure"
+      ],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": "monitor for signs of chest pressure",
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 9,
+      "source_excerpt": "reducing expiratory pressures less than -20 cm H2O can prevent this from occurring and stopping chest drainage at signs of chest pressure",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 10
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Postprocedure Pain Control With NSAIDs or Opioids",
+      "condition": "Pain management after chest tube placement",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "For postprocedure pain, nonsteroidal antiinflammatory drugs (NSAIDs) and opioids can be used for pain control."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 8,
+      "source_excerpt": "For postprocedure pain, nonsteroidal antiinflammatory drugs (NSAIDs) and opioids can be used for pain control.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 10
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Analgesia and Nerve Block for Refractory Pain",
+      "condition": "Chest tube-related pain/intercostal neuralgia",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Local anesthetic or in some cases an intercostal nerve block could be used for refractory pain when the tube is still needed."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": "adequate oral regimens",
+      "source_page": 9,
+      "source_excerpt": "Local anesthetic or in some cases an intercostal nerve block could be used for refractory pain when the tube is still needed.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 10
+      },
+      "reference": "[Chapter Text]"
+    }
+  ],
+  "drug_information": [],
+  "tables": [],
+  "figures": [
+    {
+      "figure_id": "Fig. 1",
+      "title": null,
+      "caption": "Fig. 1 Diagram of “safe” triangle: [16]. (See text for details)",
+      "type": "diagram",
+      "key_findings": [
+        "Diagram of “safe” triangle"
+      ],
+      "clinical_significance": null,
+      "source_page": 4,
+      "source_excerpt": "Fig. 1 Diagram of “safe” triangle: [16].",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[16]"
+    },
+    {
+      "figure_id": "Fig. 4",
+      "title": null,
+      "caption": "Fig. 4 Thal-Quick Seldinger chest tube (COOK medical)",
+      "type": null,
+      "key_findings": [],
+      "clinical_significance": null,
+      "source_page": 7,
+      "source_excerpt": "Fig. 4 Thal-Quick Seldinger chest tube (COOK medical)",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 10
+      },
+      "reference": "[Chapter Text]"
+    }
+  ],
+  "clinical_cases": [],
+  "definitions": [
+    {
+      "content": "Most authors deﬁne large bore chest tubes as ≥20 French [3, 4].",
+      "source_page": 2,
+      "source_excerpt": "deﬁne large bore chest tubes as ≥20 French",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "content": "The three-bottle drainage system uses a collection container (Trap Bottle), a water seal chamber, and a pressure regulator (manometer bottle).",
+      "source_page": 7,
+      "source_excerpt": "uses a collection container (Trap Bottle), a water seal chamber, and a pressure regulator (manometer bottle).",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 10
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "term": "pCA",
+      "definition": "pretest probability of cancer",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "IPN",
+      "definition": "indeterminate pulmonary nodule",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "SPN",
+      "definition": "solitary pulmonary nodule",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "VDT",
+      "definition": "volume doubling time",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "FDG",
+      "definition": "fluorodeoxyglucose",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "PET",
+      "definition": "positron emission tomography",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "EBUS",
+      "definition": "endobronchial ultrasound",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "TBNA",
+      "definition": "transbronchial needle aspiration",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "PPV",
+      "definition": "positive predictive value",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "NPV",
+      "definition": "negative predictive value",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "ACCP",
+      "definition": "American College of Chest Physicians",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "BTS",
+      "definition": "British Thoracic Society",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    }
+  ],
+  "clinical_pearls": [
+    {
+      "content": "while small bore chest tubes (<20 F) were no less effective, pain scores were significantly less when compared to larger bore chest tubes [2].",
+      "source_page": 2,
+      "source_excerpt": "small bore chest tubes (<20 F) were no less effective, pain scores were signiﬁcantly less",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[2]"
+    },
+    {
+      "content": "There remains considerable controversy regarding the optimal drainage in the setting of pneumothorax with many practitioners having to rely upon past clinical experience [25] or expert opinion due to the scarcity of evidence.",
+      "source_page": 7,
+      "source_excerpt": "There remains considerable controversy regarding the optimal drainage in the setting of pneumothorax",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 10
+      },
+      "reference": "[25]"
+    }
+  ],
+  "references": [
+    {
+      "citation": "© Springer Nature Switzerland AG 2025 L. Yarmus et al. (eds.), Principles and Practice of Interventional Pulmonology, https://doi.org/10.1007/978-3-031-49583-0_69-1",
+      "authors": [
+        "L. Yarmus et al. (eds.)"
+      ],
+      "year": 2025,
+      "journal": "Principles and Practice of Interventional Pulmonology",
+      "doi_pmid": "https://doi.org/10.1007/978-3-031-49583-0_69-1",
+      "study_type": null,
+      "key_findings": null,
+      "source_page": 1,
+      "source_excerpt": "© Springer Nature Switzerland AG 2025 L. Yarmus et al. (eds.), Principles and Practice of Interventional Pulmonology, https://doi.org/10.1007/978-3-031-49583-0_69-1",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "citation": "McCracken DJ, Psallidas I, Rahman NM. Chest drain size: does it matter? Eurasian J Pulmonol. 2018;20:1.",
+      "authors": [
+        "McCracken DJ",
+        "Psallidas I",
+        "Rahman NM"
+      ],
+      "year": 2018,
+      "journal": "Eurasian J Pulmonol.",
+      "doi_pmid": null,
+      "study_type": null,
+      "key_findings": null,
+      "source_page": 9,
+      "source_excerpt": "McCracken DJ, Psallidas I, Rahman NM. Chest drain size: does it matter? Eurasian J Pulmonol. 2018;20:1.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 10
+      },
+      "reference": "[Chapter Text]"
+    }
+  ],
+  "summary": {
+    "clinical_applications": [],
+    "practice_recommendations": [
+      {
+        "content": "There are several remaining indications for large bore chest tubes including spontaneous pneumothorax on mechanical ventilation with high positive end expiratory pressure (PEEP), bronchopleural ﬁstulas, emergency situations, traumatic chest injuries, some cases of hemothorax, and post-thoracic surgery pneumothorax.",
+        "source_page": 2,
+        "source_excerpt": "remaining indications ... mechanical ventilation with high PEEP ... hemothorax ... post-thoracic surgery pneumothorax.",
+        "present_in_source": true,
+        "page_range": {
+          "start": 1,
+          "end": 6
+        },
+        "reference": "[Chapter Text]"
+      },
+      {
+        "content": "This technique is discouraged [20, 21].",
+        "source_page": 7,
+        "source_excerpt": "This technique is discouraged [20, 21].",
+        "present_in_source": true,
+        "page_range": {
+          "start": 7,
+          "end": 10
+        },
+        "reference": "[Chapter Text]"
+      }
+    ],
+    "future_directions": [],
+    "controversies": []
+  },
+  "extraction_metadata": {
+    "source_pdf": "Textbooks/Chapter pdfs/Large Bore Chest Tubes.pdf",
+    "adobe_json": null,
+    "extraction_date": "2025-08-21T07:55:16.725635+00:00",
+    "text_pages": 10,
+    "chunks_processed": 2,
+    "model": "gpt-5",
+    "extractor_version": "production_multipass_v3.2_gpt5_simple",
+    "enhancements_applied": [
+      "risk_model_separation",
+      "clinical_interpretation_addition",
+      "performance_metric_normalization",
+      "inline_reference_addition",
+      "duplicate_consolidation",
+      "missing_section_extraction"
+    ],
+    "passes_completed": 7,
+    "schema_version": "gold_standard_v1.0",
+    "enhancement_version": "1.0"
+  },
+  "risk_models": [],
+  "guideline_adherence": {
+    "problems_observed": [
+      {
+        "finding": "Guidelines trend toward initial small-bore chest tubes, yet operators may still choose large-bore tubes initially.",
+        "details": "The chapter states that while guidelines may support an initial small-bore approach, clinicians may elect to place a large-bore catheter first for reasons such as larger size, reduced kinking, or preference for a surgical approach.",
+        "reference": "Chapter narrative, Indications/Contraindications; historical recommendation noted for pneumothorax sizing [5]."
+      },
+      {
+        "finding": "Persistence of large-bore use despite evidence of no improved outcomes and increased pain.",
+        "details": "Larger tube size has generally not resulted in better outcomes but has resulted in more pain; in the MIST1 trial registry, small-bore chest tubes (<20 F) were no less effective and had significantly lower pain scores than larger bore tubes.",
+        "reference": "[2] Rahman et al., MIST1 trial registry."
+      }
+    ],
+    "implication": "Align practice with evidence and guideline direction by using small-bore chest tubes as first-line in most cases to reduce pain without compromising efficacy, reserving large-bore tubes for clearly defined scenarios (e.g., traumatic injury/hemothorax, high-PEEP pneumothorax, bronchopleural fistula, emergencies, select post-thoracic surgery pneumothorax)."
+  },
+  "technology_and_technique": [
+    {
+      "topic": "Large vs small-bore chest tubes (comparative effectiveness and safety)",
+      "summary": "Small-bore chest tubes (<20F) were no less effective than large-bore (≥20F) for pleural drainage, with significantly lower pain scores for small-bore devices. Larger tubes generally have not improved outcomes over the past 15–20 years.",
+      "reference": "Rahman et al., MIST 1 trial registry [2]"
+    },
+    {
+      "topic": "Technology enabling small-bore use in empyema",
+      "summary": "Adoption of intrapleural lytics (tPA/DNase), ultrasound guidance, and catheter-flushing techniques has reduced the need for large-bore tubes in empyema without compromising outcomes.",
+      "reference": "Chapter narrative; see [1,2]"
+    },
+    {
+      "topic": "Patient selection for initial large-bore tube placement",
+      "summary": "Consider large-bore chest tubes for: spontaneous pneumothorax on mechanical ventilation with high PEEP, bronchopleural fistula, emergencies, traumatic chest injuries, select hemothorax, and post-thoracic surgery pneumothorax. Many guidelines still support starting with small-bore when feasible.",
+      "reference": "Chapter narrative"
+    },
+    {
+      "topic": "Guideline evolution for pneumothorax tube size",
+      "summary": "Earlier recommendations (e.g., 2001 ACCP) suggested ~20F for pneumothorax; contemporary practice trends toward smaller-bore tubes given comparable effectiveness and less pain.",
+      "reference": "ACCP 2001 guidance [5]; chapter narrative"
+    },
+    {
+      "topic": "Flow physics and clinical implications",
+      "summary": "Fanning (gas) and Hagen-Poiseuille (fluid) principles predict flow increases with radius to the 5th (gas) and 4th (fluid) power, respectively, favoring larger tubes theoretically; however, clinically, larger bore has not translated into better outcomes in most pleural infections/hemothorax scenarios.",
+      "reference": "Chapter narrative; equations cited [1,2]"
+    },
+    {
+      "topic": "Procedural techniques for large-bore insertion",
+      "summary": "Primary approach: surgical/blunt dissection. Less common: Seldinger and trocar methods. Large-bore tubes offer reduced kinking and a surgical approach advantage in select scenarios; no quantitative yield data provided.",
+      "reference": "Chapter narrative"
+    },
+    {
+      "topic": "Safety profile and complications",
+      "summary": "Larger tubes are associated with more pain. Reported complications (no rates provided): malposition/misplacement, injury to surrounding structures, bleeding, subcutaneous emphysema, direct parenchymal injury, wound infection/empyema, re-expansion pulmonary edema, intercostal neuralgia.",
+      "reference": "Chapter narrative; MIST 1 registry pain finding [2]"
+    },
+    {
+      "topic": "Tube sizing and performance considerations",
+      "summary": "Large-bore defined as ≥20F. French scale measures outer diameter (mm = F × 0.333), e.g., 24F ≈ 8 mm. Inner diameter varies by material/manufacturer and affects actual flow; consider when comparing devices.",
+      "reference": "Chapter narrative [3,4]"
+    }
+  ],
+  "conclusion": {
+    "points": [
+      "9\nAbstract\nChest tubes or pleural drains are inserted into the pleural\nspace for the purposes of draining air or ﬂuid",
+      "Historically,\nthe choice of chest tube diameter was based on concerns of\nﬂuid viscosity or generation of adequate airﬂow—where\nlarge bore chest tubes (320 French (F) were used for\ncomplex pleural space infections, hemothorax, and large\nair leak pneumothoraces",
+      "Newer data in the last 15–20\nyears have minimized the indications for large bore chest\ntube"
+    ],
+    "reference": "[Chapter Conclusion]"
+  }
+}

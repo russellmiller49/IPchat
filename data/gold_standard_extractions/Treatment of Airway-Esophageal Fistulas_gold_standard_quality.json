@@ -1,0 +1,27 @@
+{
+  "timestamp": "2025-08-21T02:24:08.739367",
+  "sections_present": [
+    "chapter_metadata",
+    "definitions",
+    "conclusion"
+  ],
+  "sections_missing": [
+    "diagnostic_approaches",
+    "clinical_guidelines",
+    "tables",
+    "references"
+  ],
+  "metrics": {
+    "chapter_metadata_fields": 7,
+    "definitions_count": 12,
+    "comprehensive_definitions": true
+  },
+  "issues": [
+    "Missing required section: diagnostic_approaches",
+    "Missing required section: clinical_guidelines",
+    "Missing required section: tables",
+    "Missing required section: references"
+  ],
+  "score": 0.22727272727272727,
+  "quality_level": "NEEDS_IMPROVEMENT"
+}

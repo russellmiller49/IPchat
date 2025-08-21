@@ -1,0 +1,926 @@
+{
+  "chapter_metadata": {
+    "title": {
+      "value": "Bronchoscopic Transparenchymal Nodule Access",
+      "present_in_source": true
+    },
+    "authors": [],
+    "chapter_number": {
+      "value": null,
+      "present_in_source": false
+    },
+    "learning_objectives": [],
+    "key_points": [],
+    "page_range": {
+      "start": 1,
+      "end": 12
+    }
+  },
+  "anatomical_content": {
+    "structures": []
+  },
+  "clinical_procedures": [],
+  "diagnostic_approaches": [
+    {
+      "name": "Bronchoscopic Transparenchymal Nodule Access (BTPNA)",
+      "purpose": "Minimally invasive approach to diagnosing and treating peripheral pulmonary nodules (PPNs).",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Integrates imaging and precise bronchoscopic navigation to create a direct transparenchymal pathway; guided under fused fluoroscopy; performed under general anesthesia; sheath with blunt stylet for tissue sampling.",
+      "interpretation": "Enhances diagnostic yield while minimizing complications such as pneumothorax compared to TTNA.",
+      "sensitivity": null,
+      "specificity": null,
+      "ppv": null,
+      "npv": null,
+      "limitations": [
+        "Requires specialized skills and equipment",
+        "relatively complex process",
+        "technical challenges for certain lesion locations."
+      ],
+      "when_to_use": "Particularly for nodules without a bronchus sign or not directly accessible via traditional bronchoscopy.",
+      "source_page": 3,
+      "source_excerpt": "providing a high diagnostic yield ranging from 72.8% to 75.4%, regardless of the presence of a bronchus sign [6].",
+      "present_in_source": true,
+      "page_range": "1-6",
+      "performance": {
+        "accuracy": "72.8%–75.4%"
+      }
+    },
+    {
+      "name": "Transthoracic needle aspiration (TTNA)",
+      "purpose": null,
+      "criteria_or_scoring": [],
+      "how_to_perform": null,
+      "interpretation": null,
+      "sensitivity": null,
+      "specificity": null,
+      "ppv": null,
+      "npv": null,
+      "accuracy": null,
+      "limitations": [
+        "Substantial pneumothorax risk of up to 15%."
+      ],
+      "when_to_use": null,
+      "source_page": 3,
+      "source_excerpt": "TTNA, which has a substantial pneumothorax risk of up to 15%,",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "name": "Transbronchial needle aspiration (TBNA)",
+      "purpose": null,
+      "criteria_or_scoring": [],
+      "how_to_perform": null,
+      "interpretation": null,
+      "sensitivity": null,
+      "specificity": null,
+      "ppv": null,
+      "npv": null,
+      "limitations": null,
+      "when_to_use": null,
+      "source_page": 3,
+      "source_excerpt": "transbronchial needle aspiration and transbronchial biopsy, which have diagnostic yields of 59.1% and 22.6%, respectively,",
+      "present_in_source": true,
+      "page_range": "1-6",
+      "performance": {
+        "accuracy": {
+          "value": 0.591,
+          "unit": "proportion"
+        }
+      }
+    },
+    {
+      "name": "Transbronchial biopsy",
+      "purpose": null,
+      "criteria_or_scoring": [],
+      "how_to_perform": null,
+      "interpretation": null,
+      "sensitivity": null,
+      "specificity": null,
+      "ppv": null,
+      "npv": null,
+      "limitations": null,
+      "when_to_use": null,
+      "source_page": 3,
+      "source_excerpt": "transbronchial needle aspiration and transbronchial biopsy, which have diagnostic yields of 59.1% and 22.6%, respectively,",
+      "present_in_source": true,
+      "page_range": "1-6",
+      "performance": {
+        "accuracy": {
+          "value": 0.226,
+          "unit": "proportion"
+        }
+      }
+    },
+    {
+      "name": "Guided transbronchial needle aspiration (guided TBNA)",
+      "purpose": null,
+      "criteria_or_scoring": [],
+      "how_to_perform": null,
+      "interpretation": null,
+      "sensitivity": null,
+      "specificity": null,
+      "ppv": null,
+      "npv": null,
+      "limitations": null,
+      "when_to_use": null,
+      "source_page": 3,
+      "source_excerpt": "It boasts a biopsy yield of 86.3%, significantly outperforming guided TBNA, which only achieved a 67.2% yield [7].",
+      "present_in_source": true,
+      "page_range": "1-6",
+      "performance": {
+        "accuracy": {
+          "value": 0.672,
+          "unit": "proportion"
+        }
+      }
+    },
+    {
+      "name": "VBN-guided bronchoscopic localization using liquid dyes",
+      "purpose": "Localization/positioning of pulmonary nodules to facilitate surgical resection.",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Uses liquid dyes such as methylene blue, medical glue, indocyanine green, and lipiodol for positioning.",
+      "interpretation": "Provides clear visibility during surgery to aid resection.",
+      "sensitivity": null,
+      "specificity": null,
+      "ppv": null,
+      "npv": null,
+      "limitations": [
+        "Potential for diffusion after injection leading to imprecise localization."
+      ],
+      "when_to_use": "For localizing peripheral pulmonary nodules preoperatively.",
+      "source_page": 3,
+      "source_excerpt": "VBN-guided bronchoscopic localization using liquid dyes achieves success rates between 85% and 96% [8, 9],",
+      "present_in_source": true,
+      "page_range": "1-6",
+      "performance": {
+        "accuracy": "85%–96% success"
+      }
+    },
+    {
+      "name": "VBN-guided placement of spring coils",
+      "purpose": "Localization of lung nodules for surgery.",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Placement of spring coils under VBN guidance; position confirmable by X-ray.",
+      "interpretation": "High localization success rate.",
+      "sensitivity": null,
+      "specificity": null,
+      "ppv": null,
+      "npv": null,
+      "limitations": null,
+      "when_to_use": "When durable localization is needed to reduce displacement risk.",
+      "source_page": 3,
+      "source_excerpt": "VBN-guided placement of spring coils has a success rate of 98.4% [10].",
+      "present_in_source": true,
+      "page_range": "1-6",
+      "performance": {
+        "accuracy": "98.4% success"
+      }
+    },
+    {
+      "name": "Archimedes Virtual Bronchoscopy Navigation System",
+      "purpose": "Plan BTPNA by identifying optimal airway entry and avascular path to the nodule.",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Reconstructs CT into a 3D model of airways, vessels, and lung; maps POE and safe pathway.",
+      "interpretation": null,
+      "sensitivity": null,
+      "specificity": null,
+      "ppv": null,
+      "npv": null,
+      "accuracy": null,
+      "limitations": null,
+      "when_to_use": "Planning and execution of BTPNA.",
+      "source_page": 2,
+      "source_excerpt": "enabling the identification of an optimal point of entry (POE) on the airway wall and an avascular path through the lung tissue to the PPNs.",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "name": "Fused fluoroscopy",
+      "purpose": "Real-time image guidance by overlaying CT-based navigation onto fluoroscopy during procedures.",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Combines live fluoroscopic imaging with preoperative CT data to overlay the virtual navigation pathway.",
+      "interpretation": "Enhances accuracy of instrument placement and identification of critical structures.",
+      "sensitivity": null,
+      "specificity": null,
+      "ppv": null,
+      "npv": null,
+      "accuracy": null,
+      "limitations": null,
+      "when_to_use": "Intra-procedural guidance during BTPNA.",
+      "source_page": 6,
+      "source_excerpt": "Fused fluoroscopy, in particular, combines live fluoroscopic imaging with preoperative CT data, enabling the operator to overlay the virtual bronchoscopic navigation pathway onto the fluoroscopic image.",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "name": "Electromagnetic navigation bronchoscopy (ENB)",
+      "purpose": "Enhances the ability to locate and biopsy otherwise inaccessible nodules.",
+      "criteria_or_scoring": [],
+      "how_to_perform": null,
+      "interpretation": null,
+      "sensitivity": null,
+      "specificity": null,
+      "ppv": null,
+      "npv": null,
+      "accuracy": null,
+      "limitations": null,
+      "when_to_use": "As a navigation method for peripheral nodules.",
+      "source_page": 2,
+      "source_excerpt": "such as VBN and electromagnetic navigation bronchoscopy (ENB), laid the foundation for BTPNA by enhancing the ability to locate and biopsy nodules",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "name": "Bronchoscopic Transparenchymal Nodule Access (BTPNA)",
+      "purpose": "Enable targeted biopsies of peripheral pulmonary nodules (PPNs).",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Plan with high-resolution CT and navigation software; navigate to POE; puncture airway wall; dilate with balloon; advance sheath under fluoroscopy/navigation; perform biopsy via sheath.",
+      "interpretation": "Tissue obtained is used for histopathological analysis; multiple sampling techniques maximize representative sample; high diagnostic yield (especially without bronchus sign).",
+      "sensitivity": null,
+      "specificity": null,
+      "ppv": null,
+      "npv": null,
+      "accuracy": null,
+      "limitations": [
+        "Technical complexity requiring specialized skills",
+        "anatomical challenges (e.g.",
+        "apex of left upper lobe)",
+        "reliance on expensive equipment",
+        "exposure to X-rays."
+      ],
+      "when_to_use": "When targeted biopsy of PPNs is needed.",
+      "source_page": 8,
+      "source_excerpt": "The BTPNA procedure is a complex and meticulously planned operation designed to enable targeted biopsies of PPNs.",
+      "present_in_source": true,
+      "page_range": "7-12"
+    },
+    {
+      "name": "Preprocedural Vascular Mapping",
+      "purpose": "Identify critical vessels adjacent to the target lesion.",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Use CT imaging to map vessels near the lesion before the procedure.",
+      "interpretation": "Determines vessel proximity to guide an avascular access path.",
+      "sensitivity": null,
+      "specificity": null,
+      "ppv": null,
+      "npv": null,
+      "accuracy": null,
+      "limitations": null,
+      "when_to_use": "During preprocedural planning.",
+      "source_page": 9,
+      "source_excerpt": "Preprocedural Vascular Mapping Identification of critical vessels adjacent to the target lesion based on CT imaging.",
+      "present_in_source": true,
+      "page_range": "7-12"
+    },
+    {
+      "name": "CT-based 3D Navigation Planning",
+      "purpose": "Reconstruct anatomy to select POE and an avascular path to the nodule.",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Obtain high-resolution CT; process with navigation software (e.g., Archimedes) to build a 3D model and plan an avascular path.",
+      "interpretation": "Provides a calculated, avascular pathway from POE to the nodule.",
+      "sensitivity": null,
+      "specificity": null,
+      "ppv": null,
+      "npv": null,
+      "accuracy": null,
+      "limitations": null,
+      "when_to_use": "Preprocedural planning before BTPNA.",
+      "source_page": 8,
+      "source_excerpt": "The CT data are then processed using advanced navigation software, like the Archimedes system, which reconstructs the imaging into a comprehensive three-dimensional model.",
+      "present_in_source": true,
+      "page_range": "7-12"
+    },
+    {
+      "name": "Real-time fluoroscopic or navigation guidance during sheath advancement",
+      "purpose": "Maintain correct pathway and reach the nodule without deviation.",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Advance sheath using real-time fluoroscopy or the navigation system.",
+      "interpretation": "Ensures on-course trajectory to the target nodule.",
+      "sensitivity": null,
+      "specificity": null,
+      "ppv": null,
+      "npv": null,
+      "accuracy": null,
+      "limitations": null,
+      "when_to_use": "During pathway creation and sheath advancement.",
+      "source_page": 10,
+      "source_excerpt": "using real-time guidance from fluoroscopy or the navigation system. This ensures that the pathway remains on course",
+      "present_in_source": true,
+      "page_range": "7-12"
+    },
+    {
+      "name": "Fused fluoroscopy for lesion targeting",
+      "purpose": "Confirm sheath position and guide biopsy at the lesion.",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Use fused fluoroscopy to confirm sheath location and perform biopsy.",
+      "interpretation": "Verification of correct sheath placement prior to sampling; fluoroscopic guidance during biopsy.",
+      "sensitivity": null,
+      "specificity": null,
+      "ppv": null,
+      "npv": null,
+      "accuracy": null,
+      "limitations": null,
+      "when_to_use": "After sheath placement and during biopsy.",
+      "source_page": 10,
+      "source_excerpt": "confirmation of sheath position at the lesion under fused fluoroscopy, and (e) biopsy of the lesion under fused fluoroscopy guidance",
+      "present_in_source": true,
+      "page_range": "7-12"
+    },
+    {
+      "name": "Forceps biopsy through BTPNA sheath",
+      "purpose": "Obtain solid tissue samples from the nodule.",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Introduce standard bronchoscopic biopsy forceps through the sheath to grasp and remove solid tissue.",
+      "interpretation": "Provides solid tissue for histopathological analysis; part of multimodal sampling to maximize representativeness.",
+      "sensitivity": null,
+      "specificity": null,
+      "ppv": null,
+      "npv": null,
+      "accuracy": null,
+      "limitations": null,
+      "when_to_use": "When solid tissue sampling is required during BTPNA.",
+      "source_page": 11,
+      "source_excerpt": "Forceps biopsy is used to grasp and remove solid tissue, while brush biopsy collects surface cells for examination.",
+      "present_in_source": true,
+      "page_range": "7-12"
+    },
+    {
+      "name": "Brush biopsy through BTPNA sheath",
+      "purpose": "Collect surface cells from the lesion.",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Introduce a brush through the sheath to collect surface cells.",
+      "interpretation": "Cellular sampling complements forceps biopsy to improve representativeness.",
+      "sensitivity": null,
+      "specificity": null,
+      "ppv": null,
+      "npv": null,
+      "accuracy": null,
+      "limitations": null,
+      "when_to_use": "When cytologic surface sampling is needed during BTPNA.",
+      "source_page": 11,
+      "source_excerpt": "brush biopsy collects surface cells for examination.",
+      "present_in_source": true,
+      "page_range": "7-12"
+    },
+    {
+      "name": "Needle aspiration through BTPNA sheath",
+      "purpose": "Draw fluid or small tissue samples from the lesion.",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Use a needle via the sheath to aspirate fluid or small tissue into a syringe.",
+      "interpretation": "Complements forceps and brush biopsies to increase likelihood of representative sampling.",
+      "sensitivity": null,
+      "specificity": null,
+      "ppv": null,
+      "npv": null,
+      "accuracy": null,
+      "limitations": null,
+      "when_to_use": "When fluid or fine tissue aspiration is indicated during BTPNA.",
+      "source_page": 11,
+      "source_excerpt": "Needle aspiration might also be used to draw fluid or small tissue samples into a syringe.",
+      "present_in_source": true,
+      "page_range": "7-12"
+    }
+  ],
+  "treatment_algorithms": [
+    {
+      "title": "BTPNA surgical procedure algorithm (planning, pathway setup, sampling)",
+      "condition": "Peripheral pulmonary nodules (PPNs) targeted with BTPNA",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Initially, high-resolution CT scans of the patient’s chest are obtained.",
+        "The CT data are then processed using advanced navigation software ... which reconstructs the imaging into a comprehensive three-dimensional model.",
+        "The software’s ability to identify an avascular path from the POE to the nodule is crucial.",
+        "The patient is placed under general anesthesia to ensure comfort and immobility during the procedure.",
+        "A coring needle is then used to puncture the airway wall, creating the initial opening for the tunnel.",
+        "This opening is enlarged by the insertion of a balloon catheter, which is inflated to dilate the puncture site.",
+        "A sheath equipped with a blunt dissection stylet is carefully advanced through the lung parenchyma, using real-time guidance from fluoroscopy or the navigation system.",
+        "Through this sheath, various biopsy tools, such as forceps and brushes, are introduced to collect tissue samples from the nodule."
+      ],
+      "decision_points_and_pathways": [
+        "(a) Puncture at the POE guided by navigation",
+        "(b) Balloon catheter used to dilate the tunnel",
+        "(c) Placement of the sheath",
+        "(d) Confirmation of sheath position at the lesion under fused fluoroscopy",
+        "(e) Biopsy of the lesion under fused fluoroscopy guidance"
+      ],
+      "patient_population_criteria": "The BTPNA procedure is a complex and meticulously planned operation designed to enable targeted biopsies of PPNs.",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": [
+        "Using real-time guidance from fluoroscopy or the navigation system"
+      ],
+      "outcome_measures": [],
+      "alternative_approaches": [],
+      "source_page": 10,
+      "source_excerpt": "BTPNA surgical procedure: (a) Puncture at the POE guided by navigation, (b) balloon catheter used to dilate the tunnel, (c) placement of the sheath",
+      "present_in_source": true,
+      "page_range": "7-12"
+    }
+  ],
+  "clinical_guidelines": [
+    {
+      "title": "Indications: Peripheral Pulmonary Nodule Biopsy",
+      "condition": "Peripheral pulmonary nodules (PPNs)",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "The primary clinical application of BTPNA lies in the diag- nosis of PPNs",
+        "integration of BTPNA with the Archimedes navigation system has yielded remarkable results, providing a high diagnostic yield ranging from 72.8% to 75.4%, regardless of the presence of a bron- chus sign",
+        "BTPNA has shown even greater efficacy for lesions without a bronchus sign that are not directly accessible via traditional bronchoscopy, achieving diagnostic yields between 71.4% and 74.1%",
+        "When com- pared to other bronchoscopic techniques, such as trans- bronchial needle aspiration and transbronchial biopsy, which have diagnostic yields of 59.1% and 22.6%, respec- tively, BTPNA has proven to be superior. It boasts a biopsy yield of 86.3%, significantly outperforming guided TBNA, which only achieved a 67.2% yield",
+        "In contrast to TTNA, which has a substantial pneumothorax risk of up to 15%, BTPNA’s bronchoscopic approach signif- icantly reduces this risk"
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": "PPNs; lesions without a bronchus sign",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": [
+        "diagnostic yield ranging from 72.8% to 75.4%",
+        "diagnostic yields between 71.4% and 74.1% for lesions without a bronchus sign",
+        "guided TBNA 67.2% vs BTPNA biopsy yield 86.3%",
+        "TTNA pneumothorax risk of up to 15%"
+      ],
+      "alternative_approaches": [
+        "transthoracic needle aspiration (TTNA)",
+        "trans- bronchial needle aspiration and transbronchial biopsy",
+        "guided TBNA"
+      ],
+      "source_page": 3,
+      "source_excerpt": "providing a high diagnostic yield ranging from 72.8% to 75.4%, regardless of the presence of a bron- chus sign",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "title": "Localization of Peripheral Pulmonary Nodules",
+      "condition": "Peripheral pulmonary nodule localization",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "there are currently no published reports specif- ically detailing the use of BTPNA for the localization of PPNs, this innovative technique has already been implemented in clinical practice for this purpose",
+        "VBN-guided bronchoscopic localization using liquid dyes achieves success rates between 85% and 96%",
+        "VBN-guided placement of spring coils has a success rate of 98.4%",
+        "liquid dyes such as methylene blue, medical glue, indocyanine green, and lipiodol are commonly used for positioning",
+        "Metal markers, though less commonly used for lung nodule localization, offer the benefit of remaining in place for extended periods, reducing the likelihood of displacement"
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": "PPNs",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": [
+        "success rates between 85% and 96% (liquid dyes, VBN-guided)",
+        "success rate of 98.4% (spring coils, VBN-guided)"
+      ],
+      "alternative_approaches": [
+        "VBN-guided bronchoscopic localization using liquid dyes",
+        "VBN-guided placement of spring coils",
+        "Metal markers"
+      ],
+      "source_page": 3,
+      "source_excerpt": "there are currently no published reports specif- ically detailing the use of BTPNA for the localization of PPNs, this innovative technique has already been implemented in clinical practice",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "title": "Therapeutic Application: Peripheral Pulmonary Nodule Ablation",
+      "condition": "Peripheral pulmonary nodules (treatment)",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Ablation techniques such as radiofrequency ablation (RFA), microwave ablation, or cryoablation can be deployed through the sheath",
+        "BTPNA-guided RFA was uti- lized to treat simulated pulmonary nodules in canines, dem- onstrating both feasibility and safety",
+        "transient inflammation and congestion, which resolved within a week, leading to the development of fibrotic scar tissue by 30 days",
+        "no long-term complications were observed"
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": "patients who are poor candidates for surgical resection",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": [
+        "resolved within a week",
+        "ﬁbrotic scar tissue by 30 days",
+        "no long-term complications"
+      ],
+      "alternative_approaches": [],
+      "source_page": 3,
+      "source_excerpt": "Ablation techniques such as radiofrequency ablation (RFA), microwave ablation, or cryoablation can be deployed through the sheath",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "title": "Therapeutic Application: Recanalization of Tracheal or Bronchial Obstructions",
+      "condition": "Tracheal or bronchial obstructions",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "BTPNA also holds potential value in guiding the recanaliza- tion of tracheal or bronchial obstructions",
+        "By creating a tunnel in the bronchial wall, BTPNA allows for the strategic deployment of instruments for sampling or treatment",
+        "the combined use of YAG laser, cryotherapy, and balloon dilation, followed by the implanta- tion of a silicone stent, led to the successful recanalization of the occluded left main bronchus and the recovery of left atelectasis"
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": [
+        "successful recanalization of the occluded left main bronchus",
+        "recovery of left atelectasis"
+      ],
+      "alternative_approaches": [],
+      "source_page": 4,
+      "source_excerpt": "led to the successful recanalization of the occluded left main bronchus and the recovery of left atelectasis",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "title": "Contraindications for BTPNA",
+      "condition": "BTPNA candidacy and risk minimization",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "patients who are not suitable candidates for routine bronchos- copy or general anesthesia",
+        "Patients with severe cardiovascular disease, advanced chronic obstructive pulmonary disease, or other significant comorbidities",
+        "patients with a bleeding tendency whether due to coagulopathy, use of anticoagulant or antiplatelet medications, or thrombocytopenia",
+        "Vascular wrapping, where the nodule or the pathway is encircled by significant blood vessels",
+        "proximity to critical struc- tures such as the heart, major arteries, or the esophagus",
+        "Patients with advanced pulmonary conditions, such as severe emphysema, bullae, mediastinal emphysema, or a history of pneumothorax",
+        "Lesions located at the apex of the lung are particularly problematic due to the steep angles required to reach these areas",
+        "lesions that are surrounded by blood vessels or located in regions where there is a significant angle between the bronchial tract and the lesion"
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": [],
+      "alternative_approaches": [
+        "alternative diagnostic or therapeutic approaches should be considered"
+      ],
+      "source_page": 5,
+      "source_excerpt": "Patients with advanced pulmonary conditions, such as severe emphysema, bullae, mediastinal emphysema, or a history of pneumothorax",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "title": "Principle and Procedural Pathway Identification for BTPNA",
+      "condition": "Accessing PPNs via bronchoscopic transparenchymal pathway",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "identify the optimal point of entry (POE) on the airway wall and an avascular path through the lung tissue to the PPNs",
+        "a catheter- based tool is guided through a preplanned tunnel from the POE to the nodule under fused fluoroscopy guidance",
+        "The procedure is conducted under general anesthesia and muscle paralysis",
+        "A sheath with a blunt dissection stylet is advanced through the lung paren- chyma to the lesion",
+        "overlay the virtual bronchoscopic navigation pathway onto the fluoroscopic image"
+      ],
+      "decision_points_and_pathways": [
+        "identify the optimal POE and chart a safe, avascular path to the pulmonary nodule",
+        "use fused ﬂuoroscopy to overlay the planned navigation pathway during instrument advancement",
+        "advance a sheath with a blunt dissection stylet through lung parenchyma to the lesion"
+      ],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": [
+        "signiﬁcantly enhance diagnostic yield while mini- mizing complications such as pneumothorax"
+      ],
+      "alternative_approaches": [],
+      "source_page": 2,
+      "source_excerpt": "identify the optimal point of entry (POE) on the airway wall and an avascular path through the lung tissue to the PPNs",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "title": "Equipment compatibility: bronchoscope channel when using only FleXNeedle and balloon catheter",
+      "condition": "Bronchoscopic Transparenchymal Nodule Access (BTPNA) procedure",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "When the procedure involves only the FleXNeedle and balloon catheter, a bronchoscope with a working channel diameter of at least 2.0 mm is sufficient."
+      ],
+      "decision_points_and_pathways": [
+        "If using only FleXNeedle and balloon catheter: working channel diameter ≥2.0 mm"
+      ],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": [],
+      "outcome_measures": [],
+      "alternative_approaches": [],
+      "source_page": 8,
+      "source_excerpt": "When the procedure involves only the FleXNeedle and balloon catheter, a bronchoscope with a working channel diameter of at least 2.0 mm is sufficient.",
+      "present_in_source": true,
+      "page_range": "7-12"
+    },
+    {
+      "title": "Equipment compatibility: bronchoscope channel when using sheath with FleXNeedle and balloon catheter",
+      "condition": "Bronchoscopic Transparenchymal Nodule Access (BTPNA) procedure",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "When the procedure requires the use of a sheath in conjunction with the FleXNeedle and balloon catheter, the working channel diameter of bronchoscope at least 2.8 mm is necessary to accommodate the larger instruments."
+      ],
+      "decision_points_and_pathways": [
+        "If using sheath with FleXNeedle and balloon catheter: working channel diameter ≥2.8 mm"
+      ],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": [],
+      "outcome_measures": [],
+      "alternative_approaches": [],
+      "source_page": 8,
+      "source_excerpt": "when the procedure requires the use of a sheath in conjunction with the FleXNeedle and balloon catheter, the working channel diameter of bronchoscope at least 2.8 mm is necessary",
+      "present_in_source": true,
+      "page_range": "7-12"
+    },
+    {
+      "title": "Complications management in BTPNA",
+      "condition": "BTPNA-related complications (pneumothorax, hemorrhage, infection, bronchial injury)",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Minor cases of pneumothorax are often managed conservatively, with close monitoring through chest X-rays.",
+        "In more severe cases of pneumothorax, the insertion of a chest tube may be required to evacuate the air and reexpand the lung.",
+        "Minor bleeding can often be controlled with local pressure or the application of hemostatic agents.",
+        "If a major blood vessel is inadvertently injured, it may lead to severe hemorrhage, requiring more aggressive interventions, such as vascular intervention or even surgical repair.",
+        "Adhering to strict aseptic techniques during the procedure.",
+        "Use of broad-spectrum antibiotics before and after the procedure can help prevent or treat infections.",
+        "Bronchial injury prevention: precise procedural techniques, including careful navigation and controlled advancement of instruments.",
+        "Bronchial injury management: conservative observation or surgical intervention if more severe."
+      ],
+      "decision_points_and_pathways": [
+        "Pneumothorax: minor (monitor with chest X-rays) vs severe (insert chest tube).",
+        "Hemorrhage: minor (local pressure/hemostatic agents) vs major vessel injury (vascular intervention or surgical repair).",
+        "Bronchial injury: minor (close observation) vs more severe (surgical intervention)."
+      ],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": [
+        "Close monitoring through chest X-rays for minor pneumothorax",
+        "Careful postprocedural monitoring for signs of infection"
+      ],
+      "outcome_measures": [],
+      "alternative_approaches": [],
+      "source_page": 11,
+      "source_excerpt": "Minor cases of pneumothorax are often managed conservatively, with close monitoring through chest X-rays.",
+      "present_in_source": true,
+      "page_range": "7-12"
+    },
+    {
+      "title": "Prevention strategies to minimize risks during BTPNA",
+      "condition": "BTPNA procedure risk prevention",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Comprehensive preprocedural planning, utilizing high-resolution CT scans and advanced navigation systems, is foundational for charting a precise, avascular pathway that avoids critical structures.",
+        "The expertise of the operator is equally crucial ... this proficiency significantly decreases the likelihood of procedural complications and enhances overall safety.",
+        "Selection of appropriate tools, such as the FleXNeedle for precise airway puncture and balloon catheters for safe dilation.",
+        "Continuous real-time monitoring during the procedure, using fluoroscopy and navigation systems."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": [
+        "Continuous real-time monitoring during the procedure, using fluoroscopy and navigation systems"
+      ],
+      "outcome_measures": [],
+      "alternative_approaches": [],
+      "source_page": 11,
+      "source_excerpt": "Continuous real-time monitoring during the procedure, using fluoroscopy and navigation systems, allows for the early detection of any deviations, enabling immediate corrective actions",
+      "present_in_source": true,
+      "page_range": "7-12"
+    }
+  ],
+  "drug_information": [],
+  "tables": [],
+  "figures": [
+    {
+      "figure_id": "Fig. 1",
+      "title": null,
+      "caption": "Fig. 1 Overview of the BTPNA operating room and associated equipment",
+      "type": null,
+      "key_findings": [],
+      "clinical_significance": null,
+      "source_page": 6,
+      "source_excerpt": "Fig. 1 Overview of the BTPNA operating room and associated equipment",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "figure_id": "Fig. 2",
+      "title": null,
+      "caption": "Fig. 2 Instruments for BTPNA. (a) FleXNeedle, (b) balloon catheter, (c) sheath with blunt dissection stylet. (These images are provided by the Hangzhou Broncus Medical Co., Ltd., and are used with permission)",
+      "type": null,
+      "key_findings": [
+        "FleXNeedle",
+        "balloon catheter",
+        "sheath with blunt dissection stylet"
+      ],
+      "clinical_significance": null,
+      "source_page": 7,
+      "source_excerpt": "Fig. 2 Instruments for BTPNA. (a) FleXNeedle, (b) balloon catheter, (c) sheath with blunt dissection stylet.",
+      "present_in_source": true,
+      "page_range": "7-12"
+    }
+  ],
+  "clinical_cases": [
+    {
+      "content": "The method, as detailed in a case report involving a 32-year-old female with pulmonary tuberculosis, leverages advanced navigation systems like the Archimedes System to create a three- dimensional model from CT scan data, facilitating precise guidance during the procedure. In this particular case, the combined use of YAG laser, cryotherapy, and balloon dilation, followed by the implantation of a silicone stent, led to the successful recanalization of the occluded left main bronchus and the recovery of left atelectasis.",
+      "source_page": 4,
+      "source_excerpt": "a case report involving a 32-year-old female with pulmonary tuberculosis",
+      "present_in_source": true,
+      "page_range": "1-6"
+    }
+  ],
+  "definitions": [
+    {
+      "content": "Bronchoscopic Transparenchymal Nodule Access (BTPNA) represents a significant advancement in the field of interventional pulmonology, offering a novel approach to the diagnosis and treatment of peripheral pulmonary nodules (PPNs).",
+      "source_page": 2,
+      "source_excerpt": "Bronchoscopic Transparenchymal Nodule Access (BTPNA) represents a signiﬁcant advancement in the ﬁeld of interven- tional pulmonology, offering a novel approach to the diagno- sis and treatment of peripheral pulmonary nodules (PPNs).",
+      "present_in_source": true,
+      "page_range": "1-6",
+      "_errors": [
+        "source_excerpt_too_long"
+      ]
+    },
+    {
+      "content": "The procedure begins with the use of the FleXNeedle, an 18-gauge needle with an outer diameter of 1.91 mm.",
+      "source_page": 7,
+      "source_excerpt": "an 18-gauge needle with an outer diameter of 1.91 mm.",
+      "present_in_source": true,
+      "page_range": "7-12"
+    },
+    {
+      "term": "pCA",
+      "definition": "pretest probability of cancer",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "IPN",
+      "definition": "indeterminate pulmonary nodule",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "SPN",
+      "definition": "solitary pulmonary nodule",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "VDT",
+      "definition": "volume doubling time",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "FDG",
+      "definition": "fluorodeoxyglucose",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "PET",
+      "definition": "positron emission tomography",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "EBUS",
+      "definition": "endobronchial ultrasound",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "TBNA",
+      "definition": "transbronchial needle aspiration",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "PPV",
+      "definition": "positive predictive value",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "NPV",
+      "definition": "negative predictive value",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "ACCP",
+      "definition": "American College of Chest Physicians",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "BTS",
+      "definition": "British Thoracic Society",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    }
+  ],
+  "clinical_pearls": [
+    {
+      "content": "This method has demonstrated high diagnostic yields, particularly in nodules that lack a bronchus sign, and significantly reduces complications like pneumothorax.",
+      "source_page": 2,
+      "source_excerpt": "demonstrated high diagnostic yields, particu- larly in nodules that lack a bronchus sign, and signiﬁcantly reduces complications like pneumothorax.",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "content": "When the procedure involves only the FleXNeedle and balloon catheter, a bronchoscope with a working channel diameter of at least 2.0 mm is sufficient.",
+      "source_page": 8,
+      "source_excerpt": "a bronchoscope with a working channel diameter of at least 2.0 mm is sufficient.",
+      "present_in_source": true,
+      "page_range": "7-12"
+    }
+  ],
+  "references": [
+    {
+      "citation": "[1]",
+      "authors": [
+        "Felix Herth"
+      ],
+      "year": 2015,
+      "journal": null,
+      "doi_pmid": null,
+      "study_type": "clinical application",
+      "key_findings": "published the first clinical application of BTPNA for diagnosing pulmonary nodules in humans",
+      "source_page": 2,
+      "source_excerpt": "In 2015, Dr. Felix Herth from the University of Heidelber published the first clinical application of BTPNA for diagnosing pulmonary nodules in humans, marking a significant milestone in its development [1].",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "citation": "Herth FJ, Eberhardt R, Sterman D, Silvestri GA, Hoffmann H, Shah PL. Bronchoscopic transparenchymal nodule access (BTPNA): ﬁrst in human trial of a novel procedure for sampling solitary pulmonary nodules. Thorax. 2015;70(4):326–32.",
+      "authors": [
+        "Herth FJ",
+        "Eberhardt R",
+        "Sterman D",
+        "Silvestri GA",
+        "Hoffmann H",
+        "Shah PL"
+      ],
+      "year": 2015,
+      "journal": "Thorax",
+      "doi_pmid": null,
+      "study_type": "ﬁrst in human trial",
+      "key_findings": null,
+      "source_page": 12,
+      "source_excerpt": "Bronchoscopic transparenchymal nodule access (BTPNA): ﬁrst in human trial of a novel procedure for sampling solitary pulmonary nodules. Thorax. 2015;70(4):326–32.",
+      "present_in_source": true,
+      "page_range": "7-12"
+    }
+  ],
+  "summary": {
+    "clinical_applications": [],
+    "practice_recommendations": [
+      {
+        "content": "CT imaging is crucial in the preoperative planning of BTPNA, as it provides detailed anatomical information that can identify potential risks associated with the planned pathway.",
+        "source_page": 5,
+        "source_excerpt": "CT imaging is crucial in the preoperative planning of BTPNA",
+        "present_in_source": true,
+        "page_range": "1-6"
+      },
+      {
+        "content": "Comprehensive preprocedural planning, utilizing high-resolution CT scans and advanced navigation systems, is foundational for charting a precise, avascular pathway that avoids critical structures, thereby reducing the risk of complications such as hemorrhage.",
+        "source_page": 11,
+        "source_excerpt": "Comprehensive preprocedural planning, utilizing high-resolution CT scans and advanced navigation systems",
+        "present_in_source": true,
+        "page_range": "7-12"
+      }
+    ],
+    "future_directions": [],
+    "controversies": []
+  },
+  "extraction_metadata": {
+    "source_pdf": "Textbooks\\Chapter pdfs\\Bronchoscopic Transparenchymal Nodule Access.pdf",
+    "adobe_json": null,
+    "extraction_date": "2025-08-21T04:26:11.060501+00:00",
+    "text_pages": 12,
+    "chunks_processed": 2,
+    "model": "gpt-5",
+    "extractor_version": "production_multipass_v3.2_gpt5_simple",
+    "enhancements_applied": [
+      "ocr_cleanup",
+      "type_normalization",
+      "criteria_tokenization",
+      "guideline_deduplication",
+      "page_range_normalization",
+      "performance_metric_structuring",
+      "definition_enrichment"
+    ],
+    "passes_completed": 7
+  }
+}

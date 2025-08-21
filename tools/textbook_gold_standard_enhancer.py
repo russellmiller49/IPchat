@@ -93,11 +93,11 @@ class TextbookGoldStandardEnhancer:
         
         try:
             if use_responses:
-                # GPT-5 via Responses API
+                # GPT-5 via Responses API — enforce JSON via instructions, not response_format
+                combined = f"{system}\n\n{user}\n\nReturn one valid JSON object only. No prose outside the JSON."
                 resp = self.client.responses.create(
                     model=model,
-                    input=f"{system}\n\n{user}",
-                    response_format={"type": "json_object"}
+                    input=combined
                 )
                 content = getattr(resp, "output_text", None) or str(resp)
             else:
@@ -141,7 +141,8 @@ class TextbookGoldStandardEnhancer:
         if self.config.verbose:
             print("🚀 Starting gold-standard enhancement...")
         
-        # Start with copy of input
+        # Start with deep copies of input for safety and reference
+        original = json.loads(json.dumps(input_json))
         enhanced = json.loads(json.dumps(input_json))
         
         # Step 1: Separate risk models from diagnostic approaches
@@ -156,9 +157,12 @@ class TextbookGoldStandardEnhancer:
         if self.config.add_clinical_interpretation:
             enhanced = self._add_clinical_interpretations(enhanced, source_text)
         
-        # Step 4: Normalize performance metrics
+        # Step 4: Normalize performance metrics and move numeric fields into a unified
+        #         "performance" object with proportion units
         if self.config.normalize_performance_metrics:
             enhanced = self._normalize_performance_metrics(enhanced)
+            enhanced = self._move_metrics_into_performance(enhanced)
+            enhanced = self._fill_performance_from_text(enhanced)
         
         # Step 5: Add inline references
         if self.config.add_inline_references:
@@ -170,14 +174,225 @@ class TextbookGoldStandardEnhancer:
         
         # Step 7: Structure clinical pearls and cases
         enhanced = self._structure_clinical_content(enhanced)
-        
-        # Step 8: Add extraction metadata
+
+        # Step 8: Post-normalization cleanup and integrity checks
+        enhanced = self._ensure_chapter_metadata_integrity(original, enhanced)
+        enhanced = self._normalize_page_ranges(enhanced)
+        enhanced = self._fix_risk_model_references(enhanced)
+        enhanced = self._standardize_definitions(enhanced)
+        enhanced = self._populate_guideline_orgs(enhanced)
+        enhanced = self._enforce_source_excerpt_requirement(enhanced)
+        enhanced = self._normalize_paths(enhanced)
+        # Avoid stray top-level reference field
+        if isinstance(enhanced, dict) and 'reference' in enhanced:
+            enhanced.pop('reference', None)
+
+        # Step 9: Add extraction metadata
         enhanced = self._add_metadata(enhanced)
         
         if self.config.verbose:
             print("✅ Enhancement complete!")
         
         return enhanced
+
+    # ---------- Integrity and normalization helpers ----------
+
+    def _ensure_chapter_metadata_integrity(self, original: Dict, enhanced: Dict) -> Dict:
+        """Ensure authors/title not dropped; restore from original if missing."""
+        try:
+            emd = enhanced.setdefault('chapter_metadata', {})
+            omd = original.get('chapter_metadata', {})
+            # Restore authors if dropped or empty
+            if not emd.get('authors') and omd.get('authors'):
+                emd['authors'] = omd['authors']
+        except Exception:
+            pass
+        # Clean conclusion points
+        if isinstance(enhanced.get('conclusion'), dict):
+            points = enhanced['conclusion'].get('points')
+            if isinstance(points, list):
+                cleaned = []
+                for p in points:
+                    if not isinstance(p, str):
+                        continue
+                    q = p
+                    # Remove dot leaders and excessive punctuation
+                    q = re.sub(r'[•·◦]+', ' ', q)
+                    q = re.sub(r'\.{3,}|…{1,}', ' ', q)
+                    # Drop lines that look like headers or references listings
+                    if re.search(r'\bReferences\b', q, re.I):
+                        continue
+                    if re.match(r'^\s*\d+\s*$', q):
+                        continue
+                    q = q.strip()
+                    if len(q) >= 20:
+                        cleaned.append(q)
+                enhanced['conclusion']['points'] = cleaned[:5]
+        return enhanced
+
+    def _normalize_page_ranges(self, data: Dict) -> Dict:
+        """Convert all page_range strings like '1-6' to objects {start,end}."""
+        def fix(obj: Any) -> Any:
+            if isinstance(obj, dict):
+                if 'page_range' in obj and isinstance(obj['page_range'], str):
+                    s = obj['page_range']
+                    m = re.match(r'\s*(\d+)\s*(?:-\s*(\d+))?\s*$', s)
+                    if m:
+                        start = int(m.group(1))
+                        end = int(m.group(2)) if m.group(2) else start
+                        obj['page_range'] = {'start': start, 'end': end}
+                return {k: fix(v) for k, v in obj.items()}
+            elif isinstance(obj, list):
+                return [fix(v) for v in obj]
+            return obj
+        return fix(data)
+
+    def _fix_risk_model_references(self, data: Dict) -> Dict:
+        """Ensure risk_models.reference is null if empty string."""
+        rms = data.get('risk_models', [])
+        for rm in rms:
+            if isinstance(rm, dict):
+                if 'reference' in rm and (rm['reference'] is None or str(rm['reference']).strip() == ''):
+                    rm['reference'] = None
+        return data
+
+    def _standardize_definitions(self, data: Dict) -> Dict:
+        """Normalize definitions array to two shapes: quoted vs glossary."""
+        defs = data.get('definitions')
+        if not isinstance(defs, list):
+            return data
+        normalized = []
+        for d in defs:
+            if not isinstance(d, dict):
+                continue
+            if 'term' in d and 'definition' in d:
+                item = dict(d)
+                item.setdefault('present_in_source', False)
+                item.setdefault('added_by', 'enhancer')
+                normalized.append(item)
+            elif 'content' in d:
+                item = dict(d)
+                # Ensure keys exist for consistency
+                item.setdefault('reference', item.get('reference', '[Chapter Text]'))
+                # Ensure page_range object type if present as string
+                pr = item.get('page_range')
+                if isinstance(pr, str):
+                    m = re.match(r'\s*(\d+)\s*(?:-\s*(\d+))?\s*$', pr)
+                    if m:
+                        item['page_range'] = {
+                            'start': int(m.group(1)),
+                            'end': int(m.group(2)) if m.group(2) else int(m.group(1))
+                        }
+                normalized.append(item)
+            else:
+                # Pass through unknown shape
+                normalized.append(d)
+        data['definitions'] = normalized
+        return data
+
+    def _move_metrics_into_performance(self, data: Dict) -> Dict:
+        """Sweep all dicts and relocate metric keys into a nested performance object."""
+        METRIC_KEYS = {'sensitivity','specificity','ppv','npv','accuracy','auc'}
+        def sweep(obj: Any) -> Any:
+            if isinstance(obj, dict):
+                # Recurse first
+                new_obj = {k: sweep(v) for k, v in obj.items()}
+                # If any metric present at this level, consolidate into performance
+                if any(k in new_obj for k in METRIC_KEYS):
+                    perf = {}
+                    notes = []
+                    for k in list(METRIC_KEYS):
+                        if k in new_obj:
+                            v = new_obj.pop(k)
+                            # Convert strings like "76% (both approaches)" to proportion and capture trailing text
+                            if isinstance(v, str):
+                                m = re.search(r'([0-9.]+)', v)
+                                if m:
+                                    num = float(m.group(1))
+                                    if num > 1:
+                                        num = num/100.0
+                                    perf[k] = {'value': num, 'unit': 'proportion'}
+                                extra = v[m.end():].strip() if m else v
+                                if extra:
+                                    notes.append(f"{k}: {extra}")
+                            elif isinstance(v, (int,float)):
+                                num = float(v)
+                                if num > 1:
+                                    num = num/100.0
+                                perf[k] = {'value': num, 'unit': 'proportion'}
+                            elif isinstance(v, dict) and 'value' in v:
+                                # Already normalized
+                                perf[k] = v
+                    if perf:
+                        # Merge with existing performance if present
+                        if isinstance(new_obj.get('performance'), dict):
+                            new_obj['performance'].update(perf)
+                        else:
+                            new_obj['performance'] = perf
+                        if notes:
+                            new_obj['performance'].setdefault('notes', '; '.join(notes))
+                return new_obj
+            elif isinstance(obj, list):
+                return [sweep(v) for v in obj]
+            return obj
+        return sweep(data)
+
+    def _fill_performance_from_text(self, data: Dict) -> Dict:
+        """Populate performance from interpretation text if missing and parsable."""
+        items = data.get('diagnostic_approaches', [])
+        for a in items:
+            if isinstance(a, dict) and not a.get('performance'):
+                it = a.get('interpretation')
+                if isinstance(it, str):
+                    sens = re.search(r'sens(?:itivity)?[^0-9%]*([0-9]+(?:\.[0-9]+)?)%?', it, re.I)
+                    spec = re.search(r'spec(?:ificity)?[^0-9%]*([0-9]+(?:\.[0-9]+)?)%?', it, re.I)
+                    if sens or spec:
+                        a['performance'] = {}
+                        if sens:
+                            val = float(sens.group(1))
+                            a['performance']['sensitivity'] = {'value': (val/100.0 if val>1 else val), 'unit': 'proportion'}
+                        if spec:
+                            val = float(spec.group(1))
+                            a['performance']['specificity'] = {'value': (val/100.0 if val>1 else val), 'unit': 'proportion'}
+        return data
+
+    def _populate_guideline_orgs(self, data: Dict) -> Dict:
+        """Fill source_organization in guidelines when obvious (ACCP/BTS/Fleischner)."""
+        org_map = {
+            'accp': 'American College of Chest Physicians',
+            'bts': 'British Thoracic Society',
+            'fleischner': 'Fleischner Society'
+        }
+        for g in data.get('clinical_guidelines', []) or []:
+            if isinstance(g, dict):
+                if not g.get('source_organization') and isinstance(g.get('title'), (str, type(None))):
+                    t = (g.get('title') or '')
+                    for k, full in org_map.items():
+                        if k in t.lower():
+                            g['source_organization'] = full
+                            break
+        return data
+
+    def _enforce_source_excerpt_requirement(self, data: Dict) -> Dict:
+        """Ensure any item with present_in_source True has non-empty source_excerpt; otherwise flip to False."""
+        def walk(obj: Any) -> Any:
+            if isinstance(obj, dict):
+                if obj.get('present_in_source') is True and not obj.get('source_excerpt'):
+                    obj['present_in_source'] = False
+                return {k: walk(v) for k, v in obj.items()}
+            elif isinstance(obj, list):
+                return [walk(v) for v in obj]
+            return obj
+        return walk(data)
+
+    def _normalize_paths(self, data: Dict) -> Dict:
+        """Standardize path separators in extraction metadata to forward slashes."""
+        md = data.get('extraction_metadata')
+        if isinstance(md, dict):
+            for k in ['source_pdf', 'adobe_json']:
+                if isinstance(md.get(k), str):
+                    md[k] = md[k].replace('\\', '/')
+        return data
     
     def _separate_risk_models(self, data: Dict) -> Dict:
         """Separate risk prediction models from diagnostic approaches"""
@@ -214,7 +429,7 @@ class TextbookGoldStandardEnhancer:
             'model_name': approach.get('name', ''),
             'setting': approach.get('purpose', ''),
             'predictors': [],
-            'reference': approach.get('reference', '')
+            'reference': approach.get('reference') or None
         }
         
         # Extract predictors from criteria_or_scoring
@@ -232,11 +447,14 @@ class TextbookGoldStandardEnhancer:
         
         # Extract cohort info if in text
         if 'interpretation' in approach:
-            cohort_match = re.search(r'n\s*=\s*(\d+)', approach['interpretation'])
+            interp_text = approach.get('interpretation')
+            if not isinstance(interp_text, str):
+                interp_text = ''
+            cohort_match = re.search(r'n\s*=\s*(\d+)', interp_text)
             if cohort_match:
                 model['cohort'] = {'n': int(cohort_match.group(1))}
             
-            prev_match = re.search(r'prevalence[:\s]+([0-9.]+)%?', approach['interpretation'])
+            prev_match = re.search(r'prevalence[:\s]+([0-9.]+)%?', interp_text)
             if prev_match:
                 if 'cohort' not in model:
                     model['cohort'] = {}
@@ -497,14 +715,17 @@ class TextbookGoldStandardEnhancer:
                 return obj
                 
             if isinstance(obj, dict):
-                # Add reference if missing and content suggests citation
-                if 'reference' not in obj:
-                    # Look for citation patterns in content
-                    content = json.dumps(obj)
-                    citation_match = re.search(r'\[(\d+)\]', content)
+                # Heuristic: only leaf-like content objects should get a reference
+                contentish_keys = {'name','title','content','term','figure_id','guideline','drug_name'}
+                has_leaf_keys = any(k in obj for k in contentish_keys)
+                has_provenance = any(k in obj for k in ['source_page','source_excerpt','page','page_range'])
+                if 'reference' not in obj and (has_leaf_keys or has_provenance):
+                    # Look for bracketed citation in immediate string fields only
+                    immediate = ' '.join([v for v in obj.values() if isinstance(v, str)])
+                    citation_match = re.search(r'\[(\d+)\]', immediate)
                     if citation_match:
                         obj['reference'] = f"[{citation_match.group(1)}]"
-                    elif any(key in obj for key in ['source_page', 'source_excerpt']):
+                    elif has_provenance:
                         obj['reference'] = "[Chapter Text]"
                 
                 # Recursively process dict values

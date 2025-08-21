@@ -1,5 +1,8 @@
+# ipchat/cli.py
 import typer
 from pathlib import Path
+
+# Import the textbook extractor
 from ipchat.extract.textbook.pipeline import extract_textbook
 
 app = typer.Typer(no_args_is_help=True)
@@ -9,8 +12,12 @@ def extract_textbook_cmd(
     pdf: Path,
     adobe_json: Path,
     title: str = "",
-    out: Path = Path("outputs")
+    out: Path = Path("outputs"),
 ):
+    """
+    Extract structured textbook chapter JSON from a PDF + Adobe Extract JSON.
+    Writes <pdf_stem>.textbook.json to the output folder.
+    """
     out.mkdir(parents=True, exist_ok=True)
     result = extract_textbook(pdf, adobe_json, title or pdf.stem)
     out_file = out / f"{pdf.stem}.textbook.json"

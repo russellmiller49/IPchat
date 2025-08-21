@@ -353,21 +353,14 @@ def extract_chapter_content(
     try:
         # Call GPT-5 with structured output
         response = client.chat.completions.create(
-            model="gpt-5-2025-08-07",
+            model="gpt-4o-mini",  # Using available model
             messages=[
                 {"role": "system", "content": "You are a medical education content extractor. Extract structured information from textbook chapters, focusing on clinical procedures, algorithms, guidelines, and educational content."},
-                {"role": "user", "content": prompt}
+                {"role": "user", "content": prompt + f"\n\nReturn a JSON object following this schema:\n{json.dumps(TEXTBOOK_SCHEMA, indent=2)}"}
             ],
-            response_format={
-                "type": "json_schema",
-                "json_schema": {
-                    "name": "textbook_extraction",
-                    "schema": TEXTBOOK_SCHEMA,
-                    "strict": True
-                }
-            },
+            response_format={"type": "json_object"},
             temperature=0.1,
-            max_tokens=16384
+            max_completion_tokens=16384
         )
         
         # Parse the response

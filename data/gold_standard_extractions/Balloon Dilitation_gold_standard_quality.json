@@ -1,0 +1,31 @@
+{
+  "timestamp": "2025-08-20T19:38:57.953761",
+  "sections_present": [
+    "chapter_metadata",
+    "diagnostic_approaches",
+    "tables",
+    "references",
+    "definitions",
+    "clinical_pearls",
+    "technology_and_technique",
+    "conclusion"
+  ],
+  "sections_missing": [
+    "clinical_guidelines"
+  ],
+  "metrics": {
+    "chapter_metadata_fields": 7,
+    "diagnostic_approaches_count": 7,
+    "tables_count": 3,
+    "references_count": 1,
+    "definitions_count": 13,
+    "clinical_pearls_count": 1,
+    "technology_and_technique_count": 11,
+    "comprehensive_definitions": true
+  },
+  "issues": [
+    "Missing required section: clinical_guidelines"
+  ],
+  "score": 0.5909090909090909,
+  "quality_level": "NEEDS_IMPROVEMENT"
+}

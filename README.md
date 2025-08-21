@@ -55,25 +55,56 @@ Visit http://localhost:8501 to start querying medical evidence!
 - **874 Document Chunks**: Granular evidence retrieval
 - **292 Studies**: Comprehensive medical database
 
-### Textbook Content Extraction
-Extract structured clinical content from medical textbook chapters:
+### Textbook Content Extraction (NEW)
+Production-ready extraction of medical textbook chapters with anti-hallucination guardrails:
 
 ```bash
-# Extract content from a textbook chapter
-python -m ipchat.cli extract-textbook \
-  --pdf "path/to/chapter.pdf" \
-  --adobe-json "path/to/chapter.json" \
-  --out outputs/
+# Extract content from a single textbook chapter
+python tools/production_multipass_textbook_extractor.py \
+  --single "Textbooks/Chapter pdfs/YourChapter.pdf" \
+  --adobe-json "Textbooks/Chapter json/YourChapter.json" \
+  --output-dir data/textbook_extractions
+
+# Batch extract all 38 textbook chapters
+python tools/production_multipass_textbook_extractor.py --batch
 ```
 
-The textbook extractor:
-- **Validates source type**: Rejects research articles (detects Abstract/Methods/Results sections)
-- **Extracts structured content**: Procedures, algorithms, clinical guidelines, drug information
-- **Preserves provenance**: Page numbers, table/figure references with Adobe Extract paths
-- **Schema-validated output**: Ensures data quality with Pydantic models
+Gold‑standard pipeline (extraction + enhancement + validation):
 
-Output includes clinical procedures, treatment algorithms, guidelines with evidence levels, drug information, tables/figures, and clinical cases - all with page-level provenance tracking.
+```bash
+python tools/gold_standard_pipeline.py \
+  --single "Textbooks/Chapter pdfs/YourChapter.pdf" \
+  --adobe-json "Textbooks/Chapter json/YourChapter.json" \
+  --model gpt-5 --verbose
+
+# Batch all chapters
+python tools/gold_standard_pipeline.py --batch --model gpt-5
+```
+
+See the full runbook and troubleshooting: docs/TEXTBOOK_PIPELINE_GUIDE.md
+
+The production textbook extractor features:
+- **Anti-hallucination guardrails**: Only extracts explicitly present content
+- **Full provenance tracking**: Every item includes source_page and source_excerpt
+- **Multi-pass extraction**: Specialized passes for anatomy, procedures, diagnostics, guidelines
+- **Quality assurance**: Built-in validation and error detection
+- **Deterministic output**: Temperature=0.0 for reproducible results
+
+Output includes diagnostic approaches, clinical guidelines, treatment algorithms, drug information, tables/figures with complete structure, and educational content - all with verbatim source excerpts for verification.
 - **Smart Citations**: Automatic (Author Year) formatting with MLA bibliography
+
+Windows quick start for the pipeline (PowerShell):
+
+```powershell
+python -m venv .venv
+./.venv/Scripts/Activate.ps1
+pip install -r requirements.txt
+$env:OPENAI_API_KEY = "sk-..."
+python tools/gold_standard_pipeline.py `
+  --single "Textbooks/Chapter pdfs/YourChapter.pdf" `
+  --adobe-json "Textbooks/Chapter json/YourChapter.json" `
+  --model gpt-5 --verbose
+```
 
 ### AI-Powered Analysis
 - **GPT-5 Ready**: Support for latest models including GPT-5
@@ -288,6 +319,7 @@ mypy ipchat/
 
 - [Migration Guide](MIGRATION.md) - Upgrading from old versions
 - [Unified Architecture](docs/UNIFIED_ARCHITECTURE.md) - Technical details
+- [Textbook Pipeline Guide](docs/TEXTBOOK_PIPELINE_GUIDE.md) - End‑to‑end runbook & troubleshooting
 - [API Reference](docs/API.md) - API endpoints and usage
 - [Contributing](CONTRIBUTING.md) - How to contribute
 

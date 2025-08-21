@@ -1,0 +1,949 @@
+{
+  "chapter_metadata": {
+    "title": {
+      "value": "Endobronchial Silicone Stents for Airway Management | source_page: 1 | source_excerpt: \"Endobronchial Silicone Stents for Airway Management\"",
+      "present_in_source": true
+    },
+    "authors": [],
+    "chapter_number": {
+      "value": null,
+      "present_in_source": false
+    },
+    "learning_objectives": [],
+    "key_points": [],
+    "page_range": {
+      "start": 1,
+      "end": 12
+    }
+  },
+  "anatomical_content": {
+    "structures": []
+  },
+  "clinical_procedures": [],
+  "diagnostic_approaches": [
+    {
+      "name": "Malignant airway obstruction classification by airway involvement",
+      "purpose": "Classify malignant airway obstruction based on airway involvement",
+      "criteria_or_scoring": [
+        "Purely intrinsic involvement",
+        "The vast majority of cases present with both tumor within the airway, intrinsic and external compression of the airway, extrinsic.",
+        "Extrinsic compression without intraluminal disease"
+      ],
+      "how_to_perform": null,
+      "interpretation": null,
+      "sensitivity": null,
+      "specificity": null,
+      "ppv": null,
+      "npv": null,
+      "accuracy": null,
+      "limitations": null,
+      "when_to_use": "Malignant airway obstruction",
+      "source_page": 4,
+      "source_excerpt": "Malignant airway obstruction is often classified based on the airway involvement:",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "name": "PITTS classification: simple vs complex",
+      "purpose": "Classify postintubation or posttracheostomy tracheal stenoses",
+      "criteria_or_scoring": [
+        "simple (web-like)",
+        "complex (involving the deterioration of the cartilaginous rings)"
+      ],
+      "how_to_perform": null,
+      "interpretation": null,
+      "sensitivity": null,
+      "specificity": null,
+      "ppv": null,
+      "npv": null,
+      "accuracy": null,
+      "limitations": null,
+      "when_to_use": "Postintubation or Posttracheostomy Tracheal Stenoses (PITTS)",
+      "source_page": 5,
+      "source_excerpt": "PITTS are classified between simple (web-like) and complex (involving the deterioration of the cartilaginous rings) (Fig. 9).",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "name": "Significant reduction in airway luminal diameter (>50%) criterion",
+      "purpose": "Identify cases that may be an indication for a silicone airway stent",
+      "criteria_or_scoring": [
+        "significant reduction in airway luminal diameter (greater than 50%)"
+      ],
+      "how_to_perform": null,
+      "interpretation": null,
+      "sensitivity": null,
+      "specificity": null,
+      "ppv": null,
+      "npv": null,
+      "accuracy": null,
+      "limitations": null,
+      "when_to_use": "Any pathology with >50% airway luminal diameter reduction",
+      "source_page": 4,
+      "source_excerpt": "Any pathology leading a significant reduction in airway luminal diameter (greater than 50%) may be an indication for a silicone airway stent.",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "name": "Temporary stent placement to test clinical improvement",
+      "purpose": "Assess whether a patient will benefit from a stabilizing procedure",
+      "criteria_or_scoring": [
+        "Clinical improvement after internal splinting indicates proceeding to external stenting",
+        "lack of improvement leads to stent removal and physiotherapy/CPAP"
+      ],
+      "how_to_perform": "Temporarily place an airway stent and evaluate for clinical improvement from internal splinting",
+      "interpretation": "Improvement -> refer for external stenting; No improvement -> remove stent and recommend physiotherapy and CPAP",
+      "sensitivity": null,
+      "specificity": null,
+      "ppv": null,
+      "npv": null,
+      "accuracy": null,
+      "limitations": [
+        "Trial and error approach",
+        "No clear predictors of benefit",
+        "Procedure may shift the choke region toward the periphery"
+      ],
+      "when_to_use": "When considering a stabilizing procedure",
+      "source_page": 7,
+      "source_excerpt": "Therefore, in a trial and error approach, it can be considered to temporarily place a stent and test whether the patient improves clinically from this internal splinting.",
+      "present_in_source": true,
+      "page_range": "7-12"
+    },
+    {
+      "name": "Intraoperative bronchoscopic measurement of lesion length",
+      "purpose": "Determine appropriate stent length to cover the airway abnormality",
+      "criteria_or_scoring": [
+        "Stent should extend 5 mm above and below the abnormality"
+      ],
+      "how_to_perform": "Use rigid optic or a flexible bronchoscope to measure lesion length intraoperatively",
+      "interpretation": "Use measured length to choose a stent extending beyond the lesion by 5 mm proximally and distally",
+      "sensitivity": null,
+      "specificity": null,
+      "ppv": null,
+      "npv": null,
+      "accuracy": null,
+      "limitations": null,
+      "when_to_use": "Intraoperatively during stent planning and deployment",
+      "source_page": 8,
+      "source_excerpt": "Ideally, the stent should extend 5 mm above and below the abnormality.",
+      "present_in_source": true,
+      "page_range": "7-12"
+    },
+    {
+      "name": "Preoperative CT-based preliminary measurement of lesion length",
+      "purpose": "Estimate lesion length prior to bronchoscopy to assist stent planning",
+      "criteria_or_scoring": [
+        "Preliminary CT measurements subsequently confirmed endoscopically",
+        "stent extends 5 mm beyond abnormality"
+      ],
+      "how_to_perform": "Estimate measurements from CT images preoperatively and confirm endoscopically",
+      "interpretation": "CT provides a preliminary length estimate; endoscopy confirms before selecting stent length",
+      "sensitivity": null,
+      "specificity": null,
+      "ppv": null,
+      "npv": null,
+      "accuracy": null,
+      "limitations": [
+        "Requires endoscopic confirmation"
+      ],
+      "when_to_use": "Preoperatively for planning stent length",
+      "source_page": 8,
+      "source_excerpt": "Preoperatively preliminary measurements can be estimated from the CT images and then confirmed endoscopically. Ideally, the stent should extend 5 mm above and below the abnormality.",
+      "present_in_source": true,
+      "page_range": "7-12"
+    },
+    {
+      "name": "Airway diameter estimation via rigid bronchoscope barrel size",
+      "purpose": "Select appropriate stent diameter",
+      "criteria_or_scoring": [
+        "Based on largest diameter rigid bronchoscope barrel utilized to maximally mechanically dilate the airway",
+        "case-by-case selection"
+      ],
+      "how_to_perform": "Mechanically dilate with rigid bronchoscope; choose stent diameter matching the largest barrel used",
+      "interpretation": "Use dilation caliber to guide stent diameter choice",
+      "sensitivity": null,
+      "specificity": null,
+      "ppv": null,
+      "npv": null,
+      "accuracy": null,
+      "limitations": [
+        "Case-by-case basis",
+        "For fistulas and tracheobronchomalacia, oversize slightly to avoid migration"
+      ],
+      "when_to_use": "During pre-deployment sizing after mechanical dilation",
+      "source_page": 8,
+      "source_excerpt": "In stenotic lesions of the trachea, 14–16-mm stents are often selected.",
+      "present_in_source": true,
+      "page_range": "7-12"
+    }
+  ],
+  "treatment_algorithms": [],
+  "clinical_guidelines": [
+    {
+      "title": "Indications Threshold and Major Indications for Silicone Airway Stents",
+      "condition": "Central airway obstruction",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Any pathology leading a significant reduction in airway luminal diameter (greater than 50%) may be an indication for a silicone airway stent.",
+        "Major indications include: Counteracting extrinsic compression from tumors or lymph nodes.",
+        "Major indications include: Stabilizing airway patency after endoscopic removal of intraluminally growing cancer.",
+        "Major indications include: Treating benign strictures.",
+        "Major indications include: Stabilizing collapsing airways (malacia and polychondritis).",
+        "Major indications include: Sealing fistulas, e.g., stump dehiscences or fistulas between the trachea and esophagus."
+      ],
+      "decision_points_and_pathways": [
+        "If airway luminal diameter reduction >50%, consider placement of a silicone airway stent."
+      ],
+      "patient_population_criteria": "airway obstruction leading to the onset of debilitating symptoms such as dyspnea whether the obstruction is due to a malignant or benign process either intrinsic or extrinsic to the airway.",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": [],
+      "source_page": 4,
+      "source_excerpt": "Any pathology leading a significant reduction in airway luminal diameter (greater than 50%) may be an indication for a silicone airway stent.",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "title": "Management Pathways for Malignant Airway Stenosis",
+      "condition": "Malignant airway stenosis",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Purely intrinsic involvement can often be managed with debulking techniques.",
+        "A stent may be placed as a bridge to the response to chemoradiotherapy, when there is a high risk of local recurrence, or as palliative after failure of the oncologic treatment.",
+        "For patients’ naïve from any oncologic treatment, placement of a stent is not recommended.",
+        "Treatment of mixed disease is usually multimodality with debulking and stent insertion.",
+        "Extrinsic compression without intraluminal disease is readily treated with dilatation followed by stenting."
+      ],
+      "decision_points_and_pathways": [
+        "Classify airway involvement: purely intrinsic vs mixed (intrinsic + extrinsic) vs extrinsic compression.",
+        "If purely intrinsic: perform debulking; consider stent as bridge, for high local recurrence risk, or after oncologic treatment failure.",
+        "If mixed: use multimodality treatment with debulking and stent insertion.",
+        "If extrinsic only: perform dilatation followed by stenting."
+      ],
+      "patient_population_criteria": "The most common indication is malignant airway obstruction from a bronchogenic malignancy.",
+      "contraindications_and_exceptions": "For patients’ naïve from any oncologic treatment, placement of a stent is not recommended.",
+      "monitoring_requirements": null,
+      "outcome_measures": "The stent has proven to be well tolerated in terms of quality of life.",
+      "alternative_approaches": [
+        "Debulking techniques",
+        "Chemoradiotherapy"
+      ],
+      "source_page": 5,
+      "source_excerpt": "For patients’ naïve from any oncologic treatment, placement of a stent is not recommended. The stent has proven to be well tolerated in terms of quality of life.",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "title": "Management of Postintubation or Posttracheostomy Tracheal Stenoses (PITTS)",
+      "condition": "Postintubation or Posttracheostomy Tracheal Stenosis (PITTS)",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Simple PITTS are generally not amenable to stent insertion.",
+        "Complex PITTS recur in about 70% after dilatation alone.",
+        "Dumon stents are suitable as they are removable and do not jeopardize a possible postponed surgery unlike metallic stents.",
+        "Migration can be reduced by the use of a dedicated hourglass silicone stent or by external fixation."
+      ],
+      "decision_points_and_pathways": [
+        "Classify PITTS as simple (web-like) vs complex (involving deterioration of cartilaginous rings).",
+        "If simple: generally not amenable to stent insertion.",
+        "If complex: consider silicone (Dumon) stent placement; consider hourglass stent or external fixation to reduce migration."
+      ],
+      "patient_population_criteria": "Postintubation or Posttracheostomy Tracheal Stenoses (PITTS).",
+      "contraindications_and_exceptions": "Simple PITTS are generally not amenable to stent insertion.",
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": [
+        "Dilatation alone (recurrence about 70%).",
+        "FDA published recommendations for the use of nonfully covered metallic stents in this indication."
+      ],
+      "source_page": 5,
+      "source_excerpt": "Simple PITTS are generally not amenable to stent insertion unlike the complex PITTS which recur in about 70% after dilatation alone.",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "title": "Management of Bronchial Stenosis Following Lung Transplantation",
+      "condition": "Anastomotic bronchial stenosis after lung transplantation",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Select a stent that can be removed if necessary without causing further tissue damage.",
+        "The stents have been removed definitely in 70% of the patients without further recurrence.",
+        "The new surgical technique for bronchial anastomosis implies an anastomosis very close to the secondary carinas on both sides; this indicates bifurcated stents when a complication occurs."
+      ],
+      "decision_points_and_pathways": [
+        "Choose removable stents to avoid further tissue damage.",
+        "When anastomosis is close to secondary carinas and complications occur, use bifurcated stents."
+      ],
+      "patient_population_criteria": "anastomotic stenosis after lung transplantation",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": "Definitive stent removal without recurrence achieved in 70% of patients.",
+      "alternative_approaches": [],
+      "source_page": 6,
+      "source_excerpt": "The stents have been removed definitely in 70% of the patients without further recurrence.",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "title": "Use of Stents in Tracheobronchomalacia",
+      "condition": "Tracheobronchomalacia (malacias)",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Most endoscopists have become reluctant about the use of permanent stent placement for malacias."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": "malacias",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": [],
+      "source_page": 6,
+      "source_excerpt": "Therefore, most endoscopists have become reluctant about the use of permanent stent placement for malacias",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "title": "Temporary airway stent trial with decision pathway for suspected airway malacia",
+      "condition": "Malacic stenoses; flexible dyskinetic tracheas",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Temporarily place a stent and test whether the patient improves clinically from this internal splinting.",
+        "If they do, send to the surgeon for external stenting techniques.",
+        "If not, remove the stent and recommend physiotherapy and CPAP.",
+        "The straight Dumon stent cannot be recommended for malacic stenoses; in flexible dyskinetic tracheas and gradually opening benign stenoses, it is prone to migration."
+      ],
+      "decision_points_and_pathways": [
+        "Place temporary stent → assess clinical improvement → if improved → refer for external stenting.",
+        "Place temporary stent → assess clinical improvement → if not improved → remove stent + physiotherapy + CPAP."
+      ],
+      "patient_population_criteria": "Malacic stenoses; flexible dyskinetic tracheas; gradually opening benign stenoses",
+      "contraindications_and_exceptions": "Straight Dumon stent cannot be recommended for malacic stenoses due to migration risk.",
+      "monitoring_requirements": null,
+      "outcome_measures": "Clinical improvement during temporary stenting",
+      "alternative_approaches": [
+        "External stenting techniques",
+        "Physiotherapy",
+        "CPAP"
+      ],
+      "source_page": 7,
+      "source_excerpt": "to temporarily place a stent and test whether the patient improves clinically from this internal splinting. If they do, they are sent to the surgeon for external stenting techniques.",
+      "present_in_source": true,
+      "page_range": "7-12"
+    },
+    {
+      "title": "Airway stenting for tracheoesophageal or bronchoesophageal fistulas",
+      "condition": "Tracheoesophageal or bronchoesophageal fistulas",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Placement of an airway stent can prevent obstruction from the esophageal tube and can help in sealing the fistula."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": "Patients with esophago-airway fistula",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": "Prevent airway obstruction; help seal fistula",
+      "alternative_approaches": [
+        "Insertion of an esophageal tube (improves quality of life but usually fails to seal the fistula)"
+      ],
+      "source_page": 7,
+      "source_excerpt": "Placement of an airway stent can prevent obstruction from the esophageal tube and can help in sealing the ﬁstula (Fig. 10).",
+      "present_in_source": true,
+      "page_range": "7-12"
+    },
+    {
+      "title": "Management of bronchopleural fistulas",
+      "condition": "Postpneumonectomy or lobectomy stump fistula (bronchopleural fistula)",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Surgery is the treatment of choice.",
+        "Endoscopic techniques, including placement of silicone stents, are an option when surgery is not possible or must be postponed."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": "Postpneumonectomy or lobectomy stump fistula",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": [
+        "Surgical repair (treatment of choice)"
+      ],
+      "source_page": 7,
+      "source_excerpt": "Surgery is the treatment of choice of this condition but endoscopic techniques have been advocated as an option when surgery is not possible or has to be postponed.",
+      "present_in_source": true,
+      "page_range": "7-12"
+    },
+    {
+      "title": "Contraindications and precautions for airway stenting",
+      "condition": "General airway stenting indications (malignant and benign)",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "In life-threatening situations, there are hardly any contraindications.",
+        "Other techniques should be used first before a stent is placed.",
+        "Intraluminally growing tumors should be removed first by laser resection, then a larger stent should be placed if still necessary.",
+        "Treating benign lesions requires particular caution; only removable stents should be used until a multidisciplinary team has determined inoperability.",
+        "Instability of the airways is not a contraindication but hardly ever a good indication for permanent stent placement."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": "Benign lesions; life-threatening airway obstruction; intraluminally growing tumors",
+      "contraindications_and_exceptions": "Permanent stent placement is hardly ever a good indication for airway instability.",
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": [
+        "Laser resection for intraluminal tumors prior to stenting"
+      ],
+      "source_page": 7,
+      "source_excerpt": "In life-threatening situations, there are hardly any contraindications. However, other techniques should be used first before a stent is placed.",
+      "present_in_source": true,
+      "page_range": "7-12"
+    },
+    {
+      "title": "Use rigid bronchoscopy under general anesthesia for silicone stent deployment",
+      "condition": "Silicone airway stent placement",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Deploy silicone stents using rigid bronchoscopy under general anesthesia.",
+        "Rigid bronchoscopy is essential for insertion of Dumon stents as they are not auto-expandable."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": [],
+      "source_page": 8,
+      "source_excerpt": "the deployment of a silicone stent must be performed using rigid bronchoscopy under general anesthesia.",
+      "present_in_source": true,
+      "page_range": "7-12"
+    },
+    {
+      "title": "Pre-deployment tumor debulking and airway dilation",
+      "condition": "Silicone airway stent placement (preparation)",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Use the rigid bronchoscope for mechanical tumor debulking and airway dilation prior to stent insertion."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": [],
+      "source_page": 8,
+      "source_excerpt": "serves as a useful tool both for mechanical tumor debulking and airway dilation prior to stent insertion (Fig. 11).",
+      "present_in_source": true,
+      "page_range": "7-12"
+    },
+    {
+      "title": "Stent length coverage guideline",
+      "condition": "Lesion coverage with silicone airway stent",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Ideally, extend the stent 5 mm above and below the abnormality."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": "Airway lesions requiring stent coverage",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": [],
+      "source_page": 8,
+      "source_excerpt": "Ideally, the stent should extend 5 mm above and below the abnormality.",
+      "present_in_source": true,
+      "page_range": "7-12"
+    },
+    {
+      "title": "Stent diameter selection for tracheal stenosis",
+      "condition": "Stenotic lesions of the trachea",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Select 14–16-mm stents for stenotic lesions of the trachea."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": "Tracheal stenosis",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": [],
+      "source_page": 8,
+      "source_excerpt": "In stenotic lesions of the trachea, 14–16-mm stents are often selected.",
+      "present_in_source": true,
+      "page_range": "7-12"
+    },
+    {
+      "title": "Stent diameter selection for main stem bronchi and bronchus intermedius",
+      "condition": "Stenoses of the main stem bronchi and bronchus intermedius",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Use 12- to 13-mm stents for stenoses involving the main stem bronchi.",
+        "Use 10- to 11-mm stents for stenoses involving the bronchus intermedius."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": "Main stem bronchi or bronchus intermedius stenosis",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": [],
+      "source_page": 8,
+      "source_excerpt": "The 12- to 13-mm and 10- to 11-mm stents are usually appropriate for stenoses involving the main stem bronchi and bronchus intermedius, respectively.",
+      "present_in_source": true,
+      "page_range": "7-12"
+    },
+    {
+      "title": "Oversizing strategy for fistulas and tracheobronchomalacia",
+      "condition": "Fistulas and tracheobronchomalacia (no lesion for anchoring)",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Oversize the stent slightly to avoid migration when no lesion exists for anchoring."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": "Fistulas; tracheobronchomalacia",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": [],
+      "source_page": 8,
+      "source_excerpt": "there is no lesion to which the stent may anchor; therefore, in order to avoid migration, it is important to oversize the stent slightly.",
+      "present_in_source": true,
+      "page_range": "7-12"
+    },
+    {
+      "title": "Avoid distal pushing of stent during placement",
+      "condition": "Pathologic airway during silicone stent placement",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Avoid pushing the stent more distally due to risk of perforation."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": "Airway with pathologic lesion",
+      "contraindications_and_exceptions": "Distal pushing rarely advised due to perforation risk.",
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": [],
+      "source_page": 8,
+      "source_excerpt": "Pushing the stent more distally is rarely advised due to the risk of perforation at the level of the pathologic airway.",
+      "present_in_source": true,
+      "page_range": "7-12"
+    },
+    {
+      "title": "Complete stent expansion using balloon or rigid instruments",
+      "condition": "Silicone stent that does not completely open upon deployment",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Use a balloon catheter or rigid instruments (rigid scope or forceps) to complete stent expansion."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": "Complete opening of the stent",
+      "alternative_approaches": [],
+      "source_page": 8,
+      "source_excerpt": "a balloon catheter or one of the rigid instruments (rigid scope itself or the forceps) may be used to complete the expansion of the stent",
+      "present_in_source": true,
+      "page_range": "7-12"
+    },
+    {
+      "title": "Annual reassessment and replacement of airway stents",
+      "condition": "Any indication for airway stent",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Recommend annual reassessment and replacement of the stent until it is no longer indicated."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": "Patients with an airway stent in place",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": "Annual reassessment and replacement",
+      "outcome_measures": null,
+      "alternative_approaches": [],
+      "source_page": 8,
+      "source_excerpt": "we recommend annual reassessment and replacement of the stent until such a time the stent is no longer indicated.",
+      "present_in_source": true,
+      "page_range": "7-12"
+    },
+    {
+      "title": "Management of stent migration",
+      "condition": "Silicone stent migration",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Extract migrated stent under rigid bronchoscopy and replace with a more appropriately sized stent.",
+        "Percutaneous external fixation may reduce risk of migration."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": "Patients with migrated silicone airway stent",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": "Resolution of cough or dyspnea due to migration",
+      "alternative_approaches": [],
+      "source_page": 10,
+      "source_excerpt": "Percutaneous external ﬁxation has been proposed to reduce the risk of migration.",
+      "present_in_source": true,
+      "page_range": "7-12"
+    },
+    {
+      "title": "Management of granulation tissue at stent margins",
+      "condition": "Granulation tissue causing obstruction at stent margins",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Use mechanical or thermal means (laser, cautery, cryotherapy).",
+        "Replace the stent if necessary."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": "Patients with granulation tissue at proximal/distal stent margins",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": "Relief of stent obstruction",
+      "alternative_approaches": [],
+      "source_page": 10,
+      "source_excerpt": "mechanical or thermal (laser, cautery, cryotherapy) means should be considered. Replacement of the stent may also be necessary.",
+      "present_in_source": true,
+      "page_range": "7-12"
+    },
+    {
+      "title": "Prevention of mucoid impaction in stents",
+      "condition": "Mucoid impaction risk in silicone stents",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Maintain humidification via nebulization of sterile normal saline 2–3 times daily while the stent is in place."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": "Patients with silicone stent in place",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": "Nebulization schedule: 2–3 times daily",
+      "outcome_measures": "Reduced risk of mucoid impaction",
+      "alternative_approaches": [],
+      "source_page": 10,
+      "source_excerpt": "maintaining humidiﬁcation of the stent via nebulization of sterile normal saline 2–3 times daily while the stent is in place.",
+      "present_in_source": true,
+      "page_range": "7-12"
+    },
+    {
+      "title": "Management of stents impacted with secretions/bacterial overgrowth",
+      "condition": "Stent obstruction associated with secretions and bacterial overgrowth",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Remove and replace stents impacted with secretions associated with bacterial overgrowth."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": "Stents impacted with secretions and bacterial overgrowth",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": "Relief of obstruction",
+      "alternative_approaches": [],
+      "source_page": 10,
+      "source_excerpt": "Stents that become impacted with secretions most often associated with bacterial overgrowth should generally be removed and replaced.",
+      "present_in_source": true,
+      "page_range": "7-12"
+    },
+    {
+      "title": "Preference for silicone over metal stents in benign disease",
+      "condition": "Stent selection for benign versus malignant airway disease",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Silicone stents are indicated for most clinical indications, malignant or benign.",
+        "Metal stents should for the most part be avoided in benign disease.",
+        "Completely silicone-covered metal stents may be an exception."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": "Benign airway disease; malignant airway disease",
+      "contraindications_and_exceptions": "Avoid metal stents in benign disease (except fully silicone-covered metal stents may be exception).",
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": [],
+      "source_page": 10,
+      "source_excerpt": "Silicone stents are indicated for the vast majority of clinical indications whether malignant or benign, in contrast to metal stents that should for the most part be avoided in benign disease.",
+      "present_in_source": true,
+      "page_range": "7-12",
+      "_errors": [
+        "source_excerpt_too_long"
+      ]
+    },
+    {
+      "title": "Techniques to preserve ventilation to lobes covered by stents",
+      "condition": "Endobronchial stenting that may cover lobar orifices (e.g., right upper lobe with Y stents)",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Use fenestrations or add stents to distal limbs (Borgne Y) to preserve ventilation to covered lobes."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": "Patients requiring Y stents potentially covering lobar orifices",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": "Preserved lobar ventilation",
+      "alternative_approaches": [],
+      "source_page": 10,
+      "source_excerpt": "These include fenestrations or addition of stents to the distal limbs, Borgne Y.",
+      "present_in_source": true,
+      "page_range": "7-12"
+    }
+  ],
+  "drug_information": [],
+  "tables": [],
+  "figures": [
+    {
+      "figure_id": "Fig. 1",
+      "title": null,
+      "caption": "Fig. 1 The original Dumon stent. (Tracheobronxane®, Novatech, La Ciotat, France)",
+      "type": null,
+      "key_findings": [
+        "The original Dumon stent"
+      ],
+      "clinical_significance": null,
+      "source_page": 2,
+      "source_excerpt": "Fig. 1 The original Dumon stent. (Tracheobronxane®, Novatech, La Ciotat, France)",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "figure_id": "Fig. 10",
+      "title": null,
+      "caption": "Tracheoesophageal ﬁstula before and after silicone stent placement",
+      "type": null,
+      "key_findings": [
+        "Tracheoesophageal ﬁstula before and after silicone stent placement"
+      ],
+      "clinical_significance": null,
+      "source_page": 7,
+      "source_excerpt": "Fig. 10 Tracheoesophageal ﬁstula before and after silicone stent placement",
+      "present_in_source": true,
+      "page_range": "7-12"
+    }
+  ],
+  "clinical_cases": [
+    {
+      "content": "Fig. 7 Malignant obstruction of the trachea before and after placement of a silicone stent",
+      "source_page": 5,
+      "source_excerpt": "Fig. 7 Malignant obstruction of the trachea before and after placement of a silicone stent",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "content": "Watanabe et al. [38] reported successful sealing of a postlobectomy fistula using a Dumon silicone stent, but long-term outcome was not described.",
+      "source_page": 7,
+      "source_excerpt": "reported successful sealing of a postlobectomy fistula using a Dumon silicone stent",
+      "present_in_source": true,
+      "page_range": "7-12"
+    }
+  ],
+  "definitions": [
+    {
+      "content": "central airways (trachea, main stem bronchi and in select cases lobar bronchi)",
+      "source_page": 1,
+      "source_excerpt": "central airways (trachea, main stem bronchi and in select cases lobar bronchi)",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "content": "Tracheoesophageal or bronchoesophageal fistulas are most often secondary to malignancy [36, 37].",
+      "source_page": 7,
+      "source_excerpt": "Tracheoesophageal or bronchoesophageal fistulas are most often secondary to malignancy",
+      "present_in_source": true,
+      "page_range": "7-12"
+    },
+    {
+      "term": "pCA",
+      "definition": "pretest probability of cancer",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "IPN",
+      "definition": "indeterminate pulmonary nodule",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "SPN",
+      "definition": "solitary pulmonary nodule",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "VDT",
+      "definition": "volume doubling time",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "FDG",
+      "definition": "fluorodeoxyglucose",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "PET",
+      "definition": "positron emission tomography",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "EBUS",
+      "definition": "endobronchial ultrasound",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "TBNA",
+      "definition": "transbronchial needle aspiration",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "PPV",
+      "definition": "positive predictive value",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "NPV",
+      "definition": "negative predictive value",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "ACCP",
+      "definition": "American College of Chest Physicians",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "BTS",
+      "definition": "British Thoracic Society",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    }
+  ],
+  "clinical_pearls": [
+    {
+      "content": "The largest available external diameter is 20 mm.",
+      "source_page": 2,
+      "source_excerpt": "The largest available external diameter is 20 mm.",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "content": "Rigid bronchoscopy is essential for the insertion of Dumon stents as they are not auto-expandable.",
+      "source_page": 8,
+      "source_excerpt": "Rigid bronchoscopy is essential for the insertion of Dumon stents as they are not auto-expandable.",
+      "present_in_source": true,
+      "page_range": "7-12"
+    }
+  ],
+  "references": [
+    {
+      "citation": "[1]",
+      "authors": [],
+      "year": null,
+      "journal": null,
+      "doi_pmid": null,
+      "study_type": null,
+      "key_findings": null,
+      "source_page": 2,
+      "source_excerpt": "The Montgomery T-tube was the first silicone stent available to re-establish airway patency postoperatively for tracheal disease [1].",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "citation": "1. Montgomery WW. Silicone tracheal canula. Ann Otol (St. Louis). 1980;89:521–9.",
+      "authors": [
+        "Montgomery WW"
+      ],
+      "year": 1980,
+      "journal": "Ann Otol (St. Louis)",
+      "doi_pmid": null,
+      "study_type": null,
+      "key_findings": null,
+      "source_page": 11,
+      "source_excerpt": "Montgomery WW. Silicone tracheal canula. Ann Otol (St. Louis). 1980;89:521–9.",
+      "present_in_source": true,
+      "page_range": "7-12"
+    }
+  ],
+  "summary": {
+    "clinical_applications": [],
+    "practice_recommendations": [
+      {
+        "content": "Any pathology leading a significant reduction in airway luminal diameter (greater than 50%) may be an indication for a silicone airway stent.",
+        "source_page": 4,
+        "source_excerpt": "Any pathology leading a significant reduction in airway luminal diameter (greater than 50%) may be an indication for a silicone airway stent.",
+        "present_in_source": true,
+        "page_range": "1-6"
+      },
+      {
+        "content": "Therefore, in a trial and error approach, it can be considered to temporarily place a stent and test whether the patient improves clinically from this internal splinting.",
+        "source_page": 7,
+        "source_excerpt": "it can be considered to temporarily place a stent and test whether the patient improves",
+        "present_in_source": true,
+        "page_range": "7-12"
+      }
+    ],
+    "future_directions": [],
+    "controversies": []
+  },
+  "extraction_metadata": {
+    "source_pdf": "Textbooks\\Chapter pdfs\\Endobronchial Silicone Stents for Airway.pdf",
+    "adobe_json": null,
+    "extraction_date": "2025-08-21T07:01:00.459329+00:00",
+    "text_pages": 12,
+    "chunks_processed": 2,
+    "model": "gpt-5",
+    "extractor_version": "production_multipass_v3.2_gpt5_simple",
+    "enhancements_applied": [
+      "ocr_cleanup",
+      "type_normalization",
+      "criteria_tokenization",
+      "guideline_deduplication",
+      "page_range_normalization",
+      "performance_metric_structuring",
+      "definition_enrichment"
+    ],
+    "passes_completed": 7
+  }
+}

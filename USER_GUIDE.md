@@ -19,7 +19,7 @@ Bronchmonkey is your personal AI assistant for medical research that can:
 - 💬 **Answer** complex medical questions with proper citations
 - 🔬 **Depth Mode** for comprehensive analysis with multiple perspectives
 - 🐛 **Debug Mode** to see the AI's reasoning process
-- 📄 **Extract** data from new research papers automatically
+- 📄 **Extract** data from research papers and textbook chapters automatically
 - 📊 **Find** specific statistics and outcomes from studies
 - 🎓 **Cite** sources properly in academic format (MLA)
 - 🚀 **Three Editions** to match your needs (Lite, Full, Space)
@@ -241,6 +241,41 @@ Depth Mode will:
    # Stop with Ctrl+C, then:
    ipchat run --edition lite
    ```
+
+### 📚 Feature 3b: Extract Data from Textbook Chapters
+
+**Production-ready textbook extraction with anti-hallucination guardrails**:
+
+1. **Prepare textbook files**:
+   ```bash
+   # Chapter PDFs are in:
+   Textbooks/Chapter pdfs/ChapterName.pdf
+   
+   # Adobe Extract JSONs are in:
+   Textbooks/Chapter json/ChapterName.json
+   ```
+
+2. **Extract single chapter**:
+   ```bash
+   python tools/production_multipass_textbook_extractor.py \
+     --single "Textbooks/Chapter pdfs/Airway Anatomy.pdf" \
+     --adobe-json "Textbooks/Chapter json/Airway Anatomy.json" \
+     --output-dir data/textbook_extractions
+   ```
+
+3. **Extract all 38 chapters**:
+   ```bash
+   python tools/production_multipass_textbook_extractor.py --batch
+   ```
+
+**Features**:
+- Only extracts explicitly present content (no hallucination)
+- Every item includes source_page and verbatim source_excerpt
+- Specialized extraction passes for different content types
+- Quality assurance with automatic error detection
+- Deterministic output (temperature=0.0)
+
+**Available chapters**: Airway Anatomy, Approach to Peripheral Lung Lesions, Balloon Dilation, Bronchoscopic Techniques, and 34 more interventional pulmonology topics.
 
 ### 🔍 Feature 4: Hybrid Search System
 

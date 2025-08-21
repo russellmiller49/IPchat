@@ -1,0 +1,194 @@
+{
+  "chapter_metadata": {
+    "title": "Airway Anatomy",
+    "authors": [
+      "Sumit Patel",
+      "Arthur Sung",
+      "Laura Frye"
+    ],
+    "chapter_number": "1",
+    "learning_objectives": [
+      {
+        "objective": "Understand the anatomy of the upper and lower airways.",
+        "page": "1"
+      },
+      {
+        "objective": "Identify key anatomical landmarks relevant for airway procedures.",
+        "page": "1"
+      },
+      {
+        "objective": "Recognize common anatomical variants and their implications.",
+        "page": "1"
+      }
+    ],
+    "key_points": [
+      {
+        "point": "The larynx is crucial for phonation, respiration, and aspiration prevention.",
+        "page": "1"
+      },
+      {
+        "point": "Knowledge of airway anatomy is essential for interventional pulmonology.",
+        "page": "1"
+      },
+      {
+        "point": "The Mallampati classification helps assess airway access difficulty.",
+        "page": "3"
+      }
+    ]
+  },
+  "clinical_content": {
+    "procedures": [
+      {
+        "name": "Endotracheal Intubation",
+        "indications": [
+          "Respiratory failure",
+          "Need for airway protection",
+          "Surgical procedures requiring general anesthesia"
+        ],
+        "contraindications": [
+          "Severe facial trauma",
+          "Airway obstruction",
+          "Inability to visualize the airway"
+        ],
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Position the patient appropriately, usually in the sniffing position.",
+            "critical_points": [
+              "Ensure the head is extended and neck flexed."
+            ]
+          },
+          {
+            "step_number": 2,
+            "description": "Pre-oxygenate the patient with 100% oxygen.",
+            "critical_points": [
+              "Use a bag-mask ventilation if necessary."
+            ]
+          },
+          {
+            "step_number": 3,
+            "description": "Insert the laryngoscope blade into the mouth and sweep the tongue to the left.",
+            "critical_points": [
+              "Visualize the vocal cords."
+            ]
+          },
+          {
+            "step_number": 4,
+            "description": "Insert the endotracheal tube through the vocal cords.",
+            "critical_points": [
+              "Confirm placement by auscultation and capnography."
+            ]
+          }
+        ],
+        "complications": [
+          "Esophageal intubation",
+          "Dental injury",
+          "Laryngeal edema"
+        ],
+        "page_range": [
+          "2-3"
+        ]
+      }
+    ],
+    "algorithms": [],
+    "clinical_guidelines": [],
+    "drug_information": [],
+    "structured_data": {
+      "tables": [
+        {
+          "table_id": "1",
+          "title": "Segmental Airway Nomenclature/Jackson–Huber Classification",
+          "description": "Classification of bronchial anatomy for bronchoscopists.",
+          "headers": [
+            "Segment",
+            "Nomenclature"
+          ],
+          "rows": [
+            [
+              "B1",
+              "Apical"
+            ],
+            [
+              "B2",
+              "Posterior"
+            ],
+            [
+              "B3",
+              "Anterior"
+            ],
+            [
+              "B4",
+              "Lateral"
+            ],
+            [
+              "B5",
+              "Medial"
+            ],
+            [
+              "B6",
+              "Superior"
+            ],
+            [
+              "B7",
+              "Medial basal"
+            ],
+            [
+              "B8",
+              "Anterior basal"
+            ],
+            [
+              "B9",
+              "Lateral basal"
+            ],
+            [
+              "B10",
+              "Posterior basal"
+            ]
+          ],
+          "footnotes": [],
+          "clinical_relevance": "Essential for understanding bronchial anatomy during procedures.",
+          "page": "8"
+        }
+      ],
+      "figures": [],
+      "boxes": [
+        {
+          "box_id": "1",
+          "title": "Clinical Pearl",
+          "type": "Pearl",
+          "content": "The cricoid cartilage is a critical landmark for emergency airway access.",
+          "page": "4"
+        }
+      ]
+    },
+    "clinical_cases": [],
+    "definitions": [
+      {
+        "term": "Mallampati Classification",
+        "definition": "A system used to predict the difficulty of intubation based on the visibility of oropharyngeal structures.",
+        "context": "Used during pre-anesthetic assessment.",
+        "page": "3"
+      }
+    ],
+    "references": [],
+    "summary": {
+      "chapter_summary": "This chapter provides a comprehensive overview of airway anatomy, emphasizing its importance in clinical practice, particularly in interventional pulmonology.",
+      "clinical_pearls": [
+        "Understanding airway anatomy is crucial for successful intubation and bronchoscopy.",
+        "The cricoid cartilage serves as a landmark for emergency procedures."
+      ],
+      "practice_recommendations": [
+        "Regularly review airway anatomy to enhance procedural skills.",
+        "Utilize classification systems like Mallampati to assess airway difficulty."
+      ],
+      "future_directions": "Further research into anatomical variations and their clinical implications is needed."
+    }
+  },
+  "extraction_metadata": {
+    "source_file": "Textbooks/Chapter pdfs/Airway Anatomy.pdf",
+    "extraction_date": "2025-08-15T19:55:09.325454Z",
+    "model": "gpt-5-2025-08-07",
+    "text_length": 37487,
+    "file_hash": "a0e4a0004c94a31599f0391ff25400eb0004a3df55ae4c13b274f8ead7aff138"
+  }
+}

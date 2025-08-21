@@ -1,0 +1,118 @@
+{
+  "chapter_metadata": {
+    "title": {
+      "value": "Approach to Peripheral Lung Lesions",
+      "present_in_source": true,
+      "source_page": 1
+    },
+    "authors": [
+      {"name": "John Smith", "source_page": 1},
+      {"name": "Jane Doe", "source_page": 1}
+    ],
+    "chapter_number": {
+      "value": "12",
+      "present_in_source": true,
+      "source_page": 1
+    },
+    "learning_objectives": [],
+    "key_points": []
+  },
+  "diagnostic_approaches": [
+    {
+      "name": "CT Scan for Lung Nodules",
+      "purpose": "Evaluate peripheral lung lesions",
+      "sensitivity": 91,
+      "specificity": 90,
+      "source_page": 5,
+      "source_excerpt": "CT scan demonstrates sensitivity of 91% and specificity of 90% for malignant nodules",
+      "present_in_source": true
+    },
+    {
+      "name": "PET-CT",
+      "purpose": "Metabolic assessment of lung nodules",
+      "criteria_or_scoring": "SUVmax >2.5 suggests malignancy",
+      "sensitivity": 87,
+      "specificity": 83,
+      "source_page": 7,
+      "source_excerpt": "PET-CT with SUVmax >2.5 has sensitivity 87% and specificity 83%",
+      "present_in_source": true
+    }
+  ],
+  "clinical_guidelines": [
+    {
+      "title": "BTS Guidelines for Lung Nodule Investigation",
+      "condition": "Peripheral lung nodules",
+      "source_organization": "British Thoracic Society",
+      "specific_recommendations": [
+        "Investigate nodules >80 mm3 or >6 mm diameter",
+        "Follow-up at 3 months for 5-6mm nodules",
+        "Consider PET-CT for nodules 8-10mm"
+      ],
+      "source_page": 12,
+      "source_excerpt": "BTS recommends investigation for nodules >80 mm3 or >6 mm in diameter",
+      "present_in_source": true
+    },
+    {
+      "title": "ACCP Evidence-Based Guidelines",
+      "condition": "Solitary pulmonary nodules",
+      "source_organization": "American College of Chest Physicians",
+      "recommendation_grade": "1A",
+      "evidence_level": "High",
+      "specific_recommendations": [
+        "Serial CT surveillance at 3-6, 9-12, and 18-24 months",
+        "Tissue diagnosis for solid nodules >8mm"
+      ],
+      "source_page": 15,
+      "source_excerpt": "ACCP Grade 1A recommendation: surveillance at 3-6, 9-12, 18-24 months",
+      "present_in_source": true
+    }
+  ],
+  "tables": [
+    {
+      "title": "Comparison of Diagnostic Modalities",
+      "headers": ["Modality", "Sensitivity (%)", "Specificity (%)", "PPV (%)", "NPV (%)"],
+      "rows": [
+        ["CT Scan", "91", "90", "85", "94"],
+        ["PET-CT", "87", "83", "78", "90"],
+        ["EBUS-TBNA", "89", "100", "100", "91"]
+      ],
+      "source_page": 18,
+      "source_excerpt": "Table 1: Diagnostic accuracy of imaging modalities",
+      "content_provenance": "xlsx"
+    }
+  ],
+  "figures": [
+    {
+      "figure_id": "Figure 2",
+      "title": "ACCP Algorithm for Pulmonary Nodule Management",
+      "caption": "Algorithm showing decision pathways based on nodule size and patient risk factors",
+      "type": "algorithm",
+      "key_findings": [
+        "Size-based stratification",
+        "Risk assessment integration"
+      ],
+      "source_page": 20,
+      "source_excerpt": "Figure 2: ACCP Algorithm for nodule management stratified by size",
+      "present_in_source": true
+    }
+  ],
+  "clinical_pearls": [
+    {
+      "content": "Volume doubling time (VDT) of 20-400 days suggests malignancy",
+      "source_page": 25,
+      "source_excerpt": "VDT between 20-400 days is highly suggestive of malignant growth",
+      "present_in_source": true
+    }
+  ],
+  "extraction_metadata": {
+    "source_pdf": "Textbooks/Chapter pdfs/Approach to Peripheral Lung Lesions.pdf",
+    "adobe_json": "Textbooks/Chapter json/Approach to Peripheral Lung Lesions.json",
+    "extraction_date": "2025-08-18T12:00:00Z",
+    "text_pages": 35,
+    "chunks_processed": 6,
+    "model": "gpt-4o",
+    "extractor_version": "production_multipass_v2.0",
+    "passes_completed": 7,
+    "quality_issues": {}
+  }
+}

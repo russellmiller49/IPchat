@@ -1,0 +1,869 @@
+{
+  "chapter_metadata": {
+    "title": {
+      "value": "General Principles of Mediastinal Cryobiopsy | source_page: 1 | source_excerpt: 'General Principles of Mediastinal Cryobiopsy'",
+      "present_in_source": true
+    },
+    "authors": [],
+    "chapter_number": {
+      "value": null,
+      "present_in_source": false
+    },
+    "learning_objectives": [],
+    "key_points": [],
+    "page_range": {
+      "start": 1,
+      "end": 10
+    }
+  },
+  "anatomical_content": {
+    "structures": []
+  },
+  "clinical_procedures": [],
+  "diagnostic_approaches": [
+    {
+      "name": "Endobronchial ultrasound-guided transbronchial needle aspiration (EBUS-TBNA)",
+      "purpose": "Guide aspiration of mediastinal lymph nodes or masses for histological and cytological analysis; detecting and staging mediastinal diseases.",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Uses ultrasound imaging during bronchoscopy to guide aspiration of lymph nodes or masses in the mediastinum.",
+      "interpretation": "Offers comparable diagnostic efficiency for detecting and staging mediastinal diseases.",
+      "sensitivity": null,
+      "specificity": null,
+      "ppv": null,
+      "npv": null,
+      "accuracy": null,
+      "limitations": [
+        "Small tissue amounts may lack sufficient cells or architecture",
+        "hindering definitive diagnosis and molecular testing."
+      ],
+      "when_to_use": "Detecting and staging mediastinal diseases.",
+      "source_page": 2,
+      "source_excerpt": "Endobronchial ultrasound-guided transbronchial needle aspiration (EBUS-TBNA) is a minimally invasive procedure that uses ultrasound imaging during bronchoscopy to guide the aspiration of lymph nodes or masses",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "name": "Endobronchial ultrasound-guided transbronchial mediastinal cryobiopsy (EBUS-TBMCB)",
+      "purpose": "Obtain larger, intact mediastinal tissue samples; enhance diagnostic yield for mediastinal diseases and molecular diagnosis.",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Under real-time EBUS guidance, create an airway wall window with a high-frequency needle-knife; insert cryoprobe into lesion to freeze and extract tissue; thaw and fix specimen.",
+      "interpretation": "Demonstrated higher overall diagnostic yield versus EBUS-TBNA; generally safe with minor adverse events.",
+      "sensitivity": null,
+      "specificity": null,
+      "ppv": null,
+      "npv": null,
+      "accuracy": null,
+      "limitations": [
+        "No conclusive evidence regarding impact of cryoprobe diameter on diagnostic accuracy."
+      ],
+      "when_to_use": "Sampling and diagnosis of mediastinal and hilar lymph nodes and lesions; patients with newly discovered mediastinal lesions or relevant symptoms requiring biopsy.",
+      "source_page": 1,
+      "source_excerpt": "endobronchial ultrasound-guided trans-bronchial mediastinal cryobiopsy (EBUS-TBMCB) has been introduced as an alternative for mediastinal lymph node sampling.",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "name": "EBUS Examination (systematic mediastinal assessment)",
+      "purpose": "Systematic assessment of mediastinal and hilar lymph node stations before sampling.",
+      "criteria_or_scoring": [
+        "Examine stations per Mountain-Dressler map",
+        "assess blood supply",
+        "measure long and short axes."
+      ],
+      "how_to_perform": "Insert EBUS bronchoscope; contact airway wall; sequentially examine all stations per Mountain-Dressler map; use Doppler; measure lesion size.",
+      "interpretation": null,
+      "sensitivity": null,
+      "specificity": null,
+      "ppv": null,
+      "npv": null,
+      "accuracy": null,
+      "limitations": null,
+      "when_to_use": "Prior to selecting the target lesion for biopsy.",
+      "source_page": 5,
+      "source_excerpt": "a systematic examination of all mediastinal and hilar lymph node stations is sequentially performed according to the Mountain-Dressler lymph node map.",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "name": "Mountain-Dressler lymph node map",
+      "purpose": "Framework to sequentially examine mediastinal and hilar lymph node stations.",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Sequential examination of lymph node stations according to the map during EBUS.",
+      "interpretation": null,
+      "sensitivity": null,
+      "specificity": null,
+      "ppv": null,
+      "npv": null,
+      "accuracy": null,
+      "limitations": null,
+      "when_to_use": "During EBUS assessment to guide station-by-station evaluation.",
+      "source_page": 5,
+      "source_excerpt": "a systematic examination of all mediastinal and hilar lymph node stations is sequentially performed according to the Mountain-Dressler lymph node map.",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "name": "Doppler Ultrasound (during EBUS) for blood supply assessment",
+      "purpose": "Identify lesion blood supply and measure size to inform biopsy targeting.",
+      "criteria_or_scoring": [
+        "Measure long and short axis dimensions."
+      ],
+      "how_to_perform": "Use Doppler Ultrasound to identify blood supply; measure lesion long and short axes.",
+      "interpretation": null,
+      "sensitivity": null,
+      "specificity": null,
+      "ppv": null,
+      "npv": null,
+      "accuracy": null,
+      "limitations": null,
+      "when_to_use": "For each lesion during EBUS to guide safe sampling.",
+      "source_page": 5,
+      "source_excerpt": "For each lesion, the blood supply is identified by the Doppler Ultrasound and the size is measured by its long axis and short axis",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "name": "Thin-section chest CT (preprocedural)",
+      "purpose": "Precisely locate the lesion to guide EBUS-TBMCB.",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Obtain preprocedural thin-section chest CT; use findings with real-time EBUS guidance to target lesion.",
+      "interpretation": null,
+      "sensitivity": null,
+      "specificity": null,
+      "ppv": null,
+      "npv": null,
+      "accuracy": null,
+      "limitations": null,
+      "when_to_use": "Before EBUS-TBMCB to plan the approach.",
+      "source_page": 2,
+      "source_excerpt": "It involves preprocedural thin-section chest CT and real-time EBUS guidance to precisely locate the lesion.",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "name": "Radial EBUS-guided lung tissue acquisition (cryoprobe-assisted)",
+      "purpose": "Lung tissue acquisition; shown safe and efficient.",
+      "criteria_or_scoring": [],
+      "how_to_perform": null,
+      "interpretation": "Proving to be both safe and efficient.",
+      "sensitivity": null,
+      "specificity": null,
+      "ppv": null,
+      "npv": null,
+      "accuracy": null,
+      "limitations": null,
+      "when_to_use": null,
+      "source_page": 2,
+      "source_excerpt": "Cryoprobe has been applied in regular bronchoscopy and radial EBUS-guided lung tissue acquisition, proving to be both safe and efficient",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "name": "Forceps biopsy (traditional comparator)",
+      "purpose": "Traditional tissue sampling method for pathological evaluation.",
+      "criteria_or_scoring": [],
+      "how_to_perform": null,
+      "interpretation": "Inferior to cryobiopsy in sample volume and quality for pathology.",
+      "sensitivity": null,
+      "specificity": null,
+      "ppv": null,
+      "npv": null,
+      "accuracy": null,
+      "limitations": [
+        "Yields smaller",
+        "lower-quality samples compared to cryobiopsy."
+      ],
+      "when_to_use": null,
+      "source_page": 2,
+      "source_excerpt": "Compared to traditional forceps biopsy, this technique is superior in its capacity to harvest a sufficient sample volume with improved quality for pathological evaluation",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "name": "Bleeding severity grading (Grade 3 or 4) for perioperative adverse events",
+      "purpose": "Classify moderate-severe bleeding severity post-procedure.",
+      "criteria_or_scoring": [
+        "Grade 3 or 4 defined by need for topical agents",
+        "hemodynamic support",
+        "transfusion",
+        "or interventions."
+      ],
+      "how_to_perform": null,
+      "interpretation": null,
+      "sensitivity": null,
+      "specificity": null,
+      "ppv": null,
+      "npv": null,
+      "accuracy": null,
+      "limitations": null,
+      "when_to_use": "To categorize perioperative severe adverse events.",
+      "source_page": 6,
+      "source_excerpt": "moderate-severe bleeding (Grade 3 or 4: bleeding requiring topical instillation of epinephrine or ice cold saline or bleeding requiring hemodynamic support, transfusion of blood products",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "name": "Postprocedure chest X-ray within 24 hours",
+      "purpose": "Detect pneumothorax, pneumomediastinum, or mediastinitis after procedure.",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Obtain chest X-ray (or other imaging) within 24 hours postprocedure.",
+      "interpretation": null,
+      "sensitivity": null,
+      "specificity": null,
+      "ppv": null,
+      "npv": null,
+      "accuracy": null,
+      "limitations": null,
+      "when_to_use": "After EBUS-TBMCB to evaluate for complications.",
+      "source_page": 6,
+      "source_excerpt": "Chest X-ray or other imaging examinations are required within 24 hours to detect whether there is pneumothorax, pneumomediastinum, or mediastinitis.",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "name": "Endobronchial ultrasound-guided transbronchial mediastinal cryobiopsy (EBUS-TBMCB)",
+      "purpose": "Obtain adequate material from mediastinal and hilar lesions",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Introduce a cryoprobe into mediastinal and hilar lesions under EBUS guidance",
+      "interpretation": "Improved diagnostic yield compared to EBUS-TBNA; samples approximately three times the size of standard forceps",
+      "sensitivity": null,
+      "specificity": null,
+      "ppv": null,
+      "npv": null,
+      "accuracy": null,
+      "limitations": [
+        "May miss diseased tissue if conducted at the same location",
+        "procedure is relatively more complex than needle aspiration"
+      ],
+      "when_to_use": "As a complementary technique to conventional biopsy",
+      "source_page": 7,
+      "source_excerpt": "cryoprobe can be successfully introduced into mediastinal and hilar lesions in all cases, yielding adequate material approximately three times the size of that obtained using standard forceps.",
+      "present_in_source": true,
+      "page_range": "7-10"
+    },
+    {
+      "name": "Combined EBUS-TBNA with cryobiopsy",
+      "purpose": "New sampling strategy for mediastinal lesions and hilar lymphadenopathy",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Combine needle aspiration and cryobiopsy during EBUS",
+      "interpretation": "Similar accuracy for mediastinal metastases vs needle aspiration alone; superior diagnostic yield for benign disorders; specimens more suitable for molecular/immunological profiling; no increased complications",
+      "sensitivity": null,
+      "specificity": null,
+      "ppv": null,
+      "npv": null,
+      "accuracy": null,
+      "limitations": null,
+      "when_to_use": "For mediastinal lesions and hilar lymphadenopathy",
+      "source_page": 7,
+      "source_excerpt": "the combination of EBUS-TBNA with cryobiopsy showed similar accuracy in detecting mediastinal metastases compared to standard needle aspiration alone, while providing a superior diagnostic yield for benign disorders.",
+      "present_in_source": true,
+      "page_range": "7-10"
+    },
+    {
+      "name": "EBUS-guided forceps biopsy (under real-time EBUS guidance)",
+      "purpose": "Obtaining more mediastinal tissue",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Forceps biopsy performed under real-time EBUS guidance",
+      "interpretation": "Enhanced sample quality and improved diagnostic yield compared to EBUS-TBNA, particularly for sarcoidosis and lymphoma",
+      "sensitivity": null,
+      "specificity": null,
+      "ppv": null,
+      "npv": null,
+      "accuracy": null,
+      "limitations": null,
+      "when_to_use": "Particularly for sarcoidosis and lymphoma",
+      "source_page": 8,
+      "source_excerpt": "Forceps biopsy performed under real-time EBUS guidance, a relatively new technique for obtaining more mediastinal tissue, demonstrates enhanced sample quality and improved diagnostic yield compared to EBUS-TBNA.",
+      "present_in_source": true,
+      "page_range": "7-10"
+    },
+    {
+      "name": "Transesophageal mediastinal cryobiopsy (EUS-TBMCB)",
+      "purpose": "Provide larger tissue samples with more histopathological information via the esophageal route",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Endoscopic transesophageal cryobiopsy with EUS-B-guided penetration of the cryoprobe into the mediastinal lesion",
+      "interpretation": "Diagnostic yield: EUS-FNA 61% vs EUS-TBMCB 100%; no significant complications observed",
+      "sensitivity": null,
+      "specificity": null,
+      "ppv": null,
+      "npv": null,
+      "accuracy": null,
+      "limitations": [
+        "Major technical challenge is obtaining a clear view with the EBUS scope",
+        "requiring repeated inflation of air into the esophagus"
+      ],
+      "when_to_use": "For mediastinal lesions that cannot be accessed via the tracheal way",
+      "source_page": 9,
+      "source_excerpt": "The diagnostic yield for EUS-FNA was 61%, while EUS-TBMCB achieved a 100% yield with no signiﬁcant complications observed during the procedure [12].",
+      "present_in_source": true,
+      "page_range": "7-10"
+    },
+    {
+      "name": "Endoscopic ultrasound-guided fine-needle aspiration (EUS-FNA)",
+      "purpose": "Obtaining lymph node samples through the esophageal route",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Uses fine-needle aspiration for tissue sampling",
+      "interpretation": "May result in inadequate specimens unsuitable for a definitive diagnosis",
+      "sensitivity": null,
+      "specificity": null,
+      "ppv": null,
+      "npv": null,
+      "accuracy": null,
+      "limitations": [
+        "May result in inadequate specimens that are unsuitable for a definitive diagnosis"
+      ],
+      "when_to_use": "For mediastinal lesions that cannot be accessed via the tracheal way",
+      "source_page": 8,
+      "source_excerpt": "For mediastinal lesions that cannot be accessed via the tracheal way, obtaining lymph node samples through the esophageal route—using techniques such as endoscopic ultrasound-guided fine-needle aspiration (EUS-FNA)—is an alternative option.",
+      "present_in_source": true,
+      "page_range": "7-10"
+    },
+    {
+      "name": "Endoscopic transesophageal fine-needle aspiration with a convex endobronchial ultrasound probe (EUS-B-FNA)",
+      "purpose": "Obtaining lymph node samples through the esophageal route",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Uses fine-needle aspiration for tissue sampling",
+      "interpretation": "May result in inadequate specimens unsuitable for a definitive diagnosis",
+      "sensitivity": null,
+      "specificity": null,
+      "ppv": null,
+      "npv": null,
+      "accuracy": null,
+      "limitations": [
+        "May result in inadequate specimens that are unsuitable for a definitive diagnosis"
+      ],
+      "when_to_use": "For mediastinal lesions that cannot be accessed via the tracheal way",
+      "source_page": 8,
+      "source_excerpt": "Consistent with EBUS-TBNA, both EUS-FNA and EUS-B-FNA use fine-needle aspiration for tissue sampling, which may result in inadequate specimens that are unsuitable for a definitive diagnosis.",
+      "present_in_source": true,
+      "page_range": "7-10"
+    },
+    {
+      "name": "Postprocedural chest X-rays or other imaging examinations",
+      "purpose": "Early detection of potential adverse events after TBMCB",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Obtain chest X-rays or other imaging examinations postprocedure",
+      "interpretation": "Useful for early detection of potential adverse events",
+      "sensitivity": null,
+      "specificity": null,
+      "ppv": null,
+      "npv": null,
+      "accuracy": null,
+      "limitations": null,
+      "when_to_use": "After procedures to detect complications early",
+      "source_page": 8,
+      "source_excerpt": "Postprocedural chest X-rays or other imaging examinations are useful for the early detection of potential adverse events.",
+      "present_in_source": true,
+      "page_range": "7-10"
+    }
+  ],
+  "treatment_algorithms": [],
+  "clinical_guidelines": [
+    {
+      "title": null,
+      "condition": "lung cancer staging",
+      "source_organization": "European Respiratory Society; American Thoracic Society; American College of Chest Physicians",
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "recommend needle-based techniques as the preferred initial approach to lung cancer staging",
+        "Guidelines recommend endobronchial ultrasound-guided transbronchial needle aspiration (EBUS-TBNA) as the initial technique for mediastinal lymph node staging in lung cancer."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 2,
+      "source_excerpt": "guidelines by the European Respiratory Society, the American Thoracic Society, and the American College of Chest Physicians recommend needle-based techniques as the preferred initial approach to lung cancer staging",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "title": "Indications and Contraindications",
+      "condition": "mediastinal and hilar lymph nodes and lesions",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "patients with at least one mediastinal lesion with a short-axis diameter ≥1 cm detected by thoracic imaging",
+        "patients with newly discovered mediastinal lesions",
+        "patients presenting with clinical respiratory symptoms such as cough, expectoration, thoracalgia, apnea, or complicated lung lesions that require biopsy to determine the etiology.",
+        "Patients should have undergone necessary preoperative laboratory and imaging examinations, including cardiac ultrasound or CTA when indicated, to exclude potential contraindications."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": "patients with at least one mediastinal lesion with a short-axis diameter ≥1 cm detected by thoracic imaging; patients with newly discovered mediastinal lesions; and patients presenting with clinical respiratory symptoms",
+      "contraindications_and_exceptions": "severe cardiopulmonary diseases, coagulation disorders, intolerance to anesthesia or endoscopic procedures, psychiatric disorders, or severe neurosis.",
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 4,
+      "source_excerpt": "patients with at least one mediastinal lesion with a short-axis diameter ≥1 cm detected by thoracic imaging; patients with newly discovered mediastinal lesions",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "title": "Anesthesia",
+      "condition": "mediastinal cryobiopsy (EBUS-TBMCB)",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "The upper airway topical anesthesia is achieved by 2% lidocaine, and conscious sedation is achieved by intravenous injection of midazolam and fentanyl.",
+        "Oxygen is initially administrated at 1–2 L/min and increased when oxygen saturation is lower than 90%.",
+        "Patients’ vital signs and pulse blood oxygen saturation are continuously monitored."
+      ],
+      "decision_points_and_pathways": [
+        "Increase oxygen when oxygen saturation is lower than 90%."
+      ],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": "Patients’ vital signs and pulse blood oxygen saturation are continuously monitored.",
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 4,
+      "source_excerpt": "Oxygen is initially administrated at 1–2 L/min and increased when oxygen saturation is lower than 90%.",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "title": "EBUS Examination",
+      "condition": "mediastinal and hilar lymph node assessment before EBUS-TBMCB",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "An EBUS bronchoscope is inserted into the trachea through the nose (if the nose is too narrow for the EBUS bronchoscope to pass through or there are other contradictions, the oral way can be the alternative option).",
+        "a systematic examination of all mediastinal and hilar lymph node stations is sequentially performed according to the Mountain-Dressler lymph node map.",
+        "For each lesion, the blood supply is identified by the Doppler Ultrasound and the size is measured by its long axis and short axis.",
+        "The most suspicious lesion implicated by imaging data ... with relatively less biopsy risk is selected as the target for biopsy sampling."
+      ],
+      "decision_points_and_pathways": [
+        "If nasal passage is too narrow or there are other contradictions, use the oral way.",
+        "Select the most suspicious lesion with relatively less biopsy risk as the target."
+      ],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 4,
+      "source_excerpt": "if the nose is too narrow for the EBUS bronchoscope to pass through or there are other contradictions, the oral way can be the alternative option",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "title": "Opening a Window on the Airway Wall",
+      "condition": "access creation for EBUS-TBMCB",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "a cut is then made (about 2–3 mm) on the airway wall adjacent to the target lesions.",
+        "The knife is thereafter advanced into the lesion under real-time ultrasound visualization, avoiding area with abundant blood flow or massive necrosis."
+      ],
+      "decision_points_and_pathways": [
+        "Avoid area with abundant blood flow or massive necrosis."
+      ],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": "the laser thermal ablation has also been reported to be used in the windowing process. Opening a window is not always necessary ... inserted through the previously created puncture point by the needle into the lymph node.",
+      "source_page": 5,
+      "source_excerpt": "a cut is then made (about 2–3 mm) on the airway wall adjacent to the target lesions.",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "title": "Cryobiopsy",
+      "condition": "tissue sampling during EBUS-TBMCB",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "the probe is activated to cool down with nitrous oxide for around 7 s.",
+        "The frozen specimen is released from the cryoprobe by thawing in saline and fixed in formalin.",
+        "Cryoprobe yields intact samples with greater volume compared with TBNA needle or forceps."
+      ],
+      "decision_points_and_pathways": [
+        "Avoiding area with abundant blood flow or massive necrosis."
+      ],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 6,
+      "source_excerpt": "the probe is activated to cool down with nitrous oxide for around 7 s.",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "title": "Postprocedure Check",
+      "condition": "post-EBUS-TBMCB monitoring and adverse events",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Chest X-ray or other imaging examinations are required within 24 hours to detect whether there is pneumothorax, pneumomediastinum, or mediastinitis.",
+        "24 hours after operation, a follow-up is conducted and the symptoms are recorded, including fever, cough, hemoptysis, chest pain, dyspnea, and so on.",
+        "ICU transfer within 48 hours after the procedure is also considered a severe adverse event."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": "Check whether there is hemorrhage within the airway ... Chest X-ray ... within 24 hours ... 24 hours after operation, a follow-up is conducted ... 1 month later, a second follow-up is conducted.",
+      "outcome_measures": "Perioperative severe adverse events include moderate-severe bleeding (Grade 3 or 4: bleeding requiring topical instillation of epinephrine or ice cold saline or bleeding requiring hemodynamic support, transfusion of blood products, selective mainstem intubation, bronchial blocker, hospital admission, or surgical intervention) ... oversedation requiring ventilatory support or sedation reversal, pneumothorax with persistent air leak (> 5 days), unplanned hospital readmission, and death. ICU transfer within 48 hours after the procedure is also considered a severe adverse event.",
+      "alternative_approaches": null,
+      "source_page": 6,
+      "source_excerpt": "Chest X-ray or other imaging examinations are required within 24 hours to detect whether there is pneumothorax, pneumomediastinum, or mediastinitis.",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "title": "Combined endobronchial and oesophageal endosonography for the diagnosis and staging of lung cancer. European Society of Gastrointestinal Endoscopy (ESGE) Guideline, in cooperation with the European Respiratory Society (ERS) and the European Society of Thoracic Surgeons (ESTS).",
+      "condition": "diagnosis and staging of lung cancer",
+      "source_organization": "European Society of Gastrointestinal Endoscopy (ESGE); European Respiratory Society (ERS); European Society of Thoracic Surgeons (ESTS)",
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Guidelines recommend combining EUS-FNA with EBUS-TBNA to increase the number of biopsy samples and enable multiple lymph node biopsies [2, 10]."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 8,
+      "source_excerpt": "Guidelines recommend combining EUS-FNA with EBUS-TBNA to increase the number of biopsy samples and enable multiple lymph node biopsies [2, 10].",
+      "present_in_source": true,
+      "page_range": "7-10"
+    },
+    {
+      "title": "Combined endobronchial and esophageal endosonography for the diagnosis and staging of lung cancer: European Society of Gastrointestinal Endoscopy (ESGE) Guideline, in cooperation with the European Respiratory Society (ERS) and the European Society of Thoracic Surgeons (ESTS).",
+      "condition": "diagnosis and staging of lung cancer",
+      "source_organization": "European Society of Gastrointestinal Endoscopy (ESGE); European Respiratory Society (ERS); European Society of Thoracic Surgeons (ESTS)",
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Guidelines recommend combining EUS-FNA with EBUS-TBNA to increase the number of biopsy samples and enable multiple lymph node biopsies [2, 10]."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 8,
+      "source_excerpt": "Guidelines recommend combining EUS-FNA with EBUS-TBNA to increase the number of biopsy samples and enable multiple lymph node biopsies [2, 10].",
+      "present_in_source": true,
+      "page_range": "7-10"
+    },
+    {
+      "title": "Invasive mediastinal staging of lung cancer: ACCP evidence-based clinical practice guidelines (2nd edition).",
+      "condition": "invasive mediastinal staging of lung cancer",
+      "source_organization": "ACCP",
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 10,
+      "source_excerpt": "Invasive mediastinal staging of lung cancer: ACCP evidence-based clinical practice guidelines (2nd edition).",
+      "present_in_source": true,
+      "page_range": "7-10"
+    },
+    {
+      "title": "British Thoracic Society guideline for diagnostic flexible bronchoscopy in adults: accredited by NICE.",
+      "condition": "diagnostic flexible bronchoscopy",
+      "source_organization": "British Thoracic Society Bronchoscopy Guideline Group",
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": "adults",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 10,
+      "source_excerpt": "British Thoracic Society guideline for diagnostic flexible bronchoscopy in adults: accredited by NICE.",
+      "present_in_source": true,
+      "page_range": "7-10"
+    },
+    {
+      "title": "General Principles of Mediastinal Cryobiopsy",
+      "condition": "mediastinal diseases",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "the combined use of TBNA and cryobiopsy may be the optimal approach for mediastinal diseases.",
+        "Postprocedural chest X-rays or other imaging examinations are useful for the early detection of potential adverse events.",
+        "For mediastinal lesions that cannot be accessed via the tracheal way, obtaining lymph node samples through the esophageal route—using techniques such as endoscopic ultrasound-guided fine-needle aspiration (EUS-FNA) or endoscopic transesophageal fine-needle aspiration with a convex endobronchial ultrasound probe (EUS-B-FNA)—is an alternative option."
+      ],
+      "decision_points_and_pathways": [
+        "If mediastinal lesions cannot be accessed via the tracheal way, use the esophageal route (EUS-FNA or EUS-B-FNA)."
+      ],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": "Postprocedural chest X-rays or other imaging examinations are useful for the early detection of potential adverse events.",
+      "outcome_measures": null,
+      "alternative_approaches": "obtaining lymph node samples through the esophageal route—using techniques such as EUS-FNA or EUS-B-FNA",
+      "source_page": 8,
+      "source_excerpt": "the combined use of TBNA and cryobiopsy may be the optimal approach for mediastinal diseases.",
+      "present_in_source": true,
+      "page_range": "7-10"
+    }
+  ],
+  "drug_information": [],
+  "tables": [],
+  "figures": [
+    {
+      "figure_id": "Fig. 1",
+      "title": null,
+      "caption": "Fig. 1 Mediastinal cryobiopsy can be performed in a regular bronchos- copy suite",
+      "type": null,
+      "key_findings": [
+        "Mediastinal cryobiopsy can be performed in a regular bronchos- copy suite"
+      ],
+      "clinical_significance": null,
+      "source_page": 3,
+      "source_excerpt": "Fig. 1 Mediastinal cryobiopsy can be performed in a regular bronchos- copy suite",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "figure_id": "Fig. 6",
+      "title": null,
+      "caption": "Fig. 6 The tissue volume obtained by EBUS-TBMCB compared with that by EBUS-TBNA and forceps biopsy. Tissue obtained by EBUS-TBNA (tissue suspended in formalin) (a). Tissue obtained by EBUS-TBMCB (b). Comparison of tissue size obtained by EBUS- TBMCB with a 1.1mm cryoprobe (1time) and EBUS forceps biopsies with a 1.9mm forceps (3 times together) (c). Scale bar = 5 mm. EBUS- TBNA, endobronchial ultrasound-guided transbronchial needle aspiration. EBUS-TBMCB, endobronchial ultrasound-guided transbronchial mediasti- nal cryobiopsy",
+      "type": null,
+      "key_findings": [
+        "The tissue volume obtained by EBUS-TBMCB compared with that by EBUS-TBNA and forceps biopsy.",
+        "Tissue obtained by EBUS-TBNA (tissue suspended in formalin) (a).",
+        "Tissue obtained by EBUS-TBMCB (b).",
+        "Comparison of tissue size obtained by EBUS-TBMCB with a 1.1mm cryoprobe (1time) and EBUS forceps biopsies with a 1.9mm forceps (3 times together) (c).",
+        "Scale bar = 5 mm."
+      ],
+      "clinical_significance": null,
+      "source_page": 7,
+      "source_excerpt": "Comparison of tissue size obtained by EBUS-TBMCB with a 1.1mm cryoprobe (1time) and EBUS forceps biopsies with a 1.9mm forceps (3 times together) (c). Scale bar = 5 mm.",
+      "present_in_source": true,
+      "page_range": "7-10"
+    }
+  ],
+  "clinical_cases": [
+    {
+      "content": "In 2021, Huang et al. reported the first application of endoscopic transesophageal cryobiopsy, which successfully diagnosed a para-aortic mediastinal lesion as mediastinal nodular lymphocyte predominant Hodgkin lymphoma [11] (Fig. 8).",
+      "source_page": 9,
+      "source_excerpt": "successfully diagnosed a para-aortic mediastinal lesion as mediastinal nodular lymphocyte predominant Hodgkin lymphoma",
+      "present_in_source": true,
+      "page_range": "7-10"
+    }
+  ],
+  "definitions": [
+    {
+      "content": "The mediastinum is the central compartment of the thoracic cavity situated between the two pleural cavities, containing essential structures such as the heart, thymus, esophagus, and major blood vessels.",
+      "source_page": 2,
+      "source_excerpt": "The mediastinum is the central compartment of the thoracic cavity situated between the two pleural cavities, containing essential structures such as the heart, thymus, esophagus, and major blood vessels.",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "content": "EBUS-TBNA, endobronchial ultrasound-guided transbronchial needle aspiration.",
+      "source_page": 7,
+      "source_excerpt": "EBUS-TBNA, endobronchial ultrasound-guided transbronchial needle aspiration.",
+      "present_in_source": true,
+      "page_range": "7-10"
+    },
+    {
+      "term": "pCA",
+      "definition": "pretest probability of cancer",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "IPN",
+      "definition": "indeterminate pulmonary nodule",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "SPN",
+      "definition": "solitary pulmonary nodule",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "VDT",
+      "definition": "volume doubling time",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "FDG",
+      "definition": "fluorodeoxyglucose",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "PET",
+      "definition": "positron emission tomography",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "EBUS",
+      "definition": "endobronchial ultrasound",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "TBNA",
+      "definition": "transbronchial needle aspiration",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "PPV",
+      "definition": "positive predictive value",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "NPV",
+      "definition": "negative predictive value",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "ACCP",
+      "definition": "American College of Chest Physicians",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "BTS",
+      "definition": "British Thoracic Society",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    }
+  ],
+  "clinical_pearls": [
+    {
+      "content": "For each lesion, the blood supply is identified by the Doppler Ultrasound and the size is measured by its long axis and short axis.",
+      "source_page": 5,
+      "source_excerpt": "the blood supply is identified by the Doppler Ultrasound and the size is measured by its long axis and short axis",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "content": "evidence, the combined use of TBNA and cryobiopsy may be the optimal approach for mediastinal diseases.",
+      "source_page": 8,
+      "source_excerpt": "the combined use of TBNA and cryobiopsy may be the optimal approach",
+      "present_in_source": true,
+      "page_range": "7-10"
+    }
+  ],
+  "references": [
+    {
+      "citation": "[1]",
+      "authors": [],
+      "year": null,
+      "journal": null,
+      "doi_pmid": null,
+      "study_type": null,
+      "key_findings": null,
+      "source_page": 2,
+      "source_excerpt": "thus limiting their widespread clinical use [1].",
+      "present_in_source": true,
+      "page_range": "1-6"
+    },
+    {
+      "citation": {
+        "value": "Detterbeck FC, Jantz MA, Wallace M, et al. Invasive mediastinal staging of lung cancer: ACCP evidence-based clinical practice guidelines (2nd edition). Chest. 2007;132(3 Suppl):202s–20s.",
+        "present_in_source": true
+      },
+      "authors": {
+        "value": [
+          "Detterbeck FC",
+          "Jantz MA",
+          "Wallace M",
+          "et al."
+        ],
+        "present_in_source": true
+      },
+      "year": {
+        "value": 2007,
+        "present_in_source": true
+      },
+      "journal": {
+        "value": "Chest.",
+        "present_in_source": true
+      },
+      "doi_pmid": {
+        "value": null,
+        "present_in_source": false
+      },
+      "study_type": {
+        "value": "guidelines",
+        "present_in_source": true
+      },
+      "key_findings": {
+        "value": null,
+        "present_in_source": false
+      },
+      "source_page": 10,
+      "source_excerpt": "Chest. 2007;132(3 Suppl):202s–20s.",
+      "present_in_source": true,
+      "page_range": "7-10"
+    }
+  ],
+  "summary": {
+    "clinical_applications": [],
+    "practice_recommendations": [
+      {
+        "content": "Guidelines recommend endobronchial ultrasound-guided transbronchial needle aspiration (EBUS-TBNA) as the initial technique for mediastinal lymph node staging in lung cancer.",
+        "source_page": 1,
+        "source_excerpt": "Guidelines recommend endobronchial ultrasound-guided transbronchial needle aspiration (EBUS-TBNA) as the initial technique for mediastinal lymph node staging in lung cancer.",
+        "present_in_source": true,
+        "page_range": "1-6"
+      },
+      {
+        "content": "Guidelines recommend combining EUS-FNA with EBUS-TBNA to increase the number of biopsy samples and enable multiple lymph node biopsies [2, 10].",
+        "source_page": 8,
+        "source_excerpt": "Guidelines recommend combining EUS-FNA with EBUS-TBNA",
+        "present_in_source": true,
+        "page_range": "7-10"
+      }
+    ],
+    "future_directions": [],
+    "controversies": []
+  },
+  "extraction_metadata": {
+    "source_pdf": "Textbooks\\Chapter pdfs\\General Principles of Mediastinal Cryobiopsy.pdf",
+    "adobe_json": null,
+    "extraction_date": "2025-08-21T07:20:16.414236+00:00",
+    "text_pages": 10,
+    "chunks_processed": 2,
+    "model": "gpt-5",
+    "extractor_version": "production_multipass_v3.2_gpt5_simple",
+    "enhancements_applied": [
+      "ocr_cleanup",
+      "type_normalization",
+      "criteria_tokenization",
+      "guideline_deduplication",
+      "page_range_normalization",
+      "performance_metric_structuring",
+      "definition_enrichment"
+    ],
+    "passes_completed": 7
+  }
+}

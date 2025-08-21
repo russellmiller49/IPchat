@@ -631,8 +631,22 @@ def perform_extraction_pass_with_retry(
                 
                 if use_responses:
                     # --- GPT-5 via Responses API ---
-                    combined_prompt = f"{system_content}\n\n{user_prompt}"
-                    
+                    # Build a single combined prompt and enforce JSON via instructions.
+                    json_enforcer = "Return one valid JSON object only. Do not include any prose outside the JSON."
+                    if schema:
+                        # Embed a compact schema hint to steer structure for SDKs that don't support response_format here
+                        try:
+                            schema_snippet = json.dumps(schema)
+                            schema_hint = (
+                                f"\nStrictly match this JSON Schema (no extra keys): {schema_snippet}"
+                            )
+                        except Exception:
+                            schema_hint = ""
+                    else:
+                        schema_hint = ""
+
+                    combined_prompt = f"{system_content}\n\n{user_prompt}\n\n{json_enforcer}{schema_hint}"
+
                     # Use safe labels instead of undefined variables
                     if chunk_label:
                         print(f"\n  🚀 Calling GPT-5 Responses API ({chunk_label}, pass {pass_name})")
@@ -640,26 +654,14 @@ def perform_extraction_pass_with_retry(
                         print(f"\n  🚀 Calling GPT-5 Responses API (pass {pass_name})")
                     print(f"     Model: {model}")
                     print(f"     Input length: {len(combined_prompt)} chars")
-                    
+
                     import time
                     start_time = time.time()
-                    
-                    # Ask GPT-5 for strict JSON with schema if available
-                    response_format = {"type": "json_object"}
-                    if schema:
-                        response_format = {
-                            "type": "json_schema",
-                            "json_schema": {
-                                "name": schema_name or "ExtractionSchema",
-                                "schema": schema
-                            }
-                        }
-                    
-                    # GPT-5 Responses API with proper JSON format
+
+                    # GPT-5 Responses API (do not pass response_format — not supported in some SDK versions)
                     resp = client.responses.create(
                         model=model,
-                        input=combined_prompt,
-                        response_format=response_format
+                        input=combined_prompt
                     )
                     
                     elapsed = time.time() - start_time

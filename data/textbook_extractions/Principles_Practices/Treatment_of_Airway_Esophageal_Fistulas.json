@@ -1,0 +1,212 @@
+{
+  "chapter_metadata": {
+    "title": "Treatment of Airway-Esophageal Fistulas",
+    "authors": [
+      "Rodrigo Garcia Tome",
+      "Lutz Freitag"
+    ],
+    "reference": "[Chapter Text]"
+  },
+  "definitions": [
+    {
+      "term": "TEF",
+      "definition": "tracheoesophageal fistula"
+    },
+    {
+      "term": "SEMS",
+      "definition": "self-expandable metallic stent"
+    },
+    {
+      "term": "EVAC",
+      "definition": "endoscopic vacuum-assisted closure"
+    },
+    {
+      "term": "APC",
+      "definition": "argon plasma coagulation"
+    },
+    {
+      "term": "NG",
+      "definition": "nasogastric tube"
+    }
+  ],
+  "etiology_and_classification": {
+    "congenital": {
+      "incidence": "1 in 4000 live births",
+      "associations": [
+        "VATER syndrome",
+        "CHARGE syndrome",
+        "congenital heart disease",
+        "GU malformations"
+      ],
+      "outcome": "Generally favorable after surgical repair unless associated with syndromic anomalies"
+    },
+    "acquired": {
+      "benign": [
+        "Prolonged mechanical ventilation (tube cuff ischemia/necrosis)",
+        "Traumatic intubation",
+        "Infection (mediastinitis, tuberculosis)",
+        "Caustic ingestion",
+        "Trauma (blunt/penetrating)",
+        "Inflammatory diseases (RA, IBD)",
+        "Iatrogenic from surgery or endoscopy"
+      ],
+      "malignant": [
+        "Esophageal cancer (most common; ~10% develop fistulas)",
+        "Lung cancer",
+        "Laryngeal cancer",
+        "Thyroid cancer",
+        "Lymphoma",
+        "Post-radiation or chemotherapy"
+      ]
+    }
+  },
+  "clinical_presentation": [
+    "Ono’s sign: coughing worsens with swallowing",
+    "Recurrent respiratory infections",
+    "Dysphagia",
+    "Hemoptysis",
+    "Chest pain",
+    "Weight loss due to fear of eating",
+    "Persistent air leak on ventilator",
+    "Gastric distension from air leak"
+  ],
+  "diagnostic_approaches": [
+    {
+      "test": "Contrast esophagram",
+      "sensitivity": "70–90%",
+      "notes": "Gastrografin preferred; barium avoided due to risk of pulmonary edema"
+    },
+    {
+      "test": "CT chest",
+      "notes": "Provides etiologic/anatomic information; less sensitive than esophagram"
+    },
+    {
+      "test": "Endoscopy (EGD, bronchoscopy)",
+      "notes": "Localizes and characterizes fistula; allows therapeutic intervention; methylene blue or autofluorescence can aid detection"
+    }
+  ],
+  "management": {
+    "initial_supportive": [
+      "Head of bed elevation ≥45°",
+      "Nil per os (NPO) / strict oral intake restriction",
+      "Proton pump inhibitor or H2RA",
+      "Frequent oral suctioning",
+      "Remove NG/OG tubes",
+      "Antimicrobials if infection suspected",
+      "G/J-tube or TPN for nutrition",
+      "Advance airway cuff distal to fistula if intubated",
+      "Ventilator adjustments (lower TV/PEEP)"
+    ],
+    "benign": [
+      "Surgical repair (direct suture, flap interposition, esophageal bypass)",
+      "Sealants (fibrin glue, cyanoacrylate, platelet-rich fibrin matrix, 2-OCA) for <5 mm fistulas",
+      "Endoscopic options if surgery not feasible"
+    ],
+    "malignant": [
+      "Primary: stenting (SEMS favored)",
+      "Goal: palliation of symptoms, QoL improvement",
+      "Surgery rarely feasible"
+    ],
+    "stenting": {
+      "esophageal": "Preferred if mid/distal esophagus and no airway compromise",
+      "airway": "Indicated if airway compromised or esophageal stent not tolerated",
+      "dual": "Used if esophageal stenting insufficient or causes airway compression; airway stent deployed first"
+    },
+    "other_therapeutics": [
+      "Tissue sealants (fibrin glue, cyanoacrylate, platelet-rich fibrin matrix, 2-OCA)",
+      "Occlusive devices (vascular plugs, silicone rings, septal buttons, decellularized matrix, PGA sheets)",
+      "Endoscopic clipping (OTSC)",
+      "Endoluminal suturing systems (OverStitch, Cor-Knot)",
+      "EVAC (sponge with NG suction, changed every 3–5 days)",
+      "Mucosal de-epithelialization (APC, laser, electrocautery, TCA, brush)",
+      "Experimental: mesenchymal stem cell transplantation"
+    ]
+  },
+  "treatment_algorithm": {
+    "benign": {
+      "<=5 mm": "Sealants",
+      ">5 mm and surgical candidate": "Surgery",
+      ">5 mm, not surgical candidate": "Airway or esophageal stent based on defect location"
+    },
+    "malignant": {
+      "default": "Dual stenting (airway + esophagus)",
+      "failed_dual": "Reassess goals of care; consider comfort measures"
+    }
+  },
+  "prognosis": {
+    "benign": "Better outcomes with surgery; reversible if managed early",
+    "malignant": "Poorer prognosis; right mainstem fistulas, sepsis, and ventilator dependence predict worse outcomes",
+    "palliative": "Stenting improves dysphagia, dyspnea, QoL; survival benefit uncertain"
+  },
+  "figures": [
+    {
+      "id": "Fig1",
+      "caption": "Illustration of malignant aerodigestive fistula",
+      "page": 2
+    },
+    {
+      "id": "Fig2–5",
+      "caption": "Endoscopic images of benign fistulas (traumatic intubation, infection, caustic ingestion)",
+      "page": 3
+    },
+    {
+      "id": "Fig6–8",
+      "caption": "Malignant fistulas involving trachea and bronchi",
+      "page": "4–5"
+    },
+    {
+      "id": "Fig9",
+      "caption": "CT showing bronchoesophageal fistula with aspiration",
+      "page": 5
+    },
+    {
+      "id": "Fig10–11",
+      "caption": "Bronchoscopic air bubbles; methylene blue sealing test",
+      "page": "5–6"
+    },
+    {
+      "id": "Fig12–18",
+      "caption": "Complications of stents: erosion, airway compression",
+      "page": "7–8"
+    },
+    {
+      "id": "Fig19–21",
+      "caption": "Stent migration and tumor progression cases",
+      "page": 10
+    },
+    {
+      "id": "Fig22–24",
+      "caption": "Airway compression, covered stent views, fractured airway stent",
+      "page": 11
+    },
+    {
+      "id": "Fig25–26",
+      "caption": "Dual stenting and multi-intubation setup",
+      "page": 12
+    },
+    {
+      "id": "Fig27",
+      "caption": "Panel of sealing devices and adjunctive therapies",
+      "page": 13
+    },
+    {
+      "id": "Fig28",
+      "caption": "Clip erosion into trachea through posterior wall",
+      "page": 13
+    },
+    {
+      "id": "Fig29",
+      "caption": "Management algorithm for adult acquired aerodigestive fistulas",
+      "page": 14
+    }
+  ],
+  "conclusion": {
+    "points": [
+      "Aerodigestive fistulas cause high morbidity/mortality and need prompt multidisciplinary management.",
+      "Benign: surgery with curative intent when feasible.",
+      "Malignant: palliative stenting is cornerstone.",
+      "Novel therapies (EVAC, sealants, stem cells) provide adjunctive or salvage options.",
+      "QoL improvement is often achievable even without cure."
+    ]
+  }
+}

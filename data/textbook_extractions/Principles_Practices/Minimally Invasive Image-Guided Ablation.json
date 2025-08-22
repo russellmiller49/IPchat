@@ -1,0 +1,119 @@
+{
+  "chapter_title": "Minimally Invasive Image-Guided Ablation",
+  "sections": [
+    {
+      "title": "Overview",
+      "content": "Minimally invasive image-guided ablation therapies are emerging as alternatives for lung cancer and metastatic lung tumors in patients who are not surgical candidates. Modalities include radiofrequency ablation (RFA), microwave ablation (MWA), cryoablation, laser ablation, and irreversible electroporation (IRE)."
+    },
+    {
+      "title": "Comparative Mechanisms and Applications",
+      "tables": [
+        {
+          "name": "Comparison of Ablation Modalities",
+          "columns": ["Aspect", "Radiofrequency ablation", "Microwave ablation", "Cryoablation", "Laser ablation", "Irreversible electroporation"],
+          "rows": [
+            {
+              "Aspect": "Mechanism",
+              "Radiofrequency ablation": "Uses electrical currents at 375–500 kHz to generate heat through resistive energy loss",
+              "Microwave ablation": "Applies electromagnetic fields (900–2500 MHz) to agitate water molecules, generating heat",
+              "Cryoablation": "Delivers pressurized gas through a cryoprobe, creating extreme cold via the Joule–Thomson effect",
+              "Laser ablation": "Delivers heat from a neodymium-doped yttrium aluminum garnet (Nd:YAG) laser emitting 1064 nm light",
+              "Irreversible electroporation": "Uses electrical pulses (microseconds to milliseconds) to create permanent nanopores in cell membranes"
+            },
+            {
+              "Aspect": "Applications",
+              "Radiofrequency ablation": "Small- to medium-sized tumors (<3 cm). May use cooling or infusion to enhance efficacy",
+              "Microwave ablation": "Suitable for larger tumors (3–5 cm or more)",
+              "Cryoablation": "Useful for lesions near critical structures. Various freeze–thaw–freeze cycles. Probes placed no more than 2 cm apart",
+              "Laser ablation": "Primarily for small, accessible lung lesions. The smallest access size",
+              "Irreversible electroporation": "Effective for tumors near critical structures"
+            },
+            {
+              "Aspect": "Ideal tumor size",
+              "Radiofrequency ablation": "<3 cm",
+              "Microwave ablation": "3–5 cm",
+              "Cryoablation": "<3 cm",
+              "Laser ablation": "<2 cm",
+              "Irreversible electroporation": "Variable; depends on tumor size and complexity"
+            },
+            {
+              "Aspect": "Ideal tumor location",
+              "Radiofrequency ablation": "Tumors not close to major blood vessels or airways due to potential heat-sink effect",
+              "Microwave ablation": "Effective for difficult-to-reach locations, peripheral preferred to avoid central harm",
+              "Cryoablation": "Anywhere. Safe near vital structures such as airways, blood vessels, and bones",
+              "Laser ablation": "Accessible small peripheral lesions in the lung",
+              "Irreversible electroporation": "Okay near critical structures; less suitable for tumors with significant necrosis or calcification"
+            },
+            {
+              "Aspect": "Treatment time",
+              "Radiofrequency ablation": "2–20 min per session",
+              "Microwave ablation": "5–30 min depending on tumor size",
+              "Cryoablation": "25–28 min per cycle; generally longer than RFA or MWA",
+              "Laser ablation": "10–20 min, shorter than thermal techniques",
+              "Irreversible electroporation": "20–60 min depending on tumor size and complexity"
+            },
+            {
+              "Aspect": "Benefits",
+              "Radiofrequency ablation": "Well-established with FDA approval. Low risk of complications. Shorter recovery",
+              "Microwave ablation": "Can treat larger tumors, faster ablation, larger ablation zone, not limited by conductive paths",
+              "Cryoablation": "Ice ball visualization, minimal collateral damage, lower risk of bronchopleural fistula, less pain",
+              "Laser ablation": "Precise control with thin applicators, potentially lower procedural costs",
+              "Irreversible electroporation": "Nonthermal; preserves vessels and matrix, may enhance immune response"
+            },
+            {
+              "Aspect": "Limitations",
+              "Radiofrequency ablation": "Less effective for large tumors or near critical structures. Interference with pacemakers",
+              "Microwave ablation": "Higher risk of collateral damage due to broader heat zone; device design variability",
+              "Cryoablation": "Longer procedures compared to RFA/MWA",
+              "Laser ablation": "Tissue charring may impair effectiveness. Limited long-term outcome data",
+              "Irreversible electroporation": "Not effective for tumors with necrosis/calcification. Long-term outcomes under investigation"
+            }
+          ],
+          "provenance": "pdf p.6:contentReference[oaicite:1]{index=1}"
+        }
+      ]
+    },
+    {
+      "title": "Indications, Special Considerations, Contraindications",
+      "tables": [
+        {
+          "name": "Clinical Applications of Lung Ablation",
+          "columns": ["Indication", "Special consideration", "Contraindication"],
+          "rows": [
+            {
+              "Indication": "Early-stage lung cancer in nonsurgical candidates",
+              "Special consideration": "Preserves pulmonary function with favorable outcomes",
+              "Contraindication": "Severe pulmonary hypertension"
+            },
+            {
+              "Indication": "Oligometastatic tumors",
+              "Special consideration": "Localized control, potential long-term remission if all sites treated",
+              "Contraindication": "Tumor proximity to critical structures (unless cryoablation)"
+            },
+            {
+              "Indication": "Recurrent tumors",
+              "Special consideration": "Useful in patients with limited pulmonary reserve from prior treatments",
+              "Contraindication": "Active infection or sepsis"
+            },
+            {
+              "Indication": "Combination therapy with surgery or radiation",
+              "Special consideration": "Enhances overall disease management",
+              "Contraindication": "Uncontrolled bleeding disorders"
+            },
+            {
+              "Indication": "Oligoprogression in advanced lung cancer",
+              "Special consideration": "Targets progressing lesions to prolong survival",
+              "Contraindication": "Severe COPD, pulmonary fibrosis, or emphysema"
+            },
+            {
+              "Indication": "Palliative care",
+              "Special consideration": "Alleviates pain and respiratory distress",
+              "Contraindication": "Inaccessible tumors in hard-to-reach areas"
+            }
+          ],
+          "provenance": "pdf p.8:contentReference[oaicite:2]{index=2}"
+        }
+      ]
+    }
+  ]
+}

@@ -1,498 +1,418 @@
-# 🐵 Bronchmonkey User Guide
-## Your AI-Powered Medical Research Assistant
+# Bronchmonkey User Guide
+**Version 2.0** | Updated: August 22, 2025
 
-### 📚 Table of Contents
-1. [What is Bronchmonkey?](#what-is-bronchmonkey)
-2. [Choose Your Edition](#choose-your-edition)
-3. [Initial Setup](#initial-setup)
-4. [Daily Use Guide](#daily-use-guide)
-5. [Advanced Features](#advanced-features)
-6. [All Features Explained](#all-features-explained)
-7. [Troubleshooting](#troubleshooting)
+## Table of Contents
+1. [Overview](#overview)
+2. [System Architecture](#system-architecture)
+3. [Getting Started](#getting-started)
+4. [Using the Chat Interface](#using-the-chat-interface)
+5. [Data Extraction Pipeline](#data-extraction-pipeline)
+6. [Clinical Data Migration](#clinical-data-migration)
+7. [Advanced Features](#advanced-features)
+8. [API Reference](#api-reference)
+9. [Troubleshooting](#troubleshooting)
 
----
+## Overview
 
-## What is Bronchmonkey?
+Bronchmonkey is an AI-powered research assistant designed specifically for **interventional pulmonology and critical care research**. It provides instant access to medical evidence through a sophisticated hybrid search system and natural language interface.
 
-Bronchmonkey is your personal AI assistant for medical research that can:
-- 🔍 **Search** through 292+ medical papers instantly using hybrid search (vector + keyword + SQL)
-- 💬 **Answer** complex medical questions with proper citations
-- 🔬 **Depth Mode** for comprehensive analysis with multiple perspectives
-- 🐛 **Debug Mode** to see the AI's reasoning process
-- 📄 **Extract** data from research papers and textbook chapters automatically
-- 📊 **Find** specific statistics and outcomes from studies
-- 🎓 **Cite** sources properly in academic format (MLA)
-- 🚀 **Three Editions** to match your needs (Lite, Full, Space)
+### Key Capabilities
+- 🔍 **Hybrid Search**: Combines vector, keyword, and SQL search for optimal retrieval
+- 💬 **Natural Language Interface**: Ask questions in plain English
+- 📚 **Comprehensive Knowledge Base**: 292+ medical studies and textbook chapters
+- 🏥 **Clinical Focus**: Specialized for interventional pulmonology procedures
+- 📊 **Structured Extraction**: Automated extraction of diagnostic yields, complications, and clinical pearls
+- 📖 **Professional Citations**: Automatic author-year citations and MLA bibliography
 
----
+## System Architecture
 
-## Choose Your Edition
+```
+Bronchmonkey/
+├── Frontend Layer
+│   └── Streamlit Chat Interface (chatbot_app.py)
+├── Processing Layer
+│   ├── ipchat/extraction/     # Document extraction
+│   ├── ipchat/processing/     # Text processing
+│   └── ipchat/migration/      # Data migration
+├── Retrieval Layer
+│   ├── FAISS Vector Search    # Semantic search
+│   ├── BM25 Keyword Search    # Term matching
+│   └── PostgreSQL             # Structured queries
+└── Data Layer
+    ├── data/raw_pdfs/         # Source documents
+    ├── data/migrated_extracted/ # Processed extractions
+    └── data/indices/          # Search indices
+```
 
-Bronchmonkey comes in three editions to match your needs:
+## Getting Started
 
-### 🚀 **Lite Edition** (Recommended for most users)
-- **Best for**: Personal use, demos, quick research
-- **Features**: Fast startup, no database needed, local indexes
-- **Storage**: Uses local files only
-- **Install**: `pip install -e ".[lite]"`
+### Prerequisites
+- Python 3.8 or higher
+- PostgreSQL (optional, for full SQL search)
+- 4GB+ RAM recommended
+- OpenAI API key
 
-### 🏢 **Full Edition** (Enterprise/Team)
-- **Best for**: Research teams, production deployments
-- **Features**: PostgreSQL database, API server, authentication, all features
-- **Storage**: PostgreSQL + distributed indexes
-- **Install**: `pip install -e ".[full]"`
+### Installation
 
-### ☁️ **Space Edition** (Cloud)
-- **Best for**: Hugging Face Spaces, public demos
-- **Features**: Pre-built indexes, cloud-optimized
-- **Storage**: Pre-indexed data
-- **Install**: `pip install -e ".[space]"`
-
----
-
-## Initial Setup
-
-### Quick Install (Lite Edition - Most Users)
-
+1. **Clone and enter the repository:**
 ```bash
-# 1. Clone the repository
-git clone https://github.com/russellmiller49/IPchat.git
-cd IPchat
+cd IP_chat2
+```
 
-# 2. Create virtual environment (recommended)
+2. **Set up environment:**
+```bash
+# Create virtual environment
 python -m venv .venv
-source .venv/bin/activate  # On Windows: .venv\Scripts\activate
 
-# 3. Install Lite edition
-pip install -e ".[lite]"
+# Activate it
+# On Windows:
+.venv\Scripts\activate
+# On Mac/Linux:
+source .venv/bin/activate
 
-# 4. Set up your OpenAI API key
-echo "OPENAI_API_KEY=sk-your-key-here" > .env
-
-# 5. Build the knowledge base
-./rebuild_knowledge_base.sh
-
-# 6. Start Bronchmonkey!
-ipchat run --edition lite
+# Install dependencies
+pip install -r requirements.txt
 ```
 
-Then open your browser to: **http://localhost:8501**
-
-### Full Edition Setup (Advanced)
-
+3. **Configure environment:**
 ```bash
-# Install with PostgreSQL support
-pip install -e ".[full]"
+# Copy example environment file
+cp .env.example .env
 
-# Set up PostgreSQL (if not already installed)
-docker run -d -p 5432:5432 -e POSTGRES_PASSWORD=postgres postgres:14
-
-# Configure database
-export DATABASE_URL=postgresql://postgres:postgres@localhost:5432/medical_rag
-
-# Initialize database
-psql $DATABASE_URL < sql/schema.sql
-
-# Load data
-python ingestion/load_json_to_pg.py --trials-dir data/oe_final_outputs
-
-# Start Full edition
-ipchat run --edition full
+# Edit .env and add your OpenAI API key
+OPENAI_API_KEY=your_actual_api_key_here
 ```
 
----
-
-## Daily Use Guide
-
-### 🚀 Starting Bronchmonkey
-
-**Simple Start (After Setup)**:
+4. **Initialize the system:**
 ```bash
-# Activate virtual environment
-source .venv/bin/activate  # On Windows: .venv\Scripts\activate
-
-# Start your chosen edition
-ipchat run --edition lite   # Most users
-ipchat run --edition full   # Enterprise
+# Run setup script
+./setup.sh  # Mac/Linux
+# OR
+python setup.sh  # Windows
 ```
 
-### 💬 Using the Chat Interface
+### Quick Start
 
-#### Basic Queries
-Just type your medical question naturally:
-- "What are the pneumothorax rates for endobronchial valves?"
-- "Compare rigid vs flexible bronchoscopy outcomes"
-- "Show FEV1 improvements at 12 months"
+Start Bronchmonkey with one command:
+```bash
+./start.sh  # Mac/Linux
+# OR
+python chatbot_app.py  # Windows
+```
 
-#### Using Special Modes
+The application will open at `http://localhost:8501`
 
-**🔬 Depth Mode** (Comprehensive Analysis):
-1. Toggle "Depth Mode" in the sidebar
-2. Ask your question
-3. The AI will:
-   - Generate multiple search queries
-   - Search from different angles
-   - Provide nuanced synthesis
-   - Include contrasting viewpoints
-   - Verify numeric claims
+## Using the Chat Interface
 
-**🐛 Debug Mode** (See AI Reasoning):
-1. Toggle "Debug Mode" in the sidebar
-2. Ask your question
-3. You'll see:
-   - Search strategy used
-   - Documents retrieved
-   - Reasoning process
-   - Citation extraction
-   - Synthesis steps
+### Basic Queries
 
-#### Model Selection
-Choose your AI model based on needs:
-- **gpt-5-mini**: Fast, cheapest (routine queries)
-- **gpt-4o**: Balanced (standard research)
-- **gpt-5**: Best quality (complex analysis)
+Ask natural language questions about medical procedures:
 
-In Depth Mode, GPT-5 is automatically selected for maximum quality.
+**Example queries:**
+- "What is the diagnostic yield of EBUS-TBNA for lung cancer?"
+- "Compare complication rates between rigid and flexible bronchoscopy"
+- "What are the contraindications for bronchial thermoplasty?"
+- "Show me pneumothorax rates for BLVR procedures"
 
----
+### Understanding Responses
+
+Responses include:
+- **Direct answers** with specific data points
+- **In-text citations** in (Author Year) format
+- **Confidence scores** for search results
+- **Source bibliography** in MLA format
+
+### Search Strategies
+
+The system uses three complementary search methods:
+
+1. **Vector Search (50% weight)**: Finds semantically similar content
+2. **Keyword Search (30% weight)**: Matches exact medical terms
+3. **SQL Search (20% weight)**: Queries structured data fields
+
+## Data Extraction Pipeline
+
+### Processing New Documents
+
+#### 1. Single Document Extraction
+```python
+from ipchat.extraction.clinical_extractor import ClinicalDataExtractor
+
+extractor = ClinicalDataExtractor()
+with open('document.txt', 'r') as f:
+    content = f.read()
+    
+result = extractor.extract(content, document_type="research")
+print(f"Found {len(result.diagnostic_yields)} diagnostic yield metrics")
+print(f"Found {len(result.complication_rates)} complications")
+```
+
+#### 2. Batch Processing
+```python
+from ipchat.extraction.unified_extractor import UnifiedExtractor
+from pathlib import Path
+
+extractor = UnifiedExtractor()
+input_dir = Path("data/raw_pdfs")
+
+for pdf_file in input_dir.glob("*.pdf"):
+    # Extract and process
+    result = extractor.process_document(pdf_file)
+    # Save to migrated_extracted
+    output_path = Path("data/migrated_extracted") / f"{pdf_file.stem}.json"
+    result.save(output_path)
+```
+
+### Extraction Output Structure
+
+Each extraction produces:
+```json
+{
+  "document_id": "unique_identifier",
+  "title": "Study Title",
+  "document_type": "research|textbook",
+  "clinical_extraction": {
+    "diagnostic_yields": {
+      "procedure_name": {
+        "sensitivity": 95.2,
+        "specificity": 100.0
+      }
+    },
+    "complication_rates": {
+      "pneumothorax": {
+        "rate": 2.4,
+        "management": "chest tube drainage"
+      }
+    },
+    "clinical_pearls": [
+      "Maintain bronchoscope in neutral position"
+    ],
+    "key_findings": [
+      "EBUS-TBNA diagnostic yield: 92.5%"
+    ]
+  }
+}
+```
+
+## Clinical Data Migration
+
+### Evaluating Existing Extractions
+
+```python
+from ipchat.migration.evaluator import ExtractionEvaluator
+
+evaluator = ExtractionEvaluator()
+result = evaluator.evaluate_extraction(extraction_path)
+print(f"Quality Score: {result['score']}/100")
+print(f"Recommendation: {result['recommendation']}")
+```
+
+### Migration Workflow
+
+1. **Evaluate** existing extractions
+2. **Backup** original data
+3. **Migrate** based on quality score:
+   - Score 80+: Keep and enhance
+   - Score 50-79: Augment with clinical data
+   - Score 25-49: Restructure completely
+   - Score <25: Re-extract from source
+
+### Running Migration
+
+```python
+from ipchat.migration.migrator import ExtractionMigrator
+
+migrator = ExtractionMigrator()
+migrator.migrate_all(
+    source_dir=Path("data/oe_final_outputs"),
+    output_dir=Path("data/migrated_extracted"),
+    evaluation_report=Path("data/evaluation_report.json")
+)
+```
 
 ## Advanced Features
 
-### 📊 Feature 1: Depth Mode Analysis
+### Custom Extraction Schemas
 
-**What it does**: Provides comprehensive, nuanced analysis of medical evidence
+Define custom extraction templates:
+```python
+from ipchat.schemas.textbook import TextbookSchema
 
-**How to activate**:
-1. Toggle "🔬 Depth Mode" in sidebar
-2. Ask your question
-3. Wait for multi-stage analysis
-
-**What happens behind the scenes**:
-- **Query Expansion**: Generates 4-5 query variations
-- **Multi-Search**: Searches with all variations
-- **Reranking**: Orders results by relevance
-- **Contrastive Analysis**: Finds supporting AND conflicting evidence
-- **Numeric Verification**: Double-checks all statistics
-- **Synthesis**: Creates balanced, comprehensive answer
-
-**Example**:
-```
-Question: "What are the long-term outcomes of bronchial thermoplasty?"
-
-Depth Mode will:
-1. Search for: "bronchial thermoplasty outcomes", "BT long-term results", 
-   "asthma thermoplasty 5-year", "airway smooth muscle ablation"
-2. Find studies with different follow-up periods
-3. Identify both positive and negative outcomes
-4. Verify specific percentages and p-values
-5. Synthesize a nuanced answer with all perspectives
+schema = TextbookSchema()
+schema.add_field("procedure_steps", type="list")
+schema.add_field("equipment_required", type="list")
 ```
 
-### 🐛 Feature 2: Debug Mode Transparency
+### API Integration
 
-**What it does**: Shows the AI's complete reasoning process
-
-**Information displayed**:
-- Search queries used
-- Number of documents retrieved
-- Relevance scores
-- Citation extraction process
-- Synthesis reasoning
-- Model decisions
-
-**Use cases**:
-- Understanding how answers are generated
-- Verifying search coverage
-- Debugging unexpected results
-- Learning the system's capabilities
-
-### 📥 Feature 3: Extract Data from New Papers
-
-**Complete workflow**:
-
-1. **Prepare files**:
-   ```bash
-   # Put Adobe JSON in:
-   data/input_articles/NewPaper.json
-   
-   # Put PDF in (optional):
-   data/raw_pdfs/NewPaper.pdf
-   ```
-
-2. **Extract data**:
-   ```bash
-   # Single paper with PDF
-   python tools/medical_extractor.py --single "NewPaper.json" --pdf "NewPaper.pdf"
-   
-   # Single paper without PDF
-   python tools/medical_extractor.py --single "NewPaper.json"
-   
-   # Multiple papers
-   python tools/medical_extractor.py --batch
-   ```
-
-3. **Rebuild knowledge base**:
-   ```bash
-   ./rebuild_knowledge_base.sh
-   ```
-
-4. **Restart Bronchmonkey**:
-   ```bash
-   # Stop with Ctrl+C, then:
-   ipchat run --edition lite
-   ```
-
-### 📚 Feature 3b: Extract Data from Textbook Chapters
-
-**Production-ready textbook extraction with anti-hallucination guardrails**:
-
-1. **Prepare textbook files**:
-   ```bash
-   # Chapter PDFs are in:
-   Textbooks/Chapter pdfs/ChapterName.pdf
-   
-   # Adobe Extract JSONs are in:
-   Textbooks/Chapter json/ChapterName.json
-   ```
-
-2. **Extract single chapter**:
-   ```bash
-   python tools/production_multipass_textbook_extractor.py \
-     --single "Textbooks/Chapter pdfs/Airway Anatomy.pdf" \
-     --adobe-json "Textbooks/Chapter json/Airway Anatomy.json" \
-     --output-dir data/textbook_extractions
-   ```
-
-3. **Extract all 38 chapters**:
-   ```bash
-   python tools/production_multipass_textbook_extractor.py --batch
-   ```
-
-**Features**:
-- Only extracts explicitly present content (no hallucination)
-- Every item includes source_page and verbatim source_excerpt
-- Specialized extraction passes for different content types
-- Quality assurance with automatic error detection
-- Deterministic output (temperature=0.0)
-
-**Available chapters**: Airway Anatomy, Approach to Peripheral Lung Lesions, Balloon Dilation, Bronchoscopic Techniques, and 34 more interventional pulmonology topics.
-
-### 🔍 Feature 4: Hybrid Search System
-
-**Three search methods combined**:
-
-1. **Vector Search (50% weight)**
-   - Semantic similarity using FAISS
-   - Finds conceptually related content
-   - Good for: synonyms, related concepts
-
-2. **BM25 Keyword Search (30% weight)**
-   - Traditional term matching
-   - Exact phrase finding
-   - Good for: acronyms, specific terms
-
-3. **SQL Database (20% weight)**
-   - Structured queries on outcomes
-   - Numerical comparisons
-   - Good for: "p < 0.05", "FEV1 > 15%"
-
-**Automatic score fusion** creates optimal ranking.
-
-### 📚 Feature 5: Smart Citations
-
-**Automatic formatting**:
-- In-text: (Author Year) format
-- Bibliography: Full MLA format
-- Fallbacks for missing metadata
-
-**Example output**:
-```
-According to recent studies, endobronchial valves show 
-significant improvements (Criner 2018, Kemp 2017).
-
-References:
-- Criner, Gerald J., et al. "A Multicenter RCT of Zephyr 
-  Endobronchial Valves." AJRCCM, 2018.
-- Kemp, Samuel V., et al. "A Multicenter Randomized Controlled 
-  Trial." AJRCCM, 2017.
-```
-
-### 🎯 Feature 6: Edition-Specific Commands
-
-**Lite Edition**:
+Start the FastAPI server:
 ```bash
-ipchat run --edition lite
-ipchat index --rebuild        # Rebuild search indexes
-ipchat stats                  # Show database statistics
+python -m ipchat.api.server
 ```
 
-**Full Edition**:
-```bash
-ipchat run --edition full
-ipchat api --port 8000        # Start API server
-ipchat db --migrate           # Update database schema
-ipchat db --load              # Load new data
+Query the API:
+```python
+import requests
+
+response = requests.post(
+    "http://localhost:8000/search",
+    json={"query": "EBUS diagnostic yield"}
+)
+results = response.json()
 ```
 
-**Space Edition**:
-```bash
-ipchat run --edition space
-ipchat export --format hf     # Export for Hugging Face
+### Database Management
+
+Initialize PostgreSQL database:
+```sql
+-- Run SQL scripts
+psql -U postgres -d bronchmonkey -f sql/schema.sql
+psql -U postgres -d bronchmonkey -f sql/populate.sql
 ```
 
----
+### Index Rebuilding
 
-## All Features Explained
+Rebuild search indices after adding new documents:
+```python
+from ipchat.core.indexing.index_builder import IndexBuilder
 
-### System Capabilities
-
-| Feature | Description | Editions |
-|---------|-------------|----------|
-| **Hybrid Search** | Vector + BM25 + SQL combined | All |
-| **Depth Mode** | Comprehensive multi-angle analysis | All |
-| **Debug Mode** | Transparent reasoning display | All |
-| **GPT-5 Support** | Latest AI model integration | All |
-| **Smart Citations** | Automatic MLA formatting | All |
-| **Batch Extraction** | Process multiple papers | All |
-| **PostgreSQL** | Structured data queries | Full only |
-| **API Server** | REST API for integrations | Full only |
-| **Authentication** | User access control | Full, Space |
-| **Cloud Deployment** | Hugging Face ready | Space only |
-
-### Configuration Options
-
-**Environment Variables** (`.env` file):
-```bash
-# Core settings
-OPENAI_API_KEY=sk-your-key-here
-GEN_MODEL=gpt-5-mini          # Default model
-DEPTH_FEATURES=1               # Enable depth mode
-DEBUG_MODE=0                   # Debug off by default
-
-# Search weights
-VECTOR_WEIGHT=0.5              # Semantic search
-BM25_WEIGHT=0.3               # Keyword search
-SQL_WEIGHT=0.2                # Database queries
-
-# Performance
-MAX_PARALLEL_EXTRACTIONS=3     # Batch processing
-CHUNK_SIZE=450                # Text chunk size
-RATE_LIMIT_DELAY=1.0          # API throttling
-
-# Full edition only
-DATABASE_URL=postgresql://...  # PostgreSQL connection
-API_PORT=8000                 # API server port
-
-# Authentication (optional)
-BASIC_AUTH_USERS=alice:pw1,bob:pw2
+builder = IndexBuilder()
+builder.rebuild_all_indices(
+    documents_path="data/migrated_extracted",
+    output_path="data/indices"
+)
 ```
 
-### Quick Command Reference
+## API Reference
 
-| Task | Command |
-|------|---------|
-| **Start Bronchmonkey** | `ipchat run --edition lite` |
-| **Extract single paper** | `python tools/medical_extractor.py --single "paper.json"` |
-| **Extract all papers** | `python tools/medical_extractor.py --batch` |
-| **Rebuild indexes** | `./rebuild_knowledge_base.sh` |
-| **Check status** | `python tools/check_extraction_status.py` |
-| **List extractions** | `python tools/medical_extractor.py --list` |
-| **Verify quality** | `python tools/medical_extractor.py --verify "paper.oe_final.json"` |
+### Core Classes
 
----
+#### ClinicalDataExtractor
+```python
+extractor = ClinicalDataExtractor()
+result = extractor.extract(content, document_type="research")
+```
+
+#### UnifiedExtractor
+```python
+extractor = UnifiedExtractor(model="gpt-4o-mini")
+result = extractor.extract(content, document_type, metadata)
+```
+
+#### ExtractionMigrator
+```python
+migrator = ExtractionMigrator()
+migrator.migrate_all(source_dir, output_dir, evaluation_report)
+```
+
+### Search Functions
+
+```python
+from ipchat.core.retrieval.hybrid_search import HybridSearch
+
+searcher = HybridSearch()
+results = searcher.search(
+    query="bronchoscopy complications",
+    top_k=10,
+    weights={"vector": 0.5, "bm25": 0.3, "sql": 0.2}
+)
+```
 
 ## Troubleshooting
 
-### Installation Issues
+### Common Issues
 
-**Problem**: "Module not found"
+#### 1. Import Errors
 ```bash
-# Solution: Install the package properly
-pip install -e ".[lite]"  # Note the -e flag for development mode
+# Ensure you're in the virtual environment
+source .venv/bin/activate  # Mac/Linux
+.venv\Scripts\activate     # Windows
 ```
 
-**Problem**: "No API key found"
+#### 2. OpenAI API Errors
 ```bash
-# Solution: Create .env file
-echo "OPENAI_API_KEY=sk-your-actual-key" > .env
+# Check your API key
+echo $OPENAI_API_KEY
+# Ensure it's set in .env file
 ```
 
-### Runtime Issues
-
-**Problem**: "Port already in use"
+#### 3. Database Connection Issues
 ```bash
-# Solution 1: Kill existing process
-pkill -f streamlit
-pkill -f uvicorn
-
-# Solution 2: Use different port
-ipchat run --edition lite --port 8502
+# Check PostgreSQL is running
+pg_ctl status
+# Start if needed
+pg_ctl start
 ```
 
-**Problem**: "Search returns nothing"
-```bash
-# Solution: Rebuild indexes
-./rebuild_knowledge_base.sh
+#### 4. Memory Issues
+```python
+# For large batches, process in chunks
+from ipchat.processing.chunker import ChunkProcessor
+
+processor = ChunkProcessor(chunk_size=10)
+processor.process_directory("data/raw_pdfs")
 ```
 
-**Problem**: "Extraction failed"
-- Check API limits (wait if rate limited)
-- Verify file formats (Adobe JSON required)
-- Try without PDF if corrupted
-- Check logs in `tools/archive/debug_logs/`
+### Performance Optimization
 
-### Performance Issues
+1. **Reduce search scope**: Use specific document types
+2. **Adjust weights**: Tune search weights for your use case
+3. **Cache results**: Enable caching for repeated queries
+4. **Batch processing**: Process multiple documents together
 
-**Problem**: "Slow responses"
-- Switch to gpt-5-mini for faster responses
-- Disable Depth Mode for simple queries
-- Reduce CHUNK_SIZE for faster indexing
+### Getting Help
 
-**Problem**: "High API costs"
-- Use gpt-5-mini as default model
-- Process papers in batches
-- Set RATE_LIMIT_DELAY=2.0
+- **Documentation**: Check `/docs` folder
+- **Issues**: Review `CLEANUP_REPORT.md` for structure
+- **Logs**: Check `data/logs/` for error details
+
+## Best Practices
+
+### For Researchers
+1. Use specific medical terminology in queries
+2. Request numerical data explicitly ("show percentages")
+3. Compare procedures using "versus" or "compared to"
+4. Ask for citations when needed
+
+### For Developers
+1. Always backup before migration
+2. Validate extractions with the evaluator
+3. Use appropriate document types (research vs textbook)
+4. Monitor extraction confidence scores
+5. Keep indices updated after adding documents
+
+## Appendix
+
+### Supported Procedures
+- EBUS-TBNA (Endobronchial Ultrasound)
+- Rigid & Flexible Bronchoscopy
+- Navigational Bronchoscopy
+- Cryobiopsy
+- Bronchial Thermoplasty
+- Pleural Procedures
+- BLVR (Bronchoscopic Lung Volume Reduction)
+- Airway Stenting
+
+### File Structure Reference
+```
+data/
+├── raw_pdfs/              # Original PDF documents
+├── oe_final_outputs/      # Legacy extractions
+├── migrated_extracted/    # Enhanced extractions
+├── indices/               # Search indices
+├── backup/                # Backup copies
+└── evaluation_report.json # Migration analysis
+```
+
+### Environment Variables
+```bash
+OPENAI_API_KEY=            # Required: OpenAI API key
+DATABASE_URL=              # Optional: PostgreSQL connection
+LOG_LEVEL=INFO            # Optional: Logging level
+MAX_TOKENS=2000           # Optional: Response length
+TEMPERATURE=0.0           # Optional: AI creativity (0-1)
+```
 
 ---
 
-## Tips for Best Results
-
-### Search Strategies
-1. **Be specific**: "Zephyr valve pneumothorax rates" > "valve complications"
-2. **Use medical terms**: Include proper medical terminology
-3. **Specify timeframes**: "12-month outcomes" for temporal data
-4. **Ask for comparisons**: "Compare X vs Y" for side-by-side analysis
-
-### Using Depth Mode Effectively
-- Enable for: Complex questions, controversial topics, comprehensive reviews
-- Disable for: Simple lookups, known facts, quick checks
-
-### Managing Citations
-- Citations appear automatically in responses
-- Full bibliography at the end of each answer
-- Export citations for your papers
-
-### Optimizing for Your Workflow
-- **Researchers**: Use Full edition with PostgreSQL for complex queries
-- **Clinicians**: Use Lite edition for quick evidence lookups
-- **Students**: Enable Debug Mode to understand evidence synthesis
-- **Teams**: Deploy Full edition with authentication
-
----
-
-## Summary
-
-Bronchmonkey provides state-of-the-art medical evidence retrieval with:
-- **Three editions** for different use cases
-- **Hybrid search** combining multiple strategies
-- **Depth Mode** for comprehensive analysis
-- **Debug Mode** for transparency
-- **Smart citations** for academic use
-- **GPT-5 support** for best quality
-
-Start with Lite edition, upgrade to Full when needed, deploy to Space for sharing!
-
----
-
-*Version 2.0 | Last updated: August 2025*
-*For technical details, see [EXTRACTION_WORKFLOW.md](tools/EXTRACTION_WORKFLOW.md)*
+*For additional support, consult the technical documentation in `/docs` or review the codebase in `/ipchat`.*

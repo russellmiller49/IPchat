@@ -1,0 +1,66 @@
+{
+  "source": {
+    "document_id": "Tracheal stent buckling and in-stent stenosis",
+    "ingest_date": "2025-08-08T16:29:56.792017+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1053/j.jvca.2022.01.028"
+  },
+  "document": {
+    "metadata": {
+      "title": "Tracheal Stent Buckling and In-stent Stenosis: A Proposed Airway Management Algorithm for Airway Obstruction for Patients With Tracheal Stents",
+      "year": 2022,
+      "authors": [
+        "Laurence Weinberg",
+        "Jon Graham",
+        "Joshua Meyerov",
+        "James Adam Moshinsky",
+        "Sarah Aishah Azlina Aitken",
+        "Manfred Spanger",
+        "Simon Knight"
+      ],
+      "journal": "Journal of Cardiothoracic and Vascular Anesthesia",
+      "doi": "10.1053/j.jvca.2022.01.028",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Emergency airway management strategies for complications due to tracheobronchial stents are of growing interest. Tracheal stenting is used to manage tracheobronchial stenosis of benign and malignant conditions, but official perioperative airway management guidelines for patients with stents in situ are lacking. The authors describe a patient with acute airway obstruction due to a protruding tracheal stent strut and in-stent stenosis in the setting of a self-expanding nitinol tracheal stent, outline the airway management strategy, and propose a pragmatic algorithm for patients with tracheal stents presenting with airway obstruction.",
+      "methods": "Single-patient case management. In the emergency department, after respiratory arrest, ketamine 40 mg IV was given and a ketamine infusion 2 mg/kg/h commenced to maintain spontaneous breathing. Direct laryngoscopy showed a Grade 2a view, but 7.0-mm and 8.0-mm ETTs could not pass below the laryngeal inlet due to fixed resistance. An 8.0-mm ETT was positioned just below the laryngeal inlet and pressure-support ventilation initiated. Bronchoscopy identified a protruding tracheal stent strut occluding the airway. A bougie was advanced, and the 8.0-mm ETT was exchanged for a 6.0-mm cuffed ETT positioned 2 cm above the carina. Rocuronium 100 mg was administered; ventilation switched to volume control. CT imaging confirmed severe in-stent stenosis with obstructing metalware. At the tertiary center with ECMO backup available, a rigid bronchoscope (7.5 mm then 8.5 mm) was used to dilate the stent, and circumferential granulation tissue at the proximal stent was removed using flexible electrocautery, restoring patency. An 8.0-mm ETT was then placed through the stent. IV dexamethasone was given and the patient was nursed head-up to minimize airway edema.",
+      "results": "Post-intubation arterial blood gases improved from PaCO2 125 mmHg, PaO2 65 mmHg, pH 7.04 to PaCO2 75 mmHg, PaO2 155 mmHg, pH 7.22. The patient had a positive cuff-leak test on postoperative day 2, was extubated 24 hours later, and discharged home on postoperative day 14. He remained asymptomatic at 6 weeks and 3 months follow-up."
+    }
+  },
+  "clinical_extraction": {
+    "document_id": "7b37df1ef1d3",
+    "title": "Tracheal Stent Buckling and In-stent Stenosis: A Proposed Airway Management Algorithm for Airway Obstruction for Patients With Tracheal Stents",
+    "document_type": "research",
+    "diagnostic_yields": {},
+    "complication_rates": {},
+    "methodology": {},
+    "clinical_pearls": [],
+    "indications": [],
+    "contraindications": [],
+    "patient_selection": {
+      "inclusion_criteria": [],
+      "exclusion_criteria": [],
+      "ideal_candidate": null
+    },
+    "equipment": [
+      "scope"
+    ],
+    "key_findings": [],
+    "practical_tips": [],
+    "extraction_confidence": 0.5,
+    "has_numerical_data": false,
+    "original_extraction": null
+  },
+  "migration_info": {
+    "migrated_at": "2025-08-22T09:42:47.091780",
+    "original_structure": "oe_final",
+    "migration_type": "restructure"
+  },
+  "original_sections": {
+    "abstract": "Emergency airway management strategies for complications due to tracheobronchial stents are of growing interest. Tracheal stenting is used to manage tracheobronchial stenosis of benign and malignant conditions, but official perioperative airway management guidelines for patients with stents in situ are lacking. The authors describe a patient with acute airway obstruction due to a protruding tracheal stent strut and in-stent stenosis in the setting of a self-expanding nitinol tracheal stent, outline the airway management strategy, and propose a pragmatic algorithm for patients with tracheal stents presenting with airway obstruction.",
+    "methods": "Single-patient case management. In the emergency department, after respiratory arrest, ketamine 40 mg IV was given and a ketamine infusion 2 mg/kg/h commenced to maintain spontaneous breathing. Direct laryngoscopy showed a Grade 2a view, but 7.0-mm and 8.0-mm ETTs could not pass below the laryngeal inlet due to fixed resistance. An 8.0-mm ETT was positioned just below the laryngeal inlet and pressure-support ventilation initiated. Bronchoscopy identified a protruding tracheal stent strut occluding the airway. A bougie was advanced, and the 8.0-mm ETT was exchanged for a 6.0-mm cuffed ETT positioned 2 cm above the carina. Rocuronium 100 mg was administered; ventilation switched to volume control. CT imaging confirmed severe in-stent stenosis with obstructing metalware. At the tertiary center with ECMO backup available, a rigid bronchoscope (7.5 mm then 8.5 mm) was used to dilate the stent, and circumferential granulation tissue at the proximal stent was removed using flexible electrocautery, restoring patency. An 8.0-mm ETT was then placed through the stent. IV dexamethasone was given and the patient was nursed head-up to minimize airway edema.",
+    "results": "Post-intubation arterial blood gases improved from PaCO2 125 mmHg, PaO2 65 mmHg, pH 7.04 to PaCO2 75 mmHg, PaO2 155 mmHg, pH 7.22. The patient had a positive cuff-leak test on postoperative day 2, was extubated 24 hours later, and discharged home on postoperative day 14. He remained asymptomatic at 6 weeks and 3 months follow-up."
+  }
+}

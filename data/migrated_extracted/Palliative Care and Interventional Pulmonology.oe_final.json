@@ -1,0 +1,61 @@
+{
+  "source": {
+    "document_id": "Palliative Care and Interventional Pulmonology",
+    "ingest_date": "2025-08-08T14:45:48.682776+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1016/j.ccm.2017.11.001"
+  },
+  "document": {
+    "metadata": {
+      "title": "Palliative Care and Interventional Pulmonology",
+      "year": 2018,
+      "authors": [
+        "Muhammad Sajawal Ali",
+        "Lubna Sorathia"
+      ],
+      "journal": "Clinics in Chest Medicine",
+      "doi": "10.1016/j.ccm.2017.11.001",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "This narrative review outlines palliative care needs and interventional pulmonology options for patients with advanced pulmonary diseases, particularly lung cancer and COPD. It summarizes symptom burdens (dyspnea, cough, hemoptysis), advocates early integration of palliative care with disease-directed therapy, and reviews non-interventional measures (opioids, bronchodilators, nonpharmacologic approaches) and interventional strategies such as management of malignant pleural effusions (indwelling pleural catheters vs pleurodesis) and central airway obstruction (debulking, ablation, stenting). Complication profiles and practical considerations are discussed.",
+      "methods": "Narrative review of the literature focusing on palliative care strategies and interventional pulmonology approaches in advanced pulmonary diseases. The article summarizes key trials and cohort studies (e.g., TIME2, AMPLE, observational IPC cohorts) and expert practice considerations without a systematic search or meta-analytic synthesis.",
+      "results": "Key findings highlighted include: high prevalence of unmet palliative needs in lung cancer and COPD; benefits of early palliative care integration on quality of life and potentially survival; effectiveness of opioids and nonpharmacologic interventions for dyspnea; utility of antibiotics and mucolytics for productive cough and opioids/anesthetics for dry cough; use of tranexamic acid and radiation for hemoptysis. For malignant pleural effusions, indwelling pleural catheters reduce hospitalization days compared with talc pleurodesis and may achieve spontaneous pleurodesis in a subset, with complication rates including empyema, pneumothorax requiring chest tube, cellulitis, and rare infections. For central airway obstruction, mechanical debulking plus ablative therapies and airway stenting can improve symptoms, with device-specific pros and cons."
+    }
+  },
+  "clinical_extraction": {
+    "document_id": "f62ddb0c6999",
+    "title": "Palliative Care and Interventional Pulmonology",
+    "document_type": "research",
+    "diagnostic_yields": {},
+    "complication_rates": {},
+    "methodology": {},
+    "clinical_pearls": [],
+    "indications": [],
+    "contraindications": [],
+    "patient_selection": {
+      "inclusion_criteria": [],
+      "exclusion_criteria": [],
+      "ideal_candidate": null
+    },
+    "equipment": [
+      "catheter"
+    ],
+    "key_findings": [],
+    "practical_tips": [],
+    "extraction_confidence": 0.5,
+    "has_numerical_data": false,
+    "original_extraction": null
+  },
+  "migration_info": {
+    "migrated_at": "2025-08-22T09:42:46.584374",
+    "original_structure": "oe_final",
+    "migration_type": "restructure"
+  },
+  "original_sections": {
+    "abstract": "This narrative review outlines palliative care needs and interventional pulmonology options for patients with advanced pulmonary diseases, particularly lung cancer and COPD. It summarizes symptom burdens (dyspnea, cough, hemoptysis), advocates early integration of palliative care with disease-directed therapy, and reviews non-interventional measures (opioids, bronchodilators, nonpharmacologic approaches) and interventional strategies such as management of malignant pleural effusions (indwelling pleural catheters vs pleurodesis) and central airway obstruction (debulking, ablation, stenting). Complication profiles and practical considerations are discussed.",
+    "methods": "Narrative review of the literature focusing on palliative care strategies and interventional pulmonology approaches in advanced pulmonary diseases. The article summarizes key trials and cohort studies (e.g., TIME2, AMPLE, observational IPC cohorts) and expert practice considerations without a systematic search or meta-analytic synthesis.",
+    "results": "Key findings highlighted include: high prevalence of unmet palliative needs in lung cancer and COPD; benefits of early palliative care integration on quality of life and potentially survival; effectiveness of opioids and nonpharmacologic interventions for dyspnea; utility of antibiotics and mucolytics for productive cough and opioids/anesthetics for dry cough; use of tranexamic acid and radiation for hemoptysis. For malignant pleural effusions, indwelling pleural catheters reduce hospitalization days compared with talc pleurodesis and may achieve spontaneous pleurodesis in a subset, with complication rates including empyema, pneumothorax requiring chest tube, cellulitis, and rare infections. For central airway obstruction, mechanical debulking plus ablative therapies and airway stenting can improve symptoms, with device-specific pros and cons."
+  }
+}

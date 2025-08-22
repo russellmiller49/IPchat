@@ -1,0 +1,428 @@
+{
+  "chapter_metadata": {
+    "title": "Bronchoscopic Management of Persistent Air Leaks",
+    "authors": [
+      "T. David Koster",
+      "Dirk-Jan Slebos"
+    ],
+    "chapter_number": null,
+    "page_range": {
+      "start": 1,
+      "end": 5
+    },
+    "reference": "Principles and Practice of Interventional Pulmonology, 2025"
+  },
+  "definitions": [
+    {
+      "term": "Persistent air leak (PAL)",
+      "definition": "Air leak persisting >5 days due to bronchopleural or alveolar\u2011pleural fistula."
+    },
+    {
+      "term": "Bronchopleural fistula (BPF)",
+      "definition": "Communication between bronchial tree and pleural space; may be central or peripheral."
+    },
+    {
+      "term": "Alveolar\u2011pleural fistula (APF)",
+      "definition": "Communication between alveoli and pleural space."
+    },
+    {
+      "term": "Collateral ventilation (CV)",
+      "definition": "Ventilation between segments/lobes via collateral channels that can mask leak localization."
+    }
+  ],
+  "technology_and_technique": [
+    {
+      "topic": "Airway access & anesthesia",
+      "summary": "Deep sedation or general anesthesia preferred. Use large endotracheal tube (\u22658.0 mm), laryngeal mask, or rigid bronchoscope; closed\u2011circuit ventilation helps quantify air leak."
+    },
+    {
+      "topic": "Localization principle",
+      "summary": "Sequential balloon occlusion from lobe to segments to subsegments; wait several cycles; balloon \u22651 min to confirm air leak decrease and reincrease on deflation. CV can blunt effect."
+    }
+  ],
+  "diagnostic_approaches": [
+    {
+      "name": "Sequential balloon occlusion",
+      "purpose": "Localize lobe/segments feeding PAL to minimize number of occluded subsegments.",
+      "steps": [
+        "Occlude main lobe entrance; observe pleural drainage device for air leak reduction.",
+        "If no change, test other ipsilateral lobes; if reduction, proceed segmentally within involved lobe.",
+        "Hold occlusion \u226560 seconds; verify reincrease after deflation.",
+        "Aim to block the least number of segments that abolish the leak."
+      ],
+      "pitfalls": [
+        "Collateral ventilation (intra/interlobar) may mask effect",
+        "Too-short occlusion time"
+      ],
+      "notes": "Perform inspection bronchoscopy first; obtain wash; document visible fistulas if present."
+    },
+    {
+      "name": "Reverse\u2011flow oxygen insufflation",
+      "purpose": "Detect occult contributors when airflow ceases under anesthesia.",
+      "steps": [
+        "Attach low\u2011flow O2 to bronchoscope suction port.",
+        "Deliver brief insufflation bursts (press suction valve) to increase flow in selected airway.",
+        "A rise suggests contribution to PAL."
+      ],
+      "pitfalls": [
+        "Barotrauma if prolonged/continuous bursts",
+        "Overinterpretation without corroboration"
+      ],
+      "notes": "Useful when supine position/general anesthesia reduce spontaneous airflow."
+    },
+    {
+      "name": "Methylene blue tracing",
+      "purpose": "Track communication between bronchial segments and pleural space.",
+      "variants": [
+        "Instill via chest drain and observe appearance in bronchial tree.",
+        "Instill endobronchially and observe dye at chest tube."
+      ],
+      "cautions": [
+        "Potential staining; ensure aspiration capacity"
+      ]
+    }
+  ],
+  "clinical_procedures": [
+    {
+      "name": "Endobronchial one\u2011way valve placement (EBV/SVS)",
+      "indications": [
+        "Segmental/subsegmental PAL after localization",
+        "Surgery contraindicated or failed"
+      ],
+      "devices": [
+        "Zephyr EBV (PulmonX)",
+        "Spiration Valve System (Olympus; FDA\u2011authorized for PAL)"
+      ],
+      "steps": [
+        "Size airway using deployment system; choose valve size.",
+        "Place valve(s) to occlude all contributing segments.",
+        "Confirm air leak reduction at chest drainage device; adjust as needed."
+      ],
+      "follow_up": [
+        "CXR to assess expansion",
+        "Consider removal after healing"
+      ],
+      "pitfalls": [
+        "Incomplete fissures/collateral ventilation reducing efficacy",
+        "Migration/granulation tissue"
+      ],
+      "performance": {
+        "resolution_range_30d": "\u224860% (EBV) within 30 days",
+        "overall_resolution": "42\u2013100% across series"
+      }
+    },
+    {
+      "name": "Watanabe spigot (EWS) bronchial occlusion",
+      "indications": [
+        "Peripheral BPF/PAL in small to moderate bronchi",
+        "As adjunct with pleurodesis"
+      ],
+      "steps": [
+        "Select spigot size; advance to target segment.",
+        "Wedge and seat securely; reassess air leak.",
+        "Combine with chemical pleurodesis when appropriate."
+      ],
+      "performance": {
+        "positioning_success": "97%",
+        "air_leak_reduction": "\u224880\u201390%",
+        "chest_tube_removal": "85.6%"
+      },
+      "notes": "Radiopaque; removable when clinically feasible."
+    },
+    {
+      "name": "Tissue adhesives/sealants",
+      "indications": [
+        "Central BPF stump leaks",
+        "Selected peripheral fistulas where devices unsuitable"
+      ],
+      "options": [
+        "Cyanoacrylate (e.g., methyl\u20112\u2011cyanoacrylate)",
+        "Fibrin glue (e.g., Tisseel/Coseal)",
+        "Endobronchial blood patch + thrombin"
+      ],
+      "notes": [
+        "Form clot/plug; fibrin glue degrades in ~14 days"
+      ],
+      "evidence": "Case series/reports; high success in smaller fistulas"
+    },
+    {
+      "name": "Other devices for central fistulas",
+      "indications": [
+        "Post\u2011surgical central BPF (pneumonectomy/lobectomy)"
+      ],
+      "options": [
+        "Tracheobronchial stents (custom SEMS/covered)",
+        "Amplatzer occluders/vascular plugs"
+      ],
+      "cautions": [
+        "Granulation tissue",
+        "Migration",
+        "Require careful selection and follow\u2011up"
+      ]
+    }
+  ],
+  "clinical_guidelines": [
+    {
+      "source": "General management",
+      "recommendations": [
+        "Initial therapy: chest tube drainage; most PALs resolve within 14 days.",
+        "Primary spontaneous: ~75% resolve within 7 days and 100% by 15 days; Secondary spontaneous: 61% at 7 days, 79% at 14 days.",
+        "Consider thoracic suction; larger\u2011bore drains (20\u201332 Fr) for ongoing PAL.",
+        "Consider pleurodesis (talc or autologous blood patch) via chest tube for nonsurgical candidates.",
+        "Outpatient Heimlich valve may be used with close follow\u2011up.",
+        "Surgical evaluation recommended (VATS preferred when feasible); bullectomy/pleurodesis reduce recurrence."
+      ]
+    },
+    {
+      "source": "Bronchoscopic approach",
+      "recommendations": [
+        "Localize with balloon occlusion before definitive bronchoscopic therapy.",
+        "Use general anesthesia and closed\u2011circuit ventilation when deploying valves."
+      ]
+    }
+  ],
+  "performance_metrics": [
+    {
+      "context": "EBV in PAL",
+      "metric": "Resolution within 30 days",
+      "value": "60%"
+    },
+    {
+      "context": "Valves for PAL (series)",
+      "metric": "Air leak resolution",
+      "value": "42\u2013100%"
+    },
+    {
+      "context": "EWS spigots (initial series)",
+      "metric": "Positioning success",
+      "value": "97%"
+    },
+    {
+      "context": "EWS spigots + pleurodesis",
+      "metric": "Complete resolution",
+      "value": "86%"
+    },
+    {
+      "context": "EWS spigots (large series)",
+      "metric": "Air leak reduction",
+      "value": "90.5%"
+    },
+    {
+      "context": "EWS spigots (large series)",
+      "metric": "Chest tube removal",
+      "value": "85.6%"
+    }
+  ],
+  "risk_factors": {
+    "prolonged_drainage": {
+      "increases": [
+        "Empyema",
+        "Chest tube dysfunction"
+      ],
+      "mitigation": [
+        "Consider outpatient valves with follow\u2011up",
+        "Monitor for infection"
+      ]
+    },
+    "localization_failure": {
+      "increases": [
+        "Collateral ventilation",
+        "Low airflow under anesthesia"
+      ],
+      "mitigation": [
+        "Reverse\u2011flow oxygen technique",
+        "Methylene blue tracing"
+      ]
+    },
+    "device_complications": {
+      "increases": [
+        "Stent granulation",
+        "Stent/valve migration"
+      ],
+      "mitigation": [
+        "Careful sizing; surveillance bronchoscopy if indicated"
+      ]
+    }
+  },
+  "tables": [
+    {
+      "id": "PAL_localization_checklist",
+      "title": "Localization & deployment checklist",
+      "columns": [
+        "Step",
+        "Target/Action"
+      ],
+      "rows": [
+        [
+          "Airway access",
+          "ETT \u22658.0 mm or LMA/rigid; closed\u2011circuit ventilation"
+        ],
+        [
+          "Inspect bronchi",
+          "Wash; identify visible fistulas"
+        ],
+        [
+          "Balloon occlusion",
+          "Lobe \u2192 segments; occlude \u226560 s; verify reincrease on deflation"
+        ],
+        [
+          "Assess CV",
+          "Interpretations tempered by intra/interlobar collateral ventilation"
+        ],
+        [
+          "Confirm plan",
+          "Aim to occlude the fewest segments"
+        ],
+        [
+          "Therapy",
+          "Valves/spigots/adhesives/stents as indicated; reassess leak"
+        ]
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "id": "Fig1",
+      "caption": "Balloon occlusion in left upper lobe for PAL localization.",
+      "page": 2,
+      "keywords": [
+        "balloon occlusion",
+        "localization"
+      ],
+      "locator": {
+        "BBox": [
+          184.07,
+          89.25,
+          544.18,
+          274.05
+        ]
+      }
+    },
+    {
+      "id": "Fig2",
+      "caption": "Endobronchial valves: Zephyr EBV and Spiration Valve System examples.",
+      "page": 3,
+      "keywords": [
+        "endobronchial valve",
+        "EBV",
+        "SVS"
+      ],
+      "locator": {
+        "BBox": [
+          184.07,
+          89.13,
+          544.18,
+          236.49
+        ]
+      }
+    },
+    {
+      "id": "Fig3",
+      "caption": "Endobronchial Watanabe spigot positioned in right middle lobe.",
+      "page": 4,
+      "keywords": [
+        "Watanabe spigot",
+        "EWS"
+      ],
+      "locator": {
+        "BBox": [
+          52.44,
+          541.76,
+          290.51,
+          731.35
+        ]
+      }
+    }
+  ],
+  "treatment_algorithm": {
+    "id": "pal_management",
+    "nodes": [
+      {
+        "id": "start",
+        "label": "PAL >5 days with chest tube"
+      },
+      {
+        "id": "optimize_drain",
+        "label": "Optimize drainage (suction, larger bore) \u00b1 pleurodesis"
+      },
+      {
+        "id": "surgical_eval",
+        "label": "Surgical evaluation (VATS \u00b1 bullectomy/pleurodesis)"
+      },
+      {
+        "id": "localize",
+        "label": "If non-surgical or failed \u2192 Bronchoscopic localization (balloon)"
+      },
+      {
+        "id": "intervene",
+        "label": "Definitive bronchoscopic therapy (valves/spigots/adhesives/stent)"
+      },
+      {
+        "id": "reassess",
+        "label": "Reassess leak and lung expansion; plan removal if healed"
+      }
+    ],
+    "edges": [
+      {
+        "from": "start",
+        "to": "optimize_drain"
+      },
+      {
+        "from": "optimize_drain",
+        "to": "surgical_eval"
+      },
+      {
+        "from": "surgical_eval",
+        "to": "localize",
+        "condition": "Not a candidate or declined/failed"
+      },
+      {
+        "from": "localize",
+        "to": "intervene"
+      },
+      {
+        "from": "intervene",
+        "to": "reassess"
+      }
+    ],
+    "summary": [
+      "Begin with drainage optimization and pleurodesis options; obtain surgical consult.",
+      "If surgery not feasible, localize PAL bronchoscopically and occlude the minimal necessary segments.",
+      "Select device/adhesive based on anatomy and risk; reassess for healing and remove devices when feasible."
+    ]
+  },
+  "conclusion": {
+    "points": [
+      "PALs are challenging; most resolve with drainage within 1\u20132 weeks, but a subset needs advanced therapy.",
+      "Sequential balloon occlusion with adjunct maneuvers enables targeted bronchoscopic closure with valves, spigots, stents, or adhesives.",
+      "Collateral ventilation and anesthesia effects complicate localization; structured workflows improve success."
+    ],
+    "reference": "Chapter conclusion"
+  },
+  "references": [
+    "Smesseim I et al. Respiration. 2024;103:1\u201319.",
+    "Dugan KC et al. Chest. 2017;152(2):417\u201323.",
+    "DeCamp MM et al. Ann Thorac Surg. 2006;82(1):197\u2013206.",
+    "Duron G, Backer E, Feller-Kopman D. Expert Rev Respir Med. 2023;17(10):865\u201372.",
+    "Chee CB et al. Respir Med. 1998;92(5):757\u201361.",
+    "Roberts ME et al. Thorax. 2023;78(11):1143\u201356.",
+    "Mahajan AK, Doeing DC, Hogarth DK. J Thorac Cardiovasc Surg. 2013;145(3):626\u201330.",
+    "Koster TD, Slebos DJ. Int J Chron Obstruct Pulmon Dis. 2016;11:765\u201373.",
+    "Lazarus DR, Casal RF. J Thorac Dis. 2017;9(11):4660\u201370.",
+    "Vial MR et al. Ann Am Thorac Soc. 2013;10(2):157\u20139.",
+    "Zeller MVBP et al. Rev Port Pneumol. 2014;20(3):162\u20136.",
+    "Klooster K et al. N Engl J Med. 2015;373(24):2325\u201335.",
+    "Klooster K et al. Respiration. 2020;99(1):50\u20135.",
+    "Criner GJ et al. Am J Respir Crit Care Med. 2019;200(11):1354\u201362.",
+    "Watanabe YMK et al. J Bronchol. 2003;20(4):264\u20137.",
+    "Kaneda H et al. Respir Investig. 2015;53(1):30\u20136.",
+    "Himeji D et al. Intern Med. 2020;59(15):1835\u20139.",
+    "Slade M. Semin Respir Crit Care Med. 2014;35(6):706\u201314.",
+    "Dutau H et al. Eur J Cardiothorac Surg. 2011;39(2):185\u20139.",
+    "Fruchter O et al. Respiration. 2014;87(3):227\u201333.",
+    "Keshishyan S et al. J Thorac Dis. 2017;9(Suppl 10):S1034\u201346.",
+    "Scappaticci E et al. Ann Thorac Surg. 1994;57(1):119\u201322.",
+    "Durrance RJ et al. Respir Med Case Rep. 2022;38:101670.",
+    "Hollaus PH et al. Ann Thorac Surg. 1998;66(3):923\u20137."
+  ]
+}

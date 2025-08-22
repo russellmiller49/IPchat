@@ -1,0 +1,188 @@
+{
+  "chapter_metadata": {
+    "title": {
+      "value": "Physiology of Fixed Airway Obstruction",
+      "present_in_source": true
+    },
+    "authors": [
+      "Ross K. Morgan",
+      "Ruaidhri Keane"
+    ],
+    "chapter_number": {
+      "value": "6-1",
+      "present_in_source": true
+    },
+    "learning_objectives": [],
+    "key_points": [
+      "Upper airway obstruction frequently presents to the interventional bronchoscopist with causes including malignant tracheal disease and postintubation stenosis.",
+      "Physiological changes are due to turbulent airflow at stenosis, leading to increased resistance, higher work of breathing, hypoventilation, and exercise limitation.",
+      "Characteristic changes are seen on pulmonary function tests, especially flow-volume loops.",
+      "Fixed obstruction shows plateauing of inspiratory and expiratory limbs, differentiating it from variable intrathoracic or extrathoracic obstruction.",
+      "Spirometry and quantitative indices (e.g., FEV1/PEFR ≥ 10, FEV1/FEV0.5 ≥ 1.5) are useful but lack sensitivity; bronchoscopy and imaging are essential."
+    ],
+    "page_range": {
+      "start": 1,
+      "end": 11
+    },
+    "reference": "[Chapter Text]"
+  },
+  "anatomical_content": {
+    "structures": [
+      "Nose",
+      "Mouth",
+      "Pharynx",
+      "Larynx (supraglottis, glottis, subglottis)",
+      "Trachea (cervical and intrathoracic segments)",
+      "Main bronchi",
+      "Alveolar sacs"
+    ]
+  },
+  "clinical_procedures": [
+    "Flexible and rigid bronchoscopy",
+    "Spirometry with flow-volume loops",
+    "Impulse oscillometry",
+    "CT neck/chest",
+    "Virtual bronchoscopy",
+    "Endobronchial ultrasound (radial probe)",
+    "MRI for paratracheal abnormalities"
+  ],
+  "diagnostic_approaches": [
+    "Flow-volume loop analysis: fixed obstruction shows plateauing of both limbs.",
+    "Quantitative indices: PEFR:PIFR ratio, MEF50:MIP50 ratio, FEF50%/FIF50% ≥1, FEV1/PEFR ≥10 ml/l/min, FEV1/FEV0.5 ≥1.5.",
+    "Impulse oscillometry: resistance (R) constant across frequencies in fixed obstruction.",
+    "Heliox trial: improves turbulent flow obstruction but not COPD-related laminar obstruction.",
+    "Imaging: CT, MRI, virtual bronchoscopy for lesion characterization."
+  ],
+  "treatment_algorithms": [
+    "Initial stabilization with heliox in acute obstruction.",
+    "Endoscopic intervention (dilatation, stenting, debridement).",
+    "Surgical resection for select tumors or stenoses.",
+    "Definitive management guided by etiology (malignant vs benign vs postintubation)."
+  ],
+  "clinical_guidelines": [
+    "Flow-volume loops are useful but lack diagnostic sensitivity; bronchoscopy is required for confirmation.",
+    "In COPD patients, absence of plateau does not rule out fixed obstruction.",
+    "FEV1/FEV0.5 ratio <0.6 suggests central obstruction over COPD.",
+    "Stridor and dyspnea unresponsive to bronchodilators should prompt evaluation for fixed obstruction."
+  ],
+  "drug_information": [
+    "Heliox (60–80% helium, 20–40% oxygen) reduces turbulence and dyspnea in acute obstruction."
+  ],
+  "tables": [
+    {
+      "title": "Proposed criteria for distinguishing upper airway obstruction on pulmonary function tests",
+      "source": "PDF p.6, Table 1",
+      "rows": [
+        {"Visual criteria": ["Presence of plateau", "Biphasic shape", "Oscillations"]},
+        {"Quantitative criteria": [
+          "PEFR:PIFR increased",
+          "MEF50:MIP50 increased",
+          "FIF50% ≤100 L/min",
+          "FEF50%/FIF50% ≥1",
+          "FIF25-75/FEF25-75 <1",
+          "FEV1/PEFR ≥10 ml/l/min",
+          "FEV1/FEV0.5 ≥1.5",
+          "DLCO unchanged"
+        ]}
+      ]
+    },
+    {
+      "title": "Causes of fixed large airway obstruction",
+      "source": "PDF p.6, Table 2",
+      "rows": [
+        {"Nonmalignant": [
+          "Extrinsic: Goiter, Lymphadenopathy, Vascular compression",
+          "Postintubation stenosis",
+          "Idiopathic",
+          "Infection: Tuberculosis, Histoplasmosis, Mucormycosis, Nocardia",
+          "Granulation tissue (anastomotic)",
+          "Inflammatory/infiltrative: Amyloid, Sarcoidosis, Relapsing polychondritis, Wegener’s",
+          "Foreign bodies",
+          "Iatrogenic",
+          "Tracheobronchopathia osteoplastica"
+        ]},
+        {"Tumors": [
+          "Benign: Hemangiomas, Granular cell tumor, Papillomatosis, Lipoma, Pleomorphic adenoma, Chondroma, Neurofibroma",
+          "Malignant: Bronchogenic carcinoma, Adenoid cystic carcinoma, Mucoepidermoid carcinoma, Angiosarcoma, Carcinoid, Kaposi’s sarcoma, Metastatic disease (lung, renal, breast, thyroid, colon, melanoma)"
+        ]}
+      ]
+    }
+  ],
+  "figures": [
+    {"title": "Patterns of airflow (laminar, transitional, turbulent)", "page": 4},
+    {"title": "Flow-volume loops (normal, variable extrathoracic, variable intrathoracic, fixed obstruction)", "page": 5},
+    {"title": "Case examples of fixed obstruction with CT and bronchoscopic images", "pages": [8, 9, 10]}
+  ],
+  "clinical_cases": [
+    "16-year-old girl with vascular ring compressing mid-trachea, flow-volume loop shows fixed obstruction.",
+    "65-year-old man with esophageal cancer, fixed obstruction requiring stenting.",
+    "53-year-old woman with relapsing polychondritis and fixed obstruction at first tracheal ring.",
+    "31-year-old woman with idiopathic subglottic stricture, improved after bronchoscopic dilatation."
+  ],
+  "definitions": [
+    {"term": "pCA", "definition": "pretest probability of cancer"},
+    {"term": "IPN", "definition": "indeterminate pulmonary nodule"},
+    {"term": "SPN", "definition": "solitary pulmonary nodule"},
+    {"term": "VDT", "definition": "volume doubling time"},
+    {"term": "FDG", "definition": "fluorodeoxyglucose"},
+    {"term": "PET", "definition": "positron emission tomography"},
+    {"term": "EBUS", "definition": "endobronchial ultrasound"},
+    {"term": "TBNA", "definition": "transbronchial needle aspiration"},
+    {"term": "PPV", "definition": "positive predictive value"},
+    {"term": "NPV", "definition": "negative predictive value"},
+    {"term": "ACCP", "definition": "American College of Chest Physicians"},
+    {"term": "BTS", "definition": "British Thoracic Society"}
+  ],
+  "clinical_pearls": [
+    "Flow-volume loop plateauing of both limbs is the hallmark of fixed obstruction.",
+    "Heliox reduces turbulent flow and work of breathing, useful as a bridge in acute obstruction.",
+    "FEV1/FEV0.5 <0.6 helps differentiate central obstruction from COPD.",
+    "Impulse oscillometry shows resistance independent of frequency in fixed obstruction.",
+    "Failure to respond to bronchodilators in wheezing/stridor should raise suspicion."
+  ],
+  "references": [
+    "Miller RD, Hyatt RE. Mayo Clin Proc. 1969;44(3):145–61.",
+    "Miller RD, Hyatt RE. Am Rev Respir Dis. 1973;108(3):475–81.",
+    "Empey DW. Br Med J. 1972;3:503–5.",
+    "Rotman HH et al. Chest. 1975;68:796–9.",
+    "Modrykamien AM et al. Respir Care. 2009;54:474–9.",
+    "Handa H et al. Respir Care. 2014;59:231–40."
+  ],
+  "summary": {
+    "clinical_applications": [
+      "Flow-volume loops and spirometry are inexpensive but lack sensitivity; use for screening.",
+      "Bronchoscopy and CT imaging remain the diagnostic gold standards."
+    ],
+    "practice_recommendations": [
+      "Suspect fixed obstruction in patients with unexplained stridor, wheeze, or dyspnea unresponsive to bronchodilators.",
+      "Always confirm with bronchoscopy and imaging."
+    ],
+    "future_directions": [
+      "Further validation of spirometric indices in real-world patient populations.",
+      "Expanded use of impulse oscillometry and non-invasive imaging."
+    ],
+    "controversies": [
+      "Sensitivity of physiologic tests remains low; criteria derived from simulations may not reflect real-world accuracy."
+    ]
+  },
+  "extraction_metadata": {
+    "source_pdf": "Textbooks/Chapter pdfs/Physiology of Fixed Airway Obstruction.pdf",
+    "adobe_json": "Textbooks/Chapter json/Physiology of Fixed Airway Obstruction.json",
+    "extraction_date": "2025-08-21T16:35:59.197580+00:00",
+    "text_pages": 11,
+    "chunks_processed": 2,
+    "model": "gpt-5",
+    "schema_version": "gold_standard_v1.0"
+  },
+  "risk_models": [],
+  "guideline_adherence": {},
+  "technology_and_technique": [],
+  "conclusion": {
+    "points": [
+      "Fixed airway obstruction persists throughout the respiratory cycle and produces characteristic plateauing on flow-volume loops.",
+      "Symptoms include exertional dyspnea, stridor, and wheeze unresponsive to bronchodilators.",
+      "Pulmonary function tests are suggestive but lack sensitivity; bronchoscopy and imaging are required."
+    ],
+    "reference": "[Chapter Conclusion]"
+  }
+}

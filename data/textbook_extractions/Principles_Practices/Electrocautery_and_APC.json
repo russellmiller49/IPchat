@@ -1,0 +1,383 @@
+{
+  "chapter_metadata": {
+    "title": "Electrocautery and Argon Plasma Coagulation",
+    "authors": [
+      "Jeremy Kim",
+      "Momen Wahidi"
+    ],
+    "chapter_number": null,
+    "page_range": {
+      "start": 1,
+      "end": 6
+    },
+    "reference": "Principles and Practice of Interventional Pulmonology, 2025"
+  },
+  "definitions": [
+    {
+      "term": "Electrocautery (EC)",
+      "definition": "Direct-contact thermal ablation using high-frequency electrical current to cut and coagulate airway tissue."
+    },
+    {
+      "term": "Argon Plasma Coagulation (APC)",
+      "definition": "Non-contact monopolar electrocoagulation via ionized argon plasma that causes superficial coagulation (~1\u20132 mm)."
+    },
+    {
+      "term": "Central Airway Obstruction (CAO)",
+      "definition": "Obstruction of trachea and main bronchi from benign or malignant disease leading to airflow limitation."
+    },
+    {
+      "term": "CRE balloon",
+      "definition": "Continuous radial expansion balloon used for airway dilation after web or stenosis incisions."
+    }
+  ],
+  "technology_and_technique": [
+    {
+      "topic": "EC physics & system",
+      "summary": "High-frequency current delivered through an insulated wire probe; heat generated at the point of contact from electron current density; requires grounding pad to complete circuit and protect operator."
+    },
+    {
+      "topic": "APC physics & tissue effect",
+      "summary": "Argon gas ionized at probe tip forms plasma jet; electrons spray to closest tissue, creating homogeneous superficial coagulative necrosis (~1\u20132 mm). Plasma can follow bronchial angulations; aim so target is closest surface."
+    },
+    {
+      "topic": "Determinants of APC effect",
+      "summary": "Dependent on wattage, probe size (smaller tip concentrates energy), and activation duration. Mucus/blood/metal can shunt current and diminish local effect; clear the field with suction."
+    },
+    {
+      "topic": "Operational foot pedals & modes",
+      "summary": "Yellow pedal: cutting; blue pedal: coagulation. EC blend mode alternates voltages for simultaneous cutting/coagulation. Alternate pedals as needed."
+    }
+  ],
+  "diagnostic_approaches": [
+    {
+      "name": "Pre-procedure radiographic assessment",
+      "purpose": "Define lesion location, depth suspicion, and distal lumen presence to select modality (EC vs APC vs laser) and plan multimodal therapy.",
+      "interpretation": "APC favored for superficial coagulation/hemostasis or uncertain depth; EC/laser more efficient for bulk debulking when distal lumen present."
+    },
+    {
+      "name": "Endoscopic lesion assessment",
+      "purpose": "Characterize endoluminal vs extrinsic compression and bleeding propensity.",
+      "interpretation": "Endoluminal disease \u2192 EC/APC appropriate; extrinsic compression alone \u2192 not an indication for EC/APC; mixed disease \u2192 consider ablation + dilation/stent."
+    }
+  ],
+  "clinical_procedures": [
+    {
+      "name": "Needle knife radial incisions for webs/stenosis",
+      "indications": [
+        "Short-segment webs",
+        "Subglottic stenosis",
+        "Circumferential scar bands"
+      ],
+      "steps": [
+        "Position needle-knife at 12 o'clock; short activation to incise superficially.",
+        "Repeat at 3 and 9 o'clock (and additional quadrants if needed).",
+        "Avoid posterior membranous wall to prevent esophageal injury.",
+        "Follow with CRE balloon dilation until adequate lumen achieved."
+      ],
+      "pitfalls": [
+        "Prolonged activation \u2192 perforation",
+        "Cutting posterior wall"
+      ],
+      "post_steps": [
+        "Balloon dilation",
+        "Assess for bleeding and stabilize eschar"
+      ]
+    },
+    {
+      "name": "Snare excision for pedunculated tumors",
+      "indications": [
+        "Pedunculated endobronchial tumors with visible stalk"
+      ],
+      "steps": [
+        "Loop snare at stalk base; tighten to compress blood supply.",
+        "Apply EC in brief bursts while tightening until release.",
+        "Retrieve specimen with forceps; treat base for hemostasis."
+      ],
+      "pitfalls": [
+        "Prolonged activation leading to deep thermal injury"
+      ]
+    },
+    {
+      "name": "Hot forceps biopsy (limited role)",
+      "indications": [
+        "When concurrent coagulation during biopsy is desired"
+      ],
+      "notes": "Evidence has not shown significant bleeding reduction vs cold forceps; rarely used in current practice."
+    },
+    {
+      "name": "Blunt probe cauterization",
+      "indications": [
+        "Contact cauterization of bleeding points",
+        "Focal tumor devitalization"
+      ],
+      "steps": [
+        "Apply probe tip to target tissue; short activations with suction.",
+        "Reassess tissue effect frequently; avoid long activations."
+      ]
+    },
+    {
+      "name": "APC non-contact coagulation",
+      "indications": [
+        "Superficial mucosal lesions",
+        "Hemostasis",
+        "When depth is uncertain or distal lumen absent"
+      ],
+      "steps": [
+        "Advance probe ~2 cm distal to scope tip and keep visible.",
+        "Aim 1\u20133 mm from target; short bursts with painting motion.",
+        "Coagulate layer-by-layer to achieve devitalized eschar; then mechanically debulk if needed."
+      ],
+      "parameter_guidance": {
+        "power_W": "20\u201340",
+        "argon_flow_L_min": "0.3\u20131.8 (keep <1 to reduce air embolism)"
+      },
+      "safety": [
+        "Non-contact firing",
+        "Maintain visualization",
+        "Keep probe distal to scope tip"
+      ]
+    }
+  ],
+  "clinical_guidelines": [
+    {
+      "title": "Indications & contraindications",
+      "specific_recommendations": [
+        "Use EC/APC for endoluminal CAO of benign/malignant etiologies.",
+        "Not indicated for pure extrinsic compression.",
+        "For mixed endoluminal + extrinsic disease, plan multimodal therapy (ablation + dilation or stenting)."
+      ]
+    },
+    {
+      "title": "Perioperative safety & room preparation",
+      "specific_recommendations": [
+        "Apply grounding pad; remove metallic objects.",
+        "Perform pre-activation safety check with anesthesia; confirm FiO2 <40% (or \u22643 L/min under sedation).",
+        "If FiO2 cannot be reduced safely, choose nonthermal alternatives (e.g., cryotherapy).",
+        "Manage implantable devices: pre-op evaluation; magnet for pacer-dependency; deprogram/reprogram ICDs."
+      ]
+    },
+    {
+      "title": "Parameter selection",
+      "specific_recommendations": [
+        "EC: 20\u201360 W starting point; long duration (higher cutting), low effect (lower coagulation).",
+        "APC: 20\u201340 W; argon 0.3\u20131.8 L/min; maintain flow <1 L/min to reduce gas embolism risk."
+      ]
+    },
+    {
+      "title": "Intra-procedural monitoring",
+      "specific_recommendations": [
+        "Use suction during energy delivery to maintain visualization and limit shunting from blood/mucus.",
+        "Pause for desaturations; temporarily increase FiO2, then reduce <40% before resuming.",
+        "Mechanically remove devitalized tissue (forceps or cryoprobe) after coagulation."
+      ]
+    }
+  ],
+  "performance_metrics": [
+    {
+      "intervention": "EC (CAO)",
+      "metric": "Luminal improvement",
+      "value": "94%"
+    },
+    {
+      "intervention": "EC (CAO)",
+      "metric": "Symptomatic improvement",
+      "value": "71%"
+    },
+    {
+      "intervention": "EC (CAO)",
+      "metric": "CT improvement",
+      "value": "78%"
+    },
+    {
+      "intervention": "APC (hemoptysis)",
+      "metric": "Immediate resolution",
+      "value": "\u2248100%"
+    },
+    {
+      "intervention": "APC (malignant CAO)",
+      "metric": "Recanalization with good result",
+      "value": "67%"
+    },
+    {
+      "intervention": "Therapeutic bronchoscopy (malignant CAO)",
+      "metric": "Dyspnea improvement",
+      "value": "48%"
+    },
+    {
+      "intervention": "Therapeutic bronchoscopy (malignant CAO)",
+      "metric": "Overall complication rate",
+      "value": "3.9%"
+    }
+  ],
+  "risk_factors": {
+    "airway_fire": {
+      "increases": [
+        "FiO2 \u226540%",
+        "oxygen pooling",
+        "uncoordinated activations"
+      ],
+      "decreases": [
+        "FiO2 <40% or \u22643 L/min (sedation)",
+        "brief activations",
+        "clear staff communication"
+      ]
+    },
+    "air_embolism": {
+      "increases": [
+        "APC argon flow >1 L/min",
+        "probe-tissue contact while firing"
+      ],
+      "decreases": [
+        "Non-contact APC",
+        "argon flow <1 L/min",
+        "maintain 1\u20133 mm distance"
+      ]
+    },
+    "thermal_injury": {
+      "increases": [
+        "Prolonged activations",
+        "deep cuts on posterior wall"
+      ],
+      "decreases": [
+        "Short, layered applications",
+        "avoid posterior wall in webs"
+      ]
+    }
+  },
+  "tables": [
+    {
+      "id": "EC_APC_parameter_matrix",
+      "title": "Starting parameters and key technique notes for EC and APC",
+      "columns": [
+        "Modality",
+        "Power (W)",
+        "Gas Flow (L/min)",
+        "Contact/Distance",
+        "Key notes"
+      ],
+      "rows": [
+        [
+          "EC",
+          "20\u201360",
+          "-",
+          "Contact",
+          "Long duration/low effect to begin; alternate pedals; suction during activation"
+        ],
+        [
+          "APC",
+          "20\u201340",
+          "0.3\u20131.8 (keep <1)",
+          "Non-contact, 1\u20133 mm",
+          "Probe ~2 cm beyond scope tip; layer-by-layer coagulation"
+        ]
+      ]
+    },
+    {
+      "id": "Periop_checklist",
+      "title": "Perioperative checklist for thermal airway ablation",
+      "columns": [
+        "Item",
+        "Target/Action"
+      ],
+      "rows": [
+        [
+          "FiO2 threshold",
+          "<40% (or \u22643 L/min if sedated) before activation"
+        ],
+        [
+          "Grounding pad",
+          "Applied; low-resistance return path"
+        ],
+        [
+          "Implantable device plan",
+          "Pacer magnet if dependent; ICD off during case and reprogram after"
+        ],
+        [
+          "Room communication",
+          "Team safety check immediately pre-firing"
+        ],
+        [
+          "Suction readiness",
+          "Smoke/char removal; clear field to avoid shunting"
+        ],
+        [
+          "Nonthermal backup",
+          "Cryotherapy or other if FiO2 cannot be reduced"
+        ]
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "id": "Fig1",
+      "caption": "Subglottic web: needle-knife radial cuts; avoid posterior membrane; CRE balloon dilation for lumen gain.",
+      "page": 4,
+      "keywords": [
+        "needle knife",
+        "web",
+        "subglottic stenosis",
+        "balloon dilation"
+      ],
+      "locator": {
+        "BBox": [
+          184.07,
+          89.25,
+          544.18,
+          375.08
+        ]
+      }
+    },
+    {
+      "id": "Fig2",
+      "caption": "High tracheal tumor: APC circumferential devitalization then cryoprobe debulking \u2192 improved caliber and hemoptysis resolution.",
+      "page": 4,
+      "keywords": [
+        "APC",
+        "cryoprobe",
+        "tumor",
+        "hemostasis"
+      ],
+      "locator": {
+        "BBox": [
+          184.07,
+          436.52,
+          544.18,
+          731.35
+        ]
+      }
+    }
+  ],
+  "management": [
+    "Choose EC for efficient debulking when contact is safe and distal lumen present; choose APC for superficial coagulation/hemostasis or uncertain depth.",
+    "Combine with mechanical debulking and dilatation; consider stenting for residual narrowing or mixed disease."
+  ],
+  "conclusion": {
+    "points": [
+      "EC and APC deliver immediate, controllable thermal ablation for endoluminal CAO with strong symptomatic and anatomic responses in selected patients.",
+      "APC\u2019s shallow penetration favors safety in uncertain depth or absent distal lumen, while EC offers faster debulking via contact energy.",
+      "Strict FiO2 thresholds and gas-flow discipline are central to avoiding airway fire and gas embolism; structured team workflows reduce risk."
+    ],
+    "reference": "Chapter conclusion"
+  },
+  "references": [
+    "Wahidi MM, Unroe MA, Adlakha N, Beyea M, Shofer SL. J Thorac Oncol. 2011;6:1516\u201320.",
+    "Boxem T, Muller M, Venmans B, Postmus P, Sutedja T. Chest. 1999;116:1108\u201312.",
+    "Morice RC, Ece T, Ece F, Keus L. Chest. 2001;119:781\u20137.",
+    "Reichle G, Freitag L, Kullmann HJ, Prenzel R, Macha HN, Farin G. Pneumologie. 2000;54:508\u201316.",
+    "Ernst A, Simoff M, Ost D, Goldman Y, Herth FJF. Chest. 2008;134:514\u20139.",
+    "Bolliger CT, Sutedja TG, Strausz J, Freitag L. Eur Respir J. 2006;27:1258\u201371.",
+    "Coulter TD, Mehta AC. Chest. 2000;118:516\u201321.",
+    "Dalar L, Ozdemir C, Sokucu SN, Nur Urer H, Altin S. Can Respir J. 2019;2019:5269728.",
+    "Ernst A, Feller-Kopman D, Becker HD, Mehta AC. Am J Respir Crit Care Med. 2004;169:1278\u201397.",
+    "Ernst A, Silvestri GA, Johnstone D; ACCP. Chest. 2003;123:1693\u2013717.",
+    "Folch EE, Oberg CL, Mehta AC, Majid A, Keyes C, Fernandez-Bussy S. Respiration. 2021:1\u20135.",
+    "Ong P, Grosu HB, Debiane L, Casal RF, Eapen GA, Jimenez CA, Noor L, Ost DE. Thorax. 2019;74:141\u201356.",
+    "Ost DE, Ernst A, Grosu HB, Lei X, et al. Chest. 2015;148:450\u201371.",
+    "Ost DE, Ernst A, Grosu HB, Lei X, et al. Chest. 2015;147:1282\u201398.",
+    "Rosell A, Stratakos G. Eur Respir Rev. 2020;29:190178.",
+    "Shafiq M, Lee H, Yarmus L, Feller-Kopman D. Ann Am Thorac Soc. 2019;16:786\u201396.",
+    "Tremblay A, Marquette CH. Can Respir J. 2004;11:305\u201310.",
+    "van Boxem TJ, Westerga J, Venmans BJ, Postmus PE, Sutedja TG. Chest. 2000;117:887\u201391.",
+    "Watson AB, Loughman J. Anaesth Intensive Care. 1978;6:310\u201321."
+  ]
+}

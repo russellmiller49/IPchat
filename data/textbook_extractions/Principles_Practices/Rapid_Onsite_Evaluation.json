@@ -1,0 +1,268 @@
+{
+  "chapter_metadata": {
+    "title": "Rapid Onsite Evaluation and Specimen Preparation",
+    "authors": [
+      "Andie O\u2019Laughlin",
+      "Christopher R. Gilbert"
+    ],
+    "chapter_number": null,
+    "page_range": {
+      "start": 1,
+      "end": 9
+    },
+    "reference": "Principles and Practice of Interventional Pulmonology, 2025"
+  },
+  "definitions": [
+    {
+      "term": "ROSE",
+      "definition": "Real\u2011time adequacy assessment and triage of cytology during bronchoscopy."
+    },
+    {
+      "term": "cTBNA",
+      "definition": "Conventional transbronchial needle aspiration without ultrasound guidance."
+    },
+    {
+      "term": "EBUS\u2011TBNA",
+      "definition": "Endobronchial ultrasound\u2011guided transbronchial needle aspiration."
+    },
+    {
+      "term": "Cell block",
+      "definition": "Centrifuged cytology pellet processed as FFPE for histology/IHC/FISH/NGS."
+    },
+    {
+      "term": "Telecytopathology",
+      "definition": "Remote ROSE using image streaming or robotic microscope control."
+    }
+  ],
+  "clinical_procedures": [
+    {
+      "name": "Two\u2011slide pull smear technique",
+      "steps": [
+        "Expel aspirate onto slide A; use slide B to gently spread into two thin smears.",
+        "Air\u2011dry one slide for Diff\u2011Quik/Giemsa; fix the other in ethanol for Papanicolaou."
+      ],
+      "notes": "Preferred by many cytopathologists for morphology."
+    },
+    {
+      "name": "ROSE adequacy workflow",
+      "steps": [
+        "Assess for lymphoid tissue or lesional cells; note artifacts (mucus, ciliated cells, cartilage).",
+        "Communicate adequacy to bronchoscopist; adjust passes accordingly.",
+        "Allocate additional material to cell block (FFPE) for ancillary testing."
+      ]
+    },
+    {
+      "name": "Cell block preparation (FFPE)",
+      "steps": [
+        "Rinse residual material with ~50% ethanol and centrifuge to pellet.",
+        "Fix in formalin and embed in paraffin for IHC/FISH/NGS."
+      ],
+      "notes": "Nontraditional preparations may be validated locally for molecular testing."
+    }
+  ],
+  "diagnostic_approaches": [
+    {
+      "name": "Pass number optimization",
+      "purpose": "Balance adequacy vs tissue stewardship for molecular testing.",
+      "evidence": [
+        "Chin 2002: increasing yield up to 7 passes; recommend 4 passes for malignancy.",
+        "Lee 2008: recommend 3 passes; at least one tissue core increases adequacy.",
+        "Yarmus 2013: four passes often adequate for molecular profiling (KRAS/EGFR/ALK)."
+      ]
+    }
+  ],
+  "clinical_guidelines": [
+    {
+      "source": "CAP/ACCP/ATS/ASC small specimen handling (2020)",
+      "recommendations": [
+        "Plan pre\u2011analytic workflow to preserve tissue for ancillaries.",
+        "Prefer FFPE cell blocks for IHC/FISH; validate nontraditional prep when used."
+      ]
+    },
+    {
+      "source": "CHEST EBUS\u2011TBNA (2015)",
+      "recommendations": [
+        "ROSE may be used when available; ensure sufficient passes per station to achieve adequacy."
+      ]
+    },
+    {
+      "source": "NCCN NSCLC (2024)",
+      "recommendations": [
+        "Obtain tissue for histology and broad biomarkers (EGFR, ALK, ROS1, BRAF, KRAS, NTRK1\u20113, RET, METex14, ERBB2 (HER2), PD\u2011L1).",
+        "Consider up\u2011front slide sectioning for diagnostics/predictive testing with small samples."
+      ]
+    },
+    {
+      "source": "Operational & reimbursement",
+      "recommendations": [
+        "Coordinate cytology staffing; recognize ROSE reimbursement constraints (CPT 88172 vs 88173/88331).",
+        "Telecytopathology can mitigate access/logistics where onsite coverage is limited."
+      ]
+    }
+  ],
+  "performance_metrics": [
+    {
+      "context": "cTBNA + ROSE vs cTBNA",
+      "metric": "Diagnostic yield",
+      "value": "56.2% vs 31.3% (p<0.01)"
+    },
+    {
+      "context": "With ROSE",
+      "metric": "Overall complications (secondary to fewer risky biopsies)",
+      "value": "6% vs 20%"
+    },
+    {
+      "context": "EBUS\u2011TBNA RCT",
+      "metric": "Procedure time (median)",
+      "value": "20.1 vs 14.3 minutes"
+    },
+    {
+      "context": "ROSE vs final diagnosis",
+      "metric": "Concordance",
+      "value": "\u226590%"
+    }
+  ],
+  "risk_factors": {
+    "under\u2011sampling": {
+      "increases": [
+        "No onsite feedback",
+        "Inexperience"
+      ],
+      "decreases": [
+        "ROSE presence",
+        "Feedback loops between pulmonology & cytology"
+      ]
+    },
+    "delays": {
+      "increases": [
+        "Repeat procedures for molecular testing",
+        "Logistics"
+      ],
+      "decreases": [
+        "Adequate passes initially",
+        "Pre\u2011planned triage to FFPE"
+      ]
+    }
+  },
+  "tables": [
+    {
+      "id": "ROSE_passes_targets",
+      "title": "Suggested passes per station for adequacy and molecular testing",
+      "columns": [
+        "Source",
+        "Suggested passes",
+        "Notes"
+      ],
+      "rows": [
+        [
+          "Chin 2002",
+          "\u22484",
+          "Yield increases up to 7; recommend 4 for malignancy"
+        ],
+        [
+          "Lee 2008",
+          "3",
+          "At least one core improves adequacy"
+        ],
+        [
+          "Yarmus 2013",
+          "4",
+          "Often adequate for KRAS/EGFR/ALK profiling"
+        ]
+      ]
+    },
+    {
+      "id": "NCCN_biomarkers_by_year",
+      "title": "NCCN biomarker panel expansion (2010 \u2192 2024)",
+      "columns": [
+        "Year",
+        "Markers"
+      ],
+      "rows": [
+        [
+          2010,
+          "EGFR"
+        ],
+        [
+          2015,
+          "EGFR, ALK"
+        ],
+        [
+          2020,
+          "EGFR, ALK, ROS1, BRAF, NTRK 1/2/3, METex14, RET, PD\u2011L1"
+        ],
+        [
+          2024,
+          "EGFR, ALK, ROS1, BRAF, KRAS, NTRK 1/2/3, METex14, RET, ERBB2 (HER2), PD\u2011L1"
+        ]
+      ]
+    }
+  ],
+  "treatment_algorithm": {
+    "id": "rose_workflow_detailed",
+    "nodes": [
+      {
+        "id": "start",
+        "label": "EBUS/cTBNA sampling"
+      },
+      {
+        "id": "smear",
+        "label": "Two\u2011slide smears (air\u2011dried + ethanol\u2011fixed)"
+      },
+      {
+        "id": "adequacy",
+        "label": "ROSE adequacy check; adjust passes"
+      },
+      {
+        "id": "cellblock",
+        "label": "Allocate to FFPE cell block for ancillaries"
+      },
+      {
+        "id": "tele",
+        "label": "Telecytopathology if onsite unavailable"
+      },
+      {
+        "id": "end",
+        "label": "Stop when diagnostic + molecular sufficiency reached"
+      }
+    ],
+    "edges": [
+      {
+        "from": "start",
+        "to": "smear"
+      },
+      {
+        "from": "smear",
+        "to": "adequacy"
+      },
+      {
+        "from": "adequacy",
+        "to": "cellblock",
+        "condition": "adequate"
+      },
+      {
+        "from": "adequacy",
+        "to": "smear",
+        "condition": "inadequate \u2192 add passes"
+      },
+      {
+        "from": "cellblock",
+        "to": "end"
+      }
+    ]
+  },
+  "conclusion": {
+    "points": [
+      "ROSE enhances efficiency of diagnostic bronchoscopy by reducing additional riskier procedures and enabling tissue stewardship for biomarker testing.",
+      "Diagnostic yield improvement is clear with cTBNA and mixed with EBUS\u2011TBNA; program benefits depend on local logistics and expertise.",
+      "Telecytopathology and standardized workflows broaden access while addressing reimbursement constraints."
+    ],
+    "reference": "Chapter conclusion"
+  },
+  "references": [
+    "CAP/ACCP/ATS/ASC small specimen handling guideline (2020).",
+    "CHEST technical aspects of EBUS\u2011TBNA (2015).",
+    "NCCN NSCLC v4.2024.",
+    "Davenport 1990; Diette 2000; Baram 2005; Trisolini 2011; Yarmus 2011; Sehgal 2018; Collins 2013; Eapen 2013; Avasarala 2023; others."
+  ]
+}

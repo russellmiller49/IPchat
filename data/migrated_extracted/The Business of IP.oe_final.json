@@ -1,0 +1,60 @@
+{
+  "source": {
+    "document_id": "The Business of IP",
+    "ingest_date": "2025-08-08T16:18:40.253965+00:00",
+    "trial_registration_id": null,
+    "pmid": null,
+    "doi": "10.1016/j.ccm.2013.05.005"
+  },
+  "document": {
+    "metadata": {
+      "title": "The Business of Interventional Pulmonology",
+      "year": 2013,
+      "authors": [
+        "Christopher T. Erb",
+        "Armin Ernst",
+        "Ga\u00ebtane C. Michaud"
+      ],
+      "journal": "Clinics in Chest Medicine",
+      "doi": "10.1016/j.ccm.2013.05.005",
+      "pmid": null
+    },
+    "sections": {
+      "abstract": null,
+      "methods": "Narrative, non-systematic review and commentary on reimbursement, billing, coding, and financing models relevant to interventional pulmonology in the United States and Canada.",
+      "results": "Key descriptive findings: fee-for-service predominates; alternative models discussed include RVU-based payment, pay-for-performance, medical home, and ACOs. Medicare payment examples and RVU components are described. Example 2013 Medicare conversion factor stated as 34.023. Tables provide example CPT codes and work/nonfacility/facility RVUs for common interventional pulmonology procedures."
+    }
+  },
+  "clinical_extraction": {
+    "document_id": "c0727e5b6e37",
+    "title": "The Business of Interventional Pulmonology",
+    "document_type": "research",
+    "diagnostic_yields": {},
+    "complication_rates": {},
+    "methodology": {},
+    "clinical_pearls": [],
+    "indications": [],
+    "contraindications": [],
+    "patient_selection": {
+      "inclusion_criteria": [],
+      "exclusion_criteria": [],
+      "ideal_candidate": null
+    },
+    "equipment": [],
+    "key_findings": [],
+    "practical_tips": [],
+    "extraction_confidence": 0.5,
+    "has_numerical_data": false,
+    "original_extraction": null
+  },
+  "migration_info": {
+    "migrated_at": "2025-08-22T09:42:47.032572",
+    "original_structure": "oe_final",
+    "migration_type": "restructure"
+  },
+  "original_sections": {
+    "abstract": null,
+    "methods": "Narrative, non-systematic review and commentary on reimbursement, billing, coding, and financing models relevant to interventional pulmonology in the United States and Canada.",
+    "results": "Key descriptive findings: fee-for-service predominates; alternative models discussed include RVU-based payment, pay-for-performance, medical home, and ACOs. Medicare payment examples and RVU components are described. Example 2013 Medicare conversion factor stated as 34.023. Tables provide example CPT codes and work/nonfacility/facility RVUs for common interventional pulmonology procedures."
+  }
+}

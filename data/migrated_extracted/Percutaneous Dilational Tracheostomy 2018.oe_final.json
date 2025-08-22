@@ -1,0 +1,59 @@
+{
+  "source": {
+    "document_id": "Percutaneous Dilational Tracheostomy 2018",
+    "ingest_date": "2025-08-08T14:46:42.110612+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1016/j.ccm.2017.11.009"
+  },
+  "document": {
+    "metadata": {
+      "title": "Percutaneous Dilational Tracheostomy",
+      "year": 2018,
+      "authors": [
+        "Andrew D. Lerner",
+        "Lonny Yarmus"
+      ],
+      "journal": "Clinics in Chest Medicine",
+      "doi": "10.1016/j.ccm.2017.11.009",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Narrative review of percutaneous dilational tracheostomy (PDT) covering history, indications, timing, contraindications, training, preparation, and adjuncts (bronchoscopy and ultrasound). Summarizes evidence comparing early vs late tracheostomy and guidance modalities (ultrasound vs bronchoscopy), noting limited trial data and generally similar safety with experienced operators.",
+      "methods": "Narrative review; the article summarizes prospective and retrospective studies, randomized trials, and meta-analyses relevant to PDT indications, timing, techniques, and outcomes. No original patient enrollment or primary data collection was performed in this review.",
+      "results": "Key points: No mortality benefit for early vs late tracheostomy in large RCTs; early placement associated with reduced sedation use but more procedures performed. Two prospective trials compared real-time ultrasound guidance with bronchoscopy for PDT: a small RCT (n=23) found higher rate of initial midline puncture with ultrasound; a larger RCT (n=177) reported longer procedural time and higher desaturation with bronchoscopy, with similar success and complication rates overall. Data on ultrasound remain limited."
+    }
+  },
+  "clinical_extraction": {
+    "document_id": "d4f18e0469b0",
+    "title": "Percutaneous Dilational Tracheostomy",
+    "document_type": "research",
+    "diagnostic_yields": {},
+    "complication_rates": {},
+    "methodology": {},
+    "clinical_pearls": [],
+    "indications": [],
+    "contraindications": [],
+    "patient_selection": {
+      "inclusion_criteria": [],
+      "exclusion_criteria": [],
+      "ideal_candidate": null
+    },
+    "equipment": [],
+    "key_findings": [],
+    "practical_tips": [],
+    "extraction_confidence": 0.5,
+    "has_numerical_data": false,
+    "original_extraction": null
+  },
+  "migration_info": {
+    "migrated_at": "2025-08-22T09:42:46.595624",
+    "original_structure": "oe_final",
+    "migration_type": "restructure"
+  },
+  "original_sections": {
+    "abstract": "Narrative review of percutaneous dilational tracheostomy (PDT) covering history, indications, timing, contraindications, training, preparation, and adjuncts (bronchoscopy and ultrasound). Summarizes evidence comparing early vs late tracheostomy and guidance modalities (ultrasound vs bronchoscopy), noting limited trial data and generally similar safety with experienced operators.",
+    "methods": "Narrative review; the article summarizes prospective and retrospective studies, randomized trials, and meta-analyses relevant to PDT indications, timing, techniques, and outcomes. No original patient enrollment or primary data collection was performed in this review.",
+    "results": "Key points: No mortality benefit for early vs late tracheostomy in large RCTs; early placement associated with reduced sedation use but more procedures performed. Two prospective trials compared real-time ultrasound guidance with bronchoscopy for PDT: a small RCT (n=23) found higher rate of initial midline puncture with ultrasound; a larger RCT (n=177) reported longer procedural time and higher desaturation with bronchoscopy, with similar success and complication rates overall. Data on ultrasound remain limited."
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "chapter_metadata": {
+    "title": {
+      "value": "Y-Stenting Techniques",
+      "present_in_source": true
+    },
+    "authors": [
+      "Daniela Gompelmann"
+    ],
+    "chapter_number": {
+      "value": "41-1",
+      "present_in_source": true
+    },
+    "learning_objectives": [],
+    "key_points": [
+      "Y-shaped airway stents treat central airway obstruction involving the lower trachea, main carina, and proximal mainstem bronchi.",
+      "Main indications include malignant stenosis (often from adjacent lung cancer) and select benign conditions (e.g., post-tracheostomy stenosis, tracheobronchomalacia) when surgery is not feasible.",
+      "Stent families: polymer (e.g., Dumon), hybrid (Dynamic), and self-expandable metallic; choice depends on airway biomechanics and lesion morphology.",
+      "Rigid bronchoscopy is preferred; metallic Y-stents are commonly deployed over two guidewires under fluoroscopy.",
+      "Frequent adverse events include mucostasis and granulation tissue; migration is uncommon with Y-stents due to their geometry.",
+      "Comparative data suggest higher insertion success and shorter implantation time with metallic Y-stents versus silicone, with similar early/late complications."
+    ],
+    "page_range": {
+      "start": 1,
+      "end": 8
+    },
+    "reference": "[Chapter Text]"
+  },
+  "anatomical_content": {
+    "structures": [
+      "Lower trachea",
+      "Main carina",
+      "Proximal mainstem bronchi",
+      "Pars membranacea"
+    ]
+  },
+  "clinical_procedures": [
+    "Rigid bronchoscopy for Y-stent implantation (preferred)",
+    "Flexible bronchoscopy-assisted placement in select cases",
+    "Fluoroscopic guidance for self-expandable metallic Y-stents",
+    "Guidewire-assisted deployment (two guidewires to right and left main bronchi)",
+    "Laser-assisted tumor resection",
+    "Electrocautery",
+    "Argon-plasma coagulation",
+    "Cryodebridement",
+    "Balloon dilatation prior to stent placement",
+    "Post-placement bronchoscopic check and imaging"
+  ],
+  "diagnostic_approaches": [
+    "Define stenosis extent across distal trachea and main bronchi to size stent length.",
+    "Select stent diameter greater than the residual lumen after debulking/dilatation."
+  ],
+  "treatment_algorithms": [
+    "Indications: malignant tracheobronchial stenosis (lung, esophageal, thyroid cancers, metastases); benign stenoses (post-tracheostomy, post-TB scar, amyloidosis, vasculitis, goiter); fistulas/dehiscences (tracheoesophageal, bronchopleural); select tracheobronchomalacia.",
+    "Benign disease: surgery remains the gold standard; use stents if inoperable or as a bridge.",
+    "Fistulas: consider combined esophageal + airway stenting; Dynamic Y-stent’s flexible posterior membrane can improve sealing against an esophageal stent.",
+    "Stent choice: polymer (Dumon/Hood), hybrid (Dynamic), self-expandable metallic; match to airway biomechanics and deployment constraints.",
+    "Comparison: in malignant main-carina disease, metallic Y-stents had fewer insertion failures and shorter implantation time than silicone, with no significant difference in early/late complications.",
+    "Implantation: general anesthesia and rigid bronchoscopy preferred; metallic Y-stents delivered under fluoroscopy over two guidewires; Dumon via pushing/pulling with dedicated rigid system; Dynamic via long-jaw forceps and pusher."
+  ],
+  "clinical_guidelines": [
+    "No absolute contraindications in life-threatening main-carina obstruction; combine debulking (laser, APC, cryo) and dilatation as needed before stenting.",
+    "Size to cover both main bronchi and extend ≥5 mm into the trachea; diameter should exceed post-debulking lumen.",
+    "Monitor for mucostasis, granulation tissue, tumor overgrowth, and stent fracture; migration is rare with Y-stents.",
+    "Avoid permanent stenting for tracheobronchomalacia when possible due to long-term problems."
+  ],
+  "drug_information": [],
+  "tables": [
+    {
+      "title": "Y-stent types and key characteristics",
+      "source": "PDF narrative",
+      "rows": [
+        [
+          "Type",
+          "Material/Construction",
+          "Advantages",
+          "Considerations"
+        ],
+        [
+          "Polymer (Dumon, Hood)",
+          "Silicone; Dumon with external studs and smooth inner surface",
+          "Nonadherent lumen; anti-migration studs (Dumon)",
+          "Rigid deployment; higher insertion failure vs metallic in 2020 analysis"
+        ],
+        [
+          "Hybrid (Dynamic Y-Stent)",
+          "Silicone with anterolateral reinforcement; flexible posterior membrane",
+          "Mimics membranous trachea; helpful with esophageal stents for fistula sealing",
+          "Requires dedicated forceps/pusher technique"
+        ],
+        [
+          "Self-expandable metallic",
+          "Covered nitinol; radio-opaque markers; distal 5 mm bare in right branch",
+          "Conforms to irregular airways; easier deployment under fluoroscopy",
+          "Mucostasis; fracture risk; tumor ingrowth if uncovered"
+        ]
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "title": "Dumon Y-Stent (and in situ in central airways)",
+      "page": 3
+    },
+    {
+      "title": "Dynamic Y-stent (proximal and distal ends)",
+      "page": 4
+    },
+    {
+      "title": "Chest X-ray after Dynamic Y-stent implantation",
+      "page": 4
+    },
+    {
+      "title": "Self-expandable metallic Y-stent",
+      "page": 4
+    },
+    {
+      "title": "Fluoroscopic steps of metallic Y-stent implantation (guidewires, branch release, full deployment)",
+      "page": 6
+    },
+    {
+      "title": "Mucostasis in Dynamic and metallic Y-stents",
+      "page": 6
+    },
+    {
+      "title": "Granulation tissue within metallic Y-stent",
+      "page": 7
+    }
+  ],
+  "clinical_cases": [],
+  "definitions": [
+    {
+      "term": "Y-stent",
+      "definition": "Bifurcation airway stent with a tracheal body and two bronchial limbs used for lesions involving the main carina."
+    },
+    {
+      "term": "Dumon Y-Stent",
+      "definition": "Silicone bifurcation stent with external studs to reduce migration and a smooth inner surface to limit incrustation."
+    },
+    {
+      "term": "Dynamic Y-Stent",
+      "definition": "Hybrid bifurcation stent with reinforced anterolateral wall and a flexible posterior membrane that mimics the pars membranacea."
+    },
+    {
+      "term": "Self-expandable metallic Y-stent",
+      "definition": "Covered nitinol bifurcation stent deployed over guidewires under fluoroscopy; conforms to irregular airways."
+    },
+    {
+      "term": "Tracheobronchomalacia",
+      "definition": "Airway collapse due to cartilaginous destruction or membranous laxity; permanent stents are generally discouraged."
+    },
+    {
+      "term": "Tracheoesophageal fistula",
+      "definition": "Abnormal connection between airway and esophagus; may require combined esophageal and airway stenting."
+    }
+  ],
+  "clinical_pearls": [
+    "Choose stent length to cover both main bronchi and extend into trachea by ≥5 mm.",
+    "Dynamic Y-stent can seal fistulas better against an esophageal stent due to its flexible posterior membrane.",
+    "Saline inhalation and topical anti-inflammatory therapy help mitigate mucostasis.",
+    "Ensure smooth edges and proper sizing to reduce granulation tissue formation.",
+    "Stent migration is uncommon with Y-stents; reassess after tumor response or prolonged dilatation.",
+    "Adjunctive debulking and balloon dilatation before stent placement improve outcomes."
+  ],
+  "references": [
+    "Dutau H et al. Chest. 2004; Dumon Y-Stent in malignant disease (n=86).",
+    "Sehgal IS et al. Lung India. 2017; Multicenter silicone Y-stent experience.",
+    "Freitag L et al. Thorac Cardiovasc Surg. 1997; Dynamic Y-stent, 5-year experience (n=135).",
+    "Yang RM et al. Clin Radiol. 2007; Self-expandable metallic inverted Y-stent initial experience.",
+    "Han XW et al. J Vasc Interv Radiol. 2008; Integrated self-expanding Y metallic stent.",
+    "Qiao Y et al. Radiol Med. 2016; Integrated Y-stent for carinal stenosis.",
+    "Conforti S et al. Arch Bronconeumol. 2016; Metallic Y-stents for malignant CAO.",
+    "Madan K et al. J Bronchology Interv Pulmonol. 2016; Metallic Y-stents multicenter.",
+    "Schulze AB et al. Thorac Cancer. 2022; Covered Y-carina nitinol stents.",
+    "Lachkar S et al. Respir Med Res. 2020; Metallic vs silicone Y-stents, single-center comparison.",
+    "Agrafiotis M et al. Respiration. 2009; Infections after airway stenting (systematic review).",
+    "Grewe PH et al. Chest. 2005; Tissue reactions to noncovered metal stents.",
+    "Shlomi D et al. Laryngoscope. 2008; Immunosuppression and granulation tissue."
+  ],
+  "summary": {
+    "clinical_applications": [
+      "Palliation of malignant central airway obstruction and sealing of tracheoesophageal/bronchopleural fistulas.",
+      "Bridge to tumor-specific therapy or surgery.",
+      "Temporizing option in inoperable benign stenoses or tracheobronchomalacia."
+    ],
+    "practice_recommendations": [
+      "Use rigid bronchoscopy; plan sizing carefully; use fluoroscopy for metallic Y deployment.",
+      "Match stent type to airway biomechanics and fistula context (e.g., Dynamic with esophageal stent).",
+      "Schedule surveillance for mucostasis and granulation; debride as needed and consider adjunct therapies."
+    ],
+    "future_directions": [
+      "Prospective comparisons of Y-stent materials/designs.",
+      "Standardized complication reporting and time-to-event outcomes.",
+      "Evaluation of removable/biodegradable bifurcated stents."
+    ],
+    "controversies": [
+      "Optimal stent selection for mixed extrinsic compression and intraluminal disease.",
+      "Role of permanent stenting in benign tracheobronchomalacia."
+    ]
+  },
+  "extraction_metadata": {
+    "source_pdf": "Textbooks/Chapter pdfs/Y-Stenting Techniques.pdf",
+    "adobe_json": "Textbooks/Chapter json/Y-Stenting Techniques.json",
+    "extraction_date": "2025-08-21T00:00:00Z",
+    "text_pages": 8,
+    "chunks_processed": 2,
+    "model": "gpt-5",
+    "schema_version": "gold_standard_v1.0"
+  },
+  "risk_models": [],
+  "guideline_adherence": {},
+  "technology_and_technique": [],
+  "conclusion": {
+    "points": [
+      "Y-shaped stents restore patency across the main carina and may seal fistulas.",
+      "Material choice (polymer, hybrid, metallic) should reflect airway biomechanics and disease etiology.",
+      "Complications include mucostasis, granulation, tumor overgrowth, and fracture; careful sizing and follow-up mitigate risks."
+    ],
+    "reference": "[Chapter Conclusion]"
+  }
+}

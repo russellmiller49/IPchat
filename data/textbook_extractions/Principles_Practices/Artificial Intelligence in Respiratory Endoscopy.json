@@ -1,0 +1,2178 @@
+{
+  "chapter_metadata": {
+    "title": {
+      "value": "Artificial Intelligence in Respiratory Endoscopy",
+      "present_in_source": false
+    },
+    "authors": [],
+    "chapter_number": {
+      "value": null,
+      "present_in_source": false
+    },
+    "learning_objectives": [],
+    "key_points": [],
+    "page_range": {
+      "start": 1,
+      "end": 16
+    },
+    "reference": "[Chapter Text]"
+  },
+  "anatomical_content": {
+    "structures": []
+  },
+  "clinical_procedures": [],
+  "diagnostic_approaches": [
+    {
+      "name": "Intelligent Nasopharyngoscope Localization Monitoring Assistant (ILMA)",
+      "purpose": "AI-driven localization and monitoring of NPL anatomical sites",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Trained on endoscopic images to classify key anatomical landmarks across NPL regions",
+      "interpretation": "Provides anatomical site classification to support coverage monitoring",
+      "limitations": null,
+      "when_to_use": "During NPL examinations for site localization and quality control",
+      "source_page": 3,
+      "source_excerpt": "achieving a classification accuracy of 97.60% through the process of training and validation utilizing endoscopic images.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "performance": {
+        "performance": {
+          "accuracy": {
+            "value": 0.976,
+            "unit": "proportion"
+          }
+        }
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Nakajo et al. pharyngeal/laryngeal anatomical site classifier with blind spot identification",
+      "purpose": "Classify pharyngeal and laryngeal anatomical sites and identify blind spots",
+      "criteria_or_scoring": [
+        "15 distinct anatomical sites"
+      ],
+      "how_to_perform": "Assessed pharyngeal and laryngeal images captured during upper GI endoscopy with NBI or BLI",
+      "interpretation": "Outputs site classification; includes blind spot identification during examinations",
+      "limitations": null,
+      "when_to_use": "During upper GI endoscopy imaging of pharynx/larynx",
+      "source_page": 3,
+      "source_excerpt": "categorizing these into 15 distinct anatomical sites. Their model achieved a classification accuracy of 93.3% for pharyngeal and laryngeal images",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "performance": {
+        "performance": {
+          "accuracy": {
+            "value": 0.9329999999999999,
+            "unit": "proportion"
+          }
+        }
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Ren et al. 2020 CNN-based vocal cord lesion classifier",
+      "purpose": "Classify vocal cord nodules, polyps, leukoplakia, and malignant tumors",
+      "criteria_or_scoring": [],
+      "how_to_perform": "CNN trained on laryngoscopic images using hue, texture, and geometry features",
+      "interpretation": "Recognizes lesion categories with reported per-class accuracies",
+      "limitations": null,
+      "when_to_use": "For automated classification of vocal cord lesions on images",
+      "source_page": 3,
+      "source_excerpt": "reached recognition accuracies of 98% for vocal cord nodules, 91% for polyps, 91% for leukoplakia, and 90% for malignant tumors",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "performance": {
+        "performance": {
+          "accuracy": {
+            "value": 0.98,
+            "unit": "proportion"
+          },
+          "notes": "accuracy: % (nodules), 91% (polyps), 91% (leukoplakia), 90% (malignant)"
+        }
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Kuo et al. 2021 AI-assisted diagnostic system for laryngeal lesions",
+      "purpose": "Objective detection and classification of laryngeal lesions",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Selects clear images, segments vocal cords, and performs quantitative hue/geometric analysis",
+      "interpretation": "Provides automated classification of healthy, leukoplakia, polyps, cysts, and tumors",
+      "limitations": null,
+      "when_to_use": "Analysis of laryngoscope video images",
+      "source_page": 4,
+      "source_excerpt": "It achieved a classification accuracy of 100% for healthy vocal cords and leukoplakia and 93.15%, 95.16%, and 96.42% accuracy for polyps, cysts, and tumor lesions, respectively.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "performance": {
+        "performance": {
+          "accuracy": {
+            "value": 1.0,
+            "unit": "proportion"
+          },
+          "notes": "accuracy: % (healthy, leukoplakia); 93.15%, 95.16%, 96.42% (polyps, cysts, tumors)"
+        }
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Zhao et al. 2022 DCNN-based vocal cord lesion diagnostic system",
+      "purpose": "Distinguish normal, polyps, keratosis, and cancer; urgent vs nonurgent classification",
+      "criteria_or_scoring": [
+        "Urgent (keratosis",
+        "cancer) vs nonurgent (normal",
+        "polyps)"
+      ],
+      "how_to_perform": "DCNN analyzes laryngoscopic images for lesion categorization",
+      "interpretation": "Outputs lesion type; also classifies urgency",
+      "limitations": null,
+      "when_to_use": "Automated analysis of vocal cord lesions on images/videos",
+      "source_page": 4,
+      "source_excerpt": "The overall accuracy of this system was 80.23%.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "performance": {
+        "performance": {
+          "accuracy": {
+            "value": 0.8023,
+            "unit": "proportion"
+          }
+        }
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Chen et al. 2023 3D VOSNet for vocal cord/glottis segmentation",
+      "purpose": "Segment vocal cords and glottis; compute objective quantitative parameters",
+      "criteria_or_scoring": [
+        "glottal area",
+        "vocal cord area",
+        "vocal cord length",
+        "vocal cord length deviation",
+        "vocal cord symmetry"
+      ],
+      "how_to_perform": "Applies 3D VOSNet to video laryngoscopy for segmentation and parameter computation",
+      "interpretation": "Quantitative parameters assist diagnosis (e.g., vocal cord paralysis)",
+      "limitations": null,
+      "when_to_use": "Objective assessment of vocal cord conditions on video laryngoscopy",
+      "source_page": 4,
+      "source_excerpt": "computed six parameters that include the glottal area, vocal cord area, vocal cord length, vocal cord length deviation, and vocal cord symmetry.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Xiong et al. 2019 DL model for laryngeal cancer/precancer detection",
+      "purpose": "Assist in recognizing laryngeal cancer and precancerous lesions",
+      "criteria_or_scoring": [],
+      "how_to_perform": "DL model trained on laryngoscopic images",
+      "interpretation": "Provides diagnostic output with reported accuracy and sensitivity",
+      "limitations": null,
+      "when_to_use": "Early diagnosis support in laryngoscopy",
+      "source_page": 4,
+      "source_excerpt": "achieving an accuracy of 86.7% and a sensitivity of 73.1% in recognizing laryngeal cancer and precancerous lesions.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "performance": {
+        "performance": {
+          "sensitivity": {
+            "value": 0.731,
+            "unit": "proportion"
+          },
+          "accuracy": {
+            "value": 0.867,
+            "unit": "proportion"
+          }
+        }
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "DL models for pharyngeal cancer using WLI/NBI/BLI (Atsuko 2020; Mitsuhiro 2021)",
+      "purpose": "Recognize pharyngeal cancer from upper GI endoscopy images",
+      "criteria_or_scoring": [],
+      "how_to_perform": "DL on WLI, NBI, and BLI images",
+      "interpretation": "Model outputs cancer recognition with stated accuracies",
+      "limitations": [
+        "number of patient cases included was relatively small"
+      ],
+      "when_to_use": "Analysis of upper GI endoscopic images for pharyngeal cancer",
+      "source_page": 4,
+      "source_excerpt": "These models achieved recognition accuracies of 100% and 92%, although the number of patient cases included in the validation assessment was relatively small",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "performance": {
+        "performance": {
+          "accuracy": {
+            "value": 1.0,
+            "unit": "proportion"
+          },
+          "notes": "accuracy: % and 92%"
+        }
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Laryngopharyngeal AI Diagnostic System (LPAIDS) 2023",
+      "purpose": "Recognize laryngopharyngeal cancer on WLI and NBI, including real-time videos",
+      "criteria_or_scoring": [],
+      "how_to_perform": "AI system evaluated on real-time laryngoscopy videos",
+      "interpretation": "Reported high accuracy and sensitivity ranges",
+      "limitations": null,
+      "when_to_use": "Real-time laryngoscopy analysis for laryngopharyngeal cancer",
+      "source_page": 4,
+      "source_excerpt": "impressive accuracy (0.949–0.984) and sensitivity (0.901–0.986).",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "performance": {
+        "performance": {
+          "sensitivity": {
+            "value": 0.901,
+            "unit": "proportion"
+          },
+          "accuracy": {
+            "value": 0.949,
+            "unit": "proportion"
+          }
+        }
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Seg MENT-Plus (Sampieri et al. 2024) for laryngeal cancer boundary delineation",
+      "purpose": "Identify and delineate superficial boundaries of laryngeal cancer",
+      "criteria_or_scoring": [],
+      "how_to_perform": "DL model applied to WLI and NBI laryngoscopic images and surgical videos",
+      "interpretation": "Assists surgical decision-making and margin delineation",
+      "limitations": null,
+      "when_to_use": "Preoperative or intraoperative assessment of laryngeal cancer margins",
+      "source_page": 4,
+      "source_excerpt": "Seg MENT-Plus to identify and delineate the superficial boundaries of laryngeal cancer in laryngoscopic images of WLI and NBI.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Paderno et al. 2021 fully CNN tumor segmentation (oral/oropharyngeal)",
+      "purpose": "Automatic segmentation of oral and oropharyngeal cancers on NBI videos",
+      "criteria_or_scoring": [
+        "Dice similarity coefficients (DSC)"
+      ],
+      "how_to_perform": "Fully CNN model analyzes NBI endoscopic videos",
+      "interpretation": "Reported DSC values quantify segmentation performance",
+      "limitations": null,
+      "when_to_use": "Segmentation of oral/oropharyngeal tumors on NBI videos",
+      "source_page": 4,
+      "source_excerpt": "automatically segmented tumors with Dice similarity coefficients (DSC) of 0.6559 and 0.7603",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "performance": {
+        "performance": {
+          "accuracy": {
+            "value": 0.6559,
+            "unit": "proportion"
+          },
+          "notes": "accuracy: (oral), 0.7603 (oropharyngeal)"
+        }
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Girdler et al. 2021 CNN for nasal polyps vs inverted papilloma",
+      "purpose": "Differentiate nasal polyps from inverted papilloma on endoscopic images",
+      "criteria_or_scoring": [],
+      "how_to_perform": "CNN-based diagnosticmodel on nasal endoscopic images",
+      "interpretation": "Performance comparable to an experienced endoscopy specialist",
+      "limitations": null,
+      "when_to_use": "Classification of common benign nasal cavity lesions",
+      "source_page": 4,
+      "source_excerpt": "performing comparably to an endoscopy specialist with 7 years of experience (74.2% vs. 74.9%).",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "performance": {
+        "performance": {
+          "accuracy": {
+            "value": 0.742,
+            "unit": "proportion"
+          }
+        }
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Ay et al. 2022 CNN for nasal polyp recognition",
+      "purpose": "Automatic recognition of nasal polyps on endoscopic images",
+      "criteria_or_scoring": [],
+      "how_to_perform": "CNN-based diagnostic system applied to nasal endoscopy images",
+      "interpretation": "High accuracy automatic detection of nasal polyps",
+      "limitations": null,
+      "when_to_use": "Automated detection of nasal polyps",
+      "source_page": 4,
+      "source_excerpt": "automatically recognized these lesions in endoscopic images with an impressive accuracy rate of 98.3%.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "performance": {
+        "performance": {
+          "accuracy": {
+            "value": 0.983,
+            "unit": "proportion"
+          }
+        }
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "e NPM-DM (Li et al. 2018) detection model for nasopharyngeal malignancies",
+      "purpose": "Automatic detection of nasopharyngeal malignancies (NPC) on endoscopic images",
+      "criteria_or_scoring": [],
+      "how_to_perform": "DL-based detection model applied to nasopharyngoscopy images",
+      "interpretation": "Reported diagnostic accuracy; outperformed NPC specialists in a prospective test",
+      "limitations": null,
+      "when_to_use": "NPC detection from nasopharyngeal endoscopic images",
+      "source_page": 5,
+      "source_excerpt": "which achieved a diagnostic accuracy of 88.7%.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "performance": {
+        "performance": {
+          "accuracy": {
+            "value": 0.887,
+            "unit": "proportion"
+          }
+        }
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "e NPM-DM (Li et al. 2018) lesion segmentation for NPC",
+      "purpose": "Automatic segmentation of nasopharyngeal malignant lesions",
+      "criteria_or_scoring": [
+        "Average DSC"
+      ],
+      "how_to_perform": "Model segments malignant lesions in endoscopic images",
+      "interpretation": "Segmentation quality quantified by DSC",
+      "limitations": null,
+      "when_to_use": "NPC lesion boundary estimation on endoscopic images",
+      "source_page": 5,
+      "source_excerpt": "as evidenced by an average DSC of 0.75.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "performance": {
+        "performance": {
+          "accuracy": {
+            "value": 0.75,
+            "unit": "proportion"
+          }
+        }
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Wang et al. 2024 DCNN-based AI for NPC (WLI/NBI)",
+      "purpose": "Automatic diagnosis of NPC using WLI and NBI nasopharyngoscopy images",
+      "criteria_or_scoring": [],
+      "how_to_perform": "DCNN applied to WLI and NBI images",
+      "interpretation": "Reported accuracies for WLI and NBI; sensitivity/recall surpassed junior otolaryngologists",
+      "limitations": null,
+      "when_to_use": "NPC detection on nasopharyngoscopy with WLI/NBI",
+      "source_page": 5,
+      "source_excerpt": "Their system achieved accuracies of 92.0% (WLI) and 97.5% (NBI), respectively",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "performance": {
+        "performance": {
+          "accuracy": {
+            "value": 0.92,
+            "unit": "proportion"
+          },
+          "notes": "accuracy: % (WLI), 97.5% (NBI)"
+        }
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Bronchoscopic blind spot monitoring system (branch classification)",
+      "purpose": "Real-time quality control and blind spot monitoring during bronchoscopy",
+      "criteria_or_scoring": [
+        "Anatomical branch class recognition"
+      ],
+      "how_to_perform": "Categorize trachea and bronchi images into anatomical branch classes for automated recognition and coverage monitoring",
+      "interpretation": "Missed anatomical points prompt alerts; supports teaching and QC",
+      "limitations": null,
+      "when_to_use": "During bronchoscopy for coverage and blind spot detection",
+      "source_page": 5,
+      "source_excerpt": "the trachea and bronchi images are categorized into 31 classes according to the 31 anatomical branches",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Bronchoscopic examination time-lapse assessment (quality criterion)",
+      "purpose": "Assess examination adequacy and risk of missed spots by time-lapse",
+      "criteria_or_scoring": [
+        "Time-lapse threshold"
+      ],
+      "how_to_perform": "Record and display time-lapse during bronchoscopy; evaluate pace",
+      "interpretation": "Shorter than threshold suggests missed spots risk",
+      "limitations": null,
+      "when_to_use": "Real-time during bronchoscopy",
+      "source_page": 5,
+      "source_excerpt": "For example, a time-lapse shorter than 2 min may suggest the likelihood of missing spots.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "NPL patient maneuvers per region (exposure technique)",
+      "purpose": "Optimize exposure of specific NPL regions for examination",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Nasal breathing (nasopharynx); tongue extension (epiglottis); inhalation/phonation (vocal cord); phonation/air inflation (piriform fossa)",
+      "interpretation": "Improved exposure reduces missed diagnoses",
+      "limitations": null,
+      "when_to_use": "During NPL to expose target anatomical areas",
+      "source_page": 3,
+      "source_excerpt": "Nasopharynx examination needs nasal breathing, epiglottis examination requires tongue extension, vocal cord examination demands inhalation or phonation, and piriform fossa examination calls for phonation or air inflation.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "NPL hypopharynx exposure maneuvers",
+      "purpose": "Improve exposure of entire hypopharynx",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Head rotation, Valsalva maneuver, Killian position",
+      "interpretation": "Enhances visualization to prevent missed diagnoses",
+      "limitations": null,
+      "when_to_use": "When hypopharyngeal exposure is unsatisfactory",
+      "source_page": 3,
+      "source_excerpt": "Better exposure of the entire hypopharynx can be achieved through head rotation, the Valsalva maneuver, and the Killian position.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "AI-enhanced NPL coverage classification (11 anatomical sites)",
+      "purpose": "Track and display coverage/recognition of predefined anatomical sites during NPL",
+      "criteria_or_scoring": [
+        "11 anatomical sites"
+      ],
+      "how_to_perform": "System displays diagram with covered/recognized sites during examination",
+      "interpretation": "Colored sites denote coverage and recognition status",
+      "limitations": null,
+      "when_to_use": "During NPL for coverage monitoring",
+      "source_page": 6,
+      "source_excerpt": "shows a diagram of 11 anatomical sites, where the colored sites denote the ones covered and recognized during NPL examination",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "AI-assisted automatic diagnosis of bronchial lesions",
+      "purpose": "Identify and locate bronchial lesions; characterize severity and extent",
+      "criteria_or_scoring": [],
+      "how_to_perform": "AI highlights lesions (red box) and quantifies size, infiltration depth, area, lumen narrowing dimensions",
+      "interpretation": "Outputs lesion presence and quantitative metrics to guide treatment planning",
+      "limitations": null,
+      "when_to_use": "During bronchoscopy for real-time lesion assessment",
+      "source_page": 6,
+      "source_excerpt": "the bronchoscopic diagnostic system can discern lesion size, infiltration depth, area, surrounding boundaries, and diameter and length of the narrowed lumen",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "AI enhancement of bronchoscopicmucosal images",
+      "purpose": "Enhance bronchial mucosa images during examinations",
+      "criteria_or_scoring": [],
+      "how_to_perform": "AI-assisted monitoring system performs image enhancement during bronchial examinations",
+      "interpretation": "Improved image quality during rapid scope movement or unstable exposure",
+      "limitations": null,
+      "when_to_use": "During bronchoscopy to improve image clarity",
+      "source_page": 6,
+      "source_excerpt": "the AI-assisted bronchoscopicmonitoring system can enhance the images of bronchial mucosa during the examination.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Blind spot monitoring system of bronchoscopic examination",
+      "purpose": "Monitor coverage of bronchial sites during bronchoscopic examination",
+      "criteria_or_scoring": [
+        "31 bronchial sites"
+      ],
+      "how_to_perform": "monitors and displays the 31 bronchial sites in real time on a computer screen",
+      "interpretation": null,
+      "limitations": [
+        "the quality of the stored bronchoscopic images can be very low"
+      ],
+      "when_to_use": "bronchoscopic examination",
+      "source_page": 7,
+      "source_excerpt": "blind spot monitoring system of bronchoscopic examination, which monitors and displays the 31 bronchial sites in real time on a computer screen",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Bronchoscopic image quality assessment",
+      "purpose": "Assess the image quality and decide whether to discard low-quality images",
+      "criteria_or_scoring": [
+        "illuminance",
+        "contrast",
+        "noise",
+        "blurring level",
+        "color"
+      ],
+      "how_to_perform": "image assessment are designed using the information and metrics of the image such as illuminance, contrast, noise, blurring level, and color.",
+      "interpretation": "discard the image if it is below a certain quality threshold",
+      "limitations": [
+        "mistakes in the recognition of bronchial parts or detection of lesions could happen",
+        "leading to a less reliable bronchoscopic AI system."
+      ],
+      "when_to_use": "on the low-quality bronchoscopy images originally stored",
+      "source_page": 8,
+      "source_excerpt": "image assessment are designed using the information and metrics of the image such as illuminance, contrast, noise, blurring level, and color.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Bronchoscopic image enhancement methods",
+      "purpose": "Improve image quality via contrast enhancement, denoising, and deblurring",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Corresponding methods for image enhancement include Gamma transform, histogram equalization, and Retinex algorithm, filter-based image denoising methods, and blind deconvolution.",
+      "interpretation": "deep learning–based methods have become the mainstream for image enhancement; Dn CNN, Deblur GAN, and Retinex Net have demonstrated success.",
+      "limitations": null,
+      "when_to_use": "on the low-quality bronchoscopy images originally stored",
+      "source_page": 8,
+      "source_excerpt": "Corresponding methods for image enhancement include Gamma transform, histogram equalization, and Retinex algorithm",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Bronchoscopic branch recognition for quality control (31-class classification)",
+      "purpose": "Determine which bronchial site/part the current bronchoscopic image covers for quality control",
+      "criteria_or_scoring": [
+        "31-class classification"
+      ],
+      "how_to_perform": "In essence, bronchoscopic quality control is an object classification problem, in which the computer needs to determine which bronchial site/part the current bronchoscopic image covers.",
+      "interpretation": "AI-assisted is indeed possible.",
+      "limitations": [
+        "a level higher than the third level is hard to implement",
+        "since not only is such a bronchoscope very expensive but also it is hard for a bronchoscopist to operate."
+      ],
+      "when_to_use": "bronchoscopic quality control",
+      "source_page": 10,
+      "source_excerpt": "the quality control problem is a 31-class classification problem (see Fig. 7).",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "AI-assisted lesion detection (object detection) in bronchoscopy",
+      "purpose": "Detect and locate lesions during bronchial examination",
+      "criteria_or_scoring": [],
+      "how_to_perform": "identify which objects are in the image and determine their positions; outputs bounding boxes with category labels.",
+      "interpretation": "Lesions are localized by bounding boxes with category labels.",
+      "limitations": [
+        "mistakes in the recognition of bronchial parts or detection of lesions could happen",
+        "leading to a less reliable bronchoscopic AI system."
+      ],
+      "when_to_use": "During bronchial examination",
+      "source_page": 12,
+      "source_excerpt": "the outputs of lesion detection should be represented in the form of bounding boxes with category labels.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "VGG (DNN model)",
+      "purpose": "Classification performance (accuracy reported)",
+      "criteria_or_scoring": [],
+      "how_to_perform": null,
+      "interpretation": null,
+      "limitations": null,
+      "when_to_use": null,
+      "source_page": 13,
+      "source_excerpt": "VGG 87.22",
+      "present_in_source": true,
+      "page_range": {
+        "start": 13,
+        "end": 16
+      },
+      "performance": {
+        "performance": {
+          "accuracy": {
+            "value": 0.8722,
+            "unit": "proportion"
+          }
+        }
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Goog Le Net (DNN model)",
+      "purpose": "Classification performance (accuracy reported)",
+      "criteria_or_scoring": [],
+      "how_to_perform": null,
+      "interpretation": null,
+      "limitations": null,
+      "when_to_use": null,
+      "source_page": 13,
+      "source_excerpt": "Goog Le Net 70.34",
+      "present_in_source": true,
+      "page_range": {
+        "start": 13,
+        "end": 16
+      },
+      "performance": {
+        "performance": {
+          "accuracy": {
+            "value": 0.7034,
+            "unit": "proportion"
+          }
+        }
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Res Net (DNN model)",
+      "purpose": "Classification performance (accuracy reported)",
+      "criteria_or_scoring": [],
+      "how_to_perform": null,
+      "interpretation": null,
+      "limitations": null,
+      "when_to_use": null,
+      "source_page": 13,
+      "source_excerpt": "Res Net 88.16",
+      "present_in_source": true,
+      "page_range": {
+        "start": 13,
+        "end": 16
+      },
+      "performance": {
+        "performance": {
+          "accuracy": {
+            "value": 0.8815999999999999,
+            "unit": "proportion"
+          }
+        }
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Two-stage detection methods (e.g., RCNN series, Mask R-CNN)",
+      "purpose": "Object detection in images",
+      "criteria_or_scoring": [],
+      "how_to_perform": "First extracts candidate object regions, then performs detailed classification and bounding box fine-tuning.",
+      "interpretation": null,
+      "limitations": null,
+      "when_to_use": null,
+      "source_page": 13,
+      "source_excerpt": "Two-stage detection methods: This category of methods first extracts candidate object regions from the image and then performs detailed classification and bounding box fine-tuning",
+      "present_in_source": true,
+      "page_range": {
+        "start": 13,
+        "end": 16
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Single-stage detection methods (e.g., SSD, Retina Net, YOLO)",
+      "purpose": "Object detection in images",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Directly predicts the class and position of objects on the image.",
+      "interpretation": null,
+      "limitations": [
+        "Single-stage methods are usually faster but may be slightly less accurate than two-stage methods."
+      ],
+      "when_to_use": null,
+      "source_page": 13,
+      "source_excerpt": "Single-stage detection method: This type of method directly predicts the class and position of objects on the image. Single-stage methods are usually faster but may be slightly less accurate",
+      "present_in_source": true,
+      "page_range": {
+        "start": 13,
+        "end": 16
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "DETR (Detection Transformer)",
+      "purpose": "Object detection model",
+      "criteria_or_scoring": [],
+      "how_to_perform": null,
+      "interpretation": null,
+      "limitations": null,
+      "when_to_use": null,
+      "source_page": 13,
+      "source_excerpt": "transformer-based models have also been introduced for object detection, such as the DETR (Detection Transformer) model, which marks a new development direction",
+      "present_in_source": true,
+      "page_range": {
+        "start": 13,
+        "end": 16
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "YOLOX (You Only Look Once) for lesion detection",
+      "purpose": "Lesion detection (bronchoscopic/endoscopic images)",
+      "criteria_or_scoring": [
+        "Category prediction loss (BCE with logits loss)",
+        "Bounding box regression loss (Io U difference)",
+        "Target existence probability loss (BCE)"
+      ],
+      "how_to_perform": "YOLOX comprises input, backbone (CSP-Dark Net), neck (FPN, PAN), and predictor with Decoupled Head; an Io U branch is added to the regression branch.",
+      "interpretation": "Example: normal bronchus (no detection box); benign lesion (blue box); malignant lesion (red box).",
+      "limitations": [
+        "Single-stage methods may be slightly less accurate than two-stage methods."
+      ],
+      "when_to_use": null,
+      "source_page": 13,
+      "source_excerpt": "This book chapter demonstrates how to utilize the YOLO model (more specifically, YOLO X) for the task of lesion detection.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 13,
+        "end": 16
+      },
+      "reference": "[Chapter Text]"
+    }
+  ],
+  "treatment_algorithms": [],
+  "clinical_guidelines": [
+    {
+      "title": "Patient maneuvers to optimize exposure during nasopharyngolaryngoscopy",
+      "condition": "Nasopharyngolaryngoscopy examination exposure and blind-spot reduction",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Nasopharynx examination needs nasal breathing",
+        "Epiglottis examination requires tongue extension",
+        "Vocal cord examination demands inhalation or phonation",
+        "Piriform fossa examination calls for phonation or air inflation",
+        "Better exposure of the entire hypopharynx can be achieved through head rotation",
+        "Better exposure of the entire hypopharynx can be achieved through the Valsalva maneuver",
+        "Better exposure of the entire hypopharynx can be achieved through the Killian position"
+      ],
+      "decision_points_and_pathways": [
+        "A comprehensive NPL examination requires exposing the entire anatomical site, obtaining a clear view, and identifying abnormal lesions",
+        "Blind spots remain the primary reason for missed diagnoses in NPL"
+      ],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 3,
+      "source_excerpt": "Nasopharynx examination needs nasal breathing, epiglottis examination requires tongue extension, vocal cord examination demands inhalation or phonation, and piriform fossa examination calls for phonation or air inflation.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Intelligent Nasopharyngoscope Localization Monitoring Assistant (ILMA) for NPL anatomical localization",
+      "condition": "Anatomical site localization during nasopharyngolaryngoscopy",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Formulate an AI-driven Intelligent Nasopharyngoscope Localization Monitoring Assistant (ILMA)",
+        "Achieve high classification accuracy for anatomical localization"
+      ],
+      "decision_points_and_pathways": [
+        "Utilize endoscopic images for training and validation to localize anatomical sites"
+      ],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": [
+        "Classification accuracy of 97.60%"
+      ],
+      "alternative_approaches": null,
+      "source_page": 3,
+      "source_excerpt": "They formulated an AI-driven Intelligent Nasopharyngoscope Localization Monitoring Assistant (ILMA), achieving a classification accuracy of 97.60%.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Pharyngeal and laryngeal anatomical site classification with blind-spot identification",
+      "condition": "Pharyngeal and laryngeal image classification during upper GI endoscopy",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Categorize images into 15 distinct anatomical sites",
+        "Incorporate blind spot identification during examinations"
+      ],
+      "decision_points_and_pathways": [
+        "Assess pharyngeal and laryngeal images captured during upper GI endoscopy with NBI or blue laser imaging"
+      ],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": [
+        "Classification accuracy of 93.3%"
+      ],
+      "alternative_approaches": null,
+      "source_page": 3,
+      "source_excerpt": "categorizing these into 15 distinct anatomical sites. Their model achieved a classification accuracy of 93.3%.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Bronchoscopic blind spot monitoring: anatomical coverage and prompts",
+      "condition": "Quality control during bronchoscopy",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Categorize trachea and bronchi images into 31 classes according to anatomical branches",
+        "Supervise routine examination checkpoints to prevent missed examinations",
+        "Display a red box prompt when anatomical points are missed or images are obscured",
+        "Display coverage of each bronchus (green denotes coverage, gray denotes non-coverage)",
+        "Display examination time-lapse and coverage summary (ratio of coverage and current bronchus)"
+      ],
+      "decision_points_and_pathways": [
+        "Use automated recognition, image capture, and quality control to avoid potential missed lesions",
+        "Provide reminders for timing and coverage to identify missed areas"
+      ],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": [
+        "Real-time monitoring of blind spots and suspicious lesions",
+        "Display of time-lapse and coverage summary"
+      ],
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 5,
+      "source_excerpt": "the trachea and bronchi images are categorized into 31 classes according to the 31 anatomical branches",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Bronchoscopic blind spot monitoring: time-lapse threshold",
+      "condition": "Timing oversight during bronchoscopy",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Record and display the time-lapse of the bronchoscopic examination",
+        "A time-lapse shorter than 2 min may suggest the likelihood of missing spots"
+      ],
+      "decision_points_and_pathways": [
+        "Evaluate if the examination is too fast or too slow based on recorded time-lapse"
+      ],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": [
+        "Continuous time-lapse recording and display during bronchoscopy"
+      ],
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 5,
+      "source_excerpt": "A time-lapse shorter than 2 min may suggest the likelihood of missing spots.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Automatic AI-assisted diagnosis of bronchial lesions",
+      "condition": "Bronchial lesions including differentiation and tuberculosis categorization",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Identify and locate bronchial lesions",
+        "Differentiate between benign and malignant airway conditions",
+        "Categorize bronchial tuberculosis in accordance with diagnosis guidelines for tracheal and bronchial tuberculosis",
+        "Enable real-time lesion diagnosis (highlighted by a red box prompt)",
+        "Discern lesion size, infiltration depth, area, surrounding boundaries, and diameter and length of the narrowed lumen"
+      ],
+      "decision_points_and_pathways": [
+        "Leverage deep learning and data mining based on pathological lesion characteristics"
+      ],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 6,
+      "source_excerpt": "the bronchoscopic diagnostic system can discern lesion size, infiltration depth, area, surrounding boundaries, and diameter and length of the narrowed lumen",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "AI-enhanced NPL functional schematic",
+      "condition": "AI-enabled nasopharyngolaryngoscopy workflow features",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Use a diagram of 11 anatomical sites with coverage recognition",
+        "Enable real-time recording for images, videos, voice, and dimensions",
+        "Track operational parameters: examination duration, coverage, image clarity, number and size of lesions",
+        "Provide risk assessment for targeted lesions"
+      ],
+      "decision_points_and_pathways": [
+        "Integrate coverage tracking, recording, operational metrics, and risk assessment in a unified system"
+      ],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": [
+        "Real-time recording capabilities for images, videos, voice, and dimensions",
+        "Operational parameters monitoring (duration, coverage, image clarity, lesion metrics)"
+      ],
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 6,
+      "source_excerpt": "The first part ... shows a diagram of 11 anatomical sites, where the colored sites denote the ones covered and recognized during NPL examination;",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Countermeasures for low-quality bronchoscopic images in AI systems",
+      "condition": "Bronchoscopic image quality control",
+      "source_organization": null,
+      "source_organization_present_in_source": false,
+      "recommendation_grade": null,
+      "recommendation_grade_present_in_source": false,
+      "evidence_level": null,
+      "evidence_level_present_in_source": false,
+      "specific_recommendations": [
+        "assess the image quality and discard the image if it is below a certain quality threshold",
+        "conduct a process of image enhancement on the low-quality bronchoscopy images originally stored",
+        "image assessment are designed using the information and metrics of the image such as illuminance, contrast, noise, blurring level, and color",
+        "methods for image enhancement include Gamma transform, histogram equalization, and Retinex algorithm",
+        "filter-based image denoising methods for image denoising, and blind deconvolution for image deblurring",
+        "Dn CNN has been shown to surpass traditional denoising methods",
+        "Deblur GAN and Retinex Net have demonstrated success for the tasks of image deblurring and image contrast enhancement"
+      ],
+      "decision_points_and_pathways": [
+        "If image quality is below a certain quality threshold, discard the image",
+        "If images are low-quality, conduct image enhancement (e.g., Gamma transform, histogram equalization, Retinex, denoising, blind deconvolution, or deep learning–based methods)"
+      ],
+      "patient_population_criteria": null,
+      "patient_population_criteria_present_in_source": false,
+      "contraindications_and_exceptions": null,
+      "contraindications_and_exceptions_present_in_source": false,
+      "monitoring_requirements": null,
+      "monitoring_requirements_present_in_source": false,
+      "outcome_measures": null,
+      "outcome_measures_present_in_source": false,
+      "alternative_approaches": [
+        "Assess image quality and discard below-threshold images",
+        "Enhance low-quality bronchoscopy images"
+      ],
+      "alternative_approaches_present_in_source": true,
+      "source_page": 8,
+      "source_excerpt": "either assess the image quality and discard the image if it is below a certain quality threshold or to conduct a process of image enhancement",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Blind spot monitoring system for bronchoscopic examination",
+      "condition": "Bronchoscopic examination quality control",
+      "source_organization": null,
+      "source_organization_present_in_source": false,
+      "recommendation_grade": null,
+      "recommendation_grade_present_in_source": false,
+      "evidence_level": null,
+      "evidence_level_present_in_source": false,
+      "specific_recommendations": [
+        "Use a blind spot monitoring system GUI that monitors and displays the 31 bronchial sites in real time on a computer screen"
+      ],
+      "decision_points_and_pathways": [
+        "Monitor 31 bronchial sites in real time during bronchoscopic examination to reduce blind spots"
+      ],
+      "patient_population_criteria": null,
+      "patient_population_criteria_present_in_source": false,
+      "contraindications_and_exceptions": null,
+      "contraindications_and_exceptions_present_in_source": false,
+      "monitoring_requirements": "Real-time monitoring of 31 bronchial sites on a computer screen",
+      "monitoring_requirements_present_in_source": true,
+      "outcome_measures": null,
+      "outcome_measures_present_in_source": false,
+      "alternative_approaches": [],
+      "alternative_approaches_present_in_source": false,
+      "source_page": 7,
+      "source_excerpt": "monitors and displays the 31 bronchial sites in real time on a computer screen",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Branch recognition for bronchoscopic quality control using deep learning",
+      "condition": "Bronchoscopic quality control via bronchial site classification",
+      "source_organization": null,
+      "source_organization_present_in_source": false,
+      "recommendation_grade": null,
+      "recommendation_grade_present_in_source": false,
+      "evidence_level": null,
+      "evidence_level_present_in_source": false,
+      "specific_recommendations": [
+        "In essence, bronchoscopic quality control is an object classification problem",
+        "For a bronchoscopic quality control AI system that considers three levels of the bronchial tree, the quality control problem is a 31-class classification problem",
+        "Use deep neural network models for object classification; representative models are VGG, Goog Le Net, and Res Net"
+      ],
+      "decision_points_and_pathways": [
+        "Determine which bronchial site/part the current bronchoscopic image covers (branch recognition) across 31 classes"
+      ],
+      "patient_population_criteria": null,
+      "patient_population_criteria_present_in_source": false,
+      "contraindications_and_exceptions": null,
+      "contraindications_and_exceptions_present_in_source": false,
+      "monitoring_requirements": null,
+      "monitoring_requirements_present_in_source": false,
+      "outcome_measures": [
+        "classification performance in terms of accuracy (ACC)"
+      ],
+      "outcome_measures_present_in_source": true,
+      "alternative_approaches": [],
+      "alternative_approaches_present_in_source": false,
+      "source_page": 10,
+      "source_excerpt": "For a bronchoscopic quality control AI system that considers three levels of the bronchial tree, the quality control problem is a 31-class classification problem",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "AI-based lesion detection for automatic bronchoscopic diagnosis",
+      "condition": "Lesion detection during bronchial examination",
+      "source_organization": null,
+      "source_organization_present_in_source": false,
+      "recommendation_grade": null,
+      "recommendation_grade_present_in_source": false,
+      "evidence_level": null,
+      "evidence_level_present_in_source": false,
+      "specific_recommendations": [
+        "Lesion detection is essentially an object detection problem",
+        "Identify which objects are in the image and determine their positions",
+        "Outputs should be represented in the form of bounding boxes with category labels"
+      ],
+      "decision_points_and_pathways": [
+        "Recognize and locate lesions; output bounding boxes with labels"
+      ],
+      "patient_population_criteria": null,
+      "patient_population_criteria_present_in_source": false,
+      "contraindications_and_exceptions": null,
+      "contraindications_and_exceptions_present_in_source": false,
+      "monitoring_requirements": null,
+      "monitoring_requirements_present_in_source": false,
+      "outcome_measures": [],
+      "outcome_measures_present_in_source": false,
+      "alternative_approaches": [],
+      "alternative_approaches_present_in_source": false,
+      "source_page": 12,
+      "source_excerpt": "the outputs of lesion detection should be represented in the form of bounding boxes with category labels",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Measures of bronchoscopic quality control",
+      "condition": "Quality control and management for bronchoscopy",
+      "source_organization": null,
+      "source_organization_present_in_source": false,
+      "recommendation_grade": null,
+      "recommendation_grade_present_in_source": false,
+      "evidence_level": null,
+      "evidence_level_present_in_source": false,
+      "specific_recommendations": [
+        "standardizing operating procedures",
+        "personnel training",
+        "establishing strict quality inspection standards"
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": null,
+      "patient_population_criteria_present_in_source": false,
+      "contraindications_and_exceptions": null,
+      "contraindications_and_exceptions_present_in_source": false,
+      "monitoring_requirements": null,
+      "monitoring_requirements_present_in_source": false,
+      "outcome_measures": null,
+      "outcome_measures_present_in_source": false,
+      "alternative_approaches": [],
+      "alternative_approaches_present_in_source": false,
+      "source_page": 8,
+      "source_excerpt": "Measures of bronchoscopic quality control include but are not limited to standardizing operating procedures, personnel training, and establishing strict quality inspection standards.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    }
+  ],
+  "drug_information": [],
+  "tables": [
+    {
+      "title": "Table 1 Classification performance in terms of accuracy (ACC) for the DNN models, VGG, Goog Le Net, and Res Net",
+      "headers": [
+        "AI model",
+        "Accuracy (%)"
+      ],
+      "rows": [
+        [
+          "VGG",
+          "87.22"
+        ],
+        [
+          "Goog Le Net",
+          "70.34"
+        ],
+        [
+          "Res Net",
+          "88.16"
+        ]
+      ],
+      "units": "%",
+      "footnotes": [],
+      "clinical_interpretation": "Choose models aligned with context (screening vs incidental vs surgical). Consider adding volumetry or PET to refine probability.",
+      "source_page": 13,
+      "source_excerpt": "Table 1 Classiﬁcation performance in terms of accuracy (ACC) for the DNN models, VGG, Goog Le Net, and Res Net",
+      "content_provenance": "pdf_text",
+      "page_range": {
+        "start": 13,
+        "end": 16
+      },
+      "data_objects": [
+        {
+          "ai_model": "VGG",
+          "accuracy_(%)": "87.22"
+        },
+        {
+          "ai_model": "Goog Le Net",
+          "accuracy_(%)": "70.34"
+        },
+        {
+          "ai_model": "Res Net",
+          "accuracy_(%)": "88.16"
+        }
+      ],
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Classification accuracy for branch recognition models (31-class bronchial sites)",
+      "columns": [
+        "AI model",
+        "Accuracy"
+      ],
+      "rows": [
+        [
+          "VGG",
+          "87%"
+        ],
+        [
+          "Goog Le Net",
+          "70%"
+        ],
+        [
+          "Res Net",
+          "88%"
+        ]
+      ],
+      "source_pages": [
+        11,
+        12,
+        13
+      ],
+      "notes": "Values normalized to percentage strings. Original table labeled 'Table 1'."
+    }
+  ],
+  "figures": [
+    {
+      "figure_id": "Fig. 1",
+      "title": null,
+      "caption": "Fig. 1 A functional schematic for an AI-enhanced NPL system. The first part (the upper left of the figure) shows a diagram of 11 anatomical sites, where the colored sites denote the ones covered and recognized during NPL examination; the second part (the upper right of the figure) shows real-time recording capabilities for images, videos, voice, and dimensions; the third part (the lower left of the figure) shows operational parameters such as examination duration, coverage, image clarity, and the number and size of lesions; the fourth part (the lower left of the figure) shows risk assessment for targeted lesions",
+      "type": "diagram",
+      "key_findings": [
+        "Diagram of 11 anatomical sites; colored sites denote the ones covered and recognized during NPL examination",
+        "Real-time recording capabilities for images, videos, voice, and dimensions",
+        "Operational parameters: examination duration, coverage, image clarity, and the number and size of lesions",
+        "Risk assessment for targeted lesions"
+      ],
+      "clinical_significance": null,
+      "source_page": 6,
+      "source_excerpt": "Fig. 1 A functional schematic for an AI-enhanced NPL system. The first part (the upper left of the figure) shows a diagram of 11 anatomical sites, where the colored sites",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "figure_id": "Fig. 2",
+      "title": null,
+      "caption": "The GUI of a blind spot monitoring system of bronchoscopic examination, which monitors and displays the 31 bronchial sites in real time on a computer screen",
+      "type": null,
+      "key_findings": [
+        "Monitors and displays the 31 bronchial sites in real time"
+      ],
+      "clinical_significance": null,
+      "source_page": 7,
+      "source_excerpt": "Fig. 2 The GUI of a blind spot monitoring system of bronchoscopic examination, which monitors and displays the 31 bronchial sites in real time on a computer screen",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "figure_id": "Fig. 10",
+      "title": null,
+      "caption": "Fig. 10 The residual block of the Res Net model",
+      "type": null,
+      "key_findings": [],
+      "clinical_significance": null,
+      "source_page": 13,
+      "source_excerpt": "Fig. 10 The residual block of the Res Net model",
+      "present_in_source": true,
+      "page_range": {
+        "start": 13,
+        "end": 16
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "id": "Fig1",
+      "caption": "An anatomical diagram of the human throat and nasal cavities, featuring labeled sections such as the left and right nasal cavities, nasopharynx, oropharynx, hypopharynx, and vocal cords. The image includes endoscopic photographs of the throat, highlighting a lesion with a risk assessment marked as 'High.' Additional data includes a time of 01:45 minutes, coverage of 5/11 sites, lesion size of 0.5 x 0.5 cm, vocal score of 86/100, and clarity score of 100/100.",
+      "page": 5,
+      "keywords": [
+        "laryngoscopy",
+        "quality control",
+        "lesion detection"
+      ],
+      "locator": {
+        "bbox": [
+          52.07789999999841,
+          362.1229999999923,
+          543.2179999999935,
+          731.3479999999981
+        ],
+        "object_id": 1129
+      }
+    },
+    {
+      "id": "Fig2",
+      "caption": "An anatomical diagram of the human bronchial tree is shown on the left, labeled with parts such as the trachea, carina, and various bronchial branches (e.g., RUL, LUL, LB3). On the right, an endoscopic image of the bronchi is displayed, showing the interior view of the bronchial tubes. The top left corner includes text: 'Timing: 00:00:22,' 'Covered: 8/31,' and 'Current: LB3.'",
+      "page": 6,
+      "keywords": [
+        "bronchoscopy"
+      ],
+      "locator": {
+        "bbox": [
+          52.07789999999841,
+          471.3189999999886,
+          543.2179999999935,
+          731.3479999999981
+        ],
+        "object_id": 1149
+      }
+    },
+    {
+      "id": "Fig3",
+      "caption": "An anatomical diagram of the human bronchial tree is shown on the left, labeled with various parts in Chinese. On the right, an endoscopic image displays the interior of a bronchus, highlighting a specific area with a red box. The text on the left includes examination details such as duration and location, also in Chinese. The image is used for medical analysis of the bronchial structure and condition.",
+      "page": 6,
+      "keywords": [
+        "bronchoscopy"
+      ],
+      "locator": {
+        "bbox": [
+          52.07789999999841,
+          143.85199999999895,
+          543.3379999999888,
+          421.7609999999986
+        ],
+        "object_id": 1151
+      }
+    },
+    {
+      "id": "Fig4",
+      "caption": "Start Binomial Or Matrix y Subscript j Superscript left parenthesis l right parenthesis Baseline equals sigma left parenthesis u Subscript j Superscript left parenthesis l right parenthesis Baseline right parenthesis Choose u Subscript j Superscript left parenthesis l right parenthesis Baseline equals sigma summation Underscript i element of upper L Subscript l minus 1 Baseline Endscripts w Subscript italic j i Superscript left parenthesis l right parenthesis Baseline x Subscript j Superscript left parenthesis l right parenthesis Baseline plus b Subscript j Superscript left parenthesis l right parenthesis Baseline equals sigma summation Underscript i element of upper L Subscript l minus 1 Baseline Endscripts y Subscript i Superscript left parenthesis l minus 1 right parenthesis Baseline plus b Subscript j Superscript left parenthesis l right parenthesis End Binomial Or Matrix",
+      "page": 7,
+      "keywords": [],
+      "locator": {
+        "bbox": [
+          321.8269999999902,
+          466.15899999999965,
+          510.9389999999985,
+          508.15699999999197
+        ],
+        "object_id": 1196
+      }
+    },
+    {
+      "id": "Fig5",
+      "caption": "Start Binomial Or Matrix y Subscript j Superscript left parenthesis l right parenthesis Baseline equals sigma left parenthesis u Subscript j Superscript left parenthesis l right parenthesis Baseline right parenthesis Choose u Subscript j Superscript left parenthesis l right parenthesis Baseline equals sigma summation Underscript i element of upper L Subscript l minus 1 Baseline Endscripts w Subscript italic j i Superscript left parenthesis l right parenthesis Baseline x Subscript j Superscript left parenthesis l right parenthesis Baseline plus b Subscript j Superscript left parenthesis l right parenthesis Baseline equals sigma summation Underscript i element of upper L Subscript l minus 1 Baseline Endscripts y Subscript i Superscript left parenthesis l minus 1 right parenthesis Baseline plus b Subscript j Superscript left parenthesis l right parenthesis End Binomial Or Matrix",
+      "page": 7,
+      "keywords": [],
+      "locator": {
+        "bbox": [
+          321.8269999999902,
+          466.15899999999965,
+          510.9389999999985,
+          508.15699999999197
+        ],
+        "object_id": 1196
+      }
+    },
+    {
+      "id": "Fig6",
+      "caption": "bold y Superscript left parenthesis l right parenthesis Baseline equals sigma left parenthesis bold u Superscript left parenthesis l right parenthesis Baseline right parenthesis equals sigma left parenthesis bold upper W Superscript left parenthesis l right parenthesis Baseline bold y Superscript left parenthesis l minus 1 right parenthesis Baseline plus bold b Superscript left parenthesis l right parenthesis Baseline right parenthesis",
+      "page": 7,
+      "keywords": [],
+      "locator": {
+        "bbox": [
+          349.4259999999922,
+          395.84199999998964,
+          498.09999999999127,
+          416.8409999999858
+        ],
+        "object_id": 1200
+      }
+    },
+    {
+      "id": "Fig7",
+      "caption": "bold y Superscript left parenthesis l right parenthesis Baseline equals sigma left parenthesis bold u Superscript left parenthesis l right parenthesis Baseline right parenthesis equals sigma left parenthesis bold upper W Superscript left parenthesis l right parenthesis Baseline bold y Superscript left parenthesis l minus 1 right parenthesis Baseline plus bold b Superscript left parenthesis l right parenthesis Baseline right parenthesis",
+      "page": 7,
+      "keywords": [],
+      "locator": {
+        "bbox": [
+          349.4259999999922,
+          395.84199999998964,
+          498.09999999999127,
+          416.8409999999858
+        ],
+        "object_id": 1200
+      }
+    },
+    {
+      "id": "Fig8",
+      "caption": "",
+      "page": 7,
+      "keywords": [],
+      "locator": {
+        "bbox": [
+          366.3449999999866,
+          310.64599999999336,
+          481.179999999993,
+          327.2049999999872
+        ],
+        "object_id": 1203
+      }
+    },
+    {
+      "id": "Fig9",
+      "caption": "",
+      "page": 7,
+      "keywords": [],
+      "locator": {
+        "bbox": [
+          366.3449999999866,
+          310.64599999999336,
+          481.179999999993,
+          327.2049999999872
+        ],
+        "object_id": 1203
+      }
+    },
+    {
+      "id": "Fig10",
+      "caption": "Close-up photo of a person's nostrils, shown in two side-by-side images. The left image appears slightly blurred, while the right image is clearer, showing more detail and texture of the skin. The images focus on the nasal passages, highlighting differences in clarity and detail.",
+      "page": 8,
+      "keywords": [],
+      "locator": {
+        "bbox": [
+          52.43789999999899,
+          488.47799999998824,
+          542.8579999999783,
+          731.3479999999981
+        ],
+        "object_id": 1210
+      }
+    },
+    {
+      "id": "Fig11",
+      "caption": "The image consists of two panels illustrating neural network processes. Panel (a) shows a simple neural network with an input image of a dog, followed by an input layer, a hidden layer, and an output layer, connected by arrows. Panel (b) depicts a convolutional neural network (CNN) process. It starts with the same input image of a dog, followed by multiple layers of feature maps created through convolutional operations. The layers progressively reduce in size, leading to a classification result via a softmax function. Key terms include 'Input Layer,' 'Hidden Layer,' 'Output Layer,' 'Feature Maps,' 'Convolutional Operations,' and 'Classification Result.'",
+      "page": 8,
+      "keywords": [
+        "deep learning"
+      ],
+      "locator": {
+        "bbox": [
+          52.07789999999841,
+          120.4529999999977,
+          543.2179999999935,
+          435.91999999999825
+        ],
+        "object_id": 1212
+      }
+    },
+    {
+      "id": "Fig12",
+      "caption": "Diagram of a neural network flow chart. It shows three layers: input layer with nodes labeled \\(x_1^{(1)}, x_2^{(1)}, \\ldots, x_n^{(1)}\\), a hidden layer with nodes labeled \\(u_1^{(l)}, u_2^{(l)}, \\ldots, u_n^{(l)}\\), and an output layer with nodes labeled \\(y_1^{(m)}, y_2^{(m)}, \\ldots, y_n^{(m)}\\). Arrows indicate connections between nodes, representing the flow of data. Bias nodes \\(b^{(1)}\\) and \\(b^{(l)}\\) are connected to the input and hidden layers, respectively. Weights are denoted by \\(w_{ji}^{(l)}\\).",
+      "page": 9,
+      "keywords": [
+        "deep learning"
+      ],
+      "locator": {
+        "bbox": [
+          52.31789999999819,
+          568.6349999999802,
+          290.7479999999923,
+          731.3479999999981
+        ],
+        "object_id": 1214
+      }
+    },
+    {
+      "id": "Fig13",
+      "caption": "Diagram of the human respiratory system and bronchial tree. Panel (a) illustrates the anatomical structure, including the larynx, trachea, right and left main bronchi, lobar bronchi, segmental bronchi, bronchioles, and terminal bronchioles. Panel (b) shows a branching diagram with numbered images of bronchial pathways, depicting the internal view of the bronchial tubes. The images are organized hierarchically, representing the branching structure of the bronchi.",
+      "page": 10,
+      "keywords": [
+        "bronchoscopy"
+      ],
+      "locator": {
+        "bbox": [
+          52.07789999999841,
+          243.80799999999726,
+          543.2179999999935,
+          731.3479999999981
+        ],
+        "object_id": 1237
+      }
+    },
+    {
+      "id": "Fig14",
+      "caption": "Diagram of a convolutional neural network architecture. The flow chart illustrates layers from input to output, starting with an image input, followed by multiple layers of convolution with Re LU activation, max pooling, and fully connected layers. The dimensions of each layer are labeled, such as 224x224x64 and 7x7x512. The final layers include a fully connected layer with 4096 units and a softmax layer with 1000 units. A legend indicates the types of layers: convolution+Re LU, max pooling, fully connected+Re LU, and softmax.",
+      "page": 11,
+      "keywords": [
+        "deep learning"
+      ],
+      "locator": {
+        "bbox": [
+          52.07789999999841,
+          445.0399999999936,
+          543.2179999999935,
+          731.3479999999981
+        ],
+        "object_id": 1245
+      }
+    },
+    {
+      "id": "Fig15",
+      "caption": "Flow chart illustrating a neural network architecture. The process starts with an 'Input' node, branching into three paths: two '1ￗ1 Conv' layers, a '3ￗ3 Max Pool' layer, and a '5ￗ5 Conv' layer. The '3ￗ3 Conv' and '5ￗ5 Conv' layers are preceded by '1ￗ1 Conv' layers. All paths converge at a 'Concat' node, indicating concatenation of outputs. Keywords: neural network, convolution, max pooling, concatenation.",
+      "page": 11,
+      "keywords": [
+        "deep learning"
+      ],
+      "locator": {
+        "bbox": [
+          183.7129999999961,
+          199.16999999999825,
+          544.2979999999807,
+          404.00199999999313
+        ],
+        "object_id": 1248
+      }
+    },
+    {
+      "id": "Fig16",
+      "caption": "Flow chart illustrating a neural network identity mapping process. The sequence starts with 'Input X,' followed by 'Conv 1,' 'Activation,' and 'Conv 2' within a dashed box. An arrow leads to a plus symbol, representing the addition of the input and processed data, resulting in \\( f(x) \\). The text 'Identity Mapping' is on the left, and \\( f(x) - x \\) is on the right, indicating the residual learning concept.",
+      "page": 12,
+      "keywords": [
+        "deep learning",
+        "Res Net"
+      ],
+      "locator": {
+        "bbox": [
+          86.39649999999892,
+          528.9169999999867,
+          256.66999999999825,
+          731.3479999999981
+        ],
+        "object_id": 1255
+      }
+    },
+    {
+      "id": "Fig17",
+      "caption": "Flow chart illustrating a neural network architecture for image processing. The diagram begins with an input image labeled '416ￗ416ￗ3' and proceeds through various layers and modules, including 'Focus,' 'CBS,' 'CSP1,' 'SPP,' and 'CSP2.' The flow splits into multiple branches, each leading to different processing paths. Key components include convolutional layers, upsampling, concatenation, and summation. The output branches are labeled with 'Cls,' 'Iou,' and 'Reg,' each followed by dimensions like '52ￗ52ￗ5.' The chart includes detailed subfigures explaining components like 'Focus' and 'SPP' with visual representations of data transformations.",
+      "page": 13,
+      "keywords": [
+        "deep learning"
+      ],
+      "locator": {
+        "bbox": [
+          52.07789999999841,
+          557.7149999999965,
+          543.2179999999935,
+          731.3479999999981
+        ],
+        "object_id": 1300
+      }
+    },
+    {
+      "id": "Fig18",
+      "caption": "Illustration of a digital interface for 'Smart Broncho Label V1.0' featuring a stylized depiction of lungs with bronchial pathways. A robotic figure is on the right, and a circular inset shows a close-up of a bronchoscope. The background is a serene, cloudy sky over water. Text fields for 'User' and 'Password' are present, along with 'LOG IN' and 'EXIT' buttons. The image is credited to Shanghai Endo Vista Information Technology Co., LTD.",
+      "page": 13,
+      "keywords": [
+        "bronchoscopy",
+        "annotation software"
+      ],
+      "locator": {
+        "bbox": [
+          52.07789999999841,
+          242.36799999999494,
+          543.2179999999935,
+          517.6369999999879
+        ],
+        "object_id": 1302
+      }
+    },
+    {
+      "id": "Fig19",
+      "caption": "Three endoscopic images of the gastrointestinal tract are shown. The first image on the left displays a view of the esophagus with visible tissue folds. The middle image highlights a section with a blue box, indicating an area of interest, possibly a lesion or abnormality. The third image on the right shows a red box around a prominent, irregular mass, suggesting a significant finding. The images are characterized by reddish hues typical of internal body imaging.",
+      "page": 14,
+      "keywords": [
+        "lesion detection"
+      ],
+      "locator": {
+        "bbox": [
+          52.43789999999899,
+          570.554999999993,
+          542.8579999999783,
+          731.3479999999981
+        ],
+        "object_id": 1315
+      }
+    }
+  ],
+  "clinical_cases": [
+    {
+      "content": "Fig. 3 An example of the automatic lesion detection result by an AI-assisted bronchoscopic diagnosis system",
+      "source_page": 7,
+      "source_excerpt": "Fig. 3 An example of the automatic lesion detection result",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "content": "An example of using the YOLOX model for broncho- scopic lesion detection is shown in Fig. 13. In this example, images of a normal bronchus are shown with no detection box (i.e., no lesion area detected), a bronchus with a benign lesion is shown in a blue box, and a bronchus with a malig- nant lesion is shown in a red box.",
+      "source_page": 14,
+      "source_excerpt": "normal bronchus (no detection box) ... benign lesion (blue box) ... malignant lesion (red box)",
+      "present_in_source": true,
+      "page_range": {
+        "start": 13,
+        "end": 16
+      },
+      "reference": "[Chapter Text]"
+    }
+  ],
+  "definitions": [
+    {
+      "content": "Bronchoscopy plays an important role in the diagnosis and treatment of pulmonary diseases which can directly observe the internal conditions of the trachea and bronchi.",
+      "source_page": 1,
+      "source_excerpt": "Bronchoscopy plays an important role in the diagnosis and treatment of pulmonary diseases",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "content": "Coined in the 1950s, the term artificial intelligence refers to man-made intelligence and functions that resemble human beings.",
+      "source_page": 8,
+      "source_excerpt": "the term artificial intelligence refers to man-made intelligence and functions that resemble human beings.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "content": "Two-stage detection methods: This category of methods ﬁrst extracts candidate object regions from the image and then performs detailed classiﬁcation and bounding box ﬁne-tuning on these regions.",
+      "source_page": 13,
+      "source_excerpt": "Two-stage detection methods: This category of methods ﬁrst extracts candidate object regions...",
+      "present_in_source": true,
+      "page_range": {
+        "start": 13,
+        "end": 16
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "term": "p CA",
+      "definition": "pretest probability of cancer",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "IPN",
+      "definition": "indeterminate pulmonary nodule",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "SPN",
+      "definition": "solitary pulmonary nodule",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "VDT",
+      "definition": "volume doubling time",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "FDG",
+      "definition": "fluorodeoxyglucose",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "PET",
+      "definition": "positron emission tomography",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "EBUS",
+      "definition": "endobronchial ultrasound",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "TBNA",
+      "definition": "transbronchial needle aspiration",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "PPV",
+      "definition": "positive predictive value",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "NPV",
+      "definition": "negative predictive value",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "ACCP",
+      "definition": "American College of Chest Physicians",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "BTS",
+      "definition": "British Thoracic Society",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    }
+  ],
+  "clinical_pearls": [
+    {
+      "content": "A comprehensive NPL examination requires exposing the entire anatomical site, obtaining a clear view, and identifying abnormal lesions.",
+      "source_page": 3,
+      "source_excerpt": "A comprehensive NPL examination requires exposing the entire anatomical site, obtaining a clear view, and identifying abnormal lesions.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "content": "The countermeasures of the issue mentioned above are to either assess the image quality and discard the image if it is below a certain quality threshold or to conduct a process of image enhancement on the low-quality bronchoscopy images originally stored. The first countermeasure is more straightforward and easier to implement.",
+      "source_page": 8,
+      "source_excerpt": "either assess the image quality and discard the image if it is below a certain quality threshold",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "content": "During prediction, the advanced technique of “Decoupled Head” is used which separates classification and localization into paralleled branches, yield- ing a higher detection performance as well as faster conver- gence of the model.",
+      "source_page": 13,
+      "source_excerpt": "“Decoupled Head” ... separates classiﬁcation and localization into paralleled branches",
+      "present_in_source": true,
+      "page_range": {
+        "start": 13,
+        "end": 16
+      },
+      "reference": "[Chapter Text]"
+    }
+  ],
+  "references": [
+    {
+      "citation": "In 2023, Zhu et al. identified 20 key anatomical landmarks based on six anatomical divisions of the nasal cavity, oral cavity, pharynx, nasopharynx, oropharynx, and hypopharynx. They formulated an AI-driven Intelligent Nasopharyngoscope Localization Monitoring Assistant (ILMA), achieving a classification accuracy of 97.60% through the process of training and validation utilizing endoscopic images.",
+      "authors": [
+        "Zhu et al."
+      ],
+      "year": 2023,
+      "journal": null,
+      "doi_pmid": null,
+      "study_type": "AI-driven Intelligent Nasopharyngoscope Localization Monitoring Assistant (ILMA)",
+      "key_findings": "ILMA achieved 97.60% classification accuracy for anatomical landmark localization.",
+      "source_page": 3,
+      "source_excerpt": "achieving a classification accuracy of 97.60% through the process of training and validation utilizing endoscopic images.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "citation": "Dn CNN has been shown to surpass traditional denoising methods.",
+      "authors": null,
+      "year": null,
+      "journal": null,
+      "doi_pmid": null,
+      "study_type": null,
+      "key_findings": "Dn CNN has been shown to surpass traditional denoising methods.",
+      "source_page": 8,
+      "source_excerpt": "Dn CNN has been shown to surpass traditional denoising methods.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "citation": "1. Ali S. Where do we stand in AI for endoscopic image analysis? Deciphering gaps and future directions [J]. NPJ Digit Med. 2022;5(1):184.",
+      "authors": [
+        "Ali S."
+      ],
+      "year": 2022,
+      "journal": "NPJ Digit Med.",
+      "doi_pmid": null,
+      "study_type": null,
+      "key_findings": null,
+      "source_page": 15,
+      "source_excerpt": "1. Ali S. Where do we stand in AI for endoscopic image analysis? Deciphering gaps and future directions [J].",
+      "present_in_source": true,
+      "page_range": {
+        "start": 13,
+        "end": 16
+      },
+      "reference": "[Chapter Text]"
+    }
+  ],
+  "summary": {
+    "clinical_applications": [],
+    "practice_recommendations": [
+      {
+        "content": "Achieving this requires stringent quality control and supervision during the examination process, which is a topic that needs far more attention.",
+        "source_page": 5,
+        "source_excerpt": "Achieving this requires stringent quality control and supervision during the examination process",
+        "present_in_source": true,
+        "page_range": {
+          "start": 1,
+          "end": 6
+        },
+        "reference": "[Chapter Text]"
+      },
+      {
+        "content": "Measures of bronchoscopic quality control include but are not limited to standardizing operating procedures, personnel training, and establishing strict quality inspection standards.",
+        "source_page": 8,
+        "source_excerpt": "standardizing operating procedures, personnel training, and establishing strict quality inspection standards.",
+        "present_in_source": true,
+        "page_range": {
+          "start": 7,
+          "end": 12
+        },
+        "reference": "[Chapter Text]"
+      },
+      {
+        "content": "Such a task can be completed either by manually drawing boxes around the lesion areas in all the lesion images or with the help of labeling software.",
+        "source_page": 14,
+        "source_excerpt": "completed either by manually drawing boxes ... or with the help of labeling software.",
+        "present_in_source": true,
+        "page_range": {
+          "start": 13,
+          "end": 16
+        },
+        "reference": "[Chapter Text]"
+      }
+    ],
+    "future_directions": [],
+    "controversies": []
+  },
+  "extraction_metadata": {
+    "source_pdf": "Textbooks/Chapter pdfs/Artificial Intelligence in Respiratory Endoscopy.pdf",
+    "adobe_json": null,
+    "extraction_date": "2025-08-21T02:01:45.929401+00:00",
+    "text_pages": 16,
+    "chunks_processed": 3,
+    "model": "gpt-5",
+    "extractor_version": "production_multipass_v3.2_gpt5_simple",
+    "enhancements_applied": [
+      "risk_model_separation",
+      "clinical_interpretation_addition",
+      "performance_metric_normalization",
+      "inline_reference_addition",
+      "duplicate_consolidation",
+      "missing_section_extraction"
+    ],
+    "passes_completed": 7,
+    "quality_issues": {
+      "tables": [
+        "Check footnotes presence: Table 1 Classification performance in terms of accuracy (ACC) for the DNN models, VGG, Goog Le Net, and Res Net"
+      ]
+    },
+    "schema_version": "gold_standard_v1.0",
+    "enhancement_version": "1.0"
+  },
+  "risk_models": [],
+  "guideline_adherence": {
+    "problems_observed": [
+      {
+        "finding": "Lack of standardization in bronchoscopy examinations",
+        "details": "Accuracy is greatly affected by the operator’s experience, habits, and skills, leading to unstable and even mistaken results—described as a lack of standardization. No specific adherence metrics or rates are provided.",
+        "reference": "Chapter abstract/introduction (Cao et al., Artificial Intelligence in Respiratory Endoscopy, 2025)"
+      },
+      {
+        "finding": "Interobserver variability leading to inconsistent diagnosis and treatment",
+        "details": "Different endoscopists and physicians may interpret the same lesion differently, causing inconsistent diagnostic results and corresponding treatment. No explicit guideline comparison or statistics are given.",
+        "reference": "Chapter abstract (Cao et al., 2025)"
+      },
+      {
+        "finding": "Blind spots during bronchoscopic examination suggest incomplete systematic inspection",
+        "details": "The chapter highlights the need for real-time monitoring and automatic prompts for missed areas, implying current practice may leave blind spots unexamined. No quantitative data on miss rates are provided.",
+        "reference": "Introduction and section topic on blind spot monitoring"
+      },
+      {
+        "finding": "Quality control issues in nasopharyngolaryngoscopy (NPL)",
+        "details": "Similar quality control issues to bronchoscopy are noted for NPL, with a dedicated section on 'Quality Control Issues with NPL'. No specific adherence metrics or detailed examples are provided.",
+        "reference": "Section 2.1 heading and abstract remarks"
+      }
+    ],
+    "implication": "Operator-dependent variability and lack of standardized workflows can lead to missed lesions, misdiagnoses, and inconsistent treatment. While the chapter does not provide explicit guideline adherence data, it implies gaps relative to standardized examination protocols; AI-assisted systems aim to improve quality control, reduce blind spots, and standardize practice, potentially improving patient outcomes."
+  },
+  "technology_and_technique": [
+    {
+      "topic": "AI-assisted bronchoscopy quality control (blind spot monitoring)",
+      "summary": "Real-time monitoring during bronchoscopy with automatic prompts for missed areas to standardize the examination and reduce operator dependence. Described benefits include improved diagnostic precision, high automation, low cost, stability, and mitigation of human fatigue. No specific diagnostic yield percentages or safety event rates reported.",
+      "reference": "Cao Z, Ye B, Zhou Y, Liu B. Artificial Intelligence in Respiratory Endoscopy. In: Yarmus L et al., Principles and Practice of Interventional Pulmonology. Springer Nature Switzerland; 2025. https://doi.org/10.1007/978-3-031-49583-0_2-1"
+    },
+    {
+      "topic": "Automatic diagnosis of bronchial lesions (CADe/CADx) in bronchoscopy",
+      "summary": "AI systems preprocess bronchoscopic images and analyze lesion morphology, color, and texture to aid detection and diagnosis. The chapter states improved diagnostic accuracy and consistency through training on large clinical datasets but provides no quantitative accuracy, sensitivity/specificity, or yield percentages.",
+      "reference": "Cao Z, Ye B, Zhou Y, Liu B. 2025. https://doi.org/10.1007/978-3-031-49583-0_2-1"
+    },
+    {
+      "topic": "Bronchoscopic image enhancement",
+      "summary": "AI-based enhancement aims to improve visualization quality of bronchoscopic images to support lesion recognition and diagnostic performance. No comparative metrics (e.g., signal-to-noise, reader performance, or diagnostic yield changes) are reported.",
+      "reference": "Cao Z, Ye B, Zhou Y, Liu B. 2025. https://doi.org/10.1007/978-3-031-49583-0_2-1"
+    },
+    {
+      "topic": "Deep learning for branch recognition (quality control in bronchoscopy)",
+      "summary": "Deep learning models are used to recognize bronchial branches as part of quality control to standardize bronchoscopy navigation and reduce missed areas. No specific accuracy rates, coverage percentages, or time-efficiency gains are provided.",
+      "reference": "Cao Z, Ye B, Zhou Y, Liu B. 2025. https://doi.org/10.1007/978-3-031-49583-0_2-1"
+    },
+    {
+      "topic": "Deep learning for lesion detection in bronchoscopy",
+      "summary": "Lesion detection methods using deep neural networks are described to automate identification of bronchial abnormalities. The chapter does not provide sensitivity/specificity, AUC, or per-lesion diagnostic yield statistics.",
+      "reference": "Cao Z, Ye B, Zhou Y, Liu B. 2025. https://doi.org/10.1007/978-3-031-49583-0_2-1"
+    },
+    {
+      "topic": "AI in nasopharyngolaryngoscopy (NPL): quality control and lesion identification",
+      "summary": "AI applications include quality control for NPL, categorization of vocal cord abnormalities, and identification of laryngeal/pharyngeal and nasal/nasopharyngeal lesions. The text emphasizes standardization and diagnostic support but does not report quantitative yields or safety outcomes.",
+      "reference": "Cao Z, Ye B, Zhou Y, Liu B. 2025. https://doi.org/10.1007/978-3-031-49583-0_2-1"
+    },
+    {
+      "topic": "Expert-robot multidisciplinary team (MDT) for pulmonary nodule assessment",
+      "summary": "Combines human experts with AI to assess 3D longest diameter, volume, and density of lung nodules and to create personalized diagnostic plans. Intended to leverage AI precision while mitigating false positives/negatives via human oversight. No prospective trial results or diagnostic yield/safety statistics are provided.",
+      "reference": "Cao Z, Ye B, Zhou Y, Liu B. 2025. https://doi.org/10.1007/978-3-031-49583-0_2-1"
+    },
+    {
+      "topic": "Technology context and comparisons",
+      "summary": "Respiratory AI has been more established in chest X-ray, CT, lung function, and ventilation; AI in bronchoscopy and NPL is emerging. The chapter contrasts maturity with GI endoscopy (where CADe/CADx are widely integrated) but provides no direct comparative effectiveness or head-to-head performance data between modalities (e.g., bronchoscopy vs other diagnostic techniques).",
+      "reference": "Cao Z, Ye B, Zhou Y, Liu B. 2025. https://doi.org/10.1007/978-3-031-49583-0_2-1"
+    },
+    {
+      "topic": "Tips to improve procedural performance with AI",
+      "summary": "Suggested operational advantages include real-time blind-spot prompts, standardized workflows, integration of multimodal imaging, and reduction of user variability and fatigue. The chapter does not quantify improvements (e.g., reduced miss rates, procedure time, or complication rates).",
+      "reference": "Cao Z, Ye B, Zhou Y, Liu B. 2025. https://doi.org/10.1007/978-3-031-49583-0_2-1"
+    },
+    {
+      "topic": "Patient selection considerations for AI-assisted endoscopy",
+      "summary": "AI support is discussed for patients undergoing bronchoscopy and NPL and for those with pulmonary nodules (via expert-robot MDT). No explicit inclusion/exclusion criteria, risk stratification thresholds, or safety stratification data are provided.",
+      "reference": "Cao Z, Ye B, Zhou Y, Liu B. 2025. https://doi.org/10.1007/978-3-031-49583-0_2-1"
+    }
+  ],
+  "conclusion": {
+    "points": [
+      "15 Abstract Bronchoscopy plays an important role in the diagnosis and treatment of pulmonary diseases which can directly observe the internal conditions of the trachea and bronchi",
+      "However, the accuracy of its examination results is greatly affected by the experience, habits, and skill levels of endoscopists, resulting in unstable and even mistaken examination results, i.e., there is a lack of standardization in bronchoscopy",
+      "Meanwhile, different pulmonary endoscopists and physi- cians may interpret the same lesion differently, leading to inconsistent diagnostic results and corresponding treatment"
+    ],
+    "reference": "[Chapter Conclusion]"
+  },
+  "complications": [],
+  "etiology_and_classification": [],
+  "clinical_presentation": [],
+  "management": [],
+  "treatment_algorithm": {
+    "nodes": [
+      {
+        "id": "start",
+        "label": "Start bronchoscopy",
+        "criteria": ""
+      },
+      {
+        "id": "qc",
+        "label": "Blind spot & QC monitoring",
+        "criteria": "31 bronchial sites; compute coverage ratio; track time-lapse"
+      },
+      {
+        "id": "qc_check",
+        "label": "Coverage/time threshold",
+        "criteria": "If time-lapse < 2 min or coverage < 100% → prompt to revisit sites"
+      },
+      {
+        "id": "iq",
+        "label": "Image quality assessment",
+        "criteria": "Illuminance, contrast, noise, blur"
+      },
+      {
+        "id": "iq_branch",
+        "label": "Quality acceptable?",
+        "criteria": "If below threshold → discard or enhance (Gamma/HE/Retinex; Dn CNN/Deblur GAN/Retinex Net)"
+      },
+      {
+        "id": "branch_cls",
+        "label": "Branch recognition",
+        "criteria": "Model examples: VGG, Goog Le Net, Res Net"
+      },
+      {
+        "id": "lesion_det",
+        "label": "Lesion detection",
+        "criteria": "YOLOX; outputs bounding boxes and labels (benign/malignant)"
+      },
+      {
+        "id": "no_lesion",
+        "label": "No lesion detected",
+        "criteria": "Proceed to documentation"
+      },
+      {
+        "id": "lesion_found",
+        "label": "Lesion detected",
+        "criteria": "Auto-measure size and infiltration depth; highlight with red box; capture frames"
+      },
+      {
+        "id": "report",
+        "label": "Report & export",
+        "criteria": "Coverage log, annotated images/video, timestamps"
+      }
+    ],
+    "edges": [
+      {
+        "from": "start",
+        "to": "qc",
+        "condition": ""
+      },
+      {
+        "from": "qc",
+        "to": "qc_check",
+        "condition": "Real-time"
+      },
+      {
+        "from": "qc_check",
+        "to": "iq",
+        "condition": "Meets threshold"
+      },
+      {
+        "from": "qc_check",
+        "to": "qc",
+        "condition": "Does not meet threshold (prompt to revisit)"
+      },
+      {
+        "from": "iq",
+        "to": "iq_branch",
+        "condition": "Evaluate metrics"
+      },
+      {
+        "from": "iq_branch",
+        "to": "branch_cls",
+        "condition": "Acceptable or enhanced"
+      },
+      {
+        "from": "iq_branch",
+        "to": "iq",
+        "condition": "Re-acquire if inadequate"
+      },
+      {
+        "from": "branch_cls",
+        "to": "lesion_det",
+        "condition": "Proceed"
+      },
+      {
+        "from": "lesion_det",
+        "to": "no_lesion",
+        "condition": "No detection"
+      },
+      {
+        "from": "lesion_det",
+        "to": "lesion_found",
+        "condition": "Detection present"
+      },
+      {
+        "from": "no_lesion",
+        "to": "report",
+        "condition": ""
+      },
+      {
+        "from": "lesion_found",
+        "to": "report",
+        "condition": ""
+      }
+    ],
+    "summary": [
+      "Monitor 31 bronchial sites for coverage and examination time; prompt revisits for missed or obscured areas.",
+      "Flag short examinations (e.g., <2 min) as at-risk for missed spots; encourage adequate dwell time.",
+      "Assess image quality (illuminance, contrast, noise, blur); discard low-quality frames or enhance before analysis.",
+      "Use a trained classifier (e.g., VGG/Goog Le Net/Res Net) for branch recognition to support standardized documentation.",
+      "Run a single-stage detector (e.g., YOLOX) to localize airway lesions and label benign vs malignant patterns; auto-measure size and depth as supported.",
+      "Export annotated images, lesion metadata, and coverage logs for reporting and QA."
+    ]
+  },
+  "prognosis": {},
+  "risk_factors": []
+}

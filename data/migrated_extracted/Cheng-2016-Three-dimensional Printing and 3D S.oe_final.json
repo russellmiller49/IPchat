@@ -1,0 +1,63 @@
+{
+  "source": {
+    "document_id": "Cheng-2016-Three-dimensional Printing and 3D S",
+    "ingest_date": "2025-08-08T10:36:53.534691+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1016/j.chest.2016.03.001"
+  },
+  "document": {
+    "metadata": {
+      "title": "Three-dimensional Printing and 3D Slicer: Powerful Tools in Understanding and Treating Structural Lung Disease",
+      "year": 2016,
+      "authors": [
+        "George Z. Cheng",
+        "Raul San Jose Estepar",
+        "Erik Folch",
+        "Jorge Onieva",
+        "Sidhu Gangadharan",
+        "Adnan Majid"
+      ],
+      "journal": "CHEST",
+      "doi": "10.1016/j.chest.2016.03.001",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Recent advances in the three-dimensional (3D) printing industry have enabled clinicians to explore the use of 3D printing in preprocedural planning, biomedical tissue modeling, and direct implantable device manufacturing. Despite the increased adoption of rapid prototyping and additive manufacturing techniques in the health-care field, many physicians lack the technical skill set to use this technology. Additionally, the rapid growth in 3D printing has brought an expanding array of printers and printable materials. This Ahead of the Curve review summarizes the history of 3D printing and its most recent biomedical applications, discusses barriers to wider adoption in medicine (including materials, sterilization, and regulatory pathways), and provides a practical guide to creating personalized airway prostheses using the open-source 3D Slicer platform. The goal is to reduce barriers and increase clinician participation in the 3D printing health-care sector.",
+      "methods": "Narrative review and technical tutorial. The article overviews 3D printing technologies (stereolithography, selective laser sintering, fused deposition modeling, multijet modeling), discusses biocompatible materials (e.g., PCL, PLA, PLGA), outlines sterilization and regulatory considerations, and demonstrates step-by-step use of 3D Slicer and its extensions (Airway Inspector, Chest Imaging Platform, an airway segmentation module) to generate digital airway models from CT scans and export to STL for 3D printing.",
+      "results": "No empirical clinical trial data are reported. The article illustrates feasibility and workflow of generating patient-specific airway models with 3D Slicer and reviews case-based applications in pulmonology (e.g., personalized airway splints in pediatric tracheobronchomalacia, surgical planning models)."
+    }
+  },
+  "clinical_extraction": {
+    "document_id": "c2b05bd9c34f",
+    "title": "Three-dimensional Printing and 3D Slicer: Powerful Tools in Understanding and Treating Structural Lung Disease",
+    "document_type": "research",
+    "diagnostic_yields": {},
+    "complication_rates": {},
+    "methodology": {},
+    "clinical_pearls": [],
+    "indications": [],
+    "contraindications": [],
+    "patient_selection": {
+      "inclusion_criteria": [],
+      "exclusion_criteria": [],
+      "ideal_candidate": null
+    },
+    "equipment": [],
+    "key_findings": [],
+    "practical_tips": [],
+    "extraction_confidence": 0.5,
+    "has_numerical_data": false,
+    "original_extraction": null
+  },
+  "migration_info": {
+    "migrated_at": "2025-08-22T09:42:45.719605",
+    "original_structure": "oe_final",
+    "migration_type": "restructure"
+  },
+  "original_sections": {
+    "abstract": "Recent advances in the three-dimensional (3D) printing industry have enabled clinicians to explore the use of 3D printing in preprocedural planning, biomedical tissue modeling, and direct implantable device manufacturing. Despite the increased adoption of rapid prototyping and additive manufacturing techniques in the health-care field, many physicians lack the technical skill set to use this technology. Additionally, the rapid growth in 3D printing has brought an expanding array of printers and printable materials. This Ahead of the Curve review summarizes the history of 3D printing and its most recent biomedical applications, discusses barriers to wider adoption in medicine (including materials, sterilization, and regulatory pathways), and provides a practical guide to creating personalized airway prostheses using the open-source 3D Slicer platform. The goal is to reduce barriers and increase clinician participation in the 3D printing health-care sector.",
+    "methods": "Narrative review and technical tutorial. The article overviews 3D printing technologies (stereolithography, selective laser sintering, fused deposition modeling, multijet modeling), discusses biocompatible materials (e.g., PCL, PLA, PLGA), outlines sterilization and regulatory considerations, and demonstrates step-by-step use of 3D Slicer and its extensions (Airway Inspector, Chest Imaging Platform, an airway segmentation module) to generate digital airway models from CT scans and export to STL for 3D printing.",
+    "results": "No empirical clinical trial data are reported. The article illustrates feasibility and workflow of generating patient-specific airway models with 3D Slicer and reviews case-based applications in pulmonology (e.g., personalized airway splints in pediatric tracheobronchomalacia, surgical planning models)."
+  }
+}

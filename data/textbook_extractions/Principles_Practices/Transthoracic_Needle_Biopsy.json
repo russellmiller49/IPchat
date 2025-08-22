@@ -1,0 +1,217 @@
+{
+  "chapter_metadata": {
+    "title": "Transthoracic Needle Biopsy",
+    "authors": [
+      "Abdul Rehman Mustafa",
+      "Clifford R. Weiss"
+    ],
+    "reference": "[Chapter Text]"
+  },
+  "definitions": [
+    {
+      "term": "TTNB",
+      "definition": "transthoracic needle biopsy"
+    },
+    {
+      "term": "FNA",
+      "definition": "fine needle aspiration"
+    },
+    {
+      "term": "ROSE",
+      "definition": "rapid on-site evaluation"
+    },
+    {
+      "term": "ABPI",
+      "definition": "autologous blood patch injection"
+    },
+    {
+      "term": "CT fluoroscopy",
+      "definition": "intermittent CT guidance used during biopsy"
+    },
+    {
+      "term": "PET/CT",
+      "definition": "positron emission tomography / computed tomography"
+    }
+  ],
+  "clinical_procedures": [
+    {
+      "procedure": "CT-guided TTNB",
+      "steps": [
+        "Obtain helical CT to plan trajectory avoiding vessels, fissures, bullae",
+        "Administer local anesthesia ± sedation (midazolam/fentanyl)",
+        "Advance coaxial introducer needle under CT fluoroscopy",
+        "Perform FNA and/or core biopsy (typically 2–5 passes, ≥4 cores for molecular testing)",
+        "Seal tract with saline, hydrogel plug, or ABPI",
+        "Place biopsy-side down post-procedure to reduce pneumothorax risk"
+      ],
+      "notes": "ROSE can be performed to ensure adequacy; samples sent for histopathology, microbiology, molecular studies"
+    }
+  ],
+  "diagnostic_approaches": [
+    {
+      "method": "Core needle biopsy",
+      "diagnostic_yield": "90–95%",
+      "accuracy": "93%",
+      "advantages": "Higher tissue adequacy, better for histology and molecular analysis"
+    },
+    {
+      "method": "Fine needle aspiration (FNA)",
+      "diagnostic_yield": "80–85%",
+      "accuracy": "89–93%",
+      "advantages": "Less invasive, cytology sufficient for many lesions"
+    },
+    {
+      "method": "PET/CT-guided TTNB",
+      "advantages": "Improves lesion targeting, reduces inconclusive biopsies"
+    }
+  ],
+  "clinical_guidelines": [
+    {
+      "recommendation": "Perform coagulation profile before TTNB; INR <1.5 and platelet count >50,000/μL recommended; >100,000/μL if aspirin continued."
+    },
+    {
+      "recommendation": "Relative contraindications: small deep lesions (<1 cm), lesions near vessels or airways, severe emphysema, pulmonary hypertension, oxygen dependence."
+    },
+    {
+      "recommendation": "Target viable areas with FDG uptake or enhancing tissue; avoid necrotic areas."
+    },
+    {
+      "recommendation": "Seal tract with saline, hydrogel plug, or autologous blood patch to reduce pneumothorax risk."
+    }
+  ],
+  "complications": [
+    {
+      "type": "Pneumothorax",
+      "rate": "19–26%",
+      "intervention_rate": "4–7%",
+      "notes": "Higher with core biopsy, larger needles, fissure crossing, emphysema; mitigated with tract sealing and patient positioning"
+    },
+    {
+      "type": "Bleeding / Hemoptysis",
+      "rate": "≈5%",
+      "notes": "Usually self-limited; hemothorax rare (0.5–1.5%)"
+    },
+    {
+      "type": "Air embolism",
+      "rate": "<0.2%",
+      "notes": "Serious complication; managed with 100% O₂ and Trendelenburg/left decubitus"
+    },
+    {
+      "type": "Needle tract metastasis",
+      "rate": "<0.1%",
+      "notes": "Minimized by coaxial technique"
+    },
+    {
+      "type": "Pain",
+      "rate": "Mild expected",
+      "notes": "Severe pain should prompt evaluation for complications"
+    }
+  ],
+  "figures": [
+    {
+      "id": "Fig1",
+      "caption": "CT-guided lung biopsy of solitary subpleural nodule",
+      "page": 2
+    },
+    {
+      "id": "Fig2",
+      "caption": "Ultrasound-guided biopsy",
+      "page": 3
+    },
+    {
+      "id": "Fig3",
+      "caption": "Indications for TTNB on axial CT: solitary nodule, infiltrates, hilar mass, mediastinal mass",
+      "page": 3
+    },
+    {
+      "id": "Fig4",
+      "caption": "Necrotic tumor areas should be avoided; peripheral viable tissue targeted",
+      "page": 4
+    },
+    {
+      "id": "Fig5",
+      "caption": "CT-guided core biopsy of 10-mm GGO; histology: adenocarcinoma",
+      "page": 6
+    },
+    {
+      "id": "Fig6",
+      "caption": "Examples of biopsy needles: Chiba, Franseen, Westcott",
+      "page": 7
+    },
+    {
+      "id": "Fig7",
+      "caption": "Internal thoracic arteries; structures to avoid",
+      "page": 7
+    },
+    {
+      "id": "Fig8",
+      "caption": "Normal saline tract sealing post-biopsy",
+      "page": 8
+    },
+    {
+      "id": "Fig9",
+      "caption": "Aspiration and rapid rollover to reduce pneumothorax severity",
+      "page": 9
+    },
+    {
+      "id": "Fig10",
+      "caption": "Pneumothorax and systemic air embolism after biopsy",
+      "page": 10
+    },
+    {
+      "id": "Fig11",
+      "caption": "CT-guided biopsy with pneumothorax, hemorrhage, chest tube",
+      "page": 11
+    },
+    {
+      "id": "Fig12",
+      "caption": "Bleeding complications during biopsy",
+      "page": 12
+    },
+    {
+      "id": "Fig13",
+      "caption": "Intrapulmonary hemorrhage / metastatic prostate cancer",
+      "page": 13
+    },
+    {
+      "id": "Fig14",
+      "caption": "Cerebral air embolism post-biopsy",
+      "page": 13
+    },
+    {
+      "id": "Fig15",
+      "caption": "Systemic arterial air embolism (aorta, coronary artery)",
+      "page": 13
+    }
+  ],
+  "risk_factors": {
+    "pneumothorax": [
+      "Larger needle size",
+      "Crossing fissure or bulla",
+      "Multiple pleural punctures / non-coaxial passes",
+      "Emphysema in biopsy path",
+      "Lesion depth ≥3 cm, not pleural-based",
+      "Smaller lesion size"
+    ],
+    "bleeding": [
+      "Coagulopathy",
+      "Lesion near larger vessels",
+      "Central lesions",
+      "Larger introducer needle"
+    ],
+    "air_embolism": [
+      "Larger coaxial needle",
+      "Needle traversing adjacent airway and vein",
+      "Peri-cystic lesions",
+      "Coughing/increased intrathoracic pressure during passes"
+    ]
+  },
+  "qa_report": {
+    "text_clean": 54,
+    "percent_normalize": 19,
+    "data_recovered_pdf": 41,
+    "data_recovered_adobe": 14,
+    "conflict_resolved": 7,
+    "warnings": 0
+  }
+}

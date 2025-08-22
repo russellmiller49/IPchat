@@ -1,0 +1,131 @@
+{
+  "name": "Bronchmonkey Complete Knowledge Base",
+  "version": "2.0",
+  "created": "2025-08-22T11:22:08.600017",
+  "sources": {
+    "research_articles": {
+      "count": 292,
+      "path": "data/migrated_extracted",
+      "index": "data/indices/migrated_articles_index.json"
+    },
+    "textbook_chapters": {
+      "count": 41,
+      "path": "data/textbook_extractions/Principles_Practices",
+      "index": "data/textbook_extractions/Principles_Practices/MASTER_INDEX.json"
+    }
+  },
+  "total_documents": 333,
+  "procedures": {
+    "from_research": [
+      "Airway Stenting",
+      "Bronchoscopy",
+      "Cryotherapy",
+      "EBUS",
+      "Endobronchial Valve"
+    ],
+    "from_textbook": [
+      "Balloon bronchoplasty",
+      "BAL",
+      "BTPNA",
+      "Chest tube insertion",
+      "Cricothyroidotomy",
+      "Cryobiopsy",
+      "CT-guided biopsy",
+      "EBUS-guided cryobiopsy",
+      "Electrocautery",
+      "Endobronchial valve placement",
+      "Fistula closure",
+      "Forceps biopsy",
+      "Laryngoscopy",
+      "Needle aspiration",
+      "Peripheral nodule biopsy",
+      "Pigtail catheter insertion",
+      "Pleural biopsy",
+      "Radiofrequency ablation",
+      "ROSE",
+      "Silicone stent placement",
+      "Thoracentesis",
+      "Tumor debulking",
+      "Ultrathin bronchoscopy",
+      "VATS",
+      "Y-stent placement"
+    ],
+    "combined": [
+      "Airway Stenting",
+      "BAL",
+      "BTPNA",
+      "Balloon bronchoplasty",
+      "Bronchoscopy",
+      "CT-guided biopsy",
+      "Chest tube insertion",
+      "Cricothyroidotomy",
+      "Cryobiopsy",
+      "Cryotherapy",
+      "EBUS",
+      "EBUS-guided cryobiopsy",
+      "Electrocautery",
+      "Endobronchial Valve",
+      "Endobronchial valve placement",
+      "Fistula closure",
+      "Forceps biopsy",
+      "Laryngoscopy",
+      "Needle aspiration",
+      "Peripheral nodule biopsy",
+      "Pigtail catheter insertion",
+      "Pleural biopsy",
+      "ROSE",
+      "Radiofrequency ablation",
+      "Silicone stent placement",
+      "Thoracentesis",
+      "Tumor debulking",
+      "Ultrathin bronchoscopy",
+      "VATS",
+      "Y-stent placement"
+    ]
+  },
+  "conditions": {
+    "from_research": [
+      "Emphysema",
+      "Lung Cancer",
+      "Pneumothorax"
+    ],
+    "from_textbook": [
+      "Airway stenosis",
+      "Bronchopleural fistula",
+      "Central airway obstruction",
+      "Empyema",
+      "ILD",
+      "Lung cancer",
+      "Persistent air leak",
+      "Pleural effusion",
+      "Pneumothorax",
+      "Subglottic stenosis",
+      "TEF",
+      "Vocal cord paralysis"
+    ],
+    "combined": [
+      "Airway stenosis",
+      "Bronchopleural fistula",
+      "Central airway obstruction",
+      "Emphysema",
+      "Empyema",
+      "ILD",
+      "Lung Cancer",
+      "Lung cancer",
+      "Persistent air leak",
+      "Pleural effusion",
+      "Pneumothorax",
+      "Subglottic stenosis",
+      "TEF",
+      "Vocal cord paralysis"
+    ]
+  },
+  "search_config": {
+    "vector_weight": 0.5,
+    "keyword_weight": 0.3,
+    "structured_weight": 0.2,
+    "chunk_size": 500,
+    "overlap": 50,
+    "top_k": 10
+  }
+}

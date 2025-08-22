@@ -1,0 +1,288 @@
+{
+  "chapter_metadata": {
+    "title": {
+      "value": "Diagnostic and Therapeutic Approach to Pneumothorax",
+      "present_in_source": true
+    },
+    "authors": [
+      "Jamie Rowell",
+      "Schuyler Perez de Salmeron",
+      "Christopher M. Kapp"
+    ],
+    "chapter_number": {
+      "value": "66-1",
+      "present_in_source": true
+    },
+    "key_points": [
+      "Pneumothorax is classified as primary/secondary spontaneous, traumatic, or iatrogenic; severity is determined by size, symptoms, and physiologic compromise.",
+      "POCUS is highly sensitive and specific for pneumothorax and should be prioritized when available; chest radiography and CT remain complementary.",
+      "Management is increasingly individualized: many stable, minimally symptomatic PSPs can be managed conservatively with robust follow\u2011up.",
+      "When intervention is required, needle aspiration and small\u2011bore tube thoracostomy are effective; ambulatory options can reduce length of stay.",
+      "Persistent air leak (PAL) requires a multidisciplinary strategy ranging from chemical/mechanical pleurodesis and VATS to autologous blood patch and endobronchial valves.",
+      "Tension pneumothorax is a life\u2011threatening emergency requiring immediate decompression followed by tube thoracostomy."
+    ],
+    "page_range": {
+      "start": 1,
+      "end": 11
+    },
+    "reference": "[Chapter Text]"
+  },
+  "anatomical_content": {
+    "structures": [
+      "Visceral pleura",
+      "Parietal pleura",
+      "Pleural space",
+      "Main bronchi and distal airways (for EBV targeting)"
+    ]
+  },
+  "clinical_procedures": [
+    "Point\u2011of\u2011care lung ultrasound (POCUS) for detection and confirmation of resolution",
+    "Chest radiograph (upright, supine) and computed tomography for diagnosis and characterization",
+    "Needle aspiration (NA) via Seldinger technique",
+    "Tube thoracostomy (small\u2011bore preferred; lateral mid\u2011axillary 4th\u20135th interspace\u2014'triangle of safety')",
+    "Ambulatory drainage (Heimlich valve, mini\u2011atrium, pleural ventilation catheter)",
+    "Pleurodesis (chemical: graded talc; mechanical)",
+    "Video\u2011assisted thoracoscopic surgery (VATS) with wedge resection \u00b1 pleurodesis",
+    "Autologous blood patch pleurodesis (ABP)",
+    "Endobronchial valve placement for PAL",
+    "Emergency needle decompression for tension pneumothorax"
+  ],
+  "diagnostic_approaches": [
+    "POCUS: absence of lung sliding and M\u2011mode 'barcode' sign; pooled sensitivity ~91% and specificity ~99% for trauma settings; superior to single\u2011view CXR for detection and confirming resolution.",
+    "Chest radiograph: demonstrates visceral pleural line without lung apposition; ~50 mL pleural gas visible upright; up to ~100 mL required supine.",
+    "Computed tomography: definitive test; detects occult pneumothorax and helpful in complex bullous disease or equivocal ultrasound/radiography findings.",
+    "Clinical assessment: chest pain and dyspnea most common; red flags for tension include hypotension, tachypnea, tachycardia, cyanosis."
+  ],
+  "treatment_algorithms": [
+    "Conservative management: appropriate for stable, minimally symptomatic or asymptomatic PSP with reliable follow\u2011up (noninferior lung re\u2011expansion at 8 weeks vs intervention in an RCT).",
+    "Needle aspiration (NA): small\u2011bore catheter with aspiration and removal; non\u2011inferior to tube thoracostomy for short\u2011term resolution and 12\u2011month recurrence in meta\u2011analyses; shorter LOS and fewer adverse events.",
+    "Tube thoracostomy: small\u2011bore (\u226416 Fr) preferred for spontaneous pneumothorax; similar efficacy with fewer complications and shorter LOS than large\u2011bore; lateral placement generally less painful than anterior approach.",
+    "Ambulatory management: Heimlich valve/mini\u2011atrium or pleural vent catheter allow outpatient drainage; reduces hospital days but may increase device\u2011related AEs; consider in carefully selected, supported patients.",
+    "Persistent air leak (PAL): typically >5\u20137 days of leak. Options include VATS wedge \u00b1 pleurodesis; chemical pleurodesis (graded talc) via slurry or poudrage; autologous blood patch (\u22480.5\u20132 mL/kg or 50\u2013100 mL); endobronchial valves (median 4\u20137.5 days to leak resolution).",
+    "Tension pneumothorax: immediate needle decompression followed by tube thoracostomy; mortality is high without prompt intervention."
+  ],
+  "clinical_guidelines": [
+    "BTS 2023 pleural disease guideline: permits conservative management for minimally symptomatic/asymptomatic PSP regardless of size; emphasizes small\u2011bore tubes and lateral placement; supports ambulatory options in appropriate systems.",
+    "ACCP 2001 consensus: historically favored intervention and surgical referral for PAL after 3\u20135 days.",
+    "ERS 2015 task force: recommends NA as first\u2011line for first\u2011episode symptomatic PSP."
+  ],
+  "drug_information": [
+    "Graded talc: common sclerosant for chemical pleurodesis; strong safety profile with larger particle sizes.",
+    "Analgesia and local anesthesia regimens for NA and tube thoracostomy per institutional protocols."
+  ],
+  "tables": [
+    {
+      "title": "Lung diseases implicated in secondary spontaneous pneumothorax (SSP)",
+      "source": "Table 1",
+      "rows": [
+        [
+          "Chronic obstructive pulmonary disease with emphysema"
+        ],
+        [
+          "Interstitial lung disease"
+        ],
+        [
+          "Cystic fibrosis"
+        ],
+        [
+          "Lung cancer"
+        ],
+        [
+          "Acute infections (Pneumocystis jirovecii pneumonia, COVID\u201119 pneumonitis)"
+        ],
+        [
+          "Chronic infections (tuberculosis, bacterial empyema)"
+        ],
+        [
+          "Sarcoidosis"
+        ]
+      ]
+    },
+    {
+      "title": "Incidence and procedures implicated in iatrogenic pneumothorax",
+      "source": "Table 2",
+      "rows": [
+        [
+          "Transthoracic needle biopsy",
+          "4.3\u201352.4%; pooled 25.9%"
+        ],
+        [
+          "Central venous catheter placement",
+          "1\u20136% (site/approach dependent)"
+        ],
+        [
+          "Thoracentesis (ultrasound\u2011guided)",
+          "0.3\u20133.0%"
+        ],
+        [
+          "Mechanical ventilation",
+          "1\u201315%"
+        ],
+        [
+          "Transbronchial lung biopsy",
+          "0.53\u20138%"
+        ]
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "title": "POCUS M\u2011mode in large pneumothorax (absence of lung sliding)",
+      "page": 4,
+      "alt_text": "Ultrasound image showing A\u2011lines and barcode sign without B\u2011lines or lung sliding."
+    },
+    {
+      "title": "Talc pleurodesis poudrage under medical thoracoscopy",
+      "page": 8,
+      "alt_text": "Thoracoscopic view of talc poudrage over pleural surfaces."
+    }
+  ],
+  "clinical_cases": [],
+  "definitions": [
+    {
+      "term": "Primary spontaneous pneumothorax (PSP)",
+      "definition": "Air in the pleural space occurring without trauma or known lung disease."
+    },
+    {
+      "term": "Secondary spontaneous pneumothorax (SSP)",
+      "definition": "Pneumothorax due to underlying lung disease (e.g., COPD, ILD)."
+    },
+    {
+      "term": "Traumatic pneumothorax",
+      "definition": "Pneumothorax resulting from blunt or penetrating chest trauma."
+    },
+    {
+      "term": "Iatrogenic pneumothorax",
+      "definition": "Pneumothorax due to medical procedures (e.g., TTNB, CVC, thoracentesis, TBLB)."
+    },
+    {
+      "term": "Non\u2011expandable lung (trapped/ex vacuo)",
+      "definition": "Failure of pleural apposition due to airway obstruction or pleural restriction; chest tube drainage may not re\u2011expand lung."
+    },
+    {
+      "term": "Point\u2011of\u2011care ultrasound (POCUS)",
+      "definition": "Bedside ultrasound used to detect pneumothorax; high sensitivity/specificity in trauma and procedural settings."
+    },
+    {
+      "term": "Needle aspiration (NA)",
+      "definition": "Percutaneous pleural air evacuation using a small\u2011bore catheter with aspiration and removal of the catheter."
+    },
+    {
+      "term": "Tube thoracostomy",
+      "definition": "Placement of an intercostal chest drain for continuous evacuation of pleural air (small\u2011bore preferred for spontaneous pneumothorax)."
+    },
+    {
+      "term": "Persistent air leak (PAL)",
+      "definition": "Air leak persisting ~5\u20137 days after pneumothorax onset or drainage."
+    },
+    {
+      "term": "Video\u2011assisted thoracoscopic surgery (VATS)",
+      "definition": "Minimally invasive thoracic surgery used for wedge resection and pleurodesis."
+    },
+    {
+      "term": "Chemical pleurodesis",
+      "definition": "Instillation of a sclerosing agent (e.g., talc) into the pleural space to promote pleural symphysis."
+    },
+    {
+      "term": "Autologous blood patch pleurodesis (ABP)",
+      "definition": "Intrapleural instillation of patient\u2019s own blood to tamponade a fistula and induce pleurodesis."
+    },
+    {
+      "term": "Endobronchial valve (EBV)",
+      "definition": "One\u2011way bronchial valve to reduce air leak in PAL; allows secretion egress while preventing inspiratory airflow."
+    },
+    {
+      "term": "Tension pneumothorax",
+      "definition": "Hemodynamically significant pneumothorax requiring immediate needle decompression and chest tube."
+    }
+  ],
+  "clinical_pearls": [
+    "Consider conservative management for stable PSP with minimal symptoms if reliable follow\u2011up is feasible.",
+    "Use POCUS first where available; it outperforms single\u2011view CXR for detection and confirming resolution.",
+    "Prefer small\u2011bore chest tubes and lateral placement ('triangle of safety') when a drain is needed.",
+    "Define and document PAL consistently (e.g., Cerfolio grading); engage thoracic surgery early.",
+    "For non\u2011expandable lung, avoid futile chest tube drainage\u2014address the underlying cause."
+  ],
+  "references": [
+    "Chan KK et al. Cochrane Review: Chest ultrasonography versus supine chest radiography for pneumothorax in trauma ED. 2020.",
+    "Carr JJ et al. Radiology 1992: Pleural gas volume thresholds for CXR detection.",
+    "Brown SGA et al. NEJM 2020: Conservative vs interventional treatment for PSP.",
+    "Roberts ME et al. BTS Pleural Guideline 2023.",
+    "Tschopp JM et al. ERS Task Force Statement on PSP. Eur Respir J 2015.",
+    "Carson\u2011Chahhoud KV et al. Cochrane 2017: Simple aspiration vs intercostal tube drainage for PSP.",
+    "Chang SH et al. Chest 2018: Pigtail catheter vs chest tube meta\u2011analysis.",
+    "Hallifax RJ et al. Lancet 2020: Ambulatory management of PSP (RAMMP trial).",
+    "Dugan KC et al. Chest 2017: Management of persistent air leaks.",
+    "Bhatnagar R et al. JAMA 2020: Talc poudrage vs slurry (TAPPS).",
+    "Cao G et al. Ann Thorac Surg 2012: ABP for PAL in COPD/SSP.",
+    "Travaline JM et al. Chest 2009; Gilbert CR et al. Ann Thorac Surg 2016: EBV for PAL.",
+    "Barker A et al. Lancet 2007; Sudduth CL et al. J Surg Res 2017: Surgical techniques and recurrence."
+  ],
+  "summary": {
+    "clinical_applications": [
+      "Adopt an ultrasound\u2011first diagnostic workflow where feasible.",
+      "Integrate conservative, ambulatory, and minimally invasive strategies tailored to patient stability, preferences, and system capacity.",
+      "Standardize PAL pathways with early surgical consultation and defined criteria for chemical/mechanical pleurodesis and EBVs."
+    ],
+    "practice_recommendations": [
+      "Stable PSP: consider observation with close outpatient follow\u2011up.",
+      "When intervening, favor NA or small\u2011bore chest tubes; consider ambulatory drainage for appropriate patients.",
+      "Use graded talc for chemical pleurodesis when indicated; consider ABP or EBV for PAL in non\u2011surgical candidates.",
+      "Immediate needle decompression for suspected tension pneumothorax."
+    ],
+    "future_directions": [
+      "Randomized trials comparing pleurodesis techniques and timing for PAL.",
+      "Standardized digital air\u2011leak quantification and thresholds for tube removal.",
+      "Refinement of selection criteria for ambulatory management and EBV use."
+    ],
+    "controversies": [
+      "Optimal first\u2011line intervention (NA vs chest tube) in varied health\u2011system contexts.",
+      "Timing and selection of pleurodesis vs surgical approaches for PAL.",
+      "Ambulatory management trade\u2011offs between LOS benefits and device\u2011related adverse events."
+    ]
+  },
+  "extraction_metadata": {
+    "source_pdf": "Textbooks/Chapter pdfs/Pneumothorax.pdf",
+    "adobe_json": "Textbooks/Chapter json/Pneumothorax.json",
+    "extraction_date": "2025-08-21T17:21:52.128162",
+    "text_pages": 11,
+    "chunks_processed": 2,
+    "model": "gpt-5",
+    "schema_version": "gold_standard_v1.0"
+  },
+  "risk_models": [],
+  "guideline_adherence": {},
+  "technology_and_technique": [],
+  "conclusion": {
+    "points": [
+      "Pneumothorax management continues to evolve toward symptom\u2011 and physiology\u2011guided care with growing roles for conservative and ambulatory strategies.",
+      "POCUS enables rapid diagnosis and safer chest\u2011tube decision\u2011making; small\u2011bore tubes are generally preferred.",
+      "PAL requires structured, multidisciplinary pathways; VATS with adjunct pleurodesis, talc, ABP, and EBVs are key tools.",
+      "Tension pneumothorax demands immediate needle decompression and definitive drainage."
+    ],
+    "reference": "[Chapter Conclusion]"
+  },
+  "incidence_by_procedure": [
+    {
+      "procedure": "Transthoracic needle biopsy",
+      "pneumothorax_rate": "4.3\u201352.4%",
+      "meta_pooled": "25.9%"
+    },
+    {
+      "procedure": "Central venous catheter placement",
+      "pneumothorax_rate": "1\u20136%"
+    },
+    {
+      "procedure": "Thoracentesis (ultrasound\u2011guided)",
+      "pneumothorax_rate": "0.3\u20133.0%"
+    },
+    {
+      "procedure": "Mechanical ventilation",
+      "pneumothorax_rate": "1\u201315%"
+    },
+    {
+      "procedure": "Transbronchial lung biopsy",
+      "pneumothorax_rate": "0.53\u20138%"
+    }
+  ]
+}

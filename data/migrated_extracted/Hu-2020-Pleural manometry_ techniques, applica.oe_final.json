@@ -1,0 +1,63 @@
+{
+  "source": {
+    "document_id": "Hu-2020-Pleural manometry_ techniques, applica",
+    "ingest_date": "2025-08-08T13:22:50.335642+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.21037/jtd.2020.04.04"
+  },
+  "document": {
+    "metadata": {
+      "title": "Pleural manometry: techniques, applications, and pitfalls",
+      "year": 2020,
+      "authors": [
+        "Kurt Hu",
+        "Amit Chopra",
+        "John Terrill Huggins",
+        "Rahul Nanchal"
+      ],
+      "journal": "Journal of Thoracic Disease",
+      "doi": "10.21037/jtd.2020.04.04",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Pleural manometry (PM) is a novel tool that allows direct measurement of the pressure in the pleural space in the presence of either a pleural effusion or a pneumothorax. Originally it was used to guide therapy for tuberculosis (TB) before the development of anti-TB medications. It was relegated to highly specialized centers for thoracoscopies until Light used it to investigate pleural effusions in the 1980s. However, there remains lack of robust data to support the routine use of PM. Recently additional published studies have generated renewed interest supporting the use of PM in specialized cases of complex pleural disorders. In this paper we summarize the current different techniques, applications, and pitfalls for the use of PM.",
+      "methods": "Narrative review. The authors describe pleural manometry techniques (hemodynamic electronic transducer systems, digital manometer, and U-tube water manometer), setup considerations (zeroing, dampening, measurement timing), and other continuous-measurement approaches. They summarize pathophysiologic principles (pleural elastance, pressure-volume curves) and compile key observational and randomized data relevant to clinical applications (non-expandable lung diagnosis, large-volume thoracentesis guidance, pleurodesis in malignant pleural effusions, selected pneumothorax management). No systematic search, predefined inclusion criteria, or meta-analysis was reported.",
+      "results": "Key points summarized: Hemodynamic electronic transducer and digital manometer measurements show strong linear correlation (r=0.9582, p<0.001), while undampened U-tube and electronic transducer correlate poorly (r=0.448, p=0.84), noting that dampening improves agreement. Normal pleural elastance range is reported as 0.5 to 14.5 cmH2O/L based on modeling and observational data. Pressure-volume curve patterns differentiate normal expansion (monophasic, low elastance), lung entrapment (biphasic), and trapped lung (monophasic, high elastance). For large-volume thoracentesis, suggested stopping criteria include absolute pleural pressure below -20 cmH2O or a change >10 cmH2O between aliquots reaching \u2264 -10 cmH2O. The review highlights that routine PM use lacks robust evidence but may aid in selected complex pleural disorders."
+    }
+  },
+  "clinical_extraction": {
+    "document_id": "e8f9d80f8cb6",
+    "title": "Pleural manometry: techniques, applications, and pitfalls",
+    "document_type": "research",
+    "diagnostic_yields": {},
+    "complication_rates": {},
+    "methodology": {},
+    "clinical_pearls": [],
+    "indications": [],
+    "contraindications": [],
+    "patient_selection": {
+      "inclusion_criteria": [],
+      "exclusion_criteria": [],
+      "ideal_candidate": null
+    },
+    "equipment": [],
+    "key_findings": [],
+    "practical_tips": [
+      "suggested stopping criteria include absolute pleural pressure below -20 cmH2O or a change >10 cmH2O between aliquots reaching \u2264 -10 cmH2O."
+    ],
+    "extraction_confidence": 0.5,
+    "has_numerical_data": false,
+    "original_extraction": null
+  },
+  "migration_info": {
+    "migrated_at": "2025-08-22T09:42:46.330471",
+    "original_structure": "oe_final",
+    "migration_type": "restructure"
+  },
+  "original_sections": {
+    "abstract": "Pleural manometry (PM) is a novel tool that allows direct measurement of the pressure in the pleural space in the presence of either a pleural effusion or a pneumothorax. Originally it was used to guide therapy for tuberculosis (TB) before the development of anti-TB medications. It was relegated to highly specialized centers for thoracoscopies until Light used it to investigate pleural effusions in the 1980s. However, there remains lack of robust data to support the routine use of PM. Recently additional published studies have generated renewed interest supporting the use of PM in specialized cases of complex pleural disorders. In this paper we summarize the current different techniques, applications, and pitfalls for the use of PM.",
+    "methods": "Narrative review. The authors describe pleural manometry techniques (hemodynamic electronic transducer systems, digital manometer, and U-tube water manometer), setup considerations (zeroing, dampening, measurement timing), and other continuous-measurement approaches. They summarize pathophysiologic principles (pleural elastance, pressure-volume curves) and compile key observational and randomized data relevant to clinical applications (non-expandable lung diagnosis, large-volume thoracentesis guidance, pleurodesis in malignant pleural effusions, selected pneumothorax management). No systematic search, predefined inclusion criteria, or meta-analysis was reported.",
+    "results": "Key points summarized: Hemodynamic electronic transducer and digital manometer measurements show strong linear correlation (r=0.9582, p<0.001), while undampened U-tube and electronic transducer correlate poorly (r=0.448, p=0.84), noting that dampening improves agreement. Normal pleural elastance range is reported as 0.5 to 14.5 cmH2O/L based on modeling and observational data. Pressure-volume curve patterns differentiate normal expansion (monophasic, low elastance), lung entrapment (biphasic), and trapped lung (monophasic, high elastance). For large-volume thoracentesis, suggested stopping criteria include absolute pleural pressure below -20 cmH2O or a change >10 cmH2O between aliquots reaching \u2264 -10 cmH2O. The review highlights that routine PM use lacks robust evidence but may aid in selected complex pleural disorders."
+  }
+}

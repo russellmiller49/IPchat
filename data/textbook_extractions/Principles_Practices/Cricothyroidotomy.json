@@ -1,0 +1,756 @@
+{
+  "detail_level": "detailed",
+  "chapter_metadata": {
+    "title": "Cricothyroidotomy",
+    "authors": [
+      "Joshua B. Silverman"
+    ],
+    "chapter_number": null,
+    "learning_objectives": [],
+    "key_points": [
+      "Cricothyroidotomy is the quickest route to stabilize the airway when intubation fails.",
+      "Surgical airway is the endpoint of difficult airway algorithms.",
+      "In children <10–12 years, needle cricothyroidotomy is preferred; convert to tracheostomy as soon as feasible."
+    ],
+    "page_range": {
+      "start": 1,
+      "end": 9
+    },
+    "reference": "[Chapter Text]"
+  },
+  "definitions": [
+    {
+      "content": "Cricothyroidotomy is the creation of a surgical opening through the cricothyroid membrane and placement of a tube for ventilation."
+    }
+  ],
+  "anatomical_content": {
+    "structures": [
+      {
+        "name": "Cricothyroid (CT) membrane",
+        "dimensions": "~10 mm height; 22–33 mm width",
+        "notes": "Incise lower half to avoid branches of cricothyroid artery."
+      },
+      {
+        "name": "Cricothyroid artery",
+        "notes": "Usually traverses superior half of CT membrane; small branches penetrate membrane."
+      },
+      {
+        "name": "Thyroid cartilage / cricoid cartilage",
+        "notes": "CT membrane lies between; vocal folds ~10 mm above superior aspect of CT membrane."
+      },
+      {
+        "name": "Anterior jugular veins",
+        "notes": "Avoid by vertical midline skin incision."
+      },
+      {
+        "name": "Thyroid isthmus",
+        "notes": "Typically below level of CT membrane dissection."
+      }
+    ]
+  },
+  "technology_and_technique": [
+    {
+      "topic": "Technique options",
+      "summary": "Needle (temporizing in adults), open surgical, rapid 4‑step technique (faster but more complications in models), and percutaneous Seldinger‑based; operator training drives success."
+    },
+    {
+      "topic": "Landmarks & safety",
+      "summary": "Vertical midline skin incision; horizontal incision in lower half of CT membrane; use tube OD ≤8 mm; confirm with CO₂ and breath sounds."
+    },
+    {
+      "topic": "Pediatric considerations",
+      "summary": "Prefer needle cricothyroidotomy if <10–12 years; avoid surgical cricothyroidotomy; convert to tracheostomy early."
+    }
+  ],
+  "clinical_procedures": [
+    {
+      "name": "Needle cricothyroidotomy (temporizing, adults)",
+      "steps": [
+        "Identify CT membrane via midline palpation; alternative: 3–4 fingerbreadths above suprasternal notch with neck neutral.",
+        "Use large-bore catheter-over-needle (e.g., 14-g) attached to syringe partially filled with saline/water.",
+        "Advance at ~45° angle caudally through skin and CT membrane while aspirating; air bubbles confirm entry.",
+        "Withdraw needle, leave cannula; connect oxygen tubing.",
+        "Deliver oxygen at 10–12 L/min; use Y-connector to allow periodic CO₂ release."
+      ],
+      "notes": "In adults, inadequate ventilation for CO₂ clearance—use only as a bridge to surgical cricothyroidotomy or tracheostomy.",
+      "source_pages": [
+        5
+      ]
+    },
+    {
+      "name": "Open surgical cricothyroidotomy (standard)",
+      "steps": [
+        "Prep anterior neck from mandible angle to sternal notch; maintain sterile technique; position with mandible anteriorly displaced.",
+        "Stabilize larynx with thumb and long finger; use index finger to palpate and reidentify CT membrane throughout.",
+        "Make a 2 cm midline vertical skin incision over CT membrane, staying strictly in midline to avoid anterior jugular veins.",
+        "Palpate CT membrane through incision and make a horizontal incision in the lower half of the membrane.",
+        "Insert cricoid hook and apply gentle upward traction on cricoid; avoid traction on thyroid to protect vocal folds.",
+        "Dilate cephalocaudally using Trousseau dilator or Kelly clamp to enlarge the opening.",
+        "Insert tested tracheostomy or endotracheal tube (outer diameter ≤8 mm) at ~90° between dilator blades; rotate counterclockwise to seat against the neck.",
+        "Confirm placement with end-tidal CO₂ return and bilateral breath sounds; secure tube to neck with suture."
+      ],
+      "notes": "Equipment bundle: scalpel no. 15; hemostats ×2; cricoid hook; 14-g needle + cannula, 6-cc syringe; Trousseau dilator/Kelly; cuffed no. 4 trach tube; cuffed no. 5 ETT; gauze; Betadine; drapes.",
+      "source_pages": [
+        6,
+        7
+      ]
+    },
+    {
+      "name": "Rapid 4‑Step Technique (RFST)",
+      "steps": [
+        "Operator at head of bed; identify landmarks and stabilize.",
+        "Horizontal stab incision through skin, subcutaneous tissue, and CT membrane to access airway.",
+        "Stabilize larynx by hooking cricoid cartilage; apply upward traction.",
+        "Insert tracheostomy tube as per standard technique and confirm placement."
+      ],
+      "notes": "Approx. one‑third the time of standard technique in cadaver trials, but higher complication rate (e.g., cricoid fractures).",
+      "source_pages": [
+        7
+      ]
+    },
+    {
+      "name": "Percutaneous (Seldinger-based) cricothyroidotomy",
+      "steps": [
+        "Small vertical skin incision over CT membrane; stabilize larynx with nondominant hand.",
+        "Advance 18‑gauge needle with syringe through CT membrane; aspirate air to confirm airway entry.",
+        "Insert guide wire; remove needle without dislodging wire.",
+        "Advance cannula/dilator over wire into airway; seat cannula; remove dilator and wire."
+      ],
+      "notes": "Ease for non‑surgeons familiar with wire‑guided access; literature shows mixed results vs. open technique (complications/time/success vary by operator experience).",
+      "source_pages": [
+        7
+      ]
+    }
+  ],
+  "diagnostic_approaches": [
+    {
+      "name": "ASA Difficult Airway Definition",
+      "purpose": "Define/classify a difficult airway scenario",
+      "criteria_or_scoring": [
+        "“the clinical situation in which a conventionally trained anesthesiologist experiences difficulty with face mask ventilation",
+        "difficulty with tracheal intubation",
+        "or both”"
+      ],
+      "how_to_perform": null,
+      "interpretation": "If difficulty with mask ventilation or tracheal intubation occurs, classify as a difficult airway.",
+      "limitations": null,
+      "when_to_use": "When assessing airway difficulty in patients",
+      "source_page": 2,
+      "source_excerpt": "A difﬁcult airway is “the clinical situation in which a conventionally trained anesthesiologist experiences difﬁculty with face mask ventilation, difﬁculty with tracheal intubation, or both” [1].",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[1]"
+    },
+    {
+      "name": "Palpation via thyroid notch to identify cricothyroid membrane",
+      "purpose": "Identify the cricothyroid membrane for airway access",
+      "criteria_or_scoring": [
+        "Located inferior to thyroid cartilage border and superior to cricoid cartilage"
+      ],
+      "how_to_perform": "Slide a finger down the thyroid cartilage to identify the membrane position between cartilages.",
+      "interpretation": "Membrane is identified when palpated between thyroid and cricoid cartilages.",
+      "limitations": [
+        "In patients with significant neck edema or trauma",
+        "or in obese patients",
+        "landmarks may not be palpable."
+      ],
+      "when_to_use": "Before cricothyroidotomy to locate the CT membrane",
+      "source_page": 3,
+      "source_excerpt": "sliding a ﬁnger down the thyroid cartilage, the cricothyroid membrane can be identiﬁed just inferior to the border of this cartilage and superior to the cricoid cartilage",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Alternative landmark: suprasternal notch distance to CT membrane",
+      "purpose": "Estimate CT membrane location when landmarks are difficult to palpate",
+      "criteria_or_scoring": [
+        "Suprasternal notch is typically three to four fingerbreadths below the CT membrane"
+      ],
+      "how_to_perform": "Use suprasternal notch and measure three to four fingerbreadths upward with the neck neutral.",
+      "interpretation": "CT membrane lies three to four fingerbreadths above the suprasternal notch.",
+      "limitations": null,
+      "when_to_use": "When edema, trauma, or obesity obscures anterior neck landmarks",
+      "source_page": 3,
+      "source_excerpt": "An alternative landmark is the suprasternal notch, which is typically three to four ﬁngerbreadths below the CT membrane with the neck in neutral position.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Syringe aspiration air bubbles to confirm CT membrane puncture",
+      "purpose": "Confirm airway entry during needle cricothyroidotomy",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Advance needle at a 45° angle pointing inferiorly; aspirate to detect air bubbles after passing the CT membrane.",
+      "interpretation": "Air bubbles in the syringe indicate entry into the airway.",
+      "limitations": null,
+      "when_to_use": "During needle cricothyroidotomy to verify placement",
+      "source_page": 5,
+      "source_excerpt": "advanced through the skin at a 45° angle pointing inferiorly. When the needle pushes through the CT membrane, aspiration will reveal air bubbles within the syringe.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Three-finger laryngeal stabilization and CT membrane palpation",
+      "purpose": "Locate and reidentify the CT membrane during surgical cricothyroidotomy",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Immobilize larynx with thumb and long finger; use index finger to palpate and reidentify the CT membrane.",
+      "interpretation": "Tactile confirmation of CT membrane location.",
+      "limitations": null,
+      "when_to_use": "During surgical cricothyroidotomy landmark identification",
+      "source_page": 6,
+      "source_excerpt": "the larynx is ﬁrmly immobilized by the thumb and long ﬁnger, with the index ﬁnger free to palpate, locate, and reidentify the cricothyroid (CT) membrane",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Palpation of cricothyroid (CT) membrane through incision",
+      "purpose": "Reconfirm CT membrane position before proceeding",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Index finger palpates the CT membrane through the incision while larynx is pinned in midline.",
+      "interpretation": "Reconfirmation of CT membrane position.",
+      "limitations": null,
+      "when_to_use": "After skin incision while stabilizing larynx.",
+      "source_page": 7,
+      "source_excerpt": "the index finger palpates the CT membrane through the incision, reconfirming its position and planning the following steps.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 9
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Capnography (CO2 return) to confirm tube placement",
+      "purpose": "Confirm proper placement of tracheostomy or endotracheal tube",
+      "criteria_or_scoring": [
+        "Presence of CO2 return"
+      ],
+      "how_to_perform": "Use monitoring equipment to detect CO2 return.",
+      "interpretation": "CO2 return indicates proper placement.",
+      "limitations": null,
+      "when_to_use": "Before securing tube to neck with suture.",
+      "source_page": 7,
+      "source_excerpt": "proper placement should be confirmed by both the presence of CO2 return on the monitoring equipment and successful auscultation of breath sounds.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 9
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Auscultation of breath sounds to confirm tube placement",
+      "purpose": "Confirm proper placement of tracheostomy or endotracheal tube",
+      "criteria_or_scoring": [
+        "Successful auscultation of breath sounds"
+      ],
+      "how_to_perform": "Auscultate for breath sounds after tube insertion.",
+      "interpretation": "Breath sounds indicate proper placement.",
+      "limitations": null,
+      "when_to_use": "Before securing tube to neck with suture.",
+      "source_page": 7,
+      "source_excerpt": "proper placement should be confirmed by both the presence of CO2 return on the monitoring equipment and successful auscultation of breath sounds.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 9
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Aspiration of air via syringe during percutaneous cricothyroidotomy",
+      "purpose": "Confirm proper needle position within the airway",
+      "criteria_or_scoring": [
+        "Aspiration of air"
+      ],
+      "how_to_perform": "Introduce an 18-gauge needle with syringe through the CT membrane; confirm by aspirating air.",
+      "interpretation": "Air aspiration confirms proper positioning.",
+      "limitations": null,
+      "when_to_use": "During percutaneous cricothyroidotomy after landmark identification and laryngeal fixation.",
+      "source_page": 7,
+      "source_excerpt": "an 18-gauge needle attached to a syringe is introduced through the CT membrane, and proper positioning is confirmed with aspiration of air.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 9
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Point-of-care ultrasound to identify the cricothyroid membrane",
+      "purpose": "Identify CT membrane anatomy prior to cricothyroidotomy",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Use handheld point-of-care ultrasound in the emergency setting.",
+      "interpretation": "Ultrasound identifies the cricothyroid membrane.",
+      "limitations": null,
+      "when_to_use": "Prior to cricothyroidotomy.",
+      "source_page": 8,
+      "source_excerpt": "Using point-of-care ultrasound can identify the cricothyroid membrane prior to cricothyroidotomy and potentially decrease complications.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 9
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Flexible endoscopy or formal bronchoscopy after surgical access",
+      "purpose": "Examine the airway for causes of obstruction",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Perform flexible endoscopy or formal bronchoscopy after access is stabilized.",
+      "interpretation": "Identifies airway pathology; reversible causes can then be addressed.",
+      "limitations": null,
+      "when_to_use": "After surgical access is stabilized.",
+      "source_page": 8,
+      "source_excerpt": "the airway should be examined either by flexible endoscopy or formal bronchoscopy.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 9
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Postoperative chest x-ray",
+      "purpose": "Rule out pneumothorax or pneumomediastinum",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Obtain chest x-ray postoperatively.",
+      "interpretation": "Identifies presence or absence of pneumothorax or pneumomediastinum.",
+      "limitations": null,
+      "when_to_use": "Postoperative period after cricothyroidotomy.",
+      "source_page": 8,
+      "source_excerpt": "Postoperative chest x-ray is important to rule out pneumothorax or pneumomediastinum.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 9
+      },
+      "reference": "[Chapter Text]"
+    }
+  ],
+  "clinical_guidelines": [
+    {
+      "title": "Emergency difficult airway endpoint",
+      "condition": "Cannot intubate and ventilate",
+      "source_organization": "ASA (2003)",
+      "specific_recommendations": [
+        "If inability to intubate AND ventilate is determined, proceed immediately to surgical airway.",
+        "Avoid repeated intubation attempts that increase morbidity and mortality."
+      ],
+      "source_pages": [
+        4
+      ]
+    },
+    {
+      "title": "Pediatric airway selection",
+      "condition": "Children",
+      "specific_recommendations": [
+        "Age <10 years: surgical cricothyroidotomy is strongly contraindicated.",
+        "Age <10–12 years: prefer needle cricothyroidotomy with percutaneous transtracheal ventilation; convert to tracheostomy as soon as feasible."
+      ],
+      "source_pages": [
+        5
+      ]
+    },
+    {
+      "title": "Elective candidacy (avoid)",
+      "condition": "Elective cricothyroidotomy",
+      "specific_recommendations": [
+        "Avoid elective cricothyroidotomy after prolonged intubation (>5–7 days).",
+        "Avoid if laryngeal inflammation/infection or history of laryngeal trauma is present.",
+        "Consider tracheostomy as alternative for long‑term access."
+      ],
+      "source_pages": [
+        4,
+        5
+      ]
+    },
+    {
+      "title": "Relative contraindications",
+      "condition": "Risk conditions for surgical cricothyroidotomy",
+      "specific_recommendations": [
+        "Severe neck trauma/edema or expanding neck hematoma (landmarks obscured).",
+        "Known upper tracheal pathology—consider lower tracheostomy if anatomic barrier exists."
+      ],
+      "source_pages": [
+        5
+      ]
+    },
+    {
+      "title": "Intra‑procedure safety",
+      "condition": "Open surgical cricothyroidotomy",
+      "specific_recommendations": [
+        "Vertical midline skin incision to avoid anterior jugular veins.",
+        "Horizontal incision through LOWER half of CT membrane to avoid cricothyroid artery branches.",
+        "Use tube with outer diameter ≤8 mm; confirm with CO₂ and auscultation before securing."
+      ],
+      "source_pages": [
+        6,
+        7
+      ]
+    },
+    {
+      "title": "Postoperative management",
+      "condition": "After cricothyroidotomy",
+      "specific_recommendations": [
+        "Examine airway with flexible endoscopy/bronchoscopy for reversible causes.",
+        "Obtain postoperative chest x‑ray to rule out pneumothorax/pneumomediastinum.",
+        "Initiate tracheostomy‑style tube care: humidification, inner cannula cleaning, suctioning, cuff‑pressure monitoring, skin care.",
+        "If access anticipated >48–72 h, consider conversion to tracheostomy; evidence for routine conversion is mixed."
+      ],
+      "source_pages": [
+        8
+      ]
+    }
+  ],
+  "risk_models": [],
+  "tables": [
+    {
+      "id": "table1_equipment",
+      "title": "Equipment for emergency cricothyroidotomy",
+      "columns": [
+        "item"
+      ],
+      "rows": [
+        [
+          "Scalpel with no. 15 blade"
+        ],
+        [
+          "Hemostats ×2"
+        ],
+        [
+          "Cricoid hook"
+        ],
+        [
+          "14‑g needle with cannula; 6‑cc syringe with saline"
+        ],
+        [
+          "Trousseau dilator or Kelly clamp"
+        ],
+        [
+          "Cuffed no. 4 tracheostomy tube (tested cuff)"
+        ],
+        [
+          "Cuffed no. 5 endotracheal tube (tested cuff)"
+        ],
+        [
+          "Gauze"
+        ],
+        [
+          "Betadine; surgical drapes"
+        ]
+      ],
+      "source_page": 5,
+      "locator": {
+        "page": 4,
+        "bbox": [
+          305.02799999999115,
+          283.40699999999197,
+          544.2979999999807,
+          390.80199999999604
+        ],
+        "asset": "tables/fileoutpart3.xlsx"
+      }
+    }
+  ],
+  "figures": [
+    {
+      "id": "Fig 1",
+      "caption": "Fig. 1 Anterior neck landmarks for cricothyroidotomy. (From Montgomery W. Surgery of the Larynx, Trachea and Esophagus. Philadelphia: Elsevier; 2002, p. 261. Reprinted with permission from Elsevier)",
+      "page": 3,
+      "keywords": [
+        "anterior neck",
+        "CT membrane",
+        "landmarks"
+      ],
+      "locator": {
+        "BBox": [
+          200.2719999999972,
+          89.01459999999861,
+          544.2979999999807,
+          491.59799999999814
+        ],
+        "asset": "figures/fileoutpart1.png",
+        "adobe_page": 2
+      }
+    },
+    {
+      "id": "Fig 2",
+      "caption": "Fig. 2 Needle cricothyroidotomy",
+      "page": 5,
+      "keywords": [
+        "needle cricothyroidotomy",
+        "temporizing ventilation"
+      ],
+      "locator": {
+        "BBox": [
+          52.19789999999921,
+          277.76699999999255,
+          543.2179999999935,
+          731.3479999999981
+        ],
+        "asset": "figures/fileoutpart4.png",
+        "adobe_page": 5
+      }
+    },
+    {
+      "id": "Fig 3",
+      "caption": "Fig. 3 Technique for surgical cricothyroidotomy. (a) Neck preparation, positioning, and landmark identiﬁcation. (b) Skin and cricothyroid membrane incisions. (c) Exposure and dilation of cricothyroid mem- brane opening. (d) Insertion of an appropriate cannula. (From Hagberg CA. Surgical airway. In: Benumof’s Airway Management. Philadelphia: Elsevier; 2007; p. 686–90. Reprinted with permission from Elsevier)",
+      "page": 6,
+      "keywords": [
+        "open surgical cricothyroidotomy",
+        "steps"
+      ],
+      "locator": {
+        "BBox": [
+          52.19789999999921,
+          277.76699999999255,
+          543.2179999999935,
+          731.3479999999981
+        ],
+        "asset": "figures/fileoutpart4.png",
+        "adobe_page": 5
+      }
+    }
+  ],
+  "complications": [
+    "Early: failure to establish airway, hemorrhage, aspiration, pneumothorax, pneumomediastinum, esophageal perforation, vocal fold injury, laryngeal disruption.",
+    "Long‑term: laryngotracheal stenosis, aspiration, dysphagia, dysphonia (voice change), TE fistula, infection, delayed hemorrhage, laryngo‑cutaneous fistula, tracheomalacia, tube obstruction."
+  ],
+  "clinical_presentation": [
+    "Inability to intubate and ventilate; upper airway obstruction (trauma, edema, burns, foreign body, stenosis, extrinsic compression)."
+  ],
+  "management": [
+    "Surgical airway is endpoint of difficult airway algorithms; do not delay once inability to intubate and ventilate is established.",
+    "Technique selection depends on age, anatomy, operator expertise, and available equipment.",
+    "Postoperative care mirrors tracheostomy care; consider conversion to tracheostomy when prolonged access is anticipated (>48–72 h)."
+  ],
+  "treatment_algorithm": {
+    "id": "cricothyroidotomy_emergency_airway_algorithm",
+    "nodes": [
+      {
+        "id": "start",
+        "label": "Cannot intubate AND cannot ventilate (adult)"
+      },
+      {
+        "id": "identify",
+        "label": "Identify CT membrane (palpation; backup: 3–4 fingerbreadths above suprasternal notch)"
+      },
+      {
+        "id": "choose",
+        "label": "Choose technique"
+      },
+      {
+        "id": "needle",
+        "label": "Needle cricothyroidotomy (temporizing)"
+      },
+      {
+        "id": "open",
+        "label": "Open surgical cricothyroidotomy"
+      },
+      {
+        "id": "percutaneous",
+        "label": "Percutaneous (Seldinger) cricothyroidotomy"
+      },
+      {
+        "id": "confirm",
+        "label": "Confirm CO₂ return + bilateral breath sounds"
+      },
+      {
+        "id": "postop",
+        "label": "Post‑procedure care and imaging"
+      },
+      {
+        "id": "peds",
+        "label": "Pediatric pathway (<10–12 years): needle cric + transtracheal ventilation → convert to trach"
+      }
+    ],
+    "edges": [
+      {
+        "from": "start",
+        "to": "identify"
+      },
+      {
+        "from": "identify",
+        "to": "choose"
+      },
+      {
+        "from": "choose",
+        "to": "open",
+        "condition": "Operator trained; anatomy accessible"
+      },
+      {
+        "from": "choose",
+        "to": "percutaneous",
+        "condition": "Operator experience with Seldinger; kit available"
+      },
+      {
+        "from": "choose",
+        "to": "needle",
+        "condition": "Need temporizing oxygenation (adult) OR pediatric patient"
+      },
+      {
+        "from": "open",
+        "to": "confirm"
+      },
+      {
+        "from": "percutaneous",
+        "to": "confirm"
+      },
+      {
+        "from": "needle",
+        "to": "confirm",
+        "condition": "When converted to definitive airway"
+      },
+      {
+        "from": "confirm",
+        "to": "postop"
+      },
+      {
+        "from": "choose",
+        "to": "peds",
+        "condition": "Age <10–12 years"
+      }
+    ],
+    "summary": [
+      "In a cannot‑intubate/cannot‑ventilate scenario, proceed directly to surgical airway.",
+      "Adults: select open vs percutaneous technique based on training and availability; needle cricothyroidotomy is a bridge.",
+      "Children <10–12 years: perform needle cricothyroidotomy and convert to tracheostomy promptly.",
+      "After airway secured, confirm with CO₂ and auscultation; obtain chest x‑ray and initiate tube/skin care; consider conversion to tracheostomy if >48–72 h."
+    ]
+  },
+  "performance_metrics": [
+    {
+      "context": "Complications (emergent)",
+      "metric": "Overall complication rate",
+      "value": "10–40%",
+      "source_pages": [
+        8
+      ]
+    },
+    {
+      "context": "Complications (elective)",
+      "metric": "Overall complication rate",
+      "value": "6–8%",
+      "source_pages": [
+        8
+      ]
+    },
+    {
+      "context": "Technique comparison (cadaver)",
+      "metric": "Success rate: Seldinger vs. standard",
+      "value": "93% vs 84–86%",
+      "source_pages": [
+        7
+      ]
+    },
+    {
+      "context": "Technique comparison (study)",
+      "metric": "Success rate: percutaneous vs surgical",
+      "value": "71% vs 100%",
+      "source_pages": [
+        7
+      ]
+    }
+  ],
+  "risk_factors": {
+    "subglottic_stenosis": {
+      "increases": [
+        "Underlying laryngeal pathology",
+        "Prolonged endotracheal intubation",
+        "Airway obstruction after previous intubation",
+        "Pediatric patients"
+      ],
+      "notes": "Risk higher with elective cricothyroidotomy in the presence of laryngeal inflammation or after prolonged intubation."
+    },
+    "incorrect_tube_placement": {
+      "increases": [
+        "Inaccurate landmark identification",
+        "Not stabilizing larynx in midline"
+      ],
+      "decreases": [
+        "Vertical skin incision in midline",
+        "Repeated landmark palpation",
+        "CO₂ confirmation and bilateral auscultation"
+      ],
+      "notes": "Historic reports cite misplacement through the thyrohyoid membrane as a cause."
+    },
+    "bleeding": {
+      "increases": [
+        "Injury to superficial veins",
+        "Incision into superior half of CT membrane"
+      ],
+      "decreases": [
+        "Vertical midline skin incision",
+        "Horizontal incision in lower half of CT membrane"
+      ]
+    }
+  },
+  "prognosis": [
+    "When performed promptly by trained operators, high success with acceptable complication rates; risk rises with delays and misplacement."
+  ],
+  "conclusion": {
+    "points": [
+      "Cricothyroidotomy is rapid, effective, and often life‑saving when intubation fails.",
+      "Complication rates are acceptable when performed by trained operators and compare favorably with emergency tracheostomy.",
+      "Elective use requires careful selection; avoid when laryngeal inflammation or prolonged intubation is present."
+    ],
+    "reference": "[Chapter Conclusion]"
+  },
+  "references": [
+    {
+      "citation": "Tracheostomy, while still preferred for long-term airway management, has a higher complication rate than cricothyroidotomy when performed on an emergent basis and thus should be performed in a more controlled setting [16].",
+      "authors": [],
+      "year": null,
+      "journal": null,
+      "doi_pmid": null,
+      "study_type": null,
+      "key_findings": "Emergent tracheostomy has a higher complication rate than cricothyroidotomy; should be done in a controlled setting.",
+      "source_page": 1,
+      "source_excerpt": "higher complication rate than cricothyroidotomy when performed on an emergent basis ... controlled setting [16].",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[16]"
+    },
+    {
+      "citation": "American Society of Anesthesiologists Task Force on Management of the Difﬁcult Airway. Practice guidelines for management of the difﬁcult airway: an updated report by the American Society of Anesthesiologists Task Force on Management of the Difﬁcult Air- way. Anesthesiology. 2003;98(5):1269–77.",
+      "authors": [
+        "American Society of Anesthesiologists Task Force on Management of the Difﬁcult Airway"
+      ],
+      "year": 2003,
+      "journal": "Anesthesiology.",
+      "doi_pmid": null,
+      "study_type": null,
+      "key_findings": null,
+      "source_page": 9,
+      "source_excerpt": "American Society of Anesthesiologists Task Force on Management of the Difﬁcult Airway. Practice guidelines for management of the difﬁcult airway: an updated report by the American Society",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 9
+      },
+      "reference": "[Chapter Text]"
+    }
+  ]
+}

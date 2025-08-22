@@ -1,0 +1,266 @@
+{
+  "chapter_metadata": {
+    "title": { "value": "Emerging Bronchoscopic Therapies for Lung Disease: Targeted Lung Denervation, Rheoplasty, and Spray Cryotherapy", "present_in_source": true },
+    "authors": ["Judith Maria Brock"],
+    "chapter_number": { "value": "56-1", "present_in_source": true },
+    "learning_objectives": [],
+    "key_points": [
+      "Targeted lung denervation (TLD) ablates parasympathetic vagal fibers with radiofrequency to reduce bronchoconstriction and exacerbations in COPD.",
+      "Bronchial rheoplasty applies non-thermal pulsed electrical energy to ablate goblet cells and reduce sputum burden in chronic bronchitis.",
+      "Spray cryotherapy delivers metered liquid nitrogen at approximately −196 °C to ablate abnormal mucosa and reduce mucus hypersecretion.",
+      "Careful phenotype-based selection is essential: TLD for frequent exacerbators; rheoplasty and spray cryotherapy for chronic bronchitis with high symptom burden.",
+      "Preprocedure CT is required for TLD to assess bronchial anatomy and exclude severe emphysema (emphysema index >50% at −950 HU)."
+    ],
+    "page_range": { "start": 1, "end": 7 },
+    "reference": "[Chapter Text]"
+  },
+  "anatomical_content": {
+    "structures": [
+      "Main bronchi",
+      "Bronchial mucosa (goblet cells)",
+      "Airway smooth muscle",
+      "Parasympathetic vagal fibers",
+      "Submucosa and cartilage"
+    ]
+  },
+  "clinical_procedures": [
+    {
+      "name": "Targeted Lung Denervation (TLD)",
+      "steps": [
+        "General anesthesia; insert dual-cooled radiofrequency catheter via bronchoscope.",
+        "Position catheter circumferentially in each main bronchus to ablate vagal fibers at four positions.",
+        "Use esophageal balloon with contrast to maintain distance from esophagus and avoid gastric vagal ablation.",
+        "Energy selection based on anatomy (26–32 W); radiofrequency activation for 120 s followed by 30 s postcooling.",
+        "Administer prophylactic antibiotics and corticosteroids; typical total procedure time ≈74 min."
+      ],
+      "notes": [
+        "Device received CE mark in 2016 (Europe).",
+        "Possible adverse events: COPD exacerbation, pulmonary infection, airway mucosal damage, gastrointestinal side effects."
+      ]
+    },
+    {
+      "name": "Bronchial Rheoplasty",
+      "steps": [
+        "Under general anesthesia, perform two sessions: right lung then 4–6 weeks later left lung.",
+        "Reduce FiO2 to 30% during activations.",
+        "Deploy catheter in subsegmental bronchi and advance proximally toward main carina, treating each segment.",
+        "Expand electrode to contact mucosa; apply current for 5 s per activation; collapse and move to next site.",
+        "Typical duration ≈40 min with ~40–60 activations per side; administer corticosteroids to reduce COPD exacerbation risk."
+      ],
+      "notes": [
+        "Contraindicated with cardiac arrhythmias or implantable electronic devices due to timing to heart rhythm and monopolar electrode."
+      ]
+    },
+    {
+      "name": "Spray Cryotherapy (Metered Cryospray)",
+      "steps": [
+        "Insert delivery catheter through bronchoscope; connect to liquid-nitrogen console.",
+        "Deliver liquid nitrogen as radial spray with thermocouple feedback to create an ≈10 mm circular ablation zone (depth 0.1–0.5 mm).",
+        "Stop ventilation during application and usually deflate endotracheal tube cuff to avoid barotrauma or asphyxia.",
+        "Perform three procedures: (1) right lower lobe + right mainstem, (2) left lower lobe + left mainstem, (3) both upper lobes + distal trachea; do not treat right middle lobe.",
+        "Mean number of sprays ≈20 per procedure; mean procedure time ≈34 min."
+      ],
+      "notes": [
+        "Evidence shows mucosal/submucosal effect without cartilage injury in pilot studies.",
+        "Main adverse events: COPD exacerbations and pneumonia; no pneumothorax reported in cited series."
+      ]
+    }
+  ],
+  "diagnostic_approaches": [
+    {
+      "name": "Chronic bronchitis definition",
+      "purpose": "Define chronic bronchitis phenotype within COPD",
+      "criteria_or_scoring": ["Cough and sputum production for ≥3 months in ≥2 consecutive years"]
+    },
+    {
+      "name": "TLD pre-procedural CT assessment",
+      "purpose": "Confirm anatomy and exclude severe emphysema",
+      "criteria_or_scoring": ["Bronchial anatomy suitable for catheter sizes", "Exclude severe emphysema: emphysema index >50% at −950 HU"]
+    },
+    {
+      "name": "CAT questionnaire thresholds (rheoplasty selection)",
+      "purpose": "Identify chronic bronchitis patients with high symptom burden",
+      "criteria_or_scoring": ["CAT first two questions (sputum, cough) ≥7", "CAT total score ≥10"]
+    },
+    {
+      "name": "Eligibility for spray cryotherapy",
+      "purpose": "Identify CB patients for metered cryospray",
+      "criteria_or_scoring": ["Diagnosis of chronic bronchitis and COPD for ≥2 years"]
+    }
+  ],
+  "treatment_algorithms": [
+    {
+      "title": "Phenotype-based selection for bronchoscopic COPD therapies",
+      "condition": "COPD (chronic bronchitis and/or frequent exacerbations)",
+      "specific_recommendations": [
+        { "text": "Ensure symptoms persist despite optimized medical and conservative therapy." },
+        { "text": "If emphysema phenotype with hyperinflation: consider lung volume reduction (endoscopic or surgical)." },
+        { "text": "If frequent exacerbations (≥2 moderate in last 12 months requiring antibiotics or corticosteroids): consider TLD." },
+        { "text": "If chronic bronchitis with CAT sputum+cough ≥7 and total ≥10: consider bronchial rheoplasty or spray cryotherapy." }
+      ]
+    }
+  ],
+  "clinical_guidelines": [
+    {
+      "title": "TLD selection and peri-procedural guidance",
+      "specific_recommendations": [
+        "Select patients with ≥2 moderate exacerbations in prior 12 months on optimal therapy.",
+        "Exclude asthma, persistent bacterial colonization, and significant gastrointestinal comorbidities.",
+        "Obtain CT to exclude severe emphysema (emphysema index >50% at −950 HU).",
+        "Use esophageal balloon to maintain distance from esophagus during ablation."
+      ]
+    },
+    {
+      "title": "Rheoplasty selection and technique",
+      "specific_recommendations": [
+        "Use CAT thresholds (first two questions ≥7; total ≥10) to define high symptom burden.",
+        "Exclude emphysema index >25% at −950 HU, asthma bronchiale, and known colonization with resistant organisms (e.g., Pseudomonas).",
+        "Avoid in cardiac arrhythmias or with implantable electronic devices."
+      ]
+    },
+    {
+      "title": "Spray cryotherapy selection and technique",
+      "specific_recommendations": [
+        "Eligible if chronic bronchitis + COPD for ≥2 years; exclude asthma or bronchiectasis.",
+        "Plan three staged procedures; do not treat right middle lobe due to barotrauma risk.",
+        "Stop ventilation and usually deflate cuff during applications."
+      ]
+    }
+  ],
+  "drug_information": [],
+  "tables": [
+    {
+      "title": "TLD—selection, exclusions, and procedural parameters",
+      "columns": ["category", "item", "value_or_threshold"],
+      "rows": [
+        ["Selection", "Exacerbations in prior 12 months", "≥2 (moderate; requiring antibiotics or corticosteroids)"],
+        ["Exclusion", "Asthma", "Exclude"],
+        ["Exclusion", "Persistent bacterial colonization or significant GI comorbidities", "Exclude"],
+        ["Imaging", "Emphysema index threshold", ">50% at −950 HU"],
+        ["Energy", "Power", "26–32 W"],
+        ["Ablation", "Activation / postcooling", "120 s / 30 s"],
+        ["Adjunct", "Esophageal balloon", "Recommended to reduce GI side effects"],
+        ["Adjunct", "Prophylaxis", "Antibiotic and corticosteroid"],
+        ["Time", "Procedure duration", "≈74 min"],
+        ["Outcomes", "Technical feasibility", "93%"],
+        ["Outcomes", "Technical success (RF application)", "90%"]
+      ]
+    },
+    {
+      "title": "Rheoplasty—selection and procedural parameters",
+      "columns": ["category", "item", "value_or_threshold"],
+      "rows": [
+        ["Selection", "CAT thresholds", "First two questions ≥7; total ≥10"],
+        ["Exclusion", "Emphysema index threshold", ">25% at −950 HU"],
+        ["Exclusion", "Asthma bronchiale", "Exclude"],
+        ["Exclusion", "Resistant airway colonization (e.g., Pseudomonas)", "Exclude"],
+        ["Contraindication", "Arrhythmias or implantable electronic devices", "Avoid"],
+        ["Technique", "Sessions", "Two (right; then left after 4–6 weeks)"],
+        ["Technique", "FiO2 during activations", "30%"],
+        ["Technique", "Activation time", "5 s per activation"],
+        ["Time", "Procedure duration", "≈40 min"],
+        ["Dose", "Activations", "≈40–60 per side"],
+        ["Outcomes", "Symptom scores", "SGRQ and CAT reduced at 6 and 12 months"],
+        ["Events", "Main adverse events", "COPD exacerbation and pneumonia; effect may diminish by 12–24 months"]
+      ]
+    },
+    {
+      "title": "Spray cryotherapy—selection and procedural parameters",
+      "columns": ["category", "item", "value_or_threshold"],
+      "rows": [
+        ["Selection", "Eligibility", "Chronic bronchitis + COPD ≥2 years"],
+        ["Exclusion", "Asthma or bronchiectasis", "Exclude"],
+        ["Technique", "Ablation target", "10 mm circular zone; depth 0.1–0.5 mm"],
+        ["Technique", "Ventilation / cuff", "Stop ventilation; usually deflate cuff"],
+        ["Planning", "Number of sessions", "Three (RLL+RMS; LLL+LMS; both ULs+distal trachea)"],
+        ["Planning", "Right middle lobe", "Not treated (barotrauma risk)"],
+        ["Dose", "Spray deliveries per procedure", "≈20"],
+        ["Time", "Procedure time", "≈34 min"],
+        ["Outcomes", "Safety/efficacy signals", "Feasible; improved SGRQ/CAT/LCQ at 3 months; no pneumothorax; AEs: COPD exacerbation, pneumonia"]
+      ]
+    }
+  ],
+  "figures": [
+    { "label": "Fig. 1", "caption": "Patient selection flow for bronchoscopic COPD therapies", "page": 3 },
+    { "label": "Fig. 2", "caption": "Mechanism of anticholinergics vs targeted lung denervation in COPD", "page": 3 },
+    { "label": "Fig. 3", "caption": "Dual-cooled radiofrequency catheter (dNerva/Nuvaira) for TLD", "page": 4 },
+    { "label": "Fig. 4", "caption": "Rheoplasty catheter (Galvanize Therapeutics)", "page": 5 },
+    { "label": "Fig. 5", "caption": "Rheoplasty catheter in the left upper lobe", "page": 5 },
+    { "label": "Fig. 6", "caption": "RejuvenAir cryospray catheter", "page": 6 },
+    { "label": "Fig. 7", "caption": "Metered cryospray therapy (bronchoscopic view)", "page": 6 }
+  ],
+  "clinical_cases": [],
+  "definitions": [
+    { "term": "TLD", "definition": "Targeted lung denervation; RF ablation of parasympathetic vagal fibers to reduce bronchoconstriction and exacerbations." },
+    { "term": "Bronchial rheoplasty", "definition": "Non-thermal pulsed electrical ablation of goblet cells to reduce sputum burden in chronic bronchitis." },
+    { "term": "Spray cryotherapy (metered cryospray)", "definition": "Delivery of liquid nitrogen at approximately −196 °C to ablate abnormal mucosa with limited depth." },
+    { "term": "CAT", "definition": "COPD Assessment Test; used here with thresholds for CB symptom burden (first two questions ≥7; total ≥10)." },
+    { "term": "SGRQ", "definition": "St. George’s Respiratory Questionnaire; symptom score used in COPD studies." },
+    { "term": "LCQ", "definition": "Leicester Cough Questionnaire; cough-related symptom score." },
+    { "term": "Emphysema index", "definition": "CT-based percentage of lung voxels below −950 HU; thresholds >50% (TLD exclusion) and >25% (rheoplasty exclusion)." }
+  ],
+  "clinical_pearls": [
+    "Phenotype first: emphysema → consider lung volume reduction; frequent exacerbations → TLD; chronic bronchitis → rheoplasty or cryospray.",
+    "Use CT to assess anatomy and emphysema burden before TLD; exclude severe emphysema.",
+    "For rheoplasty, manage oxygen (FiO2 ≈30%) during activations and anticipate COPD exacerbations post-procedure.",
+    "During cryospray, stop ventilation and usually deflate the cuff to avoid barotrauma; avoid treating right middle lobe."
+  ],
+  "references": [
+    "Belmonte KE. Cholinergic pathways in the lungs and anticholinergic therapy for COPD. Proc Am Thorac Soc. 2005;2:297–304. https://doi.org/10.1513/pats.200504-043SR.",
+    "Global Initiative for Chronic Obstructive Lung Disease (GOLD) 2024 Report (posted 2025). https://goldcopd.org/2024-gold-report/",
+    "Kistemaker LEM, Slebos D-J, Meurs H, Kerstjens HAM, Gosens R. Anti-inflammatory effects of targeted lung denervation in COPD. Eur Respir J. 2015;46:1489–92.",
+    "Slebos D-J, Shah PL, Herth FJF, Pison C, Schumann C, Hübner R-H, et al. AIRFLOW randomized clinical trial. Am J Respir Crit Care Med. 2019;200:1477–86.",
+    "Valipour A, Shah PL, Pison C, Ninane V, Janssens W, Perez T, et al. Safety/dose study of TLD. Respiration. 2019;98:329–39.",
+    "Conway F, Tonkin J, Valipour A, Pison C, Schumann C, Bonta PI, et al. AIRFLOW-2 crossover outcomes. Respiration. 2022;101:1069–74.",
+    "Valipour A, Shah PL, Herth FJ, Pison C, Schumann C, Hübner R-H, et al. Two-year outcomes of AIRFLOW-2. Int J Chron Obstruct Pulmon Dis. 2020;15:2807–16.",
+    "Valipour A, Fernandez-Bussy S, Ing AJ, Steinfort DP, Snell GI, Williamson JP, et al. Rheoplasty multicenter 12-month trial. Am J Respir Crit Care Med. 2020;202:681–9.",
+    "Sciurba FC, Dransfield MT, Kim V, Marchetti N, Comellas A, Hogarth DK, Majid A. RheOx US feasibility 2-year results. BMJ Open Respir Res. 2023;10:e001710.",
+    "Garner JL, Shaipanich T, Hartman JE, Orton CM, Caneja C, Klooster K, et al. Metered cryospray in CB COPD. Eur Respir J. 2020;56:2000556.",
+    "Krimsky WS, Broussard JN, Sarkar SA, Harley DP. Bronchoscopic spray cryotherapy safety. J Thorac Cardiovasc Surg. 2010;139:781–2.",
+    "Slebos D-J, Breen D, Coad J, Klooster K, Hartman J, Browning R, et al. Liquid nitrogen metered spray cryotherapy effects. Am J Respir Crit Care Med. 2017;196:1351–2.",
+    "Mayr AK, Valipour A. Modern bronchoscopic treatment for chronic bronchitis. J Clin Med. 2023;12:1854.",
+    "Hartman JE, Garner JL, Shah PL, Slebos D-J. New bronchoscopic modalities for chronic bronchitis. Eur Respir Rev. 2021;30:200281."
+  ],
+  "summary": {
+    "clinical_applications": [
+      "Offer TLD to frequent COPD exacerbators despite optimal therapy, after exclusion criteria and CT review.",
+      "Consider rheoplasty or metered cryospray for chronic bronchitis with high symptom burden when standard care is insufficient."
+    ],
+    "practice_recommendations": [
+      "Use standardized selection thresholds (exacerbations; CAT; emphysema index).",
+      "Adhere to device-specific safety steps (esophageal balloon for TLD; FiO2 reduction for rheoplasty; ventilation pause for cryospray)."
+    ],
+    "future_directions": [
+      "Confirm long-term efficacy and safety in randomized trials (e.g., AIRFLOW-3; sham-controlled studies for rheoplasty and cryospray).",
+      "Define retreatment criteria for rheoplasty and durability of cryospray benefits."
+    ],
+    "controversies": [
+      "Optimal thresholds for emphysema index and CAT scoring across devices.",
+      "Generalizability beyond specialized centers; reimbursement barriers."
+    ]
+  },
+  "extraction_metadata": {
+    "source_pdf": "/mnt/data/Emerging Bronchoscopic Therapies.pdf",
+    "adobe_json": "/mnt/data/Emerging Bronchoscopic Therapies.json",
+    "extraction_date": "2025-08-21T00:00:00Z",
+    "text_pages": 7,
+    "chunks_processed": 2,
+    "model": "gpt-5",
+    "schema_version": "gold_standard_v1.0"
+  },
+  "risk_models": [],
+  "guideline_adherence": {},
+  "technology_and_technique": [
+    { "topic": "TLD—device and safety design", "summary": "Dual-cooled RF catheter with peristaltic pump circulates coolant to limit bronchial injury; esophageal balloon increases safety margin." },
+    { "topic": "Rheoplasty—energy delivery", "summary": "Non-thermal pulsed electrical energy induces goblet-cell apoptosis with extracellular matrix preservation." },
+    { "topic": "Metered cryospray—dose control", "summary": "Liquid nitrogen dosing guided by thermocouple feedback to achieve target ablation diameter and depth." }
+  ],
+  "conclusion": {
+    "points": [
+      "COPD phenotypes benefit from differentiated bronchoscopic options beyond lung volume reduction.",
+      "TLD targets frequent exacerbations; rheoplasty and cryospray target chronic bronchitis symptoms.",
+      "Early studies show feasibility and symptom improvement; larger randomized trials are needed before routine use."
+    ],
+    "reference": "[Chapter Conclusion]"
+  }
+}

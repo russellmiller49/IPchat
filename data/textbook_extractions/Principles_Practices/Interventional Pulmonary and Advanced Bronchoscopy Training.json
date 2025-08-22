@@ -1,0 +1,107 @@
+{
+  "chapter_metadata": {
+    "title": "Interventional Pulmonary and Advanced Bronchoscopy Training",
+    "authors": ["Benjamin DeMarco", "Van K. Holden", "Hans J. Lee"],
+    "chapter_number": null,
+    "learning_objectives": [
+      "Understand the history and evolution of IP fellowship training.",
+      "Recognize US and European training requirements and global perspectives.",
+      "Describe the role of simulation in IP education.",
+      "Differentiate between competency, certification, and credentialing.",
+      "Identify opportunities and challenges in CME and mastery development."
+    ],
+    "key_points": [
+      "IP training has evolved from apprenticeship to structured fellowships with certification.",
+      "Simulation plays a critical role in competency development but lacks standardized adoption.",
+      "Procedural volume requirements differ between US (higher) and Europe (lower).",
+      "Validated assessment tools exist (RIGID-TASC, EBUS-STAT, CAPS, TUBE-iCOMPT) but are underutilized.",
+      "CME is vital as new technologies outpace traditional fellowship curricula."
+    ],
+    "page_range": { "start": 1, "end": 8 },
+    "reference": "DeMarco B, Holden VK, Lee HJ. Interventional Pulmonary and Advanced Bronchoscopy Training. In: Yarmus L, et al, eds. Principles and Practice of Interventional Pulmonology. Springer; 2025. doi:10.1007/978-3-031-49583-0_9-1"
+  },
+  "clinical_guidelines": [
+    {
+      "title": "Rigid bronchoscopy training",
+      "specific_recommendations": ["US: ≥50 cases", "Europe: ≥20 cases", "Validated tool: RIGID-TASC"],
+      "reference": "[17]"
+    },
+    {
+      "title": "Convex EBUS training",
+      "specific_recommendations": ["US: ≥100 cases", "Europe: ≥50 cases", "Validated tool: EBUS-STAT"],
+      "reference": "[21]"
+    },
+    {
+      "title": "Thoracoscopy training",
+      "specific_recommendations": ["US: ≥20 cases", "Europe: ≥10 cases", "Validated tool: LAT"],
+      "reference": "[18]"
+    },
+    {
+      "title": "US-guided chest tube placement",
+      "specific_recommendations": ["US: ≥20 cases", "Europe: ≥10 cases", "Validated tools: CAPS, TUBE-iCOMPT"],
+      "reference": "[22, 23]"
+    },
+    {
+      "title": "Endobronchial stenting",
+      "specific_recommendations": ["US: ≥20 cases", "Europe: ≥10 cases", "No validated tool"]
+    },
+    {
+      "title": "Endobronchial ablative techniques",
+      "specific_recommendations": ["US: ≥50 cases", "Europe: ≥20 cases", "No validated tool"]
+    },
+    {
+      "title": "Tunneled pleural catheter placement",
+      "specific_recommendations": ["US: ≥20 cases", "Europe: no standard"]
+    }
+  ],
+  "tables": [
+    {
+      "title": "Procedural volume training requirements and validated tools",
+      "headers": ["Procedure", "US Minimum", "Europe Minimum", "Assessment tool"],
+      "rows": [
+        ["Rigid bronchoscopy", "50", "20", "RIGID-TASC"],
+        ["Endobronchial stenting", "20", "10", "None"],
+        ["Thoracoscopy", "20", "10", "LAT"],
+        ["Bronchoscopic navigation", "20", "20", "Electromagnetic navigation bronchoscopy"],
+        ["Endobronchial ablative techniques", "50", "20", "None"],
+        ["Convex EBUS", "100", "50", "EBUS-STAT"],
+        ["US-guided chest tube", "20", "10", "CAPS, TUBE-iCOMPT"],
+        ["Tunneled pleural catheter", "20", "None", "None"]
+      ],
+      "source_page": 3
+    }
+  ],
+  "figures": [
+    {
+      "figure_id": "Fig. 1",
+      "caption": "Growth in IP fellowship education (1992–2023), milestones include AABIP founding, ERS/ATS statements, CHEST statement, AIPPD establishment, IP match, board certification, ACGME subspecialty recognition.",
+      "page": 3,
+      "keywords": ["timeline", "IP fellowship growth"]
+    },
+    {
+      "figure_id": "Fig. 2",
+      "caption": "Five stages of IP training: theoretical stage, simulation, supervised practice, quantitative/qualitative assessment, lifelong learning.",
+      "page": 4,
+      "keywords": ["training framework", "competency stages"]
+    },
+    {
+      "figure_id": "Fig. 3",
+      "caption": "Performance with deliberate practice over a career: deliberate practice leads to expert performance; lack of deliberate practice risks arrested development.",
+      "page": 6,
+      "keywords": ["mastery", "deliberate practice"]
+    }
+  ],
+  "clinical_pearls": [
+    "Simulation accelerates acquisition of bronchoscopic skills in a low-risk environment.",
+    "Competency ≠ certification ≠ credentialing — these terms must be distinguished.",
+    "Mastery requires deliberate practice and expert coaching, often continuing well beyond fellowship.",
+    "Competency-based assessment is more meaningful than procedural volume alone."
+  ],
+  "conclusion": {
+    "points": [
+      "IP training progresses from fellowship to CME and mastery across a physician’s career.",
+      "Ongoing CME is essential due to rapid technology evolution (e.g., robotic bronchoscopy).",
+      "Mastery requires expert coaching and deliberate practice; without it, performance plateaus."
+    ]
+  }
+}

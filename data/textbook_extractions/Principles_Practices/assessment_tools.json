@@ -1,0 +1,77 @@
+[
+  {
+    "tool": "RIGID-TASC",
+    "full_name": "Rigid Bronchoscopy Tool for Assessment of Skill and Competence",
+    "purpose": "Assess basic competency in rigid bronchoscopy",
+    "domains": [
+      "Scope handling",
+      "Anatomical navigation",
+      "Tissue handling",
+      "Complication management"
+    ],
+    "scoring": "Checklist + global rating scale",
+    "cutoffs": "Validated for competency determination (\u226580% pass threshold)",
+    "references": [
+      "Mahmood K, Ann Am Thorac Soc. 2016"
+    ],
+    "applies_to": [
+      "Rigid bronchoscopy"
+    ]
+  },
+  {
+    "tool": "EBUS-STAT",
+    "full_name": "Endobronchial Ultrasound Skills and Tasks Assessment Tool",
+    "purpose": "Assess EBUS-TBNA operator skill",
+    "domains": [
+      "Image acquisition",
+      "Node identification",
+      "Needle insertion",
+      "Sample acquisition"
+    ],
+    "scoring": "Multi-domain checklist + global assessment",
+    "cutoffs": "Competency usually \u22653.5/5 average domain score",
+    "references": [
+      "Davoudi M, Am J Respir Crit Care Med. 2012"
+    ],
+    "applies_to": [
+      "Convex EBUS",
+      "EBUS-TBNA"
+    ]
+  },
+  {
+    "tool": "CAPS",
+    "full_name": "Checklist for Assessing Placement of a Small-bore Chest Tube",
+    "purpose": "Evaluate safety and accuracy of chest tube insertion",
+    "domains": [
+      "Preparation",
+      "Insertion technique",
+      "Confirmation of placement"
+    ],
+    "scoring": "Binary checklist (done/not done)",
+    "cutoffs": "Validated for formative and summative use",
+    "references": [
+      "Shafiq M, AEM Educ Train. 2023"
+    ],
+    "applies_to": [
+      "US-guided chest tube"
+    ]
+  },
+  {
+    "tool": "TUBE-iCOMPT",
+    "full_name": "Chest Tube Insertion Competency Test",
+    "purpose": "Quantitative assessment of skill in chest tube placement",
+    "domains": [
+      "Knowledge",
+      "Technical performance",
+      "Safety steps"
+    ],
+    "scoring": "Checklist + weighted score",
+    "cutoffs": "Validated tool with defined pass/fail thresholds",
+    "references": [
+      "Salamonsen MR, Thorax. 2015"
+    ],
+    "applies_to": [
+      "Chest tube insertion"
+    ]
+  }
+]

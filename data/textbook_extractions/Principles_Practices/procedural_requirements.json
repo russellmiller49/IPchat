@@ -1,0 +1,89 @@
+[
+  {
+    "procedure": "Rigid bronchoscopy",
+    "us_minimum": 50,
+    "europe_minimum": 20,
+    "assessment_tools": [
+      "RIGID-TASC"
+    ],
+    "references": [
+      "[17]"
+    ],
+    "source_pages": "3"
+  },
+  {
+    "procedure": "Endobronchial stenting",
+    "us_minimum": 20,
+    "europe_minimum": 10,
+    "assessment_tools": [],
+    "references": [],
+    "source_pages": "3"
+  },
+  {
+    "procedure": "Thoracoscopy",
+    "us_minimum": 20,
+    "europe_minimum": 10,
+    "assessment_tools": [
+      "Local anesthetic thoracoscopy (LAT)"
+    ],
+    "references": [
+      "[18]"
+    ],
+    "source_pages": "3"
+  },
+  {
+    "procedure": "Bronchoscopic navigation",
+    "us_minimum": 20,
+    "europe_minimum": 20,
+    "assessment_tools": [
+      "Electromagnetic navigation bronchoscopy"
+    ],
+    "references": [
+      "[19]",
+      "[20]"
+    ],
+    "source_pages": "3"
+  },
+  {
+    "procedure": "Endobronchial ablative techniques",
+    "us_minimum": 50,
+    "europe_minimum": 20,
+    "assessment_tools": [],
+    "references": [],
+    "source_pages": "3"
+  },
+  {
+    "procedure": "Convex endobronchial ultrasound",
+    "us_minimum": 100,
+    "europe_minimum": 50,
+    "assessment_tools": [
+      "EBUS-STAT"
+    ],
+    "references": [
+      "[21]"
+    ],
+    "source_pages": "3"
+  },
+  {
+    "procedure": "US-guided thoracostomy tube placement",
+    "us_minimum": 20,
+    "europe_minimum": 10,
+    "assessment_tools": [
+      "CAPS (Checklist for assessing placement of a small-bore chest tube)",
+      "TUBE-iCOMPT"
+    ],
+    "references": [
+      "[22]",
+      "[23]"
+    ],
+    "source_pages": "3"
+  },
+  {
+    "procedure": "Tunneled pleural catheter placement",
+    "us_minimum": 20,
+    "europe_minimum": null,
+    "assessment_tools": [],
+    "references": [],
+    "source_pages": "3"
+  }
+]

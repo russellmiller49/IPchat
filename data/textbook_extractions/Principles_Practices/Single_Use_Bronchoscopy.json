@@ -1,0 +1,254 @@
+{
+  "chapter_metadata": {
+    "title": "Single Use Bronchoscopes",
+    "authors": [
+      "Konstantina Kontogianni"
+    ],
+    "chapter_number": null,
+    "page_range": {
+      "start": 1,
+      "end": 8
+    },
+    "reference": "Principles and Practice of Interventional Pulmonology, 2025"
+  },
+  "definitions": [
+    {
+      "term": "SUFB",
+      "definition": "Single\u2011use flexible bronchoscope; pre\u2011sterilized, intended for one patient use."
+    },
+    {
+      "term": "RFB",
+      "definition": "Reusable flexible bronchoscope; requires decontamination/reprocessing between patients."
+    },
+    {
+      "term": "BAL",
+      "definition": "Bronchoalveolar lavage; sampling alveolar secretions for analysis."
+    },
+    {
+      "term": "LCA",
+      "definition": "Life Cycle Assessment; evaluation of environmental impacts across a product\u2019s life."
+    }
+  ],
+  "technology_and_technique": [
+    {
+      "topic": "Device generations & vendors",
+      "summary": "SUFB now in later generations with improved imaging and angulation; vendors include Ambu, Boston Scientific, TSC Broncoflex, Karl Storz, Pentax, Vathin, Verathon."
+    },
+    {
+      "topic": "Portability & screens",
+      "summary": "SUFB connect to small portable reusable screens (vendor\u2011specific) enabling out\u2011of\u2011suite and emergency use; images/videos easily saved."
+    }
+  ],
+  "clinical_procedures": [
+    {
+      "name": "Diagnostic uses",
+      "steps": [
+        "Airway inspection; photographic documentation.",
+        "BAL and washings via working channel.",
+        "Brushings and transbronchial biopsies per protocol."
+      ],
+      "notes": "Noninferior to RFB for routine bronchoscopy, BAL, and biopsy in clinical studies."
+    },
+    {
+      "name": "Therapeutic uses",
+      "steps": [
+        "Suction for mucus plugs, blood/clots.",
+        "Support for tumor debulking (mechanical/energy adjuncts), stent deployment, foreign body removal.",
+        "Guidance for percutaneous tracheostomy; BLVR tools; bronchial thermoplasty; fiducial placement."
+      ]
+    }
+  ],
+  "clinical_guidelines": [
+    {
+      "source": "Infection control & ICU use",
+      "recommendations": [
+        "Consider SUFB to reduce cross\u2011contamination risk in mechanically ventilated, immunosuppressed, or infectious patients.",
+        "Avoid reprocessing of SUFB; do not reuse even on the same patient."
+      ]
+    },
+    {
+      "source": "Operational workflow",
+      "recommendations": [
+        "Use SUFB for parallel throughput, off\u2011hours availability, and training/simulation to reduce RFB damage.",
+        "Choose device mix (SUFB vs RFB) based on annual procedure volume and institutional logistics."
+      ]
+    },
+    {
+      "source": "Environmental assessment",
+      "recommendations": [
+        "Perform local LCA when feasible; consider production, transport, reprocessing inputs, and disposal pathways.",
+        "Note that published LCAs provide conflicting conclusions depending on assumptions and processes."
+      ]
+    }
+  ],
+  "performance_metrics": [
+    {
+      "context": "Cross\u2011contamination (RFB)",
+      "metric": "Estimated cross\u2011contamination rate",
+      "value": "8.69%"
+    },
+    {
+      "context": "Cross\u2011infection risk (RFB)",
+      "metric": "Infection risk",
+      "value": "\u22482.8%"
+    },
+    {
+      "context": "Clinical noninferiority",
+      "metric": "Routine bronchoscopy/BAL/biopsy",
+      "value": "Noninferior (SUFB vs RFB)"
+    },
+    {
+      "context": "Bench performance",
+      "metric": "Suction capacity (newer SUFB vs marketed SUFB)",
+      "value": "Higher mean aspirated mass"
+    },
+    {
+      "context": "Tool interaction",
+      "metric": "Compatibility with forceps, APC, cryo, thermoplasty, valve catheters",
+      "value": "Comparable/superior (newer gen)"
+    }
+  ],
+  "risk_factors": {
+    "infection": {
+      "increases": [
+        "Biofilms and channel damage in RFB",
+        "Reprocessing lapses"
+      ],
+      "decreases": [
+        "Use of SUFB for high\u2011risk patients/procedures"
+      ]
+    },
+    "environmental": {
+      "increases": [
+        "SUFB production/disposal load",
+        "RFB reprocessing PPE/chemicals/energy/water"
+      ],
+      "notes": "Net impact depends on local energy mix, reprocessing, and waste disposal (incineration vs recycling pathways)."
+    },
+    "cost": {
+      "increases": [
+        "SUFB per\u2011unit in high\u2011volume centers"
+      ],
+      "decreases": [
+        "Avoided repairs, reprocessing labor, infection\u2011related costs; economies of scale may alter pricing"
+      ]
+    }
+  },
+  "tables": [
+    {
+      "id": "SUFB_device_overview",
+      "title": "Major single\u2011use bronchoscope vendors and notes",
+      "columns": [
+        "Vendor",
+        "Notes"
+      ],
+      "rows": [
+        [
+          "Ambu",
+          "aScope 5 platform with portable screen; broad tool compatibility"
+        ],
+        [
+          "Boston Scientific",
+          "Single\u2011use bronchoscopes; evolving portfolio"
+        ],
+        [
+          "TSC Broncoflex",
+          "Broncoflex SUFB line"
+        ],
+        [
+          "Karl Storz",
+          "Single\u2011use offerings alongside RFB"
+        ],
+        [
+          "Pentax",
+          "Portfolio includes single\u2011use solutions"
+        ],
+        [
+          "Vathin",
+          "H\u2011SteriScope range with multiple sizes"
+        ],
+        [
+          "Verathon",
+          "Single\u2011use airway visualization devices"
+        ]
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "id": "Fig1",
+      "caption": "Vathin\u00ae H\u2011SteriScope\u2122 lineup of seven sizes.",
+      "page": 2,
+      "keywords": [
+        "Vathin",
+        "sizes"
+      ],
+      "locator": {
+        "BBox": [
+          84.7166,
+          92.9744,
+          510.579,
+          495.798
+        ]
+      }
+    },
+    {
+      "id": "Fig2",
+      "caption": "Ambu aScope\u2122 5 Bronch with portable screen and compact cart.",
+      "page": 3,
+      "keywords": [
+        "Ambu",
+        "portable screen"
+      ],
+      "locator": {
+        "BBox": [
+          60.9575,
+          460.999,
+          281.989,
+          731.348
+        ]
+      }
+    },
+    {
+      "id": "Fig3",
+      "caption": "Ambu aScope\u2122 5 Bronch with forceps and APC probe interaction.",
+      "page": 5,
+      "keywords": [
+        "tool interaction",
+        "forceps",
+        "APC"
+      ],
+      "locator": {
+        "BBox": [
+          82.6766,
+          125.373,
+          260.269,
+          408.802
+        ]
+      }
+    }
+  ],
+  "management": [
+    "Use SUFB in ICU/emergency/contagious settings to lower cross\u2011contamination risk.",
+    "Use RFB where high throughput and established reprocessing yield lower per\u2011case cost; protect against biofilm/repair issues."
+  ],
+  "conclusion": {
+    "points": [
+      "SUFB reduce cross\u2011contamination risk and increase availability; newer generations approach RFB performance.",
+      "Cost\u2011effectiveness and environmental impact depend on local volumes and practices; LCAs are mixed.",
+      "Standardized multicenter LCAs and clinical trials will clarify optimal device mix."
+    ],
+    "reference": "Chapter conclusion"
+  },
+  "references": [
+    "Travis HS et al. J Infect Prev. 2023;24:95\u2013102.",
+    "Mouritsen JM et al. Anaesthesia. 2020;75:529\u201340.",
+    "He S et al. BMC Pulm Med. 2023;23:202.",
+    "Lamb CR et al. BMC Pulm Med. 2022;22:189.",
+    "Kurman JS et al. Poster presentation.",
+    "Bringier R et al. Br J Anaesth. 2023;131:e4\u20137.",
+    "Patrucco F et al. Respiration. 2023;102:905\u201311.",
+    "S\u00f8rensen LB. Am J Environ Prot. 2018;7:55.",
+    "Kristensen AE et al. Pharmacoecon Open. 2023;7:665\u201378."
+  ]
+}

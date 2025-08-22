@@ -1,0 +1,2049 @@
+{
+  "chapter_metadata": {
+    "title": {
+      "value": "Bronchoscopic Techniques for Surgical Marking and Fiducial Placement",
+      "present_in_source": false
+    },
+    "authors": [
+      {
+        "name": "Arianna Michaels"
+      },
+      {
+        "name": "Martin L. Mayse"
+      },
+      {
+        "name": "Jason Akulian"
+      }
+    ],
+    "chapter_number": {
+      "value": null,
+      "present_in_source": false
+    },
+    "learning_objectives": [],
+    "key_points": [],
+    "page_range": {
+      "start": 1,
+      "end": 14
+    },
+    "reference": "[Chapter Text]"
+  },
+  "anatomical_content": {
+    "structures": []
+  },
+  "clinical_procedures": [],
+  "diagnostic_approaches": [
+    {
+      "name": "CT-guided transpleural hookwire localization",
+      "purpose": "Localize small lung nodules for minimally invasive thoracic surgery (MITS) resection.",
+      "criteria_or_scoring": [],
+      "how_to_perform": "After placement of the hook into the target, a wire extended out through the parenchyma then across the pleura to the skin.",
+      "interpretation": null,
+      "limitations": [
+        "Displacement during transfer",
+        "hemorrhage 9–35%",
+        "pneumothorax 32–68%."
+      ],
+      "when_to_use": "Hookwire localization of small lung nodules via CT guidance.",
+      "source_page": 3,
+      "source_excerpt": "hemorrhage (9–35%) and pneumothorax (32–68%).",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "CT-guided microcoil localization",
+      "purpose": "Percutaneous localization of target nodules to aid intraoperative detection during MITS.",
+      "criteria_or_scoring": [],
+      "how_to_perform": "A needle is inserted to transect the lesion, part of the microcoil is inserted, then remaining length positioned or at pleural line.",
+      "interpretation": null,
+      "limitations": [
+        "Risk of embolization",
+        "pneumothorax",
+        "bleeding",
+        "possible need for intraoperative fluoroscopy."
+      ],
+      "when_to_use": "Microcoils can be inserted percutaneously to localize target nodules.",
+      "source_page": 3,
+      "source_excerpt": "Intraoperative localization rates using microcoils have been reported to be excellent (90–100% success) [19].",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "performance": {
+        "performance": {
+          "accuracy": {
+            "value": 0.9,
+            "unit": "proportion"
+          },
+          "notes": "accuracy: –100% success"
+        }
+      },
+      "reference": "[19]"
+    },
+    {
+      "name": "Methylene blue dye marking",
+      "purpose": "Dye marking to aid target nodule localization during MITS.",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Applied via CT guidance or bronchoscopy to tattoo pleura and/or lesion.",
+      "interpretation": null,
+      "limitations": [
+        "Narrow utility window and spillage risk."
+      ],
+      "when_to_use": "Used to visually mark lesions for intraoperative localization.",
+      "source_page": 4,
+      "source_excerpt": "Narrow window of utility (<3 hours) and risk of “spillage” contaminating pleural space",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Near-infrared/ICG fluorescent dye marking",
+      "purpose": "Fluorescent marking to localize deeper nodules during MITS.",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Applied via CT guidance or bronchoscopy for NIR visualization.",
+      "interpretation": null,
+      "limitations": [
+        "Need for same day surgery",
+        "may be too deep to see."
+      ],
+      "when_to_use": "When deeper visualization is needed under NIR.",
+      "source_page": 4,
+      "source_excerpt": "Marking can be seen buried in a 1–2 cm tissue",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Barium radiopaque marking",
+      "purpose": "Radiopaque marking for lesion localization.",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Used alone or with dyes to mark lesions.",
+      "interpretation": null,
+      "limitations": [
+        "Inflammatory effect",
+        "needs to be tumor adjacent",
+        "fluoroscopy needed."
+      ],
+      "when_to_use": "As a radiopaque marker to guide localization.",
+      "source_page": 4,
+      "source_excerpt": "Needs to be tumor “adjacent” due to risk of inflammation impacting pathology result",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Lipiodol (ethiodized oil) radiopaque marking",
+      "purpose": "Radiopaque marker to guide thoracoscopic surgery; long residency.",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Injected as a radiopaque marker; can be combined with cyanoacrylates.",
+      "interpretation": null,
+      "limitations": [
+        "Rare risk of embolization",
+        "fluoroscopy required."
+      ],
+      "when_to_use": "Used to guide thoracoscopic surgery; reported use as fiducial prior to radiotherapy.",
+      "source_page": 3,
+      "source_excerpt": "seen in situ up to 8 months postplacement [24].",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[24]"
+    },
+    {
+      "name": "Technetium-99 radiotracer localization",
+      "purpose": "Radiotracer-guided localization for VATS without fluoroscopy.",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Injected via CT-guided percutaneous or bronchoscopic placement; detected by handheld gamma ray detector.",
+      "interpretation": null,
+      "limitations": [
+        "Radiation protection and handling required",
+        "needs same day surgery",
+        "pneumothorax risk with CT guidance."
+      ],
+      "when_to_use": "To achieve high VATS localization without intraoperative fluoroscopy.",
+      "source_page": 3,
+      "source_excerpt": "radiotracers have been shown to confer high rates of VATS localization (88–96%) [19].",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "performance": {
+        "performance": {
+          "accuracy": {
+            "value": 0.88,
+            "unit": "proportion"
+          },
+          "notes": "accuracy: –96%"
+        }
+      },
+      "reference": "[19]"
+    },
+    {
+      "name": "Electromagnetic Navigation Bronchoscopy (ENB) nodule marking",
+      "purpose": "Bronchoscopicmarking and fiducial placement with real-time navigation.",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Uses CT-based 3D airway maps and electromagnetic navigation to reach target for marker placement.",
+      "interpretation": null,
+      "limitations": [
+        "Lower pneumothorax and hemorrhage than CT-guided marking",
+        "can be done same setting as resection."
+      ],
+      "when_to_use": "Marking nodules, including hard-to-reach locations, for surgery.",
+      "source_page": 4,
+      "source_excerpt": "reported accurate FM placement in 99.2% of patients with 94.1% of markers durably in place.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "performance": {
+        "performance": {
+          "accuracy": {
+            "value": 0.992,
+            "unit": "proportion"
+          }
+        }
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Bronchoscopic peripheral navigation with r EBUS/CBCT/digital tomosynthesis for marking",
+      "purpose": "Localize peripheral nodules and deliver marking medium bronchoscopically.",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Use navigation platform, r EBUS and/or cone-beam CT or digital tomosynthesis; puncture with transbronchial needle; inject marking medium; tattoo pleura.",
+      "interpretation": null,
+      "limitations": null,
+      "when_to_use": "When lesion is not visible and tool-to-target colocalization is needed.",
+      "source_page": 4,
+      "source_excerpt": "between 0.5 and 1 ml are needed [30–32].",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Self-expanding polyethylene glycol hydrogel marker",
+      "purpose": "Implantable visual marker designed to improve localization and potentially reduce pneumothorax.",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Deploys as a solid cylinder that self-expands upon contact with lung tissue.",
+      "interpretation": null,
+      "limitations": [
+        "Early studies",
+        "purported sealing of CT access tract to prevent pneumothorax."
+      ],
+      "when_to_use": "As an engineered implantable marking medium.",
+      "source_page": 4,
+      "source_excerpt": "deploys as a solid cylinder (2.5 cm in length by 0.1 cm in diameter), self-expands upon contact with lung tissue",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Implantable infrared reflector with audible radar rangefinder",
+      "purpose": "Implantable marker enabling intraoperative localization without fluoroscopy.",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Placed under CT guidance; remains in place; intraoperative audible radar rangefinder guides surgeon.",
+      "interpretation": null,
+      "limitations": [
+        "Pneumothorax 9.5% and hemothorax 0% reported",
+        "no displacement/localization failure reported."
+      ],
+      "when_to_use": "To detangle radiology and OR schedules; implant can remain in place.",
+      "source_page": 5,
+      "source_excerpt": "pneumothorax and hemothorax were low (9.5% and 0%, respectively) [19]",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[19]"
+    },
+    {
+      "name": "Intraoperative molecular imaging (Folate receptor NIR markers)",
+      "purpose": "IV molecular imaging to localize and guide resection of malignant nodules.",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Inject NIR dye linked to molecules that accumulate in malignant tissue; visualize intraoperatively.",
+      "interpretation": null,
+      "limitations": [
+        "Early trials",
+        "influenced intraoperative decisions in 26% of patients (phase 2)."
+      ],
+      "when_to_use": "To identify nodules and margins intraoperatively via simple infusion.",
+      "source_page": 5,
+      "source_excerpt": "paired folate receptor NIR markers have been reported to successfully identify 70–95% of intraoperative nodules [34].",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "performance": {
+        "performance": {
+          "accuracy": {
+            "value": 0.7,
+            "unit": "proportion"
+          },
+          "notes": "accuracy: –95%"
+        }
+      },
+      "reference": "[34]"
+    },
+    {
+      "name": "SBRT systems without fiducials (FM-less tracking) criteria",
+      "purpose": "Track targets for SBRT without fiducial markers when lesions meet visibility criteria.",
+      "criteria_or_scoring": [
+        "Require nodules larger than 15 mm and denser than surrounding parenchyma."
+      ],
+      "how_to_perform": null,
+      "interpretation": null,
+      "limitations": [
+        "Limited to lesions meeting size and density criteria."
+      ],
+      "when_to_use": "When tumors are directly trackable without FMs.",
+      "source_page": 6,
+      "source_excerpt": "they require nodules to be larger than 15 mm, denser than the surrounding parenchymal tissue",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "3D airway navigation mapping (ENB or fiberoptic light shape sensing)",
+      "purpose": "Provide real-time bronchoscopic guidance to peripheral lesions.",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Create three-dimensional maps from CT scans; use ENB or light shape sensing to guide to the target lesion.",
+      "interpretation": null,
+      "limitations": null,
+      "when_to_use": "To improve intraprocedural navigation for peripheral lesions.",
+      "source_page": 4,
+      "source_excerpt": "These systems use electromagnetic navigation (ENB) or fiberoptic light shape sensing with three-dimensional maps to provide real-time guidance through the airways to a target lesion.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Real-time tumor tracking using fiducial markers with orthogonal X-rays and optical monitoring",
+      "purpose": "Track the moving tumor target and enable respiratory gating in real time during SBRT.",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Radiopaque fiducials are implanted near the tumor and light-emitting diodes are placed on the chest. Orthogonal X-ray images during the respiratory cycle build a model relating LED and fiducial positions for tracking.",
+      "interpretation": "The radiation beam tracks the moving tumor target; periodic orthogonal X-rays validate and update the model with breathing pattern changes.",
+      "limitations": [
+        "Lesions must be enough away from the mediastinum for the system to detect."
+      ],
+      "when_to_use": "An important part of SBRT planning and execution to track and respiratory gate the target tumor in real time.",
+      "source_page": 7,
+      "source_excerpt": "The total system accuracy of the device and the respiratory motion tracking has been reported as <1 mm.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "performance": {
+        "performance": {
+          "accuracy": {
+            "value": 1.0,
+            "unit": "mm"
+          }
+        }
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Electromagnetic navigation bronchoscopy (ENB/EMN) for fiducial marker delivery",
+      "purpose": "Bronchoscopic delivery of fiducial markers to enable tumor tracking for SBRT.",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Peripheral navigation bronchoscopy (e.g., ENB, r EBUS, robotic bronchoscopy) guides to the target; fiducials are deployed via a delivery catheter or brush at the level of the target.",
+      "interpretation": "Success confirmed by postplacement imaging.",
+      "limitations": [
+        "Pneumothorax risk 5.4%."
+      ],
+      "when_to_use": "Viable and safe alternative for placing fiducial markers with optimal distribution to avoid colinear placement.",
+      "source_page": 7,
+      "source_excerpt": "EMN bronchoscopy for FM delivery, reported a 94.1% rate of successful FM placement based on postplacement imaging (most imaging performed same day as procedure) with a 5.4% pneumothorax rate [26].",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "performance": {
+        "performance": {
+          "accuracy": {
+            "value": 0.941,
+            "unit": "proportion"
+          },
+          "notes": "accuracy: % success rate"
+        }
+      },
+      "reference": "[26]"
+    },
+    {
+      "name": "CT-guided percutaneous fiducial marker placement",
+      "purpose": "Percutaneous placement of fiducial markers for subsequent tumor tracking.",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Percutaneous CT-guided insertion; often requires two punctures with markers placed along tracts.",
+      "interpretation": "Colinear placement risk can reduce SBRT tracking accuracy.",
+      "limitations": [
+        "Pneumothorax risk 13–48%",
+        "more challenging for central nodules",
+        "increased risk of colinear placement."
+      ],
+      "when_to_use": null,
+      "source_page": 7,
+      "source_excerpt": "Placement via percutaneous methods conveys a risk of pneumothorax similar to or higher than percutaneous lung biopsy (13–48%) [36, 37]",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Convex EBUS or fluoroscopic guidance for fiducial deployment",
+      "purpose": "Imaging-guided implantation of fiducial markers into tumor targets.",
+      "criteria_or_scoring": [],
+      "how_to_perform": "A 22-gauge TBNA needle preloaded with a 0.35 mm coiled wire fiducial is passed through an endobronchial ultrasound scope into the tumor, then deployed under imaging.",
+      "interpretation": null,
+      "limitations": null,
+      "when_to_use": "During implantation in central tumors under EBUS/fluoroscopic guidance.",
+      "source_page": 11,
+      "source_excerpt": "posterior-anterior fluoroscopic image of a standard 22-gauge TBNA needle preloaded with a 0.35 mm coiled wire fiducial being passed through an endobronchial ultrasound scope and into the tumor target",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Inter-fiducial distance measurement at the same respiratory phase to detect migration",
+      "purpose": "Detect and identify fiducial marker migration after implantation.",
+      "criteria_or_scoring": [
+        "Compare distances between fiducials at the same respiratory phase",
+        "with three or more fiducials",
+        "identify which one migrated."
+      ],
+      "how_to_perform": "Measure the distance between pairs of fiducials at the same phase of respiration; with ≥3, measure between each marker and the others.",
+      "interpretation": "With only two fiducials, migration is detected but cannot identify which moved; with three or more, the migrated marker can be identified.",
+      "limitations": null,
+      "when_to_use": "Post-implant assessment of fiducial stability.",
+      "source_page": 10,
+      "source_excerpt": "Migration can be detected by measuring the distance between pairs of FM at the same phase of respiration. When only two FMs have been implanted, it is possible to tell",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Postplacement imaging to confirm fiducial position and detect migration",
+      "purpose": "Rule out pneumothorax and confirm appropriate fiducial placement; detect early migration.",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Obtain imaging immediately after placement to rule out pneumothorax and CT at 1–2 weeks to confirm placement.",
+      "interpretation": "Migration typically occurs within the first 10 days and can be identified on follow-up imaging.",
+      "limitations": null,
+      "when_to_use": "Immediately postprocedure and at 1–2 weeks after fiducial implantation.",
+      "source_page": 7,
+      "source_excerpt": "placement should be confirmed 1–2 weeks post- placement with a CT, as migration typically occurs within the first 10 days of placement [39, 40].",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Fiducial marker spatial criteria for optimal tracking and rotational information",
+      "purpose": "Ensure fiducials provide independent positional and rotational information for accurate tracking.",
+      "criteria_or_scoring": [
+        "At least three fiducials bracketing the tumor",
+        "avoid overlap on fluoroscopy",
+        "not collinear",
+        "minimum 1.5 cm apart",
+        "no more than 5–6 cm from the lesion",
+        "oriented in x",
+        "y",
+        "z planes."
+      ],
+      "how_to_perform": "Place fiducials in and around the tumor, ensuring spacing and orientation to avoid superimposition and provide independent information.",
+      "interpretation": "Three fiducials that do not overlap on fluoroscopy provide both translational and rotational information.",
+      "limitations": [
+        "If too close or collinear",
+        "they appear superimposed and do not provide useful information",
+        "if too far",
+        "may be outside the tracking system’s field of view."
+      ],
+      "when_to_use": "During fiducial implantation planning for SBRT tracking.",
+      "source_page": 11,
+      "source_excerpt": "In total, FMs should be a minimum of 1.5 cm apart and should be no more than 5–6 cm from the lesion",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "CT-body anatomicmapping for bronchoscopic navigation to target lesion",
+      "purpose": "Navigate to peripheral lung lesions for fiducial placement/biopsy.",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Use CT-body anatomicmapping to traverse to the target; insert r EBUS probe and guide sheath through the bronchoscope’s working channel upon reaching the target.",
+      "interpretation": "Identify the target nodule on radial EBUS before deploying the fiducial.",
+      "limitations": null,
+      "when_to_use": "During peripheral navigation bronchoscopy for fiducial placement.",
+      "source_page": 7,
+      "source_excerpt": "CT-body anatomicmapping was used by bronchoscopists to traverse the lung to the target lesion where upon reaching the target the r EBUS probe and guide sheath were inserted through the working channel",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "_errors": [
+        "source_excerpt_too_long"
+      ],
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Fiducial-less SBRT tumor tracking systems (FM-free)",
+      "purpose": "Apply SBRT without the need for fiducial markers.",
+      "criteria_or_scoring": [],
+      "how_to_perform": null,
+      "interpretation": null,
+      "limitations": [
+        "Limitations exist for nodules less than 15 mm",
+        "ground glass nodules",
+        "or near the mediastinum/spine."
+      ],
+      "when_to_use": "Explored as newer systems attempting SBRT without fiducials.",
+      "source_page": 11,
+      "source_excerpt": "Newer systems have attempted to apply SBRT without the need for FMs; however, limitations exist for nodules less than 15 mm, ground glass nodules, or those near the mediastinum",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    }
+  ],
+  "treatment_algorithms": [],
+  "clinical_guidelines": [
+    {
+      "title": "Fiducial quantity for SBRT",
+      "condition": "Fiducial marker implantation for stereotactic body radiotherapy (SBRT)",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Implant 3–6 fiducials so that three remain in place."
+      ],
+      "decision_points_and_pathways": [
+        "Plan to place 3–6 fiducials to ensure at least three remain for tracking."
+      ],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 1,
+      "source_excerpt": "3–6 should be implanted to so that three remain in place, they should be placed in and around the tumor",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Fiducial spacing and arrangement for SBRT",
+      "condition": "Fiducial marker implantation for stereotactic body radiotherapy (SBRT)",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Place fiducials at least 2–5 cm apart.",
+        "Arrange fiducials to bracket the bulk of the tumor.",
+        "Fiducials placed outside the tumor should be as close to the tumor edge as possible.",
+        "Avoid placing fiducials collinearly."
+      ],
+      "decision_points_and_pathways": [
+        "Ensure inter-fiducial spacing of at least 2–5 cm.",
+        "Confirm configuration brackets the tumor bulk and is non-collinear."
+      ],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 1,
+      "source_excerpt": "at a distance of at least 2–5 cm from each other and such that the bulk of the tumor is bracketed by the fiducials, those placed outside the tumor should",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Marker placement considerations for MITS",
+      "condition": "Target marking for minimally invasive thoracic surgery (MITS)",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Preoperative discussion with the surgical team is important if markers are implanted by a separate team.",
+        "Place markers so they are visible from the visceral pleura.",
+        "Include the whole of the target volume to ensure complete resection without margin involvement."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 1,
+      "source_excerpt": "preoperative discussion with the surgical team is important if the markers are to be implanted by a separate team. In addition, the marker(s) should be placed such that they are visible from the visceral pleura",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "_errors": [
+        "source_excerpt_too_long"
+      ],
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Recommended volume of marking media for bronchoscopic localization",
+      "condition": "Bronchoscopic delivery of marking medium for surgical localization",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Deliver between 0.5 and 1 ml of marking medium."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 4,
+      "source_excerpt": "previously published data would suggest between 0.5 and 1 ml are needed",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Single-anesthesia approach for ENB marking and resection",
+      "condition": "Navigation bronchoscopy nodule marking with same-setting surgical resection",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Consider a single-anesthesia approach where possible to reduce time to intervention."
+      ],
+      "decision_points_and_pathways": [
+        "If resources allow, coordinate ENB marking and surgical resection in the same anesthesia session."
+      ],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": [
+        "Reduced time to intervention by 51 days on average."
+      ],
+      "alternative_approaches": null,
+      "source_page": 4,
+      "source_excerpt": "This “single-anesthesia” approach has been shown to reduce time to intervention by 51 days on average and should be considered where possible",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "USPSTF low-dose CT lung cancer screening",
+      "condition": "Lung cancer screening in high-risk individuals",
+      "source_organization": "US Preventative Services Task Force (USPSTF)",
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "High-risk individuals aged 50–80 with ≥20 pack-years who currently smoke or quit within 15 years should undergo LDCT screening."
+      ],
+      "decision_points_and_pathways": [
+        "If age 50–80 AND ≥20 pack-years AND current smoker or quit <15 years, THEN undergo LDCT LCS."
+      ],
+      "patient_population_criteria": "High-risk individuals aged 50–80; ≥20 pack-years; current smoker or quit within 15 years.",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 2,
+      "source_excerpt": "USPSTF now recommends that high-risk individuals, aged 50–80 with a 20 or more-pack year smoking history who are currently smoking or quit within the last 15 years, undergo LDCT LCS",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Preference for SBRT in early-stage lung cancer when resection not pursued",
+      "condition": "Treatment selection for early-stage lung cancer when patient unable or unwilling to undergo resection",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "SBRT is preferred for tumors less than 5 cm where normal tissue dose constraints can be respected."
+      ],
+      "decision_points_and_pathways": [
+        "If tumor <5 cm and normal tissue dose constraints can be respected, prefer SBRT."
+      ],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 2,
+      "source_excerpt": "with stereotactic body radiotherapy (SBRT) preferred for tumors less than 5 cm where normal tissue dose constraints can be respected",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Management of nodules with moderate- to high-risk of malignancy",
+      "condition": "Pulmonary nodules with moderate- to high-risk pretest probability for malignancy",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Consider surgical resection or biopsy with patient-provider shared decision-making."
+      ],
+      "decision_points_and_pathways": [
+        "If pretest probability is moderate to high, consider resection or biopsy with shared decision-making."
+      ],
+      "patient_population_criteria": "Pulmonary nodules with moderate- to high-risk pretest probability for malignancy.",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 2,
+      "source_excerpt": "those nodules with a moderate- to high-risk pretest probability for malignancy should be considered for surgical resection or biopsy in conjunction with patient-provider shared decision-making.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Radiotracer (technetium-99) timing and handling for surgical localization",
+      "condition": "Use of radiotracers to localize target nodules for thoracoscopic surgery",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "No intraoperative fluoroscopy is required.",
+        "Radiation protection and proper radioactive material handling are required.",
+        "With a half-life of about 6 hours, surgery must occur soon after marking."
+      ],
+      "decision_points_and_pathways": [
+        "If using technetium-99, schedule surgery soon after marking due to ~6-hour half-life."
+      ],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 3,
+      "source_excerpt": "With a half-life of about 6 hours, surgery must occur soon after marking but with more flexibility than traditional nonfluorescent dyes.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Recommended number of fiducial markers to implant",
+      "condition": "Fiducial marker implantation",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "3–6 FMs should be implanted to so that at least three remain in place."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 12,
+      "source_excerpt": "3–6 FMs should be implanted to so that at least three remain in place.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Inter-marker spacing between fiducials",
+      "condition": "Fiducial marker implantation",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "FMs should be placed such that they are at least 1.5 cm but not more than 5 cm from each other."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 12,
+      "source_excerpt": "FMs should be placed such that they are at least 1.5 cm but not more than 5 cm from each other.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Avoid collinear fiducial placement",
+      "condition": "Fiducial marker implantation",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "FMs should not be placed collinearly."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 12,
+      "source_excerpt": "FMs should not be placed collinearly.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Bracket tumor with fiducials",
+      "condition": "Fiducial marker implantation around tumor target",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "FMs should be placed in and around the tumor such that the bulk of the tumor is bracketed by the fiducials."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": null,
+      "source_page": 12,
+      "source_excerpt": "FMs should be placed in and around the tumor such that the bulk of the tumor is bracketed by the fiducials.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Fiducial spacing from lesion and orientation",
+      "condition": "Fiducial marker positioning relative to lesion for targeting",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "FMs should be a minimum of 1.5 cm apart.",
+        "FMs should be no more than 5–6 cm from the lesion.",
+        "FMs should be oriented differently in the x, y, and z planes.",
+        "Avoid positioning such that a straight line can be drawn between any three fiducials; avoid superimposition on fluoroscopy.",
+        "Ensure markers are within the field of view of the tracking system."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": [],
+      "source_page": 11,
+      "source_excerpt": "In total, FMs should be a minimum of 1.5 cm apart and should be no more than 5–6 cm from the lesion",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Information provided by two fiducial markers",
+      "condition": "Fiducial marker number and tracking capability",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Two FMs bracketing the tumor can provide translational information about the tumor target."
+      ],
+      "decision_points_and_pathways": [
+        "With only two FMs, you can detect movement but not identify which marker migrated."
+      ],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": [],
+      "outcome_measures": null,
+      "alternative_approaches": [],
+      "source_page": 10,
+      "source_excerpt": "Two FM located in and around the tumor such that they bracket the bulk of the tumor can provide translational information about the tumor target.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Information provided by three fiducial markers",
+      "condition": "Fiducial marker number and tracking capability",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Three FMs that bracket the tumor and do not overlap on fluoroscopy provide both translational and rotational information."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": [],
+      "outcome_measures": null,
+      "alternative_approaches": [],
+      "source_page": 10,
+      "source_excerpt": "Three FMs located in and around the tumor such that they bracket the bulk of the tumor and do not overlap on the fluoroscopic tracking system provide both translational and rotational",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "_errors": [
+        "source_excerpt_too_long"
+      ],
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Identifying migrated fiducials with three or more markers",
+      "condition": "Fiducial marker migration detection strategy",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "With three or more FMs, measure inter-marker distances to identify which marker migrated; ignore the migrated FM for tracking."
+      ],
+      "decision_points_and_pathways": [
+        "If three or more FMs implanted → identify which fiducial migrated by pairwise distance checks."
+      ],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": [],
+      "outcome_measures": null,
+      "alternative_approaches": [],
+      "source_page": 10,
+      "source_excerpt": "When three or more FMs have been implanted, by measuring the distance between each marker and the others, it is possible to tell not only that one has migrated but",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Postplacement imaging schedule",
+      "condition": "Monitoring after fiducial marker implantation",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Obtain imaging immediately after placement to rule out pneumothorax.",
+        "Obtain imaging 1–2 weeks after placement to confirm appropriate placement."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": [
+        "Immediate postplacement imaging to rule out pneumothorax.",
+        "Imaging at 1–2 weeks to confirm placement."
+      ],
+      "outcome_measures": null,
+      "alternative_approaches": [],
+      "source_page": 11,
+      "source_excerpt": "Postplacement imaging should be obtained immediately after placement to rule out pneumothorax and 1–2 weeks after placement of FMs to confirm appropriate placement.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Confirm placement due to early migration risk",
+      "condition": "Monitoring and timing after fiducial placement",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Confirm placement 1–2 weeks post-placement with CT because migration typically occurs within the first 10 days."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": [
+        "CT at 1–2 weeks post-placement."
+      ],
+      "outcome_measures": null,
+      "alternative_approaches": [],
+      "source_page": 7,
+      "source_excerpt": "placement should be confirmed 1–2 weeks post- placement with a CT, as migration typically occurs within the first 10 days of placement",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Fiducial migration risk percentage",
+      "condition": "Fiducial marker migration risk after placement",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Be aware that fiducials are at risk for migration (up to 12%)."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": [],
+      "outcome_measures": null,
+      "alternative_approaches": [],
+      "source_page": 7,
+      "source_excerpt": "FMs themselves are at risk for migration (up to 12%),",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Bronchoscopic placement as a safe alternative",
+      "condition": "Approach to fiducial marker placement (bronchoscopic vs percutaneous)",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Placement via bronchoscopy helps mitigate risk and is a viable and safe alternative for placing FMs.",
+        "This approach allows optimal distribution of FMs to avoid colinear placement."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": [],
+      "outcome_measures": null,
+      "alternative_approaches": [
+        "Percutaneous placement"
+      ],
+      "source_page": 7,
+      "source_excerpt": "Placement via bronchoscopy helps mitigate risk to the patient and is a viable and safe alternative for placing FMs.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Percutaneous fiducial placement pneumothorax risk",
+      "condition": "Risk counseling for percutaneous fiducial placement",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Recognize pneumothorax risk with percutaneous methods (13–48%)."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": [],
+      "outcome_measures": null,
+      "alternative_approaches": [
+        "Bronchoscopic placement"
+      ],
+      "source_page": 7,
+      "source_excerpt": "Placement via percutaneous methods conveys a risk of pneumothorax similar to or higher than percutaneous lung biopsy (13–48%)",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Guidance modality for fiducial deployment",
+      "condition": "Intra-procedural guidance for fiducial deployment",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Perform deployment under either convex EBUS or fluoroscopic guidance."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": [],
+      "outcome_measures": null,
+      "alternative_approaches": [],
+      "source_page": 10,
+      "source_excerpt": "Deployment is performed under either convex EBUS or fluoroscopic guidance (Fig. 5)",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Needle withdrawal technique after FM implantation",
+      "condition": "Technique to prevent fiducial displacement during withdrawal",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Withdraw the needle slowly after implantation to ensure the fiducial has cleared the outer barrel of the needle."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": [],
+      "outcome_measures": null,
+      "alternative_approaches": [],
+      "source_page": 10,
+      "source_excerpt": "Once implanted, the needle should be withdrawn slowly to ensure that the fiducial has cleared the outer barrel of needle.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Needle tip positioning before deployment",
+      "condition": "Positioning for fiducial implantation via bronchoscopy",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Advance the catheter tip to approximately 1–2 cm proximal to the desired implantation site before extending the needle."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": [],
+      "outcome_measures": null,
+      "alternative_approaches": [],
+      "source_page": 10,
+      "source_excerpt": "and is approximately 1–2 cm proximal to the desired implantation site.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Respiratory gating alignment",
+      "condition": "Patient alignment for respiratory-gated radiation",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Align the patient so that the beam is on during expiration."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": [],
+      "outcome_measures": null,
+      "alternative_approaches": [],
+      "source_page": 7,
+      "source_excerpt": "The patient is typically aligned so that the beam is on during expiration.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Use perioperative imaging to confirm FM spatial relationships",
+      "condition": "Intra-procedural confirmation during fiducial placement",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Use advanced perioperative imaging to help confirm spatial relationships between FMs during placement."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": [],
+      "outcome_measures": null,
+      "alternative_approaches": [
+        "Integrated or non-integrated imaging"
+      ],
+      "source_page": 9,
+      "source_excerpt": "Advanced perioperative imaging (integrated or not) can be used to help confirm the spatial relationships between the FMs as they are being placed.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Spacing for subsequent fiducial placements",
+      "condition": "Sequential fiducial placement strategy",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Place subsequent FMs at least 1.5 cm but not more than 5 cm from each other."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": [],
+      "outcome_measures": null,
+      "alternative_approaches": [],
+      "source_page": 9,
+      "source_excerpt": "they be at least 1.5 cm but not more than 5 cm from each other.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Limitations of SBRT without fiducials",
+      "condition": "Use of SBRT without fiducial markers",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Note limitations for nodules less than 15 mm, ground glass nodules, or those near the mediastinum or spine."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": "Nodules less than 15 mm, ground glass nodules, or near mediastinum or spine",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": [],
+      "outcome_measures": null,
+      "alternative_approaches": [
+        "Non-fiducial SBRT systems"
+      ],
+      "source_page": 11,
+      "source_excerpt": "limitations exist for nodules less than 15 mm, ground glass nodules, or those near the mediastinum or spine.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Choice of coil-shaped fiducials to reduce migration",
+      "condition": "Selection of fiducial marker type",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Consider coil-shaped fiducials as they are thought to retain positioning better than seed- or dumbbell-shaped FMs."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": [
+        "Must fit through the working channel of the bronchoscope/catheter."
+      ],
+      "monitoring_requirements": [],
+      "outcome_measures": null,
+      "alternative_approaches": [
+        "Seed-shaped fiducials",
+        "Dumbbell-shaped fiducials"
+      ],
+      "source_page": 11,
+      "source_excerpt": "Coil-shaped fiducials are thought to retain their positioning better than seed- or dumbbell-shaped FMs",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Example deployment tools (central tumor under EBUS)",
+      "condition": "Instrumentation for EBUS-guided fiducial implantation",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Use a standard 22-gauge TBNA needle preloaded with a 0.35 mm coiled wire fiducial."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": [],
+      "outcome_measures": null,
+      "alternative_approaches": [],
+      "source_page": 11,
+      "source_excerpt": "a standard 22-gauge TBNA needle pre- loaded with a 0.35 mm coiled wire fiducial",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Fiducial quantity and spacing for SBRT",
+      "specific_recommendations": [
+        "Implant 3–6 FMs so that at least three remain in place.",
+        "Place FMs in and around the tumor, bracketing the bulk of the lesion.",
+        "Avoid collinear placement.",
+        "Maintain inter-fiducial distances of ≥1.5 cm and ≤5 cm."
+      ],
+      "source_page": 12
+    },
+    {
+      "title": "Post-placement imaging",
+      "specific_recommendations": [
+        "Obtain immediate imaging after FM placement to rule out pneumothorax.",
+        "Repeat CT at 1–2 weeks to confirm position and detect migration (migration usually occurs within 10 days)."
+      ],
+      "source_page": 11
+    },
+    {
+      "title": "Bronchoscopic vs percutaneous approach",
+      "specific_recommendations": [
+        "Use bronchoscopic navigation (ENB/robotic/r EBUS ± CBCT) to reduce pneumothorax risk and optimize FM distribution.",
+        "Reserve CT-guided percutaneous placement when bronchoscopic access is not feasible; avoid collinear trajectories."
+      ],
+      "source_page": 7
+    },
+    {
+      "title": "Same-anesthesia workflow",
+      "specific_recommendations": [
+        "When feasible, combine bronchoscopicmarking and surgical resection in a single anesthesia event to shorten time to treatment."
+      ],
+      "source_page": 4
+    },
+    {
+      "title": "Dye marking for MITS",
+      "specific_recommendations": [
+        "Aim to tattoo the visceral pleura; typical injection volume 0.5–1 ml.",
+        "For deeper lesions, consider mixing fluorescent and traditional dyes to allow white light, NIR, and/or fluoroscopic visualization."
+      ],
+      "source_page": 4
+    }
+  ],
+  "drug_information": [],
+  "tables": [
+    {
+      "title": "Table 1 An overview of various marking mediums used for surgical resection",
+      "headers": [
+        "Marking medium/device",
+        "Advantages",
+        "Disadvantages",
+        "Notes"
+      ],
+      "rows": [
+        [
+          "Hookwires",
+          "Easily located at pleural surface",
+          "High rates of bleeding, pneumothorax, pain, displacement during transfer, and need for same day surgery",
+          ""
+        ],
+        [
+          "Microcoils",
+          "Less associated pain than hookwires",
+          "Risk of embolization, pneumothorax, and bleeding",
+          "Occasional need for fluoroscopy if unable to visualize at pleural surface"
+        ],
+        [
+          "Methylene Blue",
+          "Does not impact pathology results, safe, and relatively inexpensive",
+          "Narrow window of utility (<3 hours) and risk of “spillage” contaminating pleural space",
+          ""
+        ],
+        [
+          "NIR/IR/indocyanine green (ICG)",
+          "Marking can be seen buried in 1–2 cm tissue",
+          "Need for same day surgery and possibility of being unable to localize if marking too deep to see",
+          ""
+        ],
+        [
+          "Barium",
+          "—",
+          "Needs to be tumor “adjacent” due to risk of inflammation impacting pathology result",
+          "Need for fluoroscopy"
+        ],
+        [
+          "Lipiodol",
+          "Remains in situ for months and inexpensive",
+          "Rare risk of embolization",
+          "Need for fluoroscopy"
+        ],
+        [
+          "Radiotracer—technetium-99",
+          "No fluoroscopy required",
+          "Radiation protection/logistics; need for same day surgery",
+          ""
+        ]
+      ],
+      "source_page": 4
+    }
+  ],
+  "figures": [
+    {
+      "id": "Fig1",
+      "caption": "Genericmargin expansion to accommodate microscopic tumor extension, daily positioning error, and respiratory motion.",
+      "page": 6,
+      "keywords": [
+        "SBRT planning",
+        "margin expansion",
+        "respiratory motion"
+      ],
+      "locator": {
+        "adobe_object_id": 1151
+      }
+    },
+    {
+      "id": "Fig2",
+      "caption": "Robotic linac (Cyber Knife) with orthogonal X-rays and optical tracking used for real-time tumor tracking.",
+      "page": 8,
+      "keywords": [
+        "Cyber Knife",
+        "real-time tracking",
+        "SBRT"
+      ],
+      "locator": {
+        "adobe_object_id": 1185
+      }
+    },
+    {
+      "id": "Fig3",
+      "caption": "Navigation platforms and devices: (a) ENB console, (b) nitinol coil with gold bead FM, (c) shape-sensing robotic bronchoscopy, (d) flexible needle technology.",
+      "page": 9,
+      "keywords": [
+        "ENB",
+        "robotic bronchoscopy",
+        "fiducial",
+        "needle"
+      ],
+      "locator": {
+        "adobe_object_id": 1191
+      }
+    },
+    {
+      "id": "Fig4",
+      "caption": "Loading a fiducial marker into a bronchoscopy needle; wax-sealed loading and deployment sequence.",
+      "page": 10,
+      "keywords": [
+        "fiducial loading",
+        "TBNA needle",
+        "deployment"
+      ],
+      "locator": {
+        "adobe_object_id": 1194
+      }
+    },
+    {
+      "id": "Fig5",
+      "caption": "EBUS-guided central tumor fiducial implantation with fluoroscopy and ultrasound correlation; post-deployment CXRs.",
+      "page": 11,
+      "keywords": [
+        "EBUS",
+        "fluoroscopy",
+        "fiducial deployment"
+      ],
+      "locator": {
+        "adobe_object_id": 1210
+      }
+    },
+    {
+      "id": "Fig6",
+      "caption": "Representative positioning of multiple FMs in different x, y, z planes for optimal SBRT targeting.",
+      "page": 12,
+      "keywords": [
+        "fiducial geometry",
+        "3D positioning"
+      ],
+      "locator": {
+        "adobe_object_id": 1256
+      }
+    },
+    {
+      "id": "Fig7",
+      "caption": "(a) 5 mm helical gold fiducial with solid central nodule; (b) polymer-based marker designed to minimize artifact.",
+      "page": 12,
+      "keywords": [
+        "helical gold marker",
+        "polymer marker"
+      ],
+      "locator": {
+        "adobe_object_id": 1259
+      }
+    },
+    {
+      "id": "Fig8",
+      "caption": "Iodine-based liquid fiducial: bronchoscopic delivery, in vivo sticky-soft formation, and CT planning visibility.",
+      "page": 13,
+      "keywords": [
+        "liquid fiducial",
+        "iodine-based",
+        "CT planning"
+      ],
+      "locator": {
+        "adobe_object_id": 1260
+      }
+    }
+  ],
+  "clinical_cases": [],
+  "definitions": [
+    {
+      "content": "One technique uses multiple radiation beams directed at the tumor from multiple different angles, thereby “focusing” the radiation beams on a small volume of tissue. The shape of each beam is also adjusted so that it “conforms” to the contour of the target. This allows the majority of the radiation dose to be delivered to a very focused volume of tissue that has a shape and size very similar to that of the tumor. This is commonly referred to as three-dimensional conformal radiation therapy (3D-CRT).",
+      "source_page": 5,
+      "source_excerpt": "This is commonly referred to as three-dimensional conformal radiation therapy (3D-CRT).",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "content": "Real-time tumor tracking is a method of dynamically moving the focal point of the radiation mean so that this focal point always corresponds with the position of the tumor target.",
+      "source_page": 7,
+      "source_excerpt": "Real-time tumor tracking is a method of dynamically moving the focal point of the radiation mean so that this focal point always corresponds with the position of the tumor target.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "term": "p CA",
+      "definition": "pretest probability of cancer",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "IPN",
+      "definition": "indeterminate pulmonary nodule",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "SPN",
+      "definition": "solitary pulmonary nodule",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "VDT",
+      "definition": "volume doubling time",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "FDG",
+      "definition": "fluorodeoxyglucose",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "PET",
+      "definition": "positron emission tomography",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "EBUS",
+      "definition": "endobronchial ultrasound",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "TBNA",
+      "definition": "transbronchial needle aspiration",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "PPV",
+      "definition": "positive predictive value",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "NPV",
+      "definition": "negative predictive value",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "ACCP",
+      "definition": "American College of Chest Physicians",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "BTS",
+      "definition": "British Thoracic Society",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    }
+  ],
+  "clinical_pearls": [
+    {
+      "content": "Fluorescent and near-infrared fluorescent dye use has also been reported. Applied via both CT guidance and bronchoscopy, these dyes have been reported to have a greater visual penetration through tissues, allowing a surgeon to localize nodules buried in up to 2 cm of tissue [21–23].",
+      "source_page": 3,
+      "source_excerpt": "localize nodules buried in up to 2 cm of tissue [21–23].",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "content": "The patient is typically aligned so that the beam is on during expiration.",
+      "source_page": 7,
+      "source_excerpt": "The patient is typically aligned so that the beam is on during expiration.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "content": "As treatments become increasingly precise, accurate nodule localization and FM placement for SBRT remain a critical factor in ensuring successful outcomes.",
+      "source_page": 13,
+      "source_excerpt": "accurate nodule localization and FM placement for SBRT remain a critical factor in ensuring successful outcomes.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 13,
+        "end": 14
+      },
+      "reference": "[Chapter Text]"
+    }
+  ],
+  "references": [
+    {
+      "citation": "[1]",
+      "authors": [],
+      "year": null,
+      "journal": null,
+      "doi_pmid": null,
+      "study_type": null,
+      "key_findings": null,
+      "source_page": 2,
+      "source_excerpt": "there has been a rise in the number of CT scans performed for diagnostic purposes [1]",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[1]"
+    },
+    {
+      "citation": "[36, 37]",
+      "authors": null,
+      "year": null,
+      "journal": null,
+      "doi_pmid": null,
+      "study_type": null,
+      "key_findings": null,
+      "source_page": 7,
+      "source_excerpt": "Placement via percutaneous methods conveys a risk of pneumothorax similar to or higher than percutaneous lung biopsy (13–48%) [36, 37]",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "citation": "Smith-Bindman R, Kwan ML, Marlow EC, Theis MK, Bolch W, Cheng SY, et al. Trends in use of medical imaging in US health care systems and in Ontario, Canada, 2000–2016. JAMA. 2019;322(9): 843–56.",
+      "authors": [
+        "Smith-Bindman R",
+        "Kwan ML",
+        "Marlow EC",
+        "Theis MK",
+        "Bolch W",
+        "Cheng SY"
+      ],
+      "year": 2019,
+      "journal": "JAMA.",
+      "doi_pmid": null,
+      "study_type": null,
+      "key_findings": null,
+      "source_page": 13,
+      "source_excerpt": "JAMA. 2019;322(9): 843–56.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 13,
+        "end": 14
+      },
+      "reference": "[Chapter Text]"
+    }
+  ],
+  "summary": {
+    "clinical_applications": [],
+    "practice_recommendations": [
+      {
+        "content": "Some basic guidelines to follow when implanting FM for SBRT include the following: 3–6 should be implanted to so that three remain in place, they should be placed in and around the tumor at a distance of at least 2–5 cm from each other and such that the bulk of the tumor is bracketed by the fiducials, those placed outside the tumor should be placed as close to the edge of the tumor as possible, and they should not be placed collinearly.",
+        "source_page": 1,
+        "source_excerpt": "3–6 should be implanted... at least 2–5 cm... should not be placed collinearly.",
+        "present_in_source": true,
+        "page_range": {
+          "start": 1,
+          "end": 6
+        },
+        "reference": "[Chapter Text]"
+      },
+      {
+        "content": "• 3–6 FMs should be implanted to so that at least three remain in place.",
+        "source_page": 12,
+        "source_excerpt": "3–6 FMs should be implanted to so that at least three remain in place.",
+        "present_in_source": true,
+        "page_range": {
+          "start": 7,
+          "end": 12
+        },
+        "reference": "[Chapter Text]"
+      },
+      {
+        "content": "The evolution of these techniques is essential to further improve the success rates of surgical and radiotherapeutic interventions, ultimately leading to better patient outcomes and advancements in lung cancer care.",
+        "source_page": 13,
+        "source_excerpt": "The evolution of these techniques is essential to further improve the success rates of surgical and radiotherapeutic interventions, ultimately leading to better patient outcomes and advancements in lung cancer care.",
+        "present_in_source": true,
+        "page_range": {
+          "start": 13,
+          "end": 14
+        },
+        "reference": "[Chapter Text]"
+      }
+    ],
+    "future_directions": [],
+    "controversies": []
+  },
+  "extraction_metadata": {
+    "source_pdf": "Textbooks/Chapter pdfs/Bronchoscopic Techniques for Surgical Marking.pdf",
+    "adobe_json": null,
+    "extraction_date": "2025-08-21T04:09:43.348839+00:00",
+    "text_pages": 14,
+    "chunks_processed": 3,
+    "model": "gpt-5",
+    "extractor_version": "production_multipass_v3.2_gpt5_simple",
+    "enhancements_applied": [
+      "risk_model_separation",
+      "clinical_interpretation_addition",
+      "performance_metric_normalization",
+      "inline_reference_addition",
+      "duplicate_consolidation",
+      "missing_section_extraction"
+    ],
+    "passes_completed": 7,
+    "quality_issues": {
+      "tables": [
+        "Check footnotes presence: Table 1 An overview of various marking mediums used for surgical resection"
+      ]
+    },
+    "schema_version": "gold_standard_v1.0",
+    "enhancement_version": "1.0"
+  },
+  "risk_models": [
+    {
+      "model_name": "ACR Lung-RADS v2022",
+      "setting": "assessment categories and management recommendations",
+      "predictors": [],
+      "reference": null
+    }
+  ],
+  "guideline_adherence": {},
+  "technology_and_technique": [
+    {
+      "topic": "Fiducial placement for SBRT: procedural best practices",
+      "summary": "Implant 3–6 fiducial markers so that ≥3 remain in place; place in and around the tumor, spacing each by 2–5 cm; bracket the bulk of the tumor; markers outside the tumor should be as close to the tumor edge as possible; avoid collinear placement. Fiducials enable accurate localization/tracking even when the tumor is difficult to visualize on fluoroscopy or CT.",
+      "reference": "Michaels A, Mayse ML, Akulian J. Bronchoscopic Techniques for Surgical Marking and Fiducial Placement. Principles and Practice of Interventional Pulmonology. 2025. doi:10.1007/978-3-031-49583-0_59-1 (Chapter abstract)"
+    },
+    {
+      "topic": "Fiducial placement for MITS (surgical marking) tips",
+      "summary": "Coordinate preoperatively with the surgical team when implantation is performed by a separate team; place marker(s) so they are visible from the visceral pleura and encompass the entire target volume to facilitate complete resection and avoid margin involvement.",
+      "reference": "Michaels A, Mayse ML, Akulian J. 2025 chapter abstract (doi:10.1007/978-3-031-49583-0_59-1)"
+    },
+    {
+      "topic": "Localization challenges and conversion in MITS vs open surgery",
+      "summary": "Digital palpation-based localization is harder for nodules >5 mm from the pleura, <10 mm in size, and/or subsolid. Transition to MITS—especially RATS—reduces haptic feedback, increasing localization difficulty. Reported conversion to open thoracotomy due to localization issues is as high as 50%.",
+      "reference": "[14]"
+    },
+    {
+      "topic": "Patient selection for surgery vs SBRT",
+      "summary": "USPSTF screening eligibility: age 50–80, ≥20 pack-years, current smoker or quit within 15 years. Nodules with moderate-to-high pretest malignancy probability should undergo surgical resection or biopsy with shared decision-making. ~25% of patients are not candidates for lobectomy due to comorbidities; sublobar resection is recommended and has been shown noninferior or superior to lobar resection in early-stage disease. SBRT is preferred for tumors <5 cm where normal tissue constraints can be respected and is used for inoperable or unwilling surgical candidates.",
+      "reference": "[4], [10–13]"
+    },
+    {
+      "topic": "Comparative effectiveness: MITS vs open thoracotomy",
+      "summary": "MITS (VATS/RATS) reduces morbidity compared with open thoracotomy, expanding resection to patients previously considered too ill for surgery. However, localization is more challenging in MITS, contributing to conversion rates to open procedures up to 50% when localization fails.",
+      "reference": "[8, 9], [14]"
+    },
+    {
+      "topic": "Fiducials vs imaging alone for target tracking",
+      "summary": "Fiducial markers act as reliable surrogates of tumor location, improving localization and motion tracking for SBRT and aiding intraoperative localization for MITS when lesions are not well seen on fluoroscopy or CT.",
+      "reference": "Michaels A, Mayse ML, Akulian J. 2025 chapter abstract (doi:10.1007/978-3-031-49583-0_59-1)"
+    }
+  ],
+  "conclusion": {
+    "points": [
+      "5 \n3\nPlacing Fiducials for SBRT",
+      "7 \n3.3 \nCurrent Techniques/Procedural Considerations"
+    ],
+    "reference": "[Chapter Conclusion]"
+  },
+  "risk_factors": {
+    "pneumothorax": {
+      "increases": [
+        "CT-guided percutaneous marking",
+        "Hookwire placement",
+        "Radiotracer CT injection"
+      ],
+      "decreases": [
+        "ENB/robotic bronchoscopic delivery",
+        "Same-anesthesia workflow to avoid transfers"
+      ],
+      "notes": "ENB pneumothorax rate ~5.4% reported; percutaneous fiducial placement 13–48% in literature."
+    },
+    "migration": {
+      "increases": [
+        "Seed/dumbbell FMs",
+        "Percutaneous trajectories",
+        "Early post-placement period (<10 days)"
+      ],
+      "decreases": [
+        "Coil-shaped FMs",
+        "Bracketing geometry with ≥3 FMs"
+      ],
+      "notes": "Confirm with CT 1–2 weeks after placement; measure inter-fiducial distances over the respiratory cycle."
+    }
+  },
+  "treatment_algorithm": {
+    "nodes": [
+      {
+        "id": "start",
+        "label": "Target requires localization",
+        "criteria": "Pulmonary nodule for MITS or SBRT"
+      },
+      {
+        "id": "intent",
+        "label": "Therapeutic intent",
+        "criteria": "MITS resection vs SBRT"
+      },
+      {
+        "id": "mits",
+        "label": "MITS localization",
+        "criteria": "Mark pleura-visible target; consider nodule size, depth, consistency"
+      },
+      {
+        "id": "sbrt",
+        "label": "SBRT localization",
+        "criteria": "Place trackable FMs for real-time tracking/gating"
+      },
+      {
+        "id": "mits_medium",
+        "label": "Select marking medium",
+        "criteria": "Dye (MB/ICG), radiopaque (barium/lipiodol), radiotracer, wire/coil"
+      },
+      {
+        "id": "mits_delivery",
+        "label": "Choose delivery route",
+        "criteria": "Bronchoscopic nav vs CT-guided percutaneous"
+      },
+      {
+        "id": "sbrt_approach",
+        "label": "Choose FM delivery route",
+        "criteria": "Bronchoscopic nav (ENB/robotic/r EBUS) vs CT percutaneous"
+      },
+      {
+        "id": "sbrt_rules",
+        "label": "Apply FM rules",
+        "criteria": "3–6 FMs; bracket tumor; avoid collinear; 1.5–5 cm spacing"
+      },
+      {
+        "id": "confirm",
+        "label": "Confirm & follow-up imaging",
+        "criteria": "Immediate CXR; CT at 1–2 weeks to detect migration"
+      },
+      {
+        "id": "surgery",
+        "label": "Proceed to resection",
+        "criteria": "Same-day when dye/technetium; NIR if ICG used"
+      },
+      {
+        "id": "radiation",
+        "label": "Proceed to SBRT planning/delivery",
+        "criteria": "Use FM geometry for tracking/gating"
+      }
+    ],
+    "edges": [
+      {
+        "from": "start",
+        "to": "intent",
+        "condition": "Determine planned therapy"
+      },
+      {
+        "from": "intent",
+        "to": "mits",
+        "condition": "If surgical resection (MITS)"
+      },
+      {
+        "from": "intent",
+        "to": "sbrt",
+        "condition": "If SBRT"
+      },
+      {
+        "from": "mits",
+        "to": "mits_medium",
+        "condition": "Select marking strategy"
+      },
+      {
+        "from": "mits_medium",
+        "to": "mits_delivery",
+        "condition": "Match medium to delivery resources and lesion location"
+      },
+      {
+        "from": "mits_delivery",
+        "to": "confirm",
+        "condition": "Post-marking checks"
+      },
+      {
+        "from": "confirm",
+        "to": "surgery",
+        "condition": "Marking adequate, patient stable"
+      },
+      {
+        "from": "sbrt",
+        "to": "sbrt_approach",
+        "condition": "Assess access and risk"
+      },
+      {
+        "from": "sbrt_approach",
+        "to": "sbrt_rules",
+        "condition": "At target lesion"
+      },
+      {
+        "from": "sbrt_rules",
+        "to": "confirm",
+        "condition": "All FMs in acceptable geometry"
+      },
+      {
+        "from": "confirm",
+        "to": "radiation",
+        "condition": "FMs stable; proceed with planning"
+      }
+    ],
+    "summary": [
+      "Pick pathway by intent: MITS vs SBRT.",
+      "For MITS: deliver marking medium bronchoscopy or CT; tattoo pleura (0.5–1 ml); consider ICG for deeper lesions and radiopaque agents when fluoroscopy is available.",
+      "For SBRT: place 3–6 FMs; bracket tumor; avoid collinear; keep 1.5–5 cm apart; prefer bronchoscopic nav to minimize ptx.",
+      "Confirm placement immediately; repeat CT at 1–2 weeks to detect migration before SBRT.",
+      "Use same-anesthesia workflow when possible to shorten time to treatment."
+    ]
+  },
+  "management": {
+    "pre_procedure": [
+      "Generate navigation plan (ENB/robotic) from pre-procedural CT.",
+      "Discuss surgical plan if different teams are involved (for MITS marking)."
+    ],
+    "intra_procedure": [
+      "Use r EBUS and/or integrated imaging (CBCT/digital tomosynthesis) to confirm tool–target colocalization.",
+      "Deliver 0.5–1 ml of marking dye; or deploy FM via musket-loaded TBNA needle (bone wax to secure prior to passage)."
+    ],
+    "post_procedure": [
+      "Immediate imaging to exclude pneumothorax; document FM geometry.",
+      "For SBRT, re-image at 1–2 weeks to confirm no migration before planning."
+    ]
+  },
+  "complications": [
+    {
+      "name": "Pneumothorax",
+      "incidence": "32–68% with hookwire marking; 7–30% with CT-guided radiotracer; 5.4% with ENB-guided FM placement",
+      "mitigation": "Prefer bronchoscopic navigation when feasible; minimize traversing pleura; confirm post-procedure",
+      "source_page": 3
+    },
+    {
+      "name": "Hemorrhage",
+      "incidence": "9–35% with hookwires; risk present with percutaneous microcoils",
+      "mitigation": "Use bronchoscopic routes when feasible; careful CT-guided technique",
+      "source_page": 3
+    },
+    {
+      "name": "Fiducial migration/embolization",
+      "incidence": "Up to ~12% migration; embolization risk with microcoils and percutaneous approaches",
+      "mitigation": "Use coil-shaped FMs; verify geometry; re-image at 1–2 weeks",
+      "source_page": 7
+    }
+  ]
+}

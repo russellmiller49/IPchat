@@ -1,0 +1,92 @@
+{
+  "source": {
+    "document_id": "Use of fibrinolytics and deoxyribonuclease in",
+    "ingest_date": "2025-08-08T16:44:01.601878+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1016/S2213-2600(20)30533-6"
+  },
+  "document": {
+    "metadata": {
+      "title": "Use of fibrinolytics and deoxyribonuclease in adult patients with pleural empyema: a consensus statement",
+      "year": 2021,
+      "authors": [
+        "Udit Chaddha",
+        "Abhinav Agrawal",
+        "David Feller-Kopman",
+        "Viren Kaul",
+        "Samira Shojaee",
+        "Fabien Maldonado",
+        "Mark K Ferguson",
+        "Kevin G Blyth",
+        "Horiana B Grosu",
+        "John P Corcoran",
+        "Ashutosh Sachdeva",
+        "Alex West",
+        "Eihab O Bedawi",
+        "Adnan Majid",
+        "Ravindra M Mehta",
+        "Erik Folch",
+        "Moishe Liberman",
+        "Momen M Wahidi",
+        "Sidhu P Gangadharan",
+        "Mark E Roberts",
+        "Malcolm M DeCamp",
+        "Najib M Rahman"
+      ],
+      "journal": "The Lancet Respiratory Medicine",
+      "doi": "10.1016/S2213-2600(20)30533-6",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "This international consensus statement addresses the use of intrapleural fibrinolytic and deoxyribonuclease (DNase) therapy in adult patients with bacterial empyema. An expert panel of 22 clinicians from 20 institutions across five countries developed seven graded and four ungraded recommendations using a systematic literature review (83 studies) and a modified Delphi process. Key recommendations include avoiding DNase monotherapy and not using fibrinolytic monotherapy as first-line therapy; when intrapleural therapy is used, combination tissue plasminogen activator (tPA) plus DNase is recommended. Suggested dosing is tPA 10 mg twice daily and DNase 5 mg twice daily, administered concurrently with 1 h of chest tube clamping. The number of doses should be individualized based on clinical and imaging response. Guidance is provided on use in patients with coagulopathy/antithrombotics, timing relative to surgery, and selective use of saline irrigation when fibrinolytics are contraindicated.",
+      "methods": "The panel formulated 11 key clinical questions and performed a literature and internet search to identify relevant adult studies. Evidence was summarized using the GRADE framework. A modified Delphi technique was used to derive consensus, with up to three anonymous voting rounds planned. Consensus was defined as at least 70% agreement (Likert 4 or 5) with at least 80% response rate. Twenty-one of 22 panelists (96%) participated in the survey, and consensus was achieved for all questions. Eighty-three studies were included after screening 8,939 records.",
+      "results": "Consensus recommendations were: avoid DNase monotherapy (strong recommendation, low certainty) and avoid first-line fibrinolytic monotherapy (weak recommendation, moderate certainty). For intrapleural therapy, use combined tPA and DNase (strong recommendation, moderate certainty). Suggested dosing is DNase 5 mg twice daily and tPA 10 mg twice daily, given concurrently, with chest tube clamping for at least 1 hour post-dose. Dosing should be individualized to clinical and radiographic response. Hold therapeutic anticoagulation and non-aspirin antiplatelets when feasible; avoid fibrinolytics in significant coagulopathy unless corrected. Combination therapy can be initial or subsequent therapy based on local expertise and surgical availability; consider a VATS-first approach for suspected organized (stage 3) empyema. Cost should not drive choice between intrapleural therapy and primary surgery in the absence of evidence. Saline irrigation may be considered only when fibrinolytics are contraindicated and the patient is not a surgical candidate. Evidence cited includes MIST1 (n=454) showing no benefit for streptokinase vs placebo, and MIST2 (n=210) showing improved drainage, reduced surgical referral, and shorter hospital stay with combined tPA+DNase. Comparative data include higher haemothorax with tPA+DNase vs urokinase (7/41 vs 0/52; p=0.002) and higher serious bleeding with alteplase vs urokinase in another RCT (5/18 and 4/33 vs 0/48)."
+    }
+  },
+  "clinical_extraction": {
+    "document_id": "31544a0dea46",
+    "title": "Use of fibrinolytics and deoxyribonuclease in adult patients with pleural empyema: a consensus statement",
+    "document_type": "research",
+    "diagnostic_yields": {},
+    "complication_rates": {},
+    "methodology": {},
+    "clinical_pearls": [
+      "An expert panel of 22 clinicians from 20 institutions across five countries developed seven graded and four ungraded recommendations using a systematic literature review (83 studies) and a modified Delphi process",
+      "Key recommendations include avoiding DNase monotherapy and not using fibrinolytic monotherapy as first-line therapy; when intrapleural therapy is used, combination tissue plasminogen activator (tPA) plus DNase is recommended",
+      "RESULTS: Consensus recommendations were: avoid DNase monotherapy (strong recommendation, low certainty) and avoid first-line fibrinolytic monotherapy (weak recommendation, moderate certainty)",
+      "For intrapleural therapy, use combined tPA and DNase (strong recommendation, moderate certainty)",
+      "Hold therapeutic anticoagulation and non-aspirin antiplatelets when feasible; avoid fibrinolytics in significant coagulopathy unless corrected"
+    ],
+    "indications": [],
+    "contraindications": [],
+    "patient_selection": {
+      "inclusion_criteria": [],
+      "exclusion_criteria": [],
+      "ideal_candidate": null
+    },
+    "equipment": [],
+    "key_findings": [],
+    "practical_tips": [
+      "recommendations using a systematic literature review (83 studies) and a modified Delphi process.",
+      "recommendations include avoiding DNase monotherapy and not using fibrinolytic monotherapy as first-line therapy; when intrapleural therapy is used, combination tissue plasminogen activator (tPA) plus DNase is recommended.",
+      "recommendations were: avoid DNase monotherapy (strong recommendation, low certainty) and avoid first-line fibrinolytic monotherapy (weak recommendation, moderate certainty).",
+      "recommendation, moderate certainty).",
+      "Suggested dosing is tPA 10 mg twice daily and DNase 5 mg twice daily, administered concurrently with 1 h of chest tube clamping.",
+      "Suggested dosing is DNase 5 mg twice daily and tPA 10 mg twice daily, given concurrently, with chest tube clamping for at least 1 hour post-dose."
+    ],
+    "extraction_confidence": 0.5,
+    "has_numerical_data": false,
+    "original_extraction": null
+  },
+  "migration_info": {
+    "migrated_at": "2025-08-22T09:42:47.157189",
+    "original_structure": "oe_final",
+    "migration_type": "restructure"
+  },
+  "original_sections": {
+    "abstract": "This international consensus statement addresses the use of intrapleural fibrinolytic and deoxyribonuclease (DNase) therapy in adult patients with bacterial empyema. An expert panel of 22 clinicians from 20 institutions across five countries developed seven graded and four ungraded recommendations using a systematic literature review (83 studies) and a modified Delphi process. Key recommendations include avoiding DNase monotherapy and not using fibrinolytic monotherapy as first-line therapy; when intrapleural therapy is used, combination tissue plasminogen activator (tPA) plus DNase is recommended. Suggested dosing is tPA 10 mg twice daily and DNase 5 mg twice daily, administered concurrently with 1 h of chest tube clamping. The number of doses should be individualized based on clinical and imaging response. Guidance is provided on use in patients with coagulopathy/antithrombotics, timing relative to surgery, and selective use of saline irrigation when fibrinolytics are contraindicated.",
+    "methods": "The panel formulated 11 key clinical questions and performed a literature and internet search to identify relevant adult studies. Evidence was summarized using the GRADE framework. A modified Delphi technique was used to derive consensus, with up to three anonymous voting rounds planned. Consensus was defined as at least 70% agreement (Likert 4 or 5) with at least 80% response rate. Twenty-one of 22 panelists (96%) participated in the survey, and consensus was achieved for all questions. Eighty-three studies were included after screening 8,939 records.",
+    "results": "Consensus recommendations were: avoid DNase monotherapy (strong recommendation, low certainty) and avoid first-line fibrinolytic monotherapy (weak recommendation, moderate certainty). For intrapleural therapy, use combined tPA and DNase (strong recommendation, moderate certainty). Suggested dosing is DNase 5 mg twice daily and tPA 10 mg twice daily, given concurrently, with chest tube clamping for at least 1 hour post-dose. Dosing should be individualized to clinical and radiographic response. Hold therapeutic anticoagulation and non-aspirin antiplatelets when feasible; avoid fibrinolytics in significant coagulopathy unless corrected. Combination therapy can be initial or subsequent therapy based on local expertise and surgical availability; consider a VATS-first approach for suspected organized (stage 3) empyema. Cost should not drive choice between intrapleural therapy and primary surgery in the absence of evidence. Saline irrigation may be considered only when fibrinolytics are contraindicated and the patient is not a surgical candidate. Evidence cited includes MIST1 (n=454) showing no benefit for streptokinase vs placebo, and MIST2 (n=210) showing improved drainage, reduced surgical referral, and shorter hospital stay with combined tPA+DNase. Comparative data include higher haemothorax with tPA+DNase vs urokinase (7/41 vs 0/52; p=0.002) and higher serious bleeding with alteplase vs urokinase in another RCT (5/18 and 4/33 vs 0/48)."
+  }
+}

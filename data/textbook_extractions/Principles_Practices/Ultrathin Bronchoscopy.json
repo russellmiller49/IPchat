@@ -1,0 +1,132 @@
+{
+  "chapter_metadata": {
+    "title": "Ultrathin Bronchoscopy",
+    "authors": ["Masahide Oki"],
+    "reference": "[Chapter Text]"
+  },
+  "definitions": [
+    {"term": "EBUS", "definition": "endobronchial ultrasound"},
+    {"term": "rEBUS", "definition": "radial probe endobronchial ultrasound"},
+    {"term": "VBN", "definition": "virtual bronchoscopic navigation"},
+    {"term": "CBCT", "definition": "cone-beam computed tomography"},
+    {"term": "TBNA", "definition": "transbronchial needle aspiration"},
+    {"term": "Cryobiopsy", "definition": "biopsy technique using extreme cold to obtain larger tissue samples"}
+  ],
+  "technology_and_technique": [
+    {
+      "technique": "Ultrathin bronchoscope",
+      "description": "Bronchoscopes ≤3.5 mm diameter, reaching 5th-generation bronchi and beyond. New-generation models have 1.7 mm channels allowing rEBUS probes."
+    },
+    {
+      "technique": "EBUS-UT",
+      "description": "Ultrathin bronchoscopy combined with radial EBUS, often with fluoroscopy and VBN, improving diagnostic yield in small peripheral pulmonary lesions."
+    },
+    {
+      "technique": "CBCT-guided ultrathin bronchoscopy",
+      "description": "Three-dimensional guidance significantly increases diagnostic yield compared to CT-guided UTB."
+    }
+  ],
+  "clinical_procedures": [
+    {
+      "procedure": "Forceps biopsy",
+      "diagnostic_yield": "54–72%",
+      "notes": "Standard approach; smaller forceps (1.5 mm) fit UTB channel."
+    },
+    {
+      "procedure": "Cryobiopsy",
+      "diagnostic_yield": "62–82%",
+      "notes": "Increases tissue size; improves molecular testing feasibility."
+    },
+    {
+      "procedure": "TBNA",
+      "diagnostic_yield": "68–78%",
+      "notes": "Especially useful for lesions adjacent to rEBUS images; yield increases up to 21% when combined with forceps."
+    }
+  ],
+  "diagnostic_approaches": [
+    {
+      "method": "UTB without rEBUS",
+      "yield": "55–60%",
+      "limitations": "Guided only by fluoroscopy; limited lesion localization."
+    },
+    {
+      "method": "UTB with rEBUS + VBN",
+      "yield": "70–74%",
+      "advantages": "Higher diagnostic yield for lesions <30 mm, right upper lobe, or radiographically invisible lesions."
+    },
+    {
+      "method": "CBCT-UTB",
+      "yield": "72–85%",
+      "advantages": "3D positioning of lesion and tools; improved success in challenging lesions."
+    }
+  ],
+  "tables": [
+    {
+      "id": "Table1",
+      "title": "Randomized trials on ultrathin bronchoscopy",
+      "rows": [
+        ["Oki 2012", "UTB 3.4/1.7 vs Thin 4.0/2.0", "65% vs 62%", "PTX 3%, PNA 1%"],
+        ["Asano 2013", "UTB 2.8/1.2 ± VBN", "59.9% vs 67.1%", "Complications rare"],
+        ["Oki 2015", "UTB 3.0/1.7 vs Thin 4.0/2.0", "74% vs 59%", "PTX 3%, PNA 1%"],
+        ["Franzen 2016", "UTB 2.8/1.2 vs Standard 5–6 mm", "55% vs 80%", "Minor bleeding"],
+        ["Oki 2019", "UTB 3.0/1.7 vs Thin 4.0/2.0", "70.1% vs 58.7%", "PTX 2%, MI 1 case"],
+        ["Zheng 2021", "UTB 3.0/1.7 with rEBUS ± Fluoroscopy", "73.3–81.7%", "No major complications"]
+      ],
+      "source": "pdf p.4"
+    }
+  ],
+  "figures": [
+    {
+      "id": "Fig1",
+      "page": 2,
+      "caption": "Flexible bronchoscopes. Left to right: Ultrathin 2.8 mm / 1.2 mm; Ultrathin 3.0 mm / 1.7 mm; Thin 4.0 mm / 2.0 mm; Standard 4.8 mm / 2.0 mm; Therapeutic 5.9 mm / 3.0 mm.",
+      "key_points": [
+        "Defines UTB (≤3.5 mm) vs thin, standard, and therapeutic scopes",
+        "Highlights 1.7 mm channel enabling rEBUS compatibility"
+      ],
+      "provenance": {
+        "source": "pdf",
+        "page_or_locator": "p.2"
+      }
+    }
+  ],
+  "clinical_guidelines": [
+    {
+      "recommendation": "UTB should be considered as first-line for small (<30 mm) peripheral pulmonary lesions, especially when rEBUS or VBN guidance is available.",
+      "source": "pdf p.5"
+    },
+    {
+      "recommendation": "Use UTB as a second procedure when standard or thin bronchoscopy fails to achieve diagnostic rEBUS positioning.",
+      "source": "pdf p.5"
+    },
+    {
+      "recommendation": "Cryobiopsy or combined sampling (forceps + TBNA/cryobiopsy) increases yield by 15–25% compared to forceps alone.",
+      "source": "pdf p.5"
+    },
+    {
+      "recommendation": "Molecular testing success rates are lower with 1.5 mm forceps samples; consider cryobiopsy or multiple samples if NGS is required.",
+      "source": "pdf p.6"
+    }
+  ],
+  "complications": [
+    {
+      "type": "Pneumothorax",
+      "rate": "2–3%",
+      "note": "Often due to visceral pleura injury from distal reach of UTB."
+    },
+    {
+      "type": "Overall complication rate",
+      "rate": "3%",
+      "note": "Comparable to thin/standard bronchoscopes."
+    }
+  ],
+  "conclusion": {
+    "points": [
+      "UTB reaches more distal bronchi than thin scopes (median 5th-generation vs 4th).",
+      "Randomized trials show higher diagnostic yields with UTB when combined with rEBUS/VBN.",
+      "UTB improves outcomes when added after failed thin bronchoscopy.",
+      "Integration of cryobiopsy and TBNA boosts molecular adequacy.",
+      "Complication rates remain low and comparable to conventional scopes."
+    ]
+  }
+}

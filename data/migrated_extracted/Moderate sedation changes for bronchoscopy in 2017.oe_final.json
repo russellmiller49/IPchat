@@ -1,0 +1,58 @@
+{
+  "source": {
+    "document_id": "Moderate sedation changes for bronchoscopy in 2017",
+    "ingest_date": "2025-08-08T14:21:24.625264+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1016/j.chest.2017.06.027"
+  },
+  "document": {
+    "metadata": {
+      "title": "Moderate Sedation Changes for Bronchoscopy in 2017",
+      "year": 2017,
+      "authors": [
+        "Michael E. Nelson"
+      ],
+      "journal": "Chest",
+      "doi": "10.1016/j.chest.2017.06.027",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "The reimbursement for procedures using moderate (conscious) sedation changed significantly as of January 1, 2017. Due to increasing use of anesthesia services to provide moderate sedation during endoscopy, the Centers for Medicare & Medicaid Services (CMS) removed work relative value units from many services requiring moderate sedation, including bronchoscopy codes. If a bronchoscopist provides moderate sedation without anesthesia services or another qualified provider, that work and revenue can be reclaimed by using the relevant CPT codes. Understanding the recent coding and billing changes is essential for appropriate reimbursement.",
+      "methods": "Narrative policy and practice management update describing the evolution of CPT coding for moderate sedation in bronchoscopy, CMS policy changes in CY 2017, the creation and valuation of CPT/HCPCS codes 99151-99157, and practical coding scenarios based on sedation duration, patient age, and provider type.",
+      "results": "CMS removed 0.25 work RVU from many bronchoscopy CPT codes effective January 1, 2017, to account for bundled moderate sedation work. New CPT/HCPCS moderate sedation codes 99151-99157 allow separate reporting when appropriate. For patient age \u2265 5 years, same-physician sedation uses 99152 for the initial 15 minutes and 99153 for each additional 15 minutes; when provided by a second qualified provider in a facility, use 99156 then 99157. Initial codes should not be reported if sedation time is < 10 minutes. In facility settings, 99153 has no physician work RVU and is paid as practice expense to the facility. If a second provider performs moderate sedation, there is an approximate national average reimbursement decrease of 8.72 per procedure for the bronchoscopist."
+    }
+  },
+  "clinical_extraction": {
+    "document_id": "42d0f3112832",
+    "title": "Moderate Sedation Changes for Bronchoscopy in 2017",
+    "document_type": "research",
+    "diagnostic_yields": {},
+    "complication_rates": {},
+    "methodology": {},
+    "clinical_pearls": [],
+    "indications": [],
+    "contraindications": [],
+    "patient_selection": {
+      "inclusion_criteria": [],
+      "exclusion_criteria": [],
+      "ideal_candidate": null
+    },
+    "equipment": [],
+    "key_findings": [],
+    "practical_tips": [],
+    "extraction_confidence": 0.5,
+    "has_numerical_data": false,
+    "original_extraction": null
+  },
+  "migration_info": {
+    "migrated_at": "2025-08-22T09:42:46.517365",
+    "original_structure": "oe_final",
+    "migration_type": "restructure"
+  },
+  "original_sections": {
+    "abstract": "The reimbursement for procedures using moderate (conscious) sedation changed significantly as of January 1, 2017. Due to increasing use of anesthesia services to provide moderate sedation during endoscopy, the Centers for Medicare & Medicaid Services (CMS) removed work relative value units from many services requiring moderate sedation, including bronchoscopy codes. If a bronchoscopist provides moderate sedation without anesthesia services or another qualified provider, that work and revenue can be reclaimed by using the relevant CPT codes. Understanding the recent coding and billing changes is essential for appropriate reimbursement.",
+    "methods": "Narrative policy and practice management update describing the evolution of CPT coding for moderate sedation in bronchoscopy, CMS policy changes in CY 2017, the creation and valuation of CPT/HCPCS codes 99151-99157, and practical coding scenarios based on sedation duration, patient age, and provider type.",
+    "results": "CMS removed 0.25 work RVU from many bronchoscopy CPT codes effective January 1, 2017, to account for bundled moderate sedation work. New CPT/HCPCS moderate sedation codes 99151-99157 allow separate reporting when appropriate. For patient age \u2265 5 years, same-physician sedation uses 99152 for the initial 15 minutes and 99153 for each additional 15 minutes; when provided by a second qualified provider in a facility, use 99156 then 99157. Initial codes should not be reported if sedation time is < 10 minutes. In facility settings, 99153 has no physician work RVU and is paid as practice expense to the facility. If a second provider performs moderate sedation, there is an approximate national average reimbursement decrease of 8.72 per procedure for the bronchoscopist."
+  }
+}

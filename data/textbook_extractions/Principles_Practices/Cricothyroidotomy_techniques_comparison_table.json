@@ -1,0 +1,38 @@
+[
+  {
+    "technique":"Open surgical (standard)",
+    "speed_vs_RFST":"Slower",
+    "reported_success":"~84–86% (cadaver)",
+    "complications_relative":"Lower vs RFST (model data)",
+    "best_for":"Definitive adult airway by trained operators",
+    "notes":"Tube OD ≤8 mm; horizontal incision in lower half of CT membrane",
+    "source_pages":"7"
+  },
+  {
+    "technique":"Rapid 4‑Step Technique (RFST)",
+    "speed_vs_RFST":"Baseline (faster)",
+    "reported_success":"—",
+    "complications_relative":"Higher (e.g., cricoid fractures) in cadaveric models",
+    "best_for":"Time‑critical scenarios by experienced operators",
+    "notes":"Performed in ~1\/3 the time of standard technique",
+    "source_pages":"7"
+  },
+  {
+    "technique":"Percutaneous (Seldinger)",
+    "speed_vs_RFST":"—",
+    "reported_success":"93% (cadaver) vs standard 84–86%; other study 71% vs 100% surgical",
+    "complications_relative":"Mixed literature; some show more complications and longer time than surgical",
+    "best_for":"Operators skilled in wire‑guided access; kit available",
+    "notes":"Confirm airway entry with air aspiration",
+    "source_pages":"7"
+  },
+  {
+    "technique":"Needle (catheter‑over‑needle)",
+    "speed_vs_RFST":"—",
+    "reported_success":"Temporizing oxygenation; limited CO₂ elimination",
+    "complications_relative":"Risk of aspiration, inadequate ventilation",
+    "best_for":"Bridge in adults; preferred initial approach if <10–12 years",
+    "notes":"10–12 L\/min flow; use Y‑connector to vent CO₂",
+    "source_pages":"5"
+  }
+]

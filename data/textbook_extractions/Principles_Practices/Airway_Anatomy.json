@@ -1,0 +1,1874 @@
+{
+  "chapter_metadata": {
+    "title": {
+      "value": "Airway Anatomy",
+      "present_in_source": false
+    },
+    "authors": [
+      {
+        "name": "Sumit Patel"
+      },
+      {
+        "name": "Arthur Sung"
+      },
+      {
+        "name": "Laura Frye"
+      }
+    ],
+    "chapter_number": {
+      "value": null,
+      "present_in_source": false
+    },
+    "learning_objectives": [],
+    "key_points": [],
+    "page_range": {
+      "start": 1,
+      "end": 10
+    },
+    "reference": "[Chapter Text]"
+  },
+  "anatomical_content": {
+    "structures": [
+      {
+        "name": "Oral cavity",
+        "description": "Boundaries include lips (anterior), cheeks (lateral), hard/soft palates (superior), floor of mouth (inferior); communicates posteriorly with oropharynx; pre-procedural inspection mitigates trauma, aspiration, and failed intubation risk."
+      },
+      {
+        "name": "Nasal anatomy",
+        "description": "External bony/cartilaginous framework with nares; internal nasal cavity divided by septum; turbinates (inferior/middle/superior) along lateral walls; common pathologies include septal deviation, turbinate hypertrophy, and polyps."
+      },
+      {
+        "name": "Oropharynx",
+        "description": "Region behind oral cavity from soft palate to base of tongue; includes tonsils, base of tongue, soft palate; assessed by Mallampati classification."
+      },
+      {
+        "name": "Hypopharynx",
+        "description": "Extends from hyoid to esophageal inlet; subdivided into piriform sinuses, postcricoid area, and posterior pharyngeal wall."
+      },
+      {
+        "name": "Larynx",
+        "description": "Located C3–C6; mucosal folds (aryepiglottic, vestibular, true vocal folds), cartilages (thyroid, cricoid, epiglottic; paired arytenoid/corniculate/cuneiform), intrinsic and extrinsic muscles; glottis and subglottis as key regions."
+      },
+      {
+        "name": "Trachea",
+        "description": "10–11 cm long; internal diameter ~16–20 mm; supported by 16–20 C-shaped cartilages; posterior membranous wall comprises trachealis muscle; bifurcates at carina near sternal angle (T5)."
+      },
+      {
+        "name": "Tracheal blood supply",
+        "description": "Upper trachea from branches of inferior thyroid artery; lower trachea from bronchial arteries; venous drainage via superficial (azygous/accessory hemiazygous) and deep systems draining to pulmonary veins/left atrium."
+      },
+      {
+        "name": "Endoscopic view of trachea",
+        "description": "Assess mucosal integrity, dynamic collapse (tracheomalacia/EDAC), extrinsic deviation; note tracheopathia osteochondroplastica sparing membranous wall."
+      },
+      {
+        "name": "Main carina",
+        "description": "Sharp ridge separating right and left main bronchi; changes with respiration."
+      },
+      {
+        "name": "Right bronchial tree",
+        "description": "Right main bronchus ~5 cm; gives RUL bronchus early; continues as bronchus intermedius to RML and RLL; segments: RUL (B1 apical, B2 posterior, B3 anterior); RML (B4 lateral, B5 medial); RLL (B6 superior, B7 medial basal, B8 anterior basal, B9 lateral basal, B10 posterior basal)."
+      },
+      {
+        "name": "Left bronchial tree",
+        "description": "Left main bronchus 4–5 cm under aortic arch; segments: LUL upper division (B1/2 apicoposterior, B3 anterior), lingula (B4 superior, B5 inferior), LLL (B6 superior, B7/8 anteromedial, B9 lateral basal, B10 posterior basal)."
+      },
+      {
+        "name": "Distal airways",
+        "description": "Bronchi transition to bronchioles as cartilage diminishes; terminal bronchioles within secondary lobules (Miller’s unit); respiratory bronchioles lead to alveolar ducts/sacs for gas exchange."
+      }
+    ]
+  },
+  "clinical_procedures": [],
+  "diagnostic_approaches": [
+    {
+      "name": "Mallampati classification",
+      "purpose": "Evaluate visibility of oropharyngeal structures and anticipate potential difficulties with airway access.",
+      "criteria_or_scoring": [
+        "Class I: The soft palate, uvula, and tonsillar pillars are fully visible.",
+        "Class II: The soft palate and most of the uvula are visible.",
+        "Class III: Only the base of the uvula is visible, and the soft palate is partially visible.",
+        "Class IV: Only the hard palate is visible."
+      ],
+      "how_to_perform": "The classification is based on the visibility of the soft palate, uvula, and tonsillar pillars when the patient opens their mouth and protrudes their tongue as much as possible, without phonation.",
+      "interpretation": null,
+      "limitations": null,
+      "when_to_use": "To anticipate potential difficulties with airway access.",
+      "source_page": 3,
+      "source_excerpt": "The Mallampati classification is a commonly used system used to evaluate the visibility of the structures in the oropharynx and to anticipate potential difficulties with airway access.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Axial CT interpretation of the larynx",
+      "purpose": "Identify laryngeal structures on CT and differentiate true versus false vocal cords; recognize subglottic region.",
+      "criteria_or_scoring": [],
+      "how_to_perform": "On axial views of computed tomography of the larynx, the epiglottis is seen at the level of the hyoid cartilage and separates the vallecula from the laryngeal vestibule.",
+      "interpretation": "The distinguishing feature between true and false vocal cords is fat in the false cords; the subglottic region is the narrowest part of the airway.",
+      "limitations": null,
+      "when_to_use": null,
+      "source_page": 4,
+      "source_excerpt": "The distinguishing feature between true and false vocal cords is the presence of fat in the false vocal cords (Fig. 3d).",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Endoscopic evaluation of trachea (bronchoscopy)",
+      "purpose": "Assess tracheal mucosal integrity and identify extrinsic deviation or compression.",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Starting at the upper trachea, mucosal integrity should be examined, even when there are no gross endobronchial lesions.",
+      "interpretation": "Note extrinsic tracheal deviation and compression due to paratracheal masses.",
+      "limitations": null,
+      "when_to_use": null,
+      "source_page": 6,
+      "source_excerpt": "The presence of extrinsic tracheal deviation and compression due to paratracheal masses should be noted.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Oral cavity inspection prior to airway procedures",
+      "purpose": "Ensure safety, reduce risk of complications, and guide differential diagnosis before procedures.",
+      "criteria_or_scoring": [],
+      "how_to_perform": "An overall assessment of the oral cavity should be performed prior to procedures; inspect to ensure the cavity is clear and suitable.",
+      "interpretation": "Inspection ensures the oral cavity is clear and suitable for the intended procedure.",
+      "limitations": null,
+      "when_to_use": "Prior to performing any type of procedure.",
+      "source_page": 2,
+      "source_excerpt": "An overall assessment of the oral cavity should be performed prior to performing any type of procedure.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Tongue mobility assessment for intubation difficulty",
+      "purpose": "Identify risk of failed intubation.",
+      "criteria_or_scoring": [],
+      "how_to_perform": null,
+      "interpretation": "Decreased tongue mobility (e.g., fixation) predicts failed intubation.",
+      "limitations": null,
+      "when_to_use": null,
+      "source_page": 2,
+      "source_excerpt": "Decreased tongue mobility, such as a tongue fixation, is a predictor of failed intubation [4].",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[4]"
+    },
+    {
+      "name": "Jackson-Huber classification",
+      "purpose": "Nomenclature for bronchial anatomy.",
+      "criteria_or_scoring": [],
+      "how_to_perform": null,
+      "interpretation": null,
+      "limitations": null,
+      "when_to_use": null,
+      "source_page": 1,
+      "source_excerpt": "The nomenclature for bronchial anatomy consists of the Jackson-Huber classification and the Boyden surgical classification.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Boyden surgical classification",
+      "purpose": "Nomenclature for bronchial anatomy.",
+      "criteria_or_scoring": [],
+      "how_to_perform": null,
+      "interpretation": null,
+      "limitations": null,
+      "when_to_use": null,
+      "source_page": 1,
+      "source_excerpt": "The nomenclature for bronchial anatomy consists of the Jackson-Huber classification and the Boyden surgical classification.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Jackson–Huber classification of segmental airway anatomy",
+      "purpose": "Classify segmental airway anatomy; named according to spatial orientation.",
+      "criteria_or_scoring": [
+        "Named according to spatial orientation (anterior/posterior",
+        "superior/inferior",
+        "medial/lateral)."
+      ],
+      "how_to_perform": null,
+      "interpretation": null,
+      "limitations": null,
+      "when_to_use": "Bronchoscopists commonly refer to bronchial anatomy using this system.",
+      "source_page": 7,
+      "source_excerpt": "Bronchoscopists commonly refer to bronchial anatomy according to the Jackson-Huber classification of segmental airway anatomy (Table 1).",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 10
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Yamashita Japanese nomenclature",
+      "purpose": "Alternative nomenclature for upper lobe anterior and posterior segments.",
+      "criteria_or_scoring": [
+        "Assigns upper lobe anterior and posterior segments as listed in Table 1."
+      ],
+      "how_to_perform": null,
+      "interpretation": null,
+      "limitations": null,
+      "when_to_use": "Less commonly adopted alternative to Jackson–Huber.",
+      "source_page": 7,
+      "source_excerpt": "A less commonly adopted system is the Yamashita Japanese nomenclature [16], which assigns upper lobe anterior and posterior segments as listed in Table 1 and as shown in Fig. 5.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 10
+      },
+      "reference": "[16]"
+    },
+    {
+      "name": "Boyden classification of bronchi",
+      "purpose": "Number-based classification of segmental airways.",
+      "criteria_or_scoring": [
+        "Refers to anterior and posterior segment of the left upper lobe as B2 and B3."
+      ],
+      "how_to_perform": null,
+      "interpretation": null,
+      "limitations": null,
+      "when_to_use": "Preferred by thoracic surgeons and radiologists.",
+      "source_page": 8,
+      "source_excerpt": "The Boyden classification refers to anterior and posterior segment of the left upper lobe as B2 and B3.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 10
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Inverted whale tail appearance on chest CT (RUL bronchus)",
+      "purpose": "Imaging sign to identify RUL bronchus branch point and segmental origins.",
+      "criteria_or_scoring": [
+        "Horizontal course of RUL bronchus with anterior and posterior segment origins."
+      ],
+      "how_to_perform": "On chest CT, evaluate the RUL bronchus course and segmental origins.",
+      "interpretation": "Gives the inverted whale tail appearance.",
+      "limitations": null,
+      "when_to_use": "CT evaluation of right main bronchus/RUL branching.",
+      "source_page": 9,
+      "source_excerpt": "The horizontal course of the RUL bronchus with origins of anterior and posterior segments gives the inverted whale tail appearance (Fig. 6b).",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 10
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Apical segment circular lucency on CT",
+      "purpose": "Imaging feature to identify the apical segment.",
+      "criteria_or_scoring": [
+        "At distal trachea level",
+        "apical segment appears as circular lucency near pulmonary vessels."
+      ],
+      "how_to_perform": "On CT imaging at the level of the distal trachea, assess for circular lucency.",
+      "interpretation": "Circular lucency corresponds to apical segment.",
+      "limitations": null,
+      "when_to_use": "CT assessment of upper lobe segmental anatomy.",
+      "source_page": 9,
+      "source_excerpt": "On CT imaging, at the level of distal trachea, the apical segment appears as a circular lucency in proximity to pulmonary vessels.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 10
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Recognition of tracheal/accessory bronchus on CT (including bronchus suis)",
+      "purpose": "Identify bronchial variants that may explain imaging/clinical findings.",
+      "criteria_or_scoring": [
+        "Tracheal/accessory bronchus arises immediately above main carina at right lateral aspect",
+        "called bronchus suis if it supplies entire upper lobe."
+      ],
+      "how_to_perform": "Assess CT scans near the main carina and right lateral aspect.",
+      "interpretation": "Variant bronchi identified; accessory bronchus may relate to recurrent/nonresolving infiltrate on radiograph.",
+      "limitations": null,
+      "when_to_use": "When evaluating unexplained airway anatomy or recurrent infiltrates.",
+      "source_page": 9,
+      "source_excerpt": "Sometimes, a tracheal bronchus or an accessory bronchus is noted on CT scans arising immediately above the main carina and at the right lateral aspect.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 10
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Bronchus intermedius characteristics on chest CT",
+      "purpose": "Imaging identification of the bronchus intermedius.",
+      "criteria_or_scoring": [
+        "Seen on several adjacent sections",
+        "oblique shape",
+        "courses posterior to right main pulmonary artery."
+      ],
+      "how_to_perform": "On chest CT, review multiple adjacent sections for oblique airway posterior to right main pulmonary artery.",
+      "interpretation": "Findings consistent with bronchus intermedius.",
+      "limitations": null,
+      "when_to_use": "CT interpretation of right-sided bronchial anatomy.",
+      "source_page": 9,
+      "source_excerpt": "On chest CT, the bronchus intermedius is characteristically seen on several adjacent sections.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 10
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Fish-mouth appearance of right middle lobe opening",
+      "purpose": "Visual sign suggesting extrinsic compression by interlobar lymph nodes.",
+      "criteria_or_scoring": [
+        "Opening has a “fish-mouth” appearance due to extrinsic compression."
+      ],
+      "how_to_perform": null,
+      "interpretation": "Appearance indicates extrinsic compression by interlobar lymph nodes.",
+      "limitations": null,
+      "when_to_use": "When assessing the right middle lobe orifice.",
+      "source_page": 9,
+      "source_excerpt": "Its opening may have a “fish-mouth” appearance due to extrinsic compression by interlobar lymph nodes.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 10
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Right carina nomenclature (RC1 and RC2)",
+      "purpose": "Name carinal divisions between right lobar bronchi.",
+      "criteria_or_scoring": [
+        "RC1 separates RUL orifice from bronchus intermedius",
+        "RC2 separates right middle and right lower lobes."
+      ],
+      "how_to_perform": null,
+      "interpretation": "Use RC1/RC2 terminology to denote right-sided subcarinal landmarks.",
+      "limitations": null,
+      "when_to_use": "Describing right bronchial branching landmarks.",
+      "source_page": 9,
+      "source_excerpt": "The carina separating the right upper lobe orifice from the bronchus intermedius is right carina 1 or RC1.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 10
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Left carina nomenclature (LC1 and LC2)",
+      "purpose": "Name subcarinal divisions on the left.",
+      "criteria_or_scoring": [
+        "LC1 separates upper division of LUL and lingula",
+        "LC2 separates LUL and LLL."
+      ],
+      "how_to_perform": null,
+      "interpretation": "Use LC1/LC2 terminology to denote left-sided subcarinal landmarks.",
+      "limitations": null,
+      "when_to_use": "Describing left bronchial branching landmarks.",
+      "source_page": 10,
+      "source_excerpt": "The subcarina separating the upper division of the left upper lobe and the lingula is left carina 1 or LC1.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 10
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Bronchoscopic recognition of tracheopathia osteochondroplastica",
+      "purpose": "Identify benign tracheal condition during bronchoscopy.",
+      "criteria_or_scoring": [
+        "Nodular studding localizes to cartilaginous rings while sparing the membranous portion."
+      ],
+      "how_to_perform": "Found incidentally during bronchoscopies.",
+      "interpretation": "Findings consistent with tracheopathia osteochondroplastica.",
+      "limitations": [
+        "Usually asymptomatic",
+        "incidental finding."
+      ],
+      "when_to_use": "During bronchoscopic evaluation of the trachea.",
+      "source_page": 7,
+      "source_excerpt": "found incidentally, accounting for approximately two to seven per 1000 cases of bronchoscopies [14].",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 10
+      },
+      "reference": "[14]"
+    }
+  ],
+  "treatment_algorithms": [],
+  "clinical_guidelines": [],
+  "drug_information": [],
+  "tables": [
+    {
+      "title": "Mallampati classification",
+      "headers": [
+        "Class",
+        "Visibility"
+      ],
+      "rows": [
+        [
+          "Class I",
+          "The soft palate, uvula, and tonsillar pillars are fully visible."
+        ],
+        [
+          "Class II",
+          "The soft palate and most of the uvula are visible."
+        ],
+        [
+          "Class III",
+          "Only the base of the uvula is visible, and the soft palate is partially visible."
+        ],
+        [
+          "Class IV",
+          "Only the hard palate is visible."
+        ]
+      ],
+      "units": null,
+      "footnotes": null,
+      "clinical_interpretation": null,
+      "source_page": 3,
+      "source_excerpt": "1. Class I: The soft palate, uvula, and tonsillar pillars are fully visible.",
+      "content_provenance": "pdf_text",
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "data_objects": [
+        {
+          "class": "Class I",
+          "visibility": "The soft palate, uvula, and tonsillar pillars are fully visible."
+        },
+        {
+          "class": "Class II",
+          "visibility": "The soft palate and most of the uvula are visible."
+        },
+        {
+          "class": "Class III",
+          "visibility": "Only the base of the uvula is visible, and the soft palate is partially visible."
+        },
+        {
+          "class": "Class IV",
+          "visibility": "Only the hard palate is visible."
+        }
+      ],
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Hypopharynx regions",
+      "headers": [
+        "Region",
+        "Description"
+      ],
+      "rows": [
+        [
+          "Piriform Sinuses",
+          "These are the two recesses located on either side of the laryngeal opening."
+        ],
+        [
+          "Postcricoid Area",
+          "This is the region behind the cricoid cartilage."
+        ],
+        [
+          "Posterior Pharyngeal Wall",
+          "This is the back wall of the hypopharynx."
+        ]
+      ],
+      "units": null,
+      "footnotes": null,
+      "clinical_interpretation": null,
+      "source_page": 3,
+      "source_excerpt": "Piriform Sinuses: These are the two recesses located on either side of the laryngeal opening.",
+      "content_provenance": "pdf_text",
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "data_objects": [
+        {
+          "region": "Piriform Sinuses",
+          "description": "These are the two recesses located on either side of the laryngeal opening."
+        },
+        {
+          "region": "Postcricoid Area",
+          "description": "This is the region behind the cricoid cartilage."
+        },
+        {
+          "region": "Posterior Pharyngeal Wall",
+          "description": "This is the back wall of the hypopharynx."
+        }
+      ],
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Mucosal folds of the larynx",
+      "headers": [
+        "Mucosal fold",
+        "Description"
+      ],
+      "rows": [
+        [
+          "Aryepiglottic Folds",
+          "Extend between the arytenoid cartilages and the lateral margins of the epiglottis, which in turn form the lateral borders of the laryngeal inlet. They are utilized in the closure mechanisms of the larynx."
+        ],
+        [
+          "Vestibular (False Vocal) Folds",
+          "Sit superior to the true vocal folds, these folds contain three distinct muscular systems. Below the vestibular folds are small cavities called ventricles that are bound inferiorly by the true vocal folds. The vestibular folds are involved in adduction and downward pressure, contributing in part to voice production."
+        ],
+        [
+          "True Vocal Folds",
+          "The unique viscoelastic properties of these layers facilitate sound production and are critical for maintaining vocal fold pliability."
+        ]
+      ],
+      "units": null,
+      "footnotes": null,
+      "clinical_interpretation": null,
+      "source_page": 3,
+      "source_excerpt": "1. Aryepiglottic Folds: Extend between the arytenoid cartilages and the lateral margins of the epiglottis, which in turn form the lateral borders of the laryngeal inlet.",
+      "content_provenance": "pdf_text",
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "data_objects": [
+        {
+          "mucosal_fold": "Aryepiglottic Folds",
+          "description": "Extend between the arytenoid cartilages and the lateral margins of the epiglottis, which in turn form the lateral borders of the laryngeal inlet. They are utilized in the closure mechanisms of the larynx."
+        },
+        {
+          "mucosal_fold": "Vestibular (False Vocal) Folds",
+          "description": "Sit superior to the true vocal folds, these folds contain three distinct muscular systems. Below the vestibular folds are small cavities called ventricles that are bound inferiorly by the true vocal folds. The vestibular folds are involved in adduction and downward pressure, contributing in part to voice production."
+        },
+        {
+          "mucosal_fold": "True Vocal Folds",
+          "description": "The unique viscoelastic properties of these layers facilitate sound production and are critical for maintaining vocal fold pliability."
+        }
+      ],
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Cartilaginous framework of the larynx",
+      "headers": [
+        "Cartilage",
+        "Description"
+      ],
+      "rows": [
+        [
+          "Thyroid Cartilage",
+          "Provides support for soft tissue structures. It is formed by two quadrilateral laminae that fuse anteriorly and inferiorly at an angle of 90° in men and 120° in women. This forms the laryngeal prominence and due to the sharper angle is more conspicuous in men and is commonly known as the Adam’s apple. It articulates with the cricoid cartilage below on the medial surface at the level just above the hyoid bone via the thyrohyoid and cricothyroid ligaments. This thin membrane is near the surface of the skin, relatively avascular, and serves as the landmark for an emergent cricothyroidotomy. On the external lateral surfaces, there are ridges connecting the extrinsic laryngeal muscles: the sternothyroid, thyrohyoid, and inferior pharyngeal constrictor. The posterior margin of each thyroid lamina courses both upward and downward as superior and inferior cornua. The two superior horns suspend the larynx from the hyoid bone via lateral thyroid ligaments, and two inferior horns articulate with the cricoid cartilage."
+        ],
+        [
+          "Cricoid Cartilage",
+          "Situated below the thyroid cartilage, this cartilage forms the only complete cartilaginous ring around the airway, with a narrow anterior arch and a broader posterior lamina. It articulates with the thyroid cartilage above by the median cricothyroid ligament and is attached to the first tracheal ring by the cricotracheal ligament. It supports the arytenoid cartilages."
+        ],
+        [
+          "Arytenoid Cartilages",
+          "These are paired, pyramid-shaped hyaline cartilages. They are positioned so that they sit on the superior border of the cricoid cartilage. They play a crucial role in vocal cord movement and phonation."
+        ],
+        [
+          "Epiglottic Cartilage",
+          "This leaf-shaped elastic fibrocartilage is located at the entrance of the larynx just distal to the base of the tongue. It is lined with mucous membrane and is attached to the arytenoid cartilages by the aryepiglottic folds laterally on both sides. The anterior aspect forms the inlet of the larynx. It functions to cover the glottis during swallowing, preventing food from entering the airway."
+        ],
+        [
+          "Corniculate Cartilages",
+          "These small, conical cartilages sit atop the arytenoid cartilages and are involved in the movement and tension of the vocal cords."
+        ],
+        [
+          "Cuneiform Cartilages",
+          "These are small, rod-shaped cartilages located within the aryepiglottic folds, providing structural support to the laryngeal inlet and are paired with the corniculate cartilages."
+        ]
+      ],
+      "units": null,
+      "footnotes": null,
+      "clinical_interpretation": null,
+      "source_page": 4,
+      "source_excerpt": "1. Thyroid Cartilage: Provides support for soft tissue structures.",
+      "content_provenance": "pdf_text",
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "data_objects": [
+        {
+          "cartilage": "Thyroid Cartilage",
+          "description": "Provides support for soft tissue structures. It is formed by two quadrilateral laminae that fuse anteriorly and inferiorly at an angle of 90° in men and 120° in women. This forms the laryngeal prominence and due to the sharper angle is more conspicuous in men and is commonly known as the Adam’s apple. It articulates with the cricoid cartilage below on the medial surface at the level just above the hyoid bone via the thyrohyoid and cricothyroid ligaments. This thin membrane is near the surface of the skin, relatively avascular, and serves as the landmark for an emergent cricothyroidotomy. On the external lateral surfaces, there are ridges connecting the extrinsic laryngeal muscles: the sternothyroid, thyrohyoid, and inferior pharyngeal constrictor. The posterior margin of each thyroid lamina courses both upward and downward as superior and inferior cornua. The two superior horns suspend the larynx from the hyoid bone via lateral thyroid ligaments, and two inferior horns articulate with the cricoid cartilage."
+        },
+        {
+          "cartilage": "Cricoid Cartilage",
+          "description": "Situated below the thyroid cartilage, this cartilage forms the only complete cartilaginous ring around the airway, with a narrow anterior arch and a broader posterior lamina. It articulates with the thyroid cartilage above by the median cricothyroid ligament and is attached to the first tracheal ring by the cricotracheal ligament. It supports the arytenoid cartilages."
+        },
+        {
+          "cartilage": "Arytenoid Cartilages",
+          "description": "These are paired, pyramid-shaped hyaline cartilages. They are positioned so that they sit on the superior border of the cricoid cartilage. They play a crucial role in vocal cord movement and phonation."
+        },
+        {
+          "cartilage": "Epiglottic Cartilage",
+          "description": "This leaf-shaped elastic fibrocartilage is located at the entrance of the larynx just distal to the base of the tongue. It is lined with mucous membrane and is attached to the arytenoid cartilages by the aryepiglottic folds laterally on both sides. The anterior aspect forms the inlet of the larynx. It functions to cover the glottis during swallowing, preventing food from entering the airway."
+        },
+        {
+          "cartilage": "Corniculate Cartilages",
+          "description": "These small, conical cartilages sit atop the arytenoid cartilages and are involved in the movement and tension of the vocal cords."
+        },
+        {
+          "cartilage": "Cuneiform Cartilages",
+          "description": "These are small, rod-shaped cartilages located within the aryepiglottic folds, providing structural support to the laryngeal inlet and are paired with the corniculate cartilages."
+        }
+      ],
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Trachea: extent and dimensions",
+      "headers": [
+        "Characteristic",
+        "Measurement/Description"
+      ],
+      "rows": [
+        [
+          "Extent",
+          "The adult trachea extends from the distal aspect of the cricoid cartilage, at the level of sixth cervical vertebrae, to the bifurcation at the main carina."
+        ],
+        [
+          "Length and internal diameter",
+          "The trachea is approximately 10–11 cm in length, with an internal diameter of 16–20 mm [13]."
+        ],
+        [
+          "Sagittal vs coronal diameters",
+          "The sagittal diameter is slightly longer than the coronal aspects, with the adult trachea measuring approximately 16 and 14 mm, respectively."
+        ]
+      ],
+      "units": null,
+      "footnotes": null,
+      "clinical_interpretation": null,
+      "source_page": 5,
+      "source_excerpt": "The adult trachea extends from the distal aspect of the cricoid cartilage, at the level of sixth cervical vertebrae, to the bifurcation at the main carina.",
+      "content_provenance": "pdf_text",
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "data_objects": [
+        {
+          "characteristic": "Extent",
+          "measurement/description": "The adult trachea extends from the distal aspect of the cricoid cartilage, at the level of sixth cervical vertebrae, to the bifurcation at the main carina."
+        },
+        {
+          "characteristic": "Length and internal diameter",
+          "measurement/description": "The trachea is approximately 10–11 cm in length, with an internal diameter of 16–20 mm [13]."
+        },
+        {
+          "characteristic": "Sagittal vs coronal diameters",
+          "measurement/description": "The sagittal diameter is slightly longer than the coronal aspects, with the adult trachea measuring approximately 16 and 14 mm, respectively."
+        }
+      ],
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Trachea: structure and bifurcation",
+      "headers": [
+        "Characteristic",
+        "Description"
+      ],
+      "rows": [
+        [
+          "Cartilaginous support",
+          "(or horseshoe) cartilages support the trachea (rings facing anteriorly) and allow for expansion during swallowing."
+        ],
+        [
+          "Posterior tracheal wall",
+          "The posterior part of the trachea consists of a smooth muscle (trachealis) that joins the ends of the tracheal cartilage."
+        ],
+        [
+          "Bifurcation",
+          "The trachea bifurcates at the carina into the right and left main stem bronchus (Fig. 4)."
+        ],
+        [
+          "Termination level",
+          "It tapers slightly as it terminates at the level of the fifth thoracic vertebrae, superior to the heart at the level of the sternal angle."
+        ]
+      ],
+      "units": null,
+      "footnotes": null,
+      "clinical_interpretation": null,
+      "source_page": 6,
+      "source_excerpt": "The trachea bifurcates at the carina into the right and left main stem bronchus (Fig. 4).",
+      "content_provenance": "pdf_text",
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "data_objects": [
+        {
+          "characteristic": "Cartilaginous support",
+          "description": "(or horseshoe) cartilages support the trachea (rings facing anteriorly) and allow for expansion during swallowing."
+        },
+        {
+          "characteristic": "Posterior tracheal wall",
+          "description": "The posterior part of the trachea consists of a smooth muscle (trachealis) that joins the ends of the tracheal cartilage."
+        },
+        {
+          "characteristic": "Bifurcation",
+          "description": "The trachea bifurcates at the carina into the right and left main stem bronchus (Fig. 4)."
+        },
+        {
+          "characteristic": "Termination level",
+          "description": "It tapers slightly as it terminates at the level of the fifth thoracic vertebrae, superior to the heart at the level of the sternal angle."
+        }
+      ],
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Tracheal blood supply and venous drainage",
+      "headers": [
+        "Component",
+        "Description"
+      ],
+      "rows": [
+        [
+          "Overview",
+          "The blood supply of the trachea is derived from multiple sources, characterized by a complex network of arteries and anastomose [13]."
+        ],
+        [
+          "Upper and lower trachea arterial supply",
+          "Branches of the inferior thyroid artery provide blood supply to the upper trachea and bronchial arteries supply the lower trachea (Fig. 5)."
+        ],
+        [
+          "Esophageal supply via anastamosis",
+          "The bronchial arteries additionally supply blood to the esophagus via anastamosis with the inferior thyroid artery."
+        ],
+        [
+          "Posterior membranous wall contribution",
+          "The posterior membranous wall of the trachea, however, receives some contribution from the esophageal arteries and their subdivisions."
+        ],
+        [
+          "Airway branches from main carina onward",
+          "From the main carina onward, subsequent airway branches derive their blood supply from three bronchial arteries: two branches supplying the left lung and one branch supplying the right lung."
+        ],
+        [
+          "Left bronchial artery origin",
+          "The left bronchial artery originates from the descending aorta supplying the left lung."
+        ],
+        [
+          "Right lung alternative arterial supplies",
+          "The right lung airways have various alternative supplies, including the aorta, first or third intercostal arteries, internal mammary artery, or the right subclavian artery."
+        ],
+        [
+          "Superficial venous system",
+          "The venous drainage of the airways contains a superficial and a deep system. The superficial system receives blood from the bronchial vein system of the hilum and the visceral pleura, which leads to the azygous vein of the right lung and accessory hemiazygous vein of the left lung."
+        ],
+        [
+          "Deep venous system",
+          "The deep venous system drains the deeper tributaries and then drains directly to the pulmonary vein or the left atrium."
+        ]
+      ],
+      "units": null,
+      "footnotes": null,
+      "clinical_interpretation": null,
+      "source_page": 6,
+      "source_excerpt": "The blood supply of the trachea is derived from multiple sources, characterized by a complex network of arteries and anastomose [13].",
+      "content_provenance": "pdf_text",
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "data_objects": [
+        {
+          "component": "Overview",
+          "description": "The blood supply of the trachea is derived from multiple sources, characterized by a complex network of arteries and anastomose [13]."
+        },
+        {
+          "component": "Upper and lower trachea arterial supply",
+          "description": "Branches of the inferior thyroid artery provide blood supply to the upper trachea and bronchial arteries supply the lower trachea (Fig. 5)."
+        },
+        {
+          "component": "Esophageal supply via anastamosis",
+          "description": "The bronchial arteries additionally supply blood to the esophagus via anastamosis with the inferior thyroid artery."
+        },
+        {
+          "component": "Posterior membranous wall contribution",
+          "description": "The posterior membranous wall of the trachea, however, receives some contribution from the esophageal arteries and their subdivisions."
+        },
+        {
+          "component": "Airway branches from main carina onward",
+          "description": "From the main carina onward, subsequent airway branches derive their blood supply from three bronchial arteries: two branches supplying the left lung and one branch supplying the right lung."
+        },
+        {
+          "component": "Left bronchial artery origin",
+          "description": "The left bronchial artery originates from the descending aorta supplying the left lung."
+        },
+        {
+          "component": "Right lung alternative arterial supplies",
+          "description": "The right lung airways have various alternative supplies, including the aorta, first or third intercostal arteries, internal mammary artery, or the right subclavian artery."
+        },
+        {
+          "component": "Superficial venous system",
+          "description": "The venous drainage of the airways contains a superficial and a deep system. The superficial system receives blood from the bronchial vein system of the hilum and the visceral pleura, which leads to the azygous vein of the right lung and accessory hemiazygous vein of the left lung."
+        },
+        {
+          "component": "Deep venous system",
+          "description": "The deep venous system drains the deeper tributaries and then drains directly to the pulmonary vein or the left atrium."
+        }
+      ],
+      "reference": "[13]"
+    },
+    {
+      "title": "Laryngeal location and composition",
+      "headers": [
+        "Characteristic",
+        "Details"
+      ],
+      "rows": [
+        [
+          "Location",
+          "The larynx is situated in the anterior part of the neck, extending from the level of the third to the sixth cervical vertebrae (C3–C6)."
+        ],
+        [
+          "Relative position",
+          "It lies just below the pharynx and above the trachea."
+        ],
+        [
+          "Composition",
+          "The laryngeal apparatus is composed of mucosal folds, cartilages, muscles, and their respective neural innervations [6]."
+        ]
+      ],
+      "units": null,
+      "footnotes": null,
+      "clinical_interpretation": null,
+      "source_page": 3,
+      "source_excerpt": "The larynx is situated in the anterior part of the neck, extending from the level of the third to the sixth cervical vertebrae (C3–C6).",
+      "content_provenance": "pdf_text",
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "data_objects": [
+        {
+          "characteristic": "Location",
+          "details": "The larynx is situated in the anterior part of the neck, extending from the level of the third to the sixth cervical vertebrae (C3–C6)."
+        },
+        {
+          "characteristic": "Relative position",
+          "details": "It lies just below the pharynx and above the trachea."
+        },
+        {
+          "characteristic": "Composition",
+          "details": "The laryngeal apparatus is composed of mucosal folds, cartilages, muscles, and their respective neural innervations [6]."
+        }
+      ],
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Laryngeal muscle groups",
+      "headers": [
+        "Group",
+        "Description"
+      ],
+      "rows": [
+        [
+          "Intrinsic muscles",
+          "Working in pairs, the intrinsic muscles are primarily responsible for controlling the tension and position of the vocal cords while also controlling the degree of opening of the glottis. During expiration, speech, and deglutition, the adductor muscles reverse the process to close the glottis [12]. The tension of the vocal folds modulates airflow when they are adducted. The cricothyroid, vocalis, and thyroarytenoid muscles are responsible for tightening and relaxing the vocal folds for speech and phonation. These muscles are innervated by the recurrent laryngeal nerve, except the cricothyroid muscle, which is innervated by the external branch of the superior laryngeal nerve."
+        ],
+        [
+          "Extrinsic muscles",
+          "The extrinsic group consists of the suprahyoid and infrahyoid muscles and function to position the larynx within the neck and work to elevate or depress it during swallowing and phonation. They are further divided into elevators and depressors."
+        ]
+      ],
+      "units": null,
+      "footnotes": null,
+      "clinical_interpretation": null,
+      "source_page": 5,
+      "source_excerpt": "The laryngeal muscles are categorized into extrinsic and intrinsic muscles.",
+      "content_provenance": "pdf_text",
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "data_objects": [
+        {
+          "group": "Intrinsic muscles",
+          "description": "Working in pairs, the intrinsic muscles are primarily responsible for controlling the tension and position of the vocal cords while also controlling the degree of opening of the glottis. During expiration, speech, and deglutition, the adductor muscles reverse the process to close the glottis [12]. The tension of the vocal folds modulates airflow when they are adducted. The cricothyroid, vocalis, and thyroarytenoid muscles are responsible for tightening and relaxing the vocal folds for speech and phonation. These muscles are innervated by the recurrent laryngeal nerve, except the cricothyroid muscle, which is innervated by the external branch of the superior laryngeal nerve."
+        },
+        {
+          "group": "Extrinsic muscles",
+          "description": "The extrinsic group consists of the suprahyoid and infrahyoid muscles and function to position the larynx within the neck and work to elevate or depress it during swallowing and phonation. They are further divided into elevators and depressors."
+        }
+      ],
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Table 1 Segmental airway nomenclature / Jackson–Huber classification",
+      "headers": [
+        "Right code",
+        "Right segment",
+        "Left code",
+        "Left segment"
+      ],
+      "rows": [
+        [
+          "RUL",
+          "",
+          "LUL",
+          ""
+        ],
+        [
+          "B1",
+          "Apical",
+          "B1/2",
+          "Apicoposterior"
+        ],
+        [
+          "B2",
+          "Posterior",
+          "B3",
+          "Anterior"
+        ],
+        [
+          "B3",
+          "Anterior",
+          "",
+          ""
+        ],
+        [
+          "RML",
+          "",
+          "Lingular",
+          ""
+        ],
+        [
+          "B4",
+          "Lateral",
+          "B4",
+          "Superior"
+        ],
+        [
+          "B5",
+          "Medial",
+          "B5",
+          "Inferior"
+        ],
+        [
+          "RLL",
+          "",
+          "LLL",
+          ""
+        ],
+        [
+          "B6",
+          "Superior",
+          "B6",
+          "Superior"
+        ],
+        [
+          "B7",
+          "Medial basal",
+          "B7/8",
+          "Anteromedial"
+        ],
+        [
+          "B8",
+          "Anterior basal",
+          "B9",
+          "Lateral basal"
+        ],
+        [
+          "B9",
+          "Lateral basal",
+          "B10",
+          "Posterior basal"
+        ],
+        [
+          "B10",
+          "Posterior basal",
+          "",
+          ""
+        ]
+      ],
+      "units": null,
+      "footnotes": [
+        "Source: Kumaran R, Sung A, Ernst A. Airway anatomy for the bronchoscopist. In: Ernst AE, editor. Introduction to bronchoscopy. Chapter 4, Table 4.1 Cambridge, UK: Cambridge University Press; 2009",
+        "Note: RUL right upper lobe, LUL left upper lobe, RML right middle lobe, RLL right lower lobe, LLL left lower lobe"
+      ],
+      "clinical_interpretation": null,
+      "source_page": 8,
+      "source_excerpt": "Table 1 Segmental airway nonmenclature/Jackson–Huber classiﬁcation B1 Apical B2 Posterior B1/2 Apicoposterior",
+      "content_provenance": "pdf_text",
+      "page_range": {
+        "start": 7,
+        "end": 10
+      },
+      "data_objects": [
+        {
+          "lobe": "RUL",
+          "segments": [
+            {
+              "code": "B1",
+              "name": "Apical"
+            },
+            {
+              "code": "B2",
+              "name": "Posterior"
+            },
+            {
+              "code": "B3",
+              "name": "Anterior"
+            }
+          ]
+        },
+        {
+          "lobe": "RML",
+          "segments": [
+            {
+              "code": "B4",
+              "name": "Lateral"
+            },
+            {
+              "code": "B5",
+              "name": "Medial"
+            }
+          ]
+        },
+        {
+          "lobe": "RLL",
+          "segments": [
+            {
+              "code": "B6",
+              "name": "Superior"
+            },
+            {
+              "code": "B7",
+              "name": "Medial basal"
+            },
+            {
+              "code": "B8",
+              "name": "Anterior basal"
+            },
+            {
+              "code": "B9",
+              "name": "Lateral basal"
+            },
+            {
+              "code": "B10",
+              "name": "Posterior basal"
+            }
+          ]
+        },
+        {
+          "lobe": "LUL",
+          "segments": [
+            {
+              "code": "B1/2",
+              "name": "Apicoposterior"
+            },
+            {
+              "code": "B3",
+              "name": "Anterior"
+            }
+          ]
+        },
+        {
+          "lobe": "Lingular",
+          "segments": [
+            {
+              "code": "B4",
+              "name": "Superior"
+            },
+            {
+              "code": "B5",
+              "name": "Inferior"
+            }
+          ]
+        },
+        {
+          "lobe": "LLL",
+          "segments": [
+            {
+              "code": "B6",
+              "name": "Superior"
+            },
+            {
+              "code": "B7/8",
+              "name": "Anteromedial"
+            },
+            {
+              "code": "B9",
+              "name": "Lateral basal"
+            },
+            {
+              "code": "B10",
+              "name": "Posterior basal"
+            }
+          ]
+        }
+      ],
+      "reference": "[Chapter Text]"
+    }
+  ],
+  "figures": [
+    {
+      "figure_id": "Fig. 1",
+      "title": null,
+      "caption": "Fig. 1 Pharyngeal anatomy. Sagittal view of pharynx divided into (1) nasopharynx, (2) oropharynx, and (3) hypopharynx. (From Nemec SF, Krestan CR, Noebauer-Huhmann IM, et al. Radiologische Normalanatomie des Larynx und Pharynx sowie bildgebende Techniken. Der Radiologe. 2009;49(1):8–16; Reprinted with kind per- mission from Springer Science+Business Media)",
+      "type": null,
+      "key_findings": [
+        "Sagittal view of pharynx divided into (1) nasopharynx, (2) oropharynx, and (3) hypopharynx."
+      ],
+      "clinical_significance": null,
+      "source_page": 3,
+      "source_excerpt": "Fig. 1 Pharyngeal anatomy. Sagittal view of pharynx divided into (1) nasopharynx, (2) oropharynx, and (3) hypopharynx.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "figure_id": "Fig. 6",
+      "title": null,
+      "caption": "Fig. 6 (a) Carina with right and left main bronchi, (b) right upper lobe (B1: Apical, B2: Anterior, B3: Posterior), (c) right middle lobe and right lower lobe, (d) left upper lobe and left lower lobe division (B4: superior segment of LUL, B5: inferior segment of LUL, B6: superior segment of LLL, Apicoposterior segments not shown), (e) basilar segment of left lower lobe (B6: superior segment, B7,8: anteromedial segment, B9,10: lateral and posterior segment) (d and e Reprinted with permission from Kumaran R, Sung A, Ernst A. Airway anatomy for the bronchoscopist. In: Ernst AE, editor. Introduction to bronchoscopy. Cambridge, UK: Cambridge University Press; 2009)",
+      "type": null,
+      "key_findings": [],
+      "clinical_significance": null,
+      "source_page": 7,
+      "source_excerpt": "Fig. 6 (a) Carina with right and left main bronchi, (b) right upper lobe (B1: Apical, B2: Anterior, B3: Posterior)",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 10
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "figure_id": "Fig. 2",
+      "title": "Coronal view of the laryngeal apparatus",
+      "caption": "Coronal view of the laryngeal apparatus with labeled vestibule, aryepiglottic fold, vestibular fold, vocal fold, ventricle, and subglottic space.",
+      "type": "diagram",
+      "key_findings": [
+        "Anatomic relationships of laryngeal folds and subglottic space in coronal plane."
+      ],
+      "clinical_significance": "Highlights landmarks relevant to emergent cricothyroidotomy and subglottic pathology.",
+      "source_page": 4,
+      "source_excerpt": "Fig. 2 Coronal view of the laryngeal apparatus",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "figure_id": "Fig. 3",
+      "title": "Normal laryngeal anatomy on CT (axial)",
+      "caption": "Sequential axial CT images from superior to inferior margins: (a) epiglottis/vallecula, (b) aryepiglottic folds/piriform sinus, (c) glottis/true vocal cords, (d) false vocal cords, (e) subglottis/cricoid cartilage.",
+      "type": "imaging",
+      "key_findings": [
+        "True vs false vocal cords distinguished by presence of fat in false cords.",
+        "Subglottic region is narrowest part between vocal folds and upper trachea."
+      ],
+      "clinical_significance": "CT landmarks aid in correlating endoscopic findings and recognizing subglottic stenosis.",
+      "source_page": 5,
+      "source_excerpt": "Fig. 3 Normal laryngeal anatomy CT images from superior to inferior margins.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 5,
+        "end": 5
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "figure_id": "Fig. 4",
+      "title": "Trachea and esophagus relative to vertebral and sternal levels",
+      "caption": "Schematic of trachea and esophagus in erect position; carina at level of T5 and sternal angle.",
+      "type": "diagram",
+      "key_findings": [
+        "Trachea bifurcates at carina above the heart at sternal angle level (approx T5)."
+      ],
+      "clinical_significance": "Useful for procedural planning and interpreting chest imaging landmarks.",
+      "source_page": 6,
+      "source_excerpt": "Fig. 4 The trachea and esophagus in relation to vertebral and sternal levels ...",
+      "present_in_source": true,
+      "page_range": {
+        "start": 6,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "figure_id": "Fig. 5",
+      "title": "Airway tree schematic",
+      "caption": "Diagram denoting main bronchi (yellow), lobar bronchi (blue), and segmental bronchi (red).",
+      "type": "diagram",
+      "key_findings": [
+        "Color-coded depiction of bronchial hierarchy and segmental distribution."
+      ],
+      "clinical_significance": "Reinforces Jackson–Huber segmental nomenclature.",
+      "source_page": 6,
+      "source_excerpt": "Fig. 5 Airway tree schematic.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 6,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    }
+  ],
+  "clinical_cases": [],
+  "definitions": [
+    {
+      "content": "The oral cavity, also known as the mouth, is an anatomical structure that plays a crucial role in various functions such as speech, mastication, and swallowing. It is bounded anteriorly by the lips, laterally by the cheeks, superiorly by the hard and soft palates, and inferiorly by the floor of the mouth.",
+      "source_page": 2,
+      "source_excerpt": "The oral cavity, also known as the mouth, is an anatomical structure that plays a crucial role",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "content": "The main carina, derived from “keel of a boat,” is observed as a sharp ridge separating the right and left mainstem bronchi.",
+      "source_page": 7,
+      "source_excerpt": "sharp ridge separating the right and left mainstem bronchi.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 10
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "term": "pCA",
+      "definition": "pretest probability of cancer",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "IPN",
+      "definition": "indeterminate pulmonary nodule",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "SPN",
+      "definition": "solitary pulmonary nodule",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "VDT",
+      "definition": "volume doubling time",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "FDG",
+      "definition": "fluorodeoxyglucose",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "PET",
+      "definition": "positron emission tomography",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "EBUS",
+      "definition": "endobronchial ultrasound",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "TBNA",
+      "definition": "transbronchial needle aspiration",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "PPV",
+      "definition": "positive predictive value",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "NPV",
+      "definition": "negative predictive value",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "ACCP",
+      "definition": "American College of Chest Physicians",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    },
+    {
+      "term": "BTS",
+      "definition": "British Thoracic Society",
+      "present_in_source": false,
+      "added_by": "enhancer"
+    }
+  ],
+  "clinical_pearls": [
+    {
+      "content": "Decreased tongue mobility, such as a tongue fixation, is a predictor of failed intubation [4].",
+      "source_page": 2,
+      "source_excerpt": "Decreased tongue mobility, such as a tongue fixation, is a predictor of failed intubation [4].",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[4]"
+    },
+    {
+      "content": "Occasionally, a nodular studding can be seen that localizes to the cartilaginous rings while sparing the membranous portion of the trachea. This benign condition, called tracheopathia osteochondroplastica, is usually asymp- tomatic and found incidentally, accounting for approximately two to seven per 1000 cases of bronchoscopies [14].",
+      "source_page": 7,
+      "source_excerpt": "tracheopathia osteochondroplastica, is usually asymp- tomatic … approximately two to seven per 1000 cases",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 10
+      },
+      "reference": "[14]"
+    }
+  ],
+  "references": [
+    {
+      "citation": "Swartz MH. The head and neck. Textbook of physical diagnosis. Elsevier Health Sciences; 2009.",
+      "authors": [
+        "Swartz MH"
+      ],
+      "year": 2009,
+      "journal": "Textbook of Physical Diagnosis",
+      "doi_pmid": null,
+      "study_type": null,
+      "key_findings": null,
+      "source_page": 10,
+      "source_excerpt": "Swartz MH. The head and neck. Textbook of physical diagnosis. Elsevier Health Sciences; 2009....",
+      "present_in_source": true,
+      "page_range": {
+        "start": 10,
+        "end": 10
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "citation": "Detsky ME, Jivraj N, Adhikari NK, Friedrich JO, Pinto R, Simel DL, Wijeysundera DN, Scales DC. Will this patient be difficult to intubate?: the rational clinical examination systematic review. JAMA. 2019;321(5):493–503.",
+      "authors": [
+        "Detsky ME",
+        "Jivraj N",
+        "Adhikari NK",
+        "Friedrich JO",
+        "Pinto R",
+        "Simel DL",
+        "Wijeysundera DN",
+        "Scales DC"
+      ],
+      "year": 2019,
+      "journal": "JAMA",
+      "doi_pmid": null,
+      "study_type": null,
+      "key_findings": null,
+      "source_page": 10,
+      "source_excerpt": "Detsky ME, Jivraj N, Adhikari NK, Friedrich JO, Pinto R, Simel DL, Wijeysundera DN, Scales DC. Will this patient be diff...",
+      "present_in_source": true,
+      "page_range": {
+        "start": 10,
+        "end": 10
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "citation": "Leigh LY, Vannelli P, Crow HC, Desai S, Lepore M, Anolik R, Glick M. Diseases of the respiratory tract. Burket’s Oral Medicine. 2021;469–504.",
+      "authors": [
+        "Leigh LY",
+        "Vannelli P",
+        "Crow HC",
+        "Desai S",
+        "Lepore M",
+        "Anolik R",
+        "Glick M"
+      ],
+      "year": 2021,
+      "journal": "Burket’s Oral Medicine",
+      "doi_pmid": null,
+      "study_type": null,
+      "key_findings": null,
+      "source_page": 10,
+      "source_excerpt": "Leigh LY, Vannelli P, Crow HC, Desai S, Lepore M, Anolik R, Glick M. Diseases of the respiratory tract. Burket’s Oral Me...",
+      "present_in_source": true,
+      "page_range": {
+        "start": 10,
+        "end": 10
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "citation": "Heidegger T. Management of the difficult airway. New England Journal of Medicine. 2021;384(19):1836–47.",
+      "authors": [
+        "Heidegger T"
+      ],
+      "year": 2021,
+      "journal": "New England Journal of Medicine",
+      "doi_pmid": null,
+      "study_type": null,
+      "key_findings": null,
+      "source_page": 10,
+      "source_excerpt": "Heidegger T. Management of the difficult airway. New England Journal of Medicine. 2021;384(19):1836–47....",
+      "present_in_source": true,
+      "page_range": {
+        "start": 10,
+        "end": 10
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "citation": "Patel RG. Nasal anatomy and function. Facial Plastic Surgery. 2017;33(01):003–8.",
+      "authors": [
+        "Patel RG"
+      ],
+      "year": 2017,
+      "journal": "Facial Plastic Surgery",
+      "doi_pmid": null,
+      "study_type": null,
+      "key_findings": null,
+      "source_page": 10,
+      "source_excerpt": "Patel RG. Nasal anatomy and function. Facial Plastic Surgery. 2017;33(01):003–8....",
+      "present_in_source": true,
+      "page_range": {
+        "start": 10,
+        "end": 10
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "citation": "Piazza C, Ribeiro JC, Bernal-Sprekelsen M, Paiva A, Peretti G. Anatomy and Physiology of the Larynx and Hypopharynx. Otorhinolaryngology, Head and Neck Surgery. 2010;461–71.",
+      "authors": [
+        "Piazza C",
+        "Ribeiro JC",
+        "Bernal-Sprekelsen M",
+        "Paiva A",
+        "Peretti G"
+      ],
+      "year": 2010,
+      "journal": "Otorhinolaryngology, Head and Neck Surgery",
+      "doi_pmid": null,
+      "study_type": null,
+      "key_findings": null,
+      "source_page": 10,
+      "source_excerpt": "Piazza C, Ribeiro JC, Bernal-Sprekelsen M, Paiva A, Peretti G. Anatomy and Physiology of the Larynx and Hypopharynx. Oto...",
+      "present_in_source": true,
+      "page_range": {
+        "start": 10,
+        "end": 10
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "citation": "Ayappa I, Rapoport DM. The upper airway in sleep: physiology of the pharynx. Sleep Medicine Reviews. 2003;7(1):9–33.",
+      "authors": [
+        "Ayappa I",
+        "Rapoport DM"
+      ],
+      "year": 2003,
+      "journal": "Sleep Medicine Reviews",
+      "doi_pmid": null,
+      "study_type": null,
+      "key_findings": null,
+      "source_page": 10,
+      "source_excerpt": "Ayappa I, Rapoport DM. The upper airway in sleep: physiology of the pharynx. Sleep Medicine Reviews. 2003;7(1):9–33....",
+      "present_in_source": true,
+      "page_range": {
+        "start": 10,
+        "end": 10
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "citation": "Lecanwasam H, Dunn PF. Airway evaluation and management. In: Huford WE, Bailin MT, Davidson JK. Clinical anesthesia procedures of the Massachusetts General Hospital. 6th ed. Philadelphia: Williams & Wilkins; 2002:568–621.",
+      "authors": [
+        "Lecanwasam H",
+        "Dunn PF"
+      ],
+      "year": 2002,
+      "journal": "Clinical Anesthesia Procedures of the Massachusetts General Hospital (book chapter)",
+      "doi_pmid": null,
+      "study_type": null,
+      "key_findings": null,
+      "source_page": 10,
+      "source_excerpt": "Lecanwasam H, Dunn PF. Airway evaluation and management. In: Huford WE, Bailin MT, Davidson JK. Clinical anesthesia proc...",
+      "present_in_source": true,
+      "page_range": {
+        "start": 10,
+        "end": 10
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "citation": "Sasaki CT, Young N, Matsuzaki H, Paskhover B. Anatomy of the human larynx. In: Rubin JS, Sataloff RT, Korovin GS. Diagnosis and Treatment of Voice Disorders. 2014;3:31–46.",
+      "authors": [
+        "Sasaki CT",
+        "Young N",
+        "Matsuzaki H",
+        "Paskhover B"
+      ],
+      "year": 2014,
+      "journal": "Diagnosis and Treatment of Voice Disorders (book chapter)",
+      "doi_pmid": null,
+      "study_type": null,
+      "key_findings": null,
+      "source_page": 10,
+      "source_excerpt": "Sasaki CT, Young N, Matsuzaki H, Paskhover B. Anatomy of the human larynx. In: Rubin JS, Sataloff RT, Korovin GS. Diagno...",
+      "present_in_source": true,
+      "page_range": {
+        "start": 10,
+        "end": 10
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "citation": "Eskander A, De Almeida JR, Irish JC. Acute upper airway obstruction. New England Journal of Medicine. 2019;381(20):1940–9.",
+      "authors": [
+        "Eskander A",
+        "De Almeida JR",
+        "Irish JC"
+      ],
+      "year": 2019,
+      "journal": "New England Journal of Medicine",
+      "doi_pmid": null,
+      "study_type": null,
+      "key_findings": null,
+      "source_page": 10,
+      "source_excerpt": "Eskander A, De Almeida JR, Irish JC. Acute upper airway obstruction. New England Journal of Medicine. 2019;381(20):1940–...",
+      "present_in_source": true,
+      "page_range": {
+        "start": 10,
+        "end": 10
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "citation": "Pasick LJ, Anis MM, Rosow DE. An updated review of subglottic stenosis: etiology, evaluation, and management. Current Pulmonology Reports. 2022;11(2):29–38.",
+      "authors": [
+        "Pasick LJ",
+        "Anis MM",
+        "Rosow DE"
+      ],
+      "year": 2022,
+      "journal": "Current Pulmonology Reports",
+      "doi_pmid": null,
+      "study_type": null,
+      "key_findings": null,
+      "source_page": 10,
+      "source_excerpt": "Pasick LJ, Anis MM, Rosow DE. An updated review of subglottic stenosis: etiology, evaluation, and management. Current Pu...",
+      "present_in_source": true,
+      "page_range": {
+        "start": 10,
+        "end": 10
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "citation": "Sataloff RT. Clinical anatomy and physiology of the voice. Neurolaryngology. 2017:49–64.",
+      "authors": [
+        "Sataloff RT"
+      ],
+      "year": 2017,
+      "journal": "Neurolaryngology",
+      "doi_pmid": null,
+      "study_type": null,
+      "key_findings": null,
+      "source_page": 10,
+      "source_excerpt": "Sataloff RT. Clinical anatomy and physiology of the voice. Neurolaryngology. 2017:49–64....",
+      "present_in_source": true,
+      "page_range": {
+        "start": 10,
+        "end": 10
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "citation": "Minnich DJ, Mathisen DJ. Anatomy of the trachea, carina, and bronchi. Thoracic Surgery Clinics. 2007;17(4):571–85.",
+      "authors": [
+        "Minnich DJ",
+        "Mathisen DJ"
+      ],
+      "year": 2007,
+      "journal": "Thoracic Surgery Clinics",
+      "doi_pmid": null,
+      "study_type": null,
+      "key_findings": null,
+      "source_page": 10,
+      "source_excerpt": "Minnich DJ, Mathisen DJ. Anatomy of the trachea, carina, and bronchi. Thoracic Surgery Clinics. 2007;17(4):571–85....",
+      "present_in_source": true,
+      "page_range": {
+        "start": 10,
+        "end": 10
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "citation": "Hussain K, Gilbert S. Tracheopathia osteochondroplastica. Clin Med Res. 2003;1(3):239–42.",
+      "authors": [
+        "Hussain K",
+        "Gilbert S"
+      ],
+      "year": 2003,
+      "journal": "Clinical Medicine & Research",
+      "doi_pmid": null,
+      "study_type": null,
+      "key_findings": null,
+      "source_page": 10,
+      "source_excerpt": "Hussain K, Gilbert S. Tracheopathia osteochondroplastica. Clin Med Res. 2003;1(3):239–42....",
+      "present_in_source": true,
+      "page_range": {
+        "start": 10,
+        "end": 10
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "citation": "Jackson CL, Huber JF. Correlated applied anatomy of the bronchial tree and lungs with a system of nomenclature. Diseases of the Chest. 1943;9(4):319–26.",
+      "authors": [
+        "Jackson CL",
+        "Huber JF"
+      ],
+      "year": 1943,
+      "journal": "Diseases of the Chest",
+      "doi_pmid": null,
+      "study_type": null,
+      "key_findings": null,
+      "source_page": 10,
+      "source_excerpt": "Jackson CL, Huber JF. Correlated applied anatomy of the bronchial tree and lungs with a system of nomenclature. Diseases...",
+      "present_in_source": true,
+      "page_range": {
+        "start": 10,
+        "end": 10
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "citation": "Yamashita H. Roentgenologic Anatomy of the Lung. Igaku-Shoin Ltd. 1978:70–90.",
+      "authors": [
+        "Yamashita H"
+      ],
+      "year": 1978,
+      "journal": "Roentgenologic Anatomy of the Lung",
+      "doi_pmid": null,
+      "study_type": null,
+      "key_findings": null,
+      "source_page": 10,
+      "source_excerpt": "Yamashita H. Roentgenologic Anatomy of the Lung. Igaku-Shoin Ltd. 1978:70–90....",
+      "present_in_source": true,
+      "page_range": {
+        "start": 10,
+        "end": 10
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "citation": "Boyden EA. Segmental anatomy of the lungs: patterns of the segmental bronchi and related pulmonary vessels. 1955:87–116.",
+      "authors": [
+        "Boyden EA"
+      ],
+      "year": 1955,
+      "journal": "Segmental Anatomy of the Lungs",
+      "doi_pmid": null,
+      "study_type": null,
+      "key_findings": null,
+      "source_page": 10,
+      "source_excerpt": "Boyden EA. Segmental anatomy of the lungs: patterns of the segmental bronchi and related pulmonary vessels. 1955:87–116....",
+      "present_in_source": true,
+      "page_range": {
+        "start": 10,
+        "end": 10
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "citation": "Amorós JA, Lluveras AU. Tracheobronchial Anatomy. In: Interventions in Pulmonary Medicine. 2018:3–13.",
+      "authors": [
+        "Amorós JA",
+        "Lluveras AU"
+      ],
+      "year": 2018,
+      "journal": "Interventions in Pulmonary Medicine (book chapter)",
+      "doi_pmid": null,
+      "study_type": null,
+      "key_findings": null,
+      "source_page": 10,
+      "source_excerpt": "Amorós JA, Lluveras AU. Tracheobronchial Anatomy. In: Interventions in Pulmonary Medicine. 2018:3–13....",
+      "present_in_source": true,
+      "page_range": {
+        "start": 10,
+        "end": 10
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "citation": "Marini T, Hobbs SK, Chaturvedi A, Kaproth-Joslin K. Beyond bronchitis: a review of the congenital and acquired abnormalities of the bronchus. Insights into Imaging. 2017;8:141–53.",
+      "authors": [
+        "Marini T",
+        "Hobbs SK",
+        "Chaturvedi A",
+        "Kaproth-Joslin K"
+      ],
+      "year": 2017,
+      "journal": "Insights into Imaging",
+      "doi_pmid": null,
+      "study_type": null,
+      "key_findings": null,
+      "source_page": 10,
+      "source_excerpt": "Marini T, Hobbs SK, Chaturvedi A, Kaproth-Joslin K. Beyond bronchitis: a review of the congenital and acquired abnormali...",
+      "present_in_source": true,
+      "page_range": {
+        "start": 10,
+        "end": 10
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "citation": "Webb WR. Thin-section CT of the secondary pulmonary lobule: anatomy and the image—the 2004 Fleischner lecture. Radiology. 2006;239(2):322–38.",
+      "authors": [
+        "Webb WR"
+      ],
+      "year": 2006,
+      "journal": "Radiology",
+      "doi_pmid": null,
+      "study_type": null,
+      "key_findings": null,
+      "source_page": 10,
+      "source_excerpt": "Webb WR. Thin-section CT of the secondary pulmonary lobule: anatomy and the image—the 2004 Fleischner lecture. Radiology...",
+      "present_in_source": true,
+      "page_range": {
+        "start": 10,
+        "end": 10
+      },
+      "reference": "[Chapter Text]"
+    }
+  ],
+  "summary": {
+    "clinical_applications": [],
+    "practice_recommendations": [
+      {
+        "content": "An overall assessment of the oral cavity should be performed prior to performing any type of procedure.",
+        "source_page": 2,
+        "source_excerpt": "An overall assessment of the oral cavity should be performed prior to performing any type of procedure.",
+        "present_in_source": true,
+        "page_range": {
+          "start": 1,
+          "end": 6
+        },
+        "reference": "[Chapter Text]"
+      },
+      {
+        "content": "Bronchosocopists should have a thorough fundamental knowledge of the upper airway and tracheobronchial tree.",
+        "source_page": 10,
+        "source_excerpt": "Bronchosocopists should have a thorough fundamental knowledge of the upper airway and tracheobronchial tree.",
+        "present_in_source": true,
+        "page_range": {
+          "start": 7,
+          "end": 10
+        },
+        "reference": "[Chapter Text]"
+      }
+    ],
+    "future_directions": [],
+    "controversies": []
+  },
+  "extraction_metadata": {
+    "source_pdf": "Textbooks/Chapter pdfs/Airway Anatomy.pdf",
+    "adobe_json": null,
+    "extraction_date": "2025-08-21T01:05:37.642384+00:00",
+    "text_pages": 10,
+    "chunks_processed": 2,
+    "model": "gpt-5",
+    "extractor_version": "production_multipass_v3.2_gpt5_simple",
+    "enhancements_applied": [
+      "risk_model_separation",
+      "clinical_interpretation_addition",
+      "performance_metric_normalization",
+      "inline_reference_addition",
+      "duplicate_consolidation",
+      "missing_section_extraction"
+    ],
+    "passes_completed": 7,
+    "quality_issues": {
+      "tables": [
+        "Check footnotes presence: Mallampati classification",
+        "Check footnotes presence: Hypopharynx regions",
+        "Check footnotes presence: Mucosal folds of the larynx",
+        "Check footnotes presence: Cartilaginous framework of the larynx",
+        "Check footnotes presence: Trachea: extent and dimensions",
+        "Check footnotes presence: Trachea: structure and bifurcation",
+        "Check footnotes presence: Tracheal blood supply and venous drainage",
+        "Check footnotes presence: Laryngeal location and composition",
+        "Check footnotes presence: Laryngeal muscle groups"
+      ]
+    },
+    "schema_version": "gold_standard_v1.0",
+    "enhancement_version": "1.0"
+  },
+  "risk_models": [],
+  "guideline_adherence": {},
+  "technology_and_technique": [
+    {
+      "topic": "Pre-procedure oral cavity assessment for bronchoscopy/intubation",
+      "summary": "Systematic oral cavity inspection before airway procedures reduces risks of trauma, aspiration, and failed intubation. Specific safety points: mobile teeth can dislodge and obstruct the airway; the tongue can obstruct in sedated/comatose patients causing desaturation/hypoventilation; decreased tongue mobility is a predictor of failed intubation. Performance tips: mobilize the tongue (nondominant hand) to facilitate rigid bronchoscope passage; sweep the tongue laterally with direct laryngoscope during endotracheal intubation. No yield percentages provided.",
+      "reference": "Patel S, Sung A, Frye L. Airway Anatomy. In: Principles and Practice of Interventional Pulmonology. Springer; 2025. (refs [2], [4])"
+    },
+    {
+      "topic": "Patient selection and aspiration risk clues from oral health",
+      "summary": "Poor dental hygiene in high-risk patients (e.g., alcohol abuse) suggests aspiration risk with anaerobic infections and can correlate with air–fluid levels on imaging. Useful for selecting patients needing aspiration-focused diagnostics and preventive measures. No comparative effectiveness or yield data provided.",
+      "reference": "Patel S, Sung A, Frye L. Airway Anatomy. In: Principles and Practice of Interventional Pulmonology. Springer; 2025. (ref [3])"
+    },
+    {
+      "topic": "Nasal route considerations for flexible bronchoscopy",
+      "summary": "Nasal septal deviation, turbinate hypertrophy, and nasal polyps are common anatomic barriers that can impact feasibility and safety of transnasal bronchoscopy. Selecting the passage with least resistance (and recognizing these variants) can reduce trauma and improve procedural success. No diagnostic yield or modality-comparison data provided.",
+      "reference": "Patel S, Sung A, Frye L. Airway Anatomy. In: Principles and Practice of Interventional Pulmonology. Springer; 2025. (ref [5])"
+    },
+    {
+      "topic": "Role of bronchoscopy in lung cancer diagnosis and staging",
+      "summary": "Bronchoscopy is routinely used to obtain specimens from lymph nodes, endobronchial lesions, and lung parenchyma to establish histologic diagnosis and determine stage. Precise anatomic localization informs candidacy for surgical resection versus medical therapy. The chapter does not provide yield percentages, safety rates, or comparative effectiveness versus other modalities.",
+      "reference": "Patel S, Sung A, Frye L. Airway Anatomy. In: Principles and Practice of Interventional Pulmonology. Springer; 2025. (ref [1])"
+    }
+  ],
+  "conclusion": {
+    "points": [
+      "10 Abstract The human airway consists of the upper and lower air- ways",
+      "The larynx, being part of the upper airway, contrib- utes to phonation, respiration, and prevention of aspiration",
+      "Its anatomy plays a central role in the complex sensorimotor functions including swallowing and speech production"
+    ],
+    "reference": "[Chapter Conclusion]"
+  }
+}

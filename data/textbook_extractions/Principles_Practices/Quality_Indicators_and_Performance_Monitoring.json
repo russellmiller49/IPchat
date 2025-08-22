@@ -1,0 +1,195 @@
+{
+  "chapter_metadata": {
+    "title": {
+      "value": "Quality Indicators and Performance Monitoring in Interventional Pulmonology",
+      "present_in_source": true
+    },
+    "authors": [
+      "Daniel P. Steinfort",
+      "Matthew Evison"
+    ],
+    "chapter_number": {
+      "value": "4-1",
+      "present_in_source": true
+    },
+    "key_points": [
+      "Performance monitoring systematically collects and analyzes metrics to improve bronchoscopy outcomes.",
+      "Quality indicators are measurable elements of practice performance linked to patient safety and outcomes.",
+      "Indicators fall into structural, process, and outcome measures.",
+      "Audit and feedback are critical for reducing variance in care and improving quality.",
+      "Large audits and registries (BTS, AQuIRE) have highlighted gaps in quality and informed performance standards."
+    ],
+    "page_range": {
+      "start": 1,
+      "end": 7
+    },
+    "reference": "[Chapter Text]"
+  },
+  "clinical_procedures": [
+    "Flexible bronchoscopy",
+    "Endobronchial ultrasound (EBUS, radial and linear)",
+    "Transbronchial needle aspiration (TBNA)",
+    "Robotic bronchoscopy",
+    "Bronchoscopic lung volume reduction"
+  ],
+  "diagnostic_approaches": [
+    "Use of quality indicators for bronchoscopy and EBUS performance",
+    "Audit and feedback cycles to assess diagnostic sensitivity and complication rates",
+    "Standardized reporting of procedural details (indication, sedation, target structures)",
+    "Adverse event reporting (including delayed AEs)"
+  ],
+  "definitions": [
+    {
+      "term": "Quality indicator",
+      "definition": "Measurable element of practice performance that acts as a marker of high-quality care."
+    },
+    {
+      "term": "Structural measures",
+      "definition": "Indicators assessing healthcare environment and infrastructure."
+    },
+    {
+      "term": "Process measures",
+      "definition": "Indicators assessing delivery of care, often linked to improved outcomes."
+    },
+    {
+      "term": "Outcome measures",
+      "definition": "Indicators assessing results of care, such as diagnostic sensitivity or complication rates."
+    },
+    {
+      "term": "Audit and feedback",
+      "definition": "Systematic review of performance with feedback to drive improvement."
+    },
+    {
+      "term": "AQuIRE registry",
+      "definition": "ACCP multicenter registry collecting bronchoscopy data for quality improvement."
+    }
+  ],
+  "references": [
+    "Du Rand IMM. BTS Quality Standards for Diagnostic Flexible Bronchoscopy in Adults. 2014.",
+    "NHS Lung Cancer Clinical Expert Group. Endobronchial Ultrasound Service Specifications. 2018.",
+    "Steinfort DP et al. WABIP Expert Panel Consensus Statement on EBUS Quality Indicators. Respirology. 2023.",
+    "Verma DJB et al. BTS National Adult Bronchoscopy Audit Report. 2018.",
+    "Ost DE et al. Diagnostic yield of EBUS-TBNA: AQuIRE Bronchoscopy Registry. Chest. 2011.",
+    "Rizk MK et al. Quality indicators common to all GI endoscopic procedures. Gastrointest Endosc. 2015.",
+    "Maconachie R et al. Lung cancer diagnosis and management: NICE guidance. BMJ. 2019."
+  ],
+  "conclusion": {
+    "points": [
+      "Variance in care reflects variability in procedural quality rather than patient factors alone.",
+      "Professional responsibility requires all interventional pulmonologists to benchmark outcomes.",
+      "Audit and feedback should be a standard feature of IP services aiming for excellence."
+    ],
+    "reference": "[Chapter Conclusion]"
+  },
+  "quality_indicators": [
+    {
+      "domain": "pre",
+      "indicator": "Indication for EBUS documented",
+      "type": "Process",
+      "target": ">98%"
+    },
+    {
+      "domain": "pre",
+      "indicator": "Consent fully documented incl. risks of EBUS and sedation",
+      "type": "Process",
+      "target": ">98%"
+    },
+    {
+      "domain": "pre",
+      "indicator": "EBUS performed/supervised by trained operators",
+      "type": "Process",
+      "target": ">98%"
+    },
+    {
+      "domain": "pre",
+      "indicator": "Sedation plan documented (comorbidities & risks)",
+      "type": "Process",
+      "target": ">98%"
+    },
+    {
+      "domain": "intra",
+      "indicator": "Anesthetic/sedation management recorded",
+      "type": "Process",
+      "target": ">98%"
+    },
+    {
+      "domain": "intra",
+      "indicator": "Appearance of relevant structures recorded (per indication)",
+      "type": "Process",
+      "target": ">98%"
+    },
+    {
+      "domain": "intra",
+      "indicator": "Systematic mediastinal LN staging for ACCP B & C (cN1/2/3)",
+      "type": "Process",
+      "target": ">95%"
+    },
+    {
+      "domain": "post",
+      "indicator": "Immediate adverse events",
+      "type": "Outcome",
+      "target": "<2%"
+    },
+    {
+      "domain": "post",
+      "indicator": "Complication incidence (incl. individual complications)",
+      "type": "Outcome",
+      "target": "Varies by indication"
+    },
+    {
+      "domain": "post",
+      "indicator": "Inadequate specimens per LN station",
+      "type": "Outcome",
+      "target": "<10%"
+    },
+    {
+      "domain": "post",
+      "indicator": "Diagnostic performance of EBUS-TBNA (by indication/ACCP group)",
+      "type": "Outcome",
+      "target": "Varies by diagnosis"
+    },
+    {
+      "domain": "post",
+      "indicator": "Specimens inadequate for required molecular testing",
+      "type": "Outcome",
+      "target": "<5%"
+    }
+  ],
+  "ebus_targets": [
+    {
+      "prevalence_band": ">80%",
+      "sensitivity_meta": "96%",
+      "sensitivity_min": ">90%",
+      "npv_meta": "83%",
+      "npv_min": ">80%"
+    },
+    {
+      "prevalence_band": "60\u201380%",
+      "sensitivity_meta": "91%",
+      "sensitivity_min": ">88%",
+      "npv_meta": "83%",
+      "npv_min": ">80%"
+    },
+    {
+      "prevalence_band": "40\u201360%",
+      "sensitivity_meta": "87%",
+      "sensitivity_min": ">85%",
+      "npv_meta": "89%",
+      "npv_min": ">85%"
+    },
+    {
+      "prevalence_band": "20\u201340%",
+      "sensitivity_meta": "87%",
+      "sensitivity_min": ">80%",
+      "npv_meta": "95%",
+      "npv_min": ">90%"
+    },
+    {
+      "prevalence_band": "<20%",
+      "sensitivity_meta": "78%",
+      "sensitivity_min": ">75%",
+      "npv_meta": "96%",
+      "npv_min": ">92%"
+    }
+  ]
+}

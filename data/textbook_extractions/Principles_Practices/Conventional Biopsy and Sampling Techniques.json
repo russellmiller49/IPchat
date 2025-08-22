@@ -1,0 +1,1486 @@
+{
+  "chapter_metadata": {
+    "title": {
+      "value": "Conventional Biopsy and Sampling Techniques | source_page: 1 | source_excerpt: \"Conventional Biopsy and Sampling Techniques\"",
+      "present_in_source": false
+    },
+    "authors": [],
+    "chapter_number": {
+      "value": null,
+      "present_in_source": false
+    },
+    "learning_objectives": [],
+    "key_points": [],
+    "page_range": {
+      "start": 1,
+      "end": 15
+    },
+    "reference": "[Chapter Text]"
+  },
+  "anatomical_content": {
+    "structures": []
+  },
+  "clinical_procedures": [],
+  "diagnostic_approaches": [
+    {
+      "name": "Forceps biopsy (central endobronchial lesions)",
+      "purpose": "Sampling cytohistological material from bronchoscopically visible airway lesions.",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Open the forceps above the lesion, advance and push toward target, close firmly, then withdraw through the working channel; keep forceps close to bronchoscope tip.",
+      "interpretation": null,
+      "limitations": [
+        "Difficult to sample submucosal/peribronchial lesions or necrotic lesions",
+        "bleeding risk."
+      ],
+      "when_to_use": "Endobronchial lesions within visual range of the flexible bronchoscope.",
+      "source_page": 4,
+      "source_excerpt": "In central airway lesions, forceps biopsy yields sensitivity that is around 88%, based on a systematic review of 35 studies",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "performance": {
+        "sensitivity": "88%"
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Electrocautery biopsy forceps (hot forceps)",
+      "purpose": "Proposed for sampling endobronchial lesions with the aim to prevent bleeding.",
+      "criteria_or_scoring": [],
+      "how_to_perform": null,
+      "interpretation": null,
+      "limitations": [
+        "No evidence of reducing clinically relevant bleeding",
+        "routine use not warranted."
+      ],
+      "when_to_use": null,
+      "source_page": 2,
+      "source_excerpt": "there is no evidence that they may reduce the incidence of clinically relevant bleeding episodes, and their routine use is not warranted.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Cryobiopsy (central bronchogenic lesions)",
+      "purpose": "Endobronchial biopsy of central bronchogenic lesions.",
+      "criteria_or_scoring": [],
+      "how_to_perform": null,
+      "interpretation": null,
+      "limitations": [
+        "Higher cost",
+        "not enough evidence to recommend routine use."
+      ],
+      "when_to_use": "Could be reserved for difficult cases when a first bronchoscopy has not been diagnostic.",
+      "source_page": 2,
+      "source_excerpt": "A definitive diagnosis was achieved in 85.1% with conventional forceps biopsy and in 95% of patients who underwent cryobiopsy ( p < 0.001)",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "performance": {
+        "accuracy": "95%"
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Brushing (central endobronchial lesions)",
+      "purpose": "Collect cytological material from bronchoscopically visible airway lesions.",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Directly smear the brush onto a glass slide or place in saline and remove cells by vigorous shaking.",
+      "interpretation": null,
+      "limitations": [
+        "Samples only superficial mucosa",
+        "not indicated for submucosal or intraparietal lesions."
+      ],
+      "when_to_use": "Used for bronchoscopically visible lesions; may be combined with biopsy.",
+      "source_page": 5,
+      "source_excerpt": "The average diagnostic yield from brushing is lower compared to forceps biopsy, with a sensitivity of 59% [37].",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "performance": {
+        "sensitivity": "59%"
+      },
+      "reference": "[37]"
+    },
+    {
+      "name": "Bronchial washing (central airway lesions)",
+      "purpose": "Sampling cells from central airway lesions.",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Instill saline through the working channel and retrieve by suction.",
+      "interpretation": null,
+      "limitations": [
+        "Obtains only exfoliated superficial cells",
+        "lower yield",
+        "routine use questionable."
+      ],
+      "when_to_use": "May be collected during bronchoscopy; examine if other specimens are not diagnostic.",
+      "source_page": 5,
+      "source_excerpt": "The sensitivity of washing for central lung cancer is lower than that obtained by biopsy or brushing, with an average value of 48% [37].",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "performance": {
+        "sensitivity": "48%"
+      },
+      "reference": "[37]"
+    },
+    {
+      "name": "Brushing and washing for mycobacterial diseases",
+      "purpose": "Diagnosis of mycobacterial diseases.",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Agitate brush in a sterile medium; collect washing in a sterile specimen trap.",
+      "interpretation": null,
+      "limitations": [
+        "Specimens are contaminated by oropharyngeal flora during transnasal/transoral passage."
+      ],
+      "when_to_use": "In suspected infectious conditions.",
+      "source_page": 6,
+      "source_excerpt": "The sensitivity of brushing and washing for the diagnosis of mycobacterial diseases is very high, and it has been reported to range from 58% to 96% [22].",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "performance": {
+        "sensitivity": "58%"
+      },
+      "reference": "[22]"
+    },
+    {
+      "name": "Transbronchial needle aspiration (TBNA) for central bronchial lesions",
+      "purpose": "Sample deep mucosal and peribronchial components of central bronchial lesions.",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Penetrate deep layers of mucosa/peribronchial area with the needle and aspirate target lesion.",
+      "interpretation": null,
+      "limitations": [
+        "Disposable needle increases procedure cost."
+      ],
+      "when_to_use": "Visible central lesions, especially infiltrative, hypervascular, or necrotic lesions.",
+      "source_page": 6,
+      "source_excerpt": "The sensitivity of TBNA for central bronchial lesions is reported to range from 68% to 91%, with values similar to those obtained by forceps biopsy [30].",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "performance": {
+        "sensitivity": "68%"
+      },
+      "reference": "[30]"
+    },
+    {
+      "name": "Imprint cytology or biopsy rinse cytology (adjuncts to forceps biopsy)",
+      "purpose": "Alternative processing of forceps biopsy samples.",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Smear the biopsy on a slide (imprint cytology) or examine the biopsy rinse fluid cytologically.",
+      "interpretation": null,
+      "limitations": [
+        "Not validated",
+        "use not recommended."
+      ],
+      "when_to_use": null,
+      "source_page": 4,
+      "source_excerpt": "these techniques have not been validated and their use is not recommended.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Forceps biopsy (peripheral pulmonary lesions)",
+      "purpose": "Used for peripheral pulmonary lesions (Table 1).",
+      "criteria_or_scoring": [],
+      "how_to_perform": null,
+      "interpretation": null,
+      "limitations": null,
+      "when_to_use": "Peripheral pulmonary lesions.",
+      "source_page": 2,
+      "source_excerpt": "Peripheral pulmonary lesions Forceps biopsy Brush Transbronchial needle Bronchoalveolar lavage",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Brush (peripheral pulmonary lesions)",
+      "purpose": "Used for peripheral pulmonary lesions (Table 1).",
+      "criteria_or_scoring": [],
+      "how_to_perform": null,
+      "interpretation": null,
+      "limitations": null,
+      "when_to_use": "Peripheral pulmonary lesions.",
+      "source_page": 2,
+      "source_excerpt": "Peripheral pulmonary lesions Forceps biopsy Brush Transbronchial needle Bronchoalveolar lavage",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Transbronchial needle (peripheral pulmonary lesions)",
+      "purpose": "Used for peripheral pulmonary lesions (Table 1).",
+      "criteria_or_scoring": [],
+      "how_to_perform": null,
+      "interpretation": null,
+      "limitations": null,
+      "when_to_use": "Peripheral pulmonary lesions.",
+      "source_page": 2,
+      "source_excerpt": "Peripheral pulmonary lesions Forceps biopsy Brush Transbronchial needle Bronchoalveolar lavage",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Bronchoalveolar lavage (peripheral pulmonary lesions)",
+      "purpose": "Used for peripheral pulmonary lesions (Table 1).",
+      "criteria_or_scoring": [],
+      "how_to_perform": null,
+      "interpretation": null,
+      "limitations": null,
+      "when_to_use": "Peripheral pulmonary lesions.",
+      "source_page": 2,
+      "source_excerpt": "Peripheral pulmonary lesions Forceps biopsy Brush Transbronchial needle Bronchoalveolar lavage",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Curette (peripheral pulmonary lesions)",
+      "purpose": "Used for peripheral pulmonary lesions (Table 1).",
+      "criteria_or_scoring": [],
+      "how_to_perform": null,
+      "interpretation": null,
+      "limitations": null,
+      "when_to_use": "Peripheral pulmonary lesions.",
+      "source_page": 2,
+      "source_excerpt": "Peripheral pulmonary lesions Forceps biopsy Brush Transbronchial needle Bronchoalveolar lavage Curette Suction catheter",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Suction catheter (peripheral pulmonary lesions)",
+      "purpose": "Used for peripheral pulmonary lesions (Table 1).",
+      "criteria_or_scoring": [],
+      "how_to_perform": null,
+      "interpretation": null,
+      "limitations": null,
+      "when_to_use": "Peripheral pulmonary lesions.",
+      "source_page": 2,
+      "source_excerpt": "Peripheral pulmonary lesions ... Curette Suction catheter Needle brush; Triple needle cytology brush",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Needle brush; Triple needle cytology brush (peripheral pulmonary lesions)",
+      "purpose": "Used for peripheral pulmonary lesions (Table 1).",
+      "criteria_or_scoring": [],
+      "how_to_perform": null,
+      "interpretation": null,
+      "limitations": null,
+      "when_to_use": "Peripheral pulmonary lesions.",
+      "source_page": 2,
+      "source_excerpt": "Peripheral pulmonary lesions ... Suction catheter Needle brush; Triple needle cytology brush",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Cytology transbronchial needle (hilar–mediastinal lesions)",
+      "purpose": "Used for pathological processes of the hilar–mediastinal area (Table 1).",
+      "criteria_or_scoring": [],
+      "how_to_perform": null,
+      "interpretation": null,
+      "limitations": null,
+      "when_to_use": "Hilar–mediastinal lesions.",
+      "source_page": 2,
+      "source_excerpt": "Hilar–mediastinal lesions Cytology transbronchial needle Histology transbronchial needle",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Histology transbronchial needle (hilar–mediastinal lesions)",
+      "purpose": "Used for pathological processes of the hilar–mediastinal area (Table 1).",
+      "criteria_or_scoring": [],
+      "how_to_perform": null,
+      "interpretation": null,
+      "limitations": null,
+      "when_to_use": "Hilar–mediastinal lesions.",
+      "source_page": 2,
+      "source_excerpt": "Hilar–mediastinal lesions Cytology transbronchial needle Histology transbronchial needle",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Conventional forceps biopsy for central airway lesions",
+      "purpose": "Diagnosis of endobronchial pathology visible by bronchoscopy",
+      "criteria_or_scoring": [],
+      "how_to_perform": null,
+      "interpretation": "High diagnostic yield; better sensitivity than other techniques when mucosal involvement is suggested.",
+      "limitations": null,
+      "when_to_use": "When the lesion pattern suggests mucosal involvement.",
+      "source_page": 7,
+      "source_excerpt": "Biopsy forceps provide better sensitivity compared to other sampling techniques when the pattern of the lesion suggests mucosal involvement.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Transbronchial needle aspiration (TBNA) for central airway lesions",
+      "purpose": "Sampling submucosal/peribronchial disease; assess bleeding risk; sample necrotic lesions; predict surgical resection line; use after negative biopsy.",
+      "criteria_or_scoring": [],
+      "how_to_perform": null,
+      "interpretation": "Allows assessment of tumoral spread around the main lesion.",
+      "limitations": null,
+      "when_to_use": "Submucosal or peribronchial involvement; very vascularized tissue to test bleeding risk; large necrotic component; repeated bronchoscopy after first negative biopsy.",
+      "source_page": 7,
+      "source_excerpt": "TBNA may allow to predict the line of surgical resection, establishing the degree of tumoral spread around the main lesion [4].",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[4]"
+    },
+    {
+      "name": "Fluoroscopy-guided transbronchial approach to peripheral pulmonary lesions",
+      "purpose": "Guided sampling of peripheral nodules, masses, or infiltrates outside the bronchoscope’s visible range.",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Use a rotating C-arm or biplane fluoroscope; assess AP and lateral views; wedge into segmental bronchus and advance instrument under fluoroscopic control.",
+      "interpretation": "Biplane control helps avoid misplacement anterior or posterior to the target.",
+      "limitations": [
+        "Complications include bleeding and pneumothorax."
+      ],
+      "when_to_use": "Localized peripheral pulmonary pathology requiring precise instrument-to-lesion positioning.",
+      "source_page": 7,
+      "source_excerpt": "The sensitivity of the transbronchial approach to peripheral pulmonary lesions under ﬂuoroscopic guidance varies greatly... from 22% to 83%, with an overall value of 78% [36].",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "performance": {
+        "sensitivity": "22%"
+      },
+      "reference": "[36]"
+    },
+    {
+      "name": "Lesion size effect on sensitivity (fluoroscopy-guided bronchoscopic approach)",
+      "purpose": "Estimate expected sensitivity based on lesion size during fluoroscopy-guided bronchoscopic biopsy.",
+      "criteria_or_scoring": [],
+      "how_to_perform": null,
+      "interpretation": "Smaller lesions have lower diagnostic yield than larger ones.",
+      "limitations": null,
+      "when_to_use": "When counseling yield expectations by lesion size before fluoroscopy-guided biopsy.",
+      "source_page": 8,
+      "source_excerpt": "A sensitivity ranging from 5% to 64% is reported for nodules less than 2 cm in diameter and from 30% to 75% for nodules greater than 2 cm,",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "performance": {
+        "sensitivity": "5%"
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "TBNA for peripheral pulmonary lesions under fluoroscopic guidance",
+      "purpose": "Diagnostic sampling of peripheral pulmonary lesions, particularly for malignancy.",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Use flexible TBNA needle through bronchoscope to penetrate lesions not involving mucosal surface.",
+      "interpretation": "Provides better sensitivity for malignancy than forceps biopsy or brushing; exclusive needle yield 8%–35%.",
+      "limitations": [
+        "Cytology-only sampling may be less useful for benign disease diagnosis."
+      ],
+      "when_to_use": "Peripheral lesions not involving mucosal surface or peribronchiolar location.",
+      "source_page": 8,
+      "source_excerpt": "the exclusive yield of the needle is reported to range from 8% to 35% [11].",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "performance": {
+        "sensitivity": "8%"
+      },
+      "reference": "[11]"
+    },
+    {
+      "name": "Minimum number of transbronchial biopsy specimens (peripheral lesions)",
+      "purpose": "Optimize diagnostic yield of peripheral bronchoscopy.",
+      "criteria_or_scoring": [
+        "Obtain at least six biopsy specimens."
+      ],
+      "how_to_perform": "Take ≥6 biopsy samples during the procedure.",
+      "interpretation": "More specimens improve yield.",
+      "limitations": null,
+      "when_to_use": "During transbronchial biopsy of peripheral lesions to maximize diagnostic yield.",
+      "source_page": 9,
+      "source_excerpt": "at least six biopsy specimens should be obtained for optimizing the results.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Combining sampling instruments for peripheral bronchoscopy",
+      "purpose": "Increase diagnostic yield compared to a single tool.",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Use multiple instruments (e.g., needle plus forceps) in one procedure.",
+      "interpretation": "Combining instruments yields better results than a single tool.",
+      "limitations": null,
+      "when_to_use": "Peripheral lesion sampling when feasible to improve yield.",
+      "source_page": 9,
+      "source_excerpt": "the association of more sampling instruments provides better results than those obtained with a single tool [12, 44].",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Bronchial washing and bronchoalveolar lavage (BAL) for localized peripheral lesions",
+      "purpose": "Cytologic diagnosis of localized peripheral lung lesions.",
+      "criteria_or_scoring": [],
+      "how_to_perform": null,
+      "interpretation": "Very low sensitivity as stand-alone tests.",
+      "limitations": [
+        "Low yield",
+        "routine use not justified as add-on due to minimal incremental sensitivity."
+      ],
+      "when_to_use": "May be used without guidance systems; consider in infiltrative malignancy patterns.",
+      "source_page": 9,
+      "source_excerpt": "very low sensitivity in the case of localized peripheral lesions, with values ranging from 9% to 42% [36].",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "performance": {
+        "sensitivity": "9%"
+      },
+      "reference": "[36]"
+    },
+    {
+      "name": "Incremental sensitivity of bronchial washing when added to brushing or biopsy",
+      "purpose": "Quantify additional diagnostic yield from adding washing to other instruments.",
+      "criteria_or_scoring": [],
+      "how_to_perform": null,
+      "interpretation": "Increase in sensitivity by only 3%.",
+      "limitations": [
+        "Minimal incremental benefit."
+      ],
+      "when_to_use": "As an adjunct to brushing or biopsy if performed.",
+      "source_page": 9,
+      "source_excerpt": "When performed together with brushing or biopsy, bronchial washing shows an increase insensitivity by only 3%.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "performance": {
+        "sensitivity": "3%"
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Cryobiopsy for peripheral lung tumors",
+      "purpose": "Obtain larger, architecturally preserved tissue to improve diagnostic sensitivity and genotyping.",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Use a 1.1 mm cryoprobe via transbronchial approach.",
+      "interpretation": "Better sensitivity and larger specimens than conventional forceps biopsy.",
+      "limitations": [
+        "No studies comparing cryobiopsy vs. needle aspiration",
+        "randomized trials desirable."
+      ],
+      "when_to_use": "When increased tissue volume/architecture is needed for diagnosis/genotyping.",
+      "source_page": 9,
+      "source_excerpt": "The better sensitivity and the greater specimens of cryobiopsy in comparison with conventional forceps biopsy have been demonstrated in several studies",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "CT bronchus sign",
+      "purpose": "Predict success of transbronchial biopsies based on lesion-airway relationship.",
+      "criteria_or_scoring": [
+        "Image of bronchus leading to or contained within the lesion on thin-section CT."
+      ],
+      "how_to_perform": "Evaluate thin-section CT scan for a bronchus leading to or within the lesion.",
+      "interpretation": "Presence predicts higher success of transbronchial biopsies.",
+      "limitations": null,
+      "when_to_use": "Before planning transbronchial biopsy of peripheral nodules.",
+      "source_page": 9,
+      "source_excerpt": "CT scan “bronchus sign,” that is the image of the bronchus leading to or contained within the lesion, visualized by thin-section CT scan, to predict the success of the transbronchial biopsies",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "_errors": [
+        "source_excerpt_too_long"
+      ],
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Conventional transbronchial needle aspiration (cTBNA) for hilar–mediastinal lesions",
+      "purpose": "Sampling hilar–mediastinal lesions without endobronchial ultrasound; staging and diagnosis.",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Choose puncture point from CT; insert perpendicularly using jabbing or pushing methods; aspirate; perform ≥4 aspirates per station.",
+      "interpretation": "Yield improves with number of aspirates up to four passes.",
+      "limitations": [
+        "Operator skill/experience affects yield."
+      ],
+      "when_to_use": "When ultrasound technology is unavailable or not feasible.",
+      "source_page": 11,
+      "source_excerpt": "so that it is recommended to perform at least four aspirates at each lymph nodal station to optimize the yield.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "cTBNA diagnostic yield for lung cancer staging",
+      "purpose": "Expected diagnostic sensitivity of cTBNA in mediastinal staging.",
+      "criteria_or_scoring": [],
+      "how_to_perform": null,
+      "interpretation": "Post-1990s series generally exceed 70% sensitivity; mean about 78%.",
+      "limitations": null,
+      "when_to_use": "Staging of lung cancer when performing cTBNA.",
+      "source_page": 11,
+      "source_excerpt": "papers published after the 1990s generally report values greater than 70%, with a mean value of 78% [4, 17, 20].",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "performance": {
+        "sensitivity": "70%"
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "cTBNA sensitivity by lymph node size",
+      "purpose": "Estimate cTBNA yield based on lymph node size.",
+      "criteria_or_scoring": [],
+      "how_to_perform": null,
+      "interpretation": "Yield increases with node size; limited for nodes <1 cm.",
+      "limitations": null,
+      "when_to_use": "Pre-procedure counseling and planning for cTBNA.",
+      "source_page": 11,
+      "source_excerpt": "from a reported value of only 15% for targets less than 1 cm to about 80% for lesions of 2.0–2.5 cm.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "performance": {
+        "sensitivity": "15%"
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "EBUS-TBNA (endobronchial ultrasound-guided TBNA)",
+      "purpose": "Real-time ultrasound-guided sampling of hilar–mediastinal lesions; mediastinal staging and diagnosis.",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Linear ultrasound bronchoscope guidance with real-time needle sampling.",
+      "interpretation": "Advantages in sensitivity and ability to visualize small lymph nodes.",
+      "limitations": [
+        "Ultrasound technology may be unavailable in some centers."
+      ],
+      "when_to_use": "Mediastinal staging of lung cancer and diagnosis of lesions outside tracheobronchial tree.",
+      "source_page": 10,
+      "source_excerpt": "this technique has become the method of choice for the mediastinal staging of lung cancer and for diagnosis of lesions located outside the tracheobronchial tree [18].",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[18]"
+    },
+    {
+      "name": "TBNA specimen processing for molecular profiling (smear cytology plus cell-block)",
+      "purpose": "Achieve complete molecular profile (including PD-L1) from TBNA samples.",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Smear cytology plus cell-block; flush material in 10% neutral-buffered formalin.",
+      "interpretation": "Complete molecular profile achieved in 86.6% of 154 patients.",
+      "limitations": null,
+      "when_to_use": "When genotyping is needed from TBNA specimens.",
+      "source_page": 9,
+      "source_excerpt": "able to obtain a complete molecular proﬁle, including evaluation of PD-L1 expression, in 86.6% of 154 patients approached with transbronchial needle aspiration for peripheral cancer.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Other instruments for peripheral lesions (curette, suction catheter, needle brush, triple needle brush)",
+      "purpose": "Alternative sampling methods for peripheral lesions.",
+      "criteria_or_scoring": [],
+      "how_to_perform": null,
+      "interpretation": "No evidence of utility compared to forceps or needle aspiration.",
+      "limitations": [
+        "Lack of evidence for improved utility vs. standard tools."
+      ],
+      "when_to_use": null,
+      "source_page": 9,
+      "source_excerpt": "but there is no evidence in the literature of their real utility compared to biopsy forceps or needle aspiration.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Bronchial washing for central airway tumors",
+      "purpose": "Cytologic sampling in central airway tumors (adjunctive).",
+      "criteria_or_scoring": [],
+      "how_to_perform": null,
+      "interpretation": "Little value alone; may slightly improve sensitivity with other tools; routine use not recommended.",
+      "limitations": [
+        "Low standalone utility in central tumors."
+      ],
+      "when_to_use": "Adjunct to other sampling instruments if used.",
+      "source_page": 7,
+      "source_excerpt": "Washing alone is of little value in the diagnosis of central airway tumors.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Conventional Transbronchial Needle Aspiration (TBNA)",
+      "purpose": "Lung cancer staging; diagnosis of carcinomas with mediastinal involvement on CT without airway lesions; cytohistological qualification for mediastinal processes close to the airways.",
+      "criteria_or_scoring": [],
+      "how_to_perform": "Sample lymph nodes before the primary tumor; avoid puncturing mucosa involved by tumor; release suction before removing the needle; introduce/withdraw the needle with the tip completely retracted into the sheath.",
+      "interpretation": "Very high specificity; false positives very rarely reported; considered a very safe technique; complications rarely reported.",
+      "limitations": [
+        "Lack of real-time needle monitoring",
+        "possible risk of puncturing large mediastinal vessels",
+        "potential bronchoscope damage."
+      ],
+      "when_to_use": "For lung cancer staging and for mediastinal lesions seen on CT without airway lesions; for mediastinal diseases close to airways.",
+      "source_page": 13,
+      "source_excerpt": "The specificity of conventional TBNA is very high, ranging from 96% to 100%, and cases of false positive have been very rarely reported.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 13,
+        "end": 15
+      },
+      "performance": {
+        "specificity": "96%"
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "Conventional TBNA for sarcoidosis diagnosis",
+      "purpose": "Diagnosis of sarcoidosis; enhances bronchoscopy diagnostic yield, especially in stage I sarcoidosis.",
+      "criteria_or_scoring": [
+        "Cytology: lymphocytes mixed with epithelioid cells and a multinucleated giant cell without necrosis."
+      ],
+      "how_to_perform": "Needle inserted in the spur between the right upper lobe bronchus and the bronchus intermediate (case example).",
+      "interpretation": "Improves diagnostic yield of bronchoscopy, particularly in stage I sarcoidosis.",
+      "limitations": null,
+      "when_to_use": "Especially for stage I sarcoidosis.",
+      "source_page": 13,
+      "source_excerpt": "with a sensitivity greater than 70%, and this technique may improve the diagnostic yield of bronchoscopy by up to 90%, especially for stage I sarcoidosis",
+      "present_in_source": true,
+      "page_range": {
+        "start": 13,
+        "end": 15
+      },
+      "performance": {
+        "sensitivity": "70%"
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "name": "CT scan (mediastinal lymph node enlargement identification)",
+      "purpose": "Shows lymph nodes enlargements to identify target stations.",
+      "criteria_or_scoring": [],
+      "how_to_perform": null,
+      "interpretation": "Lymph nodes enlargements in subcarinal and bilateral hilar stations.",
+      "limitations": null,
+      "when_to_use": null,
+      "source_page": 13,
+      "source_excerpt": "CT scan shows lymph nodes enlargements in subcarinal and bilateral hilar stations.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 13,
+        "end": 15
+      },
+      "reference": "[Chapter Text]"
+    }
+  ],
+  "treatment_algorithms": [
+    {
+      "title": "Management algorithm for bronchoscopic biopsy-induced bleeding",
+      "condition": "Biopsy-induced bleeding during bronchoscopy",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Rotate patient to lateral decubitus with bleeding side down.",
+        "Keep bronchoscope in place; apply continuous suction.",
+        "Instill ice-cold saline.",
+        "Instill epinephrine diluted 1:10,000 in 2–3 ml aliquots, up to three doses.",
+        "Use endobronchial tamponade with a balloon catheter (e.g., Fogarty).",
+        "Maintain a Fogarty balloon available in the bronchoscopy suite.",
+        "If bleeding source visible, consider low-energy laser or electrocautery with argon plasma.",
+        "If ineffective, consider intubation with rigid bronchoscope or large channel endotracheal tube.",
+        "If bleeding persists, consider selective intubation of the contralateral main bronchus.",
+        "As last resort, consider bronchial artery embolization or open surgical procedures."
+      ],
+      "decision_points_and_pathways": [
+        "Bleeding occurs -> lateral decubitus (bleeding side down) + suction.",
+        "If ongoing -> ice-cold saline + epinephrine (1:10,000; 2–3 ml aliquots; max three doses).",
+        "If ongoing -> balloon tamponade (Fogarty).",
+        "If source visible -> low-energy laser/electrocautery with argon plasma.",
+        "If persistent -> intubate (rigid or large channel ET tube).",
+        "If persistent -> selective contralateral intubation.",
+        "If all fail -> bronchial artery embolization/open surgery."
+      ],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": [],
+      "source_page": 4,
+      "source_excerpt": "epinephrine (diluted in a 1:10,000 mixture of normal saline and administered in 2–3 ml aliquots to a maximum of three doses)",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Fluoroscopy-guided transbronchial sampling of peripheral localized lesions",
+      "condition": "Peripheral localized pulmonary lesions (nodules/masses/infiltrates) outside visible bronchoscope range",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Ensure guidance availability (rotating C-arm or biplane fluoroscope) for AP and lateral views.",
+        "Wedge the bronchoscope into the segmental bronchus leading to the lesion; steer under fluoroscopy.",
+        "Prefer TBNA for malignancy yield; combine with forceps to improve diagnosis of benign lesions.",
+        "Obtain ≥6 biopsy specimens to optimize sensitivity.",
+        "If multiple tools used, deploy the needle first, then forceps/brushing.",
+        "Evaluate CT 'bronchus sign' preprocedure to predict success.",
+        "For bleeding, maintain wedge position; use 4–7 Fr balloon catheter at the segmental orifice."
+      ],
+      "decision_points_and_pathways": [
+        "CT suggests lesion beyond visible range -> Use fluoroscopic guidance (AP + lateral).",
+        "Needle vs forceps -> Prefer TBNA for malignancy; add forceps for suspected benign disease.",
+        "Need for higher yield -> Combine instruments and target ≥6 forceps samples.",
+        "If bleeding -> Wedge + balloon catheter; proceed to standard bleeding algorithm if persistent."
+      ],
+      "patient_population_criteria": "Adults with localized peripheral pulmonary lesions approached via bronchoscopy",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": "Fluoroscopic AP and lateral control; hemodynamic and oxygenation monitoring",
+      "outcome_measures": null,
+      "alternative_approaches": [
+        "Electromagnetic navigation",
+        "rEBUS with guide sheath",
+        "CBCT"
+      ],
+      "source_page": 7,
+      "source_excerpt": "A rotating C-arm or a biplane fluoroscope must be available ... ≥6 biopsies ... needle first ... 'bronchus sign' ... balloon catheter (4–7 French).",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 10
+      },
+      "reference": "[Chapter Text]"
+    }
+  ],
+  "clinical_guidelines": [
+    {
+      "title": "Avoid routine use of electrocautery biopsy forceps (hot forceps) for central endobronchial lesions",
+      "condition": "Central endobronchial lesions",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Do not use hot forceps routinely for sampling central endobronchial lesions."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": [
+        "Conventional forceps biopsy"
+      ],
+      "source_page": 2,
+      "source_excerpt": "there is no evidence that they may reduce the incidence of clinically relevant bleeding episodes, and their routine use is not warranted.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Do not routinely use cryobiopsy for central bronchogenic lesions",
+      "condition": "Central bronchogenic lesions",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Avoid routine use of cryobiopsy for central bronchogenic lesions."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": [
+        "Conventional forceps biopsy"
+      ],
+      "source_page": 2,
+      "source_excerpt": "there is not enough evidence to recommend the routine use of cryobiopsy in central bronchogenic lesions.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Reserve cryobiopsy for difficult cases after nondiagnostic first bronchoscopy",
+      "condition": "Central bronchogenic lesions with prior nondiagnostic bronchoscopy",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "If available, reserve cryobiopsy for difficult cases when the first bronchoscopy was not diagnostic."
+      ],
+      "decision_points_and_pathways": [
+        "If first bronchoscopy not diagnostic -> consider cryobiopsy if available."
+      ],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": [],
+      "source_page": 2,
+      "source_excerpt": "This technique, if available, could be reserved for the most difﬁcult cases in which a ﬁrst bronchoscopy has not been diagnostic.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Optimal number of endobronchial forceps biopsies",
+      "condition": "Central airway lesions undergoing forceps biopsy",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Perform three or four biopsies to achieve best diagnostic yield.",
+        "Obtaining more than four samples does not significantly increase sensitivity."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": [],
+      "source_page": 4,
+      "source_excerpt": "the best diagnostic yield can be obtained by performing three or four biopsies",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Prebronchoscopy coagulation screening",
+      "condition": "Patients undergoing bronchoscopy with potential bleeding risk",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Do not perform routine coagulation screening in patients with no risk factors.",
+        "Perform coagulation screening in patients with known or clinically suspected risks."
+      ],
+      "decision_points_and_pathways": [
+        "No risk factors -> no routine coagulation screening.",
+        "Known or suspected risks -> perform coagulation screening."
+      ],
+      "patient_population_criteria": "Patients with no risk factors vs those with known or clinically suspected risks",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": [],
+      "source_page": 4,
+      "source_excerpt": "Prebronchoscopy routine coagulation screening is unnecessary in patients with no risk factors, but it should be performed in those with known or clinically suspected risks",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Platelet threshold and transfusion before bronchial biopsy",
+      "condition": "Patients undergoing bronchial biopsy with thrombocytopenia",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Do not perform bronchial biopsies if platelet count is <50,000/mm3.",
+        "Administer six to ten packs of platelet transfusion before bronchoscopy for such patients."
+      ],
+      "decision_points_and_pathways": [
+        "Platelet count <50,000/mm3 -> defer biopsy; transfuse 6–10 packs platelets before bronchoscopy."
+      ],
+      "patient_population_criteria": "Patients with platelet count <50,000/mm3",
+      "contraindications_and_exceptions": "Bronchial biopsies cannot be performed if platelet count is <50,000/mm3.",
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": [],
+      "source_page": 4,
+      "source_excerpt": "Bronchial biopsies cannot be performed if platelet count is <50,000/ mm3, and these patients should receive six to ten packs of platelet transfusion before bronchoscopy.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Warfarin management prior to bronchoscopy",
+      "condition": "Patients on warfarin undergoing bronchoscopy/biopsy",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Stop warfarin at least 5 days before bronchoscopy.",
+        "Alternatively, give low-dose vitamin K to reduce INR to <2.5."
+      ],
+      "decision_points_and_pathways": [
+        "On warfarin -> stop ≥5 days before OR administer low-dose vitamin K to reduce INR <2.5."
+      ],
+      "patient_population_criteria": "Patients on warfarin scheduled for bronchoscopy",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": [
+        "Low-dose vitamin K to reduce INR <2.5"
+      ],
+      "source_page": 4,
+      "source_excerpt": "Warfarin should be stopped at least 5 days before bronchoscopy, or low-dose vitamin K should be administered to reduce the international normalized ratio (INR) to <2.5.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Clopidogrel management prior to bronchoscopy",
+      "condition": "Patients on clopidogrel undergoing bronchoscopy/biopsy",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Stop clopidogrel 7 days before bronchoscopy."
+      ],
+      "decision_points_and_pathways": [
+        "On clopidogrel -> stop 7 days before bronchoscopy."
+      ],
+      "patient_population_criteria": "Patients on clopidogrel scheduled for bronchoscopy",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": [],
+      "source_page": 4,
+      "source_excerpt": "The use of clopidogrel should be stopped 7 days before bronchoscopy.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Aspirin management prior to bronchoscopy",
+      "condition": "Patients on low-dose aspirin undergoing bronchoscopy/biopsy",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Low-dose aspirin can be continued."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": "Patients on low-dose aspirin scheduled for bronchoscopy",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": [],
+      "source_page": 4,
+      "source_excerpt": "Low-dose aspirin can be continued.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Direct oral anticoagulant (NOAC) management prior to bronchoscopy",
+      "condition": "Patients on rivaroxaban, apixaban, edoxaban undergoing bronchoscopy/biopsy",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Suspend rivaroxaban, apixaban, or edoxaban for 48–72 h; this may be sufficient."
+      ],
+      "decision_points_and_pathways": [
+        "On NOACs -> suspend 48–72 h before bronchoscopy."
+      ],
+      "patient_population_criteria": "Patients on new oral anticoagulants",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": [],
+      "source_page": 4,
+      "source_excerpt": "For patients on new oral anticoagulants (rivaroxaban, apixaban, edoxaban), a shorter suspension period (48–72 h) may be sufﬁcient",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Hypervascular tumors are not a contraindication to biopsy",
+      "condition": "Carcinoids and endobronchial renal metastases",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Despite higher bleeding propensity, these tumors are not a contraindication to biopsy."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": "Patients with carcinoids or endobronchial renal metastases",
+      "contraindications_and_exceptions": "Not a contraindication to biopsy.",
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": [],
+      "source_page": 4,
+      "source_excerpt": "Some tumors, like carcinoids and endobronchial renal metastases, are hypervascularized and more prone to bleed, but this is not a contraindication to biopsy.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Training requirement for managing major bleeding during bronchial biopsy",
+      "condition": "Bronchoscopists performing bronchial biopsy",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Bronchoscopists should be trained to manage major bleeding when performing bronchial biopsy."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": "Bronchoscopists performing biopsies",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": [],
+      "source_page": 4,
+      "source_excerpt": "bronchoscopists should be trained to manage major bleeding when a bronchial biopsy is performed",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Availability of Fogarty balloon for bleeding control",
+      "condition": "Management of bronchoscopic bleeding",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Ensure a Fogarty balloon is always available in the bronchoscopy suite."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": [],
+      "source_page": 4,
+      "source_excerpt": "A Fogarty balloon for the management of bleeding, should always be available in a bronchoscopic suite.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Use disposable brushes to reduce contamination/cross infection",
+      "condition": "Brushing of central endobronchial lesions",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Use disposable brushes to reduce contamination or cross infection."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": [
+        "Reusable brushes (not recommended due to contamination risk)"
+      ],
+      "source_page": 5,
+      "source_excerpt": "it is recommended to use disposable tools in order to reduce the risk of contamination or cross infection.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Handling bronchial washing when combined with other sampling",
+      "condition": "Bronchial washing in central bronchial lesions",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Collect washing fluid and hold it; examine only if other specimens are not diagnostic."
+      ],
+      "decision_points_and_pathways": [
+        "If biopsy/brushing diagnostic -> do not process washing.",
+        "If not diagnostic -> process washing held in laboratory."
+      ],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": [],
+      "source_page": 5,
+      "source_excerpt": "collect the washing ﬂuid during bronchoscopy and to hold it in the laboratory, examining the sample only if the other specimens are not diagnostic.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Routine use of washing in central bronchial lesions is questionable",
+      "condition": "Central bronchial lesions undergoing washing",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Routine washing in central bronchial lesions is of questionable value."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": null,
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": [],
+      "source_page": 5,
+      "source_excerpt": "making the value of the routine use of washing in central bronchial lesions questionable.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Specimen handling for suspected infections (brushing and washing)",
+      "condition": "Suspected infectious conditions during bronchoscopy",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Agitate brush in a sterile medium.",
+        "Collect washing in a sterile specimen trap."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": "Patients with suspected infectious conditions",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": [],
+      "source_page": 6,
+      "source_excerpt": "brush should be agitated in a sterile medium, and washing must be collected in a sterile specimen trap.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Routine mycobacterial sampling not recommended in non-endemic areas",
+      "condition": "Bronchoscopy for patients in areas not endemic for mycobacterial disease",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Do not perform routine bronchoscopic sampling for mycobacterial organisms on all patients in non-endemic areas."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": "Patients undergoing bronchoscopy in areas not endemic to the disease",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": [],
+      "source_page": 6,
+      "source_excerpt": "routine bronchoscopic samplings for mycobacterial organisms on all patients undergoing bronchoscopy are not recommended in areas not endemic to the disease.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 1,
+        "end": 6
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Sampling of central airway lesions",
+      "condition": "Central airway lesions; endobronchial pathology visible by bronchoscopy",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Conventional biopsy techniques ... must be considered the gold standard for diagnosis when an endobronchial pathology visible by bronchoscopy is present.",
+        "Biopsy forceps provide better sensitivity compared to other sampling techniques when the pattern of the lesion suggests mucosal involvement.",
+        "TBNA should be the preferred sampling instrument when there is evidence of a submucosal or peribronchial spread ... or when the superficial layers of the mucosa may not be involved or when the lesion is very necrotic.",
+        "Adding brushing to biopsy or TBNA might improve diagnostic yield, but more prospective studies are necessary to evaluate the cost-effectiveness of its use.",
+        "Washing alone is of little value ... its routine use is not recommended."
+      ],
+      "decision_points_and_pathways": [
+        "If bronchoscopic pattern suggests submucosal or peribronchial involvement, use TBNA.",
+        "If macroscopic appearance suggests very vascularized tissue, use TBNA to test bleeding risk before biopsy.",
+        "If large necrotic component and biopsy shows white samples suggesting necrotic tissue, use TBNA.",
+        "After a first negative bioptic procedure, consider TBNA at repeated bronchoscopy.",
+        "Choose biopsy forceps when mucosal involvement is suggested; choose TBNA when submucosal/peribronchial spread or very necrotic lesions are suspected."
+      ],
+      "patient_population_criteria": "central airway lesions; endobronchial pathology visible by bronchoscopy",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": [
+        "Add brushing to biopsy or TBNA to potentially improve diagnostic yield (cost-effectiveness undetermined).",
+        "Avoid washing alone as a diagnostic tool for central airway tumors."
+      ],
+      "source_page": 7,
+      "source_excerpt": "TBNA should be the preferred sampling instrument when there is evidence of a submucosal or peribronchial spread",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Fluoroscopic guidance for peripheral localized pulmonary lesions",
+      "condition": "Peripheral localized pulmonary lesions (nodules, masses or infiltrates) approached transbronchially",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "A rotating C-arm or a biplane fluoroscope must be available to allow the assessment of the sampling instrument position both in the anteroposterior and lateral view.",
+        "Biplane control is necessary to avoid the misplacement of the instrument in front of or behind the lesion."
+      ],
+      "decision_points_and_pathways": [
+        "Use biplane fluoroscopic control to confirm instrument position in AP and lateral views to avoid misplacement."
+      ],
+      "patient_population_criteria": "localized pulmonary pathology (nodules, masses or infiltrates)",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": "Fluoroscopic anteroposterior and lateral views to assess instrument position.",
+      "outcome_measures": null,
+      "alternative_approaches": [
+        "Electromagnetic navigation systems",
+        "Ultrasound miniprobes",
+        "Cone beam CT"
+      ],
+      "source_page": 7,
+      "source_excerpt": "A rotating C-arm or a biplane fluoroscope must be available to allow the assessment of the sampling instrument position both in the anteroposterior and lateral view",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Routine consideration of transbronchial needles and combining instruments in peripheral lesions",
+      "condition": "Peripheral localized lung lesions approached transbronchially",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "Transbronchial needles, showing better sensitivity, should be routinely considered for this kind of procedure.",
+        "Adding another sampling instrument may increase the diagnostic yield.",
+        "the association of needle and forceps biopsy seems to be the most appropriate and recommendable, especially in Institution where cryobiopsy is not available."
+      ],
+      "decision_points_and_pathways": [
+        "If cryobiopsy is not available, choose the association of needle and forceps biopsy."
+      ],
+      "patient_population_criteria": "peripheral localized lesions",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": [
+        "Cryobiopsy (if available)"
+      ],
+      "source_page": 10,
+      "source_excerpt": "Transbronchial needles, showing better sensitivity, should be routinely considered for this kind of procedure.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Minimum number of transbronchial biopsy specimens for peripheral lesions",
+      "condition": "Peripheral localized pulmonary lesions approached with transbronchial biopsy",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "At least six biopsy specimens should be obtained for optimizing the results."
+      ],
+      "decision_points_and_pathways": [],
+      "patient_population_criteria": "peripheral localized pulmonary lesions",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": [],
+      "source_page": 9,
+      "source_excerpt": "at least six biopsy specimens should be obtained for optimizing the results.",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Instrument sequence when combining needle with forceps or brushing",
+      "condition": "Peripheral localized pulmonary lesions where multiple sampling instruments are used",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "If the needle is used in association with forceps or brushing, it should be used first."
+      ],
+      "decision_points_and_pathways": [
+        "Use needle first to avoid increased blood aspirated by the needle after biopsy/brushing."
+      ],
+      "patient_population_criteria": "peripheral localized pulmonary lesions requiring multiple instruments",
+      "contraindications_and_exceptions": null,
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": [],
+      "source_page": 9,
+      "source_excerpt": "If the needle is used in association with forceps or brushing, it should be used first",
+      "present_in_source": true,
+      "page_range": {
+        "start": 7,
+        "end": 12
+      },
+      "reference": "[Chapter Text]"
+    },
+    {
+      "title": "Use of bronchial washing and BAL in peripheral localized lesions",
+      "condition": "Peripheral localized lung lesions (non-diffuse) under bronchoscopy",
+      "source_organization": null,
+      "recommendation_grade": null,
+      "evidence_level": null,
+      "specific_recommendations": [
+        "When performed together with brushing or biopsy, bronchial washing shows an increase in sensitivity by only 3%, which does not justify its routine use.",
+        "BAL shows better sensitivity in malignancy with an infiltrative pulmonary pattern ... and its use may be justified if there is a suspicion of these pathological conditions."
+      ],
+      "decision_points_and_pathways": [
+        "Avoid routine bronchial washing in localized lesions; consider BAL if infiltrative malignancy (e.g., bronchoalveolar carcinoma, lymphangitic carcinomatosis) is suspected."
+      ],
+      "patient_population_criteria": "localized peripheral lesions",
+      "contraindications_and_exceptions": "Use BAL selectively when infiltrative pulmonary pattern is suspected.",
+      "monitoring_requirements": null,
+      "outcome_measures": null,
+      "alternative_approaches": [
+        "Brushing or biopsy as primary tools"
+      ],
+      "source_page": 9,
+     

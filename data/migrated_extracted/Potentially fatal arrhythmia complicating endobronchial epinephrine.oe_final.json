@@ -1,0 +1,61 @@
+{
+  "source": {
+    "document_id": "Potentially fatal arrhythmia complicating endobronchial epinephrine",
+    "ingest_date": "2025-08-08T14:57:10.841617+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": ""
+  },
+  "document": {
+    "metadata": {
+      "title": "Potentially Fatal Arrhythmia Complicating Endobronchial Epinephrine for Control of Iatrogenic Bleeding",
+      "year": 2012,
+      "authors": [
+        "Daniel P. Steinfort",
+        "Felix J. F. Herth",
+        "Ralf Eberhardt",
+        "Louis B. Irving"
+      ],
+      "journal": "American Journal of Respiratory and Critical Care Medicine",
+      "doi": "",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Letter describing two cases of ventricular fibrillation occurring seconds after endobronchial epinephrine (5 ml, 1:20,000) instillation via guide sheath for severe bleeding during EBUS-guided transbronchial lung biopsy. Both patients had no identified cardiac risk factors, were resuscitated with cardioversion, and recovered. Authors question efficacy and safety of endobronchial epinephrine for biopsy-related bleeding and advise against administering epinephrine into the lung periphery via guide sheath.",
+      "methods": "Case series of two patients undergoing EBUS-guided TBLB with severe bleeding managed with endobronchial epinephrine via guide sheath. Clinical course, dose, temporal relationship to arrhythmia, and subsequent evaluations reported.",
+      "results": "Both patients received epinephrine 0.25 mg endobronchially. Ventricular fibrillation developed within seconds, requiring cardioversion (150 J and 250 J). Electrolytes and subsequent cardiac evaluations were normal. No deaths occurred. Authors note literature reports of serious cardiac events with low-dose epinephrine and the rarity of fatal bleeding after TBLB."
+    }
+  },
+  "clinical_extraction": {
+    "document_id": "a43cf54c412a",
+    "title": "Potentially Fatal Arrhythmia Complicating Endobronchial Epinephrine for Control of Iatrogenic Bleeding",
+    "document_type": "research",
+    "diagnostic_yields": {},
+    "complication_rates": {},
+    "methodology": {},
+    "clinical_pearls": [],
+    "indications": [],
+    "contraindications": [],
+    "patient_selection": {
+      "inclusion_criteria": [],
+      "exclusion_criteria": [],
+      "ideal_candidate": null
+    },
+    "equipment": [],
+    "key_findings": [],
+    "practical_tips": [],
+    "extraction_confidence": 0.5,
+    "has_numerical_data": false,
+    "original_extraction": null
+  },
+  "migration_info": {
+    "migrated_at": "2025-08-22T09:42:46.667201",
+    "original_structure": "oe_final",
+    "migration_type": "restructure"
+  },
+  "original_sections": {
+    "abstract": "Letter describing two cases of ventricular fibrillation occurring seconds after endobronchial epinephrine (5 ml, 1:20,000) instillation via guide sheath for severe bleeding during EBUS-guided transbronchial lung biopsy. Both patients had no identified cardiac risk factors, were resuscitated with cardioversion, and recovered. Authors question efficacy and safety of endobronchial epinephrine for biopsy-related bleeding and advise against administering epinephrine into the lung periphery via guide sheath.",
+    "methods": "Case series of two patients undergoing EBUS-guided TBLB with severe bleeding managed with endobronchial epinephrine via guide sheath. Clinical course, dose, temporal relationship to arrhythmia, and subsequent evaluations reported.",
+    "results": "Both patients received epinephrine 0.25 mg endobronchially. Ventricular fibrillation developed within seconds, requiring cardioversion (150 J and 250 J). Electrolytes and subsequent cardiac evaluations were normal. No deaths occurred. Authors note literature reports of serious cardiac events with low-dose epinephrine and the rarity of fatal bleeding after TBLB."
+  }
+}

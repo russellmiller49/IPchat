@@ -1,0 +1,64 @@
+{
+  "source": {
+    "document_id": "Flexible bronchoscopy",
+    "ingest_date": "2025-08-08T12:42:09.671834+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1016/j.ccm.2017.09.002"
+  },
+  "document": {
+    "metadata": {
+      "title": "Flexible Bronchoscopy",
+      "year": 2018,
+      "authors": [
+        "Russell J. Miller",
+        "Roberto F. Casal",
+        "Donald R. Lazarus",
+        "David E. Ost",
+        "George A. Eapen"
+      ],
+      "journal": "Clinics in Chest Medicine",
+      "doi": "10.1016/j.ccm.2017.09.002",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "",
+      "methods": "Narrative review describing the history, technology, indications, contraindications, core diagnostic techniques, and complications of conventional flexible bronchoscopy, including bronchoalveolar lavage, transbronchial lung biopsy, transbronchial needle aspiration, bronchial washing, brushing, and endobronchial biopsy.",
+      "results": "This review summarizes typical diagnostic yields reported in the literature for core bronchoscopic techniques (for example, brushing yield around 60 to 90 percent in visible endobronchial lesions; endobronchial biopsy yield at least 70 percent), common practice considerations (lavage volumes, sequence of procedures), and expected risks (hypoxemia during BAL, transient fever after BAL). No single clinical study with primary outcomes, comparative arms, or inferential statistics is presented."
+    }
+  },
+  "clinical_extraction": {
+    "document_id": "f51cbc6aea7c",
+    "title": "Flexible Bronchoscopy",
+    "document_type": "research",
+    "diagnostic_yields": {},
+    "complication_rates": {},
+    "methodology": {},
+    "clinical_pearls": [],
+    "indications": [],
+    "contraindications": [],
+    "patient_selection": {
+      "inclusion_criteria": [],
+      "exclusion_criteria": [],
+      "ideal_candidate": null
+    },
+    "equipment": [
+      "needle"
+    ],
+    "key_findings": [],
+    "practical_tips": [],
+    "extraction_confidence": 0.5,
+    "has_numerical_data": false,
+    "original_extraction": null
+  },
+  "migration_info": {
+    "migrated_at": "2025-08-22T09:42:46.225477",
+    "original_structure": "oe_final",
+    "migration_type": "restructure"
+  },
+  "original_sections": {
+    "abstract": "",
+    "methods": "Narrative review describing the history, technology, indications, contraindications, core diagnostic techniques, and complications of conventional flexible bronchoscopy, including bronchoalveolar lavage, transbronchial lung biopsy, transbronchial needle aspiration, bronchial washing, brushing, and endobronchial biopsy.",
+    "results": "This review summarizes typical diagnostic yields reported in the literature for core bronchoscopic techniques (for example, brushing yield around 60 to 90 percent in visible endobronchial lesions; endobronchial biopsy yield at least 70 percent), common practice considerations (lavage volumes, sequence of procedures), and expected risks (hypoxemia during BAL, transient fever after BAL). No single clinical study with primary outcomes, comparative arms, or inferential statistics is presented."
+  }
+}

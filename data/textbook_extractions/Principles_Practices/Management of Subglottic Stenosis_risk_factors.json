@@ -1,0 +1,45 @@
+{
+  "post_intubation_sgs": {
+    "increases": [
+      "Prolonged intubation",
+      "Large-caliber endotracheal tubes",
+      "Traumatic intubation",
+      "Multiple re-intubations",
+      "Local infection while intubated",
+      "Frequent ETT displacement",
+      "Concomitant nasogastric tube",
+      "Cuff overinflation",
+      "Prone positioning (COVID-19 era)"
+    ],
+    "decreases": [
+      "Gentle intubation and endoscopy",
+      "Avoid high tracheotomy/cricothyroidotomy unless extreme emergency"
+    ],
+    "notes": "Cartilage fracture and ischemic mucosal injury contribute to SGS pathogenesis."
+  },
+  "endoscopic_failure": {
+    "increases": [
+      "Circumferential scarring",
+      "Interarytenoid posterior commissure fibrosis",
+      "Severe tracheal infection",
+      "Exposure of perichondrium/cartilage during laser excision",
+      "Combined laryngotracheal stenosis",
+      "Prior failed endoscopic repair",
+      "Vertical scar length >1 cm",
+      "Significant loss of cartilaginous support"
+    ],
+    "decreases": [
+      "Short, web-like diaphragms without cartilage loss"
+    ],
+    "notes": "Success declines from Myer-Cotton I to III; limited success in IV."
+  },
+  "stent_granulation": {
+    "increases": [
+      "Proximal stent endpoint ≤10 mm from vocal cords"
+    ],
+    "decreases": [
+      "Stent-to-vocal fold distance ≥20 mm"
+    ],
+    "notes": "Granulation risk: 63% at ≤10 mm; 22% at 11–20 mm; 11% at ≥20 mm."
+  }
+}

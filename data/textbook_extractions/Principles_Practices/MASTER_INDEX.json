@@ -1,0 +1,383 @@
+{
+  "textbook": "Principles and Practice of Interventional Pulmonology",
+  "year": 2025,
+  "publisher": "Springer",
+  "extraction_date": "2025-08-22",
+  "total_chapters": 41,
+  "total_supplementary_tables": 15,
+  
+  "chapters": [
+    {
+      "filename": "Airway_Anatomy.json",
+      "title": "Airway Anatomy",
+      "category": "Anatomy",
+      "procedures": [],
+      "key_topics": ["Trachea", "Bronchi", "Anatomical landmarks"]
+    },
+    {
+      "filename": "Approach to Peripheral Lung Lesions.json",
+      "title": "Approach to Peripheral Lung Lesions",
+      "category": "Diagnostic",
+      "procedures": ["Peripheral nodule biopsy"],
+      "key_topics": ["Navigation", "Biopsy techniques", "Diagnostic yield"]
+    },
+    {
+      "filename": "Artificial Intelligence in Respiratory Endoscopy.json",
+      "title": "Artificial Intelligence in Respiratory Endoscopy",
+      "category": "Technology",
+      "procedures": [],
+      "key_topics": ["AI applications", "Machine learning", "Image analysis"]
+    },
+    {
+      "filename": "Assessment_of_Vocal_Cord_Function_and_Voice_disorders.json",
+      "title": "Assessment of Vocal Cord Function and Voice Disorders",
+      "category": "Diagnostic",
+      "procedures": ["Laryngoscopy", "Voice assessment"],
+      "key_topics": ["Vocal cord paralysis", "Voice disorders", "Laryngeal function"]
+    },
+    {
+      "filename": "Balloon Dilation Techniques.json",
+      "title": "Balloon Dilation Techniques",
+      "category": "Therapeutic",
+      "procedures": ["Balloon bronchoplasty"],
+      "key_topics": ["Airway stenosis", "Dilation technique", "Complications"],
+      "supplementary_tables": [
+        "Balloon_Dilation_devices_comparison.json",
+        "Balloon_Dilation_risk_factors.json"
+      ]
+    },
+    {
+      "filename": "Bronchoalveolar_Lavage.json",
+      "title": "Bronchoalveolar Lavage",
+      "category": "Diagnostic",
+      "procedures": ["BAL"],
+      "key_topics": ["Cell differential", "Infection diagnosis", "ILD evaluation"],
+      "supplementary_tables": [
+        "Bronchoalveolar_Lavage_risk_factors.json"
+      ]
+    },
+    {
+      "filename": "Bronchopleural_Fistula.json",
+      "title": "Bronchopleural Fistula",
+      "category": "Therapeutic",
+      "procedures": ["Fistula closure", "Endobronchial valve placement"],
+      "key_topics": ["Post-surgical complications", "Air leak management"],
+      "supplementary_tables": [
+        "Bronchopleural_Fistula_devices_therapeutics_table.json",
+        "Bronchopleural_Fistula_risk_factors.json"
+      ]
+    },
+    {
+      "filename": "Bronchoscopic Techniques for Surgical Marking.json",
+      "title": "Bronchoscopic Techniques for Surgical Marking",
+      "category": "Procedural",
+      "procedures": ["Dye marking", "Fiducial placement"],
+      "key_topics": ["Surgical planning", "Localization techniques"],
+      "supplementary_tables": [
+        "Bronchoscopic Techniques for Surgical Marking_devices_therapeutics_table.json"
+      ]
+    },
+    {
+      "filename": "BTPNA.json",
+      "title": "Bronchoscopic Transparenchymal Nodule Access",
+      "category": "Diagnostic",
+      "procedures": ["BTPNA"],
+      "key_topics": ["Peripheral nodule access", "Navigation", "Transparenchymal approach"]
+    },
+    {
+      "filename": "Cone Beam CT Guidance.json",
+      "title": "Cone Beam CT Guidance",
+      "category": "Technology",
+      "procedures": ["Image-guided bronchoscopy"],
+      "key_topics": ["3D imaging", "Real-time guidance", "Radiation exposure"]
+    },
+    {
+      "filename": "Conventional Biopsy and Sampling Techniques.json",
+      "title": "Conventional Biopsy and Sampling Techniques",
+      "category": "Diagnostic",
+      "procedures": ["Forceps biopsy", "Brush biopsy", "Needle aspiration"],
+      "key_topics": ["Sampling techniques", "Diagnostic yield", "Complications"]
+    },
+    {
+      "filename": "Cricothyroidotomy.json",
+      "title": "Cricothyroidotomy",
+      "category": "Emergency",
+      "procedures": ["Emergency cricothyroidotomy"],
+      "key_topics": ["Airway emergency", "Surgical technique", "Complications"],
+      "supplementary_tables": [
+        "Cricothyroidotomy_techniques_comparison_table.json"
+      ]
+    },
+    {
+      "filename": "Diagnostic Approach to Pleural Effusions.json",
+      "title": "Diagnostic Approach to Pleural Effusions",
+      "category": "Diagnostic",
+      "procedures": ["Thoracentesis", "Pleural biopsy"],
+      "key_topics": ["Light's criteria", "Exudate vs transudate", "Malignant effusions"],
+      "supplementary_tables": [
+        "Diagnostic Approach to Pleural Effusions_risk_factors.json"
+      ]
+    },
+    {
+      "filename": "Electrocautery_and_APC.json",
+      "title": "Electrocautery and Argon Plasma Coagulation",
+      "category": "Therapeutic",
+      "procedures": ["Electrocautery", "APC"],
+      "key_topics": ["Thermal ablation", "Hemostasis", "Tumor debulking"],
+      "supplementary_tables": [
+        "Electrocautery_and_APC_settings_table.json"
+      ]
+    },
+    {
+      "filename": "Emerging Bronchoscopic Therapies.json",
+      "title": "Emerging Bronchoscopic Therapies",
+      "category": "Innovation",
+      "procedures": [],
+      "key_topics": ["Novel techniques", "Future directions", "Clinical trials"]
+    },
+    {
+      "filename": "Endobronchial_Silicone_Stents_clean.json",
+      "title": "Endobronchial Silicone Stents",
+      "category": "Therapeutic",
+      "procedures": ["Silicone stent placement"],
+      "key_topics": ["Airway stenting", "Stent selection", "Complications"],
+      "supplementary_tables": [
+        "Endobronchial_Silicone_Stents_devices_therapeutics_table.json"
+      ]
+    },
+    {
+      "filename": "Interventional Pulmonary and Advanced Bronchoscopy Training.json",
+      "title": "Interventional Pulmonary and Advanced Bronchoscopy Training",
+      "category": "Education",
+      "procedures": [],
+      "key_topics": ["Fellowship training", "Competency assessment", "Simulation"],
+      "supplementary_tables": [
+        "assessment_tools.json",
+        "procedural_requirements.json",
+        "training_stages.json"
+      ]
+    },
+    {
+      "filename": "Large_Bore_Chest_Tubes.json",
+      "title": "Large Bore Chest Tubes",
+      "category": "Procedural",
+      "procedures": ["Chest tube insertion"],
+      "key_topics": ["Pleural drainage", "Technique", "Complications"]
+    },
+    {
+      "filename": "Malignant Central Airway Obstruction.json",
+      "title": "Malignant Central Airway Obstruction",
+      "category": "Oncology",
+      "procedures": ["Tumor debulking", "Stenting"],
+      "key_topics": ["Airway obstruction", "Palliative care", "Multimodality therapy"]
+    },
+    {
+      "filename": "Management of Subglottic Stenosis.json",
+      "title": "Management of Subglottic Stenosis",
+      "category": "Therapeutic",
+      "procedures": ["Dilation", "Laser therapy", "Steroid injection"],
+      "key_topics": ["Idiopathic stenosis", "Post-intubation stenosis"],
+      "supplementary_tables": [
+        "Management of Subglottic Stenosis_devices_therapeutics_table.json",
+        "Management of Subglottic Stenosis_risk_factors.json"
+      ]
+    },
+    {
+      "filename": "Mediastinal_Cryobiopsy.json",
+      "title": "Mediastinal Cryobiopsy",
+      "category": "Diagnostic",
+      "procedures": ["EBUS-guided cryobiopsy"],
+      "key_topics": ["Mediastinal masses", "Diagnostic yield", "Safety"]
+    },
+    {
+      "filename": "Minimally Invasive Image-Guided Ablation.json",
+      "title": "Minimally Invasive Image-Guided Ablation",
+      "category": "Therapeutic",
+      "procedures": ["Radiofrequency ablation", "Microwave ablation"],
+      "key_topics": ["Lung tumor ablation", "Image guidance", "Patient selection"]
+    },
+    {
+      "filename": "Persistent_Air_Leaks.json",
+      "title": "Persistent Air Leaks",
+      "category": "Therapeutic",
+      "procedures": ["Endobronchial valve placement", "Sealant application"],
+      "key_topics": ["Post-surgical air leak", "Pneumothorax management"],
+      "supplementary_tables": [
+        "Persistent_Air_Leaks_devices_therapeutics_table.json"
+      ]
+    },
+    {
+      "filename": "Pneumothorax.json",
+      "title": "Pneumothorax",
+      "category": "Emergency",
+      "procedures": ["Needle decompression", "Chest tube insertion"],
+      "key_topics": ["Diagnosis", "Management algorithm", "Prevention"]
+    },
+    {
+      "filename": "Pysiology of Fixed Airway Obstruction.json",
+      "title": "Physiology of Fixed Airway Obstruction",
+      "category": "Physiology",
+      "procedures": [],
+      "key_topics": ["Flow-volume loops", "Spirometry", "Pathophysiology"]
+    },
+    {
+      "filename": "Quality_Indicators_and_Performance_Monitoring.json",
+      "title": "Quality Indicators and Performance Monitoring",
+      "category": "Quality",
+      "procedures": [],
+      "key_topics": ["Quality metrics", "Performance improvement", "Patient safety"]
+    },
+    {
+      "filename": "Rapid_Onsite_Evaluation.json",
+      "title": "Rapid Onsite Evaluation",
+      "category": "Diagnostic",
+      "procedures": ["ROSE"],
+      "key_topics": ["Cytopathology", "Adequacy assessment", "Diagnostic yield"],
+      "supplementary_tables": [
+        "Rapid_Onsite_Evaluation_biomarker_table.json",
+        "ROSE_passes_targets_table.json"
+      ]
+    },
+    {
+      "filename": "Single_Use_Bronchoscopy.json",
+      "title": "Single Use Bronchoscopy",
+      "category": "Technology",
+      "procedures": ["Disposable bronchoscopy"],
+      "key_topics": ["Infection control", "Cost-effectiveness", "Performance"],
+      "supplementary_tables": [
+        "Single_Use_Bronchoscopy_vendors_table.json"
+      ]
+    },
+    {
+      "filename": "Small_Bore_Drain_Types_and_Placement.json",
+      "title": "Small Bore Drain Types and Placement",
+      "category": "Procedural",
+      "procedures": ["Pigtail catheter insertion"],
+      "key_topics": ["Pleural drainage", "Technique", "Indications"]
+    },
+    {
+      "filename": "Surgery in Empyema.json",
+      "title": "Surgery in Empyema",
+      "category": "Surgical",
+      "procedures": ["Decortication", "VATS"],
+      "key_topics": ["Empyema stages", "Surgical indications", "Outcomes"]
+    },
+    {
+      "filename": "Thoracentesis Technique.json",
+      "title": "Thoracentesis Technique",
+      "category": "Procedural",
+      "procedures": ["Thoracentesis"],
+      "key_topics": ["Ultrasound guidance", "Complications", "Technique"]
+    },
+    {
+      "filename": "Transbronchial Cryobiopsy.json",
+      "title": "Transbronchial Cryobiopsy",
+      "category": "Diagnostic",
+      "procedures": ["Cryobiopsy"],
+      "key_topics": ["ILD diagnosis", "Technique", "Safety profile"]
+    },
+    {
+      "filename": "Transthoracic_Needle_Biopsy.json",
+      "title": "Transthoracic Needle Biopsy",
+      "category": "Diagnostic",
+      "procedures": ["CT-guided biopsy"],
+      "key_topics": ["Peripheral lesions", "Pneumothorax risk", "Diagnostic yield"]
+    },
+    {
+      "filename": "Treatment_of_Airway_Esophageal_Fistulas.json",
+      "title": "Treatment of Airway Esophageal Fistulas",
+      "category": "Therapeutic",
+      "procedures": ["Fistula closure", "Stent placement"],
+      "key_topics": ["TEF management", "Palliative care"],
+      "supplementary_tables": [
+        "AEF_devices_therapeutics_table.json"
+      ]
+    },
+    {
+      "filename": "Ultrathin Bronchoscopy.json",
+      "title": "Ultrathin Bronchoscopy",
+      "category": "Technology",
+      "procedures": ["Ultrathin bronchoscopy"],
+      "key_topics": ["Peripheral access", "Pediatric bronchoscopy", "Equipment"]
+    },
+    {
+      "filename": "Y-Stenting Techniques.json",
+      "title": "Y-Stenting Techniques",
+      "category": "Therapeutic",
+      "procedures": ["Y-stent placement"],
+      "key_topics": ["Carinal stenting", "Technique", "Complications"]
+    }
+  ],
+  
+  "categories": {
+    "Anatomy": 1,
+    "Diagnostic": 10,
+    "Therapeutic": 11,
+    "Procedural": 5,
+    "Emergency": 2,
+    "Technology": 4,
+    "Oncology": 1,
+    "Surgical": 1,
+    "Physiology": 1,
+    "Education": 1,
+    "Innovation": 1,
+    "Quality": 1
+  },
+  
+  "search_index": {
+    "procedures": [
+      "Balloon bronchoplasty",
+      "BAL",
+      "BTPNA",
+      "Chest tube insertion",
+      "Cricothyroidotomy",
+      "Cryobiopsy",
+      "CT-guided biopsy",
+      "EBUS-guided cryobiopsy",
+      "Electrocautery",
+      "Endobronchial valve placement",
+      "Fistula closure",
+      "Forceps biopsy",
+      "Laryngoscopy",
+      "Needle aspiration",
+      "Peripheral nodule biopsy",
+      "Pigtail catheter insertion",
+      "Pleural biopsy",
+      "Radiofrequency ablation",
+      "ROSE",
+      "Silicone stent placement",
+      "Thoracentesis",
+      "Tumor debulking",
+      "Ultrathin bronchoscopy",
+      "VATS",
+      "Y-stent placement"
+    ],
+    "key_equipment": [
+      "Argon plasma coagulator",
+      "Balloon dilator",
+      "Bronchoscope",
+      "Cone beam CT",
+      "Cryoprobe",
+      "Electrocautery",
+      "Endobronchial valve",
+      "Navigation system",
+      "Silicone stent",
+      "Ultrathin bronchoscope",
+      "Y-stent"
+    ],
+    "common_conditions": [
+      "Airway stenosis",
+      "Bronchopleural fistula",
+      "Central airway obstruction",
+      "Empyema",
+      "ILD",
+      "Lung cancer",
+      "Persistent air leak",
+      "Pleural effusion",
+      "Pneumothorax",
+      "Subglottic stenosis",
+      "TEF",
+      "Vocal cord paralysis"
+    ]
+  }
+}

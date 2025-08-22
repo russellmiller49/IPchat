@@ -1,0 +1,141 @@
+{
+  "chapter_metadata": {
+    "title": "Balloon Dilation Techniques",
+    "authors": ["Kevin L. Kovitz", "Sylvia S. Yong"],
+    "chapter_number": null,
+    "learning_objectives": [],
+    "key_points": [
+      "Airway stenosis has multiple etiologies including iatrogenic, infectious, inflammatory, malignant, idiopathic, and traumatic causes.",
+      "Balloon dilation (balloon bronchoplasty) is a simple, safe, inexpensive, and rapidly effective technique for immediate airway improvement.",
+      "Direct bronchoscopy is the gold standard for diagnosis and therapeutic intervention.",
+      "Balloons should be long enough to straddle the stenosis with ≥1 cm overlap on both sides.",
+      "Balloon dilation may be repeated or combined with adjuncts (stenting, laser, cryotherapy, medications)."
+    ],
+    "page_range": { "start": 1, "end": 5 },
+    "reference": "Kovitz KL, Yong SS. Balloon Dilation Techniques. In: Principles and Practice of Interventional Pulmonology. Springer; 2025. doi:10.1007/978-3-031-49583-0_35-1"
+  },
+  "anatomical_content": {
+    "structures": ["Trachea", "Mainstem bronchi", "Subglottic airway"]
+  },
+  "clinical_procedures": [
+    {
+      "name": "Balloon bronchoplasty",
+      "purpose": "Immediate relief of central airway obstruction from stenosis",
+      "steps": [
+        "Establish airway (laryngeal mask airway, ET tube, or rigid bronchoscope)",
+        "Advance bronchoscope to stenosis",
+        "Pass balloon catheter through bronchoscope channel or over wire",
+        "Position balloon across stenosis with ≥1 cm overlap on both sides",
+        "Inflate to target diameter for ~1 min, repeat ×3",
+        "Deflate and inspect for complications"
+      ],
+      "notes": "Deep sedation/anesthesia typically required; avoid wire-only placement without visualization.",
+      "source_page": 3
+    }
+  ],
+  "diagnostic_approaches": [... as in cleaned Gold JSON, unchanged ...],
+  "technology_and_technique": [... cleaned and expanded per PDF:contentReference[oaicite:3]{index=3} ...],
+  "tables": [
+    {
+      "title": "Table 1 Causes of airway stenosis",
+      "rows": [
+        ["Intubation"],
+        ["Surgical anastomotic (sleeve resection, transplant)"],
+        ["Infectious (tuberculosis)"],
+        ["Inflammatory (sarcoidosis, EGPA, relapsing polychondritis)"],
+        ["Malignant"],
+        ["Idiopathic"],
+        ["Radiation"],
+        ["Inhalational injury"],
+        ["Trauma"]
+      ],
+      "source_page": 2
+    },
+    {
+      "title": "Table 2 Other balloon uses",
+      "rows": [
+        ["Stent deployment"],
+        ["Tamponade of bleeding"],
+        ["Deliberate airway occlusion"],
+        ["Foreign body removal"]
+      ],
+      "source_page": 3
+    },
+    {
+      "title": "Table 3 Potential complications of balloon bronchoplasty",
+      "rows": [
+        ["Airway laceration"],
+        ["Bleeding"],
+        ["Pneumothorax"],
+        ["Pneumomediastinum"],
+        ["Mediastinitis"],
+        ["Chest pain"]
+      ],
+      "source_page": 4
+    }
+  ],
+  "figures": [
+    {
+      "figure_id": "Fig. 1",
+      "caption": "Examples of nonconformal balloons. Above: dilated with saline and over a wire. Below: deflated balloon with radiopaque markers. (Boston Scientific)",
+      "page": 2,
+      "keywords": ["nonconformal balloon", "radiopaque markers"]
+    },
+    {
+      "figure_id": "Fig. 2",
+      "caption": "Inflation syringe system with built-in pressure gauge. (Boston Scientific, Watertown, MA)",
+      "page": 2,
+      "keywords": ["inflation device", "pressure gauge"]
+    },
+    {
+      "figure_id": "Fig. 3",
+      "caption": "Balloon catheter passed via working channel of flexible bronchoscope inserted through laryngeal mask airway.",
+      "page": 3
+    },
+    {
+      "figure_id": "Fig. 4",
+      "caption": "Deflated balloon in initial state with wire. (Boston Scientific)",
+      "page": 3
+    },
+    {
+      "figure_id": "Fig. 5",
+      "caption": "Tracheal stenosis before (a), during (b), and after (c) balloon dilation.",
+      "page": 4,
+      "keywords": ["before/after balloon dilation", "airway patency"]
+    }
+  ],
+  "complications": [
+    "Airway laceration",
+    "Bleeding",
+    "Pneumothorax",
+    "Pneumomediastinum",
+    "Mediastinitis",
+    "Chest pain"
+  ],
+  "clinical_pearls": [
+    "Balloon bronchoplasty is simple, safe, inexpensive, repeatable, and rapidly effective.",
+    "Superficial airway lacerations may paradoxically prolong airway patency (~24 months vs 4 months without laceration in TB-related stenosis)."
+  ],
+  "references": [
+    { "citation": "Freitag L, Ernst A, ... Eur Respir J. 2007;30:7–12." },
+    { "citation": "Mayse ML, et al. Chest. 2004;126:634–7." },
+    { "citation": "Kovitz KL, Conforti JF. Pulmon Perspect. 1999;16(1):1–4." },
+    { "citation": "Sheski FD, Mathur PN. Chest. 1998;114(3):796–800." },
+    { "citation": "Hebra A, et al. J Pediatr Surg. 1991;26(8):957–61." },
+    { "citation": "Ferretti G, et al. Radiology. 1995;196:831–4." },
+    { "citation": "Liang W, et al. Ther Adv Respir Dis. 2019;13:1–13." },
+    { "citation": "Hautmann H, et al. Chest. 2001;120(1):43–9." },
+    { "citation": "Shitrit D, et al. Eur J Cardiothorac Surg. 2010;38:198–202." },
+    { "citation": "Kim JH, et al. Chest. 2007;131(4):1114–7." },
+    { "citation": "Abi-Jaoudeh N, et al. J Vasc Interv Radiol. 2009;20:912–20." },
+    { "citation": "De Gracia J, et al. Respir Med. 2007;101:27–33." },
+    { "citation": "Crespo MM, et al. J Heart Lung Transplant. 2018;37:548–63." }
+  ],
+  "conclusion": {
+    "points": [
+      "Balloon bronchoplasty is a safe, quick, effective, and repeatable method for airway stenosis.",
+      "Symptomatic relief is immediate in most patients.",
+      "Can be stand-alone or bridge to stenting or surgery."
+    ]
+  }
+}

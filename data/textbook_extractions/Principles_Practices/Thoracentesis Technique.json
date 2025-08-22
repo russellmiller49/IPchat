@@ -1,0 +1,595 @@
+{
+  "chapter_metadata": {
+    "title": {
+      "value": "Thoracentesis Technique",
+      "present_in_source": true
+    },
+    "authors": [
+      "Sara R. Greenhill"
+    ],
+    "chapter_number": {
+      "value": null,
+      "present_in_source": false
+    },
+    "learning_objectives": [],
+    "key_points": [],
+    "page_range": {
+      "start": 1,
+      "end": 8
+    },
+    "reference": "[Chapter Text]"
+  },
+  "anatomical_content": {
+    "structures": []
+  },
+  "clinical_procedures": [
+    {
+      "name": "Thoracentesis (diagnostic and therapeutic)",
+      "steps": [
+        "Position patient sitting upright; consider lateral decubitus if unstable.",
+        "Perform consent and time-out; mark correct side.",
+        "Use ultrasound in real time to localize effusion and optimal intercostal space.",
+        "Prep skin with chlorhexidine or betadine; place sterile drape; wear mask and sterile gloves.",
+        "Anesthetize skin and intercostal tract with 10 mL of 1% lidocaine using 25-gauge then 22-gauge 2.5-in needle.",
+        "Make a small subcutaneous stab incision with #11 scalpel.",
+        "Insert needle-with-catheter above the rib into pleural space with continuous aspiration; advance catheter over needle, then withdraw needle.",
+        "Drain fluid with one-way syringe and tubing; consider Vacutainer/wall suction cautiously due to possible increased complications.",
+        "Monitor symptoms and, if using manometry, stop if Ppl < −20 cmH2O, or if patient develops chest discomfort/cough/shoulder pain, or when no more fluid.",
+        "Remove catheter during exhalation; cover site with sterile dressing; consider post-procedure ultrasound; chest radiograph only if suspicion for pneumothorax."
+      ],
+      "notes": [
+        "Place needle on the superior margin of the rib to avoid the neurovascular bundle.",
+        "Ultrasound guidance reduces pneumothorax risk and increases success after a dry tap."
+      ]
+    }
+  ],
+  "diagnostic_approaches": [
+    {
+      "name": "Pleural fluid analysis",
+      "details": [
+        "Visual inspection: color, consistency, odor.",
+        "Classify as transudate vs exudate using Light’s criteria.",
+        "Additional tests as indicated: glucose, pH, amylase, cholesterol, albumin, rheumatoid factor, BNP, ADA."
+      ]
+    },
+    {
+      "name": "Imaging",
+      "details": [
+        "Chest radiograph patterns (bilateral vs unilateral; nodules; interstitial infiltrates) suggest etiologies.",
+        "Thoracic ultrasound: guidance for thoracentesis; predictive of trapped lung/entrapment via lung motion and pleural thickening."
+      ]
+    }
+  ],
+  "treatment_algorithms": [],
+  "clinical_guidelines": [
+    {
+      "topic": "Indications",
+      "recommendations": [
+        "Evaluate any new, unexplained pleural effusion with thoracentesis unless typical CHF is obvious.",
+        "Combine diagnostic and therapeutic thoracentesis in a single setting when feasible."
+      ]
+    },
+    {
+      "topic": "Contraindications/Precautions",
+      "recommendations": [
+        "Correct bleeding disorders when possible; small-bore needle may be used with anticoagulation or uremia when benefits outweigh risks.",
+        "Avoid areas of skin infection; mechanical ventilation is not a contraindication.",
+        "Use real-time ultrasound guidance to reduce complications."
+      ]
+    },
+    {
+      "topic": "Post-procedure imaging",
+      "recommendations": [
+        "Routine chest radiograph is not required; obtain if air aspiration, multiple unsuccessful attempts, or prior thoracic radiation or other high-risk scenarios."
+      ]
+    },
+    {
+      "topic": "Pleural manometry & drainage volumes",
+      "recommendations": [
+        "Stop drainage if Ppl drops below −20 cmH2O, if no more fluid, or if patient develops chest discomfort.",
+        "Large volumes can be drained safely when monitoring symptoms and/or Ppl."
+      ]
+    }
+  ],
+  "drug_information": [
+    {
+      "name": "Lidocaine 1%",
+      "dose": "10 mL",
+      "route": "Infiltration (local anesthesia)",
+      "notes": [
+        "Without epinephrine. Avoid injecting once pleural fluid aspirated."
+      ],
+      "present_in_source": true
+    }
+  ],
+  "tables": [
+    {
+      "title": "Table 1. Volume of pleural fluid and associated findings on physical examination",
+      "columns": [
+        "volume",
+        "findings"
+      ],
+      "rows": [
+        {
+          "volume": "<250–300 cm3",
+          "findings": [
+            "Probable normal examination"
+          ]
+        },
+        {
+          "volume": "500 cm3",
+          "findings": [
+            "Dullness to percussion",
+            "Decreased fremitus",
+            "Normal vesicular breath sounds but decreased intensity"
+          ]
+        },
+        {
+          "volume": "1000 cm3",
+          "findings": [
+            "Absence of inspiratory retraction; mild bulging of intercostal spaces",
+            "Decreased expansion of ipsilateral chest wall",
+            "Dullness to percussion up to the scapula and axilla",
+            "Decreased or absent fremitus posteriorly and laterally",
+            "Bronchovesicular breath sounds",
+            "Egophony at the upper level of the effusion"
+          ]
+        },
+        {
+          "volume": "Massive (filling the hemithorax)",
+          "findings": [
+            "Bulging of intercostal spaces",
+            "Minimal to no ipsilateral chest wall expansion",
+            "Dull or flat percussion",
+            "Absent breath sounds",
+            "Egophony at the apex",
+            "Palpable liver or spleen due to diaphragmatic depression"
+          ]
+        }
+      ],
+      "page": 2
+    },
+    {
+      "title": "Table 2. Chest radiograph findings of specific diseases",
+      "columns": [
+        "finding",
+        "diseases"
+      ],
+      "rows": [
+        {
+          "finding": "Unilateral effusion",
+          "diseases": [
+            "Infection",
+            "Lupus pleuritis",
+            "Rheumatoid pleurisy",
+            "Metastatic malignancy",
+            "Non-Hodgkin lymphoma",
+            "Leukemia",
+            "Pulmonary embolism",
+            "Drug-induced pleural disease",
+            "Yellow nail syndrome",
+            "Hypothyroidism",
+            "Uremic pleuritis",
+            "Chylothorax",
+            "Constrictive pericarditis"
+          ]
+        },
+        {
+          "finding": "With mediastinal shift",
+          "diseases": [
+            "Metastatic malignancy"
+          ]
+        },
+        {
+          "finding": "Without mediastinal shift",
+          "diseases": [
+            "Lung cancer",
+            "Malignant mesothelioma"
+          ]
+        },
+        {
+          "finding": "Diseases below the diaphragm (Transudative)",
+          "diseases": [
+            "Hepatic hydrothorax",
+            "Nephrotic syndrome",
+            "Urinothorax",
+            "Peritoneal dialysis"
+          ]
+        },
+        {
+          "finding": "Diseases below the diaphragm (Exudative)",
+          "diseases": [
+            "Pancreatitis",
+            "Meigs syndrome",
+            "Chylous ascites",
+            "Subphrenic/hepatic/splenic abscess"
+          ]
+        },
+        {
+          "finding": "Bilateral effusion (Transudative)",
+          "diseases": [
+            "Congestive heart failure",
+            "Nephrotic syndrome",
+            "Hypoalbuminemia",
+            "Peritoneal dialysis",
+            "Constrictive pericarditis"
+          ]
+        },
+        {
+          "finding": "Bilateral effusion (Exudative)",
+          "diseases": [
+            "Malignancy",
+            "Lupus pleuritis",
+            "Rheumatoid pleurisy"
+          ]
+        },
+        {
+          "finding": "Associated with interstitial infiltrates",
+          "diseases": [
+            "Congestive heart failure",
+            "Rheumatoid disease",
+            "Asbestos pulmonary disease",
+            "Lymphangioleiomyomatosis (LAM)",
+            "Viral and mycoplasma pneumonia",
+            "Sarcoidosis",
+            "Pneumocystis jiroveci pneumonia"
+          ]
+        },
+        {
+          "finding": "Associated with multiple nodules",
+          "diseases": [
+            "Cancer",
+            "Wegener granulomatosis",
+            "Rheumatoid disease",
+            "Septic pulmonary embolism",
+            "Sarcoidosis",
+            "Tularemia"
+          ]
+        }
+      ],
+      "page": 2
+    },
+    {
+      "title": "Table 3. Causes of exudative pleural effusions",
+      "columns": [
+        "category",
+        "causes"
+      ],
+      "rows": [
+        {
+          "category": "Infectious",
+          "causes": [
+            "Bacterial pneumonia",
+            "Tuberculous effusion",
+            "Fungal disease",
+            "Atypical pneumonias",
+            "Nocardia",
+            "Actinomyces",
+            "Subphrenic abscess",
+            "Hepatic abscess",
+            "Splenic abscess",
+            "Hepatitis",
+            "Spontaneous esophageal rupture",
+            "Parasites",
+            "Esophageal perforation",
+            "ARDS"
+          ]
+        },
+        {
+          "category": "Malignancy",
+          "causes": [
+            "Carcinoma",
+            "Lymphoma",
+            "Mesothelioma",
+            "Leukemia",
+            "Chylothorax"
+          ]
+        },
+        {
+          "category": "Connective tissue disease",
+          "causes": [
+            "Lupus pleuritis",
+            "Rheumatoid pleurisy",
+            "Mixed connective tissue disease",
+            "Sjögren syndrome"
+          ]
+        },
+        {
+          "category": "Other inflammatory",
+          "causes": [
+            "Pancreatitis",
+            "BAPE",
+            "Pulmonary infarction",
+            "Radiation therapy",
+            "Sarcoidosis",
+            "Malignancy",
+            "Hemothorax",
+            "Cholesterol effusion"
+          ]
+        },
+        {
+          "category": "Endocrine dysfunction",
+          "causes": [
+            "Hypothyroidism",
+            "Ovarian hyperstimulation syndrome"
+          ]
+        },
+        {
+          "category": "Iatrogenic",
+          "causes": [
+            "PCIS",
+            "Esophageal sclerotherapy",
+            "Central venous catheter misplacement/migration",
+            "Enteral feeding tube in pleural space"
+          ]
+        },
+        {
+          "category": "Lymphatic abnormalities",
+          "causes": [
+            "Chylothorax",
+            "Lymphangiomyomatosis (chylothorax)",
+            "Lymphangiectasis"
+          ]
+        },
+        {
+          "category": "Vasculitis",
+          "causes": [
+            "Wegener granulomatosis",
+            "Churg–Strauss syndrome",
+            "Familial Mediterranean fever"
+          ]
+        },
+        {
+          "category": "Increased negative intrapleural pressure",
+          "causes": [
+            "Atelectasis",
+            "Trapped lung"
+          ]
+        },
+        {
+          "category": "Movement of fluid from abdomen to pleural space",
+          "causes": [
+            "Acute pancreatitis",
+            "Pancreatic pseudocyst",
+            "Meigs syndrome",
+            "Chylous ascites"
+          ]
+        }
+      ],
+      "page": 3
+    },
+    {
+      "title": "Table 4. Causes of transudative pleural effusions",
+      "columns": [
+        "diagnosis",
+        "comment"
+      ],
+      "rows": [
+        {
+          "diagnosis": "Congestive heart failure",
+          "comment": "Acute diuresis can increase pleural fluid protein and LDH concentrations"
+        },
+        {
+          "diagnosis": "Cirrhosis",
+          "comment": "Uncommon without clinical ascites"
+        },
+        {
+          "diagnosis": "Nephrotic syndrome",
+          "comment": "Typically small and bilateral; unilateral larger effusion may be due to pulmonary embolism"
+        },
+        {
+          "diagnosis": "Peritoneal dialysis",
+          "comment": "Large right effusion may develop within 48 h of initiating dialysis"
+        },
+        {
+          "diagnosis": "Hypoalbuminemia",
+          "comment": "Edema fluid rarely isolated to pleural space; small bilateral effusions"
+        },
+        {
+          "diagnosis": "Urinothorax",
+          "comment": "Unilateral effusion caused by ipsilateral obstructive uropathy"
+        },
+        {
+          "diagnosis": "Atelectasis",
+          "comment": "Small effusion caused by increased intrapleural negative pressure; common in ICU patients"
+        },
+        {
+          "diagnosis": "Constrictive pericarditis",
+          "comment": "Bilateral effusions with normal heart size"
+        },
+        {
+          "diagnosis": "Trapped lung",
+          "comment": "Unilateral effusion from imbalance in hydrostatic pressures from a remote inflammatory process"
+        },
+        {
+          "diagnosis": "Superior vena cava obstruction",
+          "comment": "Due to acute systemic venous hypertension or acute obstruction of lymphatics"
+        },
+        {
+          "diagnosis": "Duropleural fistula",
+          "comment": "Cerebrospinal fluid in pleural space; β2-transferrin diagnostic"
+        }
+      ],
+      "page": 4
+    }
+  ],
+  "figures": [
+    {
+      "label": "Fig. 1",
+      "caption": "Internal contents of a standard thoracentesis kit (Arrow, Reading, PA, USA): (a) Package with sterile drape inside; (b) open kit with collection bag, needles, and specimen tubes",
+      "page": 4
+    },
+    {
+      "label": "Fig. 2",
+      "caption": "Thoracic ultrasound: (a) Ultrasound demonstrating pleural fluid, diaphragm, and spleen; (b) demonstration of pleural effusion prior to thoracentesis; (c) post-thoracentesis",
+      "page": 5
+    },
+    {
+      "label": "Fig. 3",
+      "caption": "Thoracentesis: (a) Chest ultrasound; (b) skin anesthetization after sterile skin prep and placement of sterile drape; (c) placement of thoracentesis needle and catheter; (d) pleural fluid drained after thoracentesis",
+      "page": 6
+    }
+  ],
+  "clinical_cases": [],
+  "definitions": [
+    {
+      "term": "Thoracentesis",
+      "definition": "Drainage of fluid from the pleural cavity.",
+      "present_in_source": true
+    },
+    {
+      "term": "Pleural effusion",
+      "definition": "Accumulation of fluid in the pleural space causing cough, dyspnea, pleuritic chest pain.",
+      "present_in_source": true
+    },
+    {
+      "term": "Ppl",
+      "definition": "Intrapleural pressure measured during thoracentesis (pleural liquid pressure).",
+      "present_in_source": true
+    },
+    {
+      "term": "RPE",
+      "definition": "Re-expansion pulmonary edema; risk increases when Ppl drops below −20 cmH2O.",
+      "present_in_source": true
+    },
+    {
+      "term": "Trapped lung",
+      "definition": "Non-expandable lung due to visceral pleural scarring; often transudative and asymptomatic.",
+      "present_in_source": true
+    },
+    {
+      "term": "Lung entrapment",
+      "definition": "Non-expandable lung due to visceral pleural thickening or obstruction; typically exudative and symptomatic.",
+      "present_in_source": true
+    },
+    {
+      "term": "Light’s criteria",
+      "definition": "Biochemical criteria distinguishing exudate from transudate: pleural LDH > 2/3 ULN serum, pleural/serum LDH >0.6, pleural/serum protein >0.5; one criterion suffices.",
+      "present_in_source": true
+    },
+    {
+      "term": "FRC",
+      "definition": "Functional residual capacity; steady-state Ppl approximately −3 to −5 cmH2O.",
+      "present_in_source": true
+    },
+    {
+      "term": "BNP",
+      "definition": "B-type natriuretic peptide; may be measured in pleural fluid.",
+      "present_in_source": true
+    },
+    {
+      "term": "ADA",
+      "definition": "Adenosine deaminase; may be measured in pleural fluid.",
+      "present_in_source": true
+    }
+  ],
+  "clinical_pearls": [
+    "Always insert needle on the superior rib margin to avoid the neurovascular bundle.",
+    "Use real-time ultrasound guidance to reduce pneumothorax risk and increase success.",
+    "Stop drainage for chest pain, intense cough, dyspnea, or when Ppl < −20 cmH2O.",
+    "Routine post-thoracentesis chest radiograph is unnecessary without specific risk factors.",
+    "Remove the catheter during exhalation to minimize air entry."
+  ],
+  "references": [
+    { "id": 1, "citation": "Abunasser J, Brown R. Safety of large-volume thoracentesis. Conn Med. 2010;74(1):23–6." },
+    { "id": 2, "citation": "Cervini P, Hesley GK, et al. Incidence of infectious complications after an ultrasound-guided intervention. AJR. 2010;195:846–50." },
+    { "id": 3, "citation": "Doyle JJ, Hnatiuk OW, et al. Necessity of routine chest roentgenography after thoracentesis. Ann Intern Med. 1996;124(9):816–20." },
+    { "id": 4, "citation": "Duncan DR, Morgenthaler TI, et al. Reducing iatrogenic risk in thoracentesis: establishing best practice via experimental training in a zero-risk environment. Chest. 2009;135(5):1315–20." },
+    { "id": 5, "citation": "Feller-Kopman D. Ultrasound-guided thoracentesis. Chest. 2006;129:1709–14." },
+    { "id": 6, "citation": "Feller-Kopman D. Therapeutic thoracentesis: the role of ultrasound and pleural manometry. Curr Opin Pulm Med. 2007;13:312–8." },
+    { "id": 7, "citation": "Feller-Kopman D, Berkowitz D, et al. Large-volume thoracentesis and the risk of reexpansion pulmonary edema. Ann Thorac Surg. 2007;84:1656–61." },
+    { "id": 8, "citation": "Feller-Kopman D, Walkey A, et al. The relationship of pleural pressure to symptom development during therapeutic thoracentesis. Chest. 2006;6:1556–60." },
+    { "id": 9, "citation": "Fraser RS, Muller NL, editors. Diagnosis of diseases of the chest. 4th ed. Philadelphia: WB Saunders Co; 1999. p. 2001–2, 2739–45." },
+    { "id": 10, "citation": "Gordon CE, Feller-Kopman D, et al. Pneumothorax following thoracentesis: a systematic review and meta-analysis. Arch Intern Med. 2010;170(4):332–9." },
+    { "id": 11, "citation": "Heidecker J, Huggins JT, et al. Pathophysiology of pneumothorax following ultrasound-guided thoracentesis. Chest. 2006;130:1173–84." },
+    { "id": 12, "citation": "Josephson T, Nordenskjold CA, et al. Amount drained at ultrasound-guided thoracentesis and risk of pneumothorax. Acta Radiol. 2009;50:42–7." },
+    { "id": 13, "citation": "Lentz RJ, Shojaee S, et al. The impact of gravity vs suction-driven therapeutic thoracentesis on pressure-related complications: the GRAVITAS multicenter randomized controlled trial. Chest. 2020;157(3):702–11." },
+    { "id": 14, "citation": "Lichtenstein D, Hulot JS, et al. Feasibility and safety of ultrasound-aided thoracentesis in mechanically ventilated patients. Intensive Care Med. 1999;25:955–8." },
+    { "id": 15, "citation": "Light RW, editor. Pleural diseases. 4th ed. Philadelphia: Lippincott Williams & Wilkins; 2001. p. 152–3, 160–73." },
+    { "id": 16, "citation": "Light RW, Lee YCG. Textbook of pleural diseases. 2nd ed. London: Hodder Arnold; 2008. p. 201–4, 209–16, 230–1, 260–1, 280, 551–7." },
+    { "id": 17, "citation": "Qureshi N, Momin Z, et al. Thoracentesis in clinical practice. Heart Lung. 1994;23:376–83." },
+    { "id": 18, "citation": "Roberts ME, Neville E, et al. Management of a malignant pleural effusion: British Thoracic Society pleural disease guideline 2010. Thorax. 2010;65(Suppl 2):ii32–40." },
+    { "id": 19, "citation": "Senitki M, Ray AS, et al. Safety and tolerability of vacuum versus manual drainage during thoracentesis: a randomized trial. J Bronchology Interven Pulmonol. 2019;26(3):166–71." },
+    { "id": 20, "citation": "Shojaee S, Pannu J, et al. Gravity- vs wall suction-driven large-volume thoracentesis: a randomized controlled study. Chest. 2024;166(6):1573–82." },
+    { "id": 21, "citation": "Tayal VS, Nicks BA, et al. Emergency ultrasound evaluation of symptomatic nontraumatic pleural effusions. Am J Emerg Med. 2006;24:782–6." },
+    { "id": 22, "citation": "Wang KP, editor. Biopsy techniques in pulmonary disorders. New York: Raven; 1989. p. 29–39, 120–1." },
+    { "id": 23, "citation": "Weingardt JP, Guico RR, et al. Ultrasound findings following failed, clinically directed thoracenteses. J Clin Ultrasound. 1994;22:419–26." }
+  ],
+  "summary": {
+    "clinical_applications": [
+      "Thoracentesis provides diagnostic clarity and symptom relief in pleural effusions.",
+      "Real-time ultrasound improves safety and success."
+    ],
+    "practice_recommendations": [
+      "Combine diagnostic and therapeutic thoracentesis when possible.",
+      "Use ultrasound guidance; avoid routine chest radiograph post-procedure.",
+      "Monitor symptoms and Ppl during large-volume drainage; stop if Ppl < −20 cmH2O or discomfort."
+    ],
+    "future_directions": [
+      "Clarify safety implications of suction-assisted drainage vs gravity/manual across settings.",
+      "Define when pleural manometry meaningfully changes outcomes."
+    ],
+    "controversies": [
+      "Utility of routine manometry during thoracentesis.",
+      "Safety profile of active suction vs manual drainage in large-volume thoracentesis."
+    ]
+  },
+  "extraction_metadata": {
+    "source_pdf": "Textbooks/Chapter pdfs/Thoracentesis Technique.pdf",
+    "adobe_json": null,
+    "extraction_date": "2025-08-21T09:13:44.590141+00:00",
+    "text_pages": 8,
+    "chunks_processed": 2,
+    "model": "gpt-5",
+    "extractor_version": "production_multipass_v3.2_gpt5_simple",
+    "enhancements_applied": [
+      "risk_model_separation",
+      "clinical_interpretation_addition",
+      "performance_metric_normalization",
+      "inline_reference_addition",
+      "duplicate_consolidation",
+      "missing_section_extraction"
+    ],
+    "passes_completed": 7,
+    "schema_version": "gold_standard_v1.0",
+    "enhancement_version": "1.0"
+  },
+  "risk_models": [],
+  "guideline_adherence": {},
+  "technology_and_technique": [
+    {
+      "name": "Ultrasound guidance",
+      "benefits": [
+        "Reduces pneumothorax risk",
+        "Increases success after dry taps",
+        "Assesses trapped lung/entrapment"
+      ]
+    },
+    {
+      "name": "Pleural manometry",
+      "benefits": [
+        "Assesses Ppl",
+        "Guides drainage volume to avoid RPE"
+      ]
+    },
+    {
+      "name": "Drainage method",
+      "options": [
+        "Manual syringe",
+        "Vacutainer",
+        "Wall suction"
+      ],
+      "notes": [
+        "Suction may be faster but some studies report higher complications; evidence mixed (GRAVITAS no difference in discomfort)."
+      ]
+    }
+  ],
+  "conclusion": {
+    "points": [
+      "Thoracentesis is safe and effective for diagnosis and symptom relief in pleural effusions.",
+      "Ultrasound guidance and attention to pleural pressures minimize complications.",
+      "Large volumes can be drained safely when monitoring for symptoms and Ppl thresholds."
+    ],
+    "reference": "[Chapter Conclusion]"
+  }
+}

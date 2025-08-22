@@ -1,0 +1,124 @@
+{
+  "chapter_metadata": {
+    "title": "Surgery in Empyema",
+    "authors": [
+      "Willfredy Castano",
+      "Maxime Têtu",
+      "Moishe Liberman"
+    ],
+    "reference": "[Chapter Text]"
+  },
+  "definitions": [
+    {"term": "pCA", "definition": "pretest probability of cancer"},
+    {"term": "VDT", "definition": "volume doubling time"},
+    {"term": "FDG", "definition": "fluorodeoxyglucose"},
+    {"term": "PET/CT", "definition": "positron emission tomography / computed tomography"},
+    {"term": "NPV", "definition": "negative predictive value"},
+    {"term": "PPV", "definition": "positive predictive value"},
+    {"term": "AUC", "definition": "area under the curve"},
+    {"term": "ACCP", "definition": "American College of Chest Physicians"},
+    {"term": "BTS", "definition": "British Thoracic Society"},
+    {"term": "GGN", "definition": "ground-glass nodule"},
+    {"term": "TTNB", "definition": "transthoracic needle biopsy"},
+    {"term": "NSCLC", "definition": "non-small cell lung cancer"},
+    {"term": "RADS", "definition": "radiology assessment and data system"},
+    {"term": "ROC", "definition": "receiver operating characteristic"},
+    {"term": "HR", "definition": "hazard ratio"},
+    {"term": "CI", "definition": "confidence interval"}
+  ],
+  "risk_models": [
+    {
+      "name": "Adjusted RAPID Score",
+      "parameters": [
+        {"parameter": "Renal (Urea, mM)", "measure": "<5", "score": 0},
+        {"parameter": "Renal (Urea, mM)", "measure": "5–8", "score": 1},
+        {"parameter": "Renal (Urea, mM)", "measure": ">8", "score": 2},
+        {"parameter": "Age (years)", "measure": "<50", "score": 0},
+        {"parameter": "Age (years)", "measure": "50–70", "score": 1},
+        {"parameter": "Age (years)", "measure": ">70", "score": 2},
+        {"parameter": "Purulence of pleural fluid", "measure": "Purulent", "score": 0},
+        {"parameter": "Purulence of pleural fluid", "measure": "Nonpurulent", "score": 1},
+        {"parameter": "Infection source", "measure": "Community-acquired", "score": 0},
+        {"parameter": "Infection source", "measure": "Hospital-acquired", "score": 1},
+        {"parameter": "Albumin (g/L)", "measure": "≥27", "score": 0},
+        {"parameter": "Albumin (g/L)", "measure": "<27", "score": 1},
+        {"parameter": "Diabetes", "measure": "No", "score": 0},
+        {"parameter": "Diabetes", "measure": "Yes", "score": 1},
+        {"parameter": "RRT", "measure": "No", "score": 0},
+        {"parameter": "RRT", "measure": "Yes", "score": 1}
+      ],
+      "risk_categories": [
+        {"range": "0–2", "category": "Low risk"},
+        {"range": "3–4", "category": "Intermediate risk"},
+        {"range": "5–7", "category": "High risk"},
+        {"range": "8–9", "category": "Very high risk"}
+      ],
+      "source": "pdf",
+      "page": 5
+    }
+  ],
+  "clinical_guidelines": [
+    {
+      "recommendation": "VATS should be attempted in all feasible patients with stage II/III empyema if single-lung ventilation is tolerated. Conversion to thoracotomy is reserved for stage III empyema, prolonged symptoms, or gram-negative organisms.",
+      "source": "pdf",
+      "page": 4
+    },
+    {
+      "recommendation": "Open thoracic window is reserved for chronic or refractory empyema cases, often post-pneumonectomy or when bronchopleural fistula is present.",
+      "source": "pdf",
+      "page": 4
+    },
+    {
+      "recommendation": "Enhanced Recovery After Surgery (ERAS) protocols should be implemented pre-, intra-, and post-operatively to reduce complications, air leaks, and length of stay.",
+      "source": "pdf",
+      "page": 6
+    }
+  ],
+  "figures": [
+    {
+      "id": "Fig1",
+      "caption": "VATS lung decortication",
+      "page": 5,
+      "source": "pdf"
+    }
+  ],
+  "tables": [
+    {
+      "id": "Table1",
+      "title": "Adjusted RAPID score",
+      "page": 6,
+      "rows": [
+        ["Renal (Urea, mM)", "<5", "0"],
+        ["Renal (Urea, mM)", "5–8", "1"],
+        ["Renal (Urea, mM)", ">8", "2"],
+        ["Age (years)", "<50", "0"],
+        ["Age (years)", "50–70", "1"],
+        ["Age (years)", ">70", "2"],
+        ["Purulence of pleural fluid", "Purulent", "0"],
+        ["Purulence of pleural fluid", "Nonpurulent", "1"],
+        ["Infection source", "Community-acquired", "0"],
+        ["Infection source", "Hospital-acquired", "1"],
+        ["Albumin (g/L)", "≥27", "0"],
+        ["Albumin (g/L)", "<27", "1"],
+        ["Diabetes", "No", "0"],
+        ["Diabetes", "Yes", "1"],
+        ["RRT", "No", "0"],
+        ["RRT", "Yes", "1"],
+        ["Score 0–2", "Low risk", ""],
+        ["Score 3–4", "Intermediate risk", ""],
+        ["Score 5–7", "High risk", ""],
+        ["Score 8–9", "Very high risk", ""]
+      ],
+      "source": "pdf"
+    }
+  ],
+  "conclusion": {
+    "points": [
+      "The incidence and necessity for surgical decortication has decreased due to fibrinolysis strategies, especially in stage I–II empyema.",
+      "Patients referred for surgery are increasingly those with advanced stage III–IV empyema or who failed intrapleural fibrinolysis.",
+      "VATS should be first-line surgical approach when feasible.",
+      "Integration of risk stratification (RAPID) and ERAS protocols improves outcomes and reduces complications."
+    ],
+    "reference": "[Chapter Conclusion]"
+  }
+}

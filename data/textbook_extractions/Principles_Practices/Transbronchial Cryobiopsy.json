@@ -1,0 +1,197 @@
+{
+  "chapter_metadata": {
+    "title": { "value": "Transbronchial Cryobiopsy in Diffuse Parenchymal Lung Disorders", "present_in_source": true },
+    "authors": ["Venerino Poletti", "Sara Piciucchi", "De Graw Arianna Johanna", "Claudia Ravaglia"],
+    "chapter_number": { "value": "27-1", "present_in_source": true },
+    "learning_objectives": [],
+    "key_points": [
+      "TBLC is increasingly first-line when histopathology is needed for diffuse parenchymal lung disease.",
+      "General anesthesia with airway control is common; bronchial blockers are strongly recommended to prevent/mitigate major bleeding.",
+      "Common guiding systems include fluoroscopy; CBCT, CLE, radial EBUS, and OCT are useful in selected cases.",
+      "Cryoprobes: 1.1 mm, 1.7 mm, 2.4 mm (length 1150 mm); typical freezing times: 2.4 mm ≈ 6 s; 1.7 mm ≈ 8 s; 1.1 mm ≈ 12–13 s.",
+      "Diagnostic yield is ~80% with larger samples than forceps TBB; pneumothorax is the most frequent complication (mean ~5%; range <1–30%).",
+      "Relative contraindications include FVC <50% predicted, DLCO <35% predicted, PAPs >40 mmHg, significant emphysema, and recent clinical deterioration; coagulopathy/instability are absolute."
+    ],
+    "page_range": { "start": 1, "end": 14 },
+    "reference": "[Chapter Text]"
+  },
+  "anatomical_content": {
+    "structures": [
+      "Alveoli",
+      "Interalveolar septa",
+      "Interlobular septa",
+      "Visceral pleura",
+      "Segmental and lobar bronchi"
+    ]
+  },
+  "clinical_procedures": [
+    "Intubate (rigid tracheoscope or endotracheal tube) under general anesthesia; place one or more bronchial blockers.",
+    "Advance flexible bronchoscope through the airway device to target segment; pass cryoprobe via working channel.",
+    "Under fluoroscopy, touch pleura then withdraw ≈1 cm (probe tip length).",
+    "Freeze per probe size (approximate): 2.4 mm ~6 s; 1.7 mm ~8 s; 1.1 mm ~12–13 s; maintain during en bloc withdrawal.",
+    "Immediately inflate the pre-positioned blocker to occlude the airway; deflate periodically to reassess; reinflate 3–10 min for bleeding.",
+    "Obtain ≥2 segments (same lobe) from most affected areas when feasible; aim for largest diameter >5 mm and pleura in specimen.",
+    "Specimen handling: thaw/detach gently and fix promptly; prepare serial slides; reserve unstained slides for special/IHC/molecular tests."
+  ],
+  "diagnostic_approaches": [
+    "Primary guidance: fluoroscopy; adjuncts: CBCT, CLE, radial EBUS, OCT as available.",
+    "Select targets by CT pattern (avoid central carina-level biopsies; favor peripheral alveolated tissue).",
+    "Post-procedure check for pneumothorax (US or CXR within 2–3 h in outpatients if symptomatic or per protocol)."
+  ],
+  "treatment_algorithms": [
+    "Candidate selection: pursue TBLC when MDD lacks a confident diagnosis after noninvasive testing/BAL and histology is expected to change management.",
+    "Airway strategy: general anesthesia + blocker(s); consider spontaneous ventilation where feasible; avoid excessive ventilatory pressures.",
+    "Sampling strategy: probe perpendicular to chest wall; distance to pleura ≲10 mm; multiple segments improve yield.",
+    "Hemostasis: prophylactic blocker; if bleeding, occlude 3–10 min; consider cold saline or diluted epinephrine; TXA utility uncertain.",
+    "Escalation: if TBLC inconclusive, proceed to SLB; staged strategy reduces burden/hospital stay compared with immediate SLB."
+  ],
+  "clinical_guidelines": [
+    "Use bronchial blockers prophylactically to reduce major bleeding risk.",
+    "Prefer 1.7–2.4 mm probes for DPLD; 1.1 mm may be considered for simpler histologies (e.g., sarcoid, OP) with longer freeze.",
+    "Avoid central biopsies and strong ventilator support; keep probe close to pleura under fluoroscopy.",
+    "Relative contraindications: FVC <50% predicted, DLCO <35% predicted, PAPs >40 mmHg, significant emphysema, hypoxemia (PaO2 <55–60 mmHg), high BMI with desaturation risk, recent deterioration possibly consistent with AE-IPF.",
+    "Absolute contraindications: coagulation defects/thrombocytopenia and hemodynamic instability."
+  ],
+  "drug_information": [
+    { "name": "Propofol", "use": "general anesthesia/sedation", "notes": ["Commonly used with remifentanil."] },
+    { "name": "Remifentanil", "use": "anesthesia adjunct", "notes": [] },
+    { "name": "Epinephrine (diluted)", "use": "topical hemostasis", "notes": ["Use cautiously for persistent bleeding."] },
+    { "name": "Tranexamic acid (IV)", "use": "systemic hemostasis", "notes": ["Benefit uncertain in this setting."] }
+  ],
+  "tables": [
+    {
+      "title": "Cryoprobe options and size/length",
+      "columns": ["diameter", "length"],
+      "rows": [
+        { "diameter": "1.1 mm", "length": "1150 mm" },
+        { "diameter": "1.7 mm", "length": "1150 mm" },
+        { "diameter": "2.4 mm", "length": "1150 mm" }
+      ],
+      "page": 3,
+      "source": "Figure 2 (equipment)"
+    },
+    {
+      "title": "Morgagni Hospital 'recipe' (typical operating parameters)",
+      "columns": ["parameter", "value"],
+      "rows": [
+        { "parameter": "Anesthesia", "value": "General (propofol/remifentanil)" },
+        { "parameter": "Ventilation", "value": "Spontaneous preferred" },
+        { "parameter": "Airway device", "value": "Rigid tracheoscope (Storz 12–14 mm) + flexible bronchoscope" },
+        { "parameter": "Blockers", "value": "Fogarty balloon(s); two if sampling different lobes" },
+        { "parameter": "Guidance", "value": "Fluoroscopy ± cone-beam CT" },
+        { "parameter": "Probe-to-pleura distance", "value": "≤10 mm" },
+        { "parameter": "Freeze time (2.4 mm)", "value": "≈6 s" },
+        { "parameter": "Freeze time (1.7 mm)", "value": "≈8 s" },
+        { "parameter": "Freeze time (1.1 mm)", "value": "≈12–13 s" },
+        { "parameter": "Typical number of samples", "value": "4 (≈20 minutes total)" }
+      ],
+      "page": 5,
+      "source": "Figure 4 (schematic)"
+    },
+    {
+      "title": "Diagnostic yield and complications (summary)",
+      "columns": ["metric", "value"],
+      "rows": [
+        { "metric": "Diagnostic yield (pathology or MDD)", "value": "80%" },
+        { "metric": "Pneumothorax (mean; range)", "value": "5% ( <1–30% )" },
+        { "metric": "Mortality", "value": "0.1%" }
+      ],
+      "page": 5,
+      "source": "Narrative summary & meta-analyses"
+    },
+    {
+      "title": "Contraindications (absolute vs relative)",
+      "columns": ["type", "items"],
+      "rows": [
+        { "type": "Absolute", "items": "Coagulation defects/thrombocytopenia; hemodynamic instability" },
+        { "type": "Relative", "items": "FVC <50% predicted; DLCO <35% predicted; PAPs >40 mmHg; PaO2 <55–60 mmHg; significant emphysema; recent deterioration suggestive of AE; high BMI with desaturation risk" }
+      ],
+      "page": 6,
+      "source": "Safety section"
+    }
+  ],
+  "figures": [
+    { "label": "Fig. 1", "caption": "ERBECryo II machine", "page": 3 },
+    { "label": "Fig. 2", "caption": "Three single-use cryoprobes (diameter/length table)", "page": 3 },
+    { "label": "Fig. 3", "caption": "Two Fogarty balloons positioned (RUL and RLL)", "page": 4 },
+    { "label": "Fig. 4", "caption": "TBLC 'recipe' schematic (parameters and freeze times)", "page": 5 },
+    { "label": "Fig. 5", "caption": "Specimen adherent to cryoprobe tip; detachment into formalin", "page": 7 },
+    { "label": "Fig. 6", "caption": "Three histologic samples; largest diameter >2 cm (alveolated tissue)", "page": 8 },
+    { "label": "Fig. 7", "caption": "UIP example: CT and TBLC histology with microhoneycombing", "page": 9 },
+    { "label": "Fig. 8", "caption": "NSIP: paired samples showing pleura and bronchiole", "page": 10 },
+    { "label": "Fig. 9", "caption": "PLCH case: CT and histology with CD1a+ cells", "page": 11 }
+  ],
+  "clinical_cases": [],
+  "definitions": [
+    { "term": "TBLC (TBLCB)", "definition": "Transbronchial lung cryobiopsy for diffuse parenchymal lung disease." },
+    { "term": "Joule–Thomson effect", "definition": "Cooling effect when compressed gas expands at the probe tip." },
+    { "term": "Bronchial blocker (Fogarty)", "definition": "Inflatable balloon to occlude airway and control bleeding/pneumothorax risk." },
+    { "term": "CBCT", "definition": "Cone-beam computed tomography; improves localization in limited-extent ILD." },
+    { "term": "CLE", "definition": "Confocal laser endomicroscopy; identifies septa, pleura, inflammatory/fibrotic areas." },
+    { "term": "OCT", "definition": "Optical coherence tomography; microscopic assessment, e.g., UIP features." },
+    { "term": "UIP", "definition": "Usual interstitial pneumonia pattern; TBLC can capture pleura and septa to aid diagnosis." },
+    { "term": "AE-IPF", "definition": "Acute exacerbation of idiopathic pulmonary fibrosis." }
+  ],
+  "clinical_pearls": [
+    "Keep the probe close to pleura (≈1 cm withdrawal from pleural touch) to maximize alveolated tissue and reduce bleeding.",
+    "Use prophylactic balloon occlusion; re-inflate 3–10 minutes if bleeding occurs and reassess every 2–3 minutes.",
+    "Multiple segments (same lobe) and presence of pleura in specimen correlate with higher diagnostic yield.",
+    "Avoid strong ventilatory support to reduce barotrauma risk; accept permissive hypoxemia/hypercapnia during sampling."
+  ],
+  "references": [
+    "Hetzel J, Maldonado F, Ravaglia C, et al. Expert statement and call for standardization. Respiration. 2018.",
+    "Troy LK, Grainge C, Corte TJ, et al. COLDICE: diagnostic accuracy vs SLB. Lancet Respir Med. 2020.",
+    "Maldonado F, Danoff SK, Wells AU, et al. TBLC in ILD (clinical practice). Chest. 2020.",
+    "Ravaglia C, Wells AU, Tomassetti S, et al. Large cohort (n=699): yield and risks. BMC Pulm Med. 2019.",
+    "Iftikhar IH, Alghothani L, Sardi A, et al. Meta-analysis TBLC vs VATS. Ann Am Thorac Soc. 2017.",
+    "Hackner K, Stadler A, Schragel F, et al. Standardized protocol safety; 90-day mortality. Ther Adv Respir Dis. 2022.",
+    "Austin A, Jaber J, Fu K, et al. AE-ILD and mortality post-TBLC (multicenter). J Thorac Dis. 2024.",
+    "European Respiratory Society guideline on TBLC in ILD. Eur Respir J. 2022.",
+    "Raghu G, Remy-Jardin M, Richeldi L, et al. IPF & PPF guideline. Am J Respir Crit Care Med. 2022.",
+    "Kalverda KA, Ninaber MK, Wijmans L, et al. Staged TBLC→SLB vs immediate SLB (COLD). Lancet Respir Med. 2024."
+  ],
+  "summary": {
+    "clinical_applications": [
+      "Provide histopathology to refine ILD diagnosis and guide therapy where noninvasive data are insufficient.",
+      "Enable multidisciplinary diagnosis with high yield while avoiding SLB for many patients."
+    ],
+    "practice_recommendations": [
+      "Use blockers prophylactically; target peripheral alveolated lung; sample ≥2 segments.",
+      "Adopt fluoroscopy as standard; add advanced guidance for difficult patterns or limited disease."
+    ],
+    "future_directions": [
+      "Portable TBLC units; ROSA/AI-enhanced onsite assessment.",
+      "Routine IHC/genomic classifiers/NGS on cryosamples."
+    ],
+    "controversies": [
+      "Optimal probe size vs pneumothorax/bleeding balance.",
+      "Role of 1.1 mm probe in complex DPLD patterns."
+    ]
+  },
+  "extraction_metadata": {
+    "source_pdf": "Textbooks/Chapter pdfs/Transbronchial Cryobiopsy in Diffuse.pdf",
+    "adobe_json": "Textbooks/Chapter json/Transbronchial Cryobiopsy in Diffuse.json",
+    "extraction_date": "2025-08-21T00:00:00Z",
+    "text_pages": 14,
+    "chunks_processed": 3,
+    "model": "gpt-5",
+    "schema_version": "gold_standard_v1.0"
+  },
+  "risk_models": [],
+  "guideline_adherence": {},
+  "technology_and_technique": [
+    { "name": "Fluoroscopy", "benefits": ["Standard guidance"], "notes": [] },
+    { "name": "CBCT", "benefits": ["Improves localization in limited-extent disease"], "notes": [] },
+    { "name": "CLE", "benefits": ["In vivo microstructure"], "notes": [] },
+    { "name": "Radial EBUS", "benefits": ["Vessel/pleura identification"], "notes": [] },
+    { "name": "OCT", "benefits": ["Microscopic pattern recognition (e.g., UIP)"], "notes": [] }
+  ],
+  "conclusion": {
+    "points": [
+      "TBLC provides large, high-quality parenchymal samples with ~80% yield for DPLD while avoiding SLB in many cases.",
+      "Major risks are mitigated by blockers and peripheral targeting; pneumothorax occurs in ~5% on average.",
+      "Training, case volume, and standardized protocols improve outcomes and safety."
+    ],
+    "reference": "[Chapter Conclusion]"
+  }
+}

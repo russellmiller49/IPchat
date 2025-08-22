@@ -1,0 +1,104 @@
+{
+  "source": {
+    "document_id": "NCCN lung_screening",
+    "ingest_date": "2025-08-08T14:26:55.200479+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": ""
+  },
+  "document": {
+    "metadata": {
+      "title": "NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines): Lung Cancer Screening, Version 2.2024 \u2014 October 18, 2023",
+      "year": 2024,
+      "authors": [
+        "Douglas E. Wood",
+        "Ella A. Kazerooni",
+        "Denise R. Aberle",
+        "Lisa M. Brown",
+        "Georgie A. Eapen",
+        "David S. Ettinger",
+        "J. Scott Ferguson",
+        "Lifang Hou",
+        "Donald Klippenstein",
+        "Ana S. Kolansky",
+        "Rohit Kumar",
+        "Rudy P. Lackner",
+        "Lorriana E. Leard",
+        "Inga T. Lennes",
+        "Ann N. Leung",
+        "Peter Mazzone",
+        "Robert E. Merritt",
+        "Mark Onaitis",
+        "Sudhakar Pipavath",
+        "Varun Puri",
+        "Dan Raz",
+        "Chakravarthy Reddy",
+        "Mary E. Reid",
+        "Kim L. Sandler",
+        "Jacob Sands",
+        "Matthew B. Schabath",
+        "Catherine R. Sears",
+        "Jamie L. Studts",
+        "Lynn Tanoue",
+        "Amber L. Thacker",
+        "Betty C. Tong",
+        "William D. Travis",
+        "Benjamin Wei",
+        "Kenneth Westover",
+        "Stephen C. Yang",
+        "Beth McCullough",
+        "Swathi Ramakrishana"
+      ],
+      "journal": "NCCN Clinical Practice Guidelines in Oncology",
+      "doi": "",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "The NCCN Lung Cancer Screening Guidelines (Version 2.2024) provide consensus-based recommendations for identifying high-risk individuals and managing findings from low-dose computed tomography (LDCT) screening. The panel recommends annual LDCT for adults at high risk (age \u226550 years and \u226520 pack-year cigarette smoking history) with shared decision-making and access to curative-intent treatment. The document details nodule management based on nodule type (solid, part-solid, nonsolid), incorporates Lung-RADS for reporting, and outlines updates including imaging terminology (FDG-PET/CT), slice width preferences, and follow-up intervals for nonsolid nodules.",
+      "methods": "Recommendations reflect NCCN Category 2A consensus unless otherwise noted, developed by a multidisciplinary panel including thoracic radiology, pulmonary medicine, thoracic surgery, medical oncology, radiation oncology, pathology, and supportive care. Guidance integrates evidence from randomized screening trials and expert consensus, harmonized where appropriate with Lung-RADS and ACR-STR practice parameters. Shared decision-making and risk calculators (eg, Tammemagi model) are encouraged to refine eligibility within age and smoking criteria.",
+      "results": "Key updates from Version 2.2023 to Version 1.2024 and retained in Version 2.2024 include: revision of PET/CT terminology to FDG-PET/CT; reinforced multidisciplinary management; emphasis on radon and occupational exposures in risk discussions; encouragement to use risk calculators; expanded clarification that curative-intent options include surgery, SBRT/SABR, and ablation; acknowledgment of higher lung cancer risk among Black/African American individuals at lower smoking exposures; refined nodule definitions and measurement on lung windows; management pathways updated for solid nodules \u226515 mm including CT with contrast and/or FDG-PET/CT and/or tissue sampling; addition of pathways after bronchoscopy to either continue annual LDCT if no cancer or follow NSCLC guidelines if cancer confirmed; slice width preference revised to \u22642.5 mm with \u22641.5 mm preferred; nonsolid nodules require thin-slice review to exclude solid components; for nonsolid nodules, NCCN did not harmonize with Lung-RADS 1.1\u2019s <30 mm annual threshold and instead recommends earlier 6-month evaluation for baseline or new nonsolid nodules \u226520 mm; and a new note emphasizing incorporation of patient preferences when deciding between 6-month LDCT follow-up and invasive procedures."
+    }
+  },
+  "clinical_extraction": {
+    "document_id": "9cf04640bf36",
+    "title": "NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines): Lung Cancer Screening, Version 2.2024 \u2014 October 18, 2023",
+    "document_type": "research",
+    "diagnostic_yields": {},
+    "complication_rates": {},
+    "methodology": {},
+    "clinical_pearls": [
+      "2024) provide consensus-based recommendations for identifying high-risk individuals and managing findings from low-dose computed tomography (LDCT) screening",
+      "The panel recommends annual LDCT for adults at high risk (age \u226550 years and \u226520 pack-year cigarette smoking history) with shared decision-making and access to curative-intent treatment",
+      "METHODS: Recommendations reflect NCCN Category 2A consensus unless otherwise noted, developed by a multidisciplinary panel including thoracic radiology, pulmonary medicine, thoracic surgery, medical oncology, radiation oncology, pathology, and supportive care",
+      "1\u2019s <30 mm annual threshold and instead recommends earlier 6-month evaluation for baseline or new nonsolid nodules \u226520 mm; and a new note emphasizing incorporation of patient preferences when deciding between 6-month LDCT follow-up and invasive procedures"
+    ],
+    "indications": [],
+    "contraindications": [],
+    "patient_selection": {
+      "inclusion_criteria": [],
+      "exclusion_criteria": [],
+      "ideal_candidate": null
+    },
+    "equipment": [],
+    "key_findings": [],
+    "practical_tips": [
+      "recommendations for identifying high-risk individuals and managing findings from low-dose computed tomography (LDCT) screening.",
+      "recommends annual LDCT for adults at high risk (age \u226550 years and \u226520 pack-year cigarette smoking history) with shared decision-making and access to curative-intent treatment.",
+      "Recommendations reflect NCCN Category 2A consensus unless otherwise noted, developed by a multidisciplinary panel including thoracic radiology, pulmonary medicine, thoracic surgery, medical oncology, radiation oncology, pathology, and supportive care.",
+      "recommends earlier 6-month evaluation for baseline or new nonsolid nodules \u226520 mm; and a new note emphasizing incorporation of patient preferences when deciding between 6-month LDCT follow-up and invasive procedures."
+    ],
+    "extraction_confidence": 0.5,
+    "has_numerical_data": false,
+    "original_extraction": null
+  },
+  "migration_info": {
+    "migrated_at": "2025-08-22T09:42:46.525348",
+    "original_structure": "oe_final",
+    "migration_type": "restructure"
+  },
+  "original_sections": {
+    "abstract": "The NCCN Lung Cancer Screening Guidelines (Version 2.2024) provide consensus-based recommendations for identifying high-risk individuals and managing findings from low-dose computed tomography (LDCT) screening. The panel recommends annual LDCT for adults at high risk (age \u226550 years and \u226520 pack-year cigarette smoking history) with shared decision-making and access to curative-intent treatment. The document details nodule management based on nodule type (solid, part-solid, nonsolid), incorporates Lung-RADS for reporting, and outlines updates including imaging terminology (FDG-PET/CT), slice width preferences, and follow-up intervals for nonsolid nodules.",
+    "methods": "Recommendations reflect NCCN Category 2A consensus unless otherwise noted, developed by a multidisciplinary panel including thoracic radiology, pulmonary medicine, thoracic surgery, medical oncology, radiation oncology, pathology, and supportive care. Guidance integrates evidence from randomized screening trials and expert consensus, harmonized where appropriate with Lung-RADS and ACR-STR practice parameters. Shared decision-making and risk calculators (eg, Tammemagi model) are encouraged to refine eligibility within age and smoking criteria.",
+    "results": "Key updates from Version 2.2023 to Version 1.2024 and retained in Version 2.2024 include: revision of PET/CT terminology to FDG-PET/CT; reinforced multidisciplinary management; emphasis on radon and occupational exposures in risk discussions; encouragement to use risk calculators; expanded clarification that curative-intent options include surgery, SBRT/SABR, and ablation; acknowledgment of higher lung cancer risk among Black/African American individuals at lower smoking exposures; refined nodule definitions and measurement on lung windows; management pathways updated for solid nodules \u226515 mm including CT with contrast and/or FDG-PET/CT and/or tissue sampling; addition of pathways after bronchoscopy to either continue annual LDCT if no cancer or follow NSCLC guidelines if cancer confirmed; slice width preference revised to \u22642.5 mm with \u22641.5 mm preferred; nonsolid nodules require thin-slice review to exclude solid components; for nonsolid nodules, NCCN did not harmonize with Lung-RADS 1.1\u2019s <30 mm annual threshold and instead recommends earlier 6-month evaluation for baseline or new nonsolid nodules \u226520 mm; and a new note emphasizing incorporation of patient preferences when deciding between 6-month LDCT follow-up and invasive procedures."
+  }
+}

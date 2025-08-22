@@ -1,0 +1,65 @@
+{
+  "source": {
+    "document_id": "Interventional pulmonology in the intensive ca",
+    "ingest_date": "2025-08-08T13:29:04.472955+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1055/s-0034-1395504"
+  },
+  "document": {
+    "metadata": {
+      "title": "Interventional Pulmonology in the Intensive Care Unit: Percutaneous Tracheostomy and Gastrostomy",
+      "year": 2014,
+      "authors": [
+        "Adam Belanger",
+        "Jason Akulian"
+      ],
+      "journal": "Seminars in Respiratory and Critical Care Medicine",
+      "doi": "10.1055/s-0034-1395504",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Bedside percutaneous tracheostomy and gastrostomy tube placement are cost-effective and safe techniques employed in the management of critically ill patients requiring prolonged mechanical ventilation. Both procedures have been well characterized and studied in the surgical and gastroenterology literature. Recently the performance of these procedures by interventional pulmonologists have been reported. This review focuses on the role of the interventional pulmonologist in the ICU, specifically in regard to the placement of percutaneous tracheostomies and gastrostomy tubes. We discuss techniques and background data regarding method choice and integration into clinical practice, as well as the creation of a multidisciplinary tracheostomy care team and its effects on patient care, hospital finances, and the interventional pulmonologist\u2019s role.",
+      "methods": "Narrative review of percutaneous dilational tracheostomy (PDT) and percutaneous endoscopic gastrostomy (PEG) techniques, comparative evidence versus surgical approaches, device variants (Ciaglia Blue Rhino/Dolphin, Griggs forceps, Fantoni translaryngeal, PercuTwist), the role of bronchoscopy, complications, and programmatic implementation (multidisciplinary tracheostomy service). Evidence cited includes randomized trials, retrospective studies, multicenter cohorts, and meta-analyses from the surgical, gastroenterology, and interventional pulmonology literature.",
+      "results": "Across multiple studies and meta-analyses, PDT in suitable ICU patients is associated with reduced wound infection and shorter procedure time versus surgical tracheostomy, with no significant differences in bleeding or mortality. Single-dilation Ciaglia (Blue Rhino) kits reduce procedure time and may lower complications compared with serial dilations; some data suggest fewer procedural difficulties and bleeding versus the Griggs technique. The Blue Dolphin balloon system showed longer procedure time and more minor bleeding than Blue Rhino in a small RCT. PercuTwist had more total complications and more failed cannula insertions than Blue Rhino in one trial. Use of bronchoscopic guidance during PDT may reduce complications based on aggregate and video-assisted bronchoscopy studies, with high adoption in European ICUs. PEG, performed via pull or introducer techniques, is generally safe and effective with complication profiles including visceral injury and bleeding; limited trials show similar safety to surgical gastrostomy. Early reports indicate interventional pulmonologists can safely perform PDT and PEG, with high procedural success for PEG and potential system-level benefits from multidisciplinary tracheostomy services."
+    }
+  },
+  "clinical_extraction": {
+    "document_id": "03a1830ee362",
+    "title": "Interventional Pulmonology in the Intensive Care Unit: Percutaneous Tracheostomy and Gastrostomy",
+    "document_type": "research",
+    "diagnostic_yields": {},
+    "complication_rates": {},
+    "methodology": {},
+    "clinical_pearls": [
+      "RESULTS: Across multiple studies and meta-analyses, PDT in suitable ICU patients is associated with reduced wound infection and shorter procedure time versus surgical tracheostomy, with no significant differences in bleeding or mortality"
+    ],
+    "indications": [],
+    "contraindications": [],
+    "patient_selection": {
+      "inclusion_criteria": [],
+      "exclusion_criteria": [],
+      "ideal_candidate": null
+    },
+    "equipment": [
+      "forceps"
+    ],
+    "key_findings": [],
+    "practical_tips": [
+      "suggest fewer procedural difficulties and bleeding versus the Griggs technique."
+    ],
+    "extraction_confidence": 0.5,
+    "has_numerical_data": false,
+    "original_extraction": null
+  },
+  "migration_info": {
+    "migrated_at": "2025-08-22T09:42:46.378149",
+    "original_structure": "oe_final",
+    "migration_type": "restructure"
+  },
+  "original_sections": {
+    "abstract": "Bedside percutaneous tracheostomy and gastrostomy tube placement are cost-effective and safe techniques employed in the management of critically ill patients requiring prolonged mechanical ventilation. Both procedures have been well characterized and studied in the surgical and gastroenterology literature. Recently the performance of these procedures by interventional pulmonologists have been reported. This review focuses on the role of the interventional pulmonologist in the ICU, specifically in regard to the placement of percutaneous tracheostomies and gastrostomy tubes. We discuss techniques and background data regarding method choice and integration into clinical practice, as well as the creation of a multidisciplinary tracheostomy care team and its effects on patient care, hospital finances, and the interventional pulmonologist\u2019s role.",
+    "methods": "Narrative review of percutaneous dilational tracheostomy (PDT) and percutaneous endoscopic gastrostomy (PEG) techniques, comparative evidence versus surgical approaches, device variants (Ciaglia Blue Rhino/Dolphin, Griggs forceps, Fantoni translaryngeal, PercuTwist), the role of bronchoscopy, complications, and programmatic implementation (multidisciplinary tracheostomy service). Evidence cited includes randomized trials, retrospective studies, multicenter cohorts, and meta-analyses from the surgical, gastroenterology, and interventional pulmonology literature.",
+    "results": "Across multiple studies and meta-analyses, PDT in suitable ICU patients is associated with reduced wound infection and shorter procedure time versus surgical tracheostomy, with no significant differences in bleeding or mortality. Single-dilation Ciaglia (Blue Rhino) kits reduce procedure time and may lower complications compared with serial dilations; some data suggest fewer procedural difficulties and bleeding versus the Griggs technique. The Blue Dolphin balloon system showed longer procedure time and more minor bleeding than Blue Rhino in a small RCT. PercuTwist had more total complications and more failed cannula insertions than Blue Rhino in one trial. Use of bronchoscopic guidance during PDT may reduce complications based on aggregate and video-assisted bronchoscopy studies, with high adoption in European ICUs. PEG, performed via pull or introducer techniques, is generally safe and effective with complication profiles including visceral injury and bleeding; limited trials show similar safety to surgical gastrostomy. Early reports indicate interventional pulmonologists can safely perform PDT and PEG, with high procedural success for PEG and potential system-level benefits from multidisciplinary tracheostomy services."
+  }
+}

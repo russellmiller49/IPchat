@@ -1,0 +1,67 @@
+{
+  "source": {
+    "document_id": "Ghattas-2021-State of the art_ percutaneous tr",
+    "ingest_date": "2025-08-08T12:46:46.826524+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.21037/jtd-19-4121"
+  },
+  "document": {
+    "metadata": {
+      "title": "State of the art: percutaneous tracheostomy in the intensive care unit",
+      "year": 2021,
+      "authors": [
+        "Christian Ghattas",
+        "Sammar Alsunaid",
+        "Edward M. Pickering",
+        "Van K. Holden"
+      ],
+      "journal": "Journal of Thoracic Disease",
+      "doi": "10.21037/jtd-19-4121",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Percutaneous tracheostomy is a commonly performed procedure for patients in the intensive care unit (ICU) and offers many benefits, including decreasing ICU length of stay and need for sedation while improving patient comfort, effective communication, and airway clearance. However, there is no consensus on the optimal timing of tracheostomy in ICU patients. Ultrasound (US) and bronchoscopy are useful adjunct tools to optimize procedural performance. US can be used pre-procedurally to identify vascular structures and to select the optimal puncture site, intra-procedurally to assist with accurate placement of the introducer needle, and post-procedurally to evaluate for a pneumothorax. Bronchoscopy provides real-time visual guidance from within the tracheal lumen and can reduce complications, such as paratracheal puncture and injury to the posterior tracheal wall. A step-by-step detailed procedural guide, including preparation and procedural technique, is provided with a team-based approach. Technical aspects, such as recommended equipment and selection of appropriate tracheostomy tube type and size, are discussed. Certain procedural considerations to minimize the risk of complications should be given in circumstances of patient obesity, coagulopathy, or neurologic illness. Herein, we provide a practical state of the art review of percutaneous tracheostomy in ICU patients. Specifically, we will address pre-procedural preparation, procedural technique, and post-tracheostomy management.",
+      "methods": "Narrative, state-of-the-art review of percutaneous dilatational tracheostomy (PDT) in ICU patients. Sources referenced include randomized trials, meta-analyses, observational studies, and procedural guidance describing timing, technique, and adjunctive use of ultrasound and bronchoscopy.",
+      "results": "Across cited evidence, PDT demonstrates comparable safety to surgical tracheostomy with potential advantages in wound infection, procedure time, and cost. Early versus late tracheostomy shows mixed mortality and VAP outcomes in meta-analyses. Ultrasound as a peri-procedural adjunct improves puncture accuracy and first-pass success over anatomical landmarks, and in a randomized 80-patient study of US-guided vs bronchoscopy-guided PDT, US guidance reduced hemorrhage events and procedure time. Bronchoscopy guidance reduces certain malposition complications but can transiently worsen hypercarbia."
+    }
+  },
+  "clinical_extraction": {
+    "document_id": "2799e54d6178",
+    "title": "State of the art: percutaneous tracheostomy in the intensive care unit",
+    "document_type": "research",
+    "diagnostic_yields": {},
+    "complication_rates": {},
+    "methodology": {},
+    "clinical_pearls": [
+      "Technical aspects, such as recommended equipment and selection of appropriate tracheostomy tube type and size, are discussed"
+    ],
+    "indications": [],
+    "contraindications": [],
+    "patient_selection": {
+      "inclusion_criteria": [],
+      "exclusion_criteria": [],
+      "ideal_candidate": null
+    },
+    "equipment": [
+      "needle"
+    ],
+    "key_findings": [],
+    "practical_tips": [
+      "recommended equipment and selection of appropriate tracheostomy tube type and size, are discussed."
+    ],
+    "extraction_confidence": 0.5,
+    "has_numerical_data": false,
+    "original_extraction": null
+  },
+  "migration_info": {
+    "migrated_at": "2025-08-22T09:42:46.267662",
+    "original_structure": "oe_final",
+    "migration_type": "restructure"
+  },
+  "original_sections": {
+    "abstract": "Percutaneous tracheostomy is a commonly performed procedure for patients in the intensive care unit (ICU) and offers many benefits, including decreasing ICU length of stay and need for sedation while improving patient comfort, effective communication, and airway clearance. However, there is no consensus on the optimal timing of tracheostomy in ICU patients. Ultrasound (US) and bronchoscopy are useful adjunct tools to optimize procedural performance. US can be used pre-procedurally to identify vascular structures and to select the optimal puncture site, intra-procedurally to assist with accurate placement of the introducer needle, and post-procedurally to evaluate for a pneumothorax. Bronchoscopy provides real-time visual guidance from within the tracheal lumen and can reduce complications, such as paratracheal puncture and injury to the posterior tracheal wall. A step-by-step detailed procedural guide, including preparation and procedural technique, is provided with a team-based approach. Technical aspects, such as recommended equipment and selection of appropriate tracheostomy tube type and size, are discussed. Certain procedural considerations to minimize the risk of complications should be given in circumstances of patient obesity, coagulopathy, or neurologic illness. Herein, we provide a practical state of the art review of percutaneous tracheostomy in ICU patients. Specifically, we will address pre-procedural preparation, procedural technique, and post-tracheostomy management.",
+    "methods": "Narrative, state-of-the-art review of percutaneous dilatational tracheostomy (PDT) in ICU patients. Sources referenced include randomized trials, meta-analyses, observational studies, and procedural guidance describing timing, technique, and adjunctive use of ultrasound and bronchoscopy.",
+    "results": "Across cited evidence, PDT demonstrates comparable safety to surgical tracheostomy with potential advantages in wound infection, procedure time, and cost. Early versus late tracheostomy shows mixed mortality and VAP outcomes in meta-analyses. Ultrasound as a peri-procedural adjunct improves puncture accuracy and first-pass success over anatomical landmarks, and in a randomized 80-patient study of US-guided vs bronchoscopy-guided PDT, US guidance reduced hemorrhage events and procedure time. Bronchoscopy guidance reduces certain malposition complications but can transiently worsen hypercarbia."
+  }
+}

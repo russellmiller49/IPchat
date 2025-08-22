@@ -1,0 +1,69 @@
+{
+  "source": {
+    "document_id": "The death of a healthy volunteer in a human research project  implications for",
+    "ingest_date": "2025-08-08T16:18:41.244899+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.5694/j.1326-5377.1998.tb139026.x"
+  },
+  "document": {
+    "metadata": {
+      "title": "The death of a healthy volunteer in a human research project: implications for Australian clinical research",
+      "year": 1998,
+      "authors": [
+        "Richard O Day",
+        "Donald R C Chalmers",
+        "Kenneth M Williams",
+        "Terence J Campbell"
+      ],
+      "journal": "Medical Journal of Australia",
+      "doi": "10.5694/j.1326-5377.1998.tb139026.x",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "A healthy 19-year-old United States college student volunteer in a clinical research program underwent a bronchoscopy and died as a result of acute lignocaine toxicity. The protocol failed to specify an upper dose limit for lignocaine spray, although prior versions had done so. The emergency department lignocaine level was 12.9 mg/L about three hours post-procedure, with back-extrapolation suggesting a possible peak of about 36 mg/L; the administered dose was calculated at about 1200 mg. The article discusses protocol review, informed consent, monitoring, and ethics committee processes, and recommendations to reduce risks to research volunteers.",
+      "methods": "Narrative case description and policy/ethics analysis based on the New York State Department of Health investigation, review of protocol and consent documentation, and discussion of Institutional Ethics Committee (IEC) practices and recommendations.",
+      "results": "Key factual findings include: measured lignocaine 12.9 mg/L approximately three hours after bronchoscopy (maximum safe concentration <6 mg/L), estimated peak about 36 mg/L, and an estimated administered dose of about 1200 mg. The subject was discharged after 60 minutes despite chest discomfort, later developed seizure, was admitted in cardiac arrest, and died two days later. Protocol lacked an upper dose limit (original 1981 protocol specified 300 mg), used a higher lignocaine concentration than specified, and procedural deviations occurred (28 brushings vs about 10). The consent form did not mention death and payment practices may have influenced risk tolerance. Recommendations emphasized periodic full re-review of long-running protocols, better education on risk and adverse event reporting, and mandatory IEC approval of amendments."
+    }
+  },
+  "clinical_extraction": {
+    "document_id": "13566c15e2e1",
+    "title": "The death of a healthy volunteer in a human research project: implications for Australian clinical research",
+    "document_type": "research",
+    "diagnostic_yields": {},
+    "complication_rates": {},
+    "methodology": {},
+    "clinical_pearls": [
+      "The article discusses protocol review, informed consent, monitoring, and ethics committee processes, and recommendations to reduce risks to research volunteers",
+      "METHODS: Narrative case description and policy/ethics analysis based on the New York State Department of Health investigation, review of protocol and consent documentation, and discussion of Institutional Ethics Committee (IEC) practices and recommendations",
+      "Recommendations emphasized periodic full re-review of long-running protocols, better education on risk and adverse event reporting, and mandatory IEC approval of amendments"
+    ],
+    "indications": [],
+    "contraindications": [],
+    "patient_selection": {
+      "inclusion_criteria": [],
+      "exclusion_criteria": [],
+      "ideal_candidate": null
+    },
+    "equipment": [],
+    "key_findings": [],
+    "practical_tips": [
+      "recommendations to reduce risks to research volunteers.",
+      "Recommendations emphasized periodic full re-review of long-running protocols, better education on risk and adverse event reporting, and mandatory IEC approval of amendments.",
+      "suggesting a possible peak of about 36 mg/L; the administered dose was calculated at about 1200 mg."
+    ],
+    "extraction_confidence": 0.5,
+    "has_numerical_data": false,
+    "original_extraction": null
+  },
+  "migration_info": {
+    "migrated_at": "2025-08-22T09:42:47.036648",
+    "original_structure": "oe_final",
+    "migration_type": "restructure"
+  },
+  "original_sections": {
+    "abstract": "A healthy 19-year-old United States college student volunteer in a clinical research program underwent a bronchoscopy and died as a result of acute lignocaine toxicity. The protocol failed to specify an upper dose limit for lignocaine spray, although prior versions had done so. The emergency department lignocaine level was 12.9 mg/L about three hours post-procedure, with back-extrapolation suggesting a possible peak of about 36 mg/L; the administered dose was calculated at about 1200 mg. The article discusses protocol review, informed consent, monitoring, and ethics committee processes, and recommendations to reduce risks to research volunteers.",
+    "methods": "Narrative case description and policy/ethics analysis based on the New York State Department of Health investigation, review of protocol and consent documentation, and discussion of Institutional Ethics Committee (IEC) practices and recommendations.",
+    "results": "Key factual findings include: measured lignocaine 12.9 mg/L approximately three hours after bronchoscopy (maximum safe concentration <6 mg/L), estimated peak about 36 mg/L, and an estimated administered dose of about 1200 mg. The subject was discharged after 60 minutes despite chest discomfort, later developed seizure, was admitted in cardiac arrest, and died two days later. Protocol lacked an upper dose limit (original 1981 protocol specified 300 mg), used a higher lignocaine concentration than specified, and procedural deviations occurred (28 brushings vs about 10). The consent form did not mention death and payment practices may have influenced risk tolerance. Recommendations emphasized periodic full re-review of long-running protocols, better education on risk and adverse event reporting, and mandatory IEC approval of amendments."
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "source": {
+    "document_id": "Developing an IP Service in a Community Practice",
+    "ingest_date": "2025-08-08T11:26:21.801028+00:00",
+    "trial_registration_id": "",
+    "pmid": "",
+    "doi": "10.1016/j.chest.2015.12.025"
+  },
+  "document": {
+    "metadata": {
+      "title": "Developing an Interventional Pulmonary Service in a Community-Based Private Practice: A Case Study",
+      "year": 2016,
+      "authors": [
+        "Kim D. French",
+        "Neeraj R. Desai",
+        "Edward Diamond",
+        "Kevin L. Kovitz"
+      ],
+      "journal": "Chest",
+      "doi": "10.1016/j.chest.2015.12.025",
+      "pmid": ""
+    },
+    "sections": {
+      "abstract": "Interventional pulmonology (IP) uses minimally invasive techniques to diagnose, treat, and palliate advanced lung disease. Technology, formal training, and reimbursement for IP procedures have lagged other interventional subspecialties, limiting IP integration in private practice. This case study describes key aspects and challenges of building an IP program in a community-based setting. Philosophical and financial buy-in by stakeholders and regionalization of services are crucial. Our experience demonstrates that launching an IP program increases overall visits and procedural volume without cannibalizing existing practice volume, and may encourage others to provide this service in their communities.",
+      "methods": "We outline a community-based model for IP program development. A comprehensive needs assessment included evaluation of regional lung cancer prevalence and related diagnoses, and identified structural and functional gaps in coordinated thoracic care. Market analysis addressed reimbursement barriers, credentialing challenges for advanced procedures, and the role of a dedicated IP service to improve access and throughput. Economic considerations emphasized stakeholder buy-in and downstream revenue from related service lines. Procedural gap analysis evaluated demographics, thoracic service breadth, baseline referrals and procedure volume, diagnostic scope, personnel, equipment, and access to state-of-the-art care to determine whether to offer local services or refer to regional centers. The model incorporated a dedicated IP team (fellowship-trained IP physician(s), APN, RN, and administrative staff), program branding and marketing, and process workflows to target a 7-day referral-to-diagnosis interval.",
+      "results": "A community-based IP program was initiated in 2007 through cooperation between a large pulmonary practice and partner hospitals, later expanding advanced diagnostics to additional sites. Key practice indicators (procedure volume, range, complexity, and diagnoses) were tracked for quality and fiscal performance. After IP implementation, procedure volumes increased across basic and advanced bronchoscopy and pleural procedures, and IP-related E/M visits increased. Representative changes (5-year annual averages) included: EBUS 14 to 366; TBNA 58 to 363; navigational bronchoscopy 0 to 56; BAL 119 to 437; indwelling pleural catheter placement 0 to 54; thoracoscopy with biopsy/pleurodesis 0 to 38; percutaneous tracheostomy 0 to 68; PEG placement 0 to 41; and IP-related E/M volume 6755 to 17805. The IP service was separately branded to facilitate external referrals, and workflow processes supported timely evaluation and coordination without reducing other practice volumes."
+    }
+  },
+  "clinical_extraction": {
+    "document_id": "5e5dd6204c7e",
+    "title": "Developing an Interventional Pulmonary Service in a Community-Based Private Practice: A Case Study",
+    "document_type": "research",
+    "diagnostic_yields": {},
+    "complication_rates": {},
+    "methodology": {},
+    "clinical_pearls": [],
+    "indications": [],
+    "contraindications": [],
+    "patient_selection": {
+      "inclusion_criteria": [],
+      "exclusion_criteria": [],
+      "ideal_candidate": null
+    },
+    "equipment": [
+      "scope",
+      "catheter"
+    ],
+    "key_findings": [],
+    "practical_tips": [],
+    "extraction_confidence": 0.5,
+    "has_numerical_data": false,
+    "original_extraction": null
+  },
+  "migration_info": {
+    "migrated_at": "2025-08-22T09:42:45.905741",
+    "original_structure": "oe_final",
+    "migration_type": "restructure"
+  },
+  "original_sections": {
+    "abstract": "Interventional pulmonology (IP) uses minimally invasive techniques to diagnose, treat, and palliate advanced lung disease. Technology, formal training, and reimbursement for IP procedures have lagged other interventional subspecialties, limiting IP integration in private practice. This case study describes key aspects and challenges of building an IP program in a community-based setting. Philosophical and financial buy-in by stakeholders and regionalization of services are crucial. Our experience demonstrates that launching an IP program increases overall visits and procedural volume without cannibalizing existing practice volume, and may encourage others to provide this service in their communities.",
+    "methods": "We outline a community-based model for IP program development. A comprehensive needs assessment included evaluation of regional lung cancer prevalence and related diagnoses, and identified structural and functional gaps in coordinated thoracic care. Market analysis addressed reimbursement barriers, credentialing challenges for advanced procedures, and the role of a dedicated IP service to improve access and throughput. Economic considerations emphasized stakeholder buy-in and downstream revenue from related service lines. Procedural gap analysis evaluated demographics, thoracic service breadth, baseline referrals and procedure volume, diagnostic scope, personnel, equipment, and access to state-of-the-art care to determine whether to offer local services or refer to regional centers. The model incorporated a dedicated IP team (fellowship-trained IP physician(s), APN, RN, and administrative staff), program branding and marketing, and process workflows to target a 7-day referral-to-diagnosis interval.",
+    "results": "A community-based IP program was initiated in 2007 through cooperation between a large pulmonary practice and partner hospitals, later expanding advanced diagnostics to additional sites. Key practice indicators (procedure volume, range, complexity, and diagnoses) were tracked for quality and fiscal performance. After IP implementation, procedure volumes increased across basic and advanced bronchoscopy and pleural procedures, and IP-related E/M visits increased. Representative changes (5-year annual averages) included: EBUS 14 to 366; TBNA 58 to 363; navigational bronchoscopy 0 to 56; BAL 119 to 437; indwelling pleural catheter placement 0 to 54; thoracoscopy with biopsy/pleurodesis 0 to 38; percutaneous tracheostomy 0 to 68; PEG placement 0 to 41; and IP-related E/M volume 6755 to 17805. The IP service was separately branded to facilitate external referrals, and workflow processes supported timely evaluation and coordination without reducing other practice volumes."
+  }
+}

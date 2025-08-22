@@ -1,0 +1,2921 @@
+{
+  "total": 292,
+  "keep": 0,
+  "augment": 228,
+  "restructure": 64,
+  "re_extract": 0,
+  "details": [
+    {
+      "path": "data/oe_final_outputs/Completed extractions/3D printing for airway disease.oe_final.json",
+      "score": 25,
+      "issues": [
+        "results_without_data",
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "restructure",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/A Multicenter RCT of Zephyr Endobronchial Valv.oe_final.json",
+      "score": 75,
+      "issues": [
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/A prospective analysis of high-dose-rate endob.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/A prospective CT of EBUS compared with mediastinoscopy for staging of lung cancer.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/A Prospective Multicenter Trial of a Self-expanding Hybrid.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/A prospective, randomized trial for the comparison of 19-g and 22-g EBUS.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/A randomized study of endobronchial valves for.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/A Randomized Trial of 1% vs 2% Lignocaine by the Spray-as-You-Go Technique.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/A Systematic Review and Meta-Analysis Comparin.oe_final.json",
+      "score": 75,
+      "issues": [
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/aabip_evidence_informed_guidelines_and_expert.oe_final.json",
+      "score": 30,
+      "issues": [
+        "results_without_data",
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "restructure",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Adequacy of small biopsy and cytology for immune checkpoint inhibitor and targeted therapy.oe_final.json",
+      "score": 75,
+      "issues": [
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Advanced diagnostic and therapeutic bronchoscopy technology and reimbursement.oe_final.json",
+      "score": 75,
+      "issues": [
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Advances in IP.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Advances in pleuroscopy.oe_final.json",
+      "score": 75,
+      "issues": [
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Advantages of US in percutaneous dilatational.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Aggressive versus symptom-guided drainage of m.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Airway spray cryotherapy initial outcomes from.oe_final.json",
+      "score": 75,
+      "issues": [
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Airway stabilization with silicone stents for.oe_final.json",
+      "score": 25,
+      "issues": [
+        "results_without_data",
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "restructure",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Airway stents.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Aldaghlawi-2020-A Systematic Review of Digital.oe_final.json",
+      "score": 75,
+      "issues": [
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Alsunaid-2021-Wound care management_ tracheost.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Ambulatory management of primary spontaneous p.oe_final.json",
+      "score": 75,
+      "issues": [
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/American Brachytherapy Society consensus guide.oe_final.json",
+      "score": 25,
+      "issues": [
+        "results_without_data",
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "restructure",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Andriolo-2015-Early versus late tracheostomy f.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Anesthesia and Upper and Lower Airway.oe_final.json",
+      "score": 45,
+      "issues": [
+        "results_without_data",
+        "missing_key_findings"
+      ],
+      "recommendation": "restructure",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Anesthetic considerations for bronchoscopic procedures.oe_final.json",
+      "score": 25,
+      "issues": [
+        "results_without_data",
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "restructure",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Angel-2020-Novel Percutaneous Tracheostomy for.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Approach to hemoptysis in the modern era.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Arnold-2018-Investigating unilateral pleural e.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/ASPEN Safe Practices for Enteral Nutrition .oe_final.json",
+      "score": 25,
+      "issues": [
+        "results_without_data",
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "restructure",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Audit of the autoantibody test, EarlyCDT.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Awab-2017-Whole lung lavage-technical details.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Basic and advanced pleural procedures coding and professional fees update for pulmonologists.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Basic Bronchoscopy Technology, Techniques, and Professional Fees.oe_final.json",
+      "score": 75,
+      "issues": [
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Bhatnagar-2018-Outpatient Talc Administration.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Bhatnagar-2020-Effect of Thoracoscopic Talc Po.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Bhora-2016-Treatment of Benign Tracheal Stenos.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Bibby-2018-ERS_EACTS statement on the manageme.oe_final.json",
+      "score": 30,
+      "issues": [
+        "results_without_data",
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "restructure",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Bintcliffe-2016-The management of benign non-i.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Biopsy of peripheral lung nodules utilizing cone beam w wo TB access tool.oe_final.json",
+      "score": 75,
+      "issues": [
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/BLVR with endobronchial valves for patients wi.oe_final.json",
+      "score": 75,
+      "issues": [
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Brass-2016-Percutaneous techniques versus surg.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Breathlessness Predicts Survival in Patients W.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Bronchial Thermoplasty in Patients With Severe.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Bronchoscope-Guided Percutaneous Endoscopic Ga.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Bronchoscopes of the Twenty-First Century.oe_final.json",
+      "score": 25,
+      "issues": [
+        "results_without_data",
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "restructure",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Bronchoscopic Techniques Used in the Diagnosis and Staging of Lung Cancer.oe_final.json",
+      "score": 75,
+      "issues": [
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Bronchoscopic transparenchymal nodule access (BTPNA).oe_final.json",
+      "score": 75,
+      "issues": [
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Bronchoscopy Education An Experiential Learning Theory Perspective.oe_final.json",
+      "score": 25,
+      "issues": [
+        "results_without_data",
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "restructure",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/BTS guideline for diagnostic flexible bronchoscopy in adults.oe_final.json",
+      "score": 25,
+      "issues": [
+        "results_without_data",
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "restructure",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Central Airway Obstruction Benign Strictures.oe_final.json",
+      "score": 30,
+      "issues": [
+        "results_without_data",
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "restructure",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Chan-2021-Transbronchial microwave ablation of.oe_final.json",
+      "score": 75,
+      "issues": [
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Chen-2018-Photodynamic therapeutic ablation fo.oe_final.json",
+      "score": 30,
+      "issues": [
+        "results_without_data",
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "restructure",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Cheng-2016-Three-dimensional Printing and 3D S.oe_final.json",
+      "score": 25,
+      "issues": [
+        "results_without_data",
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "restructure",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Chhatre-2021-Survival Outcomes with Photodynam.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Clinical and quality of life outcomes vs. exte.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Clinical Success Stenting Distal Bronchi.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Clinical trial of photodynamic therapy for per.oe_final.json",
+      "score": 75,
+      "issues": [
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Clinical Utility of a Bronchial Genomic Classi.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Combined EBUS  EUS for the diagnosis and staging of lung cancer ESGE, ERS, ESTS Guideline.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Combined Nd-YAG laser HDR brachytherapy versus.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Community hospital experience using ENB integrating tidal volume computed tomography mapping.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Complete unilateral vs partial bilateral BLVR.oe_final.json",
+      "score": 75,
+      "issues": [
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Complications and discomfort of bronchoscopy a systematic review.oe_final.json",
+      "score": 75,
+      "issues": [
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Complications Following Therapeutic B.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Complications of cricothyroidotomy versus tracheostomy.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Complications, and practice patterns of EBUS  AQuIRE registry.oe_final.json",
+      "score": 75,
+      "issues": [
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/complications_of_bronchoscopy__a_concise_synopsis.oe_final.json",
+      "score": 75,
+      "issues": [
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Concurrent Intrapleural Instillation of Tissue.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Cone-beam computed tomography-guided electromagnetic navigation for peripheral lung nodules.oe_final.json",
+      "score": 75,
+      "issues": [
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/cone_beam_ct_with_augmented_fluoroscopy_combined.oe_final.json",
+      "score": 75,
+      "issues": [
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Conservative versus Interventional Treatment f.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Coping with airway emergencies_.oe_final.json",
+      "score": 25,
+      "issues": [
+        "results_without_data",
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "restructure",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Covid-19 impact on interventional pulmonology training.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Criner-2019-Improving Lung Function in Severe.oe_final.json",
+      "score": 75,
+      "issues": [
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Cryosurgery for malignant endobronchial tumors.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Cyrany-2016-Buried bumper syndrome_ A complica.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Davies-2012-Effect of an indwelling pleural ca.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Deslee-2014-Lung volume reduction coil treatme.oe_final.json",
+      "score": 75,
+      "issues": [
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Developing an IP Service in a Community Practice.oe_final.json",
+      "score": 25,
+      "issues": [
+        "results_without_data",
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "restructure",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Development of a Tool to Assess Basic Competen.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Dexmedetomidine-fentanyl versus propofol-fentanyl.oe_final.json",
+      "score": 30,
+      "issues": [
+        "results_without_data",
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "restructure",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Diagnostic accuracy of transbronchial lung cry.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Dransfield-2020-Effect of Zephyr Endobronchial.oe_final.json",
+      "score": 25,
+      "issues": [
+        "results_without_data",
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "restructure",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Dresler-2005-Phase III intergroup study of tal.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Eberhardt-2021-Endobronchial Valve (Zephyr) Tr.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/EBUS  vs conventional TBNA  in the diagnosis of sarcoidosis.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/EBUS for the Diagnosis and Subtyping of Lymphoma.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/EBUS-TBNA and EUS-FNA Risk Assessment for Clopidogrel.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/efficacy of whole lung avage.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Electromagnetic navigation bronchoscopy a comprehensive review.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Electromagnetic navigation bronchoscopy to access lung lesions in.oe_final.json",
+      "score": 75,
+      "issues": [
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/ENB for PPNs One-Year Results of the Prospective, Multicenter NAVIGATE Study.oe_final.json",
+      "score": 75,
+      "issues": [
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Endobronchial epinephrine confusion is in the air.oe_final.json",
+      "score": 25,
+      "issues": [
+        "results_without_data",
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "restructure",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Endobronchial tumor debulking with a flexible.oe_final.json",
+      "score": 75,
+      "issues": [
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Endobronchial Valve Therapy in Patients with H.oe_final.json",
+      "score": 75,
+      "issues": [
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Endobronchial Valves for Emphysema without Int.oe_final.json",
+      "score": 75,
+      "issues": [
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/endoscopic_treatment_of_bronchial_carcinoids_i.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Endosonography for mediastinal disease EUS vs EBUS.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/ERSATS statement on IP.oe_final.json",
+      "score": 25,
+      "issues": [
+        "results_without_data",
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "restructure",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Evaluating the Patient With a Pulmonary Nodule_A Review.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Evaluation of a EBUS  forceps in enlarged mediastinal lymph nodes.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Evaluation of individuals with pulmonary nodules when is it lung cancer.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Evaluation of Safety and Short-term.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/External irradiation versus external irradiati.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Fiducial marker placement with ENB.oe_final.json",
+      "score": 75,
+      "issues": [
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Financial Justification for IP Programs.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/fistula Abu-Hijleh-2019-Intrabronchial Valves for Air.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/fistula Airway Covered Metallic Stent Based on Differe.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/fistula Airway ultraflex stenting in esophageal cancer.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/fistula Bronstein-2019-Management of air leaks post-su.oe_final.json",
+      "score": 25,
+      "issues": [
+        "results_without_data",
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "restructure",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/fistula Debourdeau-2019-Endoscopic treatment of nonmal.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/fistula Fernandez-2016-Pleural gas analysis for the id.oe_final.json",
+      "score": 75,
+      "issues": [
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/fistula Fiorelli-2018-Unidirectional endobronchial val.oe_final.json",
+      "score": 75,
+      "issues": [
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/fistula Grewal-2019-Treatment of Tracheobronchial Inju.oe_final.json",
+      "score": 45,
+      "issues": [
+        "results_without_data",
+        "missing_key_findings"
+      ],
+      "recommendation": "restructure",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/fistula Herth-2010-Combined airway and oesophageal ste.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/fistula Ke-2015-The treatment strategy for tracheoesop.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/fistula Kim-2020-Management of tracheo-oesophageal fis.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/fistula Lazarus-2017-Persistent air leaks_ a review wi.oe_final.json",
+      "score": 25,
+      "issues": [
+        "results_without_data",
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "restructure",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/fistula Li-2016-Neoadjuvant therapy and risk of bronch.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/fistula Okuda-2017-Risk factor of bronchopleural fistu.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/fistula Schweigert-2019-[Interventional treatment of t.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/fistula Silon-2017-Endoscopic Management of Esophagore.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/fistula Youness-2018-Bronchoscopic advances in the man.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Flexible Bronchoscope Use by Pulmonologists.oe_final.json",
+      "score": 30,
+      "issues": [
+        "results_without_data",
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "restructure",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Flexible bronchoscopy.oe_final.json",
+      "score": 25,
+      "issues": [
+        "results_without_data",
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "restructure",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Forbearance With Bronchoscopy.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Foreign body aspiration.oe_final.json",
+      "score": 30,
+      "issues": [
+        "results_without_data",
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "restructure",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Foreign body inhalation in the adult population.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Ghattas-2021-State of the art_ percutaneous tr.oe_final.json",
+      "score": 30,
+      "issues": [
+        "results_without_data",
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "restructure",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Gomes-2015-Percutaneous endoscopic gastrostomy.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Grosu-2013-Stents are associated with increase.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Grosu-2019-Secondary spontaneous pneumothorax.oe_final.json",
+      "score": 75,
+      "issues": [
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Hartman-2021-New bronchoscopic treatment modal.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Havelock-2010-Pleural procedures and thoracic.oe_final.json",
+      "score": 75,
+      "issues": [
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Herth-2019-Endoscopic Lung Volume Reduction_ A.oe_final.json",
+      "score": 75,
+      "issues": [
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/High-dose-rate endobronchial brachytherapy eff.oe_final.json",
+      "score": 75,
+      "issues": [
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Holden-2020-Safety and Efficacy of the Tracheo.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Hooper-2010-Investigation of a unilateral pleu.oe_final.json",
+      "score": 75,
+      "issues": [
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Hu-2018-Application of the Montgomery T-tube i.oe_final.json",
+      "score": 25,
+      "issues": [
+        "results_without_data",
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "restructure",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Hu-2020-Pleural manometry_ techniques, applica.oe_final.json",
+      "score": 25,
+      "issues": [
+        "results_without_data",
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "restructure",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Iatrogenic bleeding during flexible bronchoscopy.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Improved diagnostic yield  with digital tomosynthesis ENB.oe_final.json",
+      "score": 75,
+      "issues": [
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Indications and complications of rigid broncho.oe_final.json",
+      "score": 45,
+      "issues": [
+        "results_without_data",
+        "missing_key_findings"
+      ],
+      "recommendation": "restructure",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Indwelling Pleural Catheter versus Pleurodesis.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Inhaled GM-CSF for Pulmonary Alveolar Proteino.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Inhaled TXA for Hemoptysis Treatment.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Interventional Bronchoscopy.oe_final.json",
+      "score": 75,
+      "issues": [
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Interventional pulmonology in the intensive ca.oe_final.json",
+      "score": 25,
+      "issues": [
+        "results_without_data",
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "restructure",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Intrapleural Fibrinolytic Therapy versus Early.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Intrapleural use of tissue plasminogen activat.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/IP Fellowship Accreditation Standards.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Jayadevappa-2019-Outcomes of patients with adv.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Jet Ventilation during Rigid Bronchoscopy in Adults.oe_final.json",
+      "score": 75,
+      "issues": [
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Kashiwabara-2021-Efficacy and safety of transb.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Kemp-2017-A Multicenter Randomized Controlled.oe_final.json",
+      "score": 75,
+      "issues": [
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Kimura-2015-Photodynamic Therapy (PDT) with Ch.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Koizumi-2015-Bronchoscopy-Guided Cooled Radiof.oe_final.json",
+      "score": 75,
+      "issues": [
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Koshy-2021-Safety of delivering bronchial ther.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Labarca-2019-Bronchoscopic Lung Volume Reducti.oe_final.json",
+      "score": 75,
+      "issues": [
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Lamb-2020-Use of Tracheostomy During the COVID.oe_final.json",
+      "score": 25,
+      "issues": [
+        "results_without_data",
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "restructure",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Li-2019-The REACH Trial_ A Randomized Controll.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Lipp-2013-Systemic antimicrobial prophylaxis f.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Ljungdahl-2006-Complication rate lower after p.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Local determinants of response to endobronchia.oe_final.json",
+      "score": 30,
+      "issues": [
+        "results_without_data",
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "restructure",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Lung nodule during COVID.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/LungRADSAssessmentCategoriesv1-1.oe_final.json",
+      "score": 25,
+      "issues": [
+        "results_without_data",
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "restructure",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Majid-2020-Efficacy of the Spiration Valve Sys.oe_final.json",
+      "score": 75,
+      "issues": [
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Management of Benign Pleural Effusions Using I.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Management of life-threatening hemoptysis in the ICU.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Management of Malignant Pleural Effusions.oe_final.json",
+      "score": 45,
+      "issues": [
+        "results_without_data",
+        "missing_key_findings"
+      ],
+      "recommendation": "restructure",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Management of significant airway bleeding during robotic assisted bronchoscopy a tailored approach.oe_final.json",
+      "score": 45,
+      "issues": [
+        "results_without_data",
+        "missing_key_findings"
+      ],
+      "recommendation": "restructure",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/management-of-incidental-pulmonary-nodule-fleischner.oe_final.json",
+      "score": 25,
+      "issues": [
+        "results_without_data",
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "restructure",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Mechanical properties of different airway sten.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Metallic Endobronchial Stents A Contemporary R.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Moderate sedation changes for bronchoscopy in 2017.oe_final.json",
+      "score": 25,
+      "issues": [
+        "results_without_data",
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "restructure",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Multidetector CT evaluation of tracheobronchom.oe_final.json",
+      "score": 30,
+      "issues": [
+        "results_without_data",
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "restructure",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/NCCN lung_screening.oe_final.json",
+      "score": 25,
+      "issues": [
+        "results_without_data",
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "restructure",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Nd-YAG laser vs bronchoscopic electrocautery.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/nd__yag_laser_therapy_in_lung_cancer__an_11_year.6.oe_final.json",
+      "score": 75,
+      "issues": [
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Novel bronchoscopic management of airway bleeding with absorbable gelatin and thrombin slurry.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Occupational adverse effects and protective factors in bronchoscopy .oe_final.json",
+      "score": 25,
+      "issues": [
+        "results_without_data",
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "restructure",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Operating Room Fires.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Ost-2014-Quality-adjusted survival following t.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Ost-2018-Quality Gaps and Comparative Effectiv.oe_final.json",
+      "score": 75,
+      "issues": [
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Palliative Care and Interventional Pulmonology.oe_final.json",
+      "score": 45,
+      "issues": [
+        "results_without_data",
+        "missing_key_findings"
+      ],
+      "recommendation": "restructure",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Percutaneous Dilational Tracheostomy 2018.oe_final.json",
+      "score": 30,
+      "issues": [
+        "results_without_data",
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "restructure",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Percutaneous dilational tracheostomy.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Percutaneous endoscopic gastrostomy. Indicatio.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Percutaneous radiologic gastrostomy versus per.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/percutaneous_endoscopic_gastrostomy__a_practic.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Performance, long-term management, and coding for percutaneous dilational tracheostomy.oe_final.json",
+      "score": 25,
+      "issues": [
+        "results_without_data",
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "restructure",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Physiologic Evaluation of the Patient With Lung Cancer.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Pleural controversy  Closed needle pleural bio.oe_final.json",
+      "score": 75,
+      "issues": [
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Pleural Cryobiopsy A Systematic Review and Met.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Pleural Interventions in the Management of Hep.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Potentially fatal arrhythmia complicating endobronchial epinephrine.oe_final.json",
+      "score": 25,
+      "issues": [
+        "results_without_data",
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "restructure",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Preoperative endobronchial photodynamic therap.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Prospective study to determine the volume of p.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Rahman-2015-Effect of Opioids vs NSAIDs and La.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Rahnemai-Azar-2014-Percutaneous endoscopic gas.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Randomized Trial of Pleural Fluid Drainage Fre.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Rashid-2017-Percutaneous tracheostomy_ a compr.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/RCT of EBUS with and without aspiration.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Reichle-2000-[Argon plasma coagulation in bron.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Respiratory infections increase the r.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Results of long-term follow-up of photodynamic.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Richter-Schrag-2011-Risk factors and complicat.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Rigid bronchoscopy and silicone st.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Rigid Bronchoscopy.oe_final.json",
+      "score": 25,
+      "issues": [
+        "results_without_data",
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "restructure",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/RigidMiniThoracoscopyVersusSemirigid_Thoracoscopy.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Risks of and recommendations for flexible bronchoscopy in pregnancy.oe_final.json",
+      "score": 25,
+      "issues": [
+        "results_without_data",
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "restructure",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Roberts-2010-Management of a malignant pleural.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Robot assisted bronchoscopy for pulmonary lesion diagnosis.oe_final.json",
+      "score": 75,
+      "issues": [
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Robotic bronchoscopy for pulmonary lesions a review of existing technologies and clinical data.oe_final.json",
+      "score": 75,
+      "issues": [
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Robotic bronchoscopy pilot and feasibility study (Benefit).oe_final.json",
+      "score": 75,
+      "issues": [
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Role of Montgomery T-tube stent for laryngotra.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Romagnoli-2019-Poor Concordance between Sequen2.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/ROSE during EBUS  for diagnosing lung cancer a randomized study.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/ROSE during EBUS for nodal staging in patients with lung cancer.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Routine monitoring with pleural manometry duri.oe_final.json",
+      "score": 75,
+      "issues": [
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Ruigrok-2020-Digital versus analogue chest dra.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Safety and effectiveness of microdebrider bron.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Safety and Efficacy of a Fully Cov.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Safety and feasibility of interventional pulmo.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Safety of endoscopic gastrostomy tube placemen.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Safety of flexible bronchoscopy in patients with  pulmonary hypertension.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/safety_and_clinical_utility_of_flexible.3.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Sanabria-2014-Which percutaneous tracheostomy.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Sedation in Bronchoscopy.oe_final.json",
+      "score": 25,
+      "issues": [
+        "results_without_data",
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "restructure",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Senitko-2019-Safety and Tolerability of Vacuum.oe_final.json",
+      "score": 45,
+      "issues": [
+        "results_without_data",
+        "missing_key_findings"
+      ],
+      "recommendation": "restructure",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Sensitivity and safety of ENB systematic review and meta-analysis.oe_final.json",
+      "score": 75,
+      "issues": [
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Shape-Sensing Robotic vs Tomo ENB.oe_final.json",
+      "score": 75,
+      "issues": [
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Shi-2014-Outcome and safety of the Montgomery.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Shojaee-2019-Indwelling Tunneled Pleural Cathe.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Silvestri-2018-Assessment of Plasma Proteomics.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Slebos-2018-Endobronchial Coils for Endoscopic.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/State of the Art IP.oe_final.json",
+      "score": 75,
+      "issues": [
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/State-of-the-Art Modalities for Peripheral Lung Nodule Biopsy.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Steinfort-2021-Bronchoscopic Thermal Vapour Ab.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Study Design and Rationale ENB and ETN  ALL IN ONE Trial.oe_final.json",
+      "score": 30,
+      "issues": [
+        "results_without_data",
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "restructure",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Sullivan-2021-Earlier diagnosis of lung cancer.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/surigicalLVR A randomized trial comparing lung-volume-reduc.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/surigicalLVR Decker-2014-Lung volume reduction surgery sinc.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/surigicalLVR Lung Volume Reduction Surgery on Extracorporea.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/surigicalLVR Rationale and design of The NETT Trial.oe_final.json",
+      "score": 30,
+      "issues": [
+        "results_without_data",
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "restructure",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Survival in COPD patients treated with broncho.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Technical aspects and outcomes of tracheobronc.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Technical Aspects of EBUS  CHEST Guideline and Expert Panel Report.oe_final.json",
+      "score": 30,
+      "issues": [
+        "results_without_data",
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "restructure",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Tedde-2011-A new technique for T-tube insertio.oe_final.json",
+      "score": 25,
+      "issues": [
+        "results_without_data",
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "restructure",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/The application of cryosurgery in the treatmen.oe_final.json",
+      "score": 75,
+      "issues": [
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/The Art of Rigid Bronchoscopy and Airway Stent.oe_final.json",
+      "score": 30,
+      "issues": [
+        "results_without_data",
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "restructure",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/The Business of Bronchoscopy.oe_final.json",
+      "score": 25,
+      "issues": [
+        "results_without_data",
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "restructure",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/The business of interventional pulmonology.oe_final.json",
+      "score": 25,
+      "issues": [
+        "results_without_data",
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "restructure",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/The Business of IP.oe_final.json",
+      "score": 25,
+      "issues": [
+        "results_without_data",
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "restructure",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/The death of a healthy volunteer in a human research project  implications for.oe_final.json",
+      "score": 25,
+      "issues": [
+        "results_without_data",
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "restructure",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/The Diagnosis and Management of Airway\u00a0Complic.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/The Evolutional History of ENB State of the Art.oe_final.json",
+      "score": 75,
+      "issues": [
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/The heat is on impact of endobronchial electro.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/The Impact of Gravity vs\u00a0Suction-driven Therap.oe_final.json",
+      "score": 75,
+      "issues": [
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/The relationship between chest tube size and c.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/The role of bronchoscopy in the diagnosis of airway disease.oe_final.json",
+      "score": 75,
+      "issues": [
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/The use of electrocautery as the primary ablat.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/The utility of bronchoscopy in immunocompromised patients.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Therapeutic bronchoscopy for malignan.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Thomas-2017-Effect of an Indwelling Pleural Ca.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Towards an optimization of bronchoscopic approaches to the PPN.oe_final.json",
+      "score": 75,
+      "issues": [
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Tracheal stent buckling and in-stent stenosis.oe_final.json",
+      "score": 25,
+      "issues": [
+        "results_without_data",
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "restructure",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Tracheobronchomalacia and excessive dynamic ai.oe_final.json",
+      "score": 25,
+      "issues": [
+        "results_without_data",
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "restructure",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Tracheomalacia and tracheobronchomalacia in ch.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Training in interventional pulmonology the European and US perspective.oe_final.json",
+      "score": 25,
+      "issues": [
+        "results_without_data",
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "restructure",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Tranexamic acid vs adrenaline for controlling iatrogenic bleeding during flexible bronchoscopy.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Transbronchial Cryobiopsy for the Diagnosis of.oe_final.json",
+      "score": 75,
+      "issues": [
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Transbronchial cryobiopsy n ILD.oe_final.json",
+      "score": 75,
+      "issues": [
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Transbronchial Lung Cryobiopsy and Video-assis.oe_final.json",
+      "score": 75,
+      "issues": [
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Treatment of Pulmonary Carcinoid Tumors.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Ultrasound-Guided Percutaneous Dilational Trac.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Understanding the economic impact of introducing a new procedure.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Unimodality and Multimodality Cryodebridement.oe_final.json",
+      "score": 75,
+      "issues": [
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Update on tracheobronchial anatomy and flexible fiberoptic bronchoscopy in thoracic anesthesia.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Use of fibrinolytics and deoxyribonuclease in.oe_final.json",
+      "score": 30,
+      "issues": [
+        "results_without_data",
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "restructure",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Valipour-2014-Expert statement_ pneumothorax a.oe_final.json",
+      "score": 75,
+      "issues": [
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Valipour-2020-Bronchial Rheoplasty for Treatme.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Valipour-2020-Two-Year Outcomes for the Double.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Value of Antibiotic Prophylaxis for Percutaneo.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Value-Based Proposition for a Dedicated IP suite.oe_final.json",
+      "score": 25,
+      "issues": [
+        "results_without_data",
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "restructure",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Variable Learning Curve of Basic.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Walker-2021-Ambulatory management of secondary.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/What is the value of electromagnetic navigation in lung cancer and to what extent does it require improvement .oe_final.json",
+      "score": 75,
+      "issues": [
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Xie-2022-Microwave ablation via a flexible cat.oe_final.json",
+      "score": 75,
+      "issues": [
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Yuan-2016-Percutaneous endoscopic gastrostomy.oe_final.json",
+      "score": 25,
+      "issues": [
+        "results_without_data",
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "restructure",
+      "has_gpt5": false
+    },
+    {
+      "path": "data/oe_final_outputs/Completed extractions/Zhao-2015-Whole Lung Lavage Treatment of Chine.oe_final.json",
+      "score": 55,
+      "issues": [
+        "missing_complications",
+        "missing_key_findings"
+      ],
+      "recommendation": "augment",
+      "has_gpt5": false
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "pneumothorax": {
+    "increases": [
+      "Underlying emphysema",
+      "Crossing fissures",
+      "Larger needle or balloon size"
+    ],
+    "decreases": [
+      "Coaxial technique",
+      "Careful balloon sizing",
+      "Avoid wire-only placement"
+    ],
+    "notes": "Rare complication; can be minimized by careful technique and preoxygenation."
+  },
+  "airway_laceration": {
+    "increases": [
+      "High inflation pressure",
+      "Rigid/fibrotic stenosis",
+      "Post-tuberculosis stenosis"
+    ],
+    "decreases": [
+      "Serial graded dilation",
+      "Using nonconformal balloons"
+    ],
+    "notes": "Paradoxically associated with longer-term patency in TB-related stenosis."
+  },
+  "bleeding": {
+    "increases": [
+      "Friable tumor",
+      "Inflammatory stenosis"
+    ],
+    "decreases": [
+      "Gentle, incremental inflation"
+    ],
+    "notes": "Usually mild and self-limited."
+  },
+  "mediastinitis": {
+    "increases": [
+      "Deep airway laceration with contamination"
+    ],
+    "decreases": [
+      "Prompt recognition of perforation"
+    ],
+    "notes": "Extremely rare but severe complication."
+  }
+}
